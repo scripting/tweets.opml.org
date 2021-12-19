@@ -1,10 +1,10 @@
 # tweets.opml.org
 
-A directory of tweets.opml files for people using tweets.opml.org.
+A <a href="https://github.com/scripting/tweets.opml.org/tree/main/users">directory</a> of tweets.opml files for people using tweets.opml.org.
 
 ### Background
 
-For people who were part of the initial Drummer test group this will be familiar. It was initially developed inside Drummer, but I figured out that it would work better if it ran on a server, so I punted on the feature, to get back to it after the product shipped.
+For people who were part of the initial <a href="http://drummer.scripting.com/">Drummer</a> test group this will be familiar. It was initially developed inside Drummer, but I figured out that it would work better if it ran on a server, so I punted on the feature, to get back to it after the product shipped.
 
 Here was the initial <a href="http://scripting.com/drummer/blog/2021/09/19/164624.html?title=newFeatureTweetsopml">announcement</a>. 
 
@@ -36,7 +36,7 @@ Next time you tweet, after as much as three minutes (that's the interval between
 
 ### Questions/suggestions
 
-There are still a few things I want to add to this, but the service is fairly complete. I think it works. But in case it doesn't or if you just want to ask questions about the design, or what it can be used for, I started a <a href="https://github.com/scripting/drummerSupport/issues/130">thread</a> on the Support site. 
+There are still a few things I want to add to this, but the service is fairly complete. I think it works. But in case it doesn't or if you just want to ask questions about the design, or what it can be used for, I started a <a href="https://github.com/scripting/drummerSupport/issues/130">thread</a> on the Drummer support site. 
 
 Hope you like it!
 
