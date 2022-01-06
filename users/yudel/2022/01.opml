@@ -6,11 +6,22 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/yudel/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 06 Jan 2022 17:11:49 GMT</dateModified>
+		<dateModified>Thu, 06 Jan 2022 17:17:04 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="January 2022" type="calendarMonth" name="january2022" >
 			<outline text="January 6" type="calendarDay" name="06" >
+				<outline text="I've been thinking about this. &lt;a href=&quot;https://t.co/W8dHYdXRxU&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 06 Jan 2022 17:11:50 GMT" tweetId="1479138652039139330" urltweet="https://twitter.com/yudel/status/1479138652039139330" inReplyToId="" tweetUserName="yudel" >
+					<outline text="One explanation is that AWS seems -- as an outsider reading the tweets over the years of people who have used it -- decidedly user unfriendly. Possibly because of its corporate origins as an internal tool." type="tweet" created="Thu, 06 Jan 2022 17:12:34 GMT" tweetId="1479138839021162498" urltweet="https://twitter.com/yudel/status/1479138839021162498" inReplyToId="1479138652039139330" tweetUserName="yudel" >
+						<outline text="The more interesting question is whether someone could develop a storage-as-a-service that could rely on various backends, rotating between AWS and Google Cloud and others as necessary." type="tweet" created="Thu, 06 Jan 2022 17:13:23 GMT" tweetId="1479139041434083334" urltweet="https://twitter.com/yudel/status/1479139041434083334" inReplyToId="1479138839021162498" tweetUserName="yudel" >
+							<outline text="My webhost, @SiteGround, ditched their hardware a couple years back and are, from one angle, just Google cloud resellers." type="tweet" created="Thu, 06 Jan 2022 17:13:56 GMT" tweetId="1479139182882787329" urltweet="https://twitter.com/yudel/status/1479139182882787329" inReplyToId="1479139041434083334" tweetUserName="yudel" >
+								<outline text="@SiteGround From another angle, they're working to provide value added, including good real time 24-7 customer support (which keeps breaking my oldschool expectation that I should first try debugging it myself) and customizing the Word Press experience." type="tweet" created="Thu, 06 Jan 2022 17:15:07 GMT" tweetId="1479139478329569284" urltweet="https://twitter.com/yudel/status/1479139478329569284" inReplyToId="1479139182882787329" tweetUserName="yudel" >
+									<outline text="@SiteGround Can somebody make a profit by reselling cloud storage space and also providing customer handholding and the necessary interface with legal takedown notices?" type="tweet" created="Thu, 06 Jan 2022 17:16:50 GMT" tweetId="1479139911504695302" urltweet="https://twitter.com/yudel/status/1479139911504695302" inReplyToId="1479139478329569284" tweetUserName="yudel" />
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Boosting my colleague's story about Touro going big on Times Square for the insight it shows on the trajectory of post-covid Manhattan. &lt;a href=&quot;https://t.co/6x32WWtBgG&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 06 Jan 2022 17:04:20 GMT" tweetId="1479136764073807883" urltweet="https://twitter.com/yudel/status/1479136764073807883" tweetUserName="yudel" >
 					<outline text="Our success at the @JewishStandard  in going virtual shows the huge unforced error the Jewish Week made in not quitting its decades-long prime Times Square location when it could have made a difference to its bottom line." type="tweet" created="Thu, 06 Jan 2022 17:06:04 GMT" tweetId="1479137202500218884" urltweet="https://twitter.com/yudel/status/1479137202500218884" inReplyToId="1479136764073807883" tweetUserName="yudel" >
 						<outline text="@JewishStandard On the other hand, there are service industries like universities ready to fill its space." type="tweet" created="Thu, 06 Jan 2022 17:06:41 GMT" tweetId="1479137356473061382" urltweet="https://twitter.com/yudel/status/1479137356473061382" inReplyToId="1479137202500218884" tweetUserName="yudel" />
