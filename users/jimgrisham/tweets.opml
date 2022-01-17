@@ -6,10 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/jimgrisham/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sun, 16 Jan 2022 18:06:18 GMT</dateModified>
+		<dateModified>Mon, 17 Jan 2022 15:12:55 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="January 2022" type="calendarMonth" name="january2022" >
+			<outline text="January 17" type="calendarDay" name="17" >
+				<outline text="@dwijnand @olafurpg That’s functional but not ideal? (and probably depends on the mechanics of the scrolling mechanism; also on if scrolling would be annoyance vs hinderance)
+
+(Compare with some poor HTML5/JS/Electron that simply truncates short lines _without allowing scrolling or zooming at all_.)" type="tweet" created="Mon, 17 Jan 2022 15:09:43 GMT" tweetId="1483094186542915584" urltweet="https://twitter.com/jimgrisham/status/1483094186542915584" inReplyToId="1483076595439054857" tweetUserName="jimgrisham" />
+				</outline>
 			<outline text="January 16" type="calendarDay" name="16" >
 				<outline text="@dwijnand @olafurpg How about ‘functional for all’?" type="tweet" created="Sun, 16 Jan 2022 18:02:27 GMT" tweetId="1482775270763413505" urltweet="https://twitter.com/jimgrisham/status/1482775270763413505" inReplyToId="1482415857787715587" tweetUserName="jimgrisham" />
 				</outline>
