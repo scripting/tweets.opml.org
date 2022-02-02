@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/davewiner/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Wed, 02 Feb 2022 18:19:55 GMT</dateModified>
+		<dateModified>Wed, 02 Feb 2022 18:28:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
 			<outline text="February 2" type="calendarDay" name="02" >
-				<outline text="Is there a nice open source JavaScript clone of Wordle? By nice I mean: 1. It covers all the functionality of the original. 2. The code is clearly written, not obfuscated, easy to build on. No amazing JS tricks, just straight boring code." type="tweet" created="Wed, 02 Feb 2022 18:11:56 GMT" tweetId="1488938249678696449" urltweet="https://twitter.com/davewiner/status/1488938249678696449" inReplyToId="" tweetUserName="davewiner" >
+				<outline text="@wmf that is one of the best lines ever. 
+
+so wes are you a belter or an earther?" type="tweet" created="Wed, 02 Feb 2022 18:21:33 GMT" tweetId="1488940669070680067" urltweet="https://twitter.com/davewiner/status/1488940669070680067" inReplyToId="1488939510645891075" tweetUserName="davewiner" />
+				<outline text="Is there a nice open source JavaScript clone of Wordle? By nice I mean: 1. It covers all the functionality of the original. 2. The code is clearly written, not obfuscated, easy to build on. No amazing JS tricks, just straight boring code." type="tweet" created="Wed, 02 Feb 2022 18:11:56 GMT" tweetId="1488938249678696449" urltweet="https://twitter.com/davewiner/status/1488938249678696449" tweetUserName="davewiner" >
 					<outline text="I'd like to add a simple back-end, to automatically save your history, publish an RSS feed. Easily integratable into a community. Back-end is open source Node app. 
 
 I'll just operate a server a few Wordler friends. A labor of love like the original app." type="tweet" created="Wed, 02 Feb 2022 18:16:47 GMT" tweetId="1488939471429152775" urltweet="https://twitter.com/davewiner/status/1488939471429152775" inReplyToId="1488938249678696449" tweetUserName="davewiner" />
