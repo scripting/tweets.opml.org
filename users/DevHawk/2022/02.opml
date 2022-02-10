@@ -6,10 +6,21 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 08 Feb 2022 17:02:56 GMT</dateModified>
+		<dateModified>Thu, 10 Feb 2022 20:08:44 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 10" type="calendarDay" name="10" >
+				<outline text="ICYMI, winget still ... not great. Now I'm having issues with the Windows PC Health Check app.
+
+According to winget, I have v3.2.2110.14001 installed and v3.3.2110.22002 is available. upgrade --all downloads and runs an msi, but winget still reports upgrade available." type="tweet" created="Thu, 10 Feb 2022 20:06:58 GMT" tweetId="1491866301316284418" urltweet="https://twitter.com/DevHawk/status/1491866301316284418" inReplyToId="" tweetUserName="DevHawk" >
+					<outline text="PC Health Check about box shows it's been updated to 3.3.2110.22002 already, even if winget seems to think it's not. &lt;a href=&quot;https://t.co/kWSIBDsbXa&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 10 Feb 2022 20:06:59 GMT" tweetId="1491866304214548489" urltweet="https://twitter.com/DevHawk/status/1491866304214548489" inReplyToId="1491866301316284418" tweetUserName="DevHawk" >
+						<outline text="Plus PowerToys popped up a dialog saying v0.55.2 update was available...right after winget installed (checks notes) v0.55.1. 
+
+So winget mistakenly thinks PC Health Check has not been updated when it has AND it also mistakenly thinks PowerToys is up to date when it is not." type="tweet" created="Thu, 10 Feb 2022 20:06:59 GMT" tweetId="1491866306085199873" urltweet="https://twitter.com/DevHawk/status/1491866306085199873" inReplyToId="1491866304214548489" tweetUserName="DevHawk" />
+						</outline>
+					</outline>
+				</outline>
 			<outline text="February 8" type="calendarDay" name="08" >
 				<outline text="@tillig I've been meaning to experiment with Plex. Thanks for the suggestion" type="tweet" created="Tue, 08 Feb 2022 16:57:27 GMT" tweetId="1491093831391260672" urltweet="https://twitter.com/DevHawk/status/1491093831391260672" inReplyToId="1491072495247835137" tweetUserName="DevHawk" />
 				<outline text="@vstuart Still appreciated" type="tweet" created="Tue, 08 Feb 2022 16:56:53 GMT" tweetId="1491093691359920133" urltweet="https://twitter.com/DevHawk/status/1491093691359920133" inReplyToId="1491076295836327937" tweetUserName="DevHawk" />
