@@ -1,6 +1,10 @@
 # tweets.opml.org
 
-A free service that keeps an archive of your tweets in machine-readable form on GitHub. You don't have to install any software. It's all done on my server, which I'm running as part of a bootstrap.  You can help by signing up.
+A free <a href="http://tweets.opml.org/">service</a> that keeps an archive of your tweets in machine-readable form on GitHub. 
+
+You don't have to install any software. It's all done on my server, which I'm running as part of a bootstrap. 
+
+You can help by signing up.
 
 ### Getting started
 
