@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 10 Feb 2022 23:39:55 GMT"
+            "dateModified": "Fri, 11 Feb 2022 17:10:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@johnastoehr @GravelInstitute Bin Laden was in Pakistan. \nHow much do we still give to the Pakistan gov't and army that protected Bin Laden?",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 17:09:57 GMT",
+                                    "tweetId": "1492184141634457601",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1492184141634457601",
+                                    "inReplyToId": "1492177331519172608",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 10",
                             "type": "calendarDay",
