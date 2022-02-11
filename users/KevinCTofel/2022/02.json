@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 01:51:19 GMT"
+            "dateModified": "Fri, 11 Feb 2022 06:55:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Why doesn't the new Samsung Galaxy Tab S8 run Chrome OS? It would make for a great 2-in-1 Chromebook. <a href=\"https://t.co/N3Sr5b9vGu\">[link]</a> https://t.co/auaFtZ9aGW",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 06:50:03 GMT",
+                                    "tweetId": "1492028140306243625",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1492028140306243625",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 10",
                             "type": "calendarDay",
