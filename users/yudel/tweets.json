@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 00:20:13 GMT"
+            "dateModified": "Fri, 11 Feb 2022 00:29:14 GMT"
         },
         "body": {
             "subs": [
@@ -35,7 +35,38 @@
                                             "tweetId": "1491928954428702727",
                                             "urltweet": "https://twitter.com/yudel/status/1491928954428702727",
                                             "inReplyToId": "1491928616069963778",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "I know a little bit about the state of the art because my stepdaughter is a neuroscientist with a postdoc. Her research is about connecting brain circuitry to behavior. Brain circuits involve huge quantities of cells — it’s a far cry from offloading memories to chips.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 11 Feb 2022 00:21:10 GMT",
+                                                    "tweetId": "1491930274179039235",
+                                                    "urltweet": "https://twitter.com/yudel/status/1491930274179039235",
+                                                    "inReplyToId": "1491928954428702727",
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "On the other hand, Jeffrey Epstein and Elizabeth Holmes have shown that rich are gullible.",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 11 Feb 2022 00:22:21 GMT",
+                                                            "tweetId": "1491930568887615509",
+                                                            "urltweet": "https://twitter.com/yudel/status/1491930568887615509",
+                                                            "inReplyToId": "1491930274179039235",
+                                                            "tweetUserName": "yudel"
+                                                        },
+                                                        {
+                                                            "text": "So while obviously any alleged ethical lapses by Elon’s pet scientist should be investigated and prosecuted, I’m not going to waste time reading thinkpieces on the implications of the promised technology because we’re not there yet.",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 11 Feb 2022 00:24:04 GMT",
+                                                            "tweetId": "1491931003211989016",
+                                                            "urltweet": "https://twitter.com/yudel/status/1491931003211989016",
+                                                            "inReplyToId": "1491930274179039235",
+                                                            "tweetUserName": "yudel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
