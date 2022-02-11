@@ -1,0 +1,54 @@
+{
+    "opml": {
+        "head": {
+            "title": "Surfy tweets",
+            "dateCreated": "Tue, 25 Jan 2022 19:17:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 11 Feb 2022 23:27:56 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "February 2022",
+                    "type": "calendarMonth",
+                    "name": "february2022",
+                    "subs": [
+                        {
+                            "text": "February 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@packyM You are suggesting that it makes no difference which team is doing the execution.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 23:21:59 GMT",
+                                    "tweetId": "1492277766389067778",
+                                    "urltweet": "https://twitter.com/Surfy/status/1492277766389067778",
+                                    "inReplyToId": "1492266581728051204",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "February 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Laguna Beach Emerald Fire from the front lines 6am. <a href=\"https://t.co/OKQ2oFYvYc\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Thu, 10 Feb 2022 20:46:00 GMT",
+                                    "tweetId": "1491876124095234062",
+                                    "urltweet": "https://twitter.com/Surfy/status/1491876124095234062",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
