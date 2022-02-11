@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 00:54:15 GMT"
+            "dateModified": "Fri, 11 Feb 2022 01:13:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@KevinCTofel Excellent.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 01:06:38 GMT",
+                                    "tweetId": "1491941715569168386",
+                                    "urltweet": "https://twitter.com/davewiner/status/1491941715569168386",
+                                    "inReplyToId": "1491939831571783684",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I can’t get any help from @apple. I bought a $1300 phone from them on January 27. I’ve talked with them on the phone for hours.They can’t deliver the phone and refuse to give me a refund. A company that used to be great at customer service.",
                                     "type": "tweet",
