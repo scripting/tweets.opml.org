@@ -1,0 +1,229 @@
+{
+    "opml": {
+        "head": {
+            "title": "DevHawk tweets",
+            "dateCreated": "Mon, 20 Dec 2021 21:35:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 11 Feb 2022 22:19:22 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "February 2022",
+                    "type": "calendarMonth",
+                    "name": "february2022",
+                    "subs": [
+                        {
+                            "text": "February 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "I resolved my winget / PC Health Check upgrade issue by uninstalling PC Health Check via uninstall UI in settings app. For some reason, there were TWO copies of PC Health Check installed, which apparently confused winget to the point of being unable to update or uninstall either",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 22:16:29 GMT",
+                                    "tweetId": "1492261282312966146",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1492261282312966146",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "winget: still not quite ready for prime time",
+                                            "type": "tweet",
+                                            "created": "Fri, 11 Feb 2022 22:16:29 GMT",
+                                            "tweetId": "1492261283499954176",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1492261283499954176",
+                                            "inReplyToId": "1492261282312966146",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "February 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "ICYMI, winget still ... not great. Now I'm having issues with the Windows PC Health Check app.\n\nAccording to winget, I have v3.2.2110.14001 installed and v3.3.2110.22002 is available. upgrade --all downloads and runs an msi, but winget still reports upgrade available.",
+                                    "type": "tweet",
+                                    "created": "Thu, 10 Feb 2022 20:06:58 GMT",
+                                    "tweetId": "1491866301316284418",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1491866301316284418",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "PC Health Check about box shows it's been updated to 3.3.2110.22002 already, even if winget seems to think it's not. <a href=\"https://t.co/kWSIBDsbXa\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Thu, 10 Feb 2022 20:06:59 GMT",
+                                            "tweetId": "1491866304214548489",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1491866304214548489",
+                                            "inReplyToId": "1491866301316284418",
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "Plus PowerToys popped up a dialog saying v0.55.2 update was available...right after winget installed (checks notes) v0.55.1. \n\nSo winget mistakenly thinks PC Health Check has not been updated when it has AND it also mistakenly thinks PowerToys is up to date when it is not.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 10 Feb 2022 20:06:59 GMT",
+                                                    "tweetId": "1491866306085199873",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1491866306085199873",
+                                                    "inReplyToId": "1491866304214548489",
+                                                    "tweetUserName": "DevHawk"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "February 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@tillig I've been meaning to experiment with Plex. Thanks for the suggestion",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Feb 2022 16:57:27 GMT",
+                                    "tweetId": "1491093831391260672",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1491093831391260672",
+                                    "inReplyToId": "1491072495247835137",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@vstuart Still appreciated",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Feb 2022 16:56:53 GMT",
+                                    "tweetId": "1491093691359920133",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1491093691359920133",
+                                    "inReplyToId": "1491076295836327937",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "February 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "This is why Windows Runtime exists. <a href=\"https://t.co/MzpT9owkTD\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 22:25:03 GMT",
+                                    "tweetId": "1490813889201590275",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490813889201590275",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "I was the original dev for App Execution Aliases. So I was able to point @jandedobbeleer in the right direction to make #ohmyposh work with the Windows Store version of Python.\n\nNo biggie, just helping out the @golang community without actually being a @golang dev 🤣🤣🤣 <a href=\"https://t.co/5tjzEe5SJD\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 22:24:34 GMT",
+                                    "tweetId": "1490813766111412228",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490813766111412228",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@davemangot @TIDAL I can wrangle python",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 17:15:11 GMT",
+                                    "tweetId": "1490735906172530691",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490735906172530691",
+                                    "inReplyToId": "1490734661487579140",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@davemangot @TIDAL Doesn't @tidal already have a playlist import feature?",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 15:25:22 GMT",
+                                    "tweetId": "1490708269626581000",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490708269626581000",
+                                    "inReplyToId": "1490703460039155721",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@patrickallmond You know, I'm not allergic to hearing the word \"Apple\" . I got Jules an iPhone last fall and I've have a Mac mini on my desk at work for years (tho I rarely use it).",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 14:50:59 GMT",
+                                    "tweetId": "1490699619617050626",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490699619617050626",
+                                    "inReplyToId": "1490692547471200259",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@somniumwave @schlummer2k @TIDAL Well, we can. I mean there had to be a local music player app on modern mobile platforms right?\n\nBut having access to most music without having to rip CDs is just way too convenient to give up. It's been forever since I bought physical media and I don't want to go back now",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 06:34:30 GMT",
+                                    "tweetId": "1490574673578377216",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490574673578377216",
+                                    "inReplyToId": "1490572181549592579",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@schlummer2k @somniumwave @TIDAL @HumswapNeo I don't think that let's me upload my own music (though playlist import is a nice feature to have)",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 06:32:01 GMT",
+                                    "tweetId": "1490574048274706433",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490574048274706433",
+                                    "inReplyToId": "1490572870195494914",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@somniumwave Cc @schlummer2k what about custom tracks on @TIDAL? I have some music from old friends bands that isn't available on any streaming service. I used to use Groove Music from MSFT ('natch) and I loved the OneDrive integration. Spotify has limited support for this, but it's a PITA",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 06:20:00 GMT",
+                                    "tweetId": "1490571026186399745",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490571026186399745",
+                                    "inReplyToId": "1490569387257958407",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@schlummer2k @TIDAL Thanks for the suggestion",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 06:10:28 GMT",
+                                    "tweetId": "1490568626692247553",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490568626692247553",
+                                    "inReplyToId": "1490567653760638976",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "I'm looking for music service other than fucking Spotify? Suggestions?\n\nPreferably something with a family plan, the ability to host custom tracks and doesn't fund a misogynistic racist asshole to the tune of $100 million.",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Feb 2022 05:56:25 GMT",
+                                    "tweetId": "1490565089258192897",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490565089258192897",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "February 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@jezell Disagree. I liked the story BoBF was telling. Plenty of interesting stuff going on (that train heist!) plus lots of nostalgia hits (Hutts! a Rancor!). But then they pause to show Mando restore a spaceship and Luke train Baby Yoda? Save that for Mandolorian S3",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Feb 2022 15:44:35 GMT",
+                                    "tweetId": "1490350717340581889",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490350717340581889",
+                                    "inReplyToId": "1490190278812069890",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "There sure hasn't been much Boba Fett on the last couple episodes of &lt;checks notes&gt; the Book of Boba Fett TV show. <a href=\"https://t.co/ZhM36cOgnj\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Feb 2022 05:00:47 GMT",
+                                    "tweetId": "1490188701317550080",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1490188701317550080",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
