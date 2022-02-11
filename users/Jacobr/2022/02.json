@@ -1,0 +1,55 @@
+{
+    "opml": {
+        "head": {
+            "title": "Jacobr tweets",
+            "dateCreated": "Sun, 30 Jan 2022 14:59:22 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 11 Feb 2022 12:04:28 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "February 2022",
+                    "type": "calendarMonth",
+                    "name": "february2022",
+                    "subs": [
+                        {
+                            "text": "February 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@amalec Does tick cause tock? 🕐",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 11:58:20 GMT",
+                                    "tweetId": "1492105720497541127",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1492105720497541127",
+                                    "inReplyToId": "1491502600847433730",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "February 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@HealthIT_Policy I think my dad got that email today too!  \nHe's so excited!\n(He died ~7 years ago)",
+                                    "type": "tweet",
+                                    "created": "Fri, 04 Feb 2022 18:59:44 GMT",
+                                    "tweetId": "1489675054547931140",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1489675054547931140",
+                                    "inReplyToId": "1489605283722768387",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
