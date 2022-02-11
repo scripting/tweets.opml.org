@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 13:47:50 GMT"
+            "dateModified": "Fri, 11 Feb 2022 13:58:20 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "Did anyone ever do a simple net-based spreadsheet?\n\nWhere a cell in my sheet could reference a cell in one of yours (assuming yours was public).\n\nsheet://scripting.com/stats?cell=D11\n\nThat would returns the value in my sheet called stats, cell D11.\n\nI bet they did this in Excel.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 13:49:45 GMT",
+                                    "tweetId": "1492133759675731979",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492133759675731979",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@TaylorLorenz Taylor this is why you're a force for good. Keep it up.",
                                     "type": "tweet",
