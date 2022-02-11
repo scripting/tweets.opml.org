@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 06:00:34 GMT"
+            "dateModified": "Fri, 11 Feb 2022 18:32:07 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,48 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@schwarz To be fair, he knows nothing about neuroscience and arguably far too little about Mars colonization.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 18:25:50 GMT",
+                                    "tweetId": "1492203239860756485",
+                                    "urltweet": "https://twitter.com/yudel/status/1492203239860756485",
+                                    "inReplyToId": "1492202895588139008",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@schwarz Oh, and self-driving cars.",
+                                            "type": "tweet",
+                                            "created": "Fri, 11 Feb 2022 18:26:20 GMT",
+                                            "tweetId": "1492203362372272129",
+                                            "urltweet": "https://twitter.com/yudel/status/1492203362372272129",
+                                            "inReplyToId": "1492203239860756485",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@schwarz His neuroscience claims seem to be at least 20 years premature. Not a neuroscientist myself, but a family member is a postdoc and her research which is being published in a top journal is a long way from what EM’s researcher is promising.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 11 Feb 2022 18:28:23 GMT",
+                                                    "tweetId": "1492203878871412741",
+                                                    "urltweet": "https://twitter.com/yudel/status/1492203878871412741",
+                                                    "inReplyToId": "1492203362372272129",
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@schwarz I suspect three researchers picked at random from Researchgate would say the same.",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 11 Feb 2022 18:29:15 GMT",
+                                                            "tweetId": "1492204098535501834",
+                                                            "urltweet": "https://twitter.com/yudel/status/1492204098535501834",
+                                                            "inReplyToId": "1492203878871412741",
+                                                            "tweetUserName": "yudel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "The Constitutional regime the Republican Barrett SCOTUS is teeing up will grant the Executive unlimited powers as Commander in Chief but no ability to be delegated Congressional authority for the General Welfare.  <a href=\"https://t.co/Yd2PD07qgk\">[link]</a>",
                                     "type": "tweet",
