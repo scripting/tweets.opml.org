@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 20:44:16 GMT"
+            "dateModified": "Fri, 11 Feb 2022 20:55:01 GMT"
         },
         "body": {
             "subs": [
@@ -42,7 +42,18 @@
                                     "created": "Fri, 11 Feb 2022 00:37:21 GMT",
                                     "tweetId": "1491934344306475050",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1491934344306475050",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "In response to a threat to shut down a section of downtown Toronto, we are shutting down a section of downtown Toronto. <a href=\"https://t.co/a1TXSSlqNN\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Fri, 11 Feb 2022 20:50:33 GMT",
+                                            "tweetId": "1492239655827390464",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1492239655827390464",
+                                            "inReplyToId": "1491934344306475050",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "If Twitter unblocks my developer account, I’ll make a bot that tracks the percentage of triple-jabbed Canadians. <a href=\"https://t.co/IEVNjvmcjC\">[link]</a>",
