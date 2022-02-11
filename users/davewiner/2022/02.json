@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 13:37:19 GMT"
+            "dateModified": "Fri, 11 Feb 2022 13:47:50 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@TaylorLorenz Taylor this is why you're a force for good. Keep it up.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 13:46:16 GMT",
+                                    "tweetId": "1492132882319556615",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492132882319556615",
+                                    "inReplyToId": "1492131732786597888",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@TaylorLorenz I don't like to debate on twitter, it's kind of pointless. \n\nBut -- I think the best thing journalism could do is open itself up to having the people it's supposed to be helping write a substantial portion of it. \n\nThen we'd be going somewhere.",
                                     "type": "tweet",
