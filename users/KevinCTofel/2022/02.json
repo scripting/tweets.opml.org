@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 00:54:27 GMT"
+            "dateModified": "Fri, 11 Feb 2022 01:03:46 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "Just added my tweets to this interop effort. I've been futzing with using the Twitter API to do this for a while, but mainly as a coding and learning exercise. While I continue to learn, this is a great (and likely much better) solution! <a href=\"https://t.co/FljuH0TIY3\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 00:59:09 GMT",
+                                    "tweetId": "1491939831571783684",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1491939831571783684",
+                                    "tweetUserName": "KevinCTofel"
+                                },
                                 {
                                     "text": "Just had a great video study session on #JavaScript with my fellow Palawan’s at @launchschool. 🤓 <a href=\"https://t.co/TXrmbbElaO\">[link]</a>",
                                     "type": "tweet",
