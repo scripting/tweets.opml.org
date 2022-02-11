@@ -1,0 +1,38 @@
+{
+    "opml": {
+        "head": {
+            "title": "oschettler tweets",
+            "dateCreated": "Fri, 11 Feb 2022 07:45:16 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/oschettler/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 11 Feb 2022 07:45:16 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "January 2022",
+                    "type": "calendarMonth",
+                    "name": "january2022",
+                    "subs": [
+                        {
+                            "text": "January 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "Heute ist bei uns Geburtstagsparty. Ein Programmpunkt: #Löten von #Nibblepegs #codekulturbonn <a href=\"https://t.co/Rw3mCMrGrn\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sat, 29 Jan 2022 07:59:45 GMT",
+                                    "tweetId": "1487334638301462529",
+                                    "urltweet": "https://twitter.com/oschettler/status/1487334638301462529",
+                                    "tweetUserName": "oschettler"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
