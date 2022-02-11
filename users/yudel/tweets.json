@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 04:44:30 GMT"
+            "dateModified": "Fri, 11 Feb 2022 04:54:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@trekonomics Tell me you don’t understand Ray Bradbury’s point without….",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 04:50:38 GMT",
+                                    "tweetId": "1491998085412761603",
+                                    "urltweet": "https://twitter.com/yudel/status/1491998085412761603",
+                                    "inReplyToId": "1491981867691642880",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "Literally pivoting to video. <a href=\"https://t.co/l6QJ8EhgnQ\">[link]</a>",
                                     "type": "tweet",
