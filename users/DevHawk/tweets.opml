@@ -6,14 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 10 Feb 2022 20:08:44 GMT</dateModified>
+		<dateModified>Fri, 11 Feb 2022 22:19:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 11" type="calendarDay" name="11" >
+				<outline text="I resolved my winget / PC Health Check upgrade issue by uninstalling PC Health Check via uninstall UI in settings app. For some reason, there were TWO copies of PC Health Check installed, which apparently confused winget to the point of being unable to update or uninstall either" type="tweet" created="Fri, 11 Feb 2022 22:16:29 GMT" tweetId="1492261282312966146" urltweet="https://twitter.com/DevHawk/status/1492261282312966146" inReplyToId="" tweetUserName="DevHawk" >
+					<outline text="winget: still not quite ready for prime time" type="tweet" created="Fri, 11 Feb 2022 22:16:29 GMT" tweetId="1492261283499954176" urltweet="https://twitter.com/DevHawk/status/1492261283499954176" inReplyToId="1492261282312966146" tweetUserName="DevHawk" />
+					</outline>
+				</outline>
 			<outline text="February 10" type="calendarDay" name="10" >
 				<outline text="ICYMI, winget still ... not great. Now I'm having issues with the Windows PC Health Check app.
 
-According to winget, I have v3.2.2110.14001 installed and v3.3.2110.22002 is available. upgrade --all downloads and runs an msi, but winget still reports upgrade available." type="tweet" created="Thu, 10 Feb 2022 20:06:58 GMT" tweetId="1491866301316284418" urltweet="https://twitter.com/DevHawk/status/1491866301316284418" inReplyToId="" tweetUserName="DevHawk" >
+According to winget, I have v3.2.2110.14001 installed and v3.3.2110.22002 is available. upgrade --all downloads and runs an msi, but winget still reports upgrade available." type="tweet" created="Thu, 10 Feb 2022 20:06:58 GMT" tweetId="1491866301316284418" urltweet="https://twitter.com/DevHawk/status/1491866301316284418" tweetUserName="DevHawk" >
 					<outline text="PC Health Check about box shows it's been updated to 3.3.2110.22002 already, even if winget seems to think it's not. &lt;a href=&quot;https://t.co/kWSIBDsbXa&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 10 Feb 2022 20:06:59 GMT" tweetId="1491866304214548489" urltweet="https://twitter.com/DevHawk/status/1491866304214548489" inReplyToId="1491866301316284418" tweetUserName="DevHawk" >
 						<outline text="Plus PowerToys popped up a dialog saying v0.55.2 update was available...right after winget installed (checks notes) v0.55.1. 
 
