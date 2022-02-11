@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 02:40:52 GMT"
+            "dateModified": "Fri, 11 Feb 2022 02:50:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@YehudaKurtzer @ImTheQ Or the occasional special double sided tape. <a href=\"https://t.co/6IXsbMT0I0\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 02:41:37 GMT",
+                                    "tweetId": "1491965619679420419",
+                                    "urltweet": "https://twitter.com/yudel/status/1491965619679420419",
+                                    "inReplyToId": "1491964809214107652",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@trekonomics So he’s getting crazier. Expect FTL investments before he’s done.",
                                     "type": "tweet",
