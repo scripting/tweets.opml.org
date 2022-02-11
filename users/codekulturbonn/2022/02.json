@@ -1,0 +1,38 @@
+{
+    "opml": {
+        "head": {
+            "title": "codekulturbonn tweets",
+            "dateCreated": "Fri, 11 Feb 2022 07:47:51 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/codekulturbonn/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 11 Feb 2022 07:47:52 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "December 2021",
+                    "type": "calendarMonth",
+                    "name": "december2021",
+                    "subs": [
+                        {
+                            "text": "December 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Einen digitalen Garten anzulegen macht Spaß und ist nicht schwer. Für unser #Dienstagscoden heute habe ich ein paar Informationen dazu zusammengetragen <a href=\"https://t.co/M4eoVNTXHx\">[link]</a> #digitalgarden",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Dec 2021 07:34:34 GMT",
+                                    "tweetId": "1470658455971278850",
+                                    "urltweet": "https://twitter.com/codekulturbonn/status/1470658455971278850",
+                                    "tweetUserName": "codekulturbonn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
