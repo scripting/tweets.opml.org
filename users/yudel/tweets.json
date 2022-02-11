@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 04:54:00 GMT"
+            "dateModified": "Fri, 11 Feb 2022 05:13:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@DavidRSelis Sadly, I don’t think my sister is high enough on the Getty hierarchy to simply move the collection across the street.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 05:10:40 GMT",
+                                    "tweetId": "1492003126630625330",
+                                    "urltweet": "https://twitter.com/yudel/status/1492003126630625330",
+                                    "inReplyToId": "1491995273547165701",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 10",
                             "type": "calendarDay",
