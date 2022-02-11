@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 00:45:15 GMT"
+            "dateModified": "Fri, 11 Feb 2022 00:54:15 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "I can’t get any help from @apple. I bought a $1300 phone from them on January 27. I’ve talked with them on the phone for hours.They can’t deliver the phone and refuse to give me a refund. A company that used to be great at customer service.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 00:52:41 GMT",
+                                    "tweetId": "1491938203296751616",
+                                    "urltweet": "https://twitter.com/davewiner/status/1491938203296751616",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Developers, this is a JSON format for outline interop. \n\n<a href=\"https://t.co/FDpOxT26Mr\">[link]</a>\n\nMore about this format tomorrow.",
                                     "type": "tweet",
