@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 14:53:54 GMT"
+            "dateModified": "Fri, 11 Feb 2022 18:49:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@andishrek Me entero",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Feb 2022 18:47:03 GMT",
+                                    "tweetId": "1492208578882592779",
+                                    "urltweet": "https://twitter.com/chiguire/status/1492208578882592779",
+                                    "inReplyToId": "1492199820521459717",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@vnessawho <a href=\"https://t.co/DGhd3OD79m\">[link]</a>",
                                     "type": "tweet",
