@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 00:12:14 GMT"
+            "dateModified": "Sat, 12 Feb 2022 09:31:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@alexval @LuisCarlos Creo que cualquier grupo suficientemente grande se volverá político",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 09:25:23 GMT",
+                                    "tweetId": "1492429619563270147",
+                                    "urltweet": "https://twitter.com/chiguire/status/1492429619563270147",
+                                    "inReplyToId": "1491543713851621380",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
