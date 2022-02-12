@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 21:52:20 GMT"
+            "dateModified": "Sat, 12 Feb 2022 00:12:14 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@VilMango DTB",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 00:06:28 GMT",
+                                    "tweetId": "1492288961791856641",
+                                    "urltweet": "https://twitter.com/chiguire/status/1492288961791856641",
+                                    "inReplyToId": "1492259769977085957",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Tom Scott nunca deja de sorprenderme <a href=\"https://t.co/NOwyrn5VVj\">[link]</a>",
                                     "type": "tweet",
