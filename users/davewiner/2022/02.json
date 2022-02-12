@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 13:44:51 GMT"
+            "dateModified": "Sat, 12 Feb 2022 14:39:54 GMT"
         },
         "body": {
             "subs": [
@@ -331,7 +331,18 @@
                                     "created": "Fri, 11 Feb 2022 00:52:41 GMT",
                                     "tweetId": "1491938203296751616",
                                     "urltweet": "https://twitter.com/davewiner/status/1491938203296751616",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "An update on the continuing saga of my iPhone 13 Pro.\n\n<a href=\"https://t.co/kieG9KbF8h\">[link]</a> https://t.co/puZUZlqUkt",
+                                            "type": "tweet",
+                                            "created": "Sat, 12 Feb 2022 14:38:20 GMT",
+                                            "tweetId": "1492508375590002691",
+                                            "urltweet": "https://twitter.com/davewiner/status/1492508375590002691",
+                                            "inReplyToId": "1491938203296751616",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Developers, this is a JSON format for outline interop. \n\n<a href=\"https://t.co/FDpOxT26Mr\">[link]</a>\n\nMore about this format tomorrow.",
