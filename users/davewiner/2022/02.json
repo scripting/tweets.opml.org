@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 22:36:27 GMT"
+            "dateModified": "Sat, 12 Feb 2022 23:20:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,24 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@vnoel The process is built into Drummer, my latest outliner.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 23:14:06 GMT",
+                                    "tweetId": "1492638171527618564",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492638171527618564",
+                                    "inReplyToId": "1492634033557323776",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@dermotcasey This has already happened once. Apple sent another phone via UPS.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 23:13:04 GMT",
+                                    "tweetId": "1492637912374161412",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492637912374161412",
+                                    "inReplyToId": "1492630868216721412",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "This is what Apple says when UPS has lost a $1300 phone I bought from Apple. Two parts.\n\n“We’re sorry to hear your delivery is stalled. Unfortunately, once in the hands of UPS, Apple no longer has control.",
                                     "type": "tweet",
