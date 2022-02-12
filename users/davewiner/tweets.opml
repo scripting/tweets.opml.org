@@ -6,12 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/davewiner/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sat, 12 Feb 2022 17:25:05 GMT</dateModified>
+		<dateModified>Sat, 12 Feb 2022 17:47:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
 			<outline text="February 12" type="calendarDay" name="12" >
-				<outline text="Mountain towns across the West are facing a housing crisis.  &lt;a href=&quot;https://t.co/0HbdUCizmO&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 12 Feb 2022 17:21:25 GMT" tweetId="1492549414216519689" urltweet="https://twitter.com/davewiner/status/1492549414216519689" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="An airliner mesh network over the oceans. &lt;a href=&quot;https://t.co/fmB37Ms0qU&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 12 Feb 2022 17:46:14 GMT" tweetId="1492555660445331457" urltweet="https://twitter.com/davewiner/status/1492555660445331457" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Mountain towns across the West are facing a housing crisis.  &lt;a href=&quot;https://t.co/0HbdUCizmO&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 12 Feb 2022 17:21:25 GMT" tweetId="1492549414216519689" urltweet="https://twitter.com/davewiner/status/1492549414216519689" tweetUserName="davewiner" />
 				<outline text="I fixed a bug. 
 
 There's an encoding mismatch between text coming from Twitter through its API, which is encoded in UTF-8, and text in OPML files which is encoded in ISO-8859-1.
