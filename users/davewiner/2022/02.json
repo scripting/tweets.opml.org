@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 23:20:30 GMT"
+            "dateModified": "Sat, 12 Feb 2022 23:42:31 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@MarkAStout @Apple That’s right.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 23:37:56 GMT",
+                                    "tweetId": "1492644168644104192",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492644168644104192",
+                                    "inReplyToId": "1492641696802353158",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@vnoel The process is built into Drummer, my latest outliner.",
                                     "type": "tweet",
