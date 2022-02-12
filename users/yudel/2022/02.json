@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 20:52:01 GMT"
+            "dateModified": "Sat, 12 Feb 2022 17:49:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@RokhlK Richest country in the world has been hating on its less well-off inhabitants since 1619.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 17:38:21 GMT",
+                                    "tweetId": "1492553676195614721",
+                                    "urltweet": "https://twitter.com/yudel/status/1492553676195614721",
+                                    "inReplyToId": "1492551623683547150",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
