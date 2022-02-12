@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 15:23:57 GMT"
+            "dateModified": "Sat, 12 Feb 2022 17:14:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "I fixed a bug. \n\nThere's an encoding mismatch between text coming from Twitter through its API, which is encoded in UTF-8, and text in OPML files which is encoded in ISO-8859-1.\n\nIn outlines that *only* contain tweets the fix is simple.\n\n<a href=\"https://t.co/HS5JGg50EE\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 17:05:02 GMT",
+                                    "tweetId": "1492545291328839684",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492545291328839684",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@markzip @UpstreamPodcast @doctorow @ntnsndr Thank you @markzip. Open platforms give users choice. \n\nThere are ways to turn an Apple podcast address into a public feed address, which is in this case:\n\n<a href=\"https://t.co/jMImN0F6CA\">[link]</a>",
                                     "type": "tweet",
