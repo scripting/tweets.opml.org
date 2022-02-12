@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 16:16:45 GMT"
+            "dateModified": "Sat, 12 Feb 2022 23:51:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@apoloscopio <a href=\"https://t.co/SL1TDaFmIR\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 23:46:53 GMT",
+                                    "tweetId": "1492646421274705925",
+                                    "urltweet": "https://twitter.com/chiguire/status/1492646421274705925",
+                                    "inReplyToId": "1492645655155777538",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@asdrubalivan Lo lamento Asdrubal, un gran abrazo",
                                     "type": "tweet",
