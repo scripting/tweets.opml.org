@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 21:41:23 GMT"
+            "dateModified": "Sat, 12 Feb 2022 22:36:27 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,36 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "This is what Apple says when UPS has lost a $1300 phone I bought from Apple. Two parts.\n\n“We’re sorry to hear your delivery is stalled. Unfortunately, once in the hands of UPS, Apple no longer has control.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 22:29:58 GMT",
+                                    "tweetId": "1492627062452019205",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492627062452019205",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "“You will need to reach out to UPS and see if they can keep it at the depot and allow you to pick it up, or if they have any other options to help you get your device faster.”",
+                                            "type": "tweet",
+                                            "created": "Sat, 12 Feb 2022 22:29:58 GMT",
+                                            "tweetId": "1492627063550980098",
+                                            "urltweet": "https://twitter.com/davewiner/status/1492627063550980098",
+                                            "inReplyToId": "1492627062452019205",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "My response.\n\n“Your job is to deliver a phone to me. I paid you the money, not UPS.“\n\nI gave them my money 16 days ago.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 12 Feb 2022 22:31:37 GMT",
+                                                    "tweetId": "1492627480418701313",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1492627480418701313",
+                                                    "inReplyToId": "1492627063550980098",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Pirated Oscar Screeners Have Become a Rare Breed. <a href=\"https://t.co/DjGyGf9F0M\">[link]</a>",
                                     "type": "tweet",
