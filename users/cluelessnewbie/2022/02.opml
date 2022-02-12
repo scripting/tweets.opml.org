@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 10 Feb 2022 23:15:24 GMT</dateModified>
+		<dateModified>Sat, 12 Feb 2022 15:34:43 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 12" type="calendarDay" name="12" >
+				<outline text="Apple changes employees’ titles to ‘associate’ after they leave. (This is a test.)" type="tweet" created="Sat, 12 Feb 2022 15:23:58 GMT" tweetId="1492519856293433352" urltweet="https://twitter.com/cluelessnewbie/status/1492519856293433352" inReplyToId="" tweetUserName="cluelessnewbie" />
+				</outline>
 			<outline text="February 10" type="calendarDay" name="10" >
-				<outline text="I am once again testing a new feature." type="tweet" created="Thu, 10 Feb 2022 23:08:32 GMT" tweetId="1491911995616120835" urltweet="https://twitter.com/cluelessnewbie/status/1491911995616120835" inReplyToId="" tweetUserName="cluelessnewbie" />
+				<outline text="I am once again testing a new feature." type="tweet" created="Thu, 10 Feb 2022 23:08:32 GMT" tweetId="1491911995616120835" urltweet="https://twitter.com/cluelessnewbie/status/1491911995616120835" tweetUserName="cluelessnewbie" />
 				</outline>
 			</outline>
 		</body>
