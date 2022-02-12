@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 14:30:37 GMT"
+            "dateModified": "Sat, 12 Feb 2022 17:58:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "I now have 3 posts in draft, unpublished, because I’m not yet satisfied. Another reason why I’ve more micro posts than the long-form ones. I feel a sense of attachment to the stuff I post on my blog. The stuff I wrote on Twitter and other platform can get lost. Literally.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 17:57:00 GMT",
+                                    "tweetId": "1492558371823759374",
+                                    "urltweet": "https://twitter.com/_am1t/status/1492558371823759374",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
