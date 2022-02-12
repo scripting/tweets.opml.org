@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 10:58:20 GMT"
+            "dateModified": "Sat, 12 Feb 2022 16:51:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Gutenberg Developer Hours, from Zero to Hero Series and much more! TY to @wpbuilds @extendify @josephahaden @karmatosed @mattmedeiros @pootlepress @carolinapoena @jameskoster @ryanwelcher @daisyolsen @jonihalabi @andyfragen @glendaviesnz @succoallapera <a href=\"https://t.co/4DpyvaAbKC\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 16:40:32 GMT",
+                                    "tweetId": "1492539128235319297",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1492539128235319297",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
