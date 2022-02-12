@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 20:57:20 GMT"
+            "dateModified": "Sat, 12 Feb 2022 21:08:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "\"I used to use Roam every day, but I don’t use it much anymore. Based on what I can see on Twitter, and a casual survey of friends, I don’t think I’m alone.\" <a href=\"https://t.co/dgQfNV6rm0\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 20:57:21 GMT",
+                                    "tweetId": "1492603757229715460",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492603757229715460",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "What you need imho is a chronologic note-taking system that can also publish, and a search facility that indexes everything you write, without depending on search engines. That's what works for me. I've been using an outliner to organize myself since the early 80s. Every day.",
+                                            "type": "tweet",
+                                            "created": "Sat, 12 Feb 2022 21:00:16 GMT",
+                                            "tweetId": "1492604489257340934",
+                                            "urltweet": "https://twitter.com/davewiner/status/1492604489257340934",
+                                            "inReplyToId": "1492603757229715460",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Her dad died. So her favorite NFL star took her to the father-daughter dance. (I know this is not news. But I'm a sucker for these kinds of stories.) <a href=\"https://t.co/PXdlssHAZ8\">[link]</a>",
                                     "type": "tweet",
