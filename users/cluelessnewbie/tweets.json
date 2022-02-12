@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 16:07:45 GMT"
+            "dateModified": "Sat, 12 Feb 2022 17:02:48 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "Apple changes employees’ titles to ‘associate’ after they leave more testing",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 16:56:52 GMT",
+                                    "tweetId": "1492543238896590849",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1492543238896590849",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "Apple changes employees’ titles to ‘associate’ after they leave.\n\nanother test",
                                     "type": "tweet",
