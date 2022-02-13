@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 16:59:37 GMT"
+            "dateModified": "Sun, 13 Feb 2022 18:16:42 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@dzkalman Most of them?",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 18:06:25 GMT",
+                                    "tweetId": "1492923128347045900",
+                                    "urltweet": "https://twitter.com/yudel/status/1492923128347045900",
+                                    "inReplyToId": "1492911043173040131",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@GallowayVTD’s dogged journalism pays off. <a href=\"https://t.co/QqQzEXUQN6\">[link]</a>",
                                     "type": "tweet",
