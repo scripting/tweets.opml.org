@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 05:16:52 GMT"
+            "dateModified": "Sun, 13 Feb 2022 05:27:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Meanwhile in #Canada ..\n\n<a href=\"https://t.co/SU00vB5Lw2\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 05:27:19 GMT",
+                                    "tweetId": "1492732093314605056",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1492732093314605056",
+                                    "tweetUserName": "seanreiser"
+                                },
                                 {
                                     "text": "Wordle 239 5/6\n\n⬛⬛🟨⬛⬛\n⬛⬛🟨🟨⬛\n⬛🟨🟨🟨🟨\n⬛🟨🟨🟩🟩\n🟩🟩🟩🟩🟩",
                                     "type": "tweet",
