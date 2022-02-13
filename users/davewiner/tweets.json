@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 20:04:55 GMT"
+            "dateModified": "Sun, 13 Feb 2022 23:12:07 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "This is why we love @taylorlorenz. ❤️ <a href=\"https://t.co/BdBKY7RM8G\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 23:08:04 GMT",
+                                    "tweetId": "1492999040665014277",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492999040665014277",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@BarbaraKB this experiment has nothing to do with me reading other people's tweets. first i need to get broadcasting my tweets via RSS working. once that's in place, we can start looking at getting other people's tweets going out that way. one step at a time. ;-)",
                                     "type": "tweet",
