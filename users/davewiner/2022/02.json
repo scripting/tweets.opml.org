@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 13:39:24 GMT"
+            "dateModified": "Sun, 13 Feb 2022 14:23:27 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,35 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@IanYorston @Apple I'm writing a blog post now and will include the text.\n\nWhen you describe someone else's feelings you're always on the wrong side. Esp if they haven't told you anything about their feelings.",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 14:15:21 GMT",
+                                    "tweetId": "1492864978608656389",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492864978608656389",
+                                    "inReplyToId": "1492860522055798784",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@jdgalarneau @Apple I have some experience with that, and without me even asking they assigned a special \"white glove\" person in their customer support department to work with UPS to get the service working.",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 14:12:49 GMT",
+                                    "tweetId": "1492864340768268300",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492864340768268300",
+                                    "inReplyToId": "1492863352120516608",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@jdgalarneau @Apple My thought is that I'll just buy the phone from Amazon when I get the refund. I probably shouldn't even wait for the refund.",
+                                            "type": "tweet",
+                                            "created": "Sun, 13 Feb 2022 14:13:31 GMT",
+                                            "tweetId": "1492864516157235202",
+                                            "urltweet": "https://twitter.com/davewiner/status/1492864516157235202",
+                                            "inReplyToId": "1492864340768268300",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@IanYorston @Apple Do you know what gaslighting is? You're doing it.",
                                     "type": "tweet",
