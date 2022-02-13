@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ComplexD/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 13:27:20 GMT"
+            "dateModified": "Sun, 13 Feb 2022 10:58:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "5 Interesting Learnings from @CSDisco at $120,000,000 in ARR - Read the complete article from @SaaStr at <a href=\"https://t.co/0CDT8jSY68\">[link]</a>. #SaaS #eDiscovery #LegalTech https://t.co/fkCyKIx8Jr",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 10:56:20 GMT",
+                                    "tweetId": "1492814892964929541",
+                                    "urltweet": "https://twitter.com/ComplexD/status/1492814892964929541",
+                                    "tweetUserName": "ComplexD"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 12",
                             "type": "calendarDay",
