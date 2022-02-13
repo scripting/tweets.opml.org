@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 18:09:38 GMT"
+            "dateModified": "Sun, 13 Feb 2022 10:21:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "I didn’t know today’s wordle word was a word. I knew the word, but I didn’t know it as a word. I can’t possibly have spoilt anything. I’ve read what I’ve written here twice now. But what I’ve written here won’t make sense if I didn’t know what it’s supposed to mean. Makes sense?",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 10:16:09 GMT",
+                                    "tweetId": "1492804782796455936",
+                                    "urltweet": "https://twitter.com/_am1t/status/1492804782796455936",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 12",
                             "type": "calendarDay",
