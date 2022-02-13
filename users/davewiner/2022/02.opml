@@ -6,11 +6,32 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/davewiner/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sun, 13 Feb 2022 14:45:28 GMT</dateModified>
+		<dateModified>Sun, 13 Feb 2022 15:07:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
 			<outline text="February 13" type="calendarDay" name="13" >
+				<outline text="### Markdown document titles
+
+I'm pretty sure Markdown does not have the concept of the title of a document.
+
+But titles are important. RSS has the concept of a title because many blog posts have titles." type="tweet" created="Sun, 13 Feb 2022 15:06:38 GMT" tweetId="1492877882108096513" urltweet="https://twitter.com/davewiner/status/1492877882108096513" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="### cont'd
+
+Tweets don't have titles, but they could.
+
+And that would make the match betw Twitter and RSS work, where the last time it was tried it didn't.
+
+I believe this was the reason it didn't work." type="tweet" created="Sun, 13 Feb 2022 15:06:38 GMT" tweetId="1492877883378913284" urltweet="https://twitter.com/davewiner/status/1492877883378913284" inReplyToId="1492877882108096513" tweetUserName="davewiner" >
+						<outline text="### cont'd
+
+Also I think I just figured out how to hook up threads to RSS feed items that are longer than 280 chars.
+
+Why didn't I figure this out sooner?
+
+#handSlappingForehead" type="tweet" created="Sun, 13 Feb 2022 15:06:38 GMT" tweetId="1492877884507267077" urltweet="https://twitter.com/davewiner/status/1492877884507267077" inReplyToId="1492877883378913284" tweetUserName="davewiner" />
+						</outline>
+					</outline>
 				<outline text="@IanYorston @Apple I'm writing a blog post now and will include the text.
 
 When you describe someone else's feelings you're always on the wrong side. Esp if they haven't told you anything about their feelings." type="tweet" created="Sun, 13 Feb 2022 14:15:21 GMT" tweetId="1492864978608656389" urltweet="https://twitter.com/davewiner/status/1492864978608656389" inReplyToId="1492860522055798784" tweetUserName="davewiner" />
@@ -22,6 +43,9 @@ When you describe someone else's feelings you're always on the wrong side. Esp i
 					<outline text="Here's the blog post. 
 
 &lt;a href=&quot;https://t.co/zFshPfNn8y&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 13 Feb 2022 14:43:23 GMT" tweetId="1492872032857505797" urltweet="https://twitter.com/davewiner/status/1492872032857505797" inReplyToId="1492845526445969408" tweetUserName="davewiner" />
+					<outline text="BTW, here's a reverse chronologic search for iPhone 13 on my blog. 
+
+&lt;a href=&quot;https://t.co/Eqakf1ziKW&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 13 Feb 2022 14:57:31 GMT" tweetId="1492875591498018821" urltweet="https://twitter.com/davewiner/status/1492875591498018821" inReplyToId="1492845526445969408" tweetUserName="davewiner" />
 					</outline>
 				<outline text="Why the West’s Diplomacy With Russia Keeps Failing. &lt;a href=&quot;https://t.co/8KjblU5rgW&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 13 Feb 2022 12:51:22 GMT" tweetId="1492843844827811845" urltweet="https://twitter.com/davewiner/status/1492843844827811845" tweetUserName="davewiner" />
 				<outline text="We’re Sorry, You Can’t Join Our Street Gang Because You Don’t Know Ballet. &lt;a href=&quot;https://t.co/kj1ptXwloS&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 13 Feb 2022 12:43:46 GMT" tweetId="1492841930505564161" urltweet="https://twitter.com/davewiner/status/1492841930505564161" tweetUserName="davewiner" />
