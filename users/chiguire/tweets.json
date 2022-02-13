@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 00:35:04 GMT"
+            "dateModified": "Sun, 13 Feb 2022 14:31:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@le_ors Eres tú 🐶❤️",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 14:30:07 GMT",
+                                    "tweetId": "1492868695974191112",
+                                    "urltweet": "https://twitter.com/chiguire/status/1492868695974191112",
+                                    "inReplyToId": "1492094861268422672",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@le_ors ❤️",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 14:29:19 GMT",
+                                    "tweetId": "1492868491975835656",
+                                    "urltweet": "https://twitter.com/chiguire/status/1492868491975835656",
+                                    "inReplyToId": "1492660781833502722",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 12",
                             "type": "calendarDay",
