@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 16:58:48 GMT"
+            "dateModified": "Sun, 13 Feb 2022 22:56:36 GMT"
         },
         "body": {
             "subs": [
@@ -16,10 +16,35 @@
                     "name": "february2022",
                     "subs": [
                         {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@ivan_8848 do you know who he is? <a href=\"https://t.co/2Is9drkxOt\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 22:50:57 GMT",
+                                    "tweetId": "1492994731302957071",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1492994731302957071",
+                                    "inReplyToId": "1488235588692189185",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
+                        {
                             "text": "February 12",
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@RonFilipkowski Guess he should stop feeling entitled to other people's money and pull himself up by his bootstraps, or something.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 19:11:04 GMT",
+                                    "tweetId": "1492577008198504456",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1492577008198504456",
+                                    "inReplyToId": "1492496308204097538",
+                                    "tweetUserName": "redjade_hu"
+                                },
                                 {
                                     "text": "@ryangrim Ryan, Americans do love to think like the world is a Risk Game – or a Hollywood action film, or just about any way other than actually studying the history and culture of the places we want to have a war in.",
                                     "type": "tweet",
