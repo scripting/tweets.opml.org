@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 18:35:43 GMT"
+            "dateModified": "Sun, 13 Feb 2022 22:27:05 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@sulfuroid I understand that. What is the purpose of this little project?",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 22:18:42 GMT",
+                                    "tweetId": "1492986617149100032",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1492986617149100032",
+                                    "inReplyToId": "1492940175164518401",
+                                    "tweetUserName": "RonKJeffries"
+                                },
                                 {
                                     "text": "@sulfuroid Can you explain for a non-engineer, non-designer?)",
                                     "type": "tweet",
