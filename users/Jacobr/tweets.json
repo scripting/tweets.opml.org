@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 16:50:46 GMT"
+            "dateModified": "Sun, 13 Feb 2022 23:20:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@ThePatientsSide Neither nor ... this year ...",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 23:20:09 GMT",
+                                    "tweetId": "1493002079429959684",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1493002079429959684",
+                                    "inReplyToId": "1492966488076169225",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
