@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 21:01:59 GMT"
+            "dateModified": "Sun, 13 Feb 2022 21:13:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,23 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "This but for emails. <a href=\"https://t.co/7kvTYQlnPD\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 21:04:17 GMT",
+                                    "tweetId": "1492967889049169924",
+                                    "urltweet": "https://twitter.com/yudel/status/1492967889049169924",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@eddyportnoy Was this paper published by an insurance company?",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 21:03:11 GMT",
+                                    "tweetId": "1492967613206605828",
+                                    "urltweet": "https://twitter.com/yudel/status/1492967613206605828",
+                                    "inReplyToId": "1492965554772234256",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "Reupping this for the Sunday afternoon crowd. No owls, but a couple of superb people. And some awful history that too many people don’t want you to know. <a href=\"https://t.co/ASFWZyVlCb\">[link]</a>",
                                     "type": "tweet",
