@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 23:53:32 GMT"
+            "dateModified": "Sun, 13 Feb 2022 00:04:32 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@brunomiguel @Apple That’s why I said @apple did it to me.",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 00:01:27 GMT",
+                                    "tweetId": "1492650087301931012",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492650087301931012",
+                                    "inReplyToId": "1492648239429996544",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Customer support people who start “I understand your frustration…” are playing an nasty game called gaslighting. @apple  just did it to me. I never said I was frustrated. Mainly I want to be treated as a customer.",
                                     "type": "tweet",
