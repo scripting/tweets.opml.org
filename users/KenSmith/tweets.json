@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 18:09:21 GMT"
+            "dateModified": "Sun, 13 Feb 2022 16:36:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "“Every leader, no matter how despotic, relies on the consent of his people. If they withdraw their consent — stop carrying out orders — the regime falls.” <a href=\"https://t.co/YkD0s5iYZU\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 16:25:25 GMT",
+                                    "tweetId": "1492897711422648325",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1492897711422648325",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "Start local . . .\n\n<a href=\"https://t.co/xGvH2c18oS\">[link]</a> https://t.co/FocDy8jZGK",
+                                            "type": "tweet",
+                                            "created": "Sun, 13 Feb 2022 16:33:58 GMT",
+                                            "tweetId": "1492899861376741386",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1492899861376741386",
+                                            "inReplyToId": "1492897711422648325",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
