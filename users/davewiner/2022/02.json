@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 14:45:28 GMT"
+            "dateModified": "Sun, 13 Feb 2022 15:07:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,36 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "### Markdown document titles\n\nI'm pretty sure Markdown does not have the concept of the title of a document.\n\nBut titles are important. RSS has the concept of a title because many blog posts have titles.",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 15:06:38 GMT",
+                                    "tweetId": "1492877882108096513",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492877882108096513",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "### cont'd\n\nTweets don't have titles, but they could.\n\nAnd that would make the match betw Twitter and RSS work, where the last time it was tried it didn't.\n\nI believe this was the reason it didn't work.",
+                                            "type": "tweet",
+                                            "created": "Sun, 13 Feb 2022 15:06:38 GMT",
+                                            "tweetId": "1492877883378913284",
+                                            "urltweet": "https://twitter.com/davewiner/status/1492877883378913284",
+                                            "inReplyToId": "1492877882108096513",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "### cont'd\n\nAlso I think I just figured out how to hook up threads to RSS feed items that are longer than 280 chars.\n\nWhy didn't I figure this out sooner?\n\n#handSlappingForehead",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 13 Feb 2022 15:06:38 GMT",
+                                                    "tweetId": "1492877884507267077",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1492877884507267077",
+                                                    "inReplyToId": "1492877883378913284",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@IanYorston @Apple I'm writing a blog post now and will include the text.\n\nWhen you describe someone else's feelings you're always on the wrong side. Esp if they haven't told you anything about their feelings.",
                                     "type": "tweet",
@@ -72,6 +102,15 @@
                                             "created": "Sun, 13 Feb 2022 14:43:23 GMT",
                                             "tweetId": "1492872032857505797",
                                             "urltweet": "https://twitter.com/davewiner/status/1492872032857505797",
+                                            "inReplyToId": "1492845526445969408",
+                                            "tweetUserName": "davewiner"
+                                        },
+                                        {
+                                            "text": "BTW, here's a reverse chronologic search for iPhone 13 on my blog. \n\n<a href=\"https://t.co/Eqakf1ziKW\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Sun, 13 Feb 2022 14:57:31 GMT",
+                                            "tweetId": "1492875591498018821",
+                                            "urltweet": "https://twitter.com/davewiner/status/1492875591498018821",
                                             "inReplyToId": "1492845526445969408",
                                             "tweetUserName": "davewiner"
                                         }
