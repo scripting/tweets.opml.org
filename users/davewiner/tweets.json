@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 19:53:55 GMT"
+            "dateModified": "Sun, 13 Feb 2022 20:04:55 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@BarbaraKB this experiment has nothing to do with me reading other people's tweets. first i need to get broadcasting my tweets via RSS working. once that's in place, we can start looking at getting other people's tweets going out that way. one step at a time. ;-)",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 19:55:30 GMT",
+                                    "tweetId": "1492950579546628100",
+                                    "urltweet": "https://twitter.com/davewiner/status/1492950579546628100",
+                                    "inReplyToId": "1492949883053092872",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "A Banking App Has Been Suddenly Closing Accounts, Sometimes Not Returning Customers’ Money. <a href=\"https://t.co/5HVaYH5KEo\">[link]</a>",
                                     "type": "tweet",
@@ -116,7 +125,18 @@
                                                                     "tweetId": "1492949487169462273",
                                                                     "urltweet": "https://twitter.com/davewiner/status/1492949487169462273",
                                                                     "inReplyToId": "1492891292531056641",
-                                                                    "tweetUserName": "davewiner"
+                                                                    "tweetUserName": "davewiner",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "And this is what that tweet looks like in the feed.\n\nCheck it out -- it has a title! That's new. <a href=\"https://t.co/1dAlRgt30B\">[link]</a>",
+                                                                            "type": "tweet",
+                                                                            "created": "Sun, 13 Feb 2022 19:58:25 GMT",
+                                                                            "tweetId": "1492951312698421251",
+                                                                            "urltweet": "https://twitter.com/davewiner/status/1492951312698421251",
+                                                                            "inReplyToId": "1492949487169462273",
+                                                                            "tweetUserName": "davewiner"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
