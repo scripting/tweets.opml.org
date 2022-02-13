@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 19:36:11 GMT"
+            "dateModified": "Sun, 13 Feb 2022 09:16:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,38 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@suzanneunck Net terug van weer eens hardlopen. De wereld ligt er nog dus het is goed te doen!",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 09:11:12 GMT",
+                                    "tweetId": "1492788437493198849",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1492788437493198849",
+                                    "inReplyToId": "1492787692479909890",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "February 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@RamonesNL Ik zou zeggen een bureau dat professionele apps maakt. Ik ken ze niet allemaal en is sterk afhankelijk van soort app, budget, wensen, platform etc. Er zal vast een directory ergens zijn.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 18:47:20 GMT",
+                                    "tweetId": "1492571036151394309",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1492571036151394309",
+                                    "inReplyToId": "1492517574961156098",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
