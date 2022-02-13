@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 09:16:37 GMT"
+            "dateModified": "Sun, 13 Feb 2022 12:45:51 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@marcelvandriel In Houten hebben ze het boek ontvangen!",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 12:39:51 GMT",
+                                    "tweetId": "1492840943871053825",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1492840943871053825",
+                                    "inReplyToId": "1492836304454832133",
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "@marcelvandriel <a href=\"https://t.co/PufSPvTcbi\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Sun, 13 Feb 2022 12:41:47 GMT",
+                                            "tweetId": "1492841432146759683",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1492841432146759683",
+                                            "inReplyToId": "1492840943871053825",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@suzanneunck Net terug van weer eens hardlopen. De wereld ligt er nog dus het is goed te doen!",
                                     "type": "tweet",
