@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 02:21:41 GMT"
+            "dateModified": "Sun, 13 Feb 2022 17:24:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@dailysimpsons Because of this scene, every time I think something’s too expensive, I say the price out loud and then “Get outta here!” in a slurred voice.",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 17:20:11 GMT",
+                                    "tweetId": "1492911492261457926",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1492911492261457926",
+                                    "inReplyToId": "1492909938410242051",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 12",
                             "type": "calendarDay",
