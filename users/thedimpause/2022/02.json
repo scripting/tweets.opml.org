@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 14:36:53 GMT"
+            "dateModified": "Sun, 13 Feb 2022 09:09:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@valleyboi1 Just stopped off in Padstow for a coffee and pasty on the way home, had been staying in a cottage at Lamorna just outside Penzance for the week 😀",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 09:07:12 GMT",
+                                    "tweetId": "1492787429887127557",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1492787429887127557",
+                                    "inReplyToId": "1492783855308353540",
+                                    "tweetUserName": "thedimpause"
+                                },
+                                {
+                                    "text": "@danielpunkass Thanks for that - I now want pizza for breakfast 😉",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 09:02:40 GMT",
+                                    "tweetId": "1492786287794958337",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1492786287794958337",
+                                    "inReplyToId": "1492589104902586375",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
