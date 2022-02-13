@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
 	<head>
 		<title>JR_Paris tweets</title>
@@ -6,12 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/JR_Paris/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Wed, 09 Feb 2022 20:23:11 GMT</dateModified>
+		<dateModified>Sun, 13 Feb 2022 03:19:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 12" type="calendarDay" name="12" >
+				<outline text="Nostalgique de l'Union Soviétique. &lt;a href=&quot;https://t.co/SDvow20nSv&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 13 Feb 2022 03:19:01 GMT" tweetId="1492699807730835456" urltweet="https://twitter.com/JR_Paris/status/1492699807730835456" inReplyToId="" tweetUserName="JR_Paris" />
+				<outline text="@dbourrion On vit une époque moderne." type="tweet" created="Sat, 12 Feb 2022 18:48:34 GMT" tweetId="1492571347616153605" urltweet="https://twitter.com/JR_Paris/status/1492571347616153605" inReplyToId="1492569846231535617" tweetUserName="JR_Paris" />
+				</outline>
 			<outline text="February 9" type="calendarDay" name="09" >
-				<outline text="Thread &lt;a href=&quot;https://t.co/H7YfSLgkqw&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 09 Feb 2022 20:18:13 GMT" tweetId="1491506745969152011" urltweet="https://twitter.com/JR_Paris/status/1491506745969152011" inReplyToId="" tweetUserName="JR_Paris" />
+				<outline text="Thread &lt;a href=&quot;https://t.co/H7YfSLgkqw&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 09 Feb 2022 20:18:13 GMT" tweetId="1491506745969152011" urltweet="https://twitter.com/JR_Paris/status/1491506745969152011" tweetUserName="JR_Paris" />
 				</outline>
 			<outline text="February 8" type="calendarDay" name="08" >
 				<outline text="@phdumont Et ce message ce n'est pas de la politique politicienne bien sûr !" type="tweet" created="Tue, 08 Feb 2022 20:30:09 GMT" tweetId="1491147361418383360" urltweet="https://twitter.com/JR_Paris/status/1491147361418383360" inReplyToId="1491118477075415040" tweetUserName="JR_Paris" />
