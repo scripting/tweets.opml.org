@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 04:41:50 GMT"
+            "dateModified": "Sun, 13 Feb 2022 05:25:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@prof_dainy @onthemainline Mistral <a href=\"https://t.co/MpwODORoEr\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Feb 2022 05:23:08 GMT",
+                                    "tweetId": "1492731039516696578",
+                                    "urltweet": "https://twitter.com/yudel/status/1492731039516696578",
+                                    "inReplyToId": "1492719780280913922",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 12",
                             "type": "calendarDay",
