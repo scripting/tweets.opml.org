@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 00:53:35 GMT"
+            "dateModified": "Sun, 13 Feb 2022 01:04:36 GMT"
         },
         "body": {
             "subs": [
@@ -35,7 +35,40 @@
                                             "tweetId": "1492663205000323072",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1492663205000323072",
                                             "inReplyToId": "1492635701728497665",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Equinox by Anastasia Isachsen. <a href=\"https://t.co/zjfq6uAB1U\">[link]</a>",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 13 Feb 2022 00:57:11 GMT",
+                                                    "tweetId": "1492664114723889152",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1492664114723889152",
+                                                    "inReplyToId": "1492663205000323072",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Great Minds by Aleksandra Stratimirovic. <a href=\"https://t.co/YVdFOvCI1F\">[link]</a>",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 13 Feb 2022 00:59:01 GMT",
+                                                            "tweetId": "1492664572200767488",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1492664572200767488",
+                                                            "inReplyToId": "1492664114723889152",
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "CONTROL NO CONTROL by Iregular. <a href=\"https://t.co/x09veLVsu4\">[link]</a>",
+                                                                    "type": "tweet",
+                                                                    "created": "Sun, 13 Feb 2022 01:01:33 GMT",
+                                                                    "tweetId": "1492665211932790784",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1492665211932790784",
+                                                                    "inReplyToId": "1492664572200767488",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
