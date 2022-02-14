@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 16:24:44 GMT"
+            "dateModified": "Mon, 14 Feb 2022 16:46:45 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "@lienzoss <a href=\"https://t.co/gJOtLDgrQY\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 16:42:21 GMT",
+                                    "tweetId": "1493264357563768844",
+                                    "urltweet": "https://twitter.com/chiguire/status/1493264357563768844",
+                                    "inReplyToId": "1492964284556587015",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@dedsm exactamente el punto, si voy a descargarlos a buscar eso, que me paguen mi tiempo jajajaja",
                                     "type": "tweet",
