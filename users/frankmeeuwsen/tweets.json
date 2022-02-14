@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 17:43:10 GMT"
+            "dateModified": "Mon, 14 Feb 2022 09:52:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@TadekSolarz Scenario's versus voorspellingen.... het hield me wel even bezig dit weekend",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 09:48:29 GMT",
+                                    "tweetId": "1493160206754365444",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1493160206754365444",
+                                    "inReplyToId": "1493148902505304064",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
