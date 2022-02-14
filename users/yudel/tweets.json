@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 04:00:26 GMT"
+            "dateModified": "Mon, 14 Feb 2022 04:22:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@AvBronstein Now do Zionism.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 04:15:56 GMT",
+                                    "tweetId": "1493076518448336902",
+                                    "urltweet": "https://twitter.com/yudel/status/1493076518448336902",
+                                    "inReplyToId": "1493071216269312004",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@CharlesBHallPhD @MazMHussain That works better when you’re the insurgents, not the counter insurgents.",
                                     "type": "tweet",
