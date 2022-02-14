@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 16:03:49 GMT"
+            "dateModified": "Mon, 14 Feb 2022 17:23:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "lichen <a href=\"https://t.co/BJO0aLeAgB\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 17:18:59 GMT",
+                                    "tweetId": "1493273579059822598",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1493273579059822598",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
