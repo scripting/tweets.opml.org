@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 22:56:36 GMT"
+            "dateModified": "Mon, 14 Feb 2022 13:37:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@alp1111112 Frances Stonor Saunders reads from her book:\n'The Cultural Cold War: The CIA and the World of Arts and Letters'\n<a href=\"https://t.co/XKfYNeHmrM\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 13:36:55 GMT",
+                                    "tweetId": "1493217692794462210",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1493217692794462210",
+                                    "inReplyToId": "1492869548596506626",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
