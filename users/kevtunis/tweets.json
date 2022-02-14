@@ -1,0 +1,38 @@
+{
+    "opml": {
+        "head": {
+            "title": "kevtunis tweets",
+            "dateCreated": "Mon, 14 Feb 2022 17:31:06 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 14 Feb 2022 17:31:07 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "February 2022",
+                    "type": "calendarMonth",
+                    "name": "february2022",
+                    "subs": [
+                        {
+                            "text": "February 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@InstigateAI how do you delete a being?",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 21:21:33 GMT",
+                                    "tweetId": "1492609847677923330",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1492609847677923330",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
