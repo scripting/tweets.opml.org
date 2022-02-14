@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 04:22:28 GMT"
+            "dateModified": "Mon, 14 Feb 2022 05:28:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@edburmila Now do DotCom pitchmen paid in shares.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 05:26:39 GMT",
+                                    "tweetId": "1493094315245117440",
+                                    "urltweet": "https://twitter.com/yudel/status/1493094315245117440",
+                                    "inReplyToId": "1492977595075420162",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
