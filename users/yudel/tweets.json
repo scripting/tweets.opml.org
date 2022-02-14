@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 02:43:21 GMT"
+            "dateModified": "Mon, 14 Feb 2022 03:16:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@yourfriendbird7 Time for a new bird account.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 03:14:53 GMT",
+                                    "tweetId": "1493061152984768533",
+                                    "urltweet": "https://twitter.com/yudel/status/1493061152984768533",
+                                    "inReplyToId": "1493060915989823488",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@SChiritescu @SamuelSpinner @ingeveb Note: Fish in Yiddish is “Fish”. In Hebrew it’s “Dawg.”",
                                     "type": "tweet",
