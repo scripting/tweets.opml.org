@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 12:23:19 GMT"
+            "dateModified": "Mon, 14 Feb 2022 07:17:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "“Wir haben Ihre Anfrage bearbeitet und können hiermit den Anschluss der Ladeinfrastruktur an das Niederspannungsnetz mit folgenden Angaben zustimmen:\nLadesäulentyp Keba P30\nAnzahl 4\nLeistung pro Ladepunkt 11 kW\nLadetyp AC”\n\nEndlich können wir in Hamburg-SInstorf laden!",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 07:12:40 GMT",
+                                    "tweetId": "1493120994214567937",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1493120994214567937",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
