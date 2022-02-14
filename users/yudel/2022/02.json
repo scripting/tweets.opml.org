@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 06:56:38 GMT"
+            "dateModified": "Mon, 14 Feb 2022 07:40:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "@NYTScience @DougJBalloon FYI",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 07:38:20 GMT",
+                                    "tweetId": "1493127453090459648",
+                                    "urltweet": "https://twitter.com/yudel/status/1493127453090459648",
+                                    "inReplyToId": "1493126197542367233",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@ModerateScience @EmExAstris @mattbc How much prison time did the Napster bros serve?",
                                     "type": "tweet",
