@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 17:20:09 GMT"
+            "dateModified": "Mon, 14 Feb 2022 17:00:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "I am like Po from Kung Fu Panda, I eat when I am upset. Or even nervous. All curated habits go down the drain. I intend, however, to get back to some form of routine again. The tired, hectic last few weeks have left me exhausted. Made me Po.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 16:57:50 GMT",
+                                    "tweetId": "1493268254722338826",
+                                    "urltweet": "https://twitter.com/_am1t/status/1493268254722338826",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
