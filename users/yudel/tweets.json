@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 01:15:15 GMT"
+            "dateModified": "Mon, 14 Feb 2022 01:48:18 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,64 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@piers_hollott @prof_dainy @ShammaBoyarin He’s headed to a monastery. Probably because of a botched bris.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 01:46:00 GMT",
+                                    "tweetId": "1493038787844321283",
+                                    "urltweet": "https://twitter.com/yudel/status/1493038787844321283",
+                                    "inReplyToId": "1493037020280606722",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@trekonomics But that’s the fantasy he’s trying to sell with that bogus name.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 01:44:18 GMT",
+                                    "tweetId": "1493038358628638722",
+                                    "urltweet": "https://twitter.com/yudel/status/1493038358628638722",
+                                    "inReplyToId": "1493037987524800515",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@trekonomics No reason to assume that unless you’ve read the original transcript. Stop giving bad actors the benefit of the doubt.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 01:41:16 GMT",
+                                    "tweetId": "1493037594170568710",
+                                    "urltweet": "https://twitter.com/yudel/status/1493037594170568710",
+                                    "inReplyToId": "1493037027759050752",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@trekonomics Anyway, FTL is the holy grail of space technology.",
+                                            "type": "tweet",
+                                            "created": "Mon, 14 Feb 2022 01:42:23 GMT",
+                                            "tweetId": "1493037876300460036",
+                                            "urltweet": "https://twitter.com/yudel/status/1493037876300460036",
+                                            "inReplyToId": "1493037594170568710",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@trekonomics I wonder how many Jews will be killed in pursuit of *that* delusion. #ParochiallyYours",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 14 Feb 2022 01:42:59 GMT",
+                                                    "tweetId": "1493038026133491712",
+                                                    "urltweet": "https://twitter.com/yudel/status/1493038026133491712",
+                                                    "inReplyToId": "1493037876300460036",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@tashakaminsky Really think the World Cup is the game distraction you’re looking for.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 01:39:57 GMT",
+                                    "tweetId": "1493037263307034625",
+                                    "urltweet": "https://twitter.com/yudel/status/1493037263307034625",
+                                    "inReplyToId": "1493031034530762762",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@RebbeSMZ Yes.",
                                     "type": "tweet",
