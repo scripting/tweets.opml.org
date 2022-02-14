@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 02:32:21 GMT"
+            "dateModified": "Mon, 14 Feb 2022 02:43:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@SChiritescu @SamuelSpinner @ingeveb Note: Fish in Yiddish is “Fish”. In Hebrew it’s “Dawg.”",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 02:33:12 GMT",
+                                    "tweetId": "1493050662082523143",
+                                    "urltweet": "https://twitter.com/yudel/status/1493050662082523143",
+                                    "inReplyToId": "1493044672289193993",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@Nymphomachy I’d be less inclined to give them old paper towel rolls, you can be sure.",
                                     "type": "tweet",
