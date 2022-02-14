@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 09:59:19 GMT"
+            "dateModified": "Mon, 14 Feb 2022 11:05:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "@oriana_banana <a href=\"https://t.co/MJylieAij6\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 10:57:50 GMT",
+                                    "tweetId": "1493177659383296004",
+                                    "urltweet": "https://twitter.com/chiguire/status/1493177659383296004",
+                                    "inReplyToId": "1491847001926946824",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Un Patreon para descargar esos juegos móviles terribles de los ads y poner videos solo de los puzzles resueltos de la manera correcta.",
                                     "type": "tweet",
