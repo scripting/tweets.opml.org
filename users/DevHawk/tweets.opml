@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
 	<head>
 		<title>DevHawk tweets</title>
@@ -6,12 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Fri, 11 Feb 2022 22:19:22 GMT</dateModified>
+		<dateModified>Mon, 14 Feb 2022 03:28:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 13" type="calendarDay" name="13" >
+				<outline text="I would like to thank the Rams, Bengals and everyone working on the 
+Super Bowl for finishing the game in a timely fashion before my hockey game 😂" type="tweet" created="Mon, 14 Feb 2022 03:20:19 GMT" tweetId="1493062519585271808" urltweet="https://twitter.com/DevHawk/status/1493062519585271808" inReplyToId="" tweetUserName="DevHawk" />
+				</outline>
 			<outline text="February 11" type="calendarDay" name="11" >
-				<outline text="I resolved my winget / PC Health Check upgrade issue by uninstalling PC Health Check via uninstall UI in settings app. For some reason, there were TWO copies of PC Health Check installed, which apparently confused winget to the point of being unable to update or uninstall either" type="tweet" created="Fri, 11 Feb 2022 22:16:29 GMT" tweetId="1492261282312966146" urltweet="https://twitter.com/DevHawk/status/1492261282312966146" inReplyToId="" tweetUserName="DevHawk" >
+				<outline text="I resolved my winget / PC Health Check upgrade issue by uninstalling PC Health Check via uninstall UI in settings app. For some reason, there were TWO copies of PC Health Check installed, which apparently confused winget to the point of being unable to update or uninstall either" type="tweet" created="Fri, 11 Feb 2022 22:16:29 GMT" tweetId="1492261282312966146" urltweet="https://twitter.com/DevHawk/status/1492261282312966146" tweetUserName="DevHawk" >
 					<outline text="winget: still not quite ready for prime time" type="tweet" created="Fri, 11 Feb 2022 22:16:29 GMT" tweetId="1492261283499954176" urltweet="https://twitter.com/DevHawk/status/1492261283499954176" inReplyToId="1492261282312966146" tweetUserName="DevHawk" />
 					</outline>
 				</outline>
