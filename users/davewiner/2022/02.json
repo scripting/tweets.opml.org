@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 19:41:52 GMT"
+            "dateModified": "Mon, 14 Feb 2022 19:44:52 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "It would be *lovely* if, after Putin attacked -- Ukraine won and drove the Russian army back to Moscow and then the Pacific.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 19:44:38 GMT",
+                                    "tweetId": "1493310234168901636",
+                                    "urltweet": "https://twitter.com/davewiner/status/1493310234168901636",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "In Frontier we have two verbs that can be used to normalize the formatting of XML files. They are:\n\nxml.compile (xmltext) returns xstruct\n\nxml.decompile (xstruct) returns xmltext\n\nIs there the equivalent in Node.js?",
                                     "type": "tweet",
