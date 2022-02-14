@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 02:08:18 GMT"
+            "dateModified": "Mon, 14 Feb 2022 02:10:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@rainw I liked that one too.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Feb 2022 02:09:25 GMT",
+                                    "tweetId": "1493044680317153286",
+                                    "urltweet": "https://twitter.com/davewiner/status/1493044680317153286",
+                                    "inReplyToId": "1493043181478371335",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "What do you think of Sonos Roam? <a href=\"https://t.co/029Gt0YOpJ\">[link]</a>",
                                     "type": "tweet",
