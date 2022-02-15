@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 01:01:32 GMT"
+            "dateModified": "Tue, 15 Feb 2022 05:20:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Wordle 241 4/6\n\n⬛⬛🟩🟨⬛\n🟩⬛🟩🟨⬛\n🟩🟨🟩⬛🟨\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 05:12:58 GMT",
+                                    "tweetId": "1493453256546267139",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1493453256546267139",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
