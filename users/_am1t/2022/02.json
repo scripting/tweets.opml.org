@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 18:07:51 GMT"
+            "dateModified": "Tue, 15 Feb 2022 14:12:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Why <a href=\"https://t.co/67HKeawtgK\">[link]</a> works for me?: https://t.co/rFR4dzLAWJ",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 14:02:59 GMT",
+                                    "tweetId": "1493586641386102788",
+                                    "urltweet": "https://twitter.com/_am1t/status/1493586641386102788",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
