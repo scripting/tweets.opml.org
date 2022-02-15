@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 12:28:59 GMT"
+            "dateModified": "Tue, 15 Feb 2022 05:27:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Wordle 241 4/6\n\n⬛⬛🟩🟨⬛\n🟩⬛⬛⬛⬛\n🟩🟩⬛🟨⬛\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 05:22:21 GMT",
+                                    "tweetId": "1493455619977793536",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1493455619977793536",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
