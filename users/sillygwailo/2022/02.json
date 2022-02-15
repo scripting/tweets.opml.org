@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 17:16:17 GMT"
+            "dateModified": "Tue, 15 Feb 2022 02:05:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "@syncros @SunOfToronto Oops! I forgot to sell my chocolate futures!",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 01:57:29 GMT",
+                                    "tweetId": "1493404064503246851",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1493404064503246851",
+                                    "inReplyToId": "1493403137494900739",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "Happy Valentine’s Day! I’m raising funds for @StFelixCentre and will walk 5 km at the end of the month. Every donation gets me closer to my goal of $1,000 to help those experiencing homelessness get sheltered and stay fed. Visit the link to donate! <a href=\"https://t.co/MGdJcGUIKI\">[link]</a>",
                                     "type": "tweet",
