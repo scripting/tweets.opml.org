@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 15:21:58 GMT"
+            "dateModified": "Tue, 15 Feb 2022 18:22:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@Lexaphus @JewWhoHasItAll Did you see the post on @opensiddur ?",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 18:19:21 GMT",
+                                    "tweetId": "1493651159978020864",
+                                    "urltweet": "https://twitter.com/yudel/status/1493651159978020864",
+                                    "inReplyToId": "1493650938686545921",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@doctorow, what do you make of this proposal from my congressman? RELEASE: Gottheimer Announces “Stablecoin Innovation and Protection Act,” Critical New Cryptocurrency Legislation <a href=\"https://t.co/z8A5N8qRl9\">[link]</a>",
                                     "type": "tweet",
