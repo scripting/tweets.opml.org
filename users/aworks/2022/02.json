@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 16:07:43 GMT"
+            "dateModified": "Tue, 15 Feb 2022 13:52:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/Tw3geHHzm7\">[link]</a> Stories via @thewiremagazine @PlusMinusEns @cookylamoo",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 13:47:49 GMT",
+                                    "tweetId": "1493582825295159296",
+                                    "urltweet": "https://twitter.com/aworks/status/1493582825295159296",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
