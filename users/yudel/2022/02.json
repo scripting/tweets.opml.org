@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 03:21:11 GMT"
+            "dateModified": "Tue, 15 Feb 2022 06:10:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,42 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@Historycourses It’s really easy, up to a point. That point being where someone objects to your edits, and you’re invested enough to care.",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 06:04:52 GMT",
+                                    "tweetId": "1493466319341199363",
+                                    "urltweet": "https://twitter.com/yudel/status/1493466319341199363",
+                                    "inReplyToId": "1493464558845022214",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@Historycourses Starting a new entry can be difficult, because people may want you to prove “notability”",
+                                            "type": "tweet",
+                                            "created": "Tue, 15 Feb 2022 06:07:34 GMT",
+                                            "tweetId": "1493466999187509250",
+                                            "urltweet": "https://twitter.com/yudel/status/1493466999187509250",
+                                            "inReplyToId": "1493466319341199363",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@jeremyfprice As long as they baptize in the first person singular, they gotta own it.",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 06:01:57 GMT",
+                                    "tweetId": "1493465584012562434",
+                                    "urltweet": "https://twitter.com/yudel/status/1493465584012562434",
+                                    "inReplyToId": "1493465272816132096",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
