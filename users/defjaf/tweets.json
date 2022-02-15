@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 23:55:25 GMT"
+            "dateModified": "Tue, 15 Feb 2022 10:15:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@DrEOChapman I have lost a sleeping bag up there.",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 10:07:32 GMT",
+                                    "tweetId": "1493527387950223364",
+                                    "urltweet": "https://twitter.com/defjaf/status/1493527387950223364",
+                                    "inReplyToId": "1493492472152047616",
+                                    "tweetUserName": "defjaf"
+                                },
+                                {
+                                    "text": "@TomHaworthAstro @jr_pritchard In fact, most of the admin and students consider the degree to be our “product”, rather than, y’know, education. So this would indeed be more impactful but I wonder if we would actually have less student support.",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 10:06:42 GMT",
+                                    "tweetId": "1493527180990685188",
+                                    "urltweet": "https://twitter.com/defjaf/status/1493527180990685188",
+                                    "inReplyToId": "1493512247792054273",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
