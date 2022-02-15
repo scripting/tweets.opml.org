@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 06:10:07 GMT"
+            "dateModified": "Tue, 15 Feb 2022 06:21:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@Historycourses Wikipedia won’t let any topic have an entry. And there are editors who rejoice in batting down “non-notable” entries. Someone made a page about me but it was deleted a few years back.",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 06:10:55 GMT",
+                                    "tweetId": "1493467840653021189",
+                                    "urltweet": "https://twitter.com/yudel/status/1493467840653021189",
+                                    "inReplyToId": "1493467224262201351",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@Historycourses Here’s some info on the policy: <a href=\"https://t.co/l9HKj4T4ZU\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Tue, 15 Feb 2022 06:12:15 GMT",
+                                            "tweetId": "1493468176318930946",
+                                            "urltweet": "https://twitter.com/yudel/status/1493468176318930946",
+                                            "inReplyToId": "1493467840653021189",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@Historycourses It’s really easy, up to a point. That point being where someone objects to your edits, and you’re invested enough to care.",
                                     "type": "tweet",
