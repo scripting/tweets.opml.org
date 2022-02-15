@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 00:32:30 GMT"
+            "dateModified": "Tue, 15 Feb 2022 23:37:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "little man with a torch inside my nose. : ((",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 23:30:44 GMT",
+                                    "tweetId": "1493729520024797186",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1493729520024797186",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
