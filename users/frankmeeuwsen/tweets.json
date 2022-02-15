@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 07:50:59 GMT"
+            "dateModified": "Tue, 15 Feb 2022 17:25:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@Guuzbourg Urban Dance Squad - Mental Floss for the Globe",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 17:21:01 GMT",
+                                    "tweetId": "1493636480283160578",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1493636480283160578",
+                                    "inReplyToId": "1493616431300284419",
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "@Guuzbourg Maar eigenlijk ook wel de eerste Gotcha of Extince.",
+                                            "type": "tweet",
+                                            "created": "Tue, 15 Feb 2022 17:23:17 GMT",
+                                            "tweetId": "1493637048166723593",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1493637048166723593",
+                                            "inReplyToId": "1493636480283160578",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Fijne Grover Appreciation Day allen! Met dank aan @scalzi <a href=\"https://t.co/2vvBubvHOF\">[link]</a> https://t.co/nseIOxy8CP",
                                     "type": "tweet",
