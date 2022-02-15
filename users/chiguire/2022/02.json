@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 17:53:20 GMT"
+            "dateModified": "Tue, 15 Feb 2022 09:28:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@ErCuatrista @boootanita Sí, detalles <a href=\"https://t.co/aQeORs44Ap\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 09:18:29 GMT",
+                                    "tweetId": "1493515043878715395",
+                                    "urltweet": "https://twitter.com/chiguire/status/1493515043878715395",
+                                    "inReplyToId": "1493513299257970688",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
