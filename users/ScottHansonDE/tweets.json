@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 13:17:05 GMT"
+            "dateModified": "Tue, 15 Feb 2022 13:28:20 GMT"
         },
         "body": {
             "subs": [
@@ -26,7 +26,18 @@
                                     "created": "Tue, 15 Feb 2022 13:05:55 GMT",
                                     "tweetId": "1493572279250432004",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1493572279250432004",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "Makes sense, we don’t seem to be on the beaver map <a href=\"https://t.co/euGSrNu3MX\">[link]</a> https://t.co/R6BBjWNRg4",
+                                            "type": "tweet",
+                                            "created": "Tue, 15 Feb 2022 13:25:33 GMT",
+                                            "tweetId": "1493577219653836803",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1493577219653836803",
+                                            "inReplyToId": "1493572279250432004",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 }
                             ]
                         },
