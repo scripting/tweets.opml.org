@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 17:23:33 GMT"
+            "dateModified": "Tue, 15 Feb 2022 13:39:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@ds106dc Did you say rivet or riveting? #ds106 #tdc3687\n<a href=\"https://t.co/MgsgLzaRRz\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Feb 2022 13:35:16 GMT",
+                                    "tweetId": "1493579665155502081",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1493579665155502081",
+                                    "inReplyToId": "1493570555475226626",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
