@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 03:28:39 GMT"
+            "dateModified": "Wed, 16 Feb 2022 18:24:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,49 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@timheuer <a href=\"https://t.co/YwsJ0tw1Xg\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 18:23:02 GMT",
+                                    "tweetId": "1494014471966105603",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1494014471966105603",
+                                    "inReplyToId": "1494013234046668802",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "Can anyone suggest a better solution for remote access *to* MacOS *from* Windows than Chrome Remote Desktop?\n\nChrome Remote Desktop is serviceable but doesn't hold a candle to Windows Remote Desktop.",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 18:20:07 GMT",
+                                    "tweetId": "1494013739128934400",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1494013739128934400",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "Uhhh... <a href=\"https://t.co/F29wzkeE9Z\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 18:14:39 GMT",
+                                    "tweetId": "1494012365230071810",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1494012365230071810",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "Right after I took this screen shot, the estimate dropped to 18 minutes. Apparently Windows isn't the only OS that does a shitty job estimating how long operations are expected to take.",
+                                            "type": "tweet",
+                                            "created": "Wed, 16 Feb 2022 18:15:50 GMT",
+                                            "tweetId": "1494012659259240448",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1494012659259240448",
+                                            "inReplyToId": "1494012365230071810",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
