@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 16:31:04 GMT"
+            "dateModified": "Wed, 16 Feb 2022 16:42:20 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "Wondering whether @YUNews, which provides a home to the Innocence Project, will speak out to defend the Jewish value of not executing innocent people. <a href=\"https://t.co/Ip3YNXxd0Z\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 16:31:51 GMT",
+                                    "tweetId": "1493986492946989059",
+                                    "urltweet": "https://twitter.com/yudel/status/1493986492946989059",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@YUNews I suppose I should call some of the local rabbis who endorsed Cruz back in the day: <a href=\"https://t.co/eCeQi4LHU9\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Wed, 16 Feb 2022 16:34:12 GMT",
+                                            "tweetId": "1493987083576295424",
+                                            "urltweet": "https://twitter.com/yudel/status/1493987083576295424",
+                                            "inReplyToId": "1493986492946989059",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@avishaiw zeh v'zeh divrei elokim chayim.",
                                     "type": "tweet",
