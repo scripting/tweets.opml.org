@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 22:55:12 GMT"
+            "dateModified": "Wed, 16 Feb 2022 20:19:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@EddieRohe Ay no, me la perdí! 😞",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 20:11:19 GMT",
+                                    "tweetId": "1494041724536119304",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1494041724536119304",
+                                    "inReplyToId": "1494020301549719559",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 15",
                             "type": "calendarDay",
