@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 22:39:56 GMT"
+            "dateModified": "Wed, 16 Feb 2022 15:33:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "In Beowulf's time, a desirable guy was someone ready to tear the arm off whatever monster came crawling out of the darkness toward the village hall, or die trying.",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 15:23:49 GMT",
+                                    "tweetId": "1493969373148684290",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1493969373148684290",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 15",
                             "type": "calendarDay",
