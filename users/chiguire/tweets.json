@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 10:59:43 GMT"
+            "dateModified": "Wed, 16 Feb 2022 16:37:35 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "@emiduarte Como las Barbies, una para cada gusto",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 16:36:21 GMT",
+                                    "tweetId": "1493987625669124098",
+                                    "urltweet": "https://twitter.com/chiguire/status/1493987625669124098",
+                                    "inReplyToId": "1493987367941726210",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@CarlaStabile @Negrecio <a href=\"https://t.co/tok4xZvTX0\">[link]</a>",
                                     "type": "tweet",
