@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 13:52:22 GMT"
+            "dateModified": "Wed, 16 Feb 2022 13:53:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/Ld0tLGz8qt\">[link]</a> Stories via @MusicalAmerica @jennjolley @kenjikojimacom",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 13:48:03 GMT",
+                                    "tweetId": "1493945273009246211",
+                                    "urltweet": "https://twitter.com/aworks/status/1493945273009246211",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 15",
                             "type": "calendarDay",
