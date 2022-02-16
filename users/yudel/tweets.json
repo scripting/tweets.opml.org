@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 18:57:29 GMT"
+            "dateModified": "Wed, 16 Feb 2022 20:05:03 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "@dylanotes What do you make of the Menendez / Graham press release the other day?",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 19:57:57 GMT",
+                                    "tweetId": "1494038360612085766",
+                                    "urltweet": "https://twitter.com/yudel/status/1494038360612085766",
+                                    "inReplyToId": "1494037486649102341",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "Get it while you can. <a href=\"https://t.co/btxlThySi6\">[link]</a>",
                                     "type": "tweet",
