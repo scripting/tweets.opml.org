@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 13:46:04 GMT"
+            "dateModified": "Wed, 16 Feb 2022 13:47:04 GMT"
         },
         "body": {
             "subs": [
@@ -26,7 +26,18 @@
                                     "created": "Wed, 16 Feb 2022 13:45:44 GMT",
                                     "tweetId": "1493944688281329665",
                                     "urltweet": "https://twitter.com/davewiner/status/1493944688281329665",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "US Senators probably like it too.",
+                                            "type": "tweet",
+                                            "created": "Wed, 16 Feb 2022 13:46:14 GMT",
+                                            "tweetId": "1493944812902486021",
+                                            "urltweet": "https://twitter.com/davewiner/status/1493944812902486021",
+                                            "inReplyToId": "1493944688281329665",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Facebook to begin laying cable through fishing grounds off Nova Scotia. <a href=\"https://t.co/Nw4WT8S0XJ\">[link]</a>",
