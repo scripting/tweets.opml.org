@@ -6,13 +6,22 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Mon, 14 Feb 2022 03:28:39 GMT</dateModified>
+		<dateModified>Wed, 16 Feb 2022 18:24:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 16" type="calendarDay" name="16" >
+				<outline text="@timheuer &lt;a href=&quot;https://t.co/YwsJ0tw1Xg&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 16 Feb 2022 18:23:02 GMT" tweetId="1494014471966105603" urltweet="https://twitter.com/DevHawk/status/1494014471966105603" inReplyToId="1494013234046668802" tweetUserName="DevHawk" />
+				<outline text="Can anyone suggest a better solution for remote access *to* MacOS *from* Windows than Chrome Remote Desktop?
+
+Chrome Remote Desktop is serviceable but doesn't hold a candle to Windows Remote Desktop." type="tweet" created="Wed, 16 Feb 2022 18:20:07 GMT" tweetId="1494013739128934400" urltweet="https://twitter.com/DevHawk/status/1494013739128934400" inReplyToId="" tweetUserName="DevHawk" />
+				<outline text="Uhhh... &lt;a href=&quot;https://t.co/F29wzkeE9Z&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 16 Feb 2022 18:14:39 GMT" tweetId="1494012365230071810" urltweet="https://twitter.com/DevHawk/status/1494012365230071810" inReplyToId="" tweetUserName="DevHawk" >
+					<outline text="Right after I took this screen shot, the estimate dropped to 18 minutes. Apparently Windows isn't the only OS that does a shitty job estimating how long operations are expected to take." type="tweet" created="Wed, 16 Feb 2022 18:15:50 GMT" tweetId="1494012659259240448" urltweet="https://twitter.com/DevHawk/status/1494012659259240448" inReplyToId="1494012365230071810" tweetUserName="DevHawk" />
+					</outline>
+				</outline>
 			<outline text="February 13" type="calendarDay" name="13" >
 				<outline text="I would like to thank the Rams, Bengals and everyone working on the 
-Super Bowl for finishing the game in a timely fashion before my hockey game 😂" type="tweet" created="Mon, 14 Feb 2022 03:20:19 GMT" tweetId="1493062519585271808" urltweet="https://twitter.com/DevHawk/status/1493062519585271808" inReplyToId="" tweetUserName="DevHawk" />
+Super Bowl for finishing the game in a timely fashion before my hockey game 😂" type="tweet" created="Mon, 14 Feb 2022 03:20:19 GMT" tweetId="1493062519585271808" urltweet="https://twitter.com/DevHawk/status/1493062519585271808" tweetUserName="DevHawk" />
 				</outline>
 			<outline text="February 11" type="calendarDay" name="11" >
 				<outline text="I resolved my winget / PC Health Check upgrade issue by uninstalling PC Health Check via uninstall UI in settings app. For some reason, there were TWO copies of PC Health Check installed, which apparently confused winget to the point of being unable to update or uninstall either" type="tweet" created="Fri, 11 Feb 2022 22:16:29 GMT" tweetId="1492261282312966146" urltweet="https://twitter.com/DevHawk/status/1492261282312966146" tweetUserName="DevHawk" >
