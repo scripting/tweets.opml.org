@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 17:28:30 GMT"
+            "dateModified": "Wed, 16 Feb 2022 17:35:31 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "I think the answer might be this -- humanity doesn't scale to the level we're at now. At least. Maybe it stopped working a long time ago, it's just taking this long to play out.",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 17:34:43 GMT",
+                                    "tweetId": "1494002312167231496",
+                                    "urltweet": "https://twitter.com/davewiner/status/1494002312167231496",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Promises, async and await were the wrong answer to callback hell. <a href=\"https://t.co/4Dg1KQ9pmw\">[link]</a>",
                                     "type": "tweet",
