@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 18:24:57 GMT"
+            "dateModified": "Wed, 16 Feb 2022 18:36:12 GMT"
         },
         "body": {
             "subs": [
@@ -52,7 +52,29 @@
                                             "tweetId": "1494012659259240448",
                                             "urltweet": "https://twitter.com/DevHawk/status/1494012659259240448",
                                             "inReplyToId": "1494012365230071810",
-                                            "tweetUserName": "DevHawk"
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "LOL <a href=\"https://t.co/lNzHXSnSi2\">[link]</a>",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 16 Feb 2022 18:29:56 GMT",
+                                                    "tweetId": "1494016210119249923",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1494016210119249923",
+                                                    "inReplyToId": "1494012659259240448",
+                                                    "tweetUserName": "DevHawk",
+                                                    "subs": [
+                                                        {
+                                                            "text": "That's &lt;checks notes&gt; pretty bad estimation <a href=\"https://t.co/cYq4DjX67e\">[link]</a>",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 16 Feb 2022 18:31:08 GMT",
+                                                            "tweetId": "1494016510456524800",
+                                                            "urltweet": "https://twitter.com/DevHawk/status/1494016510456524800",
+                                                            "inReplyToId": "1494016210119249923",
+                                                            "tweetUserName": "DevHawk"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
