@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 17:38:38 GMT"
+            "dateModified": "Wed, 16 Feb 2022 18:57:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,34 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "Get it while you can. <a href=\"https://t.co/btxlThySi6\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 18:48:20 GMT",
+                                    "tweetId": "1494020841528602624",
+                                    "urltweet": "https://twitter.com/yudel/status/1494020841528602624",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@typolad Coffee, delight, or bath?",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 18:47:14 GMT",
+                                    "tweetId": "1494020562494107652",
+                                    "urltweet": "https://twitter.com/yudel/status/1494020562494107652",
+                                    "inReplyToId": "1494017162448719880",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@typolad or shifting from staunch secularism to staunch Islamicism and authoritarianism?",
+                                            "type": "tweet",
+                                            "created": "Wed, 16 Feb 2022 18:47:55 GMT",
+                                            "tweetId": "1494020733718122499",
+                                            "urltweet": "https://twitter.com/yudel/status/1494020733718122499",
+                                            "inReplyToId": "1494020562494107652",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@froomkin Not if the Democrats don’t take the lead in demonizing the son of JFK’s assassin as someone who wants more innocent Americans to die.",
                                     "type": "tweet",
