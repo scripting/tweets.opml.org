@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 19:24:28 GMT"
+            "dateModified": "Wed, 16 Feb 2022 18:29:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@nntaleb In Russia they have another label: useful fools",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 18:25:40 GMT",
+                                    "tweetId": "1494015135861587971",
+                                    "urltweet": "https://twitter.com/miljko/status/1494015135861587971",
+                                    "inReplyToId": "1494013608854016000",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 15",
                             "type": "calendarDay",
