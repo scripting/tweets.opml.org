@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 19:22:58 GMT"
+            "dateModified": "Wed, 16 Feb 2022 10:23:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@alexbkane @JamaalBowmanNY Thank you @JamaalBowmanNY \n\n#BDS info: <a href=\"https://t.co/b8NoCuHWC1\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 10:18:57 GMT",
+                                    "tweetId": "1493892650176503810",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1493892650176503810",
+                                    "inReplyToId": "1493732220166680579",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 15",
                             "type": "calendarDay",
