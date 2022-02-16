@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 23:05:14 GMT"
+            "dateModified": "Wed, 16 Feb 2022 23:27:46 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "@datadivajf <a href=\"https://t.co/JGiwdlLnrT\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 23:23:34 GMT",
+                                    "tweetId": "1494090106789052417",
+                                    "urltweet": "https://twitter.com/yudel/status/1494090106789052417",
+                                    "inReplyToId": "1494087492051472386",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@onthemainline About a century before the shorter “zayin” would be invented.",
                                     "type": "tweet",
