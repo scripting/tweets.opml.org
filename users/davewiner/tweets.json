@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 22:31:37 GMT"
+            "dateModified": "Wed, 16 Feb 2022 22:32:37 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/IKUAVkfJID\">[link]</a>. https://t.co/e52oV9E1iZ",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 22:32:05 GMT",
+                                    "tweetId": "1494077148327518208",
+                                    "urltweet": "https://twitter.com/davewiner/status/1494077148327518208",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@leolaporte -- im watching your show -- loving it. ;-)",
                                     "type": "tweet",
