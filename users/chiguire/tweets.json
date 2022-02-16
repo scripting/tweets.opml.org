@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 10:58:11 GMT"
+            "dateModified": "Wed, 16 Feb 2022 10:03:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@diyelectromusic @hackaday Play music by numbers",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 09:54:22 GMT",
+                                    "tweetId": "1493886464865841155",
+                                    "urltweet": "https://twitter.com/chiguire/status/1493886464865841155",
+                                    "inReplyToId": "1493885797937950720",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 15",
                             "type": "calendarDay",
