@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 16:08:33 GMT"
+            "dateModified": "Wed, 16 Feb 2022 16:31:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "@avishaiw zeh v'zeh divrei elokim chayim.",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 16:27:49 GMT",
+                                    "tweetId": "1493985476377731077",
+                                    "urltweet": "https://twitter.com/yudel/status/1493985476377731077",
+                                    "inReplyToId": "1493984017947193347",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@dzkalman @yitzlandes My kids have no interest in @yudel.com email addresses. \n\nThis despite having a <a href=\"https://t.co/6aTiHcJF5F\">[link]</a> domain for one of their birth announcements.",
                                     "type": "tweet",
