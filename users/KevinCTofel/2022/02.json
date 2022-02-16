@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 07:14:44 GMT"
+            "dateModified": "Wed, 16 Feb 2022 07:25:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,23 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "The guac must flow. <a href=\"https://t.co/gGgcSAEmhA\">[link]</a> https://t.co/tBzg0ibSP7",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 07:20:15 GMT",
+                                    "tweetId": "1493847677284589569",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1493847677284589569",
+                                    "tweetUserName": "KevinCTofel"
+                                },
+                                {
+                                    "text": "@davidchu Ask me again in 24 hours. I don’t want my answer to your question to be an unwanted hint for others. 😉",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 07:16:45 GMT",
+                                    "tweetId": "1493846799026688001",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1493846799026688001",
+                                    "inReplyToId": "1493844165423431687",
+                                    "tweetUserName": "KevinCTofel"
+                                },
                                 {
                                     "text": "Wordle 242 3/6 🤓🤓🤓\n\n⬛⬛🟨🟨⬛\n🟩🟩⬛⬛⬛\n🟩🟩🟩🟩🟩",
                                     "type": "tweet",
