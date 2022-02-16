@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 03:56:31 GMT"
+            "dateModified": "Wed, 16 Feb 2022 04:07:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@NickTagliaferro There’s a blog for that. <a href=\"https://t.co/9gDaI4An9s\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 03:58:55 GMT",
+                                    "tweetId": "1493797011111428106",
+                                    "urltweet": "https://twitter.com/yudel/status/1493797011111428106",
+                                    "inReplyToId": "1493795231027941376",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@KurtBusiek Because these times demand more than forewarning and more than four arms. Doc Oc for Senate.",
                                     "type": "tweet",
