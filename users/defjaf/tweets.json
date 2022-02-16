@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Feb 2022 10:15:08 GMT"
+            "dateModified": "Wed, 16 Feb 2022 21:21:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "I only just realised that there are two different von Mises.",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 21:16:48 GMT",
+                                    "tweetId": "1494058201293234180",
+                                    "urltweet": "https://twitter.com/defjaf/status/1494058201293234180",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 15",
                             "type": "calendarDay",
