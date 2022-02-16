@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 04:07:47 GMT"
+            "dateModified": "Wed, 16 Feb 2022 04:41:34 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@ShammaBoyarin Not going to see if they’re promoting crypto, but given that it’s very easy for non-profits to accept it, no reason some of the money extracted from rye bubble shouldn’t go to charity.",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 04:38:06 GMT",
+                                    "tweetId": "1493806872515723264",
+                                    "urltweet": "https://twitter.com/yudel/status/1493806872515723264",
+                                    "inReplyToId": "1493805418316918785",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@ShammaBoyarin The local federation starters accepting, and a new donor emerged who donated a million. <a href=\"https://t.co/oN1VDtlAbf\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Wed, 16 Feb 2022 04:39:57 GMT",
+                                            "tweetId": "1493807338641313792",
+                                            "urltweet": "https://twitter.com/yudel/status/1493807338641313792",
+                                            "inReplyToId": "1493806872515723264",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@ShammaBoyarin Much more disturbed by the local philanthropist who is holding Web 3 parlor meetings.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 16 Feb 2022 04:40:34 GMT",
+                                                    "tweetId": "1493807493901914116",
+                                                    "urltweet": "https://twitter.com/yudel/status/1493807493901914116",
+                                                    "inReplyToId": "1493807338641313792",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@NickTagliaferro There’s a blog for that. <a href=\"https://t.co/9gDaI4An9s\">[link]</a>",
                                     "type": "tweet",
