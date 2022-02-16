@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 22:23:36 GMT"
+            "dateModified": "Wed, 16 Feb 2022 22:26:37 GMT"
         },
         "body": {
             "subs": [
@@ -26,7 +26,18 @@
                                     "created": "Wed, 16 Feb 2022 22:22:37 GMT",
                                     "tweetId": "1494074764872359946",
                                     "urltweet": "https://twitter.com/davewiner/status/1494074764872359946",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "there are more blogs today than there ever were",
+                                            "type": "tweet",
+                                            "created": "Wed, 16 Feb 2022 22:25:58 GMT",
+                                            "tweetId": "1494075610443964423",
+                                            "urltweet": "https://twitter.com/davewiner/status/1494075610443964423",
+                                            "inReplyToId": "1494074764872359946",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "The Pandemic Isn’t Over for Immunocompromised People. <a href=\"https://t.co/6r1CxpmBqb\">[link]</a>",
