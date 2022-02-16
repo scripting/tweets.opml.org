@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 14:07:40 GMT"
+            "dateModified": "Wed, 16 Feb 2022 18:15:26 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "@CatherineOmega <a href=\"https://t.co/rFPFgRxAdZ\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Feb 2022 16:06:33 GMT",
+                                    "tweetId": "1493980126480064522",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1493980126480064522",
+                                    "inReplyToId": "1493977578427666435",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@1Password If I’m required change my password every 3 months, I set a reminder to do it every 2 months, so I can do it at any point during the day. Even though 1Password makes the process somewhat quick, I never want to have to do it in the middle of a critical moment.\n\nOtherwise never.",
                                     "type": "tweet",
@@ -94,7 +103,18 @@
                                     "tweetId": "1493270549912555522",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1493270549912555522",
                                     "inReplyToId": "1482803326932639747",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "10 days to go! Please consider donating so I can achieve my fundraising goal of $1,000 in support of @StFelixCentre! <a href=\"https://t.co/MGdJcGUIKI\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Wed, 16 Feb 2022 18:08:07 GMT",
+                                            "tweetId": "1494010720173936654",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1494010720173936654",
+                                            "inReplyToId": "1493270549912555522",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "<a href=\"https://t.co/dZPWHyZ9Ez\">[link]</a> https://t.co/ae0b8f2VOX",
