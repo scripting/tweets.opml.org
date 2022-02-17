@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 17:28:55 GMT"
+            "dateModified": "Thu, 17 Feb 2022 17:40:11 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "@daveschechter Very much.",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Feb 2022 17:32:44 GMT",
+                                    "tweetId": "1494364202311589895",
+                                    "urltweet": "https://twitter.com/yudel/status/1494364202311589895",
+                                    "inReplyToId": "1494362376333926407",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@datadivajf @GettyMuseum In the office.",
                                     "type": "tweet",
