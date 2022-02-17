@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 04:20:34 GMT"
+            "dateModified": "Thu, 17 Feb 2022 14:51:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,55 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@bernstein_judah Did you see yesterday’s JTA report about the Boston Chabad arsons?",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Feb 2022 14:41:10 GMT",
+                                    "tweetId": "1494321024489312260",
+                                    "urltweet": "https://twitter.com/yudel/status/1494321024489312260",
+                                    "inReplyToId": "1494293014654734336",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@bernstein_judah Bad police work delayed catching the criminal.",
+                                            "type": "tweet",
+                                            "created": "Thu, 17 Feb 2022 14:41:31 GMT",
+                                            "tweetId": "1494321113869991938",
+                                            "urltweet": "https://twitter.com/yudel/status/1494321113869991938",
+                                            "inReplyToId": "1494321024489312260",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@bernstein_judah And the attack was taken as evidence of “rising antisemitism” rather than a globalized network of internet radicalized  terrorist youths, which would be more specific and more accurate.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 17 Feb 2022 14:42:53 GMT",
+                                                    "tweetId": "1494321458667044864",
+                                                    "urltweet": "https://twitter.com/yudel/status/1494321458667044864",
+                                                    "inReplyToId": "1494321113869991938",
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@bernstein_judah Of course, that spin would make antifa researchers good guys, which is not a narrative that can be accepted in a bipartisan environment.",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 17 Feb 2022 14:44:26 GMT",
+                                                            "tweetId": "1494321850049982469",
+                                                            "urltweet": "https://twitter.com/yudel/status/1494321850049982469",
+                                                            "inReplyToId": "1494321458667044864",
+                                                            "tweetUserName": "yudel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 16",
                             "type": "calendarDay",
