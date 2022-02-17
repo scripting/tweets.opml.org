@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 10:49:59 GMT"
+            "dateModified": "Thu, 17 Feb 2022 12:20:05 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "@meowmentai 😭",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Feb 2022 12:16:23 GMT",
+                                    "tweetId": "1494284590189535232",
+                                    "urltweet": "https://twitter.com/chiguire/status/1494284590189535232",
+                                    "inReplyToId": "1494277685710893056",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Nada como ese sentimiento de seguridad cuando tu aseguradora te manda un mensaje de texto dándote consejos de cómo proteger tu casa de la tormenta Eunice",
                                     "type": "tweet",
