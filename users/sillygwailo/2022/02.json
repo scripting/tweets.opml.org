@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 21:38:09 GMT"
+            "dateModified": "Thu, 17 Feb 2022 06:27:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Always stay till the end.",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Feb 2022 06:23:26 GMT",
+                                    "tweetId": "1494195768764379138",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1494195768764379138",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 16",
                             "type": "calendarDay",
