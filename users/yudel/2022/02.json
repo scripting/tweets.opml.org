@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 15:36:18 GMT"
+            "dateModified": "Thu, 17 Feb 2022 16:43:52 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "@datadivajf @GettyMuseum Say hi to my sister!",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Feb 2022 16:43:00 GMT",
+                                    "tweetId": "1494351685359218693",
+                                    "urltweet": "https://twitter.com/yudel/status/1494351685359218693",
+                                    "inReplyToId": "1494347788934533120",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@bernstein_judah Not if your salary depended on keeping old, wealthy, Fox-watching Jews happy. Which is by definition the case for legacy institutions.",
                                     "type": "tweet",
