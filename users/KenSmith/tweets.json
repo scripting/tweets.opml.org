@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 19:07:29 GMT"
+            "dateModified": "Thu, 17 Feb 2022 12:46:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "‘The book – the actual physical paper bound object full of words – is a treasure in this modern era. A book contains an entire universe you can only bring to life in your imagination, if you agree to give it time. It is a tribute to privacy, an honouring of the interior life.’ <a href=\"https://t.co/xmzO6NtF1N\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Feb 2022 12:36:19 GMT",
+                                    "tweetId": "1494289607617298432",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1494289607617298432",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "From Still Reading, an exhibition of paintings by Nancy Cadogan and sculptures by Martin Jennings. (Cadogan’s words and image detail above.)\n\n<a href=\"https://t.co/fm8UXt39T3\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Thu, 17 Feb 2022 12:36:20 GMT",
+                                            "tweetId": "1494289609806786560",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1494289609806786560",
+                                            "inReplyToId": "1494289607617298432",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 16",
                             "type": "calendarDay",
