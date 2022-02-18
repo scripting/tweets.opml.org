@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 06:02:58 GMT"
+            "dateModified": "Fri, 18 Feb 2022 10:33:16 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "@MikevHoenselaar Hou op.",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 10:22:46 GMT",
+                                    "tweetId": "1494618383765102594",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1494618383765102594",
+                                    "inReplyToId": "1494616652180299785",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
                                 {
                                     "text": "@PeterBeckers Ja daar had ik dus mooi niks aan…",
                                     "type": "tweet",
