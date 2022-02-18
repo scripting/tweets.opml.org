@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 06:53:02 GMT"
+            "dateModified": "Fri, 18 Feb 2022 10:04:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "@bruces All of you get well, and drink a lot of fluids!",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 09:53:15 GMT",
+                                    "tweetId": "1494610958328733703",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1494610958328733703",
+                                    "inReplyToId": "1494601104163807236",
+                                    "tweetUserName": "redjade_hu"
+                                },
                                 {
                                     "text": "#scriptingnews <a href=\"https://t.co/bm7BG175nJ\">[link]</a>",
                                     "type": "tweet",
