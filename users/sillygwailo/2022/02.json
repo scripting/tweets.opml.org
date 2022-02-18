@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 13:25:42 GMT"
+            "dateModified": "Fri, 18 Feb 2022 13:59:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "The COVID barriers inside Toronto restaurants are starting to come down.",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 13:52:36 GMT",
+                                    "tweetId": "1494671191059091461",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1494671191059091461",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 17",
                             "type": "calendarDay",
