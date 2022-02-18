@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 15:59:07 GMT"
+            "dateModified": "Fri, 18 Feb 2022 16:10:23 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,18 @@
                                     "tweetId": "1494702845400072199",
                                     "urltweet": "https://twitter.com/KenSmith/status/1494702845400072199",
                                     "inReplyToId": "1494559355638894596",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "@princessekateri @holdengraber Not so easy to find the \"Real Nouns\" letter by Jack Gilbert.\n\n<a href=\"https://t.co/FgESfWwT75\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Fri, 18 Feb 2022 15:59:47 GMT",
+                                            "tweetId": "1494703197004472327",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1494703197004472327",
+                                            "inReplyToId": "1494702845400072199",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 }
                             ]
                         },
