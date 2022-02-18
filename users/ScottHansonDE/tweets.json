@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 08:17:37 GMT"
+            "dateModified": "Fri, 18 Feb 2022 08:40:09 GMT"
         },
         "body": {
             "subs": [
@@ -26,7 +26,18 @@
                                     "created": "Fri, 18 Feb 2022 08:15:28 GMT",
                                     "tweetId": "1494586351240556566",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1494586351240556566",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "And should I mention I can’t paste a signature onto the PDF because it’s password-protected?",
+                                            "type": "tweet",
+                                            "created": "Fri, 18 Feb 2022 08:31:55 GMT",
+                                            "tweetId": "1494590490418819123",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1494590490418819123",
+                                            "inReplyToId": "1494586351240556566",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 }
                             ]
                         },
