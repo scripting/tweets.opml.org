@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 13:55:26 GMT"
+            "dateModified": "Fri, 18 Feb 2022 13:56:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/psP3ndYYLH\">[link]</a> Stories via @ubuweb @5against4 @reaktorplayer",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 13:47:49 GMT",
+                                    "tweetId": "1494669989130952707",
+                                    "urltweet": "https://twitter.com/aworks/status/1494669989130952707",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 17",
                             "type": "calendarDay",
