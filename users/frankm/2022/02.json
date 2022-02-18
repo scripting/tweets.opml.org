@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 23:34:30 GMT"
+            "dateModified": "Fri, 18 Feb 2022 16:12:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "The second significant snow fall of the season fell yesterday, and the sun is accentuating the result. <a href=\"https://t.co/3NyJma1Lo4\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 16:03:26 GMT",
+                                    "tweetId": "1494704117956153350",
+                                    "urltweet": "https://twitter.com/frankm/status/1494704117956153350",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 12",
                             "type": "calendarDay",
