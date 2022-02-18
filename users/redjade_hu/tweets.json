@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Feb 2022 15:39:16 GMT"
+            "dateModified": "Fri, 18 Feb 2022 06:53:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "#scriptingnews <a href=\"https://t.co/bm7BG175nJ\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 06:50:05 GMT",
+                                    "tweetId": "1494564862202204196",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1494564862202204196",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 16",
                             "type": "calendarDay",
