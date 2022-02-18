@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 13:59:29 GMT"
+            "dateModified": "Fri, 18 Feb 2022 15:29:35 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "“How long were the protesters planning to paralyze Canada’s 8th best city?” <a href=\"https://t.co/t27DNpcSee\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 15:24:33 GMT",
+                                    "tweetId": "1494694330262556676",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1494694330262556676",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "The COVID barriers inside Toronto restaurants are starting to come down.",
                                     "type": "tweet",
@@ -828,7 +836,18 @@
                                             "tweetId": "1490466451119091712",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1490466451119091712",
                                             "inReplyToId": "1489761929950285831",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "It’s going to be a weird weekend for Canada.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 18 Feb 2022 15:19:25 GMT",
+                                                    "tweetId": "1494693041566896135",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1494693041566896135",
+                                                    "inReplyToId": "1490466451119091712",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
