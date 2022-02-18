@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 13:18:19 GMT"
+            "dateModified": "Fri, 18 Feb 2022 09:52:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "#RealDailyBriefing <a href=\"https://t.co/ns3hQcwTBJ\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 09:48:08 GMT",
+                                    "tweetId": "1494609668467007513",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1494609668467007513",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 12",
                             "type": "calendarDay",
