@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 08:06:36 GMT"
+            "dateModified": "Fri, 18 Feb 2022 08:17:52 GMT"
         },
         "body": {
             "subs": [
@@ -26,7 +26,18 @@
                                     "created": "Fri, 18 Feb 2022 07:55:56 GMT",
                                     "tweetId": "1494581435499491340",
                                     "urltweet": "https://twitter.com/johnjohnston/status/1494581435499491340",
-                                    "tweetUserName": "johnjohnston"
+                                    "tweetUserName": "johnjohnston",
+                                    "subs": [
+                                        {
+                                            "text": "Forgot the photo! <a href=\"https://t.co/vzw1HIxayO\">[link]</a>",
+                                            "type": "tweet",
+                                            "created": "Fri, 18 Feb 2022 08:15:24 GMT",
+                                            "tweetId": "1494586334543032342",
+                                            "urltweet": "https://twitter.com/johnjohnston/status/1494586334543032342",
+                                            "inReplyToId": "1494581435499491340",
+                                            "tweetUserName": "johnjohnston"
+                                        }
+                                    ]
                                 }
                             ]
                         },
