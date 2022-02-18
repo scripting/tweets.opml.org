@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 02:29:30 GMT"
+            "dateModified": "Fri, 18 Feb 2022 03:03:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "@onthemainline Source?",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 02:58:00 GMT",
+                                    "tweetId": "1494506456493834242",
+                                    "urltweet": "https://twitter.com/yudel/status/1494506456493834242",
+                                    "inReplyToId": "1494504193427656706",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@onthemainline @MisfitTorah <a href=\"https://t.co/0FP6wDmfl7\">[link]</a>",
                                     "type": "tweet",
