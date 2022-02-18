@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Feb 2022 22:01:48 GMT"
+            "dateModified": "Fri, 18 Feb 2022 01:04:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@ericnormand I vote for Clojure.",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 01:00:40 GMT",
+                                    "tweetId": "1494476927511396356",
+                                    "urltweet": "https://twitter.com/mal/status/1494476927511396356",
+                                    "inReplyToId": "1494376473880317953",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 13",
                             "type": "calendarDay",
