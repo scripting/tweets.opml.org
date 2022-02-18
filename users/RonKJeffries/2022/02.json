@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 14:03:12 GMT"
+            "dateModified": "Fri, 18 Feb 2022 10:08:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@lasersailor <a href=\"https://t.co/4UTqhGB1QJ\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 09:59:10 GMT",
+                                    "tweetId": "1494612445591072776",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1494612445591072776",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 17",
                             "type": "calendarDay",
