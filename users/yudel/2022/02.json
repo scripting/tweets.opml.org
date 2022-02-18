@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 22:12:01 GMT"
+            "dateModified": "Fri, 18 Feb 2022 23:42:07 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "@trekonomics Have you heard the good news about proton decay and the inevitable heat death of the universe?",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 23:32:32 GMT",
+                                    "tweetId": "1494817136535117839",
+                                    "urltweet": "https://twitter.com/yudel/status/1494817136535117839",
+                                    "inReplyToId": "1494769640546856960",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@datadivajf I hope this is not the beginning of a trend. Geometric progressions can be crushing.",
                                     "type": "tweet",
