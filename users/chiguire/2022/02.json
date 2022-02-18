@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 22:50:46 GMT"
+            "dateModified": "Fri, 18 Feb 2022 14:25:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@cris7ian Lo mejor es que automático leo eso con su voz",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 14:18:58 GMT",
+                                    "tweetId": "1494677826615885833",
+                                    "urltweet": "https://twitter.com/chiguire/status/1494677826615885833",
+                                    "inReplyToId": "1494675365549248515",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 17",
                             "type": "calendarDay",
