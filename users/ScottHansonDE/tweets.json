@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 21:37:13 GMT"
+            "dateModified": "Sat, 19 Feb 2022 16:23:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "A few obstacles biking the day after a wind storm <a href=\"https://t.co/wY5M1Oypqu\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 16:16:53 GMT",
+                                    "tweetId": "1495069891875033094",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1495069891875033094",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
