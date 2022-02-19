@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 23:42:07 GMT"
+            "dateModified": "Sat, 19 Feb 2022 17:54:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@HeerJeet As someone who once had a Mr Rogers-themed nightmare, I beg to differ. Though to be fair, I was about six at the time.",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 17:46:59 GMT",
+                                    "tweetId": "1495092566252994561",
+                                    "urltweet": "https://twitter.com/yudel/status/1495092566252994561",
+                                    "inReplyToId": "1495086652951306242",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
