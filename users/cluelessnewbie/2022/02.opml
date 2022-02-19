@@ -6,11 +6,24 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sat, 19 Feb 2022 15:35:07 GMT</dateModified>
+		<dateModified>Sat, 19 Feb 2022 19:10:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
 			<outline text="February 19" type="calendarDay" name="19" >
+				<outline text="### This is a thread
+
+I am going to chain several tweets together in a thread.
+
+In the feed, they will be combined into one long post." type="tweet" created="Sat, 19 Feb 2022 19:10:02 GMT" tweetId="1495113466679603209" urltweet="https://twitter.com/cluelessnewbie/status/1495113466679603209" inReplyToId="" tweetUserName="cluelessnewbie" >
+					<outline text="This is the second tweet in the thread. Thank you very much.
+
+This is also in the second tweet." type="tweet" created="Sat, 19 Feb 2022 19:10:03 GMT" tweetId="1495113467992461314" urltweet="https://twitter.com/cluelessnewbie/status/1495113467992461314" inReplyToId="1495113466679603209" tweetUserName="cluelessnewbie" >
+						<outline text="And this is in the third.
+
+Hello there." type="tweet" created="Sat, 19 Feb 2022 19:10:03 GMT" tweetId="1495113469254844418" urltweet="https://twitter.com/cluelessnewbie/status/1495113469254844418" inReplyToId="1495113467992461314" tweetUserName="cluelessnewbie" />
+						</outline>
+					</outline>
 				<outline text="### This post has Markdown text
 
 1. Here's **bold** and *italic* text. 
@@ -19,7 +32,7 @@
 
 3. And an all-important [link](&lt;a href=&quot;https://t.co/KERjlFN0dt&quot;&gt;[link]&lt;/a&gt;)
 
-That's it for now! :smile:" type="tweet" created="Sat, 19 Feb 2022 15:34:31 GMT" tweetId="1495059226510692352" urltweet="https://twitter.com/cluelessnewbie/status/1495059226510692352" inReplyToId="" tweetUserName="cluelessnewbie" />
+That's it for now! :smile:" type="tweet" created="Sat, 19 Feb 2022 15:34:31 GMT" tweetId="1495059226510692352" urltweet="https://twitter.com/cluelessnewbie/status/1495059226510692352" tweetUserName="cluelessnewbie" />
 				<outline text="### A titled post
 
 This is a simple titled post, the kind that we can now deal with efficiently. 
