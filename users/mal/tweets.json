@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 01:04:09 GMT"
+            "dateModified": "Sat, 19 Feb 2022 01:39:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@JaniceMcGeachin Thank you for the voter's guide of who to vote for.",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 01:30:53 GMT",
+                                    "tweetId": "1494846920824479750",
+                                    "urltweet": "https://twitter.com/mal/status/1494846920824479750",
+                                    "inReplyToId": "1494744428417671169",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 17",
                             "type": "calendarDay",
