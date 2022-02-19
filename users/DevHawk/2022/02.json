@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 04:21:49 GMT"
+            "dateModified": "Sat, 19 Feb 2022 05:55:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,43 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "I waz really impressed with #Peacemaker. I mean, I expected to *enjoy* it, but it hit a lot harder than that. Kinda felt like @JamesGunn made it *for me*. Color me impressed.",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 05:54:05 GMT",
+                                    "tweetId": "1494913157122310149",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1494913157122310149",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "I guess I shouldn't be surprised. #GuardiansOfTheGalaxy was very good, but #Volume2 took it to an entirely new level. Similar vibe IMO between #TheSuicideSquad and #Peacemaker - except Peacemaker had even more time/space to breathe and develop.",
+                                            "type": "tweet",
+                                            "created": "Sat, 19 Feb 2022 05:54:05 GMT",
+                                            "tweetId": "1494913158502174720",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1494913158502174720",
+                                            "inReplyToId": "1494913157122310149",
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/a8bJpDRnU8\">[link]</a>",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 19 Feb 2022 05:54:06 GMT",
+                                                    "tweetId": "1494913162474233858",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1494913162474233858",
+                                                    "inReplyToId": "1494913158502174720",
+                                                    "tweetUserName": "DevHawk"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 16",
                             "type": "calendarDay",
