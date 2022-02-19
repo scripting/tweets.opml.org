@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 16:27:29 GMT"
+            "dateModified": "Sat, 19 Feb 2022 18:53:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "@TwitterSupport Is there a way for hand-crafted tweets on accounts with the “Automated” label (every now and then I have to explain something on an automated account) be not flagged as “Automated”?",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 18:52:05 GMT",
+                                    "tweetId": "1495108946113269772",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1495108946113269772",
+                                    "inReplyToId": "1494041387880304645",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "Long weekend, yeah!",
                                     "type": "tweet",
