@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 00:22:24 GMT"
+            "dateModified": "Sat, 19 Feb 2022 09:34:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "La conclusión de la locura de ayer con Big Jet TV es que a todos nos gusta ver vehículos de transporte gigantes pasando a toda velocidad",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 09:32:45 GMT",
+                                    "tweetId": "1494968187271757824",
+                                    "urltweet": "https://twitter.com/chiguire/status/1494968187271757824",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
