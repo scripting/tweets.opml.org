@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 14:38:47 GMT"
+            "dateModified": "Sat, 19 Feb 2022 07:54:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@WKCosmo @SyksyRasanen <a href=\"https://t.co/Zwjo1VZk5g\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 07:50:11 GMT",
+                                    "tweetId": "1494942375508123648",
+                                    "urltweet": "https://twitter.com/defjaf/status/1494942375508123648",
+                                    "inReplyToId": "1494854027389120514",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
