@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 04:26:40 GMT"
+            "dateModified": "Sat, 19 Feb 2022 16:27:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Long weekend, yeah!",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 16:21:33 GMT",
+                                    "tweetId": "1495071063922950151",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1495071063922950151",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
