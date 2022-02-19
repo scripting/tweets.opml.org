@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 15:35:07 GMT"
+            "dateModified": "Sat, 19 Feb 2022 19:10:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,36 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "### This is a thread\n\nI am going to chain several tweets together in a thread.\n\nIn the feed, they will be combined into one long post.",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 19:10:02 GMT",
+                                    "tweetId": "1495113466679603209",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495113466679603209",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "This is the second tweet in the thread. Thank you very much.\n\nThis is also in the second tweet.",
+                                            "type": "tweet",
+                                            "created": "Sat, 19 Feb 2022 19:10:03 GMT",
+                                            "tweetId": "1495113467992461314",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1495113467992461314",
+                                            "inReplyToId": "1495113466679603209",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "And this is in the third.\n\nHello there.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 19 Feb 2022 19:10:03 GMT",
+                                                    "tweetId": "1495113469254844418",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495113469254844418",
+                                                    "inReplyToId": "1495113467992461314",
+                                                    "tweetUserName": "cluelessnewbie"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "### This post has Markdown text\n\n1. Here's **bold** and *italic* text. \n\n2. A bit of code: `alert (\"hello world\")`\n\n3. And an all-important [link](<a href=\"https://t.co/KERjlFN0dt\">[link]</a>)\n\nThat's it for now! :smile:",
                                     "type": "tweet",
