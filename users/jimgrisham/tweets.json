@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 17:54:29 GMT"
+            "dateModified": "Sat, 19 Feb 2022 00:06:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "@sp_redelectric @offlineleft @PresidentJose3 @AmtrakConnects Fair. At least those in Europe have options (and @db_bahn has a great website).\n\nIn most places in the USA lucky enough to be connected by @Amtrak interstate trains, there is often only one train per day, making connections _very_ difficult (even _if_ the first train is on time).",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Feb 2022 23:56:52 GMT",
+                                    "tweetId": "1494823260218920965",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1494823260218920965",
+                                    "inReplyToId": "1494758999689871360",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@sp_redelectric @offlineleft @PresidentJose3 @AmtrakConnects @DB_Bahn @Amtrak Also, some folks appear lucky, e.g.:\n - Paris - Venice with only one connection (#TGV-#EC).\n - London - Amsterdam with zero (@Eurostar).\n\nBucurești to Málaga has a ton of connections, I'll give you that!",
+                                            "type": "tweet",
+                                            "created": "Sat, 19 Feb 2022 00:02:05 GMT",
+                                            "tweetId": "1494824573585481734",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1494824573585481734",
+                                            "inReplyToId": "1494823260218920965",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@sp_redelectric @offlineleft @PresidentJose3 @AmtrakConnects One sometimes has to change trains three times between one side of NYC and another side of NYC.\n\nIf train schedules are reasonably aligned and with frequent service, connections can be a nice change to stretch ones legs / make phone calls / etc.",
                                     "type": "tweet",
