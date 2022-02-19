@@ -2,11 +2,11 @@
 <opml version="2.0">
 	<head>
 		<title>cluelessnewbie tweets</title>
-		<dateCreated>Mon, 13 Dec 2021 20:18:57 GMT</dateCreated>
+		<dateCreated>Sat, 01 Jan 2022 14:23:47 GMT</dateCreated>
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sat, 19 Feb 2022 19:11:09 GMT</dateModified>
+		<dateModified>Sat, 19 Feb 2022 19:21:49 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
@@ -15,13 +15,14 @@
 
 I am going to chain several tweets together in a thread.
 
-In the feed, they will be combined into one long post." type="tweet" created="Sat, 19 Feb 2022 19:10:02 GMT" tweetId="1495113466679603209" urltweet="https://twitter.com/cluelessnewbie/status/1495113466679603209" inReplyToId="" tweetUserName="cluelessnewbie" >
+In the feed, they will be combined into one long post." type="tweet" created="Sat, 19 Feb 2022 19:10:02 GMT" tweetId="1495113466679603209" urltweet="https://twitter.com/cluelessnewbie/status/1495113466679603209" tweetUserName="cluelessnewbie" >
 					<outline text="This is the second tweet in the thread. Thank you very much.
 
 This is also in the second tweet." type="tweet" created="Sat, 19 Feb 2022 19:10:03 GMT" tweetId="1495113467992461314" urltweet="https://twitter.com/cluelessnewbie/status/1495113467992461314" inReplyToId="1495113466679603209" tweetUserName="cluelessnewbie" >
 						<outline text="And this is in the third.
 
 Hello there." type="tweet" created="Sat, 19 Feb 2022 19:10:03 GMT" tweetId="1495113469254844418" urltweet="https://twitter.com/cluelessnewbie/status/1495113469254844418" inReplyToId="1495113467992461314" tweetUserName="cluelessnewbie" />
+						<outline text="This is a tweet in a weird place, as a reply to the second tweet." type="tweet" created="Sat, 19 Feb 2022 19:21:43 GMT" tweetId="1495116406811156486" urltweet="https://twitter.com/cluelessnewbie/status/1495116406811156486" inReplyToId="1495113467992461314" tweetUserName="cluelessnewbie" />
 						</outline>
 					</outline>
 				<outline text="### This post has Markdown text
@@ -96,10 +97,6 @@ And another." type="tweet" created="Sun, 13 Feb 2022 15:48:24 GMT" tweetId="1492
 				<outline text="Apple changes employees’ titles to ‘associate’ after they leave.
 
 another test" type="tweet" created="Sat, 12 Feb 2022 15:57:54 GMT" tweetId="1492528397528051716" urltweet="https://twitter.com/cluelessnewbie/status/1492528397528051716" tweetUserName="cluelessnewbie" />
-				<outline text="Apple changes employees’ titles to ‘associate’ after they leave. (This is a test.)" type="tweet" created="Sat, 12 Feb 2022 15:23:58 GMT" tweetId="1492519856293433352" urltweet="https://twitter.com/cluelessnewbie/status/1492519856293433352" tweetUserName="cluelessnewbie" />
-				</outline>
-			<outline text="February 10" type="calendarDay" name="10" >
-				<outline text="I am once again testing a new feature." type="tweet" created="Thu, 10 Feb 2022 23:08:32 GMT" tweetId="1491911995616120835" urltweet="https://twitter.com/cluelessnewbie/status/1491911995616120835" tweetUserName="cluelessnewbie" />
 				</outline>
 			</outline>
 		</body>
