@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 13:17:27 GMT"
+            "dateModified": "Sat, 19 Feb 2022 17:04:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@nntaleb How old was the patient, and are there any measurements prior to the 42mm?",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 17:00:09 GMT",
+                                    "tweetId": "1495080776496467971",
+                                    "urltweet": "https://twitter.com/miljko/status/1495080776496467971",
+                                    "inReplyToId": "1495038317255086086",
+                                    "tweetUserName": "miljko",
+                                    "subs": [
+                                        {
+                                            "text": "@nntaleb Without going into possible mechanisms: sudden, large changes in anatomy (*not* destruction, like ischemia or bleeding) tend to be rapidly reversible. Slowly progressing ones tend to stick around, and never go back to baseline even if there is some slow improvement.",
+                                            "type": "tweet",
+                                            "created": "Sat, 19 Feb 2022 17:03:11 GMT",
+                                            "tweetId": "1495081541252399110",
+                                            "urltweet": "https://twitter.com/miljko/status/1495081541252399110",
+                                            "inReplyToId": "1495080776496467971",
+                                            "tweetUserName": "miljko"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
