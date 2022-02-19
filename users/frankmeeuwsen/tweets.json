@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 19:22:35 GMT"
+            "dateModified": "Sat, 19 Feb 2022 08:53:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,21 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Aanradertje hoor <a href=\"https://t.co/oRhe0VijBI\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Feb 2022 08:46:02 GMT",
+                                    "tweetId": "1494956427928035329",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1494956427928035329",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
