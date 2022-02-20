@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 19:49:04 GMT"
+            "dateModified": "Sun, 20 Feb 2022 19:52:05 GMT"
         },
         "body": {
             "subs": [
@@ -26,7 +26,18 @@
                                     "created": "Sun, 20 Feb 2022 19:48:44 GMT",
                                     "tweetId": "1495485590749470720",
                                     "urltweet": "https://twitter.com/davewiner/status/1495485590749470720",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "You see it everywhere. Studying the Beatles recently has driven this home. Here were four people who, when working together, had real magic. They worked together for a long time, but they are the total exception.",
+                                            "type": "tweet",
+                                            "created": "Sun, 20 Feb 2022 19:51:25 GMT",
+                                            "tweetId": "1495486265470468097",
+                                            "urltweet": "https://twitter.com/davewiner/status/1495486265470468097",
+                                            "inReplyToId": "1495485590749470720",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Tweets, Markdown and RSS go well together.",
