@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 16:18:12 GMT"
+            "dateModified": "Sun, 20 Feb 2022 16:19:12 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "This is a [Markdown link](<a href=\"https://t.co/c3fIIQKenM\">[link]</a>) to the lyrics.",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 16:18:27 GMT",
+                                    "tweetId": "1495432670565785606",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495432670565785606",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "The lyrics to the Walrus song. \n\n<a href=\"https://t.co/c3fIIQKenM\">[link]</a>",
                                     "type": "tweet",
