@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 22:45:41 GMT"
+            "dateModified": "Sun, 20 Feb 2022 22:52:41 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "Markdown in Twitter is, imho, going to [be a big deal](<a href=\"https://t.co/C5Ho5sgo0m\">[link]</a>). https://t.co/nxsWfJY6G3",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 22:52:23 GMT",
+                                    "tweetId": "1495531809060401155",
+                                    "urltweet": "https://twitter.com/davewiner/status/1495531809060401155",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Maybe the Dems should do some soul searching and figure out the real reason people should not vote Republican. I don't think it's a mystery.  <a href=\"https://t.co/XblRO3v0EU\">[link]</a>",
                                     "type": "tweet",
