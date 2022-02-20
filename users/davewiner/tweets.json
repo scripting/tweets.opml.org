@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 17:31:35 GMT"
+            "dateModified": "Sun, 20 Feb 2022 17:33:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,14 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "Tweets, Markdown and RSS go well together.",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 17:32:43 GMT",
+                                    "tweetId": "1495451363194679299",
+                                    "urltweet": "https://twitter.com/davewiner/status/1495451363194679299",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Pessimism is not wisdom.",
                                     "type": "tweet",
