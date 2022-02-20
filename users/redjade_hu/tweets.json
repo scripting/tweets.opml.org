@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 15:32:39 GMT"
+            "dateModified": "Sun, 20 Feb 2022 17:33:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@ggreenwald Tucker is a vile racist and a liar – he says things to provoke people for a political result.\n\nHe's using you, but do you really think you are using him?",
+                                    "rawText": "@ggreenwald Tucker is a vile racist and a liar – he says things to provoke people for a political result.\n\nHe's using you, but do you really think you are using him?",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 17:23:54 GMT",
+                                    "tweetId": "1495449144680407041",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1495449144680407041",
+                                    "inReplyToId": "1495406413186805762",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 19",
                             "type": "calendarDay",
