@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 04:36:31 GMT"
+            "dateModified": "Sun, 20 Feb 2022 05:55:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Trust the Times to center the rich bully man’s wife, and not the hundreds of thousands his misguided policies killed. <a href=\"https://t.co/csq7YBvJfl\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 05:50:42 GMT",
+                                    "tweetId": "1495274693758226432",
+                                    "urltweet": "https://twitter.com/yudel/status/1495274693758226432",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "The charitable explanation is they know which way the wind is blowing and they don’t want to end up like Hong Kong’s Apple Daily.",
+                                            "type": "tweet",
+                                            "created": "Sun, 20 Feb 2022 05:52:04 GMT",
+                                            "tweetId": "1495275035615010817",
+                                            "urltweet": "https://twitter.com/yudel/status/1495275035615010817",
+                                            "inReplyToId": "1495274693758226432",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 19",
                             "type": "calendarDay",
