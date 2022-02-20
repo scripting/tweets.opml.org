@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Feb 2022 08:17:52 GMT"
+            "dateModified": "Sun, 20 Feb 2022 16:32:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Sunday Serendipity: <a href=\"https://t.co/IsrXjSqmL3\">[link]</a>",
+                                    "rawText": "Sunday Serendipity: https://t.co/IsrXjSqmL3",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 16:28:39 GMT",
+                                    "tweetId": "1495435237723099144",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1495435237723099144",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
