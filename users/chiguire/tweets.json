@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 09:13:18 GMT"
+            "dateModified": "Sun, 20 Feb 2022 09:24:34 GMT"
         },
         "body": {
             "subs": [
@@ -26,7 +26,18 @@
                                     "created": "Sun, 20 Feb 2022 09:09:49 GMT",
                                     "tweetId": "1495324803284312070",
                                     "urltweet": "https://twitter.com/chiguire/status/1495324803284312070",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Ah, eso fue rápido, escribí a soporte y desbloquearon inmediatamente la cuenta. Qué grata sorpresa. Billos Caracas Bots volverá a tuitear &lt;3",
+                                            "type": "tweet",
+                                            "created": "Sun, 20 Feb 2022 09:16:16 GMT",
+                                            "tweetId": "1495326427872440324",
+                                            "urltweet": "https://twitter.com/chiguire/status/1495326427872440324",
+                                            "inReplyToId": "1495324803284312070",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 }
                             ]
                         },
