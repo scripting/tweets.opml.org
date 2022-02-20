@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 21:54:05 GMT"
+            "dateModified": "Sun, 20 Feb 2022 02:01:50 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "I just watched Snakes on a Plane for the first time. <a href=\"https://t.co/tjBcqO6V7J\">[link]</a>",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 01:52:52 GMT",
+                                    "tweetId": "1495214842621345793",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1495214842621345793",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Someone I knew from university is a bit player on Snakes on a Plane. Instantly recognizable. And his personality shines through.",
+                                            "type": "tweet",
+                                            "created": "Sun, 20 Feb 2022 01:55:10 GMT",
+                                            "tweetId": "1495215421380780036",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1495215421380780036",
+                                            "inReplyToId": "1495214842621345793",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@domesticat I’d like to participate in that investigation, please.",
                                     "type": "tweet",
