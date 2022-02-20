@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 08:23:45 GMT"
+            "dateModified": "Sun, 20 Feb 2022 21:16:35 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/O97ujdoMeX\">[link]</a>",
+                                    "rawText": "https://t.co/O97ujdoMeX",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 21:05:28 GMT",
+                                    "tweetId": "1495504902033920002",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1495504902033920002",
+                                    "tweetUserName": "seanreiser"
+                                },
                                 {
                                     "text": "@dolari I certainly am in no position to criticize.  Currently teen drama / super hero show Smallville in on my TV while I'm performing website updates.",
                                     "type": "tweet",
