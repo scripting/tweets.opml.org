@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 19:33:13 GMT"
+            "dateModified": "Sun, 20 Feb 2022 19:44:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "@scalzi Reminder: After 50 you should have scabies shot (two dose regimen.) Available at your (well at least mine) local CVS. And can be taken along with a fly shot.",
+                                    "rawText": "@scalzi Reminder: After 50 you should have scabies shot (two dose regimen.) Available at your (well at least mine) local CVS. And can be taken along with a fly shot.",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 19:39:29 GMT",
+                                    "tweetId": "1495483261899972610",
+                                    "urltweet": "https://twitter.com/yudel/status/1495483261899972610",
+                                    "inReplyToId": "1495360422865735680",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "Meron Benvenesti’s West Bank Data Project from around this time was eye-opening when I read it toward the end of the decade. <a href=\"https://t.co/ssmEbEbOPo\">[link]</a>",
                                     "rawText": "Meron Benvenesti’s West Bank Data Project from around this time was eye-opening when I read it toward the end of the decade. https://t.co/ssmEbEbOPo",
@@ -67,7 +77,31 @@
                                                                     "tweetId": "1495481451831250954",
                                                                     "urltweet": "https://twitter.com/yudel/status/1495481451831250954",
                                                                     "inReplyToId": "1495481107575365633",
-                                                                    "tweetUserName": "yudel"
+                                                                    "tweetUserName": "yudel",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Which is to say, the fact that Orthodox Jews feel at home in Florida… <a href=\"https://t.co/s8zSsDgFmE\">[link]</a>",
+                                                                            "rawText": "Which is to say, the fact that Orthodox Jews feel at home in Florida… https://t.co/s8zSsDgFmE",
+                                                                            "type": "tweet",
+                                                                            "created": "Sun, 20 Feb 2022 19:33:41 GMT",
+                                                                            "tweetId": "1495481804580691969",
+                                                                            "urltweet": "https://twitter.com/yudel/status/1495481804580691969",
+                                                                            "inReplyToId": "1495481451831250954",
+                                                                            "tweetUserName": "yudel",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "should not reassure Floridians who might otherwise fear the floodwaters sent by an Avenging God of Justice.",
+                                                                                    "rawText": "should not reassure Floridians who might otherwise fear the floodwaters sent by an Avenging God of Justice.",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Sun, 20 Feb 2022 19:34:30 GMT",
+                                                                                    "tweetId": "1495482009065598985",
+                                                                                    "urltweet": "https://twitter.com/yudel/status/1495482009065598985",
+                                                                                    "inReplyToId": "1495481804580691969",
+                                                                                    "tweetUserName": "yudel"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
