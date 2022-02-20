@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 02:01:50 GMT"
+            "dateModified": "Sun, 20 Feb 2022 02:58:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "@skinnylatte San Francisco’s Department of Sunsets does some really good work.",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 02:47:50 GMT",
+                                    "tweetId": "1495228675113070594",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1495228675113070594",
+                                    "inReplyToId": "1495228278352715776",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "I just watched Snakes on a Plane for the first time. <a href=\"https://t.co/tjBcqO6V7J\">[link]</a>",
                                     "type": "tweet",
