@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 16:02:25 GMT"
+            "dateModified": "Sun, 20 Feb 2022 16:04:25 GMT"
         },
         "body": {
             "subs": [
@@ -26,7 +26,18 @@
                                     "created": "Sun, 20 Feb 2022 16:02:25 GMT",
                                     "tweetId": "1495428635657920515",
                                     "urltweet": "https://twitter.com/davewiner/status/1495428635657920515",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "PS: Yes, this is the kind of thing programmers think about.",
+                                            "type": "tweet",
+                                            "created": "Sun, 20 Feb 2022 16:03:28 GMT",
+                                            "tweetId": "1495428902059192328",
+                                            "urltweet": "https://twitter.com/davewiner/status/1495428902059192328",
+                                            "inReplyToId": "1495428635657920515",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I just started bingeing Raised by Wolves on HBO. <a href=\"https://t.co/1RFoJehKe6\">[link]</a>",
