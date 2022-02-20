@@ -6,10 +6,27 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sat, 19 Feb 2022 19:21:53 GMT</dateModified>
+		<dateModified>Sun, 20 Feb 2022 15:14:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 20" type="calendarDay" name="20" >
+				<outline text="# To do on the RSS feed work
+
+The outline-generating code replaces links with [link] where the word link is hotted up.
+
+This conflicts with the Markdown functionality. 
+
+Right now my thinking is that I'll undo that before running it through the Markdown processor." type="tweet" created="Sun, 20 Feb 2022 15:14:11 GMT" tweetId="1495416497631543309" urltweet="https://twitter.com/cluelessnewbie/status/1495416497631543309" inReplyToId="" tweetUserName="cluelessnewbie" >
+					<outline text="Here's an example, a link to my blog. &lt;a href=&quot;https://t.co/FsJek0jfpB&quot;&gt;[link]&lt;/a&gt;
+
+And a link using Markdown syntax.
+
+[Twitter](https://t.co/J8tUVYddPs)
+
+And that's it." type="tweet" created="Sun, 20 Feb 2022 15:14:11 GMT" tweetId="1495416499103797248" urltweet="https://twitter.com/cluelessnewbie/status/1495416499103797248" inReplyToId="1495416497631543309" tweetUserName="cluelessnewbie" />
+					</outline>
+				</outline>
 			<outline text="February 19" type="calendarDay" name="19" >
 				<outline text="### This is a thread
 
