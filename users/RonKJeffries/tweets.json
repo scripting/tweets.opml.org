@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 14:30:24 GMT"
+            "dateModified": "Sun, 20 Feb 2022 14:41:40 GMT"
         },
         "body": {
             "subs": [
@@ -53,7 +53,18 @@
                                                             "tweetId": "1495405175334264833",
                                                             "urltweet": "https://twitter.com/RonKJeffries/status/1495405175334264833",
                                                             "inReplyToId": "1495404870592962566",
-                                                            "tweetUserName": "RonKJeffries"
+                                                            "tweetUserName": "RonKJeffries",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "This really is boring Tweet #5. I guess commenting on latest comment in a thread is correct approach?",
+                                                                    "type": "tweet",
+                                                                    "created": "Sun, 20 Feb 2022 14:31:47 GMT",
+                                                                    "tweetId": "1495405827439554562",
+                                                                    "urltweet": "https://twitter.com/RonKJeffries/status/1495405827439554562",
+                                                                    "inReplyToId": "1495405175334264833",
+                                                                    "tweetUserName": "RonKJeffries"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
