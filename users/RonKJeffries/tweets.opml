@@ -6,15 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/RonKJeffries/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sun, 20 Feb 2022 14:30:24 GMT</dateModified>
+		<dateModified>Sun, 20 Feb 2022 14:41:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
 			<outline text="February 20" type="calendarDay" name="20" >
-				<outline text="Testing my Twitter Thread-Fu. This is tweet #1" type="tweet" created="Sun, 20 Feb 2022 14:24:42 GMT" tweetId="1495404047561461760" urltweet="https://twitter.com/RonKJeffries/status/1495404047561461760" inReplyToId="" tweetUserName="RonKJeffries" >
+				<outline text="Testing my Twitter Thread-Fu. This is tweet #1" type="tweet" created="Sun, 20 Feb 2022 14:24:42 GMT" tweetId="1495404047561461760" urltweet="https://twitter.com/RonKJeffries/status/1495404047561461760" tweetUserName="RonKJeffries" >
 					<outline text="This is tweet #2 of a test thread. as a comment. Or should I be retweeting??" type="tweet" created="Sun, 20 Feb 2022 14:26:53 GMT" tweetId="1495404594385469440" urltweet="https://twitter.com/RonKJeffries/status/1495404594385469440" inReplyToId="1495404047561461760" tweetUserName="RonKJeffries" >
 						<outline text="Tweet #3 of a test thread, again as a comment." type="tweet" created="Sun, 20 Feb 2022 14:27:59 GMT" tweetId="1495404870592962566" urltweet="https://twitter.com/RonKJeffries/status/1495404870592962566" inReplyToId="1495404594385469440" tweetUserName="RonKJeffries" >
-							<outline text="Tweet #4. I guess this works. ?? just keep commenting?" type="tweet" created="Sun, 20 Feb 2022 14:29:11 GMT" tweetId="1495405175334264833" urltweet="https://twitter.com/RonKJeffries/status/1495405175334264833" inReplyToId="1495404870592962566" tweetUserName="RonKJeffries" />
+							<outline text="Tweet #4. I guess this works. ?? just keep commenting?" type="tweet" created="Sun, 20 Feb 2022 14:29:11 GMT" tweetId="1495405175334264833" urltweet="https://twitter.com/RonKJeffries/status/1495405175334264833" inReplyToId="1495404870592962566" tweetUserName="RonKJeffries" >
+								<outline text="This really is boring Tweet #5. I guess commenting on latest comment in a thread is correct approach?" type="tweet" created="Sun, 20 Feb 2022 14:31:47 GMT" tweetId="1495405827439554562" urltweet="https://twitter.com/RonKJeffries/status/1495405827439554562" inReplyToId="1495405175334264833" tweetUserName="RonKJeffries" />
+								</outline>
 							</outline>
 						</outline>
 					</outline>
