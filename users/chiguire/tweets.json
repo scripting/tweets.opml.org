@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 09:24:34 GMT"
+            "dateModified": "Sun, 20 Feb 2022 16:28:16 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "@mrciroandres Te estaban dedicando la canción <a href=\"https://t.co/Vwk7CbvH5G\">[link]</a>",
+                                    "rawText": "@mrciroandres Te estaban dedicando la canción https://t.co/Vwk7CbvH5G",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 16:24:55 GMT",
+                                    "tweetId": "1495434298861707273",
+                                    "urltweet": "https://twitter.com/chiguire/status/1495434298861707273",
+                                    "inReplyToId": "1495433306183249926",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "Diversion con GIFs <a href=\"https://t.co/RrwDdJWWHv\">[link]</a>",
+                                    "rawText": "Diversion con GIFs https://t.co/RrwDdJWWHv",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 16:18:12 GMT",
+                                    "tweetId": "1495432609760960513",
+                                    "urltweet": "https://twitter.com/chiguire/status/1495432609760960513",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Twitter lanzó hace poco el registro de cuentas para marcarlas automatizadas. Ya hice lo que pude con mis bots :)  Una de ellas sigue suspendida y no puedo hacer el registro :( @billosccsbots",
                                     "type": "tweet",
@@ -231,7 +250,19 @@
                                     "tweetId": "1494085334044401665",
                                     "urltweet": "https://twitter.com/chiguire/status/1494085334044401665",
                                     "inReplyToId": "1490262537421611010",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Tile por tile\n\nWordle 246 6/6\n\n🟩⬛⬛⬛⬛\n🟩🟩⬛⬛⬛\n🟩🟩⬛⬛⬛\n🟩🟩⬛🟩⬛\n🟩🟩⬛🟩⬛\n🟩🟩🟩🟩🟩",
+                                            "rawText": "Tile por tile\n\nWordle 246 6/6\n\n🟩⬛⬛⬛⬛\n🟩🟩⬛⬛⬛\n🟩🟩⬛⬛⬛\n🟩🟩⬛🟩⬛\n🟩🟩⬛🟩⬛\n🟩🟩🟩🟩🟩",
+                                            "type": "tweet",
+                                            "created": "Sun, 20 Feb 2022 16:21:29 GMT",
+                                            "tweetId": "1495433434612871175",
+                                            "urltweet": "https://twitter.com/chiguire/status/1495433434612871175",
+                                            "inReplyToId": "1494085334044401665",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@manuelgo Mis pantalones después del uso contínuo <a href=\"https://t.co/9QUuUy0faa\">[link]</a>",
