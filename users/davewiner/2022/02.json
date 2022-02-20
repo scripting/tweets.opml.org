@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 20:20:08 GMT"
+            "dateModified": "Sun, 20 Feb 2022 20:22:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "@cancelself Sometimes people are put together almost as if by fate, and you look back and think, imagine if these people had been able to work together instead of trying to trip each other up.",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 20:21:56 GMT",
+                                    "tweetId": "1495493946885263374",
+                                    "urltweet": "https://twitter.com/davewiner/status/1495493946885263374",
+                                    "inReplyToId": "1495486808708173826",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "People ought to work together more. I think that's the big bug in our world.",
                                     "type": "tweet",
