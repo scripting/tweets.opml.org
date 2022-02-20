@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 23:34:26 GMT"
+            "dateModified": "Sun, 20 Feb 2022 08:12:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,30 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@dolari To be honest the whole concept that the War of the Worlds radio play was real and we just all forgot was a silly premise",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 08:04:04 GMT",
+                                    "tweetId": "1495308255832293378",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1495308255832293378",
+                                    "inReplyToId": "1495307911551078400",
+                                    "tweetUserName": "seanreiser"
+                                },
+                                {
+                                    "text": "Wordle 246 5/6\n\n⬛🟨⬛⬛⬛\n🟨⬛🟨⬛⬛\n🟩⬛🟨⬛🟨\n🟩🟨🟨🟨⬛\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Feb 2022 08:02:38 GMT",
+                                    "tweetId": "1495307894035726340",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1495307894035726340",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 19",
                             "type": "calendarDay",
