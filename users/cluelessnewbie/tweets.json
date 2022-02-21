@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 15:14:43 GMT"
+            "dateModified": "Mon, 21 Feb 2022 15:16:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "[MORE](<a href=\"https://t.co/XfQrIIw6Jq\">[link]</a>) is a very fine piece of software.",
+                                    "rawText": "[MORE](https://t.co/XfQrIIw6Jq) is a very fine piece of software.",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 15:16:49 GMT",
+                                    "tweetId": "1495779549837246468",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495779549837246468",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "This is a test.",
                                     "rawText": "This is a test.",
