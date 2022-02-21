@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 10:47:10 GMT"
+            "dateModified": "Mon, 21 Feb 2022 07:55:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "Thanks to all who finish Wordle early and make comments, they do help (along with word lists and regex)",
+                                    "rawText": "Thanks to all who finish Wordle early and make comments, they do help (along with word lists and regex)",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 07:45:27 GMT",
+                                    "tweetId": "1495665957766934528",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1495665957766934528",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 20",
                             "type": "calendarDay",
