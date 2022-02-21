@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 01:21:06 GMT"
+            "dateModified": "Mon, 21 Feb 2022 15:25:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "Some ways of telling the story feel disempowering.\n\nAnd so they probably are.\n\nIt’s worth figuring out why that is.",
+                                    "rawText": "Some ways of telling the story feel disempowering.\n\nAnd so they probably are.\n\nIt’s worth figuring out why that is.",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 15:15:00 GMT",
+                                    "tweetId": "1495779093098508290",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1495779093098508290",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 20",
                             "type": "calendarDay",
