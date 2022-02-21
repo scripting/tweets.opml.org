@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 04:00:01 GMT"
+            "dateModified": "Mon, 21 Feb 2022 06:15:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@JosieBeller @scalzi I meant shingles. If only there were a vaccine against middle age memory loss. Or even a daily injection!",
+                                    "rawText": "@JosieBeller @scalzi I meant shingles. If only there were a vaccine against middle age memory loss. Or even a daily injection!",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 06:14:13 GMT",
+                                    "tweetId": "1495642999950393347",
+                                    "urltweet": "https://twitter.com/yudel/status/1495642999950393347",
+                                    "inReplyToId": "1495642179917824001",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@hallam @dburbach Luckily for all concerned, accountability is not the American way!",
+                                    "rawText": "@hallam @dburbach Luckily for all concerned, accountability is not the American way!",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 06:08:54 GMT",
+                                    "tweetId": "1495641662302867457",
+                                    "urltweet": "https://twitter.com/yudel/status/1495641662302867457",
+                                    "inReplyToId": "1495641278993862657",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 20",
                             "type": "calendarDay",
