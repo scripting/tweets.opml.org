@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 01:56:08 GMT"
+            "dateModified": "Mon, 21 Feb 2022 02:07:24 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,73 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "Thinking about the assignment. One could create a bot to harvest lots of tweets discussing Putin and Ukraine this week. <a href=\"https://t.co/nfBXtHfiMC\">[link]</a>",
+                                    "rawText": "Thinking about the assignment. One could create a bot to harvest lots of tweets discussing Putin and Ukraine this week. https://t.co/nfBXtHfiMC",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 02:03:06 GMT",
+                                    "tweetId": "1495579804426543106",
+                                    "urltweet": "https://twitter.com/yudel/status/1495579804426543106",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "One could probably have a bit identify a subset of those who are clearly “leftist”",
+                                            "rawText": "One could probably have a bit identify a subset of those who are clearly “leftist”",
+                                            "type": "tweet",
+                                            "created": "Mon, 21 Feb 2022 02:03:41 GMT",
+                                            "tweetId": "1495579950912581634",
+                                            "urltweet": "https://twitter.com/yudel/status/1495579950912581634",
+                                            "inReplyToId": "1495579804426543106",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "Not clear whether one could then sort based on existing sentiment analysis libraries, or would have to first create collections of pro and anti Putin tweets for training by Tensor or the like.",
+                                                    "rawText": "Not clear whether one could then sort based on existing sentiment analysis libraries, or would have to first create collections of pro and anti Putin tweets for training by Tensor or the like.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 21 Feb 2022 02:05:05 GMT",
+                                                    "tweetId": "1495580303167041541",
+                                                    "urltweet": "https://twitter.com/yudel/status/1495580303167041541",
+                                                    "inReplyToId": "1495579950912581634",
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "I’d love it if someone more up to date on current technology could weigh in on this.",
+                                                            "rawText": "I’d love it if someone more up to date on current technology could weigh in on this.",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 21 Feb 2022 02:05:42 GMT",
+                                                            "tweetId": "1495580457748021250",
+                                                            "urltweet": "https://twitter.com/yudel/status/1495580457748021250",
+                                                            "inReplyToId": "1495580303167041541",
+                                                            "tweetUserName": "yudel",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Eg @rmneiss",
+                                                                    "rawText": "Eg @rmneiss",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 21 Feb 2022 02:06:11 GMT",
+                                                                    "tweetId": "1495580578359521285",
+                                                                    "urltweet": "https://twitter.com/yudel/status/1495580578359521285",
+                                                                    "inReplyToId": "1495580457748021250",
+                                                                    "tweetUserName": "yudel"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@dzkalman “Frum Jews don’t cry,” and other fun ways to destroy your children. @FeldheimRejects",
+                                    "rawText": "@dzkalman “Frum Jews don’t cry,” and other fun ways to destroy your children. @FeldheimRejects",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 01:56:14 GMT",
+                                    "tweetId": "1495578075068878848",
+                                    "urltweet": "https://twitter.com/yudel/status/1495578075068878848",
+                                    "inReplyToId": "1495546236115595266",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@ElLissitzky_Art @BenYehudaPress “No, I’ve never kippled. What’s it like?”",
                                     "rawText": "@ElLissitzky_Art @BenYehudaPress “No, I’ve never kippled. What’s it like?”",
