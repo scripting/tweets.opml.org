@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 16:08:32 GMT"
+            "dateModified": "Mon, 21 Feb 2022 16:10:07 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "you say goodbye  \nand i say hello",
+                                    "rawText": "you say goodbye  \nand i say hello",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 16:10:01 GMT",
+                                    "tweetId": "1495792937111805963",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495792937111805963",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "one.  \ntwo.  \n\nthree.  \n\nfour.",
                                     "rawText": "one.  \ntwo.  \n\nthree.  \n\nfour.",
