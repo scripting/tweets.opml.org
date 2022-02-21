@@ -2,28 +2,37 @@
 <opml version="2.0">
 	<head>
 		<title>cluelessnewbie tweets</title>
-		<dateCreated>Mon, 13 Dec 2021 20:18:57 GMT</dateCreated>
+		<dateCreated>Sat, 01 Jan 2022 14:23:47 GMT</dateCreated>
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sun, 20 Feb 2022 16:19:24 GMT</dateModified>
+		<dateModified>Mon, 21 Feb 2022 14:19:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 21" type="calendarDay" name="21" >
+				<outline text="# this is a post with a thread
+
+1. January
+
+2. February 
+
+3. March" type="tweet" created="Mon, 21 Feb 2022 14:18:51 GMT" tweetId="1495764962144395270" urltweet="https://twitter.com/cluelessnewbie/status/1495764962144395270" inReplyToId="" tweetUserName="cluelessnewbie" >
+					<outline text="4. April
+
+5. May" type="tweet" created="Mon, 21 Feb 2022 14:18:51 GMT" tweetId="1495764963264286731" urltweet="https://twitter.com/cluelessnewbie/status/1495764963264286731" inReplyToId="1495764962144395270" tweetUserName="cluelessnewbie" >
+						<outline text="6. June" type="tweet" created="Mon, 21 Feb 2022 14:18:52 GMT" tweetId="1495764964295987200" urltweet="https://twitter.com/cluelessnewbie/status/1495764964295987200" inReplyToId="1495764963264286731" tweetUserName="cluelessnewbie" >
+							<outline text="7. July" type="tweet" created="Mon, 21 Feb 2022 14:18:52 GMT" tweetId="1495764965340467200" urltweet="https://twitter.com/cluelessnewbie/status/1495764965340467200" inReplyToId="1495764964295987200" tweetUserName="cluelessnewbie" />
+							</outline>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="February 20" type="calendarDay" name="20" >
-				<outline text="This is a [Markdown link](&lt;a href=&quot;https://t.co/c3fIIQKenM&quot;&gt;[link]&lt;/a&gt;) to the lyrics." rawText="This is a [Markdown link](https://t.co/c3fIIQKenM) to the lyrics." type="tweet" created="Sun, 20 Feb 2022 16:18:27 GMT" tweetId="1495432670565785606" urltweet="https://twitter.com/cluelessnewbie/status/1495432670565785606" inReplyToId="" tweetUserName="cluelessnewbie" />
+				<outline text="This is a [Markdown link](&lt;a href=&quot;https://t.co/c3fIIQKenM&quot;&gt;[link]&lt;/a&gt;) to the lyrics." type="tweet" created="Sun, 20 Feb 2022 16:18:27 GMT" tweetId="1495432670565785606" urltweet="https://twitter.com/cluelessnewbie/status/1495432670565785606" tweetUserName="cluelessnewbie" />
 				<outline text="The lyrics to the Walrus song. 
 
-&lt;a href=&quot;https://t.co/c3fIIQKenM&quot;&gt;[link]&lt;/a&gt;" rawText="The lyrics to the Walrus song. 
-
-https://t.co/c3fIIQKenM" type="tweet" created="Sun, 20 Feb 2022 16:17:20 GMT" tweetId="1495432392152125442" urltweet="https://twitter.com/cluelessnewbie/status/1495432392152125442" tweetUserName="cluelessnewbie" />
+&lt;a href=&quot;https://t.co/c3fIIQKenM&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 20 Feb 2022 16:17:20 GMT" tweetId="1495432392152125442" urltweet="https://twitter.com/cluelessnewbie/status/1495432392152125442" tweetUserName="cluelessnewbie" />
 				<outline text="# I Am The Walrus lyrics
-
-I am he as you are he as you are me
-And we are all together
-See how they run like pigs from a gun
-See how they fly
-I'm crying" rawText="# I Am The Walrus lyrics
 
 I am he as you are he as you are me
 And we are all together
@@ -134,10 +143,6 @@ And another." type="tweet" created="Sun, 13 Feb 2022 15:48:24 GMT" tweetId="1492
 				<outline text="Apple changes employees’ titles to ‘associate’ after they leave.
 
 another test" type="tweet" created="Sat, 12 Feb 2022 15:57:54 GMT" tweetId="1492528397528051716" urltweet="https://twitter.com/cluelessnewbie/status/1492528397528051716" tweetUserName="cluelessnewbie" />
-				<outline text="Apple changes employees’ titles to ‘associate’ after they leave. (This is a test.)" type="tweet" created="Sat, 12 Feb 2022 15:23:58 GMT" tweetId="1492519856293433352" urltweet="https://twitter.com/cluelessnewbie/status/1492519856293433352" tweetUserName="cluelessnewbie" />
-				</outline>
-			<outline text="February 10" type="calendarDay" name="10" >
-				<outline text="I am once again testing a new feature." type="tweet" created="Thu, 10 Feb 2022 23:08:32 GMT" tweetId="1491911995616120835" urltweet="https://twitter.com/cluelessnewbie/status/1491911995616120835" tweetUserName="cluelessnewbie" />
 				</outline>
 			</outline>
 		</body>
