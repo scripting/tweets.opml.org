@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 15:27:22 GMT"
+            "dateModified": "Mon, 21 Feb 2022 15:50:07 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "# Some of I Am The Walrus lyrics\n\nMister City policeman sitting  \nPretty little policemen in a row  \nSee how they fly like Lucy in the sky, see how they run  \nI'm crying, I'm crying  \nI'm crying, I'm crying",
+                                    "rawText": "# Some of I Am The Walrus lyrics\n\nMister City policeman sitting  \nPretty little policemen in a row  \nSee how they fly like Lucy in the sky, see how they run  \nI'm crying, I'm crying  \nI'm crying, I'm crying",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 15:50:01 GMT",
+                                    "tweetId": "1495787903548633097",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495787903548633097",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "Yellow matter custard  \nDripping from a dead dog's eye  \nCrabalocker fishwife, pornographic priestess  \nBoy, you've been a naughty girl, you let your knickers down",
+                                            "rawText": "Yellow matter custard  \nDripping from a dead dog's eye  \nCrabalocker fishwife, pornographic priestess  \nBoy, you've been a naughty girl, you let your knickers down",
+                                            "type": "tweet",
+                                            "created": "Mon, 21 Feb 2022 15:50:01 GMT",
+                                            "tweetId": "1495787904752394247",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1495787904752394247",
+                                            "inReplyToId": "1495787903548633097",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "I am the egg man  \nThey are the egg men  \nI am the walrus  \nGoo goo g'joob",
+                                                    "rawText": "I am the egg man  \nThey are the egg men  \nI am the walrus  \nGoo goo g'joob",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 21 Feb 2022 15:50:01 GMT",
+                                                    "tweetId": "1495787905943576590",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495787905943576590",
+                                                    "inReplyToId": "1495787904752394247",
+                                                    "tweetUserName": "cluelessnewbie"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "one. \ntwo.  \nthree.  \nfour.  \n\nlalalal",
                                     "rawText": "one. \ntwo.  \nthree.  \nfour.  \n\nlalalal",
