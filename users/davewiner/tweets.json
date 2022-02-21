@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 22:09:54 GMT"
+            "dateModified": "Mon, 21 Feb 2022 22:21:10 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "NATO member countries:\n\nAlbania Belgium Bulgaria Canada Croatia Czech Republic Denmark Estonia France Germany Greece Hungary Iceland Italy...",
+                                    "rawText": "NATO member countries:\n\nAlbania Belgium Bulgaria Canada Croatia Czech Republic Denmark Estonia France Germany Greece Hungary Iceland Italy...",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 22:12:06 GMT",
+                                    "tweetId": "1495884061033873416",
+                                    "urltweet": "https://twitter.com/davewiner/status/1495884061033873416",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Latvia Lithuania Luxembourg Montenegro Netherlands North Macedonia Norway Poland Portugal Romania Slovakia Slovenia Spain Turkey United Kingdom United States",
+                                            "rawText": "Latvia Lithuania Luxembourg Montenegro Netherlands North Macedonia Norway Poland Portugal Romania Slovakia Slovenia Spain Turkey United Kingdom United States",
+                                            "type": "tweet",
+                                            "created": "Mon, 21 Feb 2022 22:12:07 GMT",
+                                            "tweetId": "1495884062220861446",
+                                            "urltweet": "https://twitter.com/davewiner/status/1495884062220861446",
+                                            "inReplyToId": "1495884061033873416",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "Note the former parts of the USSR in NATO:\n\n1. Estonia\n\n2. Latvia\n\n3. Lithuania",
+                                                    "rawText": "Note the former parts of the USSR in NATO:\n\n1. Estonia\n\n2. Latvia\n\n3. Lithuania",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 21 Feb 2022 22:12:07 GMT",
+                                                    "tweetId": "1495884063428784134",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1495884063428784134",
+                                                    "inReplyToId": "1495884062220861446",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "If anyone knows about the Twitter articles editor, please get in touch via DM. Willing to sign NDA. \n\nBig questions.\n\n1. Available through the API for reading, publishing?\n\n2. Character limit on articles?\n\n3. RSS feed for articles? <a href=\"https://t.co/EmHZachCBI\">[link]</a>",
                                     "rawText": "If anyone knows about the Twitter articles editor, please get in touch via DM. Willing to sign NDA. \n\nBig questions.\n\n1. Available through the API for reading, publishing?\n\n2. Character limit on articles?\n\n3. RSS feed for articles? https://t.co/EmHZachCBI",
