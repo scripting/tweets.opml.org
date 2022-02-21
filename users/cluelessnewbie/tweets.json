@@ -2,11 +2,11 @@
     "opml": {
         "head": {
             "title": "cluelessnewbie tweets",
-            "dateCreated": "Sat, 01 Jan 2022 14:23:47 GMT",
+            "dateCreated": "Mon, 13 Dec 2021 20:18:57 GMT",
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 14:19:32 GMT"
+            "dateModified": "Mon, 21 Feb 2022 14:28:26 GMT"
         },
         "body": {
             "subs": [
@@ -21,7 +21,53 @@
                             "name": "21",
                             "subs": [
                                 {
+                                    "text": "# The Twitter-to-RSS project\n\nThe project is coming along. Implemented so far... \n\n* Tweets can have titles. Make the first character in a tweet a #. The rest of the first line is the title.",
+                                    "rawText": "# The Twitter-to-RSS project\n\nThe project is coming along. Implemented so far... \n\n* Tweets can have titles. Make the first character in a tweet a #. The rest of the first line is the title.",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 14:27:43 GMT",
+                                    "tweetId": "1495767191446245377",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495767191446245377",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "* Full Markdown support. Anything you can type in a tweet can be Markdown and will be rendered as it's converted to an RSS item. Markdown is ideal for where Twitter is at now. It a plain text environment, and that's what MD is designed for.",
+                                            "rawText": "* Full Markdown support. Anything you can type in a tweet can be Markdown and will be rendered as it's converted to an RSS item. Markdown is ideal for where Twitter is at now. It a plain text environment, and that's what MD is designed for.",
+                                            "type": "tweet",
+                                            "created": "Mon, 21 Feb 2022 14:27:43 GMT",
+                                            "tweetId": "1495767192658485248",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1495767192658485248",
+                                            "inReplyToId": "1495767191446245377",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "* Threads are rolled up into the first message, forming one RSS item. In RSS there is no character limit. And Twitter has a good thread composition tool built in. \n\n* [Emoji short codes](<a href=\"https://t.co/fwkBlnAhAR\">[link]</a>). This was an easy one so I thought why not. 😄",
+                                                    "rawText": "* Threads are rolled up into the first message, forming one RSS item. In RSS there is no character limit. And Twitter has a good thread composition tool built in. \n\n* [Emoji short codes](https://t.co/fwkBlnAhAR). This was an easy one so I thought why not. 😄",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 21 Feb 2022 14:27:43 GMT",
+                                                    "tweetId": "1495767193723748353",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495767193723748353",
+                                                    "inReplyToId": "1495767192658485248",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Not sure how I'll package it for release. I want to wait until the major coding is done before deciding that.\n\n*Still diggin!*",
+                                                            "rawText": "Not sure how I'll package it for release. I want to wait until the major coding is done before deciding that.\n\n*Still diggin!*",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 21 Feb 2022 14:27:43 GMT",
+                                                            "tweetId": "1495767194948579335",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1495767194948579335",
+                                                            "inReplyToId": "1495767193723748353",
+                                                            "tweetUserName": "cluelessnewbie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
                                     "text": "# this is a post with a thread\n\n1. January\n\n2. February \n\n3. March",
+                                    "rawText": "# this is a post with a thread\n\n1. January\n\n2. February \n\n3. March",
                                     "type": "tweet",
                                     "created": "Mon, 21 Feb 2022 14:18:51 GMT",
                                     "tweetId": "1495764962144395270",
@@ -30,6 +76,7 @@
                                     "subs": [
                                         {
                                             "text": "4. April\n\n5. May",
+                                            "rawText": "4. April\n\n5. May",
                                             "type": "tweet",
                                             "created": "Mon, 21 Feb 2022 14:18:51 GMT",
                                             "tweetId": "1495764963264286731",
@@ -39,6 +86,7 @@
                                             "subs": [
                                                 {
                                                     "text": "6. June",
+                                                    "rawText": "6. June",
                                                     "type": "tweet",
                                                     "created": "Mon, 21 Feb 2022 14:18:52 GMT",
                                                     "tweetId": "1495764964295987200",
@@ -48,6 +96,7 @@
                                                     "subs": [
                                                         {
                                                             "text": "7. July",
+                                                            "rawText": "7. July",
                                                             "type": "tweet",
                                                             "created": "Mon, 21 Feb 2022 14:18:52 GMT",
                                                             "tweetId": "1495764965340467200",
@@ -70,6 +119,7 @@
                             "subs": [
                                 {
                                     "text": "This is a [Markdown link](<a href=\"https://t.co/c3fIIQKenM\">[link]</a>) to the lyrics.",
+                                    "rawText": "This is a [Markdown link](https://t.co/c3fIIQKenM) to the lyrics.",
                                     "type": "tweet",
                                     "created": "Sun, 20 Feb 2022 16:18:27 GMT",
                                     "tweetId": "1495432670565785606",
@@ -78,6 +128,7 @@
                                 },
                                 {
                                     "text": "The lyrics to the Walrus song. \n\n<a href=\"https://t.co/c3fIIQKenM\">[link]</a>",
+                                    "rawText": "The lyrics to the Walrus song. \n\nhttps://t.co/c3fIIQKenM",
                                     "type": "tweet",
                                     "created": "Sun, 20 Feb 2022 16:17:20 GMT",
                                     "tweetId": "1495432392152125442",
@@ -86,6 +137,7 @@
                                 },
                                 {
                                     "text": "# I Am The Walrus lyrics\n\nI am he as you are he as you are me\nAnd we are all together\nSee how they run like pigs from a gun\nSee how they fly\nI'm crying",
+                                    "rawText": "# I Am The Walrus lyrics\n\nI am he as you are he as you are me\nAnd we are all together\nSee how they run like pigs from a gun\nSee how they fly\nI'm crying",
                                     "type": "tweet",
                                     "created": "Sun, 20 Feb 2022 16:09:51 GMT",
                                     "tweetId": "1495430506359685123",
@@ -273,6 +325,29 @@
                                     "created": "Sat, 12 Feb 2022 15:57:54 GMT",
                                     "tweetId": "1492528397528051716",
                                     "urltweet": "https://twitter.com/cluelessnewbie/status/1492528397528051716",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
+                                {
+                                    "text": "Apple changes employees’ titles to ‘associate’ after they leave. (This is a test.)",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Feb 2022 15:23:58 GMT",
+                                    "tweetId": "1492519856293433352",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1492519856293433352",
+                                    "tweetUserName": "cluelessnewbie"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "February 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "I am once again testing a new feature.",
+                                    "type": "tweet",
+                                    "created": "Thu, 10 Feb 2022 23:08:32 GMT",
+                                    "tweetId": "1491911995616120835",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1491911995616120835",
                                     "tweetUserName": "cluelessnewbie"
                                 }
                             ]
