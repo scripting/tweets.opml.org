@@ -2,11 +2,11 @@
     "opml": {
         "head": {
             "title": "cluelessnewbie tweets",
-            "dateCreated": "Mon, 13 Dec 2021 20:18:57 GMT",
+            "dateCreated": "Sat, 01 Jan 2022 14:23:47 GMT",
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Feb 2022 16:19:24 GMT"
+            "dateModified": "Mon, 21 Feb 2022 14:19:32 GMT"
         },
         "body": {
             "subs": [
@@ -16,13 +16,60 @@
                     "name": "february2022",
                     "subs": [
                         {
+                            "text": "February 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "# this is a post with a thread\n\n1. January\n\n2. February \n\n3. March",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 14:18:51 GMT",
+                                    "tweetId": "1495764962144395270",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495764962144395270",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "4. April\n\n5. May",
+                                            "type": "tweet",
+                                            "created": "Mon, 21 Feb 2022 14:18:51 GMT",
+                                            "tweetId": "1495764963264286731",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1495764963264286731",
+                                            "inReplyToId": "1495764962144395270",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "6. June",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 21 Feb 2022 14:18:52 GMT",
+                                                    "tweetId": "1495764964295987200",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495764964295987200",
+                                                    "inReplyToId": "1495764963264286731",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "7. July",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 21 Feb 2022 14:18:52 GMT",
+                                                            "tweetId": "1495764965340467200",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1495764965340467200",
+                                                            "inReplyToId": "1495764964295987200",
+                                                            "tweetUserName": "cluelessnewbie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "text": "February 20",
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
                                 {
                                     "text": "This is a [Markdown link](<a href=\"https://t.co/c3fIIQKenM\">[link]</a>) to the lyrics.",
-                                    "rawText": "This is a [Markdown link](https://t.co/c3fIIQKenM) to the lyrics.",
                                     "type": "tweet",
                                     "created": "Sun, 20 Feb 2022 16:18:27 GMT",
                                     "tweetId": "1495432670565785606",
@@ -31,7 +78,6 @@
                                 },
                                 {
                                     "text": "The lyrics to the Walrus song. \n\n<a href=\"https://t.co/c3fIIQKenM\">[link]</a>",
-                                    "rawText": "The lyrics to the Walrus song. \n\nhttps://t.co/c3fIIQKenM",
                                     "type": "tweet",
                                     "created": "Sun, 20 Feb 2022 16:17:20 GMT",
                                     "tweetId": "1495432392152125442",
@@ -40,7 +86,6 @@
                                 },
                                 {
                                     "text": "# I Am The Walrus lyrics\n\nI am he as you are he as you are me\nAnd we are all together\nSee how they run like pigs from a gun\nSee how they fly\nI'm crying",
-                                    "rawText": "# I Am The Walrus lyrics\n\nI am he as you are he as you are me\nAnd we are all together\nSee how they run like pigs from a gun\nSee how they fly\nI'm crying",
                                     "type": "tweet",
                                     "created": "Sun, 20 Feb 2022 16:09:51 GMT",
                                     "tweetId": "1495430506359685123",
@@ -228,29 +273,6 @@
                                     "created": "Sat, 12 Feb 2022 15:57:54 GMT",
                                     "tweetId": "1492528397528051716",
                                     "urltweet": "https://twitter.com/cluelessnewbie/status/1492528397528051716",
-                                    "tweetUserName": "cluelessnewbie"
-                                },
-                                {
-                                    "text": "Apple changes employees’ titles to ‘associate’ after they leave. (This is a test.)",
-                                    "type": "tweet",
-                                    "created": "Sat, 12 Feb 2022 15:23:58 GMT",
-                                    "tweetId": "1492519856293433352",
-                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1492519856293433352",
-                                    "tweetUserName": "cluelessnewbie"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "February 10",
-                            "type": "calendarDay",
-                            "name": "10",
-                            "subs": [
-                                {
-                                    "text": "I am once again testing a new feature.",
-                                    "type": "tweet",
-                                    "created": "Thu, 10 Feb 2022 23:08:32 GMT",
-                                    "tweetId": "1491911995616120835",
-                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1491911995616120835",
                                     "tweetUserName": "cluelessnewbie"
                                 }
                             ]
