@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 15:16:59 GMT"
+            "dateModified": "Mon, 21 Feb 2022 15:24:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "Sitting on a corn flake. \nWaiting for the van to come. \nCorporation T-shirt, stupid bloody Tuesday. \nMan you've been a naughty boy. \nYou let your face grow long.",
+                                    "rawText": "Sitting on a corn flake. \nWaiting for the van to come. \nCorporation T-shirt, stupid bloody Tuesday. \nMan you've been a naughty boy. \nYou let your face grow long.",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Feb 2022 15:24:28 GMT",
+                                    "tweetId": "1495781475228205069",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1495781475228205069",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "I am the egg man. \nThey are the egg men. \nI am the walrus. \nGoo goo g'joob.",
+                                            "rawText": "I am the egg man. \nThey are the egg men. \nI am the walrus. \nGoo goo g'joob.",
+                                            "type": "tweet",
+                                            "created": "Mon, 21 Feb 2022 15:24:28 GMT",
+                                            "tweetId": "1495781476469723142",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1495781476469723142",
+                                            "inReplyToId": "1495781475228205069",
+                                            "tweetUserName": "cluelessnewbie"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "[MORE](<a href=\"https://t.co/XfQrIIw6Jq\">[link]</a>) is a very fine piece of software.",
                                     "rawText": "[MORE](https://t.co/XfQrIIw6Jq) is a very fine piece of software.",
