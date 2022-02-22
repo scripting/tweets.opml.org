@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Feb 2022 21:52:57 GMT"
+            "dateModified": "Tue, 22 Feb 2022 13:40:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@siegel Why is this still a thing? If you are only indenting 2 spaces, you either need to go back to Pascal or just not bother at all. 4 spaces or a tab or you fail the code review.",
+                                    "rawText": "@siegel Why is this still a thing? If you are only indenting 2 spaces, you either need to go back to Pascal or just not bother at all. 4 spaces or a tab or you fail the code review.",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Feb 2022 13:31:06 GMT",
+                                    "tweetId": "1496115333920403460",
+                                    "urltweet": "https://twitter.com/cshotton/status/1496115333920403460",
+                                    "inReplyToId": "1495859093025787914",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 17",
                             "type": "calendarDay",
