@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Feb 2022 16:51:03 GMT"
+            "dateModified": "Tue, 22 Feb 2022 17:17:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "WordPress 5.9.1 Maintenance Release <a href=\"https://t.co/9e2LIeH9jz\">[link]</a> via @WordPress",
+                                    "rawText": "WordPress 5.9.1 Maintenance Release https://t.co/9e2LIeH9jz via @WordPress",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Feb 2022 17:15:55 GMT",
+                                    "tweetId": "1496171911230992386",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1496171911230992386",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 12",
                             "type": "calendarDay",
