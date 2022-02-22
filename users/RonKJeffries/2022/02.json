@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Feb 2022 17:15:50 GMT"
+            "dateModified": "Tue, 22 Feb 2022 14:50:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@Feldenkrais10 @ryannagy @RoamResearch @logseq @obsdmd Hilarious!",
+                                    "rawText": "@Feldenkrais10 @ryannagy @RoamResearch @logseq @obsdmd Hilarious!",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Feb 2022 14:46:49 GMT",
+                                    "tweetId": "1496134388161073154",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1496134388161073154",
+                                    "inReplyToId": "1494698433482932227",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 21",
                             "type": "calendarDay",
