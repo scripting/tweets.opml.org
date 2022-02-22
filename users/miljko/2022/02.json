@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 18:11:50 GMT"
+            "dateModified": "Tue, 22 Feb 2022 16:30:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@stratechery Excellent article, but @benthompson you should put a negative control on these types of graphs if you claim direct correlation. <a href=\"https://t.co/0FKjRyDcXY\">[link]</a>",
+                                    "rawText": "@stratechery Excellent article, but @benthompson you should put a negative control on these types of graphs if you claim direct correlation. https://t.co/0FKjRyDcXY",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Feb 2022 16:29:39 GMT",
+                                    "tweetId": "1496160267306209280",
+                                    "urltweet": "https://twitter.com/miljko/status/1496160267306209280",
+                                    "inReplyToId": "1496158088457379840",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 19",
                             "type": "calendarDay",
