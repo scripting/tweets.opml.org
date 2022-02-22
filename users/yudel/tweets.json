@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Feb 2022 20:54:35 GMT"
+            "dateModified": "Tue, 22 Feb 2022 21:05:51 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "22",
                             "subs": [
                                 {
+                                    "text": "@typolad @datadivajf My old Rosh Yeshiva would like a word with you.",
+                                    "rawText": "@typolad @datadivajf My old Rosh Yeshiva would like a word with you.",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Feb 2022 20:59:13 GMT",
+                                    "tweetId": "1496228105941405697",
+                                    "urltweet": "https://twitter.com/yudel/status/1496228105941405697",
+                                    "inReplyToId": "1496225821589180422",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
                                     "text": "@HeerJeet Really good evidence for @matthewstoller’s theory that monopoly is destroying everything.",
                                     "rawText": "@HeerJeet Really good evidence for @matthewstoller’s theory that monopoly is destroying everything.",
                                     "type": "tweet",
@@ -28,7 +38,19 @@
                                     "tweetId": "1496226830315106304",
                                     "urltweet": "https://twitter.com/yudel/status/1496226830315106304",
                                     "inReplyToId": "1496213883866042378",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@HeerJeet @matthewstoller Some Amazon bean counter decided it wasn’t worth spending a trivial amount of money maintaining a rather basic technology stack once they decided to redirect to <a href=\"https://t.co/Zke9wlDkOW\">[link]</a>.",
+                                            "rawText": "@HeerJeet @matthewstoller Some Amazon bean counter decided it wasn’t worth spending a trivial amount of money maintaining a rather basic technology stack once they decided to redirect to https://t.co/Zke9wlDkOW.",
+                                            "type": "tweet",
+                                            "created": "Tue, 22 Feb 2022 20:55:34 GMT",
+                                            "tweetId": "1496227184645713924",
+                                            "urltweet": "https://twitter.com/yudel/status/1496227184645713924",
+                                            "inReplyToId": "1496226830315106304",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@datadivajf It’s possible that those styles only lasted the same few years on Vulcan that Beehives lasted on 20th century Earth and later 23rd century Starfleet.",
