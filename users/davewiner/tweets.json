@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Feb 2022 15:25:59 GMT"
+            "dateModified": "Tue, 22 Feb 2022 15:48:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "I think I'm going to wait and see what Twitter Articles are like before offering a service to create RSS feeds from tweet streams. I have the code working, but deploying and supporting it is a whole other story. I don't want to get in their way. Let's see what the have.",
+                                    "rawText": "I think I'm going to wait and see what Twitter Articles are like before offering a service to create RSS feeds from tweet streams. I have the code working, but deploying and supporting it is a whole other story. I don't want to get in their way. Let's see what the have.",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Feb 2022 15:40:07 GMT",
+                                    "tweetId": "1496147800861589509",
+                                    "urltweet": "https://twitter.com/davewiner/status/1496147800861589509",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "In 2016 I wrote a piece that explained in a simple list what bloggers needed from Twitter and Facebook. \n\nIt looks like, from the screen shot that was posted yesterday, that it's all there in Twitter Articles. It just has to be in the API. \n\n<a href=\"https://t.co/hH8Kha4Qd9\">[link]</a>",
+                                            "rawText": "In 2016 I wrote a piece that explained in a simple list what bloggers needed from Twitter and Facebook. \n\nIt looks like, from the screen shot that was posted yesterday, that it's all there in Twitter Articles. It just has to be in the API. \n\nhttps://t.co/hH8Kha4Qd9",
+                                            "type": "tweet",
+                                            "created": "Tue, 22 Feb 2022 15:48:06 GMT",
+                                            "tweetId": "1496149809073471497",
+                                            "urltweet": "https://twitter.com/davewiner/status/1496149809073471497",
+                                            "inReplyToId": "1496147800861589509",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@daverpvb ok thanks for explaining.\n\nhe has a point though, imho.\n\nit's a question of priorities.",
                                     "rawText": "@daverpvb ok thanks for explaining.\n\nhe has a point though, imho.\n\nit's a question of priorities.",
