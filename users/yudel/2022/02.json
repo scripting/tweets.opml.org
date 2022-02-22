@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Feb 2022 04:46:04 GMT"
+            "dateModified": "Tue, 22 Feb 2022 04:57:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,40 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "@rmneiss I’ve heard that line before from Federation typed. Though generally with more context.",
+                                    "rawText": "@rmneiss I’ve heard that line before from Federation typed. Though generally with more context.",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Feb 2022 04:46:05 GMT",
+                                    "tweetId": "1495983207082254338",
+                                    "urltweet": "https://twitter.com/yudel/status/1495983207082254338",
+                                    "inReplyToId": "1495982550325551107",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@rmneiss Also: Reminds me of the confused local public official in 2018 or 2019 who hadn’t gotten the Bibi’s memo that the translation of מדינת ישראל was now “The Jewish State of Israel” and cited that usage — which implicated a religion and a country — as an example of antisemitism.",
+                                            "rawText": "@rmneiss Also: Reminds me of the confused local public official in 2018 or 2019 who hadn’t gotten the Bibi’s memo that the translation of מדינת ישראל was now “The Jewish State of Israel” and cited that usage — which implicated a religion and a country — as an example of antisemitism.",
+                                            "type": "tweet",
+                                            "created": "Tue, 22 Feb 2022 04:49:04 GMT",
+                                            "tweetId": "1495983958298927105",
+                                            "urltweet": "https://twitter.com/yudel/status/1495983958298927105",
+                                            "inReplyToId": "1495983207082254338",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@rmneiss Jews: Inventing Shiboleths since 1200 bce!",
+                                                    "rawText": "@rmneiss Jews: Inventing Shiboleths since 1200 bce!",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 22 Feb 2022 04:49:31 GMT",
+                                                    "tweetId": "1495984072593756165",
+                                                    "urltweet": "https://twitter.com/yudel/status/1495984072593756165",
+                                                    "inReplyToId": "1495983958298927105",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@rmneiss Not going to listen, but possibly related: <a href=\"https://t.co/cJHQfUeDq3\">[link]</a>",
                                     "rawText": "@rmneiss Not going to listen, but possibly related: https://t.co/cJHQfUeDq3",
