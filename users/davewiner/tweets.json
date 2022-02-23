@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 14:19:57 GMT"
+            "dateModified": "Wed, 23 Feb 2022 14:31:13 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,26 @@
                             "name": "23",
                             "subs": [
                                 {
+                                    "text": "@snarwani just like trump",
+                                    "rawText": "@snarwani just like trump",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 14:25:25 GMT",
+                                    "tweetId": "1496491391190544384",
+                                    "urltweet": "https://twitter.com/davewiner/status/1496491391190544384",
+                                    "inReplyToId": "1496491215470178304",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@TommyBeer It's a Garbage Season.",
+                                    "rawText": "@TommyBeer It's a Garbage Season.",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 14:24:40 GMT",
+                                    "tweetId": "1496491200278405121",
+                                    "urltweet": "https://twitter.com/davewiner/status/1496491200278405121",
+                                    "inReplyToId": "1496490964352909320",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@linuz90 Is that a feed of a tweets? \n\nThe reason I ask is there are titles on your items. \n\nIt's definitely possible to have titles on tweets, if you come up with a syntax for titles.",
                                     "rawText": "@linuz90 Is that a feed of a tweets? \n\nThe reason I ask is there are titles on your items. \n\nIt's definitely possible to have titles on tweets, if you come up with a syntax for titles.",
                                     "type": "tweet",
@@ -28,7 +48,19 @@
                                     "tweetId": "1496489943052566535",
                                     "urltweet": "https://twitter.com/davewiner/status/1496489943052566535",
                                     "inReplyToId": "1496488382658195461",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@linuz90 Also I decided to put my project on hold until Twitter comes out with their \"Articles\" feature, in development. \n\nIf it is all that it appears to be, it'll change things pretty radically. I don't want to get in their way..",
+                                            "rawText": "@linuz90 Also I decided to put my project on hold until Twitter comes out with their \"Articles\" feature, in development. \n\nIf it is all that it appears to be, it'll change things pretty radically. I don't want to get in their way..",
+                                            "type": "tweet",
+                                            "created": "Wed, 23 Feb 2022 14:20:44 GMT",
+                                            "tweetId": "1496490212704362501",
+                                            "urltweet": "https://twitter.com/davewiner/status/1496490212704362501",
+                                            "inReplyToId": "1496489943052566535",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@linuz90 It is documented -- \n\n<a href=\"https://t.co/bu0zVyGmYX\">[link]</a>",
