@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Feb 2022 23:09:14 GMT"
+            "dateModified": "Wed, 23 Feb 2022 06:28:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "De macht van BigTech duidelijk uitgelegd. <a href=\"https://t.co/j5jUh3VTZQ\">[link]</a>",
+                                    "rawText": "De macht van BigTech duidelijk uitgelegd. https://t.co/j5jUh3VTZQ",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 06:18:30 GMT",
+                                    "tweetId": "1496368851382157314",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1496368851382157314",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
