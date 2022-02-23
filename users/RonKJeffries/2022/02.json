@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 14:18:42 GMT"
+            "dateModified": "Wed, 23 Feb 2022 14:41:13 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                     "tweetId": "1496485836095123461",
                                     "urltweet": "https://twitter.com/RonKJeffries/status/1496485836095123461",
                                     "inReplyToId": "1496484570908213248",
-                                    "tweetUserName": "RonKJeffries"
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "@mims @tunguz WSJ search for the win. Your article about @jack is thoughtful. Thanks.",
+                                            "rawText": "@mims @tunguz WSJ search for the win. Your article about @jack is thoughtful. Thanks.",
+                                            "type": "tweet",
+                                            "created": "Wed, 23 Feb 2022 14:34:11 GMT",
+                                            "tweetId": "1496493595611836416",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1496493595611836416",
+                                            "inReplyToId": "1496485836095123461",
+                                            "tweetUserName": "RonKJeffries"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "There are many #notetaking aka Tools For Thought #twt apps.\n Looking for a solid overview of the various approaches. Partial list:\n\n@logseq @Obsidian @RoamResearch @NotionHQ @ScrapboxApp \n\n? And maybe?  @davewiner 's outline app #drummer \n\nPlease comment with any I missed. <a href=\"https://t.co/w2a0zy7l6y\">[link]</a>",
