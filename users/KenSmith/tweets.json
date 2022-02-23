@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 04:01:17 GMT"
+            "dateModified": "Wed, 23 Feb 2022 15:39:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Thirty degrees colder here in northern Indiana than at this same time yesterday. <a href=\"https://t.co/DkX3SVTS47\">[link]</a>",
+                                    "rawText": "Thirty degrees colder here in northern Indiana than at this same time yesterday. https://t.co/DkX3SVTS47",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 15:39:17 GMT",
+                                    "tweetId": "1496509980891131909",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1496509980891131909",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
