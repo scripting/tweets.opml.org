@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 00:01:17 GMT"
+            "dateModified": "Wed, 23 Feb 2022 08:50:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@anandahernandez No empobrecen ni enr... mentira, es platica",
+                                    "rawText": "@anandahernandez No empobrecen ni enr... mentira, es platica",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 08:43:24 GMT",
+                                    "tweetId": "1496405317088948226",
+                                    "urltweet": "https://twitter.com/chiguire/status/1496405317088948226",
+                                    "inReplyToId": "1496404000312287232",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
@@ -349,7 +366,19 @@
                                                     "tweetId": "1496273016585601029",
                                                     "urltweet": "https://twitter.com/chiguire/status/1496273016585601029",
                                                     "inReplyToId": "1495433434612871175",
-                                                    "tweetUserName": "chiguire"
+                                                    "tweetUserName": "chiguire",
+                                                    "subs": [
+                                                        {
+                                                            "text": "A veces se gana, a veces se pierde\n\nWordle 249 X/6\n\n⬛🟩🟩⬛⬛\n⬛🟩🟩⬛⬛\n⬛🟩🟩⬛⬛\n⬛🟩🟩⬛🟨\n🟩🟩🟩⬛⬛\n🟩🟩🟩⬛⬛",
+                                                            "rawText": "A veces se gana, a veces se pierde\n\nWordle 249 X/6\n\n⬛🟩🟩⬛⬛\n⬛🟩🟩⬛⬛\n⬛🟩🟩⬛⬛\n⬛🟩🟩⬛🟨\n🟩🟩🟩⬛⬛\n🟩🟩🟩⬛⬛",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 23 Feb 2022 08:49:04 GMT",
+                                                            "tweetId": "1496406744402214912",
+                                                            "urltweet": "https://twitter.com/chiguire/status/1496406744402214912",
+                                                            "inReplyToId": "1496273016585601029",
+                                                            "tweetUserName": "chiguire"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
