@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 14:08:41 GMT"
+            "dateModified": "Wed, 23 Feb 2022 14:19:57 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,36 @@
                             "name": "23",
                             "subs": [
                                 {
+                                    "text": "@linuz90 Is that a feed of a tweets? \n\nThe reason I ask is there are titles on your items. \n\nIt's definitely possible to have titles on tweets, if you come up with a syntax for titles.",
+                                    "rawText": "@linuz90 Is that a feed of a tweets? \n\nThe reason I ask is there are titles on your items. \n\nIt's definitely possible to have titles on tweets, if you come up with a syntax for titles.",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 14:19:40 GMT",
+                                    "tweetId": "1496489943052566535",
+                                    "urltweet": "https://twitter.com/davewiner/status/1496489943052566535",
+                                    "inReplyToId": "1496488382658195461",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@linuz90 It is documented -- \n\n<a href=\"https://t.co/bu0zVyGmYX\">[link]</a>",
+                                    "rawText": "@linuz90 It is documented -- \n\nhttps://t.co/bu0zVyGmYX",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 14:18:12 GMT",
+                                    "tweetId": "1496489574947770373",
+                                    "urltweet": "https://twitter.com/davewiner/status/1496489574947770373",
+                                    "inReplyToId": "1496488614322188292",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@JoeTrippi Joe @djrothkopf has me blocked for some reason. I hope he sees this request to unblock me. A lot of people I follow quote him, and it feels ridiculous that I have to open another browser to read what he's saying. \n\nIf he doesn't want to read my writing, cool, just mute me. Easy.",
+                                    "rawText": "@JoeTrippi Joe @djrothkopf has me blocked for some reason. I hope he sees this request to unblock me. A lot of people I follow quote him, and it feels ridiculous that I have to open another browser to read what he's saying. \n\nIf he doesn't want to read my writing, cool, just mute me. Easy.",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 14:14:19 GMT",
+                                    "tweetId": "1496488597880455173",
+                                    "urltweet": "https://twitter.com/davewiner/status/1496488597880455173",
+                                    "inReplyToId": "1496487766368174088",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@linuz90 I've also been working on turning a user's tweets into an RSS feed. Curious to see what one of your feeds looks like? Would you share a pointer to one of them?",
                                     "rawText": "@linuz90 I've also been working on turning a user's tweets into an RSS feed. Curious to see what one of your feeds looks like? Would you share a pointer to one of them?",
                                     "type": "tweet",
@@ -28,7 +58,19 @@
                                     "tweetId": "1496486978686173185",
                                     "urltweet": "https://twitter.com/davewiner/status/1496486978686173185",
                                     "inReplyToId": "1496485698936971268",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@linuz90 BTW, here's what mine looks like. You can subscribe to it, it's a real feed. \n\n<a href=\"https://t.co/cj8gk7Nyqp\">[link]</a>",
+                                            "rawText": "@linuz90 BTW, here's what mine looks like. You can subscribe to it, it's a real feed. \n\nhttps://t.co/cj8gk7Nyqp",
+                                            "type": "tweet",
+                                            "created": "Wed, 23 Feb 2022 14:09:46 GMT",
+                                            "tweetId": "1496487453288456196",
+                                            "urltweet": "https://twitter.com/davewiner/status/1496487453288456196",
+                                            "inReplyToId": "1496486978686173185",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "The Supreme Court case that could gut the EPA’s power to fight climate change. <a href=\"https://t.co/vAIBHgQFbB\">[link]</a>",
