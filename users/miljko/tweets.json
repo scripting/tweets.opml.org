@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Feb 2022 16:41:34 GMT"
+            "dateModified": "Wed, 23 Feb 2022 12:35:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "\"Pieces of the Action\" from Vannevar Bush: a wise old man spins some good tales but can't help making bad predictions. It's almost as if you can't have one without the other. <a href=\"https://t.co/KzvbFNeg0X\">[link]</a> https://t.co/DjWguC701A",
+                                    "rawText": "\"Pieces of the Action\" from Vannevar Bush: a wise old man spins some good tales but can't help making bad predictions. It's almost as if you can't have one without the other. https://t.co/KzvbFNeg0X https://t.co/DjWguC701A",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 12:34:40 GMT",
+                                    "tweetId": "1496463519830654982",
+                                    "urltweet": "https://twitter.com/miljko/status/1496463519830654982",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
