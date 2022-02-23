@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 04:47:36 GMT"
+            "dateModified": "Wed, 23 Feb 2022 17:44:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@Eodyne1 @EricJRyanLaw @STEMthebleeding @AkivaMCohen So this is one judge ruling on the motion for a case that will be heard by the full panel?",
+                                    "rawText": "@Eodyne1 @EricJRyanLaw @STEMthebleeding @AkivaMCohen So this is one judge ruling on the motion for a case that will be heard by the full panel?",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 17:34:55 GMT",
+                                    "tweetId": "1496539077629333509",
+                                    "urltweet": "https://twitter.com/yudel/status/1496539077629333509",
+                                    "inReplyToId": "1496538332498640898",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
