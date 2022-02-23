@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Feb 2022 17:17:06 GMT"
+            "dateModified": "Wed, 23 Feb 2022 16:56:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "New: Gutenberg Changelog #61 - Gutenberg 12.6, Planning for WordPress 6.0 and Universal Blocks\nwith co-hosts Grzegorz Ziolkowski @gziolo and Birgit Pauli-Haack @bph and new co-host Mary Job @maryojob -\nHuge thank you to @Gziolo for 21 episodes as co-host! <a href=\"https://t.co/StOb3gKRnW\">[link]</a>",
+                                    "rawText": "New: Gutenberg Changelog #61 - Gutenberg 12.6, Planning for WordPress 6.0 and Universal Blocks\nwith co-hosts Grzegorz Ziolkowski @gziolo and Birgit Pauli-Haack @bph and new co-host Mary Job @maryojob -\nHuge thank you to @Gziolo for 21 episodes as co-host! https://t.co/StOb3gKRnW",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Feb 2022 16:49:41 GMT",
+                                    "tweetId": "1496527694640545792",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1496527694640545792",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
