@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 04:18:05 GMT"
+            "dateModified": "Thu, 24 Feb 2022 05:48:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@HarimGB Demuestra tu poder! 😈😈😈",
+                                    "rawText": "@HarimGB Demuestra tu poder! 😈😈😈",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Feb 2022 05:47:31 GMT",
+                                    "tweetId": "1496723444183887873",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1496723444183887873",
+                                    "inReplyToId": "1496718697020461062",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 23",
                             "type": "calendarDay",
