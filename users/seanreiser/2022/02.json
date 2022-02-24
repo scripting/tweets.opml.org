@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 18:54:14 GMT"
+            "dateModified": "Thu, 24 Feb 2022 06:43:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "There's only one truth about war: people die. <a href=\"https://t.co/7893lluoRV\">[link]</a>",
+                                    "rawText": "There's only one truth about war: people die. https://t.co/7893lluoRV",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Feb 2022 06:29:04 GMT",
+                                    "tweetId": "1496733901477326848",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1496733901477326848",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 23",
                             "type": "calendarDay",
