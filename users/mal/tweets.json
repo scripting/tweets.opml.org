@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Feb 2022 01:39:29 GMT"
+            "dateModified": "Thu, 24 Feb 2022 05:05:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@FiestyPatriot @JaniceMcGeachin Fracking because without clean drinking water humans would die out - problem solved.",
+                                    "rawText": "@FiestyPatriot @JaniceMcGeachin Fracking because without clean drinking water humans would die out - problem solved.",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Feb 2022 05:04:36 GMT",
+                                    "tweetId": "1496712645205917699",
+                                    "urltweet": "https://twitter.com/mal/status/1496712645205917699",
+                                    "inReplyToId": "1496567348601704448",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 18",
                             "type": "calendarDay",
