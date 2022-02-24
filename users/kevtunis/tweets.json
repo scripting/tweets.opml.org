@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Feb 2022 18:27:37 GMT"
+            "dateModified": "Thu, 24 Feb 2022 17:21:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@DavidAndrewsonX I have the same issue! Went on chat on their main site. They said that they are aware of the issue. #wpengine @WPESupport <a href=\"https://t.co/nz0crdro9Y\">[link]</a>",
+                                    "rawText": "@DavidAndrewsonX I have the same issue! Went on chat on their main site. They said that they are aware of the issue. #wpengine @WPESupport https://t.co/nz0crdro9Y",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Feb 2022 17:19:25 GMT",
+                                    "tweetId": "1496897565379416073",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1496897565379416073",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 14",
                             "type": "calendarDay",
