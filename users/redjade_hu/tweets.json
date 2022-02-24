@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Feb 2022 17:47:38 GMT"
+            "dateModified": "Thu, 24 Feb 2022 16:31:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@mammabear_10 GG has posted stuff",
+                                    "rawText": "@mammabear_10 GG has posted stuff",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Feb 2022 16:20:55 GMT",
+                                    "tweetId": "1496882845402472454",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1496882845402472454",
+                                    "inReplyToId": "1496882417063247874",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
