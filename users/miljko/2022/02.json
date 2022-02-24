@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 21:58:26 GMT"
+            "dateModified": "Thu, 24 Feb 2022 17:29:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@slobadoktor Najbolje objašnjenje koje sam našao, od pre dva meseca <a href=\"https://t.co/pPN3XiPtKI\">[link]</a>",
+                                    "rawText": "@slobadoktor Najbolje objašnjenje koje sam našao, od pre dva meseca https://t.co/pPN3XiPtKI",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Feb 2022 17:24:26 GMT",
+                                    "tweetId": "1496898827797868552",
+                                    "urltweet": "https://twitter.com/miljko/status/1496898827797868552",
+                                    "inReplyToId": "1496897834028871692",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 23",
                             "type": "calendarDay",
