@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Feb 2022 03:34:16 GMT"
+            "dateModified": "Thu, 24 Feb 2022 05:05:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Es un buen momento para ver The Fog Of War <a href=\"https://t.co/JlWWYhr9E1\">[link]</a>",
+                                    "rawText": "Es un buen momento para ver The Fog Of War https://t.co/JlWWYhr9E1",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Feb 2022 04:58:54 GMT",
+                                    "tweetId": "1496711210703671299",
+                                    "urltweet": "https://twitter.com/oevl/status/1496711210703671299",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
