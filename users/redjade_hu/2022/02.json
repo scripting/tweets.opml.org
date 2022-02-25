@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 16:31:53 GMT"
+            "dateModified": "Fri, 25 Feb 2022 09:47:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@SamRamani2 a brutally dumb tweet.",
+                                    "rawText": "@SamRamani2 a brutally dumb tweet.",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 09:47:26 GMT",
+                                    "tweetId": "1497146210729140228",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1497146210729140228",
+                                    "inReplyToId": "1497042501429084162",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
