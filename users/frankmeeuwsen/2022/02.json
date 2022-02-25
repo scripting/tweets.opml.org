@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 19:51:08 GMT"
+            "dateModified": "Fri, 25 Feb 2022 20:24:55 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1497296347531075587",
                                     "urltweet": "https://twitter.com/frankmeeuwsen/status/1497296347531075587",
                                     "inReplyToId": "1497295434334842894",
-                                    "tweetUserName": "frankmeeuwsen"
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "@marcoderksen @erwblo Rechts van de “cocktailbar” 😉 \nAlsof het nooit anders was! <a href=\"https://t.co/waD61k1MVu\">[link]</a>",
+                                            "rawText": "@marcoderksen @erwblo Rechts van de “cocktailbar” 😉 \nAlsof het nooit anders was! https://t.co/waD61k1MVu",
+                                            "type": "tweet",
+                                            "created": "Fri, 25 Feb 2022 20:23:40 GMT",
+                                            "tweetId": "1497306323809153028",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1497306323809153028",
+                                            "inReplyToId": "1497296347531075587",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Manah manah <a href=\"https://t.co/KuGS4EnEQV\">[link]</a>",
