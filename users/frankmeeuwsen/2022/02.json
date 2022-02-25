@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 14:24:32 GMT"
+            "dateModified": "Fri, 25 Feb 2022 14:35:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "@JasperLeijdens Nemen jullie live op in een kroeg? Met wat voor hardware als ik zo brutaal mag zijn?",
+                                    "rawText": "@JasperLeijdens Nemen jullie live op in een kroeg? Met wat voor hardware als ik zo brutaal mag zijn?",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 14:29:45 GMT",
+                                    "tweetId": "1497217256467673093",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1497217256467673093",
+                                    "inReplyToId": "1497216404327706626",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
                                 {
                                     "text": "Wow... ik wist niet dat zoveel dagelijkse apps/tech de roots in Oekraïne hebben. Zoals Whatsapp... <a href=\"https://t.co/uKzileiage\">[link]</a>",
                                     "rawText": "Wow... ik wist niet dat zoveel dagelijkse apps/tech de roots in Oekraïne hebben. Zoals Whatsapp... https://t.co/uKzileiage",
@@ -36,7 +46,19 @@
                                     "created": "Fri, 25 Feb 2022 14:17:17 GMT",
                                     "tweetId": "1497214120004780032",
                                     "urltweet": "https://twitter.com/frankmeeuwsen/status/1497214120004780032",
-                                    "tweetUserName": "frankmeeuwsen"
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "@Pipblom Ben je er bij @reneevh?",
+                                            "rawText": "@Pipblom Ben je er bij @reneevh?",
+                                            "type": "tweet",
+                                            "created": "Fri, 25 Feb 2022 14:27:54 GMT",
+                                            "tweetId": "1497216790212001809",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1497216790212001809",
+                                            "inReplyToId": "1497214120004780032",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "fijne vrijmi track door de @juggaknots met sterke Guru vibes. @SkateGK will appreciate!\n <a href=\"https://t.co/4IVj1MHrpX\">[link]</a>",
