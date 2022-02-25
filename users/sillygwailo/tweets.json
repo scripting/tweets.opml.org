@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 16:52:54 GMT"
+            "dateModified": "Fri, 25 Feb 2022 00:23:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@justagwailo And Sarah Chan!",
+                                    "rawText": "@justagwailo And Sarah Chan!",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 00:22:37 GMT",
+                                    "tweetId": "1497004066735542277",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1497004066735542277",
+                                    "inReplyToId": "1497003803542962176",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 23",
                             "type": "calendarDay",
