@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 16:05:53 GMT"
+            "dateModified": "Fri, 25 Feb 2022 17:47:15 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "Manah manah <a href=\"https://t.co/KuGS4EnEQV\">[link]</a>",
+                                    "rawText": "Manah manah https://t.co/KuGS4EnEQV",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 17:37:31 GMT",
+                                    "tweetId": "1497264509165129742",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1497264509165129742",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
                                 {
                                     "text": "Web3 is going great... and is definitely not an enormous grift that's pouring lighter fluid on our already-smoldering planet. <a href=\"https://t.co/yZPKX66Rz3\">[link]</a>",
                                     "rawText": "Web3 is going great... and is definitely not an enormous grift that's pouring lighter fluid on our already-smoldering planet. https://t.co/yZPKX66Rz3",
