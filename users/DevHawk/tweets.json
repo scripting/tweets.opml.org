@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 03:44:20 GMT"
+            "dateModified": "Fri, 25 Feb 2022 15:56:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "They brought their fucking toys. #SlapShot <a href=\"https://t.co/boDRrSYN2J\">[link]</a>",
+                                    "rawText": "They brought their fucking toys. #SlapShot https://t.co/boDRrSYN2J",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 15:46:35 GMT",
+                                    "tweetId": "1497236593693712384",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1497236593693712384",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
