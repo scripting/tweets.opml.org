@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 02:01:44 GMT"
+            "dateModified": "Fri, 25 Feb 2022 05:13:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@MisfitTorah Looks like it’s out of print. Should that situation be rectified?",
+                                    "rawText": "@MisfitTorah Looks like it’s out of print. Should that situation be rectified?",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 05:04:10 GMT",
+                                    "tweetId": "1497074922534883352",
+                                    "urltweet": "https://twitter.com/yudel/status/1497074922534883352",
+                                    "inReplyToId": "1497072434532470788",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
