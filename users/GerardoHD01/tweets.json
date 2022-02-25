@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 20:26:38 GMT"
+            "dateModified": "Fri, 25 Feb 2022 05:15:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@HarimGB Te dije que poner mis 6\" me habían puesto advertencia y en la mañana ya no estaban 😅",
+                                    "rawText": "@HarimGB Te dije que poner mis 6\" me habían puesto advertencia y en la mañana ya no estaban 😅",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 05:11:09 GMT",
+                                    "tweetId": "1497076680036208643",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1497076680036208643",
+                                    "inReplyToId": "1497021997376811011",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
