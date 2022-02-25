@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 16:18:07 GMT"
+            "dateModified": "Fri, 25 Feb 2022 15:00:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "#ukraine <a href=\"https://t.co/70nm780xnu\">[link]</a>",
+                                    "rawText": "#ukraine https://t.co/70nm780xnu",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 14:52:29 GMT",
+                                    "tweetId": "1497222976361705472",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1497222976361705472",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
