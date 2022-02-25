@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 23:30:34 GMT"
+            "dateModified": "Fri, 25 Feb 2022 07:46:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@luis1210 Imbox",
+                                    "rawText": "@luis1210 Imbox",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 07:44:52 GMT",
+                                    "tweetId": "1497115363758292993",
+                                    "urltweet": "https://twitter.com/chiguire/status/1497115363758292993",
+                                    "inReplyToId": "1496990165402800128",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
