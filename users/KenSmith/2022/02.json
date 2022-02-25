@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 05:00:40 GMT"
+            "dateModified": "Fri, 25 Feb 2022 13:27:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "While browsing in the campus bookstore once, back in the years when those words meant something, I looked up and saw one of the elder faculty poets rearranging a shelf of volumes so not the very slender spine but the arty front cover of his own book faced out.",
+                                    "rawText": "While browsing in the campus bookstore once, back in the years when those words meant something, I looked up and saw one of the elder faculty poets rearranging a shelf of volumes so not the very slender spine but the arty front cover of his own book faced out.",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 13:20:34 GMT",
+                                    "tweetId": "1497199844104024071",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1497199844104024071",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
