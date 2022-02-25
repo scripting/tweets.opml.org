@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 13:50:12 GMT"
+            "dateModified": "Fri, 25 Feb 2022 13:51:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/QUXo3KrwnU\">[link]</a> Stories via @avantmusicnews @vuzhmusic @ELHopkins",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/QUXo3KrwnU Stories via @avantmusicnews @vuzhmusic @ELHopkins",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 13:47:49 GMT",
+                                    "tweetId": "1497206703896547332",
+                                    "urltweet": "https://twitter.com/aworks/status/1497206703896547332",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
