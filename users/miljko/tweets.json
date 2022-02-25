@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 17:29:41 GMT"
+            "dateModified": "Fri, 25 Feb 2022 16:23:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Ko čita samo naslove manje je informisan nego da ništa nije čitao.\nNi FT nije imun, ali su i dalje najbolji <a href=\"https://t.co/8p1aFxoU42\">[link]</a> https://t.co/xoxoo4TIhm",
+                                    "rawText": "Ko čita samo naslove manje je informisan nego da ništa nije čitao.\nNi FT nije imun, ali su i dalje najbolji https://t.co/8p1aFxoU42 https://t.co/xoxoo4TIhm",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 16:13:05 GMT",
+                                    "tweetId": "1497243260598771713",
+                                    "urltweet": "https://twitter.com/miljko/status/1497243260598771713",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
