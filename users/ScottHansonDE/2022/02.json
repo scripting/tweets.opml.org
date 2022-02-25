@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 10:37:15 GMT"
+            "dateModified": "Fri, 25 Feb 2022 07:49:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Krieg kostet 10% Umsatz",
+                                    "rawText": "Krieg kostet 10% Umsatz",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 07:40:19 GMT",
+                                    "tweetId": "1497114217488474113",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1497114217488474113",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
