@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 10:57:31 GMT"
+            "dateModified": "Fri, 25 Feb 2022 05:32:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@fife_benjamin what is this \"glass\" of which you speak?",
+                                    "rawText": "@fife_benjamin what is this \"glass\" of which you speak?",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Feb 2022 05:29:47 GMT",
+                                    "tweetId": "1497081367120646148",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1497081367120646148",
+                                    "inReplyToId": "1496234646643916809",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
