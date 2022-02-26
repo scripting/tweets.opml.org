@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 02:36:33 GMT"
+            "dateModified": "Sat, 26 Feb 2022 19:41:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@mikeverbruggen Inderdaad. Is het niet voor de mensen zelf, wellicht voor omliggende organisaties en initiatieven. Ik heb zo 1-2-3 ook geen concreet idee. Succes!",
+                                    "rawText": "@mikeverbruggen Inderdaad. Is het niet voor de mensen zelf, wellicht voor omliggende organisaties en initiatieven. Ik heb zo 1-2-3 ook geen concreet idee. Succes!",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 19:36:05 GMT",
+                                    "tweetId": "1497656733833076738",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1497656733833076738",
+                                    "inReplyToId": "1497656239450464257",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
+                                {
+                                    "text": "Help Mike helpen. <a href=\"https://t.co/N1Qtzv1LKI\">[link]</a>",
+                                    "rawText": "Help Mike helpen. https://t.co/N1Qtzv1LKI",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 19:31:05 GMT",
+                                    "tweetId": "1497655478599536647",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1497655478599536647",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
