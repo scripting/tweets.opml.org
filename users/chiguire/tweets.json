@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 08:43:57 GMT"
+            "dateModified": "Sat, 26 Feb 2022 09:40:15 GMT"
         },
         "body": {
             "subs": [
@@ -640,7 +640,19 @@
                                                                     "tweetId": "1496946799076167690",
                                                                     "urltweet": "https://twitter.com/chiguire/status/1496946799076167690",
                                                                     "inReplyToId": "1496406744402214912",
-                                                                    "tweetUserName": "chiguire"
+                                                                    "tweetUserName": "chiguire",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Wordle 252 3/6\n\n🟨🟨⬛⬛🟨\n🟩🟨⬛🟨⬛\n🟩🟩🟩🟩🟩",
+                                                                            "rawText": "Wordle 252 3/6\n\n🟨🟨⬛⬛🟨\n🟩🟨⬛🟨⬛\n🟩🟩🟩🟩🟩",
+                                                                            "type": "tweet",
+                                                                            "created": "Sat, 26 Feb 2022 09:37:02 GMT",
+                                                                            "tweetId": "1497505977830150146",
+                                                                            "urltweet": "https://twitter.com/chiguire/status/1497505977830150146",
+                                                                            "inReplyToId": "1496946799076167690",
+                                                                            "tweetUserName": "chiguire"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
