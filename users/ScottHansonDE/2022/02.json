@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 17:24:13 GMT"
+            "dateModified": "Sat, 26 Feb 2022 18:10:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@RealMarkDziak @c0urtneyH You’re on to something with fat. German food regulations allow at most 20% fat in ground beef, so even our burgers are leaner than in the US",
+                                    "rawText": "@RealMarkDziak @c0urtneyH You’re on to something with fat. German food regulations allow at most 20% fat in ground beef, so even our burgers are leaner than in the US",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 18:02:09 GMT",
+                                    "tweetId": "1497633094312017923",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1497633094312017923",
+                                    "inReplyToId": "1497625033933529088",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
