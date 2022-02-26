@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 21:36:02 GMT"
+            "dateModified": "Sat, 26 Feb 2022 21:47:18 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1497686064584019968",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1497686064584019968",
                                     "inReplyToId": "1497674349234438152",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@Foone (* or in old trade magazines / hobbyist magazines via Google Books)",
+                                            "rawText": "@Foone (* or in old trade magazines / hobbyist magazines via Google Books)",
+                                            "type": "tweet",
+                                            "created": "Sat, 26 Feb 2022 21:38:38 GMT",
+                                            "tweetId": "1497687577716871175",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1497687577716871175",
+                                            "inReplyToId": "1497686064584019968",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
                                 }
                             ]
                         },
