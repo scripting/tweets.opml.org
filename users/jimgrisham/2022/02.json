@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 00:34:40 GMT"
+            "dateModified": "Sat, 26 Feb 2022 21:36:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@Foone Patent filings are often the only reliable online source for obscure old tech like this.\n\nGood luck, and thanks for sharing your progress so far!",
+                                    "rawText": "@Foone Patent filings are often the only reliable online source for obscure old tech like this.\n\nGood luck, and thanks for sharing your progress so far!",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 21:32:38 GMT",
+                                    "tweetId": "1497686064584019968",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1497686064584019968",
+                                    "inReplyToId": "1497674349234438152",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
