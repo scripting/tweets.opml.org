@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 19:04:17 GMT"
+            "dateModified": "Sat, 26 Feb 2022 16:52:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@ds106dc @visualthinkery #tdc3698 #ds106 another option:\n<a href=\"https://t.co/DYVCDjB8NQ\">[link]</a>",
+                                    "rawText": "@ds106dc @visualthinkery #tdc3698 #ds106 another option:\nhttps://t.co/DYVCDjB8NQ",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 16:46:46 GMT",
+                                    "tweetId": "1497614124519501829",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1497614124519501829",
+                                    "inReplyToId": "1497528381952258048",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
