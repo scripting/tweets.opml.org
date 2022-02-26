@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 00:28:25 GMT"
+            "dateModified": "Sat, 26 Feb 2022 08:43:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Thread de oro <a href=\"https://t.co/LBz1ifrdoA\">[link]</a>",
+                                    "rawText": "Thread de oro https://t.co/LBz1ifrdoA",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 08:33:11 GMT",
+                                    "tweetId": "1497489912475627522",
+                                    "urltweet": "https://twitter.com/chiguire/status/1497489912475627522",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
