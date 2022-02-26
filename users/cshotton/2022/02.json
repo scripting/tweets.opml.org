@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 00:26:55 GMT"
+            "dateModified": "Sat, 26 Feb 2022 12:50:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@sauldraws NYT has nothing to do with the content. Dude wrote Wordle to be self-contained and it has all the words in it through 2026. NYT just paid to harvest your data and to add a menu to their other games.",
+                                    "rawText": "@sauldraws NYT has nothing to do with the content. Dude wrote Wordle to be self-contained and it has all the words in it through 2026. NYT just paid to harvest your data and to add a menu to their other games.",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 12:41:58 GMT",
+                                    "tweetId": "1497552517940408321",
+                                    "urltweet": "https://twitter.com/cshotton/status/1497552517940408321",
+                                    "inReplyToId": "1497551846067556354",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
