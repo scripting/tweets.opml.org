@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Feb 2022 23:27:56 GMT"
+            "dateModified": "Sat, 26 Feb 2022 18:28:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@edzitron That’s actually nicely symbolic.",
+                                    "rawText": "@edzitron That’s actually nicely symbolic.",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 18:25:02 GMT",
+                                    "tweetId": "1497638853296857092",
+                                    "urltweet": "https://twitter.com/Surfy/status/1497638853296857092",
+                                    "inReplyToId": "1497634324526497795",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 11",
                             "type": "calendarDay",
