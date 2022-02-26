@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 22:43:36 GMT"
+            "dateModified": "Sat, 26 Feb 2022 22:54:52 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1497703759987757068",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1497703759987757068",
                                     "inReplyToId": "1497692033435144193",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@Foone Also, it could be a one-way protocol… just like an infrared remote control.\n\nMost shuttle-jog and similar controllers from the era had no display at all; they would not expect nor listen to any feedback from the device (except for perhaps invisible RS-232 flow-control codes).",
+                                            "rawText": "@Foone Also, it could be a one-way protocol… just like an infrared remote control.\n\nMost shuttle-jog and similar controllers from the era had no display at all; they would not expect nor listen to any feedback from the device (except for perhaps invisible RS-232 flow-control codes).",
+                                            "type": "tweet",
+                                            "created": "Sat, 26 Feb 2022 22:45:19 GMT",
+                                            "tweetId": "1497704358062002178",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1497704358062002178",
+                                            "inReplyToId": "1497703759987757068",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Foone Nope; only that it’s via RS-232C.\n\nIt appears Sony and JVC may have shared the same protocol, so the authoritative reference _may_ be JVC and not Sony.\n\n(images for the MR1, not the 1700AR) <a href=\"https://t.co/IaJ3MAZRNg\">[link]</a>",
