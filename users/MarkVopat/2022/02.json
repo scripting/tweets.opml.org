@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 18:23:17 GMT"
+            "dateModified": "Sat, 26 Feb 2022 18:13:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Wordle 252 5/6\n\n⬛⬛⬛⬛⬛\n🟩⬛⬛⬛⬛\n🟩🟨🟩⬛⬛\n🟩⬛🟩🟩🟩\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 252 5/6\n\n⬛⬛⬛⬛⬛\n🟩⬛⬛⬛⬛\n🟩🟨🟩⬛⬛\n🟩⬛🟩🟩🟩\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 18:13:31 GMT",
+                                    "tweetId": "1497635957444595724",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1497635957444595724",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
