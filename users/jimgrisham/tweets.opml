@@ -6,11 +6,22 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/jimgrisham/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sat, 26 Feb 2022 22:54:52 GMT</dateModified>
+		<dateModified>Sat, 26 Feb 2022 23:06:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
 			<outline text="February 26" type="calendarDay" name="26" >
+				<outline text="@Foone What voltage is your RS-232 driver putting out?
+
+Perhaps the player is more picky than the spec (especially considering capacitor aging)… but based on the light (and other reactions) you mentioned, it does seem the player is sensing a connection in some way." rawText="@Foone What voltage is your RS-232 driver putting out?
+
+Perhaps the player is more picky than the spec (especially considering capacitor aging)… but based on the light (and other reactions) you mentioned, it does seem the player is sensing a connection in some way." type="tweet" created="Sat, 26 Feb 2022 22:56:10 GMT" tweetId="1497707087090102276" urltweet="https://twitter.com/jimgrisham/status/1497707087090102276" inReplyToId="1497700668248784896" tweetUserName="jimgrisham" >
+					<outline text="@Foone I don’t remember seeing a serial _out_ pin on the main control processor for the `MR1`, so I wouldn’t get too discouraged by not seeing any serial data _from_ the Sony:
+
+&lt;a href=&quot;https://t.co/OoZAjbOz6p&quot;&gt;[link]&lt;/a&gt;" rawText="@Foone I don’t remember seeing a serial _out_ pin on the main control processor for the `MR1`, so I wouldn’t get too discouraged by not seeing any serial data _from_ the Sony:
+
+https://t.co/OoZAjbOz6p" type="tweet" created="Sat, 26 Feb 2022 22:56:51 GMT" tweetId="1497707259467640832" urltweet="https://twitter.com/jimgrisham/status/1497707259467640832" inReplyToId="1497707087090102276" tweetUserName="jimgrisham" />
+					</outline>
 				<outline text="@Foone Octal was used a bunch back then; a long shot, but those single character commands in the BASIC source might be specified in decimal, hex, or octal??
 
 i.e.:
