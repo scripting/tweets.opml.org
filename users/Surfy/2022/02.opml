@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
 	<head>
 		<title>Surfy tweets</title>
@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/Surfy/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Fri, 11 Feb 2022 23:27:56 GMT</dateModified>
+		<dateModified>Sat, 26 Feb 2022 18:28:20 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
+			<outline text="February 26" type="calendarDay" name="26" >
+				<outline text="@edzitron That’s actually nicely symbolic." rawText="@edzitron That’s actually nicely symbolic." type="tweet" created="Sat, 26 Feb 2022 18:25:02 GMT" tweetId="1497638853296857092" urltweet="https://twitter.com/Surfy/status/1497638853296857092" inReplyToId="1497634324526497795" tweetUserName="Surfy" />
+				</outline>
 			<outline text="February 11" type="calendarDay" name="11" >
 				<outline text="@packyM You are suggesting that it makes no difference which team is doing the execution." type="tweet" created="Fri, 11 Feb 2022 23:21:59 GMT" tweetId="1492277766389067778" urltweet="https://twitter.com/Surfy/status/1492277766389067778" inReplyToId="1492266581728051204" tweetUserName="Surfy" />
 				</outline>
