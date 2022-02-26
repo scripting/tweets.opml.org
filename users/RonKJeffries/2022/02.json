@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 02:00:01 GMT"
+            "dateModified": "Sat, 26 Feb 2022 11:34:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@AdamJMatlock I trust you are fully vaccinated with  booster.",
+                                    "rawText": "@AdamJMatlock I trust you are fully vaccinated with  booster.",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 11:29:39 GMT",
+                                    "tweetId": "1497534319249686528",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1497534319249686528",
+                                    "inReplyToId": "1497414974205054980",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
