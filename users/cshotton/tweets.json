@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Feb 2022 13:40:22 GMT"
+            "dateModified": "Sat, 26 Feb 2022 00:26:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@KevinRothrock @SamBendett When you post stuff like this, it is very helpful for the rest of the world if you identify the country to which an aircraft/base/armored vehicle/etc. belongs. Just citing names of places we've never heard of before today, or model numbers of vehicles doesn't help us understand.",
+                                    "rawText": "@KevinRothrock @SamBendett When you post stuff like this, it is very helpful for the rest of the world if you identify the country to which an aircraft/base/armored vehicle/etc. belongs. Just citing names of places we've never heard of before today, or model numbers of vehicles doesn't help us understand.",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 00:16:40 GMT",
+                                    "tweetId": "1497364958866296833",
+                                    "urltweet": "https://twitter.com/cshotton/status/1497364958866296833",
+                                    "inReplyToId": "1497318193920053249",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 22",
                             "type": "calendarDay",
