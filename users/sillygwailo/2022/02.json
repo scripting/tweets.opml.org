@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 22:11:19 GMT"
+            "dateModified": "Sat, 26 Feb 2022 22:33:51 GMT"
         },
         "body": {
             "subs": [
@@ -632,7 +632,19 @@
                                                                                     "tweetId": "1497689686382415878",
                                                                                     "urltweet": "https://twitter.com/sillygwailo/status/1497689686382415878",
                                                                                     "inReplyToId": "1497686550238449675",
-                                                                                    "tweetUserName": "sillygwailo"
+                                                                                    "tweetUserName": "sillygwailo",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "Look at how many people are walking with me! <a href=\"https://t.co/Sy5Vy7oP9r\">[link]</a>",
+                                                                                            "rawText": "Look at how many people are walking with me! https://t.co/Sy5Vy7oP9r",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Sat, 26 Feb 2022 22:27:35 GMT",
+                                                                                            "tweetId": "1497699896899612681",
+                                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1497699896899612681",
+                                                                                            "inReplyToId": "1497689686382415878",
+                                                                                            "tweetUserName": "sillygwailo"
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
