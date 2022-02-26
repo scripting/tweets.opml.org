@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 22:54:52 GMT"
+            "dateModified": "Sat, 26 Feb 2022 23:06:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@Foone What voltage is your RS-232 driver putting out?\n\nPerhaps the player is more picky than the spec (especially considering capacitor aging)… but based on the light (and other reactions) you mentioned, it does seem the player is sensing a connection in some way.",
+                                    "rawText": "@Foone What voltage is your RS-232 driver putting out?\n\nPerhaps the player is more picky than the spec (especially considering capacitor aging)… but based on the light (and other reactions) you mentioned, it does seem the player is sensing a connection in some way.",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 22:56:10 GMT",
+                                    "tweetId": "1497707087090102276",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1497707087090102276",
+                                    "inReplyToId": "1497700668248784896",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@Foone I don’t remember seeing a serial _out_ pin on the main control processor for the `MR1`, so I wouldn’t get too discouraged by not seeing any serial data _from_ the Sony:\n\n<a href=\"https://t.co/OoZAjbOz6p\">[link]</a>",
+                                            "rawText": "@Foone I don’t remember seeing a serial _out_ pin on the main control processor for the `MR1`, so I wouldn’t get too discouraged by not seeing any serial data _from_ the Sony:\n\nhttps://t.co/OoZAjbOz6p",
+                                            "type": "tweet",
+                                            "created": "Sat, 26 Feb 2022 22:56:51 GMT",
+                                            "tweetId": "1497707259467640832",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1497707259467640832",
+                                            "inReplyToId": "1497707087090102276",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@Foone Octal was used a bunch back then; a long shot, but those single character commands in the BASIC source might be specified in decimal, hex, or octal??\n\ni.e.:\nClear LDP: 8 or V or .\nIndex disp on: 2 or P or (\nSearch: + or C or #\nRepeat: , or D or $\nFrame inq: &lt; or ` or 0",
                                     "rawText": "@Foone Octal was used a bunch back then; a long shot, but those single character commands in the BASIC source might be specified in decimal, hex, or octal??\n\ni.e.:\nClear LDP: 8 or V or .\nIndex disp on: 2 or P or (\nSearch: + or C or #\nRepeat: , or D or $\nFrame inq: &lt; or ` or 0",
