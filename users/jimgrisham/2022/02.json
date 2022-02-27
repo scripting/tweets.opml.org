@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 01:10:01 GMT"
+            "dateModified": "Sun, 27 Feb 2022 01:21:16 GMT"
         },
         "body": {
             "subs": [
@@ -58,7 +58,19 @@
                                                             "tweetId": "1497740062175510538",
                                                             "urltweet": "https://twitter.com/jimgrisham/status/1497740062175510538",
                                                             "inReplyToId": "1497734012110057474",
-                                                            "tweetUserName": "jimgrisham"
+                                                            "tweetUserName": "jimgrisham",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "@horsemankukka @Foone From my experience with barcode scanners, I’ve learned that dedicated troubleshooting tools that can directly send/receive individual bytes (or arbitrary bit sequences… #SIRC uses _13_-bit commands!) really help.\n\nNot a recommendation, just an example:\n\n<a href=\"https://t.co/ABDJRsq0QQ\">[link]</a>",
+                                                                    "rawText": "@horsemankukka @Foone From my experience with barcode scanners, I’ve learned that dedicated troubleshooting tools that can directly send/receive individual bytes (or arbitrary bit sequences… #SIRC uses _13_-bit commands!) really help.\n\nNot a recommendation, just an example:\n\nhttps://t.co/ABDJRsq0QQ",
+                                                                    "type": "tweet",
+                                                                    "created": "Sun, 27 Feb 2022 01:11:10 GMT",
+                                                                    "tweetId": "1497741062021988354",
+                                                                    "urltweet": "https://twitter.com/jimgrisham/status/1497741062021988354",
+                                                                    "inReplyToId": "1497740062175510538",
+                                                                    "tweetUserName": "jimgrisham"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
