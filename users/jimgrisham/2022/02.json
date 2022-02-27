@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 00:36:14 GMT"
+            "dateModified": "Sun, 27 Feb 2022 00:47:29 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,31 @@
                                     "tweetId": "1497731818572992516",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1497731818572992516",
                                     "inReplyToId": "1497728133574930432",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@horsemankukka Their modern protocols, such as `P2` do this (command codes have evolved over the decades, of course, but their more modern _syntax_ might still enlighten understanding of earlier versions).",
+                                            "rawText": "@horsemankukka Their modern protocols, such as `P2` do this (command codes have evolved over the decades, of course, but their more modern _syntax_ might still enlighten understanding of earlier versions).",
+                                            "type": "tweet",
+                                            "created": "Sun, 27 Feb 2022 00:42:58 GMT",
+                                            "tweetId": "1497733965981040642",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1497733965981040642",
+                                            "inReplyToId": "1497731818572992516",
+                                            "tweetUserName": "jimgrisham",
+                                            "subs": [
+                                                {
+                                                    "text": "@horsemankukka From several generations later, and a completely different kind of device: \n\n<a href=\"https://t.co/IbH5fMgSXR\">[link]</a>",
+                                                    "rawText": "@horsemankukka From several generations later, and a completely different kind of device: \n\nhttps://t.co/IbH5fMgSXR",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 27 Feb 2022 00:43:09 GMT",
+                                                    "tweetId": "1497734012110057474",
+                                                    "urltweet": "https://twitter.com/jimgrisham/status/1497734012110057474",
+                                                    "inReplyToId": "1497733965981040642",
+                                                    "tweetUserName": "jimgrisham"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Foone Futher digging into JVC and Sony control codes imply the commands might be much more than single-byte sequences:\n\n - text data / commands might end with CR, LF, CR+LF, a single or double `null` byte, or nothing\n\n - multi-byte command sequences may be sent in _big endian_ order",
