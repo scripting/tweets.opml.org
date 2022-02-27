@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 04:22:58 GMT"
+            "dateModified": "Sun, 27 Feb 2022 14:42:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "I assumed the “We Should Improve Society Somewhat” comic would be getting shared a lot more these days, except I don’t see it at all in any of the replies to bad takes lately.",
+                                    "rawText": "I assumed the “We Should Improve Society Somewhat” comic would be getting shared a lot more these days, except I don’t see it at all in any of the replies to bad takes lately.",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 14:36:05 GMT",
+                                    "tweetId": "1497943624042045442",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1497943624042045442",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "The “Look At These Fucking Hypocrites, Let’s Do Nothing Instead” faction is stronger than I thought.",
+                                            "rawText": "The “Look At These Fucking Hypocrites, Let’s Do Nothing Instead” faction is stronger than I thought.",
+                                            "type": "tweet",
+                                            "created": "Sun, 27 Feb 2022 14:40:03 GMT",
+                                            "tweetId": "1497944624211677191",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1497944624211677191",
+                                            "inReplyToId": "1497943624042045442",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 26",
                             "type": "calendarDay",
