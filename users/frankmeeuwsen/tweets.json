@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 19:41:25 GMT"
+            "dateModified": "Sun, 27 Feb 2022 08:49:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Wat een eindbazen in Oekraïne. Stuk voor stuk. <a href=\"https://t.co/hfnPgmRVaq\">[link]</a>",
+                                    "rawText": "Wat een eindbazen in Oekraïne. Stuk voor stuk. https://t.co/hfnPgmRVaq",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 08:46:48 GMT",
+                                    "tweetId": "1497855725959319552",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1497855725959319552",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 26",
                             "type": "calendarDay",
