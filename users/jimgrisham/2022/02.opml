@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/jimgrisham/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sun, 27 Feb 2022 01:43:48 GMT</dateModified>
+		<dateModified>Sun, 27 Feb 2022 02:17:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
@@ -50,7 +50,23 @@ https://t.co/KGrQRRGnIW" type="tweet" created="Sun, 27 Feb 2022 01:38:17 GMT" tw
 
 The laserdisc RS-232 protocol appears to have been designed for applications such as business presentations, kiosks, and video games." rawText="@horsemankukka @Foone (that’s the “Sony 9-pin protocol”, or “P1”, and apparently dates at least as far back as 1982 #Betamax decks; it’s still used in industry today!)
 
-The laserdisc RS-232 protocol appears to have been designed for applications such as business presentations, kiosks, and video games." type="tweet" created="Sun, 27 Feb 2022 01:43:29 GMT" tweetId="1497749195536670720" urltweet="https://twitter.com/jimgrisham/status/1497749195536670720" inReplyToId="1497747884653096963" tweetUserName="jimgrisham" />
+The laserdisc RS-232 protocol appears to have been designed for applications such as business presentations, kiosks, and video games." type="tweet" created="Sun, 27 Feb 2022 01:43:29 GMT" tweetId="1497749195536670720" urltweet="https://twitter.com/jimgrisham/status/1497749195536670720" inReplyToId="1497747884653096963" tweetUserName="jimgrisham" >
+												<outline text="@horsemankukka @Foone Sony’s first Industrial/Commercial players with a RS-232C interface used that ‘Sony LDP series command protocol’, more fully documented here:
+
+&lt;a href=&quot;https://t.co/IOQmPdmL3l&quot;&gt;[link]&lt;/a&gt;
+
+(including a link to a scanned version of the _official protocol/command interface manual_)" rawText="@horsemankukka @Foone Sony’s first Industrial/Commercial players with a RS-232C interface used that ‘Sony LDP series command protocol’, more fully documented here:
+
+https://t.co/IOQmPdmL3l
+
+(including a link to a scanned version of the _official protocol/command interface manual_)" type="tweet" created="Sun, 27 Feb 2022 02:11:39 GMT" tweetId="1497756282148855810" urltweet="https://twitter.com/jimgrisham/status/1497756282148855810" inReplyToId="1497749195536670720" tweetUserName="jimgrisham" >
+													<outline text="@horsemankukka @Foone As suspected, control of the RS-232 `DTR` line is important (and is what enables the “EXT CPU” indicator); as is the timing of commands &amp;amp;parameters.
+
+Also, page 113 notably describes minor differences in startup/ack code semantics between various models in the early ‘LDP’ series. &lt;a href=&quot;https://t.co/b2UAS9betR&quot;&gt;[link]&lt;/a&gt;" rawText="@horsemankukka @Foone As suspected, control of the RS-232 `DTR` line is important (and is what enables the “EXT CPU” indicator); as is the timing of commands &amp;amp;parameters.
+
+Also, page 113 notably describes minor differences in startup/ack code semantics between various models in the early ‘LDP’ series. https://t.co/b2UAS9betR" type="tweet" created="Sun, 27 Feb 2022 02:16:22 GMT" tweetId="1497757469082361858" urltweet="https://twitter.com/jimgrisham/status/1497757469082361858" inReplyToId="1497756282148855810" tweetUserName="jimgrisham" />
+													</outline>
+												</outline>
 											</outline>
 										</outline>
 									</outline>
