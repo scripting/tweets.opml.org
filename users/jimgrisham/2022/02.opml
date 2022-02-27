@@ -6,11 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/jimgrisham/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sun, 27 Feb 2022 00:02:26 GMT</dateModified>
+		<dateModified>Sun, 27 Feb 2022 00:24:58 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
 			<outline text="February 26" type="calendarDay" name="26" >
+				<outline text="@Foone Futher digging into JVC and Sony control codes imply the commands might be much more than single-byte sequences:
+
+ - text data / commands might end with CR, LF, CR+LF, a single or double `null` byte, or nothing
+
+ - multi-byte command sequences may be sent in _big endian_ order" rawText="@Foone Futher digging into JVC and Sony control codes imply the commands might be much more than single-byte sequences:
+
+ - text data / commands might end with CR, LF, CR+LF, a single or double `null` byte, or nothing
+
+ - multi-byte command sequences may be sent in _big endian_ order" type="tweet" created="Sun, 27 Feb 2022 00:22:53 GMT" tweetId="1497728909495865350" urltweet="https://twitter.com/jimgrisham/status/1497728909495865350" inReplyToId="1497700668248784896" tweetUserName="jimgrisham" />
 				<outline text="@horsemankukka Just for fun:
 
 The line 1000 ‘function’ (using the value of global variable `X` instead of parameter) sends (or queues) an opcode / command.
