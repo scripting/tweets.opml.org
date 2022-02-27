@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/jimgrisham/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sun, 27 Feb 2022 00:47:29 GMT</dateModified>
+		<dateModified>Sun, 27 Feb 2022 01:10:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
@@ -21,7 +21,13 @@
 
 &lt;a href=&quot;https://t.co/IbH5fMgSXR&quot;&gt;[link]&lt;/a&gt;" rawText="@horsemankukka From several generations later, and a completely different kind of device: 
 
-https://t.co/IbH5fMgSXR" type="tweet" created="Sun, 27 Feb 2022 00:43:09 GMT" tweetId="1497734012110057474" urltweet="https://twitter.com/jimgrisham/status/1497734012110057474" inReplyToId="1497733965981040642" tweetUserName="jimgrisham" />
+https://t.co/IbH5fMgSXR" type="tweet" created="Sun, 27 Feb 2022 00:43:09 GMT" tweetId="1497734012110057474" urltweet="https://twitter.com/jimgrisham/status/1497734012110057474" inReplyToId="1497733965981040642" tweetUserName="jimgrisham" >
+							<outline text="@horsemankukka … but, based on the DAPHNE emulator code @foone linked to earlier, assuming control codes there (same as in the BASIC above) are valid for their device, I’d still look first to a flow control misconfiguration.
+
+RS-232 flow control is a haunted minefield, as I recall." rawText="@horsemankukka … but, based on the DAPHNE emulator code @foone linked to earlier, assuming control codes there (same as in the BASIC above) are valid for their device, I’d still look first to a flow control misconfiguration.
+
+RS-232 flow control is a haunted minefield, as I recall." type="tweet" created="Sun, 27 Feb 2022 01:07:12 GMT" tweetId="1497740062175510538" urltweet="https://twitter.com/jimgrisham/status/1497740062175510538" inReplyToId="1497734012110057474" tweetUserName="jimgrisham" />
+							</outline>
 						</outline>
 					</outline>
 				<outline text="@Foone Futher digging into JVC and Sony control codes imply the commands might be much more than single-byte sequences:
