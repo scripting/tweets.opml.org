@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 15:14:40 GMT"
+            "dateModified": "Sun, 27 Feb 2022 15:25:56 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1497951746760613898",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1497951746760613898",
                                     "inReplyToId": "1497841182507995137",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@horsemankukka (Warning for the un-wary: ‘terminal emulator’ software will _not_ work with most RS-232 devices. They are not expecting to talk to a text-based terminal! \n\ne.g., responses were commonly bit-packed for performance, resulting in non-printable characters.)",
+                                            "rawText": "@horsemankukka (Warning for the un-wary: ‘terminal emulator’ software will _not_ work with most RS-232 devices. They are not expecting to talk to a text-based terminal! \n\ne.g., responses were commonly bit-packed for performance, resulting in non-printable characters.)",
+                                            "type": "tweet",
+                                            "created": "Sun, 27 Feb 2022 15:15:07 GMT",
+                                            "tweetId": "1497953449492856832",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1497953449492856832",
+                                            "inReplyToId": "1497951746760613898",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
                                 }
                             ]
                         },
