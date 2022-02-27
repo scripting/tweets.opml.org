@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 21:21:44 GMT"
+            "dateModified": "Sun, 27 Feb 2022 03:01:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@GlennF The goal is just to constantly have sound bites in their heads so they won’t accidentally come to start thinking.",
+                                    "rawText": "@GlennF The goal is just to constantly have sound bites in their heads so they won’t accidentally come to start thinking.",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 02:53:59 GMT",
+                                    "tweetId": "1497766935563542530",
+                                    "urltweet": "https://twitter.com/yudel/status/1497766935563542530",
+                                    "inReplyToId": "1497765393355534340",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
