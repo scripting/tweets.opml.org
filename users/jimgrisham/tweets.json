@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 00:47:29 GMT"
+            "dateModified": "Sun, 27 Feb 2022 01:10:01 GMT"
         },
         "body": {
             "subs": [
@@ -48,7 +48,19 @@
                                                     "tweetId": "1497734012110057474",
                                                     "urltweet": "https://twitter.com/jimgrisham/status/1497734012110057474",
                                                     "inReplyToId": "1497733965981040642",
-                                                    "tweetUserName": "jimgrisham"
+                                                    "tweetUserName": "jimgrisham",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@horsemankukka … but, based on the DAPHNE emulator code @foone linked to earlier, assuming control codes there (same as in the BASIC above) are valid for their device, I’d still look first to a flow control misconfiguration.\n\nRS-232 flow control is a haunted minefield, as I recall.",
+                                                            "rawText": "@horsemankukka … but, based on the DAPHNE emulator code @foone linked to earlier, assuming control codes there (same as in the BASIC above) are valid for their device, I’d still look first to a flow control misconfiguration.\n\nRS-232 flow control is a haunted minefield, as I recall.",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 27 Feb 2022 01:07:12 GMT",
+                                                            "tweetId": "1497740062175510538",
+                                                            "urltweet": "https://twitter.com/jimgrisham/status/1497740062175510538",
+                                                            "inReplyToId": "1497734012110057474",
+                                                            "tweetUserName": "jimgrisham"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
