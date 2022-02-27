@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 23:39:55 GMT"
+            "dateModified": "Sun, 27 Feb 2022 00:02:26 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,52 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@horsemankukka Just for fun:\n\nThe line 1000 ‘function’ (using the value of global variable `X` instead of parameter) sends (or queues) an opcode / command.\n\n1/",
+                                    "rawText": "@horsemankukka Just for fun:\n\nThe line 1000 ‘function’ (using the value of global variable `X` instead of parameter) sends (or queues) an opcode / command.\n\n1/",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Feb 2022 23:54:38 GMT",
+                                    "tweetId": "1497721800440090626",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1497721800440090626",
+                                    "inReplyToId": "1497714802252255233",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@horsemankukka The line 2000 ‘function’ likewise uses the value of global variable `Y`, sending it in a different format to indicate an operand / additional data to a previous command.\n\nThe command at line 360 is sent directly, however, without the aid of either of those ‘functions’.\n\n2/",
+                                            "rawText": "@horsemankukka The line 2000 ‘function’ likewise uses the value of global variable `Y`, sending it in a different format to indicate an operand / additional data to a previous command.\n\nThe command at line 360 is sent directly, however, without the aid of either of those ‘functions’.\n\n2/",
+                                            "type": "tweet",
+                                            "created": "Sat, 26 Feb 2022 23:55:04 GMT",
+                                            "tweetId": "1497721911450689536",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1497721911450689536",
+                                            "inReplyToId": "1497721800440090626",
+                                            "tweetUserName": "jimgrisham",
+                                            "subs": [
+                                                {
+                                                    "text": "@horsemankukka The lines after the first two commands sent via ‘function’ 1000 don’t appear to handle any ‘success codes’, so either that function contains conditional logic to automatically accept them for those cmds that don’t require operands (sort of multi-threading, AT BASIC-style?), …\n3/",
+                                                    "rawText": "@horsemankukka The lines after the first two commands sent via ‘function’ 1000 don’t appear to handle any ‘success codes’, so either that function contains conditional logic to automatically accept them for those cmds that don’t require operands (sort of multi-threading, AT BASIC-style?), …\n3/",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 26 Feb 2022 23:56:44 GMT",
+                                                    "tweetId": "1497722330113576961",
+                                                    "urltweet": "https://twitter.com/jimgrisham/status/1497722330113576961",
+                                                    "inReplyToId": "1497721911450689536",
+                                                    "tweetUserName": "jimgrisham",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@horsemankukka … or perhaps the device only sends confirmations for those commands (such as seeking) that are expected to take a bit of time (in addition to any commands, of course, which are specifically designed to return an answer to a request).\n\nCurious indeed.\n\n4/4",
+                                                            "rawText": "@horsemankukka … or perhaps the device only sends confirmations for those commands (such as seeking) that are expected to take a bit of time (in addition to any commands, of course, which are specifically designed to return an answer to a request).\n\nCurious indeed.\n\n4/4",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 26 Feb 2022 23:58:44 GMT",
+                                                            "tweetId": "1497722835510480903",
+                                                            "urltweet": "https://twitter.com/jimgrisham/status/1497722835510480903",
+                                                            "inReplyToId": "1497722330113576961",
+                                                            "tweetUserName": "jimgrisham"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@horsemankukka Yup.\n\nAfter reading your reply, I noticed that the serial port was defined as ‘#1’ as used in the `input` statement.🤦\n\n[Without scoping it, there are just too many variables (e.g. USB adapters, cap. aging, RS-232F vs RS-232C, flow cont, clock drift) for more conjecture from me.]",
                                     "rawText": "@horsemankukka Yup.\n\nAfter reading your reply, I noticed that the serial port was defined as ‘#1’ as used in the `input` statement.🤦\n\n[Without scoping it, there are just too many variables (e.g. USB adapters, cap. aging, RS-232F vs RS-232C, flow cont, clock drift) for more conjecture from me.]",
