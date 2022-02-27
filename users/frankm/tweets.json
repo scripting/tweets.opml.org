@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 17:05:14 GMT"
+            "dateModified": "Sun, 27 Feb 2022 14:51:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Would Putin do the same? <a href=\"https://t.co/DdU0IMd37t\">[link]</a>",
+                                    "rawText": "Would Putin do the same? https://t.co/DdU0IMd37t",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 14:43:52 GMT",
+                                    "tweetId": "1497945586368188419",
+                                    "urltweet": "https://twitter.com/frankm/status/1497945586368188419",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 26",
                             "type": "calendarDay",
