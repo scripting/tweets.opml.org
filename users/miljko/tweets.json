@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 22:14:20 GMT"
+            "dateModified": "Sun, 27 Feb 2022 13:37:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/wxBZBdY6iQ\">[link]</a> https://t.co/5C7GSivFZF",
+                                    "rawText": "https://t.co/wxBZBdY6iQ https://t.co/5C7GSivFZF",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 13:29:52 GMT",
+                                    "tweetId": "1497926960110002183",
+                                    "urltweet": "https://twitter.com/miljko/status/1497926960110002183",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 26",
                             "type": "calendarDay",
