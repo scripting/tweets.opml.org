@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 21:41:02 GMT"
+            "dateModified": "Sun, 27 Feb 2022 14:34:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@SoyNorge Feliz cumpleaños!! Un gran abrazo Norge",
+                                    "rawText": "@SoyNorge Feliz cumpleaños!! Un gran abrazo Norge",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 14:30:26 GMT",
+                                    "tweetId": "1497942204391858185",
+                                    "urltweet": "https://twitter.com/chiguire/status/1497942204391858185",
+                                    "inReplyToId": "1497904577735188483",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 26",
                             "type": "calendarDay",
