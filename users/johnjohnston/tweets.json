@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 16:52:13 GMT"
+            "dateModified": "Sun, 27 Feb 2022 18:01:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@Mr_Minchin Cows that don’t fart is a nice one! Presumably from a climate change perspective🤣",
+                                    "rawText": "@Mr_Minchin Cows that don’t fart is a nice one! Presumably from a climate change perspective🤣",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 17:52:47 GMT",
+                                    "tweetId": "1497993126836944899",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1497993126836944899",
+                                    "inReplyToId": "1497939529617096704",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 26",
                             "type": "calendarDay",
