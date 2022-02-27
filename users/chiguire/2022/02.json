@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 14:34:37 GMT"
+            "dateModified": "Sun, 27 Feb 2022 16:04:43 GMT"
         },
         "body": {
             "subs": [
@@ -687,7 +687,19 @@
                                                                             "tweetId": "1497505977830150146",
                                                                             "urltweet": "https://twitter.com/chiguire/status/1497505977830150146",
                                                                             "inReplyToId": "1496946799076167690",
-                                                                            "tweetUserName": "chiguire"
+                                                                            "tweetUserName": "chiguire",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "Wordle 253 6/6\n\n⬛⬛⬛⬛⬛\n🟨🟨⬛⬛⬛\n⬛🟨🟨⬛⬛\n🟩⬛🟩🟨⬛\n🟩🟩🟩⬛🟩\n🟩🟩🟩🟩🟩",
+                                                                                    "rawText": "Wordle 253 6/6\n\n⬛⬛⬛⬛⬛\n🟨🟨⬛⬛⬛\n⬛🟨🟨⬛⬛\n🟩⬛🟩🟨⬛\n🟩🟩🟩⬛🟩\n🟩🟩🟩🟩🟩",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Sun, 27 Feb 2022 15:55:38 GMT",
+                                                                                    "tweetId": "1497963644939821057",
+                                                                                    "urltweet": "https://twitter.com/chiguire/status/1497963644939821057",
+                                                                                    "inReplyToId": "1497505977830150146",
+                                                                                    "tweetUserName": "chiguire"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     ]
                                                                 }
