@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 22:05:06 GMT"
+            "dateModified": "Sun, 27 Feb 2022 23:57:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/EJcCThKEZm\">[link]</a>",
+                                    "rawText": "https://t.co/EJcCThKEZm",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 23:57:10 GMT",
+                                    "tweetId": "1498084826771070979",
+                                    "urltweet": "https://twitter.com/chiguire/status/1498084826771070979",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@mariannedh Google Assistant se levantó y decidió la violencia",
                                     "rawText": "@mariannedh Google Assistant se levantó y decidió la violencia",
