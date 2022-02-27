@@ -6,11 +6,44 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/jimgrisham/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sat, 26 Feb 2022 23:39:55 GMT</dateModified>
+		<dateModified>Sun, 27 Feb 2022 00:02:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="February 2022" type="calendarMonth" name="february2022" >
 			<outline text="February 26" type="calendarDay" name="26" >
+				<outline text="@horsemankukka Just for fun:
+
+The line 1000 ‘function’ (using the value of global variable `X` instead of parameter) sends (or queues) an opcode / command.
+
+1/" rawText="@horsemankukka Just for fun:
+
+The line 1000 ‘function’ (using the value of global variable `X` instead of parameter) sends (or queues) an opcode / command.
+
+1/" type="tweet" created="Sat, 26 Feb 2022 23:54:38 GMT" tweetId="1497721800440090626" urltweet="https://twitter.com/jimgrisham/status/1497721800440090626" inReplyToId="1497714802252255233" tweetUserName="jimgrisham" >
+					<outline text="@horsemankukka The line 2000 ‘function’ likewise uses the value of global variable `Y`, sending it in a different format to indicate an operand / additional data to a previous command.
+
+The command at line 360 is sent directly, however, without the aid of either of those ‘functions’.
+
+2/" rawText="@horsemankukka The line 2000 ‘function’ likewise uses the value of global variable `Y`, sending it in a different format to indicate an operand / additional data to a previous command.
+
+The command at line 360 is sent directly, however, without the aid of either of those ‘functions’.
+
+2/" type="tweet" created="Sat, 26 Feb 2022 23:55:04 GMT" tweetId="1497721911450689536" urltweet="https://twitter.com/jimgrisham/status/1497721911450689536" inReplyToId="1497721800440090626" tweetUserName="jimgrisham" >
+						<outline text="@horsemankukka The lines after the first two commands sent via ‘function’ 1000 don’t appear to handle any ‘success codes’, so either that function contains conditional logic to automatically accept them for those cmds that don’t require operands (sort of multi-threading, AT BASIC-style?), …
+3/" rawText="@horsemankukka The lines after the first two commands sent via ‘function’ 1000 don’t appear to handle any ‘success codes’, so either that function contains conditional logic to automatically accept them for those cmds that don’t require operands (sort of multi-threading, AT BASIC-style?), …
+3/" type="tweet" created="Sat, 26 Feb 2022 23:56:44 GMT" tweetId="1497722330113576961" urltweet="https://twitter.com/jimgrisham/status/1497722330113576961" inReplyToId="1497721911450689536" tweetUserName="jimgrisham" >
+							<outline text="@horsemankukka … or perhaps the device only sends confirmations for those commands (such as seeking) that are expected to take a bit of time (in addition to any commands, of course, which are specifically designed to return an answer to a request).
+
+Curious indeed.
+
+4/4" rawText="@horsemankukka … or perhaps the device only sends confirmations for those commands (such as seeking) that are expected to take a bit of time (in addition to any commands, of course, which are specifically designed to return an answer to a request).
+
+Curious indeed.
+
+4/4" type="tweet" created="Sat, 26 Feb 2022 23:58:44 GMT" tweetId="1497722835510480903" urltweet="https://twitter.com/jimgrisham/status/1497722835510480903" inReplyToId="1497722330113576961" tweetUserName="jimgrisham" />
+							</outline>
+						</outline>
+					</outline>
 				<outline text="@horsemankukka Yup.
 
 After reading your reply, I noticed that the serial port was defined as ‘#1’ as used in the `input` statement.🤦
