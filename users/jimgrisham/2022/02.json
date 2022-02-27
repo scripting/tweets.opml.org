@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 00:02:26 GMT"
+            "dateModified": "Sun, 27 Feb 2022 00:24:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@Foone Futher digging into JVC and Sony control codes imply the commands might be much more than single-byte sequences:\n\n - text data / commands might end with CR, LF, CR+LF, a single or double `null` byte, or nothing\n\n - multi-byte command sequences may be sent in _big endian_ order",
+                                    "rawText": "@Foone Futher digging into JVC and Sony control codes imply the commands might be much more than single-byte sequences:\n\n - text data / commands might end with CR, LF, CR+LF, a single or double `null` byte, or nothing\n\n - multi-byte command sequences may be sent in _big endian_ order",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 00:22:53 GMT",
+                                    "tweetId": "1497728909495865350",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1497728909495865350",
+                                    "inReplyToId": "1497700668248784896",
+                                    "tweetUserName": "jimgrisham"
+                                },
                                 {
                                     "text": "@horsemankukka Just for fun:\n\nThe line 1000 ‘function’ (using the value of global variable `X` instead of parameter) sends (or queues) an opcode / command.\n\n1/",
                                     "rawText": "@horsemankukka Just for fun:\n\nThe line 1000 ‘function’ (using the value of global variable `X` instead of parameter) sends (or queues) an opcode / command.\n\n1/",
