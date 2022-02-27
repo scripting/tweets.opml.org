@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 01:56:34 GMT"
+            "dateModified": "Sun, 27 Feb 2022 02:07:49 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "Today’s the anniversary of when I got my OHIP card, which is to say, the day I became an Ontarian.",
+                                    "rawText": "Today’s the anniversary of when I got my OHIP card, which is to say, the day I became an Ontarian.",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 02:00:41 GMT",
+                                    "tweetId": "1497753522938470401",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1497753522938470401",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "I’m gonna need a print of this. <a href=\"https://t.co/9WwXSa3DR2\">[link]</a>",
                                     "rawText": "I’m gonna need a print of this. https://t.co/9WwXSa3DR2",
@@ -661,7 +670,19 @@
                                                                                                     "tweetId": "1497708888568709122",
                                                                                                     "urltweet": "https://twitter.com/sillygwailo/status/1497708888568709122",
                                                                                                     "inReplyToId": "1497699896899612681",
-                                                                                                    "tweetUserName": "sillygwailo"
+                                                                                                    "tweetUserName": "sillygwailo",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "I ultimately walked 6 km. I was heartened by how many people came out and did the walk in person. I’ll continue the fundraising drive well into March. <a href=\"https://t.co/MuTrOzfoMs\">[link]</a>",
+                                                                                                            "rawText": "I ultimately walked 6 km. I was heartened by how many people came out and did the walk in person. I’ll continue the fundraising drive well into March. https://t.co/MuTrOzfoMs",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Sun, 27 Feb 2022 02:06:17 GMT",
+                                                                                                            "tweetId": "1497754934455984135",
+                                                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1497754934455984135",
+                                                                                                            "inReplyToId": "1497708888568709122",
+                                                                                                            "tweetUserName": "sillygwailo"
+                                                                                                        }
+                                                                                                    ]
                                                                                                 }
                                                                                             ]
                                                                                         }
