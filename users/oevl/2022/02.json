@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Feb 2022 04:57:42 GMT"
+            "dateModified": "Sun, 27 Feb 2022 01:36:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: The Best OSX For an iMac G3 is... OpenBSD <a href=\"https://t.co/8ESNcZB7lW\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: The Best OSX For an iMac G3 is... OpenBSD https://t.co/8ESNcZB7lW",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 01:28:06 GMT",
+                                    "tweetId": "1497745322637991936",
+                                    "urltweet": "https://twitter.com/oevl/status/1497745322637991936",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: How to turn Vim into a powerful and beautiful IDE | Jess Archer, Vimconf 2021 <a href=\"https://t.co/hytLWX8XnL\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: How to turn Vim into a powerful and beautiful IDE | Jess Archer, Vimconf 2021 https://t.co/hytLWX8XnL",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Feb 2022 01:28:04 GMT",
+                                    "tweetId": "1497745316044541955",
+                                    "urltweet": "https://twitter.com/oevl/status/1497745316044541955",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
