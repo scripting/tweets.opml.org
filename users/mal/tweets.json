@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Feb 2022 10:09:13 GMT"
+            "dateModified": "Mon, 28 Feb 2022 05:00:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@jonlionfineart2 @HamillHimself @kjcrowley82 We had a Robert Smith retire at our U. First thing I thought was Dr. Bob.",
+                                    "rawText": "@jonlionfineart2 @HamillHimself @kjcrowley82 We had a Robert Smith retire at our U. First thing I thought was Dr. Bob.",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 04:56:21 GMT",
+                                    "tweetId": "1498160117170114562",
+                                    "urltweet": "https://twitter.com/mal/status/1498160117170114562",
+                                    "inReplyToId": "1497795600594653187",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 24",
                             "type": "calendarDay",
