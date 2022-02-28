@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Feb 2022 00:05:29 GMT"
+            "dateModified": "Mon, 28 Feb 2022 17:10:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Every time I think about buying a car, remembering just one of these advantages convinces me not to. <a href=\"https://t.co/w56mpB2OVe\">[link]</a>",
+                                    "rawText": "Every time I think about buying a car, remembering just one of these advantages convinces me not to. https://t.co/w56mpB2OVe",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 16:59:50 GMT",
+                                    "tweetId": "1498342187528069134",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1498342187528069134",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I haven’t driven a car in over two years and I sometimes worry that I’ve forgotten how.",
+                                            "rawText": "I haven’t driven a car in over two years and I sometimes worry that I’ve forgotten how.",
+                                            "type": "tweet",
+                                            "created": "Mon, 28 Feb 2022 16:59:50 GMT",
+                                            "tweetId": "1498342188505350147",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1498342188505350147",
+                                            "inReplyToId": "1498342187528069134",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "February 27",
                             "type": "calendarDay",
