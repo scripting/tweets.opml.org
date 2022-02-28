@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Feb 2022 02:16:23 GMT"
+            "dateModified": "Mon, 28 Feb 2022 18:36:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@jesshopp @naomihuffman The 2/e’s Afterword is magnificent.",
+                                    "rawText": "@jesshopp @naomihuffman The 2/e’s Afterword is magnificent.",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 18:28:56 GMT",
+                                    "tweetId": "1498364611124420619",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1498364611124420619",
+                                    "inReplyToId": "1329521339720495107",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 27",
                             "type": "calendarDay",
