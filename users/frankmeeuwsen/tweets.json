@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 22:43:09 GMT"
+            "dateModified": "Mon, 28 Feb 2022 16:10:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Want er is maar 1 echte eindbaas! <a href=\"https://t.co/uCG92lQpe0\">[link]</a>",
+                                    "rawText": "Want er is maar 1 echte eindbaas! https://t.co/uCG92lQpe0",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 16:09:30 GMT",
+                                    "tweetId": "1498329522969751552",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1498329522969751552",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 27",
                             "type": "calendarDay",
