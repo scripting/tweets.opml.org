@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Feb 2022 16:56:05 GMT"
+            "dateModified": "Mon, 28 Feb 2022 17:41:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "Counterpoint: <a href=\"https://t.co/xWJST8WS4Y\">[link]</a> https://t.co/1hmtRreF5I",
+                                    "rawText": "Counterpoint: https://t.co/xWJST8WS4Y https://t.co/1hmtRreF5I",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 17:36:08 GMT",
+                                    "tweetId": "1498351325305839618",
+                                    "urltweet": "https://twitter.com/yudel/status/1498351325305839618",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/xWJST8WS4Y\">[link]</a>",
+                                            "rawText": "https://t.co/xWJST8WS4Y",
+                                            "type": "tweet",
+                                            "created": "Mon, 28 Feb 2022 17:36:16 GMT",
+                                            "tweetId": "1498351357006393345",
+                                            "urltweet": "https://twitter.com/yudel/status/1498351357006393345",
+                                            "inReplyToId": "1498351325305839618",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Fixed it for you: \"Netanyahu, under whose watch and guidance Iran grew closer than ever to assembling a nuclear device, accuses....\" <a href=\"https://t.co/saKGsPEN2e\">[link]</a>",
                                     "rawText": "Fixed it for you: \"Netanyahu, under whose watch and guidance Iran grew closer than ever to assembling a nuclear device, accuses....\" https://t.co/saKGsPEN2e",
