@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 08:08:43 GMT"
+            "dateModified": "Mon, 28 Feb 2022 06:40:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Do you remember when you joined Twitter? I do! #MyTwitterAnniversary <a href=\"https://t.co/YsGSKwtj9Q\">[link]</a>",
+                                    "rawText": "Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/YsGSKwtj9Q",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 06:32:33 GMT",
+                                    "tweetId": "1498184328836169729",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1498184328836169729",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 27",
                             "type": "calendarDay",
