@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Feb 2022 05:00:03 GMT"
+            "dateModified": "Mon, 28 Feb 2022 06:07:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@deangloster Can you imagine if he’d been vp?",
+                                    "rawText": "@deangloster Can you imagine if he’d been vp?",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 06:02:39 GMT",
+                                    "tweetId": "1498176805382938629",
+                                    "urltweet": "https://twitter.com/mal/status/1498176805382938629",
+                                    "inReplyToId": "1497801985273176066",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 27",
                             "type": "calendarDay",
