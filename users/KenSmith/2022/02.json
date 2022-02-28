@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Feb 2022 03:22:24 GMT"
+            "dateModified": "Mon, 28 Feb 2022 01:08:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Putin the Thief <a href=\"https://t.co/qJz4Mtx4cc\">[link]</a>",
+                                    "rawText": "Putin the Thief https://t.co/qJz4Mtx4cc",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 00:58:51 GMT",
+                                    "tweetId": "1498100352259956736",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1498100352259956736",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 26",
                             "type": "calendarDay",
