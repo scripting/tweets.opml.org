@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Feb 2022 00:20:15 GMT"
+            "dateModified": "Mon, 28 Feb 2022 10:39:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@rene_wav <a href=\"https://t.co/gG2ogXE3Cj\">[link]</a>",
+                                    "rawText": "@rene_wav https://t.co/gG2ogXE3Cj",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Feb 2022 10:30:50 GMT",
+                                    "tweetId": "1498244295102455813",
+                                    "urltweet": "https://twitter.com/chiguire/status/1498244295102455813",
+                                    "inReplyToId": "1498227896208564229",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 27",
                             "type": "calendarDay",
