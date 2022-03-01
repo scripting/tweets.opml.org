@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "davewiner tweets",
+            "dateCreated": "Sat, 18 Dec 2021 15:51:38 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 01 Mar 2022 07:55:02 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Behind Chevrolet’s ‘Sopranos’ Super Bowl commercial. <a href=\"https://t.co/l2rFuseBPq\">[link]</a>",
+                                    "rawText": "Behind Chevrolet’s ‘Sopranos’ Super Bowl commercial. https://t.co/l2rFuseBPq",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 07:44:19 GMT",
+                                    "tweetId": "1498564775596412932",
+                                    "urltweet": "https://twitter.com/davewiner/status/1498564775596412932",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
