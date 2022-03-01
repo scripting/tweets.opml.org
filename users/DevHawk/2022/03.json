@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 01 Mar 2022 21:06:37 GMT"
+            "dateModified": "Tue, 01 Mar 2022 21:17:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@clairernovotny Not really, though the primitives are there obviously.\n\nI'm looking for stuff like path comparison (case insensitive on windows vs case sensitive elsewhere) &amp; processing paths that may come from another platform (processing a unix path via Path.Combine on Windows or vis-versa)",
+                                    "rawText": "@clairernovotny Not really, though the primitives are there obviously.\n\nI'm looking for stuff like path comparison (case insensitive on windows vs case sensitive elsewhere) &amp; processing paths that may come from another platform (processing a unix path via Path.Combine on Windows or vis-versa)",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 21:13:10 GMT",
+                                    "tweetId": "1498768329053380609",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1498768329053380609",
+                                    "inReplyToId": "1498766728666533891",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "@clairernovotny \"What is this 'Base Class Library' you speak of @clairernovotny?\" asked a guy who used to work on the Midori fork of the Base Class Library 🤣",
+                                            "rawText": "@clairernovotny \"What is this 'Base Class Library' you speak of @clairernovotny?\" asked a guy who used to work on the Midori fork of the Base Class Library 🤣",
+                                            "type": "tweet",
+                                            "created": "Tue, 01 Mar 2022 21:15:58 GMT",
+                                            "tweetId": "1498769033776152576",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1498769033776152576",
+                                            "inReplyToId": "1498768329053380609",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Is there a xplat .NET library for working with file system paths that I'm not aware of?\n\nI could roll my own, but I'd rather use an existing (i.e. tested) library. I've done enough file system work to know there be dragons in the edge cases.",
                                     "rawText": "Is there a xplat .NET library for working with file system paths that I'm not aware of?\n\nI could roll my own, but I'd rather use an existing (i.e. tested) library. I've done enough file system work to know there be dragons in the edge cases.",
