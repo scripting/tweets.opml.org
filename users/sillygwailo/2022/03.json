@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 01 Mar 2022 17:34:24 GMT"
+            "dateModified": "Tue, 01 Mar 2022 20:34:35 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@extra_specific Here’s an extremely specific account for you: @NewBillboardDay",
+                                    "rawText": "@extra_specific Here’s an extremely specific account for you: @NewBillboardDay",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 20:24:19 GMT",
+                                    "tweetId": "1498756036152471560",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1498756036152471560",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "You can’t spell “obsequious” without I.O.U. @dailysimpsons <a href=\"https://t.co/qNmmpLkgZ6\">[link]</a>",
                                     "rawText": "You can’t spell “obsequious” without I.O.U. @dailysimpsons https://t.co/qNmmpLkgZ6",
