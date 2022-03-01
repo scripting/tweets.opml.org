@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Feb 2022 17:50:30 GMT"
+            "dateModified": "Tue, 01 Mar 2022 01:36:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "february2022",
                     "subs": [
+                        {
+                            "text": "February 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@Manriqueirving Demuestralo! 🤣",
+                                    "rawText": "@Manriqueirving Demuestralo! 🤣",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 01:27:51 GMT",
+                                    "tweetId": "1498470034737270786",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1498470034737270786",
+                                    "inReplyToId": "1498403763953934338",
+                                    "tweetUserName": "GerardoHD01"
+                                },
+                                {
+                                    "text": "@EddieRohe A ver 😏",
+                                    "rawText": "@EddieRohe A ver 😏",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 01:27:24 GMT",
+                                    "tweetId": "1498469921113579520",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1498469921113579520",
+                                    "inReplyToId": "1498445742272356354",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "February 25",
                             "type": "calendarDay",
