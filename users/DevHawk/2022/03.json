@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "DevHawk tweets",
+            "dateCreated": "Mon, 20 Dec 2021 21:35:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 01 Mar 2022 21:06:37 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Is there a xplat .NET library for working with file system paths that I'm not aware of?\n\nI could roll my own, but I'd rather use an existing (i.e. tested) library. I've done enough file system work to know there be dragons in the edge cases.",
+                                    "rawText": "Is there a xplat .NET library for working with file system paths that I'm not aware of?\n\nI could roll my own, but I'd rather use an existing (i.e. tested) library. I've done enough file system work to know there be dragons in the edge cases.",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 21:05:54 GMT",
+                                    "tweetId": "1498766501339287556",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1498766501339287556",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
