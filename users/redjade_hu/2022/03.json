@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "redjade_hu tweets",
+            "dateCreated": "Mon, 24 Jan 2022 16:21:42 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 01 Mar 2022 07:27:45 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@selectedwisdom Your lust for Nuclear War is noted.",
+                                    "rawText": "@selectedwisdom Your lust for Nuclear War is noted.",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 07:25:04 GMT",
+                                    "tweetId": "1498559933129887746",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1498559933129887746",
+                                    "inReplyToId": "1498407119464595457",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
