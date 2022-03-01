@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "oevl tweets",
+            "dateCreated": "Wed, 26 Jan 2022 20:26:12 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 01 Mar 2022 19:29:31 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Zelensky receives standing ovation after speech to European Parliament <a href=\"https://t.co/RZr3unUxV2\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Zelensky receives standing ovation after speech to European Parliament https://t.co/RZr3unUxV2",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 19:29:12 GMT",
+                                    "tweetId": "1498742168411906051",
+                                    "urltweet": "https://twitter.com/oevl/status/1498742168411906051",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
