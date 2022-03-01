@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 01 Mar 2022 15:22:46 GMT"
+            "dateModified": "Tue, 01 Mar 2022 18:00:25 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "Aquí carnavales se trabaja igualito, pero el martes es Pancake Day y me parece curiosísimo, yo igual sigo la corriente porque me gustan las panquecas <a href=\"https://t.co/aQFWNu4sN6\">[link]</a>",
+                                    "rawText": "Aquí carnavales se trabaja igualito, pero el martes es Pancake Day y me parece curiosísimo, yo igual sigo la corriente porque me gustan las panquecas https://t.co/aQFWNu4sN6",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 17:56:36 GMT",
+                                    "tweetId": "1498718862573031433",
+                                    "urltweet": "https://twitter.com/chiguire/status/1498718862573031433",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/ka15oRNT0a\">[link]</a>",
+                                            "rawText": "https://t.co/ka15oRNT0a",
+                                            "type": "tweet",
+                                            "created": "Tue, 01 Mar 2022 17:58:41 GMT",
+                                            "tweetId": "1498719386370293767",
+                                            "urltweet": "https://twitter.com/chiguire/status/1498719386370293767",
+                                            "inReplyToId": "1498718862573031433",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@ThreatNotation <a href=\"https://t.co/CN6HMA0X2R\">[link]</a>",
                                     "rawText": "@ThreatNotation https://t.co/CN6HMA0X2R",
