@@ -6,16 +6,23 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 01 Mar 2022 21:06:37 GMT</dateModified>
+		<dateModified>Tue, 01 Mar 2022 21:17:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="March 2022" type="calendarMonth" name="march2022" >
 			<outline text="March 1" type="calendarDay" name="01" >
+				<outline text="@clairernovotny Not really, though the primitives are there obviously.
+
+I'm looking for stuff like path comparison (case insensitive on windows vs case sensitive elsewhere) &amp;amp; processing paths that may come from another platform (processing a unix path via Path.Combine on Windows or vis-versa)" rawText="@clairernovotny Not really, though the primitives are there obviously.
+
+I'm looking for stuff like path comparison (case insensitive on windows vs case sensitive elsewhere) &amp;amp; processing paths that may come from another platform (processing a unix path via Path.Combine on Windows or vis-versa)" type="tweet" created="Tue, 01 Mar 2022 21:13:10 GMT" tweetId="1498768329053380609" urltweet="https://twitter.com/DevHawk/status/1498768329053380609" inReplyToId="1498766728666533891" tweetUserName="DevHawk" >
+					<outline text="@clairernovotny &quot;What is this 'Base Class Library' you speak of @clairernovotny?&quot; asked a guy who used to work on the Midori fork of the Base Class Library 🤣" rawText="@clairernovotny &quot;What is this 'Base Class Library' you speak of @clairernovotny?&quot; asked a guy who used to work on the Midori fork of the Base Class Library 🤣" type="tweet" created="Tue, 01 Mar 2022 21:15:58 GMT" tweetId="1498769033776152576" urltweet="https://twitter.com/DevHawk/status/1498769033776152576" inReplyToId="1498768329053380609" tweetUserName="DevHawk" />
+					</outline>
 				<outline text="Is there a xplat .NET library for working with file system paths that I'm not aware of?
 
 I could roll my own, but I'd rather use an existing (i.e. tested) library. I've done enough file system work to know there be dragons in the edge cases." rawText="Is there a xplat .NET library for working with file system paths that I'm not aware of?
 
-I could roll my own, but I'd rather use an existing (i.e. tested) library. I've done enough file system work to know there be dragons in the edge cases." type="tweet" created="Tue, 01 Mar 2022 21:05:54 GMT" tweetId="1498766501339287556" urltweet="https://twitter.com/DevHawk/status/1498766501339287556" inReplyToId="" tweetUserName="DevHawk" />
+I could roll my own, but I'd rather use an existing (i.e. tested) library. I've done enough file system work to know there be dragons in the edge cases." type="tweet" created="Tue, 01 Mar 2022 21:05:54 GMT" tweetId="1498766501339287556" urltweet="https://twitter.com/DevHawk/status/1498766501339287556" tweetUserName="DevHawk" />
 				</outline>
 			</outline>
 		</body>
