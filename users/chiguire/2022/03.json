@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "chiguire tweets",
+            "dateCreated": "Thu, 10 Feb 2022 23:35:37 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 01 Mar 2022 08:59:51 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@NattaPazza No estamos hechos para recibir las noticias de todos lados al mismo tiempo",
+                                    "rawText": "@NattaPazza No estamos hechos para recibir las noticias de todos lados al mismo tiempo",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 08:58:20 GMT",
+                                    "tweetId": "1498583402370551811",
+                                    "urltweet": "https://twitter.com/chiguire/status/1498583402370551811",
+                                    "inReplyToId": "1498582339659706368",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
