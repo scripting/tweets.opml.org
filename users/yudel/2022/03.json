@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 01 Mar 2022 21:05:22 GMT"
+            "dateModified": "Tue, 01 Mar 2022 21:16:38 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,38 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@johnastoehr “But his spirit lives on and on.”",
+                                    "rawText": "@johnastoehr “But his spirit lives on and on.”",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 21:10:13 GMT",
+                                    "tweetId": "1498767589601947658",
+                                    "urltweet": "https://twitter.com/yudel/status/1498767589601947658",
+                                    "inReplyToId": "1498767349687717895",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@DavidRSelis Oh they do, they very much do.",
+                                    "rawText": "@DavidRSelis Oh they do, they very much do.",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 21:06:46 GMT",
+                                    "tweetId": "1498766720869310475",
+                                    "urltweet": "https://twitter.com/yudel/status/1498766720869310475",
+                                    "inReplyToId": "1498766311731699718",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@DavidRSelis <a href=\"https://t.co/X4o9ZJGDMe\">[link]</a>",
+                                            "rawText": "@DavidRSelis https://t.co/X4o9ZJGDMe",
+                                            "type": "tweet",
+                                            "created": "Tue, 01 Mar 2022 21:07:30 GMT",
+                                            "tweetId": "1498766905858998272",
+                                            "urltweet": "https://twitter.com/yudel/status/1498766905858998272",
+                                            "inReplyToId": "1498766720869310475",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@froomkin “I can't speak to the specifics of, you know, whether they have aircraft flying over it and what they're doing.” — if it’s a mixture of satellite coverage, long range radar, reliable Ukrainian reports, and penetration of Russian coms, it might be better not to show all the cards.",
                                     "rawText": "@froomkin “I can't speak to the specifics of, you know, whether they have aircraft flying over it and what they're doing.” — if it’s a mixture of satellite coverage, long range radar, reliable Ukrainian reports, and penetration of Russian coms, it might be better not to show all the cards.",
