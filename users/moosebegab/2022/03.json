@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "moosebegab tweets",
+            "dateCreated": "Sun, 19 Dec 2021 16:38:45 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 01 Mar 2022 16:12:49 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "me <a href=\"https://t.co/p4NkKOE58t\">[link]</a>",
+                                    "rawText": "me https://t.co/p4NkKOE58t",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 16:04:28 GMT",
+                                    "tweetId": "1498690643547328519",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1498690643547328519",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
