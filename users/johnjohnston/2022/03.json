@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "johnjohnston tweets",
+            "dateCreated": "Thu, 16 Dec 2021 20:50:27 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 01 Mar 2022 20:42:06 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@livedtime @cogdog @VivienRolfe @dkernohan @JaapSoft I was wondering why the rss had dried up. 👍",
+                                    "rawText": "@livedtime @cogdog @VivienRolfe @dkernohan @JaapSoft I was wondering why the rss had dried up. 👍",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 20:30:55 GMT",
+                                    "tweetId": "1498757698246090754",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1498757698246090754",
+                                    "inReplyToId": "1498746695097663495",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
