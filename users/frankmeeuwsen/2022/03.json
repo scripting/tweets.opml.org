@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "frankmeeuwsen tweets",
+            "dateCreated": "Sat, 18 Dec 2021 16:25:34 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 01 Mar 2022 18:27:12 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Bregman-moe. Kent u die uitdrukking? <a href=\"https://t.co/OcYXV8l3Ov\">[link]</a>",
+                                    "rawText": "Bregman-moe. Kent u die uitdrukking? https://t.co/OcYXV8l3Ov",
+                                    "type": "tweet",
+                                    "created": "Tue, 01 Mar 2022 18:25:33 GMT",
+                                    "tweetId": "1498726149408628738",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1498726149408628738",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
