@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 01:58:11 GMT"
+            "dateModified": "Wed, 02 Mar 2022 02:20:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@prof_dainy Will it be on the test?",
+                                    "rawText": "@prof_dainy Will it be on the test?",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 02:16:56 GMT",
+                                    "tweetId": "1498844776615055364",
+                                    "urltweet": "https://twitter.com/yudel/status/1498844776615055364",
+                                    "inReplyToId": "1498840756752109585",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@Popehat Big if true.",
                                     "rawText": "@Popehat Big if true.",
