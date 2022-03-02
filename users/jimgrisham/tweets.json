@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 17:34:26 GMT"
+            "dateModified": "Wed, 02 Mar 2022 17:45:42 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,65 @@
                             "name": "02",
                             "subs": [
                                 {
+                                    "text": "@AFP <a href=\"https://t.co/1XFtrdCgHC\">[link]</a>",
+                                    "rawText": "@AFP https://t.co/1XFtrdCgHC",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 17:45:33 GMT",
+                                    "tweetId": "1499078468747030531",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1499078468747030531",
+                                    "inReplyToId": "1499066790088949760",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
+                                    "text": "@EUatUN <a href=\"https://t.co/1XFtrdBIS4\">[link]</a>",
+                                    "rawText": "@EUatUN https://t.co/1XFtrdBIS4",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 17:45:00 GMT",
+                                    "tweetId": "1499078331081310212",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1499078331081310212",
+                                    "inReplyToId": "1499066567824486402",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
+                                    "text": "@nytimes <a href=\"https://t.co/1XFtrdBIS4\">[link]</a>",
+                                    "rawText": "@nytimes https://t.co/1XFtrdBIS4",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 17:44:32 GMT",
+                                    "tweetId": "1499078213686996998",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1499078213686996998",
+                                    "inReplyToId": "1499065177257480201",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
+                                    "text": "@PowerUSAID @UN <a href=\"https://t.co/1XFtrdBIS4\">[link]</a>",
+                                    "rawText": "@PowerUSAID @UN https://t.co/1XFtrdBIS4",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 17:44:06 GMT",
+                                    "tweetId": "1499078103498428418",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1499078103498428418",
+                                    "inReplyToId": "1499067283884359680",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
                                     "text": "Agenda item 5 resolution (A/ES-11/L.1) passes @UN #GeneralAssembly during the Emergency Special Session #11 (convened to address the #Russian attacks inside #Ukraine).\n\nVote results: 141-5 (with 35 abstentions)\n\nFull text (English): \n<a href=\"https://t.co/v40n4cl5a0\">[link]</a>\n#UNCharter #ESS11",
                                     "rawText": "Agenda item 5 resolution (A/ES-11/L.1) passes @UN #GeneralAssembly during the Emergency Special Session #11 (convened to address the #Russian attacks inside #Ukraine).\n\nVote results: 141-5 (with 35 abstentions)\n\nFull text (English): \nhttps://t.co/v40n4cl5a0\n#UNCharter #ESS11",
                                     "type": "tweet",
                                     "created": "Wed, 02 Mar 2022 17:32:17 GMT",
                                     "tweetId": "1499075132987482112",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1499075132987482112",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "Full text of A/ES-11/L.1 (continued):\n\nالعربية: <a href=\"https://t.co/Ak0dtrg0KA\">[link]</a>\nhttps://t.co/q7JQeZrIUl\n\n中文: https://t.co/8cdQjgxLt4\n\nFrançais: https://t.co/ZaTy5yRy2v\nhttps://t.co/CQEEo8PEdD\n\nРусский: https://t.co/FGDMJDNFSF\nhttps://t.co/0psOQFeiHX\n\nEspañol: https://t.co/lwjqJH2kuL",
+                                            "rawText": "Full text of A/ES-11/L.1 (continued):\n\nالعربية: https://t.co/Ak0dtrg0KA\nhttps://t.co/q7JQeZrIUl\n\n中文: https://t.co/8cdQjgxLt4\n\nFrançais: https://t.co/ZaTy5yRy2v\nhttps://t.co/CQEEo8PEdD\n\nРусский: https://t.co/FGDMJDNFSF\nhttps://t.co/0psOQFeiHX\n\nEspañol: https://t.co/lwjqJH2kuL",
+                                            "type": "tweet",
+                                            "created": "Wed, 02 Mar 2022 17:42:42 GMT",
+                                            "tweetId": "1499077751768326154",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1499077751768326154",
+                                            "inReplyToId": "1499075132987482112",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@SherineT “They said no permanent member of the #SecurityCouncil was willing to challenge the unlawful action by Russia …\n\n… because they want to leave open the possibility of vetoing any resolution in which they might be involved”\n\n<a href=\"https://t.co/XCdhh7guSi\">[link]</a>\n@UN #UNCharter #Article27 #veto",
