@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 01 Mar 2022 18:45:28 GMT"
+            "dateModified": "Wed, 02 Mar 2022 08:27:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/37KjuJ1d1t\">[link]</a>",
+                                    "rawText": "https://t.co/37KjuJ1d1t",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 08:16:26 GMT",
+                                    "tweetId": "1498935248305930246",
+                                    "urltweet": "https://twitter.com/chiguire/status/1498935248305930246",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 1",
                             "type": "calendarDay",
