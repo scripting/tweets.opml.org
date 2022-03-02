@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 05:03:38 GMT"
+            "dateModified": "Wed, 02 Mar 2022 05:14:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "I am calling for a no-fly zone.",
+                                    "rawText": "I am calling for a no-fly zone.",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 05:04:21 GMT",
+                                    "tweetId": "1498886908931239936",
+                                    "urltweet": "https://twitter.com/Surfy/status/1498886908931239936",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 1",
                             "type": "calendarDay",
