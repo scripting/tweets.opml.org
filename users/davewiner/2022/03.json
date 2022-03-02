@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 02:07:27 GMT"
+            "dateModified": "Wed, 02 Mar 2022 08:30:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Don’t forget Putin interferes in our elections.",
+                                    "rawText": "Don’t forget Putin interferes in our elections.",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 08:26:47 GMT",
+                                    "tweetId": "1498937853421789184",
+                                    "urltweet": "https://twitter.com/davewiner/status/1498937853421789184",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "#Worldle #40 3/6 (100%)\n🟩🟩⬜⬜⬜↙️\n🟩🟩🟩🟩🟨↘️\n🟩🟩🟩🟩🟩🎉\n<a href=\"https://t.co/bnHTZz2fpg\">[link]</a>",
+                                    "rawText": "#Worldle #40 3/6 (100%)\n🟩🟩⬜⬜⬜↙️\n🟩🟩🟩🟩🟨↘️\n🟩🟩🟩🟩🟩🎉\nhttps://t.co/bnHTZz2fpg",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 08:21:44 GMT",
+                                    "tweetId": "1498936582425956352",
+                                    "urltweet": "https://twitter.com/davewiner/status/1498936582425956352",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 1",
                             "type": "calendarDay",
