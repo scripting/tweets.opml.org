@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 01 Mar 2022 20:04:03 GMT"
+            "dateModified": "Wed, 02 Mar 2022 16:20:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@sacjai Friendly grep -rl :  \"healthcare\" ==&gt; health care (two words emphasizes that health &lt; = &gt; care) ... and \"system\" ==&gt; \"bowl of spaghetti.\"   Systems are intentionally designed.  What we have is not -  I therefore prefer not to be so generous as my kinder friend, @sacjai. <a href=\"https://t.co/xkOcRsmBWT\">[link]</a>",
+                                    "rawText": "@sacjai Friendly grep -rl :  \"healthcare\" ==&gt; health care (two words emphasizes that health &lt; = &gt; care) ... and \"system\" ==&gt; \"bowl of spaghetti.\"   Systems are intentionally designed.  What we have is not -  I therefore prefer not to be so generous as my kinder friend, @sacjai. https://t.co/xkOcRsmBWT",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 16:16:07 GMT",
+                                    "tweetId": "1499055963923533825",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1499055963923533825",
+                                    "inReplyToId": "1499046140846620673",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 1",
                             "type": "calendarDay",
