@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 20:08:36 GMT"
+            "dateModified": "Wed, 02 Mar 2022 20:42:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "02",
                             "subs": [
+                                {
+                                    "text": "Yes. <a href=\"https://t.co/fkYJxSBMI2\">[link]</a>",
+                                    "rawText": "Yes. https://t.co/fkYJxSBMI2",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 20:33:15 GMT",
+                                    "tweetId": "1499120672555085832",
+                                    "urltweet": "https://twitter.com/davewiner/status/1499120672555085832",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "they should go to russia.",
+                                            "rawText": "they should go to russia.",
+                                            "type": "tweet",
+                                            "created": "Wed, 02 Mar 2022 20:33:41 GMT",
+                                            "tweetId": "1499120783506952198",
+                                            "urltweet": "https://twitter.com/davewiner/status/1499120783506952198",
+                                            "inReplyToId": "1499120672555085832",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "We need to be more like Ukraine. <a href=\"https://t.co/47xyTUDq9P\">[link]</a>",
                                     "rawText": "We need to be more like Ukraine. https://t.co/47xyTUDq9P",
