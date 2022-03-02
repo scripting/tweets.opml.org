@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 18:06:13 GMT"
+            "dateModified": "Wed, 02 Mar 2022 18:17:29 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 02 Mar 2022 18:05:30 GMT",
                                     "tweetId": "1499083489706229769",
                                     "urltweet": "https://twitter.com/frankmeeuwsen/status/1499083489706229769",
-                                    "tweetUserName": "frankmeeuwsen"
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "Oh en ze is rond 18:30 uitgestapt op halte Hobbemastraat. <a href=\"https://t.co/HhHdOx0iCE\">[link]</a>",
+                                            "rawText": "Oh en ze is rond 18:30 uitgestapt op halte Hobbemastraat. https://t.co/HhHdOx0iCE",
+                                            "type": "tweet",
+                                            "created": "Wed, 02 Mar 2022 18:12:37 GMT",
+                                            "tweetId": "1499085282334945287",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1499085282334945287",
+                                            "inReplyToId": "1499083489706229769",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Elke vakantie even gamen bij @NaVGMuseum <a href=\"https://t.co/FdAv8wK0Kj\">[link]</a>",
