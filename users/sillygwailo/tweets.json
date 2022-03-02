@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 01 Mar 2022 23:57:19 GMT"
+            "dateModified": "Wed, 02 Mar 2022 17:24:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "I’m having a pretty good day so far.",
+                                    "rawText": "I’m having a pretty good day so far.",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 17:16:24 GMT",
+                                    "tweetId": "1499071132649103364",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1499071132649103364",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 1",
                             "type": "calendarDay",
