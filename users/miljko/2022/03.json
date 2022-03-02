@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 01 Mar 2022 16:29:50 GMT"
+            "dateModified": "Wed, 02 Mar 2022 18:46:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@ManniMD1 @oncology_bg @AaronGoodman33 @VPrasadMDMPH Interesting. The Wesson review (<a href=\"https://t.co/8hPhONLCrN\">[link]</a>) doesn't note the type of non-randomized trials that increased from 2015 to 2020, so hard to see why their explanation of decreased randomization should be accepted over something less nefarious, like more drugs being tested",
+                                    "rawText": "@ManniMD1 @oncology_bg @AaronGoodman33 @VPrasadMDMPH Interesting. The Wesson review (https://t.co/8hPhONLCrN) doesn't note the type of non-randomized trials that increased from 2015 to 2020, so hard to see why their explanation of decreased randomization should be accepted over something less nefarious, like more drugs being tested",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 18:40:09 GMT",
+                                    "tweetId": "1499092209743843341",
+                                    "urltweet": "https://twitter.com/miljko/status/1499092209743843341",
+                                    "inReplyToId": "1499010950204047361",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 1",
                             "type": "calendarDay",
