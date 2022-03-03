@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 03 Mar 2022 21:28:29 GMT"
+            "dateModified": "Thu, 03 Mar 2022 23:35:07 GMT"
         },
         "body": {
             "subs": [
@@ -65,7 +65,19 @@
                                     "created": "Thu, 03 Mar 2022 15:14:19 GMT",
                                     "tweetId": "1499402800723369984",
                                     "urltweet": "https://twitter.com/KevinCTofel/status/1499402800723369984",
-                                    "tweetUserName": "KevinCTofel"
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "80 minute MB pit stop swap. Not bad! <a href=\"https://t.co/Y8Ug0r1ibQ\">[link]</a>",
+                                            "rawText": "80 minute MB pit stop swap. Not bad! https://t.co/Y8Ug0r1ibQ",
+                                            "type": "tweet",
+                                            "created": "Thu, 03 Mar 2022 23:29:40 GMT",
+                                            "tweetId": "1499527459078873093",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1499527459078873093",
+                                            "inReplyToId": "1499402800723369984",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Wordle 257 4/6\n\n⬛🟨⬛⬛⬛\n🟨🟩⬛⬛⬛\n⬛🟩🟨🟨🟨\n🟩🟩🟩🟩🟩",
