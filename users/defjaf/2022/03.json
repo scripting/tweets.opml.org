@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "defjaf tweets",
+            "dateCreated": "Fri, 11 Feb 2022 15:36:38 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Thu, 03 Mar 2022 18:25:47 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@EricRWeinstein My grandmother was born in 1911 in Shepetivka, when it was part of the Russian empire. At a time of pogroms against the Jewish population, she fled to the US after WWI, following her father who had made it to New York before the war.",
+                                    "rawText": "@EricRWeinstein My grandmother was born in 1911 in Shepetivka, when it was part of the Russian empire. At a time of pogroms against the Jewish population, she fled to the US after WWI, following her father who had made it to New York before the war.",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Mar 2022 18:15:43 GMT",
+                                    "tweetId": "1499448451251195904",
+                                    "urltweet": "https://twitter.com/defjaf/status/1499448451251195904",
+                                    "inReplyToId": "1499062429371682817",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
