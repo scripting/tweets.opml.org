@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 22:54:17 GMT"
+            "dateModified": "Thu, 03 Mar 2022 20:41:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "These are, in fact, quite good (or, to translate from Slavic to American: Absolutely Amazing!!!1!) <a href=\"https://t.co/UTq962kMu2\">[link]</a>",
+                                    "rawText": "These are, in fact, quite good (or, to translate from Slavic to American: Absolutely Amazing!!!1!) https://t.co/UTq962kMu2",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Mar 2022 20:33:11 GMT",
+                                    "tweetId": "1499483042544508931",
+                                    "urltweet": "https://twitter.com/miljko/status/1499483042544508931",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 2",
                             "type": "calendarDay",
