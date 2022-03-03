@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "gutenbergtimes tweets",
+            "dateCreated": "Fri, 11 Feb 2022 10:58:20 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Thu, 03 Mar 2022 13:48:59 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@lebaux 😍 thanks for being a long time subscriber 🤗",
+                                    "rawText": "@lebaux 😍 thanks for being a long time subscriber 🤗",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Mar 2022 13:44:41 GMT",
+                                    "tweetId": "1499380241193709573",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1499380241193709573",
+                                    "inReplyToId": "1499298367645618177",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
