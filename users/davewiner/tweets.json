@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 22:57:32 GMT"
+            "dateModified": "Thu, 03 Mar 2022 01:46:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "02",
                             "subs": [
+                                {
+                                    "text": "Miguel de Icaza Is Leaving Microsoft. <a href=\"https://t.co/xEnHxTW3mF\">[link]</a>",
+                                    "rawText": "Miguel de Icaza Is Leaving Microsoft. https://t.co/xEnHxTW3mF",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Mar 2022 01:43:52 GMT",
+                                    "tweetId": "1499198844030099456",
+                                    "urltweet": "https://twitter.com/davewiner/status/1499198844030099456",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I've only shared one \"gift\" article via the NYT this month (today is March 2 after all) but the site says I only have three left this month. So when does the month reset? I don't really expect an answer, but I did look on their FAQ page. I sort of assumed a month starts on day 1.",
                                     "rawText": "I've only shared one \"gift\" article via the NYT this month (today is March 2 after all) but the site says I only have three left this month. So when does the month reset? I don't really expect an answer, but I did look on their FAQ page. I sort of assumed a month starts on day 1.",
