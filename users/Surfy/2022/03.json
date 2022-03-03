@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 02 Mar 2022 05:37:25 GMT"
+            "dateModified": "Thu, 03 Mar 2022 06:12:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@moseskagan @patrick_oshag YOU NAILED IT",
+                                    "rawText": "@moseskagan @patrick_oshag YOU NAILED IT",
+                                    "type": "tweet",
+                                    "created": "Thu, 03 Mar 2022 06:09:37 GMT",
+                                    "tweetId": "1499265719329984513",
+                                    "urltweet": "https://twitter.com/Surfy/status/1499265719329984513",
+                                    "inReplyToId": "1499214457104322562",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 2",
                             "type": "calendarDay",
