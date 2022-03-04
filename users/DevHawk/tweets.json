@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 03 Mar 2022 04:27:23 GMT"
+            "dateModified": "Fri, 04 Mar 2022 18:29:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Hey, I think I know that guy <a href=\"https://t.co/X1VvJTee6g\">[link]</a>",
+                                    "rawText": "Hey, I think I know that guy https://t.co/X1VvJTee6g",
+                                    "type": "tweet",
+                                    "created": "Fri, 04 Mar 2022 18:20:23 GMT",
+                                    "tweetId": "1499812013752659972",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1499812013752659972",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 2",
                             "type": "calendarDay",
