@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 03 Mar 2022 22:23:48 GMT"
+            "dateModified": "Fri, 04 Mar 2022 07:01:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@ggreenwald Putin is too poor to pay for their own servers?",
+                                    "rawText": "@ggreenwald Putin is too poor to pay for their own servers?",
+                                    "type": "tweet",
+                                    "created": "Fri, 04 Mar 2022 06:56:09 GMT",
+                                    "tweetId": "1499639820339007489",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1499639820339007489",
+                                    "inReplyToId": "1499425675459104774",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 3",
                             "type": "calendarDay",
