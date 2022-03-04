@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 04 Mar 2022 01:44:15 GMT"
+            "dateModified": "Fri, 04 Mar 2022 02:07:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "It’s time for Putin to do the honorable thing and kill himself.",
+                                    "rawText": "It’s time for Putin to do the honorable thing and kill himself.",
+                                    "type": "tweet",
+                                    "created": "Fri, 04 Mar 2022 02:03:17 GMT",
+                                    "tweetId": "1499566116426948610",
+                                    "urltweet": "https://twitter.com/davewiner/status/1499566116426948610",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Shepard Smith on CNBC has the best coverage of the nuclear power plant that’s burning in Ukraine,",
                                     "rawText": "Shepard Smith on CNBC has the best coverage of the nuclear power plant that’s burning in Ukraine,",
@@ -36,6 +45,16 @@
                                             "created": "Fri, 04 Mar 2022 01:33:55 GMT",
                                             "tweetId": "1499558725115334657",
                                             "urltweet": "https://twitter.com/davewiner/status/1499558725115334657",
+                                            "inReplyToId": "1499558335728832515",
+                                            "tweetUserName": "davewiner"
+                                        },
+                                        {
+                                            "text": "Too bad they shut down Shepard Smith for the night. They should give him the 9pm slot on MSNBC",
+                                            "rawText": "Too bad they shut down Shepard Smith for the night. They should give him the 9pm slot on MSNBC",
+                                            "type": "tweet",
+                                            "created": "Fri, 04 Mar 2022 02:04:34 GMT",
+                                            "tweetId": "1499566440743120897",
+                                            "urltweet": "https://twitter.com/davewiner/status/1499566440743120897",
                                             "inReplyToId": "1499558335728832515",
                                             "tweetUserName": "davewiner"
                                         }
