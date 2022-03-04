@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 03 Mar 2022 22:14:17 GMT"
+            "dateModified": "Fri, 04 Mar 2022 08:58:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@LucenaPerezM <a href=\"https://t.co/SY7leAElKY\">[link]</a>",
+                                    "rawText": "@LucenaPerezM https://t.co/SY7leAElKY",
+                                    "type": "tweet",
+                                    "created": "Fri, 04 Mar 2022 08:49:10 GMT",
+                                    "tweetId": "1499668262736568320",
+                                    "urltweet": "https://twitter.com/chiguire/status/1499668262736568320",
+                                    "inReplyToId": "1499417207561986049",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 3",
                             "type": "calendarDay",
