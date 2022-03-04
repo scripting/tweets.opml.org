@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 03 Mar 2022 00:48:54 GMT"
+            "dateModified": "Fri, 04 Mar 2022 01:19:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@solusnan1 @HamillHimself Don't hesitate to contact your local animal shelter. They can find doggo a new home or, if not...",
+                                    "rawText": "@solusnan1 @HamillHimself Don't hesitate to contact your local animal shelter. They can find doggo a new home or, if not...",
+                                    "type": "tweet",
+                                    "created": "Fri, 04 Mar 2022 01:12:29 GMT",
+                                    "tweetId": "1499553330854383620",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1499553330854383620",
+                                    "inReplyToId": "1499349791125422090",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 2",
                             "type": "calendarDay",
