@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 03 Mar 2022 15:00:34 GMT"
+            "dateModified": "Fri, 04 Mar 2022 07:19:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@_Sibylle Same but Three Mile Island",
+                                    "rawText": "@_Sibylle Same but Three Mile Island",
+                                    "type": "tweet",
+                                    "created": "Fri, 04 Mar 2022 07:16:04 GMT",
+                                    "tweetId": "1499644829738930177",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1499644829738930177",
+                                    "inReplyToId": "1499641661735026688",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 3",
                             "type": "calendarDay",
