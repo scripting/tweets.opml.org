@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 05 Mar 2022 20:43:02 GMT"
+            "dateModified": "Sat, 05 Mar 2022 23:35:43 GMT"
         },
         "body": {
             "subs": [
@@ -82,7 +82,19 @@
                                     "created": "Sat, 05 Mar 2022 16:15:23 GMT",
                                     "tweetId": "1500142942870200324",
                                     "urltweet": "https://twitter.com/davewiner/status/1500142942870200324",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I think this might be the best video I've ever made. Just luck and a great camera.",
+                                            "rawText": "I think this might be the best video I've ever made. Just luck and a great camera.",
+                                            "type": "tweet",
+                                            "created": "Sat, 05 Mar 2022 23:24:19 GMT",
+                                            "tweetId": "1500250887708725253",
+                                            "urltweet": "https://twitter.com/davewiner/status/1500250887708725253",
+                                            "inReplyToId": "1500142942870200324",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Great Barrier Reef devastation. <a href=\"https://t.co/HpQ56E6r4q\">[link]</a>",
