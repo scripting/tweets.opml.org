@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 05 Mar 2022 14:23:07 GMT"
+            "dateModified": "Sat, 05 Mar 2022 14:57:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,47 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "@jeffjarvis Jeff, my reply was too long to fit in a tweet.\n\n<a href=\"https://t.co/r72RqoTxuy\">[link]</a>",
+                                    "rawText": "@jeffjarvis Jeff, my reply was too long to fit in a tweet.\n\nhttps://t.co/r72RqoTxuy",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 14:55:11 GMT",
+                                    "tweetId": "1500122761443917824",
+                                    "urltweet": "https://twitter.com/davewiner/status/1500122761443917824",
+                                    "inReplyToId": "1500107275872133121",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Now is a time for news sources that might be cut off to start using RSS seriously because that would allow others to mirror their content, and make it possible to get it back online with just a DNS change.",
+                                    "rawText": "Now is a time for news sources that might be cut off to start using RSS seriously because that would allow others to mirror their content, and make it possible to get it back online with just a DNS change.",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 14:50:06 GMT",
+                                    "tweetId": "1500121479232561156",
+                                    "urltweet": "https://twitter.com/davewiner/status/1500121479232561156",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "People thought we were being too idealistic when it was said that a benefit of syndication is that it helps route around censorship. Now in 2022, that's a very real thing. Such an inexpensive insurance policy to help make sure the news gets out.",
+                                            "rawText": "People thought we were being too idealistic when it was said that a benefit of syndication is that it helps route around censorship. Now in 2022, that's a very real thing. Such an inexpensive insurance policy to help make sure the news gets out.",
+                                            "type": "tweet",
+                                            "created": "Sat, 05 Mar 2022 14:50:06 GMT",
+                                            "tweetId": "1500121480528597002",
+                                            "urltweet": "https://twitter.com/davewiner/status/1500121480528597002",
+                                            "inReplyToId": "1500121479232561156",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@workout_fox that makes sense for the 60s and 70s, in Germany, but the distinction today is not significant and it suggests to readers that there's something new an innovative. Maybe these are the \"nice\" Nazis. The point is they don't deserve any qualifiers, a Nazi is just a Nazi.",
+                                    "rawText": "@workout_fox that makes sense for the 60s and 70s, in Germany, but the distinction today is not significant and it suggests to readers that there's something new an innovative. Maybe these are the \"nice\" Nazis. The point is they don't deserve any qualifiers, a Nazi is just a Nazi.",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 14:46:17 GMT",
+                                    "tweetId": "1500120519596724224",
+                                    "urltweet": "https://twitter.com/davewiner/status/1500120519596724224",
+                                    "inReplyToId": "1500114383841767425",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@workout_fox what was the difference between them?",
                                     "rawText": "@workout_fox what was the difference between them?",
@@ -69,7 +110,19 @@
                                             "tweetId": "1500109813287641093",
                                             "urltweet": "https://twitter.com/davewiner/status/1500109813287641093",
                                             "inReplyToId": "1500109546416713734",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@KyivPost Just saying it would have been trivial to help if you had an RSS feed, which it appears you don't (from the HTML of your home page).",
+                                                    "rawText": "@KyivPost Just saying it would have been trivial to help if you had an RSS feed, which it appears you don't (from the HTML of your home page).",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 05 Mar 2022 14:47:18 GMT",
+                                                    "tweetId": "1500120775965253640",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1500120775965253640",
+                                                    "inReplyToId": "1500109813287641093",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
