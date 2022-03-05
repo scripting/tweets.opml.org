@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 05 Mar 2022 13:14:03 GMT"
+            "dateModified": "Sat, 05 Mar 2022 14:11:37 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,49 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "The term \"neo-Nazis\" should be deprecated. \n\nNazis are Nazis, nothing neo about them.",
+                                    "rawText": "The term \"neo-Nazis\" should be deprecated. \n\nNazis are Nazis, nothing neo about them.",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 14:08:17 GMT",
+                                    "tweetId": "1500110954851405828",
+                                    "urltweet": "https://twitter.com/davewiner/status/1500110954851405828",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Listening to an NPR story where they say neo-Nazi over and over again. I'd like to ask the reporter what's the difference.",
+                                            "rawText": "Listening to an NPR story where they say neo-Nazi over and over again. I'd like to ask the reporter what's the difference.",
+                                            "type": "tweet",
+                                            "created": "Sat, 05 Mar 2022 14:09:32 GMT",
+                                            "tweetId": "1500111269751308294",
+                                            "urltweet": "https://twitter.com/davewiner/status/1500111269751308294",
+                                            "inReplyToId": "1500110954851405828",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@KyivPost Maybe we can help by mirroring your content in a variety of places. When one gets hacked, just point your DNS to one of the other places.",
+                                    "rawText": "@KyivPost Maybe we can help by mirroring your content in a variety of places. When one gets hacked, just point your DNS to one of the other places.",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 14:02:41 GMT",
+                                    "tweetId": "1500109546416713734",
+                                    "urltweet": "https://twitter.com/davewiner/status/1500109546416713734",
+                                    "inReplyToId": "1500108768805367809",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@KyivPost Unless of course they're hacking your DNS.",
+                                            "rawText": "@KyivPost Unless of course they're hacking your DNS.",
+                                            "type": "tweet",
+                                            "created": "Sat, 05 Mar 2022 14:03:44 GMT",
+                                            "tweetId": "1500109813287641093",
+                                            "urltweet": "https://twitter.com/davewiner/status/1500109813287641093",
+                                            "inReplyToId": "1500109546416713734",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Ukrainian drone enthusiasts sign up to repel Russians. <a href=\"https://t.co/V8sTW9amSZ\">[link]</a>",
                                     "rawText": "Ukrainian drone enthusiasts sign up to repel Russians. https://t.co/V8sTW9amSZ",
