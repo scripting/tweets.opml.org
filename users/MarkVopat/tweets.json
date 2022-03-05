@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 05 Mar 2022 00:03:42 GMT"
+            "dateModified": "Sat, 05 Mar 2022 14:38:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Public health restrictions in Canada are being dropped. So what does this mean for vaccinated individuals in the face of Omicron? /via @globeandmail <a href=\"https://t.co/nA15TMBvD2\">[link]</a>",
+                                    "rawText": "Public health restrictions in Canada are being dropped. So what does this mean for vaccinated individuals in the face of Omicron? /via @globeandmail https://t.co/nA15TMBvD2",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 14:38:27 GMT",
+                                    "tweetId": "1500118549691514883",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1500118549691514883",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 4",
                             "type": "calendarDay",
