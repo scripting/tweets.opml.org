@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 05 Mar 2022 08:58:01 GMT"
+            "dateModified": "Sat, 05 Mar 2022 09:32:34 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/R2tCKK4yH2\">[link]</a>",
+                                    "rawText": "https://t.co/R2tCKK4yH2",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 09:30:08 GMT",
+                                    "tweetId": "1500040958406180875",
+                                    "urltweet": "https://twitter.com/chiguire/status/1500040958406180875",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Aperture Desk Job es el recordatorio que nos hace Valve que es capaz de hacer juegos (buenos, además) pero no le da la gana de hacerlos",
                                     "rawText": "Aperture Desk Job es el recordatorio que nos hace Valve que es capaz de hacer juegos (buenos, además) pero no le da la gana de hacerlos",
