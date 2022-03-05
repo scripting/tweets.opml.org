@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "mal tweets",
+            "dateCreated": "Mon, 24 Jan 2022 16:52:26 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sat, 05 Mar 2022 16:48:17 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@borkdude It would only be more meta if it were sent from yourself.",
+                                    "rawText": "@borkdude It would only be more meta if it were sent from yourself.",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 16:44:27 GMT",
+                                    "tweetId": "1500150258147282947",
+                                    "urltweet": "https://twitter.com/mal/status/1500150258147282947",
+                                    "inReplyToId": "1499294694811090947",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
