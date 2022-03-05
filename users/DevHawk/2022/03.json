@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 04 Mar 2022 22:42:37 GMT"
+            "dateModified": "Sat, 05 Mar 2022 23:39:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "My wife and parents conspired to bring me back east to catch @SeattleKraken v. @Capitals.\n\nI've been a Caps fan since I was a kid. And of course I support the Kraken - my home team. So its awesome to get the chance to see these two teams face off. <a href=\"https://t.co/foLDc9WuM9\">[link]</a>",
+                                    "rawText": "My wife and parents conspired to bring me back east to catch @SeattleKraken v. @Capitals.\n\nI've been a Caps fan since I was a kid. And of course I support the Kraken - my home team. So its awesome to get the chance to see these two teams face off. https://t.co/foLDc9WuM9",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 23:33:47 GMT",
+                                    "tweetId": "1500253269993660417",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1500253269993660417",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "I figured there would be of plenty of folks in Caps jerseys, so I wore my Kraken jersey. Way out numbered, but I've seen more Seattle jerseys than I was expecting",
+                                            "rawText": "I figured there would be of plenty of folks in Caps jerseys, so I wore my Kraken jersey. Way out numbered, but I've seen more Seattle jerseys than I was expecting",
+                                            "type": "tweet",
+                                            "created": "Sat, 05 Mar 2022 23:36:20 GMT",
+                                            "tweetId": "1500253912321904648",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1500253912321904648",
+                                            "inReplyToId": "1500253269993660417",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "March 4",
                             "type": "calendarDay",
