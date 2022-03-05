@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 05 Mar 2022 00:02:12 GMT"
+            "dateModified": "Sat, 05 Mar 2022 03:06:24 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "hey @shadow_journey how cool <a href=\"https://t.co/YgluxlUGc3\">[link]</a>",
+                                    "rawText": "hey @shadow_journey how cool https://t.co/YgluxlUGc3",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 03:05:19 GMT",
+                                    "tweetId": "1499944117329137665",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1499944117329137665",
+                                    "tweetUserName": "moosebegab"
+                                },
                                 {
                                     "text": "Same. <a href=\"https://t.co/tZFUiZ2Gal\">[link]</a>",
                                     "rawText": "Same. https://t.co/tZFUiZ2Gal",
