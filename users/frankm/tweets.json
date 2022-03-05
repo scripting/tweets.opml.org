@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 04 Mar 2022 00:15:25 GMT"
+            "dateModified": "Sat, 05 Mar 2022 19:48:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "It’s a nice pre-spring day in southeast Michigan <a href=\"https://t.co/7nwg9eFT0Y\">[link]</a>",
+                                    "rawText": "It’s a nice pre-spring day in southeast Michigan https://t.co/7nwg9eFT0Y",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Mar 2022 19:48:04 GMT",
+                                    "tweetId": "1500196468203962373",
+                                    "urltweet": "https://twitter.com/frankm/status/1500196468203962373",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 3",
                             "type": "calendarDay",
