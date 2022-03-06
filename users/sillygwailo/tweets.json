@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 16:22:32 GMT"
+            "dateModified": "Sun, 06 Mar 2022 20:01:16 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "A sampling from @winterstations 2022. <a href=\"https://t.co/bV2zJEziaF\">[link]</a>",
+                                    "rawText": "A sampling from @winterstations 2022. https://t.co/bV2zJEziaF",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 19:54:47 GMT",
+                                    "tweetId": "1500560543178006529",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1500560543178006529",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/FUcZaFl6VT\">[link]</a>",
+                                            "rawText": "https://t.co/FUcZaFl6VT",
+                                            "type": "tweet",
+                                            "created": "Sun, 06 Mar 2022 19:54:51 GMT",
+                                            "tweetId": "1500560562144567301",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1500560562144567301",
+                                            "inReplyToId": "1500560543178006529",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Happy Toronto Day, everybody! <a href=\"https://t.co/luQnT2jD0M\">[link]</a>",
                                     "rawText": "Happy Toronto Day, everybody! https://t.co/luQnT2jD0M",
