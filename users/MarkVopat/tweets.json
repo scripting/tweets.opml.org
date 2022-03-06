@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 04:16:00 GMT"
+            "dateModified": "Sun, 06 Mar 2022 18:04:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Wordle 260 4/6\n\n⬜⬜⬜🟨⬜\n🟩🟩⬜⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 260 4/6\n\n⬜⬜⬜🟨⬜\n🟩🟩⬜⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 18:02:54 GMT",
+                                    "tweetId": "1500532389633789952",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1500532389633789952",
+                                    "tweetUserName": "MarkVopat"
+                                },
+                                {
+                                    "text": "@b_honacki Damn! Well played.",
+                                    "rawText": "@b_honacki Damn! Well played.",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 17:58:46 GMT",
+                                    "tweetId": "1500531349312225282",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1500531349312225282",
+                                    "inReplyToId": "1500355518132637696",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 5",
                             "type": "calendarDay",
