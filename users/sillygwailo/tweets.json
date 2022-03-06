@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 14:15:54 GMT"
+            "dateModified": "Sun, 06 Mar 2022 16:22:32 GMT"
         },
         "body": {
             "subs": [
@@ -341,7 +341,19 @@
                                                             "tweetId": "1499907671465598983",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1499907671465598983",
                                                             "inReplyToId": "1499466827570847752",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Yesterday was pretty good. Today is starting off well.",
+                                                                    "rawText": "Yesterday was pretty good. Today is starting off well.",
+                                                                    "type": "tweet",
+                                                                    "created": "Sun, 06 Mar 2022 16:20:39 GMT",
+                                                                    "tweetId": "1500506654579863556",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1500506654579863556",
+                                                                    "inReplyToId": "1499907671465598983",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
