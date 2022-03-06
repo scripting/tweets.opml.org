@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 05 Mar 2022 16:19:30 GMT"
+            "dateModified": "Sun, 06 Mar 2022 07:28:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Met a Scary Tree yesterday morning. <a href=\"https://t.co/zJoXGsHYRB\">[link]</a>",
+                                    "rawText": "Met a Scary Tree yesterday morning. https://t.co/zJoXGsHYRB",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 07:25:12 GMT",
+                                    "tweetId": "1500371906532368385",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1500371906532368385",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 5",
                             "type": "calendarDay",
