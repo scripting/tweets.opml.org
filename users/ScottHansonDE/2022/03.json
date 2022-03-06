@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 10:09:53 GMT"
+            "dateModified": "Sun, 06 Mar 2022 10:44:25 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                     "created": "Sun, 06 Mar 2022 08:24:15 GMT",
                                     "tweetId": "1500386766100090880",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1500386766100090880",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/lZwnC2SSzf\">[link]</a>",
+                                            "rawText": "https://t.co/lZwnC2SSzf",
+                                            "type": "tweet",
+                                            "created": "Sun, 06 Mar 2022 10:36:26 GMT",
+                                            "tweetId": "1500420028960751619",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1500420028960751619",
+                                            "inReplyToId": "1500386766100090880",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@NuwOne I have no idea what the context is, but I’ll bite anyway… it depends on who’s asking! 😃",
