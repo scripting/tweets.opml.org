@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 02:43:24 GMT"
+            "dateModified": "Sun, 06 Mar 2022 20:11:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "My son didn't know the term \"disc jockey\" 🤣🤣🤣 #ImOld",
+                                    "rawText": "My son didn't know the term \"disc jockey\" 🤣🤣🤣 #ImOld",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 20:01:08 GMT",
+                                    "tweetId": "1500562141853663239",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1500562141853663239",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 5",
                             "type": "calendarDay",
