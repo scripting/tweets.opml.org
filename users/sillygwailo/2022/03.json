@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 03:08:11 GMT"
+            "dateModified": "Sun, 06 Mar 2022 13:52:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@gaminginthewild I started playing Fe again yesterday. (I had a saved game before I started, so I must have played it once before.) Really beautiful so far.",
+                                    "rawText": "@gaminginthewild I started playing Fe again yesterday. (I had a saved game before I started, so I must have played it once before.) Really beautiful so far.",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 13:48:06 GMT",
+                                    "tweetId": "1500468264866045953",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1500468264866045953",
+                                    "inReplyToId": "1500463068496674824",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 5",
                             "type": "calendarDay",
