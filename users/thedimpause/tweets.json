@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 04 Mar 2022 17:45:33 GMT"
+            "dateModified": "Sun, 06 Mar 2022 08:08:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "♫ My Top 5 #lastfm artists: NEU! (12), Gong (9), Kevin Morby (8), Baudo, LPO (5) &amp; John Coltrane (5) #lastfm via @tweeklyfm",
+                                    "rawText": "♫ My Top 5 #lastfm artists: NEU! (12), Gong (9), Kevin Morby (8), Baudo, LPO (5) &amp; John Coltrane (5) #lastfm via @tweeklyfm",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 08:00:27 GMT",
+                                    "tweetId": "1500380776013045763",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1500380776013045763",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 4",
                             "type": "calendarDay",
