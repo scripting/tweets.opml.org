@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 01:05:03 GMT"
+            "dateModified": "Sun, 06 Mar 2022 15:51:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Deep dark fears <a href=\"https://t.co/QaAoIuB5bX\">[link]</a>",
+                                    "rawText": "Deep dark fears https://t.co/QaAoIuB5bX",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 15:51:14 GMT",
+                                    "tweetId": "1500499252044345344",
+                                    "urltweet": "https://twitter.com/chiguire/status/1500499252044345344",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@esaulgd Lleve",
+                                    "rawText": "@esaulgd Lleve",
+                                    "type": "tweet",
+                                    "created": "Sun, 06 Mar 2022 15:50:03 GMT",
+                                    "tweetId": "1500498955637080066",
+                                    "urltweet": "https://twitter.com/chiguire/status/1500498955637080066",
+                                    "inReplyToId": "1500494693355819008",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 5",
                             "type": "calendarDay",
