@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 23:22:13 GMT"
+            "dateModified": "Mon, 07 Mar 2022 17:01:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@atpfm too late to be relevant, but: I sit in front of my computer behind my desk.",
+                                    "rawText": "@atpfm too late to be relevant, but: I sit in front of my computer behind my desk.",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 16:55:08 GMT",
+                                    "tweetId": "1500877722788245513",
+                                    "urltweet": "https://twitter.com/defjaf/status/1500877722788245513",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 6",
                             "type": "calendarDay",
