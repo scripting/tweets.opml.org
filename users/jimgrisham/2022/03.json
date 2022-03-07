@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 07 Mar 2022 02:42:41 GMT"
+            "dateModified": "Mon, 07 Mar 2022 16:08:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Very interesting thread… it’s worth reading from the top: <a href=\"https://t.co/qJAJfTUCgi\">[link]</a>",
+                                    "rawText": "Very interesting thread… it’s worth reading from the top: https://t.co/qJAJfTUCgi",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 16:07:30 GMT",
+                                    "tweetId": "1500865732921466890",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1500865732921466890",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 6",
                             "type": "calendarDay",
