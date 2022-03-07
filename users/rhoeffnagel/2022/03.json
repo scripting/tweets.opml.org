@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/rhoeffnagel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 04 Mar 2022 06:08:17 GMT"
+            "dateModified": "Mon, 07 Mar 2022 06:28:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "OnLogic werkt aan Red Hat-gecertificeerde industriële computers - <a href=\"https://t.co/o4WyryTcp0\">[link]</a>\nOnLogic, specialist in industriële hardware, certificeert drie compacte industriële computers voor gebruik met Red Hat Enterprise Linux. Het betreft de Helix 500, de P2102 Rugged Panel-pc...",
+                                    "rawText": "OnLogic werkt aan Red Hat-gecertificeerde industriële computers - https://t.co/o4WyryTcp0\nOnLogic, specialist in industriële hardware, certificeert drie compacte industriële computers voor gebruik met Red Hat Enterprise Linux. Het betreft de Helix 500, de P2102 Rugged Panel-pc...",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 06:20:33 GMT",
+                                    "tweetId": "1500718021840621569",
+                                    "urltweet": "https://twitter.com/rhoeffnagel/status/1500718021840621569",
+                                    "tweetUserName": "rhoeffnagel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 4",
                             "type": "calendarDay",
