@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 07 Mar 2022 00:33:48 GMT"
+            "dateModified": "Mon, 07 Mar 2022 18:01:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@suusj Poppenhuisjes maken!",
+                                    "rawText": "@suusj Poppenhuisjes maken!",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 17:58:25 GMT",
+                                    "tweetId": "1500893648522784774",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1500893648522784774",
+                                    "inReplyToId": "1500887276414509060",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 6",
                             "type": "calendarDay",
