@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 05 Mar 2022 23:26:42 GMT"
+            "dateModified": "Mon, 07 Mar 2022 22:50:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@mindymayhem see.. vaccines dont work! &lt;insert sarcastic emoji here&gt;",
+                                    "rawText": "@mindymayhem see.. vaccines dont work! &lt;insert sarcastic emoji here&gt;",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 22:44:54 GMT",
+                                    "tweetId": "1500965745135652865",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1500965745135652865",
+                                    "inReplyToId": "1500936671885287429",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 5",
                             "type": "calendarDay",
