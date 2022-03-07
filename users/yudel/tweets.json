@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 07 Mar 2022 04:36:19 GMT"
+            "dateModified": "Mon, 07 Mar 2022 05:22:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@elivalley Damn. Imagine picking my kids up from yeshiva in our minivan and this Hot Wheels rolls up behind me.",
+                                    "rawText": "@elivalley Damn. Imagine picking my kids up from yeshiva in our minivan and this Hot Wheels rolls up behind me.",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 05:20:37 GMT",
+                                    "tweetId": "1500702942114029569",
+                                    "urltweet": "https://twitter.com/yudel/status/1500702942114029569",
+                                    "inReplyToId": "1500701677019705345",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 6",
                             "type": "calendarDay",
