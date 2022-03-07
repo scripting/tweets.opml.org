@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 07 Mar 2022 04:22:33 GMT"
+            "dateModified": "Mon, 07 Mar 2022 12:26:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "What Russian Officials Think of the Invasion of Ukraine. <a href=\"https://t.co/wmzqEvSZx1\">[link]</a>",
+                                    "rawText": "What Russian Officials Think of the Invasion of Ukraine. https://t.co/wmzqEvSZx1",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 12:16:14 GMT",
+                                    "tweetId": "1500807535137275908",
+                                    "urltweet": "https://twitter.com/davewiner/status/1500807535137275908",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 6",
                             "type": "calendarDay",
