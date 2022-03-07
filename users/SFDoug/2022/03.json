@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "SFDoug tweets",
+            "dateCreated": "Mon, 24 Jan 2022 05:09:08 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 07 Mar 2022 09:04:21 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@TzenaNicole I hope this got straightened out in an appropriate way. Crazy the way some people behave. So sorry you have to deal with it. And I hope you are well!",
+                                    "rawText": "@TzenaNicole I hope this got straightened out in an appropriate way. Crazy the way some people behave. So sorry you have to deal with it. And I hope you are well!",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 08:58:47 GMT",
+                                    "tweetId": "1500757843615440896",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1500757843615440896",
+                                    "inReplyToId": "1500493456543821826",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
