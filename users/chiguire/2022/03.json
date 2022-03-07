@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 19:41:44 GMT"
+            "dateModified": "Mon, 07 Mar 2022 10:16:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@SirEelBiscuits Well I watched Avengers: Endgame",
+                                    "rawText": "@SirEelBiscuits Well I watched Avengers: Endgame",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 10:06:08 GMT",
+                                    "tweetId": "1500774793880166405",
+                                    "urltweet": "https://twitter.com/chiguire/status/1500774793880166405",
+                                    "inReplyToId": "1500770174475116549",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 6",
                             "type": "calendarDay",
