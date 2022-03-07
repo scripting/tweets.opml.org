@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 07 Mar 2022 04:04:46 GMT"
+            "dateModified": "Mon, 07 Mar 2022 17:53:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "I have this set now for the WSJ, and I’m wondering if I should keep my subscription to the NYT. <a href=\"https://t.co/htbHSu0gav\">[link]</a>",
+                                    "rawText": "I have this set now for the WSJ, and I’m wondering if I should keep my subscription to the NYT. https://t.co/htbHSu0gav",
+                                    "type": "tweet",
+                                    "created": "Mon, 07 Mar 2022 17:52:55 GMT",
+                                    "tweetId": "1500892265136504832",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1500892265136504832",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 6",
                             "type": "calendarDay",
