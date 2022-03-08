@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 08 Mar 2022 02:17:12 GMT"
+            "dateModified": "Tue, 08 Mar 2022 04:12:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "@catfitz @Iron_Man_Actual The new pomodoro method.",
+                                    "rawText": "@catfitz @Iron_Man_Actual The new pomodoro method.",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Mar 2022 04:02:26 GMT",
+                                    "tweetId": "1501045651781652484",
+                                    "urltweet": "https://twitter.com/yudel/status/1501045651781652484",
+                                    "inReplyToId": "1501034553632333828",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "1/ A question for any datacrunchers among my followers. I have a CSV file with roughly 1000 rows and 100 column. Each row is one response to a hundred questions open ended survey. What is your favorite kosher restaurant? What is your favorite Jewish organization? Etc.",
                                     "rawText": "1/ A question for any datacrunchers among my followers. I have a CSV file with roughly 1000 rows and 100 column. Each row is one response to a hundred questions open ended survey. What is your favorite kosher restaurant? What is your favorite Jewish organization? Etc.",
