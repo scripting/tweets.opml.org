@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 07 Mar 2022 14:39:42 GMT"
+            "dateModified": "Tue, 08 Mar 2022 06:35:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@ClayTravis We should have gotten off oil long ago and researched fusion.",
+                                    "rawText": "@ClayTravis We should have gotten off oil long ago and researched fusion.",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Mar 2022 06:32:47 GMT",
+                                    "tweetId": "1501083489231200256",
+                                    "urltweet": "https://twitter.com/mal/status/1501083489231200256",
+                                    "inReplyToId": "1500868949461852162",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 7",
                             "type": "calendarDay",
