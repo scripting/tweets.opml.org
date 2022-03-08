@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 08 Mar 2022 16:17:36 GMT"
+            "dateModified": "Tue, 08 Mar 2022 16:40:38 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "Funny how this happens. <a href=\"https://t.co/MEuo15eGAb\">[link]</a>",
+                                    "rawText": "Funny how this happens. https://t.co/MEuo15eGAb",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Mar 2022 16:40:19 GMT",
+                                    "tweetId": "1501236379321307138",
+                                    "urltweet": "https://twitter.com/yudel/status/1501236379321307138",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@AryehCW Not quite true: <a href=\"https://t.co/OZvHkMbPUn\">[link]</a>",
                                     "rawText": "@AryehCW Not quite true: https://t.co/OZvHkMbPUn",
