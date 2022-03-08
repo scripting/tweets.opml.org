@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 08 Mar 2022 02:37:58 GMT"
+            "dateModified": "Tue, 08 Mar 2022 17:01:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "we lost power and internet last night, huge wind. might not be any blogging today.",
+                                    "rawText": "we lost power and internet last night, huge wind. might not be any blogging today.",
+                                    "type": "tweet",
+                                    "created": "Tue, 08 Mar 2022 16:56:57 GMT",
+                                    "tweetId": "1501240566163587074",
+                                    "urltweet": "https://twitter.com/davewiner/status/1501240566163587074",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 7",
                             "type": "calendarDay",
