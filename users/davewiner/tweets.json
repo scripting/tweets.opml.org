@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 09 Mar 2022 13:56:15 GMT"
+            "dateModified": "Wed, 09 Mar 2022 14:30:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,49 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "@jeffjarvis I'm probably not the best person to do that. \n\nI'd ask @brentsimmons, who has created a popular iPhone feed reader. He'd know the issues better than I. \n\nI use RSS in desktop apps only. I probably should use a mobile app but there are lots of things I should do that I don't. ;-)",
+                                    "rawText": "@jeffjarvis I'm probably not the best person to do that. \n\nI'd ask @brentsimmons, who has created a popular iPhone feed reader. He'd know the issues better than I. \n\nI use RSS in desktop apps only. I probably should use a mobile app but there are lots of things I should do that I don't. ;-)",
+                                    "type": "tweet",
+                                    "created": "Wed, 09 Mar 2022 14:30:01 GMT",
+                                    "tweetId": "1501565976441233415",
+                                    "urltweet": "https://twitter.com/davewiner/status/1501565976441233415",
+                                    "inReplyToId": "1501563949954777089",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "1/3 One of the biggest problems/design mistakes in JavaScript is that programming on the server and the client are so different. The built-in verbs are the same, date verbs, string verbs, but the data models are completely different.",
+                                    "rawText": "1/3 One of the biggest problems/design mistakes in JavaScript is that programming on the server and the client are so different. The built-in verbs are the same, date verbs, string verbs, but the data models are completely different.",
+                                    "type": "tweet",
+                                    "created": "Wed, 09 Mar 2022 14:25:18 GMT",
+                                    "tweetId": "1501564791617429510",
+                                    "urltweet": "https://twitter.com/davewiner/status/1501564791617429510",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "2/3 And the modules are different. How did that happen. Why couldn't \"require\" work in the client? If I had been in charge, there would have been a rule that if we're implementing something in the client that has already been done in the server, we must",
+                                            "rawText": "2/3 And the modules are different. How did that happen. Why couldn't \"require\" work in the client? If I had been in charge, there would have been a rule that if we're implementing something in the client that has already been done in the server, we must",
+                                            "type": "tweet",
+                                            "created": "Wed, 09 Mar 2022 14:25:19 GMT",
+                                            "tweetId": "1501564795627180032",
+                                            "urltweet": "https://twitter.com/davewiner/status/1501564795627180032",
+                                            "inReplyToId": "1501564791617429510",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "3/3 do it the same way, unless it really is impossible, and it has to be very impossible. And vice versa of course.",
+                                                    "rawText": "3/3 do it the same way, unless it really is impossible, and it has to be very impossible. And vice versa of course.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 09 Mar 2022 14:25:20 GMT",
+                                                    "tweetId": "1501564799787970561",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1501564799787970561",
+                                                    "inReplyToId": "1501564795627180032",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@jen_mcfadden yes. who knows which idea is whose, but that company is set up to suck the life out of everything it comes in contact with. if she was just taking orders, the least she could do is quit. but she's still there.",
                                     "rawText": "@jen_mcfadden yes. who knows which idea is whose, but that company is set up to suck the life out of everything it comes in contact with. if she was just taking orders, the least she could do is quit. but she's still there.",
