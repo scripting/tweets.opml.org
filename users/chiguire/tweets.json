@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 08 Mar 2022 19:05:17 GMT"
+            "dateModified": "Wed, 09 Mar 2022 08:19:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "Que viva el pan 🍞",
+                                    "rawText": "Que viva el pan 🍞",
+                                    "type": "tweet",
+                                    "created": "Wed, 09 Mar 2022 08:17:33 GMT",
+                                    "tweetId": "1501472243595063296",
+                                    "urltweet": "https://twitter.com/chiguire/status/1501472243595063296",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 8",
                             "type": "calendarDay",
