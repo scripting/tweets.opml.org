@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 10 Mar 2022 08:18:40 GMT"
+            "dateModified": "Thu, 10 Mar 2022 08:30:11 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@LucenaPerezM aparato para hornear pan",
+                                    "rawText": "@LucenaPerezM aparato para hornear pan",
+                                    "type": "tweet",
+                                    "created": "Thu, 10 Mar 2022 08:27:50 GMT",
+                                    "tweetId": "1501837220034064384",
+                                    "urltweet": "https://twitter.com/chiguire/status/1501837220034064384",
+                                    "inReplyToId": "1501836500505448451",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@mirlu_exe ❤️❤️",
                                     "rawText": "@mirlu_exe ❤️❤️",
@@ -162,7 +172,19 @@
                                     "created": "Wed, 09 Mar 2022 08:17:33 GMT",
                                     "tweetId": "1501472243595063296",
                                     "urltweet": "https://twitter.com/chiguire/status/1501472243595063296",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Este tuit fue patrocinado por la panera que me conseguí en la calle y que funciona muy muy bien",
+                                            "rawText": "Este tuit fue patrocinado por la panera que me conseguí en la calle y que funciona muy muy bien",
+                                            "type": "tweet",
+                                            "created": "Thu, 10 Mar 2022 08:18:48 GMT",
+                                            "tweetId": "1501834946469576704",
+                                            "urltweet": "https://twitter.com/chiguire/status/1501834946469576704",
+                                            "inReplyToId": "1501472243595063296",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 }
                             ]
                         },
