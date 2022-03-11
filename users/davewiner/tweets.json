@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 17:10:01 GMT"
+            "dateModified": "Fri, 11 Mar 2022 17:21:32 GMT"
         },
         "body": {
             "subs": [
@@ -67,7 +67,31 @@
                                                                     "tweetId": "1502330204009680902",
                                                                     "urltweet": "https://twitter.com/davewiner/status/1502330204009680902",
                                                                     "inReplyToId": "1502329568987947008",
-                                                                    "tweetUserName": "davewiner"
+                                                                    "tweetUserName": "davewiner",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "There's this great scene in The West Wing. \n\nBartlet says to the Repub, let's have a great campaign, really get at the issues. \n\nCrime, boy I don't know.\n\n<a href=\"https://t.co/n3SlAw5hQx\">[link]</a>\n\nBartlet decides to kick his ass.",
+                                                                            "rawText": "There's this great scene in The West Wing. \n\nBartlet says to the Repub, let's have a great campaign, really get at the issues. \n\nCrime, boy I don't know.\n\nhttps://t.co/n3SlAw5hQx\n\nBartlet decides to kick his ass.",
+                                                                            "type": "tweet",
+                                                                            "created": "Fri, 11 Mar 2022 17:20:45 GMT",
+                                                                            "tweetId": "1502333720589750275",
+                                                                            "urltweet": "https://twitter.com/davewiner/status/1502333720589750275",
+                                                                            "inReplyToId": "1502330204009680902",
+                                                                            "tweetUserName": "davewiner",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "Come on. They tee'd this one up for us.",
+                                                                                    "rawText": "Come on. They tee'd this one up for us.",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Fri, 11 Mar 2022 17:20:46 GMT",
+                                                                                    "tweetId": "1502333722766499845",
+                                                                                    "urltweet": "https://twitter.com/davewiner/status/1502333722766499845",
+                                                                                    "inReplyToId": "1502333720589750275",
+                                                                                    "tweetUserName": "davewiner"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
