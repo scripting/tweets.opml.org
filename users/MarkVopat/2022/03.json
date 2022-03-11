@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 00:55:29 GMT"
+            "dateModified": "Fri, 11 Mar 2022 18:57:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "I’m shocked! Masks substantially reduce the spread of COVID in schools <a href=\"https://t.co/iy5Cd8PA6o\">[link]</a> https://t.co/h8PV2msxuR",
+                                    "rawText": "I’m shocked! Masks substantially reduce the spread of COVID in schools https://t.co/iy5Cd8PA6o https://t.co/h8PV2msxuR",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 18:49:49 GMT",
+                                    "tweetId": "1502356136359563264",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1502356136359563264",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 10",
                             "type": "calendarDay",
