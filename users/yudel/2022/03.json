@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 03:11:53 GMT"
+            "dateModified": "Fri, 11 Mar 2022 05:53:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@MisfitTorah Not to mention the strong possibility that it existed as a memorized document for a few centuries.",
+                                    "rawText": "@MisfitTorah Not to mention the strong possibility that it existed as a memorized document for a few centuries.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 05:50:26 GMT",
+                                    "tweetId": "1502159996649308164",
+                                    "urltweet": "https://twitter.com/yudel/status/1502159996649308164",
+                                    "inReplyToId": "1502158432182300675",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 10",
                             "type": "calendarDay",
