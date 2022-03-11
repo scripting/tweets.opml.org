@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 10 Mar 2022 21:25:15 GMT"
+            "dateModified": "Fri, 11 Mar 2022 16:48:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@tessaapproves We’ve learned through experience to never hire friends.",
+                                    "rawText": "@tessaapproves We’ve learned through experience to never hire friends.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 16:40:58 GMT",
+                                    "tweetId": "1502323707737481220",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1502323707737481220",
+                                    "inReplyToId": "1501921149130846212",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 10",
                             "type": "calendarDay",
