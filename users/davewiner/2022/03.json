@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 17:33:03 GMT"
+            "dateModified": "Fri, 11 Mar 2022 17:44:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "WE ARE RUNNING AGAINST PUTIN IN THE US.",
+                                    "rawText": "WE ARE RUNNING AGAINST PUTIN IN THE US.",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 17:35:17 GMT",
+                                    "tweetId": "1502337376630321152",
+                                    "urltweet": "https://twitter.com/davewiner/status/1502337376630321152",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "why did the sanctions against putin work so well this time?",
                                     "rawText": "why did the sanctions against putin work so well this time?",
@@ -37,7 +46,19 @@
                                             "tweetId": "1502334835460919300",
                                             "urltweet": "https://twitter.com/davewiner/status/1502334835460919300",
                                             "inReplyToId": "1502334834353614851",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "but -- important point --\n\nONLY IF PUTIN IS *THE* ISSUE IN ALL UPCOMING ELECTIONS UNTIL HE'S A DISTANT MEMORY",
+                                                    "rawText": "but -- important point --\n\nONLY IF PUTIN IS *THE* ISSUE IN ALL UPCOMING ELECTIONS UNTIL HE'S A DISTANT MEMORY",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 11 Mar 2022 17:34:46 GMT",
+                                                    "tweetId": "1502337248129388547",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1502337248129388547",
+                                                    "inReplyToId": "1502334835460919300",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
