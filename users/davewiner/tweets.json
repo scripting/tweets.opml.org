@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 00:16:57 GMT"
+            "dateModified": "Fri, 11 Mar 2022 10:38:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "You Don’t Really Ever Own an EV. <a href=\"https://t.co/ZpLUQjynQ0\">[link]</a>",
+                                    "rawText": "You Don’t Really Ever Own an EV. https://t.co/ZpLUQjynQ0",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 10:28:40 GMT",
+                                    "tweetId": "1502230016871985152",
+                                    "urltweet": "https://twitter.com/davewiner/status/1502230016871985152",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 10",
                             "type": "calendarDay",
