@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 01:59:18 GMT"
+            "dateModified": "Fri, 11 Mar 2022 18:29:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Yes! <a href=\"https://t.co/5VN3nxtuWa\">[link]</a>",
+                                    "rawText": "Yes! https://t.co/5VN3nxtuWa",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 18:26:51 GMT",
+                                    "tweetId": "1502350356419731456",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1502350356419731456",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 10",
                             "type": "calendarDay",
