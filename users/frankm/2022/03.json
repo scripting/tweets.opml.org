@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 01:52:17 GMT"
+            "dateModified": "Fri, 11 Mar 2022 13:57:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Two years ago this week COVID was first officially seen in MIchigan. Little did we know then what that would mean. <a href=\"https://t.co/v45HUuG9CZ\">[link]</a>",
+                                    "rawText": "Two years ago this week COVID was first officially seen in MIchigan. Little did we know then what that would mean. https://t.co/v45HUuG9CZ",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 13:55:13 GMT",
+                                    "tweetId": "1502281997405855749",
+                                    "urltweet": "https://twitter.com/frankm/status/1502281997405855749",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 10",
                             "type": "calendarDay",
