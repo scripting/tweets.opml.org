@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 10 Mar 2022 13:58:02 GMT"
+            "dateModified": "Fri, 11 Mar 2022 13:57:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/uwUE7AVyzo\">[link]</a> Stories via @tedthetrumpet @fvguima @soundonsoundmag",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/uwUE7AVyzo Stories via @tedthetrumpet @fvguima @soundonsoundmag",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 13:47:49 GMT",
+                                    "tweetId": "1502280134455406607",
+                                    "urltweet": "https://twitter.com/aworks/status/1502280134455406607",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 10",
                             "type": "calendarDay",
