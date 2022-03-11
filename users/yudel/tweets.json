@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 17:58:19 GMT"
+            "dateModified": "Fri, 11 Mar 2022 18:44:22 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,48 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "Very cool to see. <a href=\"https://t.co/8DDZJkjpbD\">[link]</a>",
+                                    "rawText": "Very cool to see. https://t.co/8DDZJkjpbD",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 18:35:39 GMT",
+                                    "tweetId": "1502352571092066305",
+                                    "urltweet": "https://twitter.com/yudel/status/1502352571092066305",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "I interviewed @yael_kanarek about her Regendered Bible project last year: <a href=\"https://t.co/YxL8lCTrn9\">[link]</a>",
+                                            "rawText": "I interviewed @yael_kanarek about her Regendered Bible project last year: https://t.co/YxL8lCTrn9",
+                                            "type": "tweet",
+                                            "created": "Fri, 11 Mar 2022 18:36:22 GMT",
+                                            "tweetId": "1502352750222495745",
+                                            "urltweet": "https://twitter.com/yudel/status/1502352750222495745",
+                                            "inReplyToId": "1502352571092066305",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Looking forward to @RabbiShmuley / Ted Nugent summit. <a href=\"https://t.co/j9J2OpF1cK\">[link]</a>",
+                                    "rawText": "Looking forward to @RabbiShmuley / Ted Nugent summit. https://t.co/j9J2OpF1cK",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 18:34:43 GMT",
+                                    "tweetId": "1502352334780833793",
+                                    "urltweet": "https://twitter.com/yudel/status/1502352334780833793",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Reminder: <a href=\"https://t.co/K53wOonb9l\">[link]</a>",
+                                            "rawText": "Reminder: https://t.co/K53wOonb9l",
+                                            "type": "tweet",
+                                            "created": "Fri, 11 Mar 2022 18:35:21 GMT",
+                                            "tweetId": "1502352494793535504",
+                                            "urltweet": "https://twitter.com/yudel/status/1502352494793535504",
+                                            "inReplyToId": "1502352334780833793",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@steveniweiss @mwecker What make you think that Bennett made the call to influence Zelenskyy rather than to influence Putin?",
                                     "rawText": "@steveniweiss @mwecker What make you think that Bennett made the call to influence Zelenskyy rather than to influence Putin?",
