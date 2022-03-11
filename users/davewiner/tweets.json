@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 22:32:22 GMT"
+            "dateModified": "Fri, 11 Mar 2022 22:43:52 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@KevinCTofel @tylerjtofel Where's @ohnorm?",
+                                    "rawText": "@KevinCTofel @tylerjtofel Where's @ohnorm?",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 22:32:25 GMT",
+                                    "tweetId": "1502412153768325120",
+                                    "urltweet": "https://twitter.com/davewiner/status/1502412153768325120",
+                                    "inReplyToId": "1502406715744165894",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@markjgardner it's still kind of funny.",
                                     "rawText": "@markjgardner it's still kind of funny.",
