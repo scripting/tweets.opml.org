@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "oschettler tweets",
+            "dateCreated": "Fri, 11 Feb 2022 07:45:16 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/oschettler/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 11 Mar 2022 20:58:15 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Wie können wir Europäer schnellstens unabhängig von russischem Gas und amerikanischer Software werden? Doch wieder Atomkraft? Opensource? Beides denkbar, oder?",
+                                    "rawText": "Wie können wir Europäer schnellstens unabhängig von russischem Gas und amerikanischer Software werden? Doch wieder Atomkraft? Opensource? Beides denkbar, oder?",
+                                    "type": "tweet",
+                                    "created": "Fri, 11 Mar 2022 20:55:16 GMT",
+                                    "tweetId": "1502387706814513162",
+                                    "urltweet": "https://twitter.com/oschettler/status/1502387706814513162",
+                                    "tweetUserName": "oschettler"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
