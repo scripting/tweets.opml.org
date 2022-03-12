@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Mar 2022 17:32:05 GMT"
+            "dateModified": "Sat, 12 Mar 2022 17:43:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "This is what you get when your president is a comedia. Great fucking messaging.  <a href=\"https://t.co/g5emJ7fI5f\">[link]</a>",
+                                    "rawText": "This is what you get when your president is a comedia. Great fucking messaging.  https://t.co/g5emJ7fI5f",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 17:35:13 GMT",
+                                    "tweetId": "1502699747370577920",
+                                    "urltweet": "https://twitter.com/davewiner/status/1502699747370577920",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "When will Russia attack us through our network?\n\nI don't think they're going to bother attacking Ukraine specifically. I've always assumed they have the ability to knock our banking system offline, maybe even erase all the money records.\n\nImagine the chaos that would result.",
                                     "rawText": "When will Russia attack us through our network?\n\nI don't think they're going to bother attacking Ukraine specifically. I've always assumed they have the ability to knock our banking system offline, maybe even erase all the money records.\n\nImagine the chaos that would result.",
@@ -57,7 +66,19 @@
                                                             "tweetId": "1502698922422198272",
                                                             "urltweet": "https://twitter.com/davewiner/status/1502698922422198272",
                                                             "inReplyToId": "1502698921180676103",
-                                                            "tweetUserName": "davewiner"
+                                                            "tweetUserName": "davewiner",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "All this thought about they'll go for Lithuania next or Poland, as if this were the 1940s. \n\nIt's not the 1940s.\n\nThey'll go right to the target -- the good old US of A.",
+                                                                    "rawText": "All this thought about they'll go for Lithuania next or Poland, as if this were the 1940s. \n\nIt's not the 1940s.\n\nThey'll go right to the target -- the good old US of A.",
+                                                                    "type": "tweet",
+                                                                    "created": "Sat, 12 Mar 2022 17:33:27 GMT",
+                                                                    "tweetId": "1502699302380056577",
+                                                                    "urltweet": "https://twitter.com/davewiner/status/1502699302380056577",
+                                                                    "inReplyToId": "1502698922422198272",
+                                                                    "tweetUserName": "davewiner"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
