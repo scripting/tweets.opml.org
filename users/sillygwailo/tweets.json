@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Mar 2022 01:18:47 GMT"
+            "dateModified": "Sat, 12 Mar 2022 03:48:27 GMT"
         },
         "body": {
             "subs": [
@@ -865,7 +865,19 @@
                                                                                                             "tweetId": "1502103441845411843",
                                                                                                             "urltweet": "https://twitter.com/sillygwailo/status/1502103441845411843",
                                                                                                             "inReplyToId": "1501901401202507780",
-                                                                                                            "tweetUserName": "sillygwailo"
+                                                                                                            "tweetUserName": "sillygwailo",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "Another good day, filled with snow and new music and a movie about a red panda.",
+                                                                                                                    "rawText": "Another good day, filled with snow and new music and a movie about a red panda.",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Sat, 12 Mar 2022 03:46:15 GMT",
+                                                                                                                    "tweetId": "1502491133183676419",
+                                                                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1502491133183676419",
+                                                                                                                    "inReplyToId": "1502103441845411843",
+                                                                                                                    "tweetUserName": "sillygwailo"
+                                                                                                                }
+                                                                                                            ]
                                                                                                         }
                                                                                                     ]
                                                                                                 }
