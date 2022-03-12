@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Mar 2022 16:48:32 GMT"
+            "dateModified": "Sat, 12 Mar 2022 17:34:35 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "I Am A Goddamned Delight Letterman Jacket <a href=\"https://t.co/dN8Wt5u1dR\">[link]</a>",
+                                    "rawText": "I Am A Goddamned Delight Letterman Jacket https://t.co/dN8Wt5u1dR",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 17:29:54 GMT",
+                                    "tweetId": "1502698411258228737",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1502698411258228737",
+                                    "tweetUserName": "moosebegab",
+                                    "subs": [
+                                        {
+                                            "text": "im usually 2XL but unsure this would fit... hmm..",
+                                            "rawText": "im usually 2XL but unsure this would fit... hmm..",
+                                            "type": "tweet",
+                                            "created": "Sat, 12 Mar 2022 17:29:55 GMT",
+                                            "tweetId": "1502698412717789188",
+                                            "urltweet": "https://twitter.com/moosebegab/status/1502698412717789188",
+                                            "inReplyToId": "1502698411258228737",
+                                            "tweetUserName": "moosebegab"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "i need this with \"i am a goddamned delight\" or \"fuck you, i'm hilarious\" <a href=\"https://t.co/r78kiZIuZs\">[link]</a>",
                                     "rawText": "i need this with \"i am a goddamned delight\" or \"fuck you, i'm hilarious\" https://t.co/r78kiZIuZs",
