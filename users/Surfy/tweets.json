@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Mar 2022 02:53:09 GMT"
+            "dateModified": "Sat, 12 Mar 2022 06:54:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@SchoolOfAnarchy @basiscoppola hmmm",
+                                    "rawText": "@SchoolOfAnarchy @basiscoppola hmmm",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 06:51:47 GMT",
+                                    "tweetId": "1502537821482995713",
+                                    "urltweet": "https://twitter.com/Surfy/status/1502537821482995713",
+                                    "inReplyToId": "1502524753000730624",
+                                    "tweetUserName": "Surfy"
+                                },
+                                {
+                                    "text": "@davewiner Says something about which risk needs to be managed.",
+                                    "rawText": "@davewiner Says something about which risk needs to be managed.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 06:43:50 GMT",
+                                    "tweetId": "1502535823962501122",
+                                    "urltweet": "https://twitter.com/Surfy/status/1502535823962501122",
+                                    "inReplyToId": "1502269450761953289",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 11",
                             "type": "calendarDay",
