@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 08 Mar 2022 19:00:02 GMT"
+            "dateModified": "Sat, 12 Mar 2022 17:35:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Finally got back to the gym this week after nearly 3 months. Holidays, omicron wave, getting covid anyway despite precautions and trip east have kept me away too long. I'm sore, but that will pass soon enough. <a href=\"https://t.co/s0UFFh44cc\">[link]</a>",
+                                    "rawText": "Finally got back to the gym this week after nearly 3 months. Holidays, omicron wave, getting covid anyway despite precautions and trip east have kept me away too long. I'm sore, but that will pass soon enough. https://t.co/s0UFFh44cc",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 17:32:13 GMT",
+                                    "tweetId": "1502698992316010496",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1502698992316010496",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 7",
                             "type": "calendarDay",
