@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 09 Mar 2022 21:21:58 GMT"
+            "dateModified": "Sat, 12 Mar 2022 20:21:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Yet another reminder of @sapinker's delusions. Better angels of our nature indeed… <a href=\"https://t.co/yOP8BhXtpt\">[link]</a>",
+                                    "rawText": "Yet another reminder of @sapinker's delusions. Better angels of our nature indeed… https://t.co/yOP8BhXtpt",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 20:18:39 GMT",
+                                    "tweetId": "1502740878900830211",
+                                    "urltweet": "https://twitter.com/miljko/status/1502740878900830211",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 9",
                             "type": "calendarDay",
