@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Mar 2022 15:13:56 GMT"
+            "dateModified": "Sat, 12 Mar 2022 15:36:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,58 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "2013: One great thing about the demise of Google Reader. <a href=\"https://t.co/Nt4PVoXerR\">[link]</a>",
+                                    "rawText": "2013: One great thing about the demise of Google Reader. https://t.co/Nt4PVoXerR",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 15:32:46 GMT",
+                                    "tweetId": "1502668934318895106",
+                                    "urltweet": "https://twitter.com/davewiner/status/1502668934318895106",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Now Kasparov is entering US politics in either a very naive way or he has an agenda other than preventing a capitulation by the US to Russia. <a href=\"https://t.co/jJ2AM1LelV\">[link]</a>",
+                                    "rawText": "Now Kasparov is entering US politics in either a very naive way or he has an agenda other than preventing a capitulation by the US to Russia. https://t.co/jJ2AM1LelV",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 15:29:50 GMT",
+                                    "tweetId": "1502668194372370435",
+                                    "urltweet": "https://twitter.com/davewiner/status/1502668194372370435",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@Kasparov63 That's not fair. FDR didn't go to war quickly. There was Lend-Lease, and even that was controversial. A country has to be ready to go to war. You're an expert in Russia, but not in the US. Clearly. \n\nTurn your attention to how to involve the people of the US in this cause.",
+                                    "rawText": "@Kasparov63 That's not fair. FDR didn't go to war quickly. There was Lend-Lease, and even that was controversial. A country has to be ready to go to war. You're an expert in Russia, but not in the US. Clearly. \n\nTurn your attention to how to involve the people of the US in this cause.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 15:26:47 GMT",
+                                    "tweetId": "1502667427745775621",
+                                    "urltweet": "https://twitter.com/davewiner/status/1502667427745775621",
+                                    "inReplyToId": "1502665419731185665",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@Kasparov63 The US has a mental model of the world that's very different from Europe. We have these two oceans that keep us separated, or so we think. Clearly not in the nuclear age. No one here can think in terms of air raids on our home towns by Russian jets.",
+                                            "rawText": "@Kasparov63 The US has a mental model of the world that's very different from Europe. We have these two oceans that keep us separated, or so we think. Clearly not in the nuclear age. No one here can think in terms of air raids on our home towns by Russian jets.",
+                                            "type": "tweet",
+                                            "created": "Sat, 12 Mar 2022 15:28:13 GMT",
+                                            "tweetId": "1502667789429002247",
+                                            "urltweet": "https://twitter.com/davewiner/status/1502667789429002247",
+                                            "inReplyToId": "1502667427745775621",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@Kasparov63 I haven't really thought about this -- but either Russia or China could do air raids on America without using nukes. Any country with aircraft carriers or the ability to refuel bombers in air could.",
+                                                    "rawText": "@Kasparov63 I haven't really thought about this -- but either Russia or China could do air raids on America without using nukes. Any country with aircraft carriers or the ability to refuel bombers in air could.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 12 Mar 2022 15:34:33 GMT",
+                                                    "tweetId": "1502669383734378499",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1502669383734378499",
+                                                    "inReplyToId": "1502667789429002247",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "An addendum to my spec for how I'd do a new hypothetical feed reader.\n\n<a href=\"https://t.co/fzrApi0XfY\">[link]</a>",
                                     "rawText": "An addendum to my spec for how I'd do a new hypothetical feed reader.\n\nhttps://t.co/fzrApi0XfY",
