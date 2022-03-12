@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Mar 2022 02:36:38 GMT"
+            "dateModified": "Sat, 12 Mar 2022 16:48:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "i need this with \"i am a goddamned delight\" or \"fuck you, i'm hilarious\" <a href=\"https://t.co/r78kiZIuZs\">[link]</a>",
+                                    "rawText": "i need this with \"i am a goddamned delight\" or \"fuck you, i'm hilarious\" https://t.co/r78kiZIuZs",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 16:43:07 GMT",
+                                    "tweetId": "1502686635774910465",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1502686635774910465",
+                                    "tweetUserName": "moosebegab"
+                                },
+                                {
+                                    "text": "@pbcmike98 @sjggraham @SecularOutpost we all want to be safe, warm, dry, fed, move about freely. again I think about do unto others. so to answer you, I guess majority.",
+                                    "rawText": "@pbcmike98 @sjggraham @SecularOutpost we all want to be safe, warm, dry, fed, move about freely. again I think about do unto others. so to answer you, I guess majority.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 16:37:44 GMT",
+                                    "tweetId": "1502685280259694600",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1502685280259694600",
+                                    "inReplyToId": "1502548376310718466",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 11",
                             "type": "calendarDay",
