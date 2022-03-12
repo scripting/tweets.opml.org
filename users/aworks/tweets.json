@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 13:57:04 GMT"
+            "dateModified": "Sat, 12 Mar 2022 13:56:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/lb5Oipd6M1\">[link]</a> Stories via @alboske @avantmusicnews @BerkeleySymph",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/lb5Oipd6M1 Stories via @alboske @avantmusicnews @BerkeleySymph",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 13:47:49 GMT",
+                                    "tweetId": "1502642521876451332",
+                                    "urltweet": "https://twitter.com/aworks/status/1502642521876451332",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 11",
                             "type": "calendarDay",
