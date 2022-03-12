@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 10 Mar 2022 18:21:19 GMT"
+            "dateModified": "Sat, 12 Mar 2022 10:15:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "The Best $10 I've spent:\n<a href=\"https://t.co/CVmV01biU3\">[link]</a>",
+                                    "rawText": "The Best $10 I've spent:\nhttps://t.co/CVmV01biU3",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 10:07:28 GMT",
+                                    "tweetId": "1502587067062272001",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1502587067062272001",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 10",
                             "type": "calendarDay",
