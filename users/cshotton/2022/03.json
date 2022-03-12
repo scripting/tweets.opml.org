@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 13:15:31 GMT"
+            "dateModified": "Sat, 12 Mar 2022 16:07:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@willie In one case, maybe. The problem is that the cost of keeping two separate dev teams and tool chains and build processes and QA skills doesn't make business sense in many cases. If there were better cross-platform solutions, that's one way to ensure platform parity.",
+                                    "rawText": "@willie In one case, maybe. The problem is that the cost of keeping two separate dev teams and tool chains and build processes and QA skills doesn't make business sense in many cases. If there were better cross-platform solutions, that's one way to ensure platform parity.",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 15:59:01 GMT",
+                                    "tweetId": "1502675540192473088",
+                                    "urltweet": "https://twitter.com/cshotton/status/1502675540192473088",
+                                    "inReplyToId": "1502276570786025475",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 11",
                             "type": "calendarDay",
