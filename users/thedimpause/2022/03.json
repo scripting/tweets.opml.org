@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 06 Mar 2022 20:24:47 GMT"
+            "dateModified": "Sat, 12 Mar 2022 19:44:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Mentioned on the BBC today: ‘Ukraine: Spam website set up to reach millions of Russians' <a href=\"https://t.co/jpdaaXzv8W\">[link]</a> - but they didn’t give the site, which is https://t.co/CMiOh3wm4C",
+                                    "rawText": "Mentioned on the BBC today: ‘Ukraine: Spam website set up to reach millions of Russians' https://t.co/jpdaaXzv8W - but they didn’t give the site, which is https://t.co/CMiOh3wm4C",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 19:41:02 GMT",
+                                    "tweetId": "1502731411702308865",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1502731411702308865",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 6",
                             "type": "calendarDay",
