@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 03 Mar 2022 06:24:00 GMT"
+            "dateModified": "Sat, 12 Mar 2022 02:53:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Laguna Beach Weather and Crypto report for the weekend of 3-11 to 3-13.  Is anything more important than your local weather? <a href=\"https://t.co/xg8rG5oJjT\">[link]</a>",
+                                    "rawText": "Laguna Beach Weather and Crypto report for the weekend of 3-11 to 3-13.  Is anything more important than your local weather? https://t.co/xg8rG5oJjT",
+                                    "type": "tweet",
+                                    "created": "Sat, 12 Mar 2022 02:48:38 GMT",
+                                    "tweetId": "1502476633592135687",
+                                    "urltweet": "https://twitter.com/Surfy/status/1502476633592135687",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 3",
                             "type": "calendarDay",
