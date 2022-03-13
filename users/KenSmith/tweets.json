@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 08:55:45 GMT"
+            "dateModified": "Sun, 13 Mar 2022 12:55:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Not sure, but I think Twitter has been changing this setting without asking. Is this a new we-don’t-care-what-you-prefer thing from Twitter?\n\nI didn’t like when Facebook quietly changed this same setting either. Plus “home” masks what it is, which is “We choose what you see.” <a href=\"https://t.co/WQ7QyCvrnY\">[link]</a>",
+                                    "rawText": "Not sure, but I think Twitter has been changing this setting without asking. Is this a new we-don’t-care-what-you-prefer thing from Twitter?\n\nI didn’t like when Facebook quietly changed this same setting either. Plus “home” masks what it is, which is “We choose what you see.” https://t.co/WQ7QyCvrnY",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Mar 2022 12:54:03 GMT",
+                                    "tweetId": "1502991380423090179",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1502991380423090179",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 11",
                             "type": "calendarDay",
