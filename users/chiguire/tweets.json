@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Mar 2022 09:01:50 GMT"
+            "dateModified": "Sun, 13 Mar 2022 23:02:13 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "My new band name <a href=\"https://t.co/0lIKEcWiik\">[link]</a>",
+                                    "rawText": "My new band name https://t.co/0lIKEcWiik",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Mar 2022 22:57:18 GMT",
+                                    "tweetId": "1503143193201856518",
+                                    "urltweet": "https://twitter.com/chiguire/status/1503143193201856518",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@AmazonasL <a href=\"https://t.co/M3MkO2hZUW\">[link]</a>",
                                     "rawText": "@AmazonasL https://t.co/M3MkO2hZUW",
