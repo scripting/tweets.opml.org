@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 12 Mar 2022 16:07:15 GMT"
+            "dateModified": "Sun, 13 Mar 2022 17:26:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@willie But are they capable enough? A lot of these companies demonstrate repeatedly that they don't really have strong technical teams. All you'd get is a bad native application. Seriously, Apple would do indie iOS/macOS devs a big favor by making cross-platform better and easier.",
+                                    "rawText": "@willie But are they capable enough? A lot of these companies demonstrate repeatedly that they don't really have strong technical teams. All you'd get is a bad native application. Seriously, Apple would do indie iOS/macOS devs a big favor by making cross-platform better and easier.",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Mar 2022 17:21:51 GMT",
+                                    "tweetId": "1503058772528623617",
+                                    "urltweet": "https://twitter.com/cshotton/status/1503058772528623617",
+                                    "inReplyToId": "1502703230706405388",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 12",
                             "type": "calendarDay",
