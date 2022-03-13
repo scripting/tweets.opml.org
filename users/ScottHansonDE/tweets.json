@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Mar 2022 10:14:39 GMT"
+            "dateModified": "Sun, 13 Mar 2022 10:26:10 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Sun, 13 Mar 2022 10:14:19 GMT",
                                     "tweetId": "1502951178304466952",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1502951178304466952",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "We expect those sales decreases to continue for a couple months, then ebb off by summer as people get used to higher gas prices. Meanwhile our food and energy costs have increased, in some cases dramatically. (2/3)",
+                                            "rawText": "We expect those sales decreases to continue for a couple months, then ebb off by summer as people get used to higher gas prices. Meanwhile our food and energy costs have increased, in some cases dramatically. (2/3)",
+                                            "type": "tweet",
+                                            "created": "Sun, 13 Mar 2022 10:14:43 GMT",
+                                            "tweetId": "1502951279634620421",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1502951279634620421",
+                                            "inReplyToId": "1502951178304466952",
+                                            "tweetUserName": "ScottHansonDE",
+                                            "subs": [
+                                                {
+                                                    "text": "We had been expecting a 'normal' non-pandemic year in 2022 but we now we expect flat sales and higher costs for the year.  In other words, recession. (3/3)",
+                                                    "rawText": "We had been expecting a 'normal' non-pandemic year in 2022 but we now we expect flat sales and higher costs for the year.  In other words, recession. (3/3)",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 13 Mar 2022 10:15:17 GMT",
+                                                    "tweetId": "1502951425252462592",
+                                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1502951425252462592",
+                                                    "inReplyToId": "1502951279634620421",
+                                                    "tweetUserName": "ScottHansonDE"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
