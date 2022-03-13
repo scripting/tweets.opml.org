@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Mar 2022 23:25:30 GMT"
+            "dateModified": "Sun, 13 Mar 2022 23:37:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@rickg Looks excellent; thanks! And shocker: I was right! Just checked the notes on hoisting. Looks like I’m actually making some progress. 😜 <a href=\"https://t.co/SjItqE1MIe\">[link]</a>",
+                                    "rawText": "@rickg Looks excellent; thanks! And shocker: I was right! Just checked the notes on hoisting. Looks like I’m actually making some progress. 😜 https://t.co/SjItqE1MIe",
+                                    "type": "tweet",
+                                    "created": "Sun, 13 Mar 2022 23:35:06 GMT",
+                                    "tweetId": "1503152702964092936",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1503152702964092936",
+                                    "inReplyToId": "1503149169380265984",
+                                    "tweetUserName": "KevinCTofel"
+                                },
                                 {
                                     "text": "Excellent article: Arrow Functions in JavaScript: Fat &amp; Concise Syntax. One thing (I think) that is missing though: if you need / want hoisted variables, I *believe* you have to do that in a regular function. Could be wrong though. Still learning!  <a href=\"https://t.co/miYqMQqPwX\">[link]</a>",
                                     "rawText": "Excellent article: Arrow Functions in JavaScript: Fat &amp; Concise Syntax. One thing (I think) that is missing though: if you need / want hoisted variables, I *believe* you have to do that in a regular function. Could be wrong though. Still learning!  https://t.co/miYqMQqPwX",
