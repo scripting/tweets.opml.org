@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Mar 2022 20:06:02 GMT"
+            "dateModified": "Sun, 13 Mar 2022 20:17:33 GMT"
         },
         "body": {
             "subs": [
@@ -635,7 +635,31 @@
                                             "tweetId": "1500560562144567301",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1500560562144567301",
                                             "inReplyToId": "1500560543178006529",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I want to go to Winter Stations again… <a href=\"https://t.co/3LMFR267F7\">[link]</a>",
+                                                    "rawText": "I want to go to Winter Stations again… https://t.co/3LMFR267F7",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 13 Mar 2022 20:06:43 GMT",
+                                                    "tweetId": "1503100263690874888",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1503100263690874888",
+                                                    "inReplyToId": "1500560562144567301",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "(…though between you and me, I’m glad I didn’t go this weekend.)",
+                                                            "rawText": "(…though between you and me, I’m glad I didn’t go this weekend.)",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 13 Mar 2022 20:06:44 GMT",
+                                                            "tweetId": "1503100265129558021",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1503100265129558021",
+                                                            "inReplyToId": "1503100263690874888",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
