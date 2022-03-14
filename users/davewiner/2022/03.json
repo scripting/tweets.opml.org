@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 15:46:32 GMT"
+            "dateModified": "Mon, 14 Mar 2022 16:21:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,36 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "Adding new glop to programming languages is easy.\n\nFactoring so you don't need the glop is hard and gets harder with each new layer of glop that is added.",
+                                    "rawText": "Adding new glop to programming languages is easy.\n\nFactoring so you don't need the glop is hard and gets harder with each new layer of glop that is added.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Mar 2022 16:18:42 GMT",
+                                    "tweetId": "1503405268582998016",
+                                    "urltweet": "https://twitter.com/davewiner/status/1503405268582998016",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "The last few days have been the first time I've seen anything on TV about what Russians are like. \n\nKind of amazing when you think about it. \n\nWhat if we could organize politics across the nuclear boundaries. If they can't speak at home at least we can give them space here.",
+                                    "rawText": "The last few days have been the first time I've seen anything on TV about what Russians are like. \n\nKind of amazing when you think about it. \n\nWhat if we could organize politics across the nuclear boundaries. If they can't speak at home at least we can give them space here.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Mar 2022 16:10:37 GMT",
+                                    "tweetId": "1503403232214728706",
+                                    "urltweet": "https://twitter.com/davewiner/status/1503403232214728706",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Maybe not so much in the middle of the US, but where I come from there are lots of people of Russian descent. Their faces look familiar to me, like I could see them on the subway. It's where my family comes from, I'm first gen American.",
+                                            "rawText": "Maybe not so much in the middle of the US, but where I come from there are lots of people of Russian descent. Their faces look familiar to me, like I could see them on the subway. It's where my family comes from, I'm first gen American.",
+                                            "type": "tweet",
+                                            "created": "Mon, 14 Mar 2022 16:12:05 GMT",
+                                            "tweetId": "1503403604513902598",
+                                            "urltweet": "https://twitter.com/davewiner/status/1503403604513902598",
+                                            "inReplyToId": "1503403232214728706",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@TaylorLorenz I guess I'd better get on Telegram.\n\nWonder if they have an API.",
                                     "rawText": "@TaylorLorenz I guess I'd better get on Telegram.\n\nWonder if they have an API.",
