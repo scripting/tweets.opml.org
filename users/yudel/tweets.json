@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 01:25:22 GMT"
+            "dateModified": "Mon, 14 Mar 2022 02:34:27 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,38 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@HannahLebovits Ah. I missed the indefinite article in your tweet.",
+                                    "rawText": "@HannahLebovits Ah. I missed the indefinite article in your tweet.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Mar 2022 02:26:42 GMT",
+                                    "tweetId": "1503195887593529345",
+                                    "urltweet": "https://twitter.com/yudel/status/1503195887593529345",
+                                    "inReplyToId": "1503195615710359559",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@HannahLebovits Do you actually wear a lab coat in your corner of academia?",
+                                    "rawText": "@HannahLebovits Do you actually wear a lab coat in your corner of academia?",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Mar 2022 02:25:12 GMT",
+                                    "tweetId": "1503195509825101830",
+                                    "urltweet": "https://twitter.com/yudel/status/1503195509825101830",
+                                    "inReplyToId": "1503186928941903875",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@HannahLebovits I wonder whether that would help or hurt with your field work.",
+                                            "rawText": "@HannahLebovits I wonder whether that would help or hurt with your field work.",
+                                            "type": "tweet",
+                                            "created": "Mon, 14 Mar 2022 02:25:40 GMT",
+                                            "tweetId": "1503195629102714886",
+                                            "urltweet": "https://twitter.com/yudel/status/1503195629102714886",
+                                            "inReplyToId": "1503195509825101830",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@ithrewtheglass Does that mean you have a bootleg of his cover of Rainbow Connection?",
                                     "rawText": "@ithrewtheglass Does that mean you have a bootleg of his cover of Rainbow Connection?",
