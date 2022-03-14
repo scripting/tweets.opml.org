@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 23:07:30 GMT"
+            "dateModified": "Mon, 14 Mar 2022 23:19:00 GMT"
         },
         "body": {
             "subs": [
@@ -217,7 +217,19 @@
                                                                                                                                                                                             "tweetId": "1503506057640898562",
                                                                                                                                                                                             "urltweet": "https://twitter.com/DevHawk/status/1503506057640898562",
                                                                                                                                                                                             "inReplyToId": "1503506055929602049",
-                                                                                                                                                                                            "tweetUserName": "DevHawk"
+                                                                                                                                                                                            "tweetUserName": "DevHawk",
+                                                                                                                                                                                            "subs": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "text": "P.S. @code makes it really easy to switch back and forth between production and pre-release extensions. So even if you're worried about running preview debugger full time, it's easy enough to switch back. More details in the VSCode 1.63 release notes: <a href=\"https://t.co/hIjhPucWer\">[link]</a>",
+                                                                                                                                                                                                    "rawText": "P.S. @code makes it really easy to switch back and forth between production and pre-release extensions. So even if you're worried about running preview debugger full time, it's easy enough to switch back. More details in the VSCode 1.63 release notes: https://t.co/hIjhPucWer",
+                                                                                                                                                                                                    "type": "tweet",
+                                                                                                                                                                                                    "created": "Mon, 14 Mar 2022 23:09:23 GMT",
+                                                                                                                                                                                                    "tweetId": "1503508620083818500",
+                                                                                                                                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503508620083818500",
+                                                                                                                                                                                                    "inReplyToId": "1503506057640898562",
+                                                                                                                                                                                                    "tweetUserName": "DevHawk"
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
                                                                                                                                                                                         }
                                                                                                                                                                                     ]
                                                                                                                                                                                 }
