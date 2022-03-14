@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Mar 2022 00:30:02 GMT"
+            "dateModified": "Mon, 14 Mar 2022 23:07:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,250 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "We just shipped a major update to the #NeoBlockchainToolkit Smart Contract Debugger today. It's not completely baked yet, so we are shipping it as a preview.\n\nLet me tell you why running the preview is TOTALLY worth it. (1/20)",
+                                    "rawText": "We just shipped a major update to the #NeoBlockchainToolkit Smart Contract Debugger today. It's not completely baked yet, so we are shipping it as a preview.\n\nLet me tell you why running the preview is TOTALLY worth it. (1/20)",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Mar 2022 22:59:02 GMT",
+                                    "tweetId": "1503506015337164803",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1503506015337164803",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "A few weeks ago, I started working on improving the developer experience for contract storage in the debugger. Every Neo contract has its own \"private\" key/value store where it can persist data it needs to do its job. Fungible token balances, NFT details, stuff like that. (2/20)",
+                                            "rawText": "A few weeks ago, I started working on improving the developer experience for contract storage in the debugger. Every Neo contract has its own \"private\" key/value store where it can persist data it needs to do its job. Fungible token balances, NFT details, stuff like that. (2/20)",
+                                            "type": "tweet",
+                                            "created": "Mon, 14 Mar 2022 22:59:02 GMT",
+                                            "tweetId": "1503506017140629511",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1503506017140629511",
+                                            "inReplyToId": "1503506015337164803",
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "Note, \"private\" in quotes because no data on the blockchain is private. A core point of blockchain is to publish a publicly visible cryptographically authenticated record. But contract data is only visible from outside and only the contract can modify its key/value store. (3/20)",
+                                                    "rawText": "Note, \"private\" in quotes because no data on the blockchain is private. A core point of blockchain is to publish a publicly visible cryptographically authenticated record. But contract data is only visible from outside and only the contract can modify its key/value store. (3/20)",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 14 Mar 2022 22:59:03 GMT",
+                                                    "tweetId": "1503506018881265670",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506018881265670",
+                                                    "inReplyToId": "1503506017140629511",
+                                                    "tweetUserName": "DevHawk",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Anyway, key/value data stores are simple and flexible, but they are a pain to inspect. The key and value are just streams of bytes. And that's how the Neo Contract Debugger has traditionally displayed contract storage. An accurate view, but not a useful or productive view. (4/20) <a href=\"https://t.co/KRqGnHkrRA\">[link]</a>",
+                                                            "rawText": "Anyway, key/value data stores are simple and flexible, but they are a pain to inspect. The key and value are just streams of bytes. And that's how the Neo Contract Debugger has traditionally displayed contract storage. An accurate view, but not a useful or productive view. (4/20) https://t.co/KRqGnHkrRA",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 14 Mar 2022 22:59:04 GMT",
+                                                            "tweetId": "1503506023532822532",
+                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506023532822532",
+                                                            "inReplyToId": "1503506018881265670",
+                                                            "tweetUserName": "DevHawk",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Contract storage *is* structured - even if the structure isn't visible at the storage layer. Keys typically have a constant prefix followed by zero or more typed key segments. Values are also consistently typed. (5/20)",
+                                                                    "rawText": "Contract storage *is* structured - even if the structure isn't visible at the storage layer. Keys typically have a constant prefix followed by zero or more typed key segments. Values are also consistently typed. (5/20)",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 14 Mar 2022 22:59:04 GMT",
+                                                                    "tweetId": "1503506025659338752",
+                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506025659338752",
+                                                                    "inReplyToId": "1503506023532822532",
+                                                                    "tweetUserName": "DevHawk",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "For example: a fungible token might store token balances as integers with a constant prefix + user's address as the key. An NFT key/value pair might store information about a specific token (name, URL, owner, etc.) in a serialized structure keyed to token's unique ID. (6/20)",
+                                                                            "rawText": "For example: a fungible token might store token balances as integers with a constant prefix + user's address as the key. An NFT key/value pair might store information about a specific token (name, URL, owner, etc.) in a serialized structure keyed to token's unique ID. (6/20)",
+                                                                            "type": "tweet",
+                                                                            "created": "Mon, 14 Mar 2022 22:59:05 GMT",
+                                                                            "tweetId": "1503506027370582017",
+                                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506027370582017",
+                                                                            "inReplyToId": "1503506025659338752",
+                                                                            "tweetUserName": "DevHawk",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "I set out to provide what @roschler called \"deep inspection\" of contract storage. I wanted the debugger to automatically decode each key segment and the value, giving the developer a logical view of storage with types rather than the physical view of raw bytes. (7/20)",
+                                                                                    "rawText": "I set out to provide what @roschler called \"deep inspection\" of contract storage. I wanted the debugger to automatically decode each key segment and the value, giving the developer a logical view of storage with types rather than the physical view of raw bytes. (7/20)",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Mon, 14 Mar 2022 22:59:05 GMT",
+                                                                                    "tweetId": "1503506029023154176",
+                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506029023154176",
+                                                                                    "inReplyToId": "1503506027370582017",
+                                                                                    "tweetUserName": "DevHawk",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "We actually shipped the first preview of \"Storage Schema\" about a week ago. I didn't make much noise at the time because I wasn't satisfied. The deep inspection experience worked but required the developer to specify the schema information by hand. (8/20)",
+                                                                                            "rawText": "We actually shipped the first preview of \"Storage Schema\" about a week ago. I didn't make much noise at the time because I wasn't satisfied. The deep inspection experience worked but required the developer to specify the schema information by hand. (8/20)",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Mon, 14 Mar 2022 22:59:06 GMT",
+                                                                                            "tweetId": "1503506030809939969",
+                                                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506030809939969",
+                                                                                            "inReplyToId": "1503506029023154176",
+                                                                                            "tweetUserName": "DevHawk",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "Writing JSON by hand to describe a contract's storage schema was fine for a proof of concept. However, I wanted tools to generate the schema information automatically. So I started updating the Neo C# compiler. \n\nThat's when things got ... interesting. (9/20)",
+                                                                                                    "rawText": "Writing JSON by hand to describe a contract's storage schema was fine for a proof of concept. However, I wanted tools to generate the schema information automatically. So I started updating the Neo C# compiler. \n\nThat's when things got ... interesting. (9/20)",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Mon, 14 Mar 2022 22:59:06 GMT",
+                                                                                                    "tweetId": "1503506032726720514",
+                                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506032726720514",
+                                                                                                    "inReplyToId": "1503506030809939969",
+                                                                                                    "tweetUserName": "DevHawk",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "Neo contracts are written in mainstream programming languages such as C#, Java and Python but run on the Neo virtual machine. There are compilers from various parts of the Neo community for each of these languages that emit Neo VM bytecode - including the Neo C# compiler. (10/20)",
+                                                                                                            "rawText": "Neo contracts are written in mainstream programming languages such as C#, Java and Python but run on the Neo virtual machine. There are compilers from various parts of the Neo community for each of these languages that emit Neo VM bytecode - including the Neo C# compiler. (10/20)",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Mon, 14 Mar 2022 22:59:07 GMT",
+                                                                                                            "tweetId": "1503506034429636608",
+                                                                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506034429636608",
+                                                                                                            "inReplyToId": "1503506032726720514",
+                                                                                                            "tweetUserName": "DevHawk",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "The original Neo Legacy C# compiler translated .NET IL to Neo VM byte code. For Neo N3, @neoerikzhang wrote a new compiler that works directly against C# source using Roslyn.\n\nThis turned out to be serendipitous for my Storage Schema efforts. (11/20)",
+                                                                                                                    "rawText": "The original Neo Legacy C# compiler translated .NET IL to Neo VM byte code. For Neo N3, @neoerikzhang wrote a new compiler that works directly against C# source using Roslyn.\n\nThis turned out to be serendipitous for my Storage Schema efforts. (11/20)",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Mon, 14 Mar 2022 22:59:07 GMT",
+                                                                                                                    "tweetId": "1503506036346724352",
+                                                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506036346724352",
+                                                                                                                    "inReplyToId": "1503506034429636608",
+                                                                                                                    "tweetUserName": "DevHawk",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "The type model used to describe *storage* types could also describe *runtime* types as well! With the Roslyn based compiler, all the rich C# semantic information was readily available.\n\nUpdating the compiler to emit runtime type information was pretty straightforward. (12/20)",
+                                                                                                                            "rawText": "The type model used to describe *storage* types could also describe *runtime* types as well! With the Roslyn based compiler, all the rich C# semantic information was readily available.\n\nUpdating the compiler to emit runtime type information was pretty straightforward. (12/20)",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Mon, 14 Mar 2022 22:59:07 GMT",
+                                                                                                                            "tweetId": "1503506038019919873",
+                                                                                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506038019919873",
+                                                                                                                            "inReplyToId": "1503506036346724352",
+                                                                                                                            "tweetUserName": "DevHawk",
+                                                                                                                            "subs": [
+                                                                                                                                {
+                                                                                                                                    "text": "Automatically generating storage type info was *harder* than runtime type info! \n\nStorage schema of a C# Neo contract is done with imperative code. I didn't try to reverse engineer storage schema from C# source. I added custom attributes to capture storage schema instead. (13/20)",
+                                                                                                                                    "rawText": "Automatically generating storage type info was *harder* than runtime type info! \n\nStorage schema of a C# Neo contract is done with imperative code. I didn't try to reverse engineer storage schema from C# source. I added custom attributes to capture storage schema instead. (13/20)",
+                                                                                                                                    "type": "tweet",
+                                                                                                                                    "created": "Mon, 14 Mar 2022 22:59:08 GMT",
+                                                                                                                                    "tweetId": "1503506039706058753",
+                                                                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506039706058753",
+                                                                                                                                    "inReplyToId": "1503506038019919873",
+                                                                                                                                    "tweetUserName": "DevHawk",
+                                                                                                                                    "subs": [
+                                                                                                                                        {
+                                                                                                                                            "text": "Here's what the new Storage Schema attributes look like in action: (14/20) <a href=\"https://t.co/U6KsT3Edm4\">[link]</a>",
+                                                                                                                                            "rawText": "Here's what the new Storage Schema attributes look like in action: (14/20) https://t.co/U6KsT3Edm4",
+                                                                                                                                            "type": "tweet",
+                                                                                                                                            "created": "Mon, 14 Mar 2022 22:59:09 GMT",
+                                                                                                                                            "tweetId": "1503506043531567104",
+                                                                                                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506043531567104",
+                                                                                                                                            "inReplyToId": "1503506039706058753",
+                                                                                                                                            "tweetUserName": "DevHawk",
+                                                                                                                                            "subs": [
+                                                                                                                                                {
+                                                                                                                                                    "text": "This attribute-based approach is very much a first draft. It's simple and it works, but I'm not convinced it's the best approach. We are shipping this update as a preview so we can iterate and get feedback on the design. (15/20)",
+                                                                                                                                                    "rawText": "This attribute-based approach is very much a first draft. It's simple and it works, but I'm not convinced it's the best approach. We are shipping this update as a preview so we can iterate and get feedback on the design. (15/20)",
+                                                                                                                                                    "type": "tweet",
+                                                                                                                                                    "created": "Mon, 14 Mar 2022 22:59:09 GMT",
+                                                                                                                                                    "tweetId": "1503506045628346371",
+                                                                                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506045628346371",
+                                                                                                                                                    "inReplyToId": "1503506043531567104",
+                                                                                                                                                    "tweetUserName": "DevHawk",
+                                                                                                                                                    "subs": [
+                                                                                                                                                        {
+                                                                                                                                                            "text": "There is also a sample contract where you can see the new experience in action. Install preview debugger, clone, build and run...err, debug.\n\nThis link will get you started: <a href=\"https://t.co/2ygtod7Lv2\">[link]</a> (16/20)",
+                                                                                                                                                            "rawText": "There is also a sample contract where you can see the new experience in action. Install preview debugger, clone, build and run...err, debug.\n\nThis link will get you started: https://t.co/2ygtod7Lv2 (16/20)",
+                                                                                                                                                            "type": "tweet",
+                                                                                                                                                            "created": "Mon, 14 Mar 2022 22:59:10 GMT",
+                                                                                                                                                            "tweetId": "1503506047327084546",
+                                                                                                                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506047327084546",
+                                                                                                                                                            "inReplyToId": "1503506045628346371",
+                                                                                                                                                            "tweetUserName": "DevHawk",
+                                                                                                                                                            "subs": [
+                                                                                                                                                                {
+                                                                                                                                                                    "text": "Here's a screen shot of the same contract's variables window from earlier in the thread, but now using the Neo Debugger Preview.\n\nI like to think this is a dramatic improvement over looking at raw byte streams! (17/20) <a href=\"https://t.co/HXbe57nZiQ\">[link]</a>",
+                                                                                                                                                                    "rawText": "Here's a screen shot of the same contract's variables window from earlier in the thread, but now using the Neo Debugger Preview.\n\nI like to think this is a dramatic improvement over looking at raw byte streams! (17/20) https://t.co/HXbe57nZiQ",
+                                                                                                                                                                    "type": "tweet",
+                                                                                                                                                                    "created": "Mon, 14 Mar 2022 22:59:11 GMT",
+                                                                                                                                                                    "tweetId": "1503506051668140032",
+                                                                                                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506051668140032",
+                                                                                                                                                                    "inReplyToId": "1503506047327084546",
+                                                                                                                                                                    "tweetUserName": "DevHawk",
+                                                                                                                                                                    "subs": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "text": "If you're a @Neo_Blockchain developer using C#, please give the new debugger preview a test drive.\n\nFeedback is always appreciated, but it's especially valuable for preview releases like this.\n\nI'm easy to find on the official Neo Discord: <a href=\"https://t.co/SYrmRzIa17\">[link]</a> (18/20)",
+                                                                                                                                                                            "rawText": "If you're a @Neo_Blockchain developer using C#, please give the new debugger preview a test drive.\n\nFeedback is always appreciated, but it's especially valuable for preview releases like this.\n\nI'm easy to find on the official Neo Discord: https://t.co/SYrmRzIa17 (18/20)",
+                                                                                                                                                                            "type": "tweet",
+                                                                                                                                                                            "created": "Mon, 14 Mar 2022 22:59:11 GMT",
+                                                                                                                                                                            "tweetId": "1503506054000173056",
+                                                                                                                                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506054000173056",
+                                                                                                                                                                            "inReplyToId": "1503506051668140032",
+                                                                                                                                                                            "tweetUserName": "DevHawk",
+                                                                                                                                                                            "subs": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "text": "And I haven't forgotten about non-C# @Neo_Blockchain developers. Now that the preview is out, I'm reaching out to other compiler teams. I'm happy to help them update their tools to emit to the updated debugger info that drives this improved Storage Schema experience.  (19/20)",
+                                                                                                                                                                                    "rawText": "And I haven't forgotten about non-C# @Neo_Blockchain developers. Now that the preview is out, I'm reaching out to other compiler teams. I'm happy to help them update their tools to emit to the updated debugger info that drives this improved Storage Schema experience.  (19/20)",
+                                                                                                                                                                                    "type": "tweet",
+                                                                                                                                                                                    "created": "Mon, 14 Mar 2022 22:59:12 GMT",
+                                                                                                                                                                                    "tweetId": "1503506055929602049",
+                                                                                                                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1503506055929602049",
+                                                                                                                                                                                    "inReplyToId": "1503506054000173056",
+                                                                                                                                                                                    "tweetUserName": "DevHawk",
+                                                                                                                                                                                    "subs": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "text": "Now's a great time to get started as a @Neo_Blockchain developer. The Polaris Launchpad Hackathon just started last week. More details here: <a href=\"https://t.co/nsdj4fXH09\">[link]</a> \n\nAnyway, thanks for reading this far. Let me know what you think of the new preview. \n\n(END TRANSMISSION)",
+                                                                                                                                                                                            "rawText": "Now's a great time to get started as a @Neo_Blockchain developer. The Polaris Launchpad Hackathon just started last week. More details here: https://t.co/nsdj4fXH09 \n\nAnyway, thanks for reading this far. Let me know what you think of the new preview. \n\n(END TRANSMISSION)",
+                                                                                                                                                                                            "type": "tweet",
+                                                                                                                                                                                            "created": "Mon, 14 Mar 2022 22:59:12 GMT",
+                                                                                                                                                                                            "tweetId": "1503506057640898562",
+                                                                                                                                                                                            "urltweet": "https://twitter.com/DevHawk/status/1503506057640898562",
+                                                                                                                                                                                            "inReplyToId": "1503506055929602049",
+                                                                                                                                                                                            "tweetUserName": "DevHawk"
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "March 12",
                             "type": "calendarDay",
