@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Mon, 14 Mar 2022 23:07:30 GMT</dateModified>
+		<dateModified>Mon, 14 Mar 2022 23:19:00 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="March 2022" type="calendarMonth" name="march2022" >
@@ -15,7 +15,7 @@
 
 Let me tell you why running the preview is TOTALLY worth it. (1/20)" rawText="We just shipped a major update to the #NeoBlockchainToolkit Smart Contract Debugger today. It's not completely baked yet, so we are shipping it as a preview.
 
-Let me tell you why running the preview is TOTALLY worth it. (1/20)" type="tweet" created="Mon, 14 Mar 2022 22:59:02 GMT" tweetId="1503506015337164803" urltweet="https://twitter.com/DevHawk/status/1503506015337164803" inReplyToId="" tweetUserName="DevHawk" >
+Let me tell you why running the preview is TOTALLY worth it. (1/20)" type="tweet" created="Mon, 14 Mar 2022 22:59:02 GMT" tweetId="1503506015337164803" urltweet="https://twitter.com/DevHawk/status/1503506015337164803" tweetUserName="DevHawk" >
 					<outline text="A few weeks ago, I started working on improving the developer experience for contract storage in the debugger. Every Neo contract has its own &quot;private&quot; key/value store where it can persist data it needs to do its job. Fungible token balances, NFT details, stuff like that. (2/20)" rawText="A few weeks ago, I started working on improving the developer experience for contract storage in the debugger. Every Neo contract has its own &quot;private&quot; key/value store where it can persist data it needs to do its job. Fungible token balances, NFT details, stuff like that. (2/20)" type="tweet" created="Mon, 14 Mar 2022 22:59:02 GMT" tweetId="1503506017140629511" urltweet="https://twitter.com/DevHawk/status/1503506017140629511" inReplyToId="1503506015337164803" tweetUserName="DevHawk" >
 						<outline text="Note, &quot;private&quot; in quotes because no data on the blockchain is private. A core point of blockchain is to publish a publicly visible cryptographically authenticated record. But contract data is only visible from outside and only the contract can modify its key/value store. (3/20)" rawText="Note, &quot;private&quot; in quotes because no data on the blockchain is private. A core point of blockchain is to publish a publicly visible cryptographically authenticated record. But contract data is only visible from outside and only the contract can modify its key/value store. (3/20)" type="tweet" created="Mon, 14 Mar 2022 22:59:03 GMT" tweetId="1503506018881265670" urltweet="https://twitter.com/DevHawk/status/1503506018881265670" inReplyToId="1503506017140629511" tweetUserName="DevHawk" >
 							<outline text="Anyway, key/value data stores are simple and flexible, but they are a pain to inspect. The key and value are just streams of bytes. And that's how the Neo Contract Debugger has traditionally displayed contract storage. An accurate view, but not a useful or productive view. (4/20) &lt;a href=&quot;https://t.co/KRqGnHkrRA&quot;&gt;[link]&lt;/a&gt;" rawText="Anyway, key/value data stores are simple and flexible, but they are a pain to inspect. The key and value are just streams of bytes. And that's how the Neo Contract Debugger has traditionally displayed contract storage. An accurate view, but not a useful or productive view. (4/20) https://t.co/KRqGnHkrRA" type="tweet" created="Mon, 14 Mar 2022 22:59:04 GMT" tweetId="1503506023532822532" urltweet="https://twitter.com/DevHawk/status/1503506023532822532" inReplyToId="1503506018881265670" tweetUserName="DevHawk" >
@@ -74,7 +74,9 @@ Anyway, thanks for reading this far. Let me know what you think of the new previ
 
 Anyway, thanks for reading this far. Let me know what you think of the new preview. 
 
-(END TRANSMISSION)" type="tweet" created="Mon, 14 Mar 2022 22:59:12 GMT" tweetId="1503506057640898562" urltweet="https://twitter.com/DevHawk/status/1503506057640898562" inReplyToId="1503506055929602049" tweetUserName="DevHawk" />
+(END TRANSMISSION)" type="tweet" created="Mon, 14 Mar 2022 22:59:12 GMT" tweetId="1503506057640898562" urltweet="https://twitter.com/DevHawk/status/1503506057640898562" inReplyToId="1503506055929602049" tweetUserName="DevHawk" >
+																								<outline text="P.S. @code makes it really easy to switch back and forth between production and pre-release extensions. So even if you're worried about running preview debugger full time, it's easy enough to switch back. More details in the VSCode 1.63 release notes: &lt;a href=&quot;https://t.co/hIjhPucWer&quot;&gt;[link]&lt;/a&gt;" rawText="P.S. @code makes it really easy to switch back and forth between production and pre-release extensions. So even if you're worried about running preview debugger full time, it's easy enough to switch back. More details in the VSCode 1.63 release notes: https://t.co/hIjhPucWer" type="tweet" created="Mon, 14 Mar 2022 23:09:23 GMT" tweetId="1503508620083818500" urltweet="https://twitter.com/DevHawk/status/1503508620083818500" inReplyToId="1503506057640898562" tweetUserName="DevHawk" />
+																								</outline>
 																							</outline>
 																						</outline>
 																					</outline>
