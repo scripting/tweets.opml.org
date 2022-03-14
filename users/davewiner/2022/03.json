@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 02:55:13 GMT"
+            "dateModified": "Mon, 14 Mar 2022 09:03:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,43 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "The problem with Putin and any “great” person is that as their fame grows they remain a normal-size human. Eventually they revert to normal size in perception too. There are no exceptions.",
+                                    "rawText": "The problem with Putin and any “great” person is that as their fame grows they remain a normal-size human. Eventually they revert to normal size in perception too. There are no exceptions.",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Mar 2022 08:59:53 GMT",
+                                    "tweetId": "1503294837612855296",
+                                    "urltweet": "https://twitter.com/davewiner/status/1503294837612855296",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Sorry the correct emails didn’t go out from my blog last night. This appears to happen once a year when daylight saving time happens. There is a record of it in the archive of my blog. I must’ve documented the problem. Just one pretty tired person over here.",
+                                            "rawText": "Sorry the correct emails didn’t go out from my blog last night. This appears to happen once a year when daylight saving time happens. There is a record of it in the archive of my blog. I must’ve documented the problem. Just one pretty tired person over here.",
+                                            "type": "tweet",
+                                            "created": "Mon, 14 Mar 2022 09:03:28 GMT",
+                                            "tweetId": "1503295737941082116",
+                                            "urltweet": "https://twitter.com/davewiner/status/1503295737941082116",
+                                            "inReplyToId": "1503294837612855296",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "China struggles to rein in biggest virus outbreak since Wuhan. <a href=\"https://t.co/l3dyb9r37U\">[link]</a>",
+                                    "rawText": "China struggles to rein in biggest virus outbreak since Wuhan. https://t.co/l3dyb9r37U",
+                                    "type": "tweet",
+                                    "created": "Mon, 14 Mar 2022 08:55:33 GMT",
+                                    "tweetId": "1503293744296173570",
+                                    "urltweet": "https://twitter.com/davewiner/status/1503293744296173570",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 13",
                             "type": "calendarDay",
