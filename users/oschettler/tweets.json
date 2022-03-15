@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oschettler/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 11 Mar 2022 20:58:15 GMT"
+            "dateModified": "Tue, 15 Mar 2022 20:08:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Frame-based code editing in <a href=\"https://t.co/lDChxEW3TZ\">[link]</a> strongly reminds me of editing code in an outliner, especially the horizontal insertion cursor. Oddly, the word \"outline\" does not occur in the text @davewiner",
+                                    "rawText": "Frame-based code editing in https://t.co/lDChxEW3TZ strongly reminds me of editing code in an outliner, especially the horizontal insertion cursor. Oddly, the word \"outline\" does not occur in the text @davewiner",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Mar 2022 20:04:24 GMT",
+                                    "tweetId": "1503824455910535184",
+                                    "urltweet": "https://twitter.com/oschettler/status/1503824455910535184",
+                                    "tweetUserName": "oschettler"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 11",
                             "type": "calendarDay",
