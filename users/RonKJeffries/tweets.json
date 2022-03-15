@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 19:12:30 GMT"
+            "dateModified": "Tue, 15 Mar 2022 05:11:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Thanks for the pointer to what promises to be a crazy movie @f_fz <a href=\"https://t.co/pEOZaCQUwf\">[link]</a>",
+                                    "rawText": "Thanks for the pointer to what promises to be a crazy movie @f_fz https://t.co/pEOZaCQUwf",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Mar 2022 05:00:58 GMT",
+                                    "tweetId": "1503597098511396864",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1503597098511396864",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 14",
                             "type": "calendarDay",
