@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 16:40:51 GMT"
+            "dateModified": "Tue, 15 Mar 2022 11:29:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Auf, kakav zločin protiv urbanizma. Nešto ozbiljno nije u redu ako u Beogradu nema dovoljno kafića pa moraju da se ruše pijace.\nA pijace neće odvući kupce od supermarketa suvenirima već kvalitetnijim proizvodima i boljom uslugom.\nAli zna se već pravi razlog za ovakve egzibicije… <a href=\"https://t.co/N2r6hgpOYr\">[link]</a>",
+                                    "rawText": "Auf, kakav zločin protiv urbanizma. Nešto ozbiljno nije u redu ako u Beogradu nema dovoljno kafića pa moraju da se ruše pijace.\nA pijace neće odvući kupce od supermarketa suvenirima već kvalitetnijim proizvodima i boljom uslugom.\nAli zna se već pravi razlog za ovakve egzibicije… https://t.co/N2r6hgpOYr",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Mar 2022 11:22:38 GMT",
+                                    "tweetId": "1503693146470993924",
+                                    "urltweet": "https://twitter.com/miljko/status/1503693146470993924",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 14",
                             "type": "calendarDay",
