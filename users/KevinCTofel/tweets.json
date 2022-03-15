@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Mar 2022 01:31:09 GMT"
+            "dateModified": "Tue, 15 Mar 2022 07:39:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Wordle 269 4/6\n\n⬛🟨⬛⬛🟨\n🟨🟨🟨🟨⬛\n🟩🟨⬛🟨🟨\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 269 4/6\n\n⬛🟨⬛⬛🟨\n🟨🟨🟨🟨⬛\n🟩🟨⬛🟨🟨\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Mar 2022 07:31:17 GMT",
+                                    "tweetId": "1503634925723045893",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1503634925723045893",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 14",
                             "type": "calendarDay",
