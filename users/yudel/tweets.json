@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 15 Mar 2022 13:41:10 GMT"
+            "dateModified": "Tue, 15 Mar 2022 13:52:41 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@AkivaMCohen Now do geometry, which is of course a cognate.",
+                                    "rawText": "@AkivaMCohen Now do geometry, which is of course a cognate.",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Mar 2022 13:43:09 GMT",
+                                    "tweetId": "1503728511391088643",
+                                    "urltweet": "https://twitter.com/yudel/status/1503728511391088643",
+                                    "inReplyToId": "1503725690633474048",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@AkivaMCohen At which point we're qualified to solve the \"gif\" dilemma.",
+                                            "rawText": "@AkivaMCohen At which point we're qualified to solve the \"gif\" dilemma.",
+                                            "type": "tweet",
+                                            "created": "Tue, 15 Mar 2022 13:43:25 GMT",
+                                            "tweetId": "1503728576859983880",
+                                            "urltweet": "https://twitter.com/yudel/status/1503728576859983880",
+                                            "inReplyToId": "1503728511391088643",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "To paraphrase a Joan Didion interviewee: If Holocaust museums are going to fete George W. Bush and ignore his illegal torture regime, what's even the point of having had a Holocaust?\n\n<a href=\"https://t.co/7yqVsjH6w6\">[link]</a>",
                                     "rawText": "To paraphrase a Joan Didion interviewee: If Holocaust museums are going to fete George W. Bush and ignore his illegal torture regime, what's even the point of having had a Holocaust?\n\nhttps://t.co/7yqVsjH6w6",
