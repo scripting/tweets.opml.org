@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 23:19:00 GMT"
+            "dateModified": "Tue, 15 Mar 2022 21:34:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "For @Neo_Blockchain developers wanting to try out the new Storage Schema preview, I've posted more detailed getting started instructions <a href=\"https://t.co/VTZWtD6Wz2\">[link]</a>",
+                                    "rawText": "For @Neo_Blockchain developers wanting to try out the new Storage Schema preview, I've posted more detailed getting started instructions https://t.co/VTZWtD6Wz2",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Mar 2022 21:33:18 GMT",
+                                    "tweetId": "1503846827547799552",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1503846827547799552",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 14",
                             "type": "calendarDay",
