@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 23:24:16 GMT"
+            "dateModified": "Tue, 15 Mar 2022 16:17:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@McFunkypants I send postcards tho",
+                                    "rawText": "@McFunkypants I send postcards tho",
+                                    "type": "tweet",
+                                    "created": "Tue, 15 Mar 2022 16:09:54 GMT",
+                                    "tweetId": "1503765439607939076",
+                                    "urltweet": "https://twitter.com/chiguire/status/1503765439607939076",
+                                    "inReplyToId": "1503755880952705029",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 14",
                             "type": "calendarDay",
