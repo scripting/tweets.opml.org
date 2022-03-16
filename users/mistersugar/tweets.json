@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "mistersugar tweets",
+            "dateCreated": "Tue, 14 Dec 2021 23:27:04 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/mistersugar/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 16 Mar 2022 14:35:46 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "My Drummer blog at <a href=\"https://t.co/ssYUkEKyM9\">[link]</a> has been quiet and slow, though it's always a joy to use. And I wanted to let @davewiner know that I use Electric Drummer every day to outline my day's tasks, meeting notes, and more.",
+                                    "rawText": "My Drummer blog at https://t.co/ssYUkEKyM9 has been quiet and slow, though it's always a joy to use. And I wanted to let @davewiner know that I use Electric Drummer every day to outline my day's tasks, meeting notes, and more.",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Mar 2022 14:27:51 GMT",
+                                    "tweetId": "1504102148728143880",
+                                    "urltweet": "https://twitter.com/mistersugar/status/1504102148728143880",
+                                    "tweetUserName": "mistersugar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
