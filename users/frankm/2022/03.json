@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 14 Mar 2022 13:43:09 GMT"
+            "dateModified": "Wed, 16 Mar 2022 23:51:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Today is the first day of this year that I was able to be outside in just a sweatshirt. <a href=\"https://t.co/ET3UZSlpiX\">[link]</a>",
+                                    "rawText": "Today is the first day of this year that I was able to be outside in just a sweatshirt. https://t.co/ET3UZSlpiX",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Mar 2022 23:44:30 GMT",
+                                    "tweetId": "1504242234346065924",
+                                    "urltweet": "https://twitter.com/frankm/status/1504242234346065924",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 14",
                             "type": "calendarDay",
