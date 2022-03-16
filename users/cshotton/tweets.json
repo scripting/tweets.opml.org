@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 13 Mar 2022 17:26:52 GMT"
+            "dateModified": "Wed, 16 Mar 2022 17:12:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@Dan79901561 @spook_info @AmericanPartis1 Maybe it's more likely to be something about a former president stealing and/or destroying classified documents. Remember when that happened?",
+                                    "rawText": "@Dan79901561 @spook_info @AmericanPartis1 Maybe it's more likely to be something about a former president stealing and/or destroying classified documents. Remember when that happened?",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Mar 2022 17:05:39 GMT",
+                                    "tweetId": "1504141857516838914",
+                                    "urltweet": "https://twitter.com/cshotton/status/1504141857516838914",
+                                    "inReplyToId": "1504141081637756928",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 13",
                             "type": "calendarDay",
