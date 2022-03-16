@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Mar 2022 17:33:28 GMT"
+            "dateModified": "Wed, 16 Mar 2022 21:12:12 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "@blogTO That sinkhole is bigger than a lot of downtown Toronto condos, am I right?",
+                                    "rawText": "@blogTO That sinkhole is bigger than a lot of downtown Toronto condos, am I right?",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Mar 2022 21:11:21 GMT",
+                                    "tweetId": "1504203691766784001",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1504203691766784001",
+                                    "inReplyToId": "1504195426848849923",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "<a href=\"https://t.co/Qfv4hswHUe\">[link]</a> https://t.co/c6ldA8t2n4",
                                     "rawText": "https://t.co/Qfv4hswHUe https://t.co/c6ldA8t2n4",
@@ -179,7 +189,19 @@
                                     "created": "Tue, 15 Mar 2022 14:03:18 GMT",
                                     "tweetId": "1503733579855106050",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1503733579855106050",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "We’ll miss the sinkhole when it’s gone. <a href=\"https://t.co/mCnAnoHpfK\">[link]</a>",
+                                            "rawText": "We’ll miss the sinkhole when it’s gone. https://t.co/mCnAnoHpfK",
+                                            "type": "tweet",
+                                            "created": "Wed, 16 Mar 2022 21:04:32 GMT",
+                                            "tweetId": "1504201976518692870",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1504201976518692870",
+                                            "inReplyToId": "1503733579855106050",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
