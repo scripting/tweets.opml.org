@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Mar 2022 16:16:23 GMT"
+            "dateModified": "Wed, 16 Mar 2022 21:04:11 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "Este comic de Christine Mari <a href=\"https://t.co/GrOsudYVeK\">[link]</a>",
+                                    "rawText": "Este comic de Christine Mari https://t.co/GrOsudYVeK",
+                                    "type": "tweet",
+                                    "created": "Wed, 16 Mar 2022 21:03:29 GMT",
+                                    "tweetId": "1504201713493884935",
+                                    "urltweet": "https://twitter.com/chiguire/status/1504201713493884935",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@andresitorresm Es casa",
                                     "rawText": "@andresitorresm Es casa",
