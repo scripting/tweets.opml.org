@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Mar 2022 20:57:41 GMT"
+            "dateModified": "Thu, 17 Mar 2022 15:57:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/O3fHCUyMJJ\">[link]</a>",
+                                    "rawText": "https://t.co/O3fHCUyMJJ",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Mar 2022 15:56:20 GMT",
+                                    "tweetId": "1504486801574006786",
+                                    "urltweet": "https://twitter.com/yudel/status/1504486801574006786",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "Gonna be a sad day for Teaneck when none of us are represented by this congressman. (His district is currently two blocks from my apartment; redistricting will change that for the November election.) <a href=\"https://t.co/23Z7rzhFjL\">[link]</a>",
+                                    "rawText": "Gonna be a sad day for Teaneck when none of us are represented by this congressman. (His district is currently two blocks from my apartment; redistricting will change that for the November election.) https://t.co/23Z7rzhFjL",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Mar 2022 15:53:33 GMT",
+                                    "tweetId": "1504486103390167041",
+                                    "urltweet": "https://twitter.com/yudel/status/1504486103390167041",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 16",
                             "type": "calendarDay",
