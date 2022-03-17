@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Mar 2022 08:38:41 GMT"
+            "dateModified": "Thu, 17 Mar 2022 08:50:11 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1504375721283756032",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1504375721283756032",
                                     "inReplyToId": "1504087391807676421",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "@NuwOne “Dass es zu Problemen bei der Belieferung kommt, liegt in erster Linie am Logistikpartner HAVI. ‘Wir haben aktuell operative Herausforderungen, durch die es zu Beeinträchtigungen bei der Belieferung unserer Kunden kommt…’”",
+                                            "rawText": "@NuwOne “Dass es zu Problemen bei der Belieferung kommt, liegt in erster Linie am Logistikpartner HAVI. ‘Wir haben aktuell operative Herausforderungen, durch die es zu Beeinträchtigungen bei der Belieferung unserer Kunden kommt…’”",
+                                            "type": "tweet",
+                                            "created": "Thu, 17 Mar 2022 08:41:03 GMT",
+                                            "tweetId": "1504377258655506432",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1504377258655506432",
+                                            "inReplyToId": "1504375721283756032",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 }
                             ]
                         },
