@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Mar 2022 21:37:43 GMT"
+            "dateModified": "Thu, 17 Mar 2022 04:43:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Using this as the wallpaper for my current Arch Linux desktop <a href=\"https://t.co/uFqEPiriTQ\">[link]</a> from Unsplash",
+                                    "rawText": "Using this as the wallpaper for my current Arch Linux desktop https://t.co/uFqEPiriTQ from Unsplash",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Mar 2022 04:34:38 GMT",
+                                    "tweetId": "1504315246562918400",
+                                    "urltweet": "https://twitter.com/oevl/status/1504315246562918400",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 16",
                             "type": "calendarDay",
