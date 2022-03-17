@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Mar 2022 23:33:51 GMT"
+            "dateModified": "Thu, 17 Mar 2022 07:48:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@Naky Espero que hayas pasado un feliz cumpleaños 🥰",
+                                    "rawText": "@Naky Espero que hayas pasado un feliz cumpleaños 🥰",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Mar 2022 07:45:20 GMT",
+                                    "tweetId": "1504363238481436675",
+                                    "urltweet": "https://twitter.com/chiguire/status/1504363238481436675",
+                                    "inReplyToId": "1504080290335109121",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 16",
                             "type": "calendarDay",
