@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Mar 2022 17:29:30 GMT"
+            "dateModified": "Thu, 17 Mar 2022 19:01:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/mxP5rf3wOM\">[link]</a>",
+                                    "rawText": "https://t.co/mxP5rf3wOM",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Mar 2022 18:59:47 GMT",
+                                    "tweetId": "1504532968085274628",
+                                    "urltweet": "https://twitter.com/yudel/status/1504532968085274628",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@typolad @fundotcom_ Do they at least recognize your sidekick’s Flameboy costume?",
                                     "rawText": "@typolad @fundotcom_ Do they at least recognize your sidekick’s Flameboy costume?",
