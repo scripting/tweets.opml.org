@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Mar 2022 13:29:57 GMT"
+            "dateModified": "Thu, 17 Mar 2022 18:05:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Minor update to @Neo_Blockchain Smart Contract Debugger preview published. Watch Window expression evaluation now leverages type information. Now can watch specific struct fields or specific list/map items. Compound expressions also supported, as shown in this screenshot <a href=\"https://t.co/Gg1Ou6eIYp\">[link]</a>",
+                                    "rawText": "Minor update to @Neo_Blockchain Smart Contract Debugger preview published. Watch Window expression evaluation now leverages type information. Now can watch specific struct fields or specific list/map items. Compound expressions also supported, as shown in this screenshot https://t.co/Gg1Ou6eIYp",
+                                    "type": "tweet",
+                                    "created": "Thu, 17 Mar 2022 18:00:50 GMT",
+                                    "tweetId": "1504518135184977922",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1504518135184977922",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 16",
                             "type": "calendarDay",
