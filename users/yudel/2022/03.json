@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Mar 2022 21:41:49 GMT"
+            "dateModified": "Fri, 18 Mar 2022 21:53:20 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,31 @@
                                     "tweetId": "1504935950606118918",
                                     "urltweet": "https://twitter.com/yudel/status/1504935950606118918",
                                     "inReplyToId": "1504932955377979394",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@davidsirota That’s why AOC is a bigger threat to the Times than is Cotton or Hawley.",
+                                            "rawText": "@davidsirota That’s why AOC is a bigger threat to the Times than is Cotton or Hawley.",
+                                            "type": "tweet",
+                                            "created": "Fri, 18 Mar 2022 21:42:14 GMT",
+                                            "tweetId": "1504936240222773254",
+                                            "urltweet": "https://twitter.com/yudel/status/1504936240222773254",
+                                            "inReplyToId": "1504935950606118918",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@davidsirota Conversely, that’s why I subscribe to the @DailyPoster and not the Times.",
+                                                    "rawText": "@davidsirota Conversely, that’s why I subscribe to the @DailyPoster and not the Times.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 18 Mar 2022 21:44:05 GMT",
+                                                    "tweetId": "1504936706943893507",
+                                                    "urltweet": "https://twitter.com/yudel/status/1504936706943893507",
+                                                    "inReplyToId": "1504936240222773254",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I’d love to see a comparative reading of this, contemporary haredi miracle working, and the situation in American Pentecostal Christianity. <a href=\"https://t.co/desAXNasST\">[link]</a>",
