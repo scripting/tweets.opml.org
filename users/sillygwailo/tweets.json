@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Mar 2022 04:05:41 GMT"
+            "dateModified": "Fri, 18 Mar 2022 04:28:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@Planta The Congressional Auditorium, part of the underground U.S. Capitol Visitor Center. <a href=\"https://t.co/x6R4os3J5a\">[link]</a>",
+                                    "rawText": "@Planta The Congressional Auditorium, part of the underground U.S. Capitol Visitor Center. https://t.co/x6R4os3J5a",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Mar 2022 04:23:46 GMT",
+                                    "tweetId": "1504674900853805062",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1504674900853805062",
+                                    "inReplyToId": "1504287618539741185",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 17",
                             "type": "calendarDay",
