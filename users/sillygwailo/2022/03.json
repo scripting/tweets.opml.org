@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Mar 2022 04:28:42 GMT"
+            "dateModified": "Fri, 18 Mar 2022 04:40:13 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "Oh hey, Howard Schultz is back as CEO of Starbucks. <a href=\"https://t.co/7YT8s8jhh0\">[link]</a>",
+                                    "rawText": "Oh hey, Howard Schultz is back as CEO of Starbucks. https://t.co/7YT8s8jhh0",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Mar 2022 04:29:27 GMT",
+                                    "tweetId": "1504676332743053340",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1504676332743053340",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I’ve been following news of him ever since I uploaded a photo I took of him in Vancouver to Wikipedia. <a href=\"https://t.co/BiTJYyYIkr\">[link]</a>",
+                                            "rawText": "I’ve been following news of him ever since I uploaded a photo I took of him in Vancouver to Wikipedia. https://t.co/BiTJYyYIkr",
+                                            "type": "tweet",
+                                            "created": "Fri, 18 Mar 2022 04:29:28 GMT",
+                                            "tweetId": "1504676334060064811",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1504676334060064811",
+                                            "inReplyToId": "1504676332743053340",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@Planta The Congressional Auditorium, part of the underground U.S. Capitol Visitor Center. <a href=\"https://t.co/x6R4os3J5a\">[link]</a>",
                                     "rawText": "@Planta The Congressional Auditorium, part of the underground U.S. Capitol Visitor Center. https://t.co/x6R4os3J5a",
