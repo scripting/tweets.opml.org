@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Mar 2022 04:48:44 GMT"
+            "dateModified": "Fri, 18 Mar 2022 05:00:14 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,15 @@
                             "name": "18",
                             "subs": [
                                 {
+                                    "text": "Career advice: Unix knowledge often pays financial dividends. <a href=\"https://t.co/FmjmfTAeJK\">[link]</a>",
+                                    "rawText": "Career advice: Unix knowledge often pays financial dividends. https://t.co/FmjmfTAeJK",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Mar 2022 04:54:53 GMT",
+                                    "tweetId": "1504682733485932567",
+                                    "urltweet": "https://twitter.com/yudel/status/1504682733485932567",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
                                     "text": "@michaelkivi @stevesilberman @Saldasoro I wonder if this influence Dylan’s decision to sail the Carribean a couple years later, where he wrote much of what became Infidels as detailed in Surviving in a Ruthless World. <a href=\"https://t.co/LmPgAuhWVH\">[link]</a>",
                                     "rawText": "@michaelkivi @stevesilberman @Saldasoro I wonder if this influence Dylan’s decision to sail the Carribean a couple years later, where he wrote much of what became Infidels as detailed in Surviving in a Ruthless World. https://t.co/LmPgAuhWVH",
                                     "type": "tweet",
@@ -28,7 +37,19 @@
                                     "tweetId": "1504680888281534464",
                                     "urltweet": "https://twitter.com/yudel/status/1504680888281534464",
                                     "inReplyToId": "1504678991390724104",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@michaelkivi @stevesilberman @Saldasoro Also gives a whole new meaning to “Yacht Rock.”",
+                                            "rawText": "@michaelkivi @stevesilberman @Saldasoro Also gives a whole new meaning to “Yacht Rock.”",
+                                            "type": "tweet",
+                                            "created": "Fri, 18 Mar 2022 04:55:39 GMT",
+                                            "tweetId": "1504682923164942355",
+                                            "urltweet": "https://twitter.com/yudel/status/1504682923164942355",
+                                            "inReplyToId": "1504680888281534464",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@MisfitTorah No, that’s the Church of Tammuz.",
