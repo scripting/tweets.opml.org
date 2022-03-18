@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Mar 2022 15:24:55 GMT"
+            "dateModified": "Fri, 18 Mar 2022 15:47:56 GMT"
         },
         "body": {
             "subs": [
@@ -329,7 +329,19 @@
                                             "tweetId": "1504201976518692870",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1504201976518692870",
                                             "inReplyToId": "1503733579855106050",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "The sinkhole is getting bigger, and therefore better. <a href=\"https://t.co/Su3OXdydTg\">[link]</a>",
+                                                    "rawText": "The sinkhole is getting bigger, and therefore better. https://t.co/Su3OXdydTg",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 18 Mar 2022 15:37:10 GMT",
+                                                    "tweetId": "1504844369018372107",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1504844369018372107",
+                                                    "inReplyToId": "1504201976518692870",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
