@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Mar 2022 22:23:31 GMT"
+            "dateModified": "Fri, 18 Mar 2022 19:05:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@context @CPGclub",
+                                    "rawText": "@context @CPGclub",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Mar 2022 19:03:15 GMT",
+                                    "tweetId": "1504896230111035396",
+                                    "urltweet": "https://twitter.com/Surfy/status/1504896230111035396",
+                                    "inReplyToId": "1504895283183849472",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 16",
                             "type": "calendarDay",
