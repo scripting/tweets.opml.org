@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Mar 2022 08:50:11 GMT"
+            "dateModified": "Fri, 18 Mar 2022 08:26:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "My safe words are Adieu and Story (and by safe words I mean Wordle starter words)",
+                                    "rawText": "My safe words are Adieu and Story (and by safe words I mean Wordle starter words)",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Mar 2022 08:16:30 GMT",
+                                    "tweetId": "1504733469536051217",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1504733469536051217",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 17",
                             "type": "calendarDay",
