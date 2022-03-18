@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 16 Mar 2022 20:45:25 GMT"
+            "dateModified": "Fri, 18 Mar 2022 17:50:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@merchandise Hup volbeat",
+                                    "rawText": "@merchandise Hup volbeat",
+                                    "type": "tweet",
+                                    "created": "Fri, 18 Mar 2022 17:48:15 GMT",
+                                    "tweetId": "1504877353784295426",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1504877353784295426",
+                                    "inReplyToId": "1504745120570163200",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 16",
                             "type": "calendarDay",
