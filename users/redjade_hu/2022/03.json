@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Mar 2022 22:32:22 GMT"
+            "dateModified": "Sat, 19 Mar 2022 10:49:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@davewiner here's the no paywall copy... <a href=\"https://t.co/dPAdtQNs2s\">[link]</a>",
+                                    "rawText": "@davewiner here's the no paywall copy... https://t.co/dPAdtQNs2s",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Mar 2022 10:43:42 GMT",
+                                    "tweetId": "1505132900584505354",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1505132900584505354",
+                                    "inReplyToId": "1504807644963479562",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 18",
                             "type": "calendarDay",
