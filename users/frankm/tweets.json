@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Mar 2022 00:12:29 GMT"
+            "dateModified": "Sat, 19 Mar 2022 23:37:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "I just earned the 'Photogenic Brew (Level 5)' badge on @untappd! <a href=\"https://t.co/R80skSP5hq\">[link]</a>",
+                                    "rawText": "I just earned the 'Photogenic Brew (Level 5)' badge on @untappd! https://t.co/R80skSP5hq",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Mar 2022 23:36:58 GMT",
+                                    "tweetId": "1505327499319955459",
+                                    "urltweet": "https://twitter.com/frankm/status/1505327499319955459",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 18",
                             "type": "calendarDay",
