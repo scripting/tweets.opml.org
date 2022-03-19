@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Mar 2022 20:26:48 GMT"
+            "dateModified": "Sat, 19 Mar 2022 20:38:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "@FabianRiosArias Buen supermercado",
+                                    "rawText": "@FabianRiosArias Buen supermercado",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Mar 2022 20:30:18 GMT",
+                                    "tweetId": "1505280525522829312",
+                                    "urltweet": "https://twitter.com/chiguire/status/1505280525522829312",
+                                    "inReplyToId": "1505280449505017860",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@lili_pl Bueno, yo sé que el ruibarbo sale en primavera y otoño, de resto nada xD",
+                                    "rawText": "@lili_pl Bueno, yo sé que el ruibarbo sale en primavera y otoño, de resto nada xD",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Mar 2022 20:26:58 GMT",
+                                    "tweetId": "1505279684405301255",
+                                    "urltweet": "https://twitter.com/chiguire/status/1505279684405301255",
+                                    "inReplyToId": "1505279294674677762",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@SaamWho Oh, interesante!",
                                     "rawText": "@SaamWho Oh, interesante!",
@@ -47,7 +67,19 @@
                                     "created": "Sat, 19 Mar 2022 20:15:30 GMT",
                                     "tweetId": "1505276801588903943",
                                     "urltweet": "https://twitter.com/chiguire/status/1505276801588903943",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Este tuit está patrocinado porque alguien observó que hice mermelada con una fruta fuera de temporada, pero que aquí se consigue todo el año",
+                                            "rawText": "Este tuit está patrocinado porque alguien observó que hice mermelada con una fruta fuera de temporada, pero que aquí se consigue todo el año",
+                                            "type": "tweet",
+                                            "created": "Sat, 19 Mar 2022 20:27:52 GMT",
+                                            "tweetId": "1505279910281195521",
+                                            "urltweet": "https://twitter.com/chiguire/status/1505279910281195521",
+                                            "inReplyToId": "1505276801588903943",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Tanto fue el bullying que le hicieron a la portada de este juego que al final simplemente quitaron a las mujeres y ya <a href=\"https://t.co/ivlrF2TOvp\">[link]</a>",
