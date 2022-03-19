@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Mar 2022 23:45:16 GMT"
+            "dateModified": "Sat, 19 Mar 2022 23:56:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "@GLuft3 I was on my way there, but I got ridiculously lucky.",
+                                    "rawText": "@GLuft3 I was on my way there, but I got ridiculously lucky.",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Mar 2022 23:54:21 GMT",
+                                    "tweetId": "1505331876554231823",
+                                    "urltweet": "https://twitter.com/davewiner/status/1505331876554231823",
+                                    "inReplyToId": "1505331729308999688",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "we can have great writing and publishing software for the web, that’s better at archiving and searching, with no lock-in and no business model, and is a joy to use for writers, readers and students.",
+                                    "rawText": "we can have great writing and publishing software for the web, that’s better at archiving and searching, with no lock-in and no business model, and is a joy to use for writers, readers and students.",
+                                    "type": "tweet",
+                                    "created": "Sat, 19 Mar 2022 23:50:52 GMT",
+                                    "tweetId": "1505330998732599309",
+                                    "urltweet": "https://twitter.com/davewiner/status/1505330998732599309",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "The promise of the web is still largely undelivered because Silicon Valley got in the way. I guess they gave us training wheels, but we don’t need them anymore.",
+                                            "rawText": "The promise of the web is still largely undelivered because Silicon Valley got in the way. I guess they gave us training wheels, but we don’t need them anymore.",
+                                            "type": "tweet",
+                                            "created": "Sat, 19 Mar 2022 23:50:52 GMT",
+                                            "tweetId": "1505330999802179588",
+                                            "urltweet": "https://twitter.com/davewiner/status/1505330999802179588",
+                                            "inReplyToId": "1505330998732599309",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Electric bicycle law passed in New Paltz <a href=\"https://t.co/nd5lmHlZaa\">[link]</a>",
                                     "rawText": "Electric bicycle law passed in New Paltz https://t.co/nd5lmHlZaa",
