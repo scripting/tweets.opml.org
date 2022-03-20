@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Mar 2022 01:34:08 GMT"
+            "dateModified": "Sun, 20 Mar 2022 01:57:10 GMT"
         },
         "body": {
             "subs": [
@@ -84,7 +84,19 @@
                                             "tweetId": "1505221582716817408",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1505221582716817408",
                                             "inReplyToId": "1505000392438038529",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Has anybody spent a week or a month living in another part of town just to see what it would be like to move to that part of town? Asking for an Etobicoke.",
+                                                    "rawText": "Has anybody spent a week or a month living in another part of town just to see what it would be like to move to that part of town? Asking for an Etobicoke.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 20 Mar 2022 01:53:02 GMT",
+                                                    "tweetId": "1505361741496078337",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1505361741496078337",
+                                                    "inReplyToId": "1505221582716817408",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
