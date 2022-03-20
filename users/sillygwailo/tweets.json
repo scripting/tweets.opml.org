@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Mar 2022 01:57:10 GMT"
+            "dateModified": "Sun, 20 Mar 2022 02:43:12 GMT"
         },
         "body": {
             "subs": [
@@ -441,7 +441,19 @@
                                                     "tweetId": "1504844369018372107",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1504844369018372107",
                                                     "inReplyToId": "1504201976518692870",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "The sinkhole isn’t a sinkhole anymore. <a href=\"https://t.co/qDlAdrcubZ\">[link]</a>",
+                                                            "rawText": "The sinkhole isn’t a sinkhole anymore. https://t.co/qDlAdrcubZ",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 20 Mar 2022 02:33:25 GMT",
+                                                            "tweetId": "1505371904051490817",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1505371904051490817",
+                                                            "inReplyToId": "1504844369018372107",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
