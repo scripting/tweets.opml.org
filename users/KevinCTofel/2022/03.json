@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Mar 2022 23:54:17 GMT"
+            "dateModified": "Sun, 20 Mar 2022 06:14:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: How to find your Chromebook board name (and why you want to) <a href=\"https://t.co/7lOhw9CufE\">[link]</a> https://t.co/ylGpn6ngW4",
+                                    "rawText": "ICYMI: How to find your Chromebook board name (and why you want to) https://t.co/7lOhw9CufE https://t.co/ylGpn6ngW4",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Mar 2022 06:12:03 GMT",
+                                    "tweetId": "1505426928559431681",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1505426928559431681",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 19",
                             "type": "calendarDay",
