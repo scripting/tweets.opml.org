@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Mar 2022 13:34:09 GMT"
+            "dateModified": "Sun, 20 Mar 2022 13:45:40 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "20",
                             "subs": [
                                 {
+                                    "text": "There is no such thing as web3.",
+                                    "rawText": "There is no such thing as web3.",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Mar 2022 13:41:37 GMT",
+                                    "tweetId": "1505540062720765952",
+                                    "urltweet": "https://twitter.com/davewiner/status/1505540062720765952",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "This is why I think the “domino theory” of Russian aggression is unlikely. Their military is being depleted if not destroyed by the war in Ukraine. The longer it goes on the safer the other former Soviet satellites are. <a href=\"https://t.co/gph2u8OffN\">[link]</a>",
                                     "rawText": "This is why I think the “domino theory” of Russian aggression is unlikely. Their military is being depleted if not destroyed by the war in Ukraine. The longer it goes on the safer the other former Soviet satellites are. https://t.co/gph2u8OffN",
                                     "type": "tweet",
                                     "created": "Sun, 20 Mar 2022 13:33:29 GMT",
                                     "tweetId": "1505538017557159942",
                                     "urltweet": "https://twitter.com/davewiner/status/1505538017557159942",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Caveat: assuming they don’t use nukes.",
+                                            "rawText": "Caveat: assuming they don’t use nukes.",
+                                            "type": "tweet",
+                                            "created": "Sun, 20 Mar 2022 13:35:14 GMT",
+                                            "tweetId": "1505538456981757966",
+                                            "urltweet": "https://twitter.com/davewiner/status/1505538456981757966",
+                                            "inReplyToId": "1505538017557159942",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Wordle 274 4/6\n\n⬜🟩🟩⬜⬜\n⬜🟩🟩⬜🟨\n⬜🟩🟩🟨🟨\n🟩🟩🟩🟩🟩",
