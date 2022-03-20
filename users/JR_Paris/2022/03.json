@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/JR_Paris/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 17 Mar 2022 18:55:50 GMT"
+            "dateModified": "Sun, 20 Mar 2022 04:41:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Thread 🧵 <a href=\"https://t.co/y2LbCEAvC5\">[link]</a>",
+                                    "rawText": "Thread 🧵 https://t.co/y2LbCEAvC5",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Mar 2022 04:41:00 GMT",
+                                    "tweetId": "1505404015055708163",
+                                    "urltweet": "https://twitter.com/JR_Paris/status/1505404015055708163",
+                                    "tweetUserName": "JR_Paris"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 17",
                             "type": "calendarDay",
