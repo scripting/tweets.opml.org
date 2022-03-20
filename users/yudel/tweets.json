@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 18 Mar 2022 22:27:52 GMT"
+            "dateModified": "Sun, 20 Mar 2022 00:22:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/TWKWI0n6F3\">[link]</a>",
+                                    "rawText": "https://t.co/TWKWI0n6F3",
+                                    "type": "tweet",
+                                    "created": "Sun, 20 Mar 2022 00:21:54 GMT",
+                                    "tweetId": "1505338807155109894",
+                                    "urltweet": "https://twitter.com/yudel/status/1505338807155109894",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 18",
                             "type": "calendarDay",
