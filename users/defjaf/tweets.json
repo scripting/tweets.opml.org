@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Mar 2022 18:10:24 GMT"
+            "dateModified": "Mon, 21 Mar 2022 06:26:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@REasther Is it LaTeX?",
+                                    "rawText": "@REasther Is it LaTeX?",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Mar 2022 06:18:51 GMT",
+                                    "tweetId": "1505791027050913792",
+                                    "urltweet": "https://twitter.com/defjaf/status/1505791027050913792",
+                                    "inReplyToId": "1505489752317108225",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 19",
                             "type": "calendarDay",
