@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Mar 2022 13:04:07 GMT"
+            "dateModified": "Mon, 21 Mar 2022 15:09:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@VisualStudio WTH?  I have VS 2019 and VS 2022 both installed in a VM.  It would be nice to have an easy way to tell them apart.  Unfortunately, if I change the color scheme in VS 2019, it changes the damn color scheme in VS 2022.",
+                                    "rawText": "@VisualStudio WTH?  I have VS 2019 and VS 2022 both installed in a VM.  It would be nice to have an easy way to tell them apart.  Unfortunately, if I change the color scheme in VS 2019, it changes the damn color scheme in VS 2022.",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Mar 2022 15:06:48 GMT",
+                                    "tweetId": "1505923889544802307",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1505923889544802307",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 20",
                             "type": "calendarDay",
