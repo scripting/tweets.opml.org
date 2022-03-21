@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Mar 2022 20:39:49 GMT"
+            "dateModified": "Mon, 21 Mar 2022 14:06:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@ScaryifLiteral We will be the judge. LOL",
+                                    "rawText": "@ScaryifLiteral We will be the judge. LOL",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Mar 2022 14:06:13 GMT",
+                                    "tweetId": "1505908641596989443",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1505908641596989443",
+                                    "inReplyToId": "1505890638918823940",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 19",
                             "type": "calendarDay",
