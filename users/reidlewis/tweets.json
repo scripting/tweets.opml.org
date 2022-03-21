@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/reidlewis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 09 Mar 2022 13:27:43 GMT"
+            "dateModified": "Mon, 21 Mar 2022 20:10:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@peterrhague @elonmusk No go at #Hohmann2022\n\nFirst Starship orbital flight will be with Raptor 2 engines, as they are much more capable &amp; reliable. 230 ton or ~500k lb thrust at sea level.\n\nWe’ll have 39 flightworthy engines built by [Apr '22], then a month ..., so [N.E.T] May for orbital flight test.",
+                                    "rawText": "@peterrhague @elonmusk No go at #Hohmann2022\n\nFirst Starship orbital flight will be with Raptor 2 engines, as they are much more capable &amp; reliable. 230 ton or ~500k lb thrust at sea level.\n\nWe’ll have 39 flightworthy engines built by [Apr '22], then a month ..., so [N.E.T] May for orbital flight test.",
+                                    "type": "tweet",
+                                    "created": "Mon, 21 Mar 2022 20:01:58 GMT",
+                                    "tweetId": "1505998171993956360",
+                                    "urltweet": "https://twitter.com/reidlewis/status/1505998171993956360",
+                                    "inReplyToId": "1462552688198098949",
+                                    "tweetUserName": "reidlewis"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 9",
                             "type": "calendarDay",
