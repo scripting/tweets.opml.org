@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 22:47:06 GMT"
+            "dateModified": "Tue, 22 Mar 2022 22:58:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "@prof_dainy In faith, perhaps, but not in works.",
+                                    "rawText": "@prof_dainy In faith, perhaps, but not in works.",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Mar 2022 22:49:38 GMT",
+                                    "tweetId": "1506402751013605383",
+                                    "urltweet": "https://twitter.com/yudel/status/1506402751013605383",
+                                    "inReplyToId": "1506401963784781826",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@prof_dainy Here’s three prohibitions you probably haven’t violated. <a href=\"https://t.co/zFZIER0mve\">[link]</a>",
+                                            "rawText": "@prof_dainy Here’s three prohibitions you probably haven’t violated. https://t.co/zFZIER0mve",
+                                            "type": "tweet",
+                                            "created": "Tue, 22 Mar 2022 22:54:08 GMT",
+                                            "tweetId": "1506403883437985795",
+                                            "urltweet": "https://twitter.com/yudel/status/1506403883437985795",
+                                            "inReplyToId": "1506402751013605383",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@prof_dainy On a scale of 0-613, we’re all in the middling range.",
                                     "rawText": "@prof_dainy On a scale of 0-613, we’re all in the middling range.",
