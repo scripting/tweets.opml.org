@@ -6,12 +6,23 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 22 Mar 2022 16:36:12 GMT</dateModified>
+		<dateModified>Tue, 22 Mar 2022 20:14:56 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="March 2022" type="calendarMonth" name="march2022" >
 			<outline text="March 22" type="calendarDay" name="22" >
-				<outline text="I am still clueless and I am still a newbie." rawText="I am still clueless and I am still a newbie." type="tweet" created="Tue, 22 Mar 2022 16:33:10 GMT" tweetId="1506308011152879622" urltweet="https://twitter.com/cluelessnewbie/status/1506308011152879622" inReplyToId="" tweetUserName="cluelessnewbie" />
+				<outline text="# This is a thread" rawText="# This is a thread" type="tweet" created="Tue, 22 Mar 2022 20:11:37 GMT" tweetId="1506362985308114944" urltweet="https://twitter.com/cluelessnewbie/status/1506362985308114944" inReplyToId="" tweetUserName="cluelessnewbie" >
+					<outline text="I'm going to write a series of tweets here. 
+
+I have no idea if this will work, what will show up on the other side. But let's give it a try." rawText="I'm going to write a series of tweets here. 
+
+I have no idea if this will work, what will show up on the other side. But let's give it a try." type="tweet" created="Tue, 22 Mar 2022 20:11:37 GMT" tweetId="1506362986553913344" urltweet="https://twitter.com/cluelessnewbie/status/1506362986553913344" inReplyToId="1506362985308114944" tweetUserName="cluelessnewbie" >
+						<outline text="I've seen sunny days that I thought would never end." rawText="I've seen sunny days that I thought would never end." type="tweet" created="Tue, 22 Mar 2022 20:11:37 GMT" tweetId="1506362987812110345" urltweet="https://twitter.com/cluelessnewbie/status/1506362987812110345" inReplyToId="1506362986553913344" tweetUserName="cluelessnewbie" >
+							<outline text="But I always thought I'd see you again." rawText="But I always thought I'd see you again." type="tweet" created="Tue, 22 Mar 2022 20:11:38 GMT" tweetId="1506362989007577097" urltweet="https://twitter.com/cluelessnewbie/status/1506362989007577097" inReplyToId="1506362987812110345" tweetUserName="cluelessnewbie" />
+							</outline>
+						</outline>
+					</outline>
+				<outline text="I am still clueless and I am still a newbie." rawText="I am still clueless and I am still a newbie." type="tweet" created="Tue, 22 Mar 2022 16:33:10 GMT" tweetId="1506308011152879622" urltweet="https://twitter.com/cluelessnewbie/status/1506308011152879622" tweetUserName="cluelessnewbie" />
 				<outline text="Once again I am posting to the clueless newbie." rawText="Once again I am posting to the clueless newbie." type="tweet" created="Tue, 22 Mar 2022 15:21:07 GMT" tweetId="1506289880401420303" urltweet="https://twitter.com/cluelessnewbie/status/1506289880401420303" tweetUserName="cluelessnewbie" />
 				</outline>
 			</outline>
