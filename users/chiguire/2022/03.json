@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 22:53:36 GMT"
+            "dateModified": "Tue, 22 Mar 2022 23:05:07 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,19 @@
                                     "created": "Tue, 22 Mar 2022 18:01:31 GMT",
                                     "tweetId": "1506330244776665097",
                                     "urltweet": "https://twitter.com/chiguire/status/1506330244776665097",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "🥲 <a href=\"https://t.co/dlmCm5GYZn\">[link]</a>",
+                                            "rawText": "🥲 https://t.co/dlmCm5GYZn",
+                                            "type": "tweet",
+                                            "created": "Tue, 22 Mar 2022 22:59:52 GMT",
+                                            "tweetId": "1506405328535138310",
+                                            "urltweet": "https://twitter.com/chiguire/status/1506405328535138310",
+                                            "inReplyToId": "1506330244776665097",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@cris7ian Toss a coin to your Cristian",
