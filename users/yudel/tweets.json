@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 05:19:28 GMT"
+            "dateModified": "Tue, 22 Mar 2022 05:30:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "@Foone Beats nailing them in place.",
+                                    "rawText": "@Foone Beats nailing them in place.",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Mar 2022 05:25:41 GMT",
+                                    "tweetId": "1506140033811730432",
+                                    "urltweet": "https://twitter.com/yudel/status/1506140033811730432",
+                                    "inReplyToId": "1506139364497059841",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@trekonomics One thing the past six years taught me is that I was raised to be far too harsh to the Nazi-adjacent, because those who raised me (in the broadest, communal sense) became eagerly Nazi-adjacent.",
                                     "rawText": "@trekonomics One thing the past six years taught me is that I was raised to be far too harsh to the Nazi-adjacent, because those who raised me (in the broadest, communal sense) became eagerly Nazi-adjacent.",
@@ -38,7 +48,31 @@
                                             "tweetId": "1506138067077316608",
                                             "urltweet": "https://twitter.com/yudel/status/1506138067077316608",
                                             "inReplyToId": "1506137183354245120",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@trekonomics The Biden Administration is doing horrible things in the name of preventing worse outcomes, whether on immigration or pandemic fighting. Do I believe that there may be some unspoken racial animus, perhaps not unlike certain European antisemitism?",
+                                                    "rawText": "@trekonomics The Biden Administration is doing horrible things in the name of preventing worse outcomes, whether on immigration or pandemic fighting. Do I believe that there may be some unspoken racial animus, perhaps not unlike certain European antisemitism?",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 22 Mar 2022 05:20:19 GMT",
+                                                    "tweetId": "1506138682604109824",
+                                                    "urltweet": "https://twitter.com/yudel/status/1506138682604109824",
+                                                    "inReplyToId": "1506138067077316608",
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@trekonomics We are the Nazi bystanders our parents warned us against, only our parents are now the Nazis.",
+                                                            "rawText": "@trekonomics We are the Nazi bystanders our parents warned us against, only our parents are now the Nazis.",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 22 Mar 2022 05:21:01 GMT",
+                                                            "tweetId": "1506138858819403779",
+                                                            "urltweet": "https://twitter.com/yudel/status/1506138858819403779",
+                                                            "inReplyToId": "1506138682604109824",
+                                                            "tweetUserName": "yudel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
