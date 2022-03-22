@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 02:49:48 GMT"
+            "dateModified": "Tue, 22 Mar 2022 03:35:51 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "“They had to count them all.” <a href=\"https://t.co/4gtknVEf4u\">[link]</a>",
+                                    "rawText": "“They had to count them all.” https://t.co/4gtknVEf4u",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Mar 2022 03:27:47 GMT",
+                                    "tweetId": "1506110365431648259",
+                                    "urltweet": "https://twitter.com/yudel/status/1506110365431648259",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/YX6IxrR2l8\">[link]</a>",
+                                            "rawText": "https://t.co/YX6IxrR2l8",
+                                            "type": "tweet",
+                                            "created": "Tue, 22 Mar 2022 03:29:37 GMT",
+                                            "tweetId": "1506110823772704769",
+                                            "urltweet": "https://twitter.com/yudel/status/1506110823772704769",
+                                            "inReplyToId": "1506110365431648259",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@trekonomics I have to assume that some very classified team in the Pentagon is wargaming this out and is preparing a classified report about the results. And some day we may discover where the center of the bell curve is estimated to be, between the two extremes between paper tiger and",
                                     "rawText": "@trekonomics I have to assume that some very classified team in the Pentagon is wargaming this out and is preparing a classified report about the results. And some day we may discover where the center of the bell curve is estimated to be, between the two extremes between paper tiger and",
