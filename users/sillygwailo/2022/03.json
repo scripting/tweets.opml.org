@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 02:06:46 GMT"
+            "dateModified": "Tue, 22 Mar 2022 02:18:16 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Tue, 22 Mar 2022 02:05:58 GMT",
                                     "tweetId": "1506089773693341699",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1506089773693341699",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Non-binding tentative deal.\n\nNon-binding tentative deal.\n\nNon-binding tentative deal.\n\nNON-BINDING.\n\nTENTATIVE DEAL!",
+                                            "rawText": "Non-binding tentative deal.\n\nNon-binding tentative deal.\n\nNon-binding tentative deal.\n\nNON-BINDING.\n\nTENTATIVE DEAL!",
+                                            "type": "tweet",
+                                            "created": "Tue, 22 Mar 2022 02:13:09 GMT",
+                                            "tweetId": "1506091581232791553",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1506091581232791553",
+                                            "inReplyToId": "1506089773693341699",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "The only Twitter that loves non-binding tentative deals more than Politics Twitter is Sports Twitter.",
+                                                    "rawText": "The only Twitter that loves non-binding tentative deals more than Politics Twitter is Sports Twitter.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 22 Mar 2022 02:13:09 GMT",
+                                                    "tweetId": "1506091582361059332",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1506091582361059332",
+                                                    "inReplyToId": "1506091581232791553",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "If I could do it without having to follow the person, I’d love to be able to follow single mega-threads.",
