@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Mar 2022 23:52:07 GMT"
+            "dateModified": "Tue, 22 Mar 2022 08:41:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@ErikaZambrano Yo te entiendo",
+                                    "rawText": "@ErikaZambrano Yo te entiendo",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Mar 2022 08:34:08 GMT",
+                                    "tweetId": "1506187457682939920",
+                                    "urltweet": "https://twitter.com/chiguire/status/1506187457682939920",
+                                    "inReplyToId": "1506087519485501444",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 21",
                             "type": "calendarDay",
