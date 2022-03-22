@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 20 Mar 2022 08:47:21 GMT"
+            "dateModified": "Tue, 22 Mar 2022 07:47:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "My German is pretty good, but I’m shit at figuring out articles for Denglish terms 🤷‍♂️",
+                                    "rawText": "My German is pretty good, but I’m shit at figuring out articles for Denglish terms 🤷‍♂️",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Mar 2022 07:41:36 GMT",
+                                    "tweetId": "1506174239849816069",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1506174239849816069",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 20",
                             "type": "calendarDay",
