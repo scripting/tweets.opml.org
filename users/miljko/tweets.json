@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Mar 2022 23:40:06 GMT"
+            "dateModified": "Tue, 22 Mar 2022 11:33:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Edward Teller is a prime example that you can be a world-class physicist and also as dumb as a rock.\nSagan, on the other hand, was well aware of the turkey problem 📚 <a href=\"https://t.co/yTi1hAsuBQ\">[link]</a>",
+                                    "rawText": "Edward Teller is a prime example that you can be a world-class physicist and also as dumb as a rock.\nSagan, on the other hand, was well aware of the turkey problem 📚 https://t.co/yTi1hAsuBQ",
+                                    "type": "tweet",
+                                    "created": "Tue, 22 Mar 2022 11:23:11 GMT",
+                                    "tweetId": "1506230002714660872",
+                                    "urltweet": "https://twitter.com/miljko/status/1506230002714660872",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 21",
                             "type": "calendarDay",
