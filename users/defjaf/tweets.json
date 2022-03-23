@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 19:05:06 GMT"
+            "dateModified": "Wed, 23 Mar 2022 12:32:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,44 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@carnets_jupyter I think I started just pre-1.7.0 (yesterday!) but now on the latest. So not sure about permissions. (And not sure where it defaults to writing the files.) I am pretty sure it was written successfully but I could be wrong.",
+                                    "rawText": "@carnets_jupyter I think I started just pre-1.7.0 (yesterday!) but now on the latest. So not sure about permissions. (And not sure where it defaults to writing the files.) I am pretty sure it was written successfully but I could be wrong.",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 12:31:26 GMT",
+                                    "tweetId": "1506609564325761033",
+                                    "urltweet": "https://twitter.com/defjaf/status/1506609564325761033",
+                                    "inReplyToId": "1506609220237594625",
+                                    "tweetUserName": "defjaf"
+                                },
+                                {
+                                    "text": "@carnets_jupyter Having trouble with losing files in the recent release! I created a notebook (in Carnets Plus) which I now can’t find anywhere. (Related to what seems like a mismatch between accessing notebooks w/ the Files picker vs the text interface in the notebook itself?)",
+                                    "rawText": "@carnets_jupyter Having trouble with losing files in the recent release! I created a notebook (in Carnets Plus) which I now can’t find anywhere. (Related to what seems like a mismatch between accessing notebooks w/ the Files picker vs the text interface in the notebook itself?)",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 12:25:49 GMT",
+                                    "tweetId": "1506608153026301957",
+                                    "urltweet": "https://twitter.com/defjaf/status/1506608153026301957",
+                                    "tweetUserName": "defjaf",
+                                    "subs": [
+                                        {
+                                            "text": "Also (related?): 1. I seem to be stuck in a webview in Carnets (not plus). Can’t get back to a notebook or file picker. 2. Files shows that the Carnets/Carnets Plus folders “On My iPad” have  items in them but none show up.",
+                                            "rawText": "Also (related?): 1. I seem to be stuck in a webview in Carnets (not plus). Can’t get back to a notebook or file picker. 2. Files shows that the Carnets/Carnets Plus folders “On My iPad” have  items in them but none show up.",
+                                            "type": "tweet",
+                                            "created": "Wed, 23 Mar 2022 12:29:25 GMT",
+                                            "tweetId": "1506609057607602180",
+                                            "urltweet": "https://twitter.com/defjaf/status/1506609057607602180",
+                                            "inReplyToId": "1506608153026301957",
+                                            "tweetUserName": "defjaf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "March 22",
                             "type": "calendarDay",
