@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Mar 2022 10:52:22 GMT"
+            "dateModified": "Wed, 23 Mar 2022 11:03:53 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 23 Mar 2022 10:52:14 GMT",
                                     "tweetId": "1506584598922383365",
                                     "urltweet": "https://twitter.com/yudel/status/1506584598922383365",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@BenYehudaPress The book is \"Initial Instructions,\" which dares ask the question, \"What would “Genesis” be without the letter ‘E’?\" <a href=\"https://t.co/9bi0ObQbbT\">[link]</a>",
+                                            "rawText": "@BenYehudaPress The book is \"Initial Instructions,\" which dares ask the question, \"What would “Genesis” be without the letter ‘E’?\" https://t.co/9bi0ObQbbT",
+                                            "type": "tweet",
+                                            "created": "Wed, 23 Mar 2022 10:53:22 GMT",
+                                            "tweetId": "1506584887125553158",
+                                            "urltweet": "https://twitter.com/yudel/status/1506584887125553158",
+                                            "inReplyToId": "1506584598922383365",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Maybe everything that dies someday comes back. <a href=\"https://t.co/oxo3VPMWg0\">[link]</a>",
