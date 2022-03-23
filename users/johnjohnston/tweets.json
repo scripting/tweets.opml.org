@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 21 Mar 2022 20:17:23 GMT"
+            "dateModified": "Wed, 23 Mar 2022 08:56:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@abandonedshoes \n2007:\n<a href=\"https://t.co/3p4ZDdvjMk\">[link]</a>\n2020\nhttps://t.co/wTtbIcG8dY\nThis February:\nhttps://t.co/herPPImmVO",
+                                    "rawText": "@abandonedshoes \n2007:\nhttps://t.co/3p4ZDdvjMk\n2020\nhttps://t.co/wTtbIcG8dY\nThis February:\nhttps://t.co/herPPImmVO",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 08:48:17 GMT",
+                                    "tweetId": "1506553405824815104",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1506553405824815104",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 21",
                             "type": "calendarDay",
