@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Mar 2022 14:14:50 GMT"
+            "dateModified": "Wed, 23 Mar 2022 14:37:51 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 23 Mar 2022 14:07:22 GMT",
                                     "tweetId": "1506633706160947201",
                                     "urltweet": "https://twitter.com/KevinCTofel/status/1506633706160947201",
-                                    "tweetUserName": "KevinCTofel"
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Still nothing, TBH.",
+                                            "rawText": "Still nothing, TBH.",
+                                            "type": "tweet",
+                                            "created": "Wed, 23 Mar 2022 14:30:37 GMT",
+                                            "tweetId": "1506639557990756357",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1506639557990756357",
+                                            "inReplyToId": "1506633706160947201",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@boundzy98 I felt the same feeling of relief. ;)",
