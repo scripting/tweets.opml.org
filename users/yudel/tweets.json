@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Mar 2022 11:03:53 GMT"
+            "dateModified": "Wed, 23 Mar 2022 11:38:25 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,38 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "@AvBronstein You say that like it’s a bad thing. You wouldn’t happen to be a rootless cosmopolitan, would you?",
+                                    "rawText": "@AvBronstein You say that like it’s a bad thing. You wouldn’t happen to be a rootless cosmopolitan, would you?",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 11:29:39 GMT",
+                                    "tweetId": "1506594016812539905",
+                                    "urltweet": "https://twitter.com/yudel/status/1506594016812539905",
+                                    "inReplyToId": "1506592423270621188",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@AvBronstein Related: <a href=\"https://t.co/WmTgEW2yD9\">[link]</a>",
+                                            "rawText": "@AvBronstein Related: https://t.co/WmTgEW2yD9",
+                                            "type": "tweet",
+                                            "created": "Wed, 23 Mar 2022 11:30:55 GMT",
+                                            "tweetId": "1506594333885181954",
+                                            "urltweet": "https://twitter.com/yudel/status/1506594333885181954",
+                                            "inReplyToId": "1506594016812539905",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@scalzi The sequel Charles Mingus never wrote. <a href=\"https://t.co/LhqaNt6nAQ\">[link]</a>",
+                                    "rawText": "@scalzi The sequel Charles Mingus never wrote. https://t.co/LhqaNt6nAQ",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 11:28:50 GMT",
+                                    "tweetId": "1506593812377911296",
+                                    "urltweet": "https://twitter.com/yudel/status/1506593812377911296",
+                                    "inReplyToId": "1506593197753090050",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "A @benyehudapress title shows up on this viral Instagram video forwarded me by my daughter with the note, \"You're famous!\"\n<a href=\"https://t.co/9afrDpdlPi\">[link]</a>",
                                     "rawText": "A @benyehudapress title shows up on this viral Instagram video forwarded me by my daughter with the note, \"You're famous!\"\nhttps://t.co/9afrDpdlPi",
