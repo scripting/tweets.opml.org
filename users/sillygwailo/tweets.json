@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 23:01:36 GMT"
+            "dateModified": "Wed, 23 Mar 2022 18:15:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "How did that work out for Readability? <a href=\"https://t.co/Qd6LsQ7wEe\">[link]</a>",
+                                    "rawText": "How did that work out for Readability? https://t.co/Qd6LsQ7wEe",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 18:15:15 GMT",
+                                    "tweetId": "1506696090824978432",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1506696090824978432",
+                                    "inReplyToId": "1174053037075304448",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 22",
                             "type": "calendarDay",
