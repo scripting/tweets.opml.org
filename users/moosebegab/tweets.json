@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 23:21:53 GMT"
+            "dateModified": "Wed, 23 Mar 2022 16:38:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "since 2016... <a href=\"https://t.co/TwNd40gPn0\">[link]</a>",
+                                    "rawText": "since 2016... https://t.co/TwNd40gPn0",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 16:32:02 GMT",
+                                    "tweetId": "1506670113902276615",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1506670113902276615",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 22",
                             "type": "calendarDay",
