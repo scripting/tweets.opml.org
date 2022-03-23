@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Mar 2022 00:51:28 GMT"
+            "dateModified": "Wed, 23 Mar 2022 07:57:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "The Russians trapped on a Thai island as war rages in Ukraine. <a href=\"https://t.co/fYTfqv8WBF\">[link]</a>",
+                                    "rawText": "The Russians trapped on a Thai island as war rages in Ukraine. https://t.co/fYTfqv8WBF",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 07:49:13 GMT",
+                                    "tweetId": "1506538545305067522",
+                                    "urltweet": "https://twitter.com/davewiner/status/1506538545305067522",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 22",
                             "type": "calendarDay",
