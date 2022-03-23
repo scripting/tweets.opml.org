@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 13:58:02 GMT"
+            "dateModified": "Wed, 23 Mar 2022 13:57:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/IUdKWyFmsy\">[link]</a> Stories via @PhilipGlassEns @fvguima @klangforumwien",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/IUdKWyFmsy Stories via @PhilipGlassEns @fvguima @klangforumwien",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 13:47:49 GMT",
+                                    "tweetId": "1506628788008157188",
+                                    "urltweet": "https://twitter.com/aworks/status/1506628788008157188",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 22",
                             "type": "calendarDay",
