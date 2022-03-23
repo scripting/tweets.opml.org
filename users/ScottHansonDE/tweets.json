@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 07:47:53 GMT"
+            "dateModified": "Wed, 23 Mar 2022 08:09:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@Lynn_Nothegger In our firm we continue to get a handful of positive cases every week. Latest was just yesterday.",
+                                    "rawText": "@Lynn_Nothegger In our firm we continue to get a handful of positive cases every week. Latest was just yesterday.",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 07:59:16 GMT",
+                                    "tweetId": "1506541072884850688",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1506541072884850688",
+                                    "inReplyToId": "1506538848565792769",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 22",
                             "type": "calendarDay",
