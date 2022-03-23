@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/promastershub/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 19 Mar 2022 13:48:37 GMT"
+            "dateModified": "Wed, 23 Mar 2022 14:53:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Test Email from Mail Chimp MPA Division 🌟 - <a href=\"https://t.co/n1073fuA0q\">[link]</a>",
+                                    "rawText": "Test Email from Mail Chimp MPA Division 🌟 - https://t.co/n1073fuA0q",
+                                    "type": "tweet",
+                                    "created": "Wed, 23 Mar 2022 14:53:44 GMT",
+                                    "tweetId": "1506645375989563395",
+                                    "urltweet": "https://twitter.com/promastershub/status/1506645375989563395",
+                                    "tweetUserName": "promastershub"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 19",
                             "type": "calendarDay",
