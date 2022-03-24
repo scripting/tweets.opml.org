@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Mar 2022 02:12:36 GMT"
+            "dateModified": "Thu, 24 Mar 2022 09:04:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "BBC collection of John Lennon interviews. <a href=\"https://t.co/YH5hSc5PAx\">[link]</a>",
+                                    "rawText": "BBC collection of John Lennon interviews. https://t.co/YH5hSc5PAx",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Mar 2022 09:02:59 GMT",
+                                    "tweetId": "1506919496681934855",
+                                    "urltweet": "https://twitter.com/davewiner/status/1506919496681934855",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 23",
                             "type": "calendarDay",
