@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Mar 2022 22:02:50 GMT"
+            "dateModified": "Thu, 24 Mar 2022 08:38:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "Gracias por todo Stephen E. Wilhite <a href=\"https://t.co/IW7Rcjylgn\">[link]</a>",
+                                    "rawText": "Gracias por todo Stephen E. Wilhite https://t.co/IW7Rcjylgn",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Mar 2022 08:34:23 GMT",
+                                    "tweetId": "1506912296639078400",
+                                    "urltweet": "https://twitter.com/chiguire/status/1506912296639078400",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 23",
                             "type": "calendarDay",
