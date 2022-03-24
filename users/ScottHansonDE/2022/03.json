@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Mar 2022 08:09:57 GMT"
+            "dateModified": "Thu, 24 Mar 2022 07:31:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "My new favorite Mac app is Quit All. Whenever my mind and my screen are cluttered, I can quit everything and make a fresh start with a blank screen (<a href=\"https://t.co/axcmJQHaa5\">[link]</a> or on Setapp)",
+                                    "rawText": "My new favorite Mac app is Quit All. Whenever my mind and my screen are cluttered, I can quit everything and make a fresh start with a blank screen (https://t.co/axcmJQHaa5 or on Setapp)",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Mar 2022 07:23:42 GMT",
+                                    "tweetId": "1506894511351468034",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1506894511351468034",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 23",
                             "type": "calendarDay",
