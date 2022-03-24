@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Mar 2022 00:01:58 GMT"
+            "dateModified": "Thu, 24 Mar 2022 14:08:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@miasadork Yes, a few. My Pixel 4a 5G is great. I do have Samsung Galaxy S22 on order. Plan to give Samsung a try,",
+                                    "rawText": "@miasadork Yes, a few. My Pixel 4a 5G is great. I do have Samsung Galaxy S22 on order. Plan to give Samsung a try,",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Mar 2022 14:00:57 GMT",
+                                    "tweetId": "1506994482167701505",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1506994482167701505",
+                                    "inReplyToId": "1506360535826194433",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 23",
                             "type": "calendarDay",
