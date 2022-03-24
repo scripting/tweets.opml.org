@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Mar 2022 02:01:36 GMT"
+            "dateModified": "Thu, 24 Mar 2022 06:55:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "‘Art should provide people with emotions they have never experienced before, ones they’ve never felt. It’s not about making people cry, but rather that the tear should fall in a certain way, when one least expects it, and for reasons he doesn’t understand.’ —Raúl Ruiz",
+                                    "rawText": "‘Art should provide people with emotions they have never experienced before, ones they’ve never felt. It’s not about making people cry, but rather that the tear should fall in a certain way, when one least expects it, and for reasons he doesn’t understand.’ —Raúl Ruiz",
+                                    "type": "tweet",
+                                    "created": "Thu, 24 Mar 2022 06:48:55 GMT",
+                                    "tweetId": "1506885754332590080",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1506885754332590080",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 23",
                             "type": "calendarDay",
