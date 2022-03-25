@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Mar 2022 13:07:07 GMT"
+            "dateModified": "Fri, 25 Mar 2022 15:04:45 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "William Stafford on daily writing.\n\n<a href=\"https://t.co/DCZrN0U0xw\">[link]</a> https://t.co/Rcy0kY1knj",
+                                    "rawText": "William Stafford on daily writing.\n\nhttps://t.co/DCZrN0U0xw https://t.co/Rcy0kY1knj",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Mar 2022 15:01:04 GMT",
+                                    "tweetId": "1507371998057537541",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1507371998057537541",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "Kim Stafford describes the daily writing practice of his father, the poet William Stafford, based on the patterns visible in hundreds of pages of daily writing.\n\n<a href=\"https://t.co/YP8oND3F57\">[link]</a>",
+                                            "rawText": "Kim Stafford describes the daily writing practice of his father, the poet William Stafford, based on the patterns visible in hundreds of pages of daily writing.\n\nhttps://t.co/YP8oND3F57",
+                                            "type": "tweet",
+                                            "created": "Fri, 25 Mar 2022 15:01:04 GMT",
+                                            "tweetId": "1507371999533936643",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1507371999533936643",
+                                            "inReplyToId": "1507371998057537541",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@mlidinsk @toebean_peets No pressure…",
                                     "rawText": "@mlidinsk @toebean_peets No pressure…",
