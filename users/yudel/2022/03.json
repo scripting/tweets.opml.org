@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Mar 2022 00:47:34 GMT"
+            "dateModified": "Fri, 25 Mar 2022 00:59:20 GMT"
         },
         "body": {
             "subs": [
@@ -49,7 +49,19 @@
                                     "created": "Fri, 25 Mar 2022 00:08:22 GMT",
                                     "tweetId": "1507147343963041792",
                                     "urltweet": "https://twitter.com/yudel/status/1507147343963041792",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/0XNktWad8L\">[link]</a>",
+                                            "rawText": "https://t.co/0XNktWad8L",
+                                            "type": "tweet",
+                                            "created": "Fri, 25 Mar 2022 00:58:10 GMT",
+                                            "tweetId": "1507159873867419655",
+                                            "urltweet": "https://twitter.com/yudel/status/1507159873867419655",
+                                            "inReplyToId": "1507147343963041792",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@trekonomics Well, there are worse ways for New Jersey and New York to resolve their current dispute over their joint Waterfront Commission. <a href=\"https://t.co/P4H91m8RaR\">[link]</a>",
