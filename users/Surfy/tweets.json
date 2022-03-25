@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 24 Mar 2022 17:49:37 GMT"
+            "dateModified": "Fri, 25 Mar 2022 22:50:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@Conaw That may not be correct.  You have to install TestFlight with an Apple ID but the app invitation can be sent to any email address, in my experience.",
+                                    "rawText": "@Conaw That may not be correct.  You have to install TestFlight with an Apple ID but the app invitation can be sent to any email address, in my experience.",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Mar 2022 22:41:18 GMT",
+                                    "tweetId": "1507487818389487618",
+                                    "urltweet": "https://twitter.com/Surfy/status/1507487818389487618",
+                                    "inReplyToId": "1507477630765113350",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 24",
                             "type": "calendarDay",
