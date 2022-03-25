@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Mar 2022 02:19:25 GMT"
+            "dateModified": "Fri, 25 Mar 2022 08:35:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "50 Best Movie Plot Twists of All Time. <a href=\"https://t.co/vjGXsAyQt4\">[link]</a>",
+                                    "rawText": "50 Best Movie Plot Twists of All Time. https://t.co/vjGXsAyQt4",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Mar 2022 08:31:21 GMT",
+                                    "tweetId": "1507273922806530081",
+                                    "urltweet": "https://twitter.com/davewiner/status/1507273922806530081",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 24",
                             "type": "calendarDay",
