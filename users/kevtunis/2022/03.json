@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 22 Mar 2022 01:49:30 GMT"
+            "dateModified": "Fri, 25 Mar 2022 00:21:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@techgirl1908 is there a Blockchain plugin for WordPress?",
+                                    "rawText": "@techgirl1908 is there a Blockchain plugin for WordPress?",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Mar 2022 00:20:22 GMT",
+                                    "tweetId": "1507150360267395076",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1507150360267395076",
+                                    "tweetUserName": "kevtunis"
+                                },
+                                {
+                                    "text": "Me Pixel 2 and still working <a href=\"https://t.co/Xrh6I61dzd\">[link]</a>",
+                                    "rawText": "Me Pixel 2 and still working https://t.co/Xrh6I61dzd",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Mar 2022 00:17:51 GMT",
+                                    "tweetId": "1507149729263755264",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1507149729263755264",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 21",
                             "type": "calendarDay",
