@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Mar 2022 00:12:17 GMT"
+            "dateModified": "Fri, 25 Mar 2022 00:47:34 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "@ManischewitzCo I saw! So sad that the rest of the world keeps going after we go to press.",
+                                    "rawText": "@ManischewitzCo I saw! So sad that the rest of the world keeps going after we go to press.",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Mar 2022 00:45:39 GMT",
+                                    "tweetId": "1507156723617996806",
+                                    "urltweet": "https://twitter.com/yudel/status/1507156723617996806",
+                                    "inReplyToId": "1507148373173940231",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@ManischewitzCo On the other hand, this may be new material for next week....",
+                                            "rawText": "@ManischewitzCo On the other hand, this may be new material for next week....",
+                                            "type": "tweet",
+                                            "created": "Fri, 25 Mar 2022 00:46:00 GMT",
+                                            "tweetId": "1507156812155744259",
+                                            "urltweet": "https://twitter.com/yudel/status/1507156812155744259",
+                                            "inReplyToId": "1507156723617996806",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "In which I bring the social media fun of @ManischewitzCo to the readers of print media. <a href=\"https://t.co/bvSvTbhhuo\">[link]</a>",
                                     "rawText": "In which I bring the social media fun of @ManischewitzCo to the readers of print media. https://t.co/bvSvTbhhuo",
