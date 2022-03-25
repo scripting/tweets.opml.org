@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Mar 2022 19:00:00 GMT"
+            "dateModified": "Fri, 25 Mar 2022 19:58:49 GMT"
         },
         "body": {
             "subs": [
@@ -48,7 +48,19 @@
                                     "created": "Fri, 25 Mar 2022 18:34:10 GMT",
                                     "tweetId": "1507425626269040690",
                                     "urltweet": "https://twitter.com/KenSmith/status/1507425626269040690",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "\"A² + B² = C² was true before Pythagoras had his name attached to it, and will be true when the sun goes out and no one is left to think of it. It is true for any alien life that might think of it, and true whether they think of it or not.\"",
+                                            "rawText": "\"A² + B² = C² was true before Pythagoras had his name attached to it, and will be true when the sun goes out and no one is left to think of it. It is true for any alien life that might think of it, and true whether they think of it or not.\"",
+                                            "type": "tweet",
+                                            "created": "Fri, 25 Mar 2022 19:48:36 GMT",
+                                            "tweetId": "1507444357141610505",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1507444357141610505",
+                                            "inReplyToId": "1507425626269040690",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "This is the sort of academic writing that could usefully be followed by an advisory op-ed written for a general audience and distilling the practical implications for a community. Hope so... <a href=\"https://t.co/nsdGAmLnHX\">[link]</a>",
