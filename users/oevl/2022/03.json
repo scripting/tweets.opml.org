@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Mar 2022 02:27:26 GMT"
+            "dateModified": "Fri, 25 Mar 2022 19:42:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@powerhdeleon CSS es tu \"AMOR PROHIBIDO\"",
+                                    "rawText": "@powerhdeleon CSS es tu \"AMOR PROHIBIDO\"",
+                                    "type": "tweet",
+                                    "created": "Fri, 25 Mar 2022 19:37:41 GMT",
+                                    "tweetId": "1507441610841378823",
+                                    "urltweet": "https://twitter.com/oevl/status/1507441610841378823",
+                                    "inReplyToId": "1507179146019016710",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 24",
                             "type": "calendarDay",
