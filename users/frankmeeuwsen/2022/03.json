@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 07:21:48 GMT"
+            "dateModified": "Sat, 26 Mar 2022 07:57:05 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@wilbertmutsaers Big Fun in the Big Town\nStyle Wars\nSound City\nFestival Express (en Railroad Revival Tour)\nRip! A Remix Manifesto\nHype!\nMuscle Shoals",
+                                    "rawText": "@wilbertmutsaers Big Fun in the Big Town\nStyle Wars\nSound City\nFestival Express (en Railroad Revival Tour)\nRip! A Remix Manifesto\nHype!\nMuscle Shoals",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Mar 2022 07:54:27 GMT",
+                                    "tweetId": "1507627025489661956",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1507627025489661956",
+                                    "inReplyToId": "1507378623224946710",
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "@wilbertmutsaers En natuurlijk Lemmy!",
+                                            "rawText": "@wilbertmutsaers En natuurlijk Lemmy!",
+                                            "type": "tweet",
+                                            "created": "Sat, 26 Mar 2022 07:55:22 GMT",
+                                            "tweetId": "1507627256323190790",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1507627256323190790",
+                                            "inReplyToId": "1507627025489661956",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Oh man... <a href=\"https://t.co/MK4owYKU9T\">[link]</a>",
                                     "rawText": "Oh man... https://t.co/MK4owYKU9T",
