@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 02:31:30 GMT"
+            "dateModified": "Sat, 26 Mar 2022 02:55:01 GMT"
         },
         "body": {
             "subs": [
@@ -867,7 +867,19 @@
                                     "created": "Wed, 16 Mar 2022 14:32:48 GMT",
                                     "tweetId": "1504103392792264707",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1504103392792264707",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I’m interested in hearing how they pronounced Toronto during their on-stage banter. <a href=\"https://t.co/tg8NFwv9J8\">[link]</a>",
+                                            "rawText": "I’m interested in hearing how they pronounced Toronto during their on-stage banter. https://t.co/tg8NFwv9J8",
+                                            "type": "tweet",
+                                            "created": "Sat, 26 Mar 2022 02:50:08 GMT",
+                                            "tweetId": "1507550440312954885",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1507550440312954885",
+                                            "inReplyToId": "1504103392792264707",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
