@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 21:50:44 GMT"
+            "dateModified": "Sat, 26 Mar 2022 22:02:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "Twitter is becoming Yahoo.",
+                                    "rawText": "Twitter is becoming Yahoo.",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Mar 2022 21:53:47 GMT",
+                                    "tweetId": "1507838250559418380",
+                                    "urltweet": "https://twitter.com/davewiner/status/1507838250559418380",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@alexwilliams @bketelsen I liked Heroku, and added the app-running functionality to my web server, <a href=\"https://t.co/7tk2vhVTaD\">[link]</a>. I didn't promote it because I just wanted to use the functionality, not support it.",
                                     "rawText": "@alexwilliams @bketelsen I liked Heroku, and added the app-running functionality to my web server, https://t.co/7tk2vhVTaD. I didn't promote it because I just wanted to use the functionality, not support it.",
