@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 02:38:00 GMT"
+            "dateModified": "Sat, 26 Mar 2022 12:49:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Meta Open-sources Browser Extension to Establish Web Code Authenticity. <a href=\"https://t.co/pf5TI4Ya5X\">[link]</a>",
+                                    "rawText": "Meta Open-sources Browser Extension to Establish Web Code Authenticity. https://t.co/pf5TI4Ya5X",
+                                    "type": "tweet",
+                                    "created": "Sat, 26 Mar 2022 12:38:29 GMT",
+                                    "tweetId": "1507698501874065417",
+                                    "urltweet": "https://twitter.com/davewiner/status/1507698501874065417",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 25",
                             "type": "calendarDay",
