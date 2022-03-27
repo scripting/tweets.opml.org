@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 16:51:43 GMT"
+            "dateModified": "Sun, 27 Mar 2022 17:03:29 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "27",
                             "subs": [
                                 {
+                                    "text": "Breakthrough infections raise health, death risk; vaccine passports without testing allow cases to be missed. <a href=\"https://t.co/0dJoLBCO5l\">[link]</a>",
+                                    "rawText": "Breakthrough infections raise health, death risk; vaccine passports without testing allow cases to be missed. https://t.co/0dJoLBCO5l",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 16:55:17 GMT",
+                                    "tweetId": "1508125516469002242",
+                                    "urltweet": "https://twitter.com/davewiner/status/1508125516469002242",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@elonmusk -- if you do a new social network, please make sure it supports posts with optional titles, simple styling, links, and RSS in and out. these are the things that are missing that make it impossible for networks to interop. And if you want free speech interop is a must.",
                                     "rawText": "@elonmusk -- if you do a new social network, please make sure it supports posts with optional titles, simple styling, links, and RSS in and out. these are the things that are missing that make it impossible for networks to interop. And if you want free speech interop is a must.",
                                     "type": "tweet",
                                     "created": "Sun, 27 Mar 2022 16:45:09 GMT",
                                     "tweetId": "1508122967024320514",
                                     "urltweet": "https://twitter.com/davewiner/status/1508122967024320514",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "it's not a dig at twitter. i'm a professional and i do a lot of development work assuming twitter's existence. i'm also a twtr shareholder, btw. \n\nany network that doesn't allow peering is going to be under the same kind of political pressure twitter is to ban unpopular people.",
+                                            "rawText": "it's not a dig at twitter. i'm a professional and i do a lot of development work assuming twitter's existence. i'm also a twtr shareholder, btw. \n\nany network that doesn't allow peering is going to be under the same kind of political pressure twitter is to ban unpopular people.",
+                                            "type": "tweet",
+                                            "created": "Sun, 27 Mar 2022 17:01:50 GMT",
+                                            "tweetId": "1508127166357200897",
+                                            "urltweet": "https://twitter.com/davewiner/status/1508127166357200897",
+                                            "inReplyToId": "1508122967024320514",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "\"The Constitution is not a suicide pact\" expresses the belief that constitutional restrictions on governmental power must be balanced against the need for survival of the state and its people. <a href=\"https://t.co/WmsMZ2mEsF\">[link]</a>",
