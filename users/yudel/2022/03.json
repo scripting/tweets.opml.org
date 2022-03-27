@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 03:22:21 GMT"
+            "dateModified": "Sun, 27 Mar 2022 04:56:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@GeoffThorne Make it so!",
+                                    "rawText": "@GeoffThorne Make it so!",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 04:51:52 GMT",
+                                    "tweetId": "1507943461663690753",
+                                    "urltweet": "https://twitter.com/yudel/status/1507943461663690753",
+                                    "inReplyToId": "1507942852562604032",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 26",
                             "type": "calendarDay",
