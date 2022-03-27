@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 23:45:07 GMT"
+            "dateModified": "Sun, 27 Mar 2022 11:54:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Ann Druyan wrote the last paragraph of The Demon-Haunted World (1997).\nHate to say it, but darkness is winning 📚 <a href=\"https://t.co/qVXhRimAG5\">[link]</a>",
+                                    "rawText": "Ann Druyan wrote the last paragraph of The Demon-Haunted World (1997).\nHate to say it, but darkness is winning 📚 https://t.co/qVXhRimAG5",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 11:52:53 GMT",
+                                    "tweetId": "1508049416732610560",
+                                    "urltweet": "https://twitter.com/miljko/status/1508049416732610560",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 26",
                             "type": "calendarDay",
