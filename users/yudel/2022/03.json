@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 00:37:40 GMT"
+            "dateModified": "Sun, 27 Mar 2022 01:01:12 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@mwecker @kjwinston11 Link?",
+                                    "rawText": "@mwecker @kjwinston11 Link?",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 00:59:51 GMT",
+                                    "tweetId": "1507885075614081030",
+                                    "urltweet": "https://twitter.com/yudel/status/1507885075614081030",
+                                    "inReplyToId": "1507884225764241408",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@DBashIdeas Shavua Tov to everyone who misunderstood a parsha reference. Which itself may be a parsha reference according to other mforshim.",
                                     "rawText": "@DBashIdeas Shavua Tov to everyone who misunderstood a parsha reference. Which itself may be a parsha reference according to other mforshim.",
@@ -56,7 +66,19 @@
                                     "created": "Sun, 27 Mar 2022 00:23:57 GMT",
                                     "tweetId": "1507876038080086020",
                                     "urltweet": "https://twitter.com/yudel/status/1507876038080086020",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Oops, forgot the link: <a href=\"https://t.co/1I7jvUyJkd\">[link]</a>",
+                                            "rawText": "Oops, forgot the link: https://t.co/1I7jvUyJkd",
+                                            "type": "tweet",
+                                            "created": "Sun, 27 Mar 2022 00:57:05 GMT",
+                                            "tweetId": "1507884376406867970",
+                                            "urltweet": "https://twitter.com/yudel/status/1507884376406867970",
+                                            "inReplyToId": "1507876038080086020",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 }
                             ]
                         },
