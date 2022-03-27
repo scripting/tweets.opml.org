@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 01:57:57 GMT"
+            "dateModified": "Sun, 27 Mar 2022 10:07:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@BenGIdaho @GMRench @JaniceMcGeachin True, we’ve got the dead to prove it.",
+                                    "rawText": "@BenGIdaho @GMRench @JaniceMcGeachin True, we’ve got the dead to prove it.",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 10:06:41 GMT",
+                                    "tweetId": "1508022688782028802",
+                                    "urltweet": "https://twitter.com/mal/status/1508022688782028802",
+                                    "inReplyToId": "1506695835467202561",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 25",
                             "type": "calendarDay",
