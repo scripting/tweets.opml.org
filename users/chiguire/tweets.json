@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 00:20:54 GMT"
+            "dateModified": "Sun, 27 Mar 2022 09:45:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@doruku El futuro mano",
+                                    "rawText": "@doruku El futuro mano",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 09:35:57 GMT",
+                                    "tweetId": "1508014954670141444",
+                                    "urltweet": "https://twitter.com/chiguire/status/1508014954670141444",
+                                    "inReplyToId": "1507894835763720196",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 26",
                             "type": "calendarDay",
