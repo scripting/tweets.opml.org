@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 21:03:59 GMT"
+            "dateModified": "Sun, 27 Mar 2022 22:02:48 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                     "created": "Sun, 27 Mar 2022 20:29:56 GMT",
                                     "tweetId": "1508179537305165834",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1508179537305165834",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/Av9yObRyrp\">[link]</a>",
+                                            "rawText": "https://t.co/Av9yObRyrp",
+                                            "type": "tweet",
+                                            "created": "Sun, 27 Mar 2022 21:59:47 GMT",
+                                            "tweetId": "1508202147837624324",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1508202147837624324",
+                                            "inReplyToId": "1508179537305165834",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Living in Toronto milestone: Last night, I purposely called someone who also lives here with my Toronto phone number rather than my Vancouver one.",
