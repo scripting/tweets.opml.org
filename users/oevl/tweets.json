@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 22:45:48 GMT"
+            "dateModified": "Sun, 27 Mar 2022 19:32:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Shipping-damaged Mac Classic II - can it be saved? #MARCHintosh2022 <a href=\"https://t.co/leb35E77aH\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Shipping-damaged Mac Classic II - can it be saved? #MARCHintosh2022 https://t.co/leb35E77aH",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 19:28:29 GMT",
+                                    "tweetId": "1508164069836181504",
+                                    "urltweet": "https://twitter.com/oevl/status/1508164069836181504",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 26",
                             "type": "calendarDay",
