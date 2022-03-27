@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 25 Mar 2022 21:57:57 GMT"
+            "dateModified": "Sun, 27 Mar 2022 00:25:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "First book I’ve seen where Amazon customers “frequently bought” pocket radiation detectors.",
+                                    "rawText": "First book I’ve seen where Amazon customers “frequently bought” pocket radiation detectors.",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 00:23:57 GMT",
+                                    "tweetId": "1507876038080086020",
+                                    "urltweet": "https://twitter.com/yudel/status/1507876038080086020",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 25",
                             "type": "calendarDay",
