@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 21:57:33 GMT"
+            "dateModified": "Sun, 27 Mar 2022 23:31:39 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "This is lunacy.  <a href=\"https://t.co/RUqu9A5GjY\">[link]</a>",
+                                    "rawText": "This is lunacy.  https://t.co/RUqu9A5GjY",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 23:21:01 GMT",
+                                    "tweetId": "1508222591290548224",
+                                    "urltweet": "https://twitter.com/davewiner/status/1508222591290548224",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@benj_fry @egrattan Please take me off the cc list. Thanks.",
                                     "rawText": "@benj_fry @egrattan Please take me off the cc list. Thanks.",
