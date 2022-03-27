@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 14:54:06 GMT"
+            "dateModified": "Sun, 27 Mar 2022 15:05:52 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "@kevinhughes are you logged into the nyt when you use wordle? even if you aren't you've been tagged by so many cookies, they know who you are.",
+                                    "rawText": "@kevinhughes are you logged into the nyt when you use wordle? even if you aren't you've been tagged by so many cookies, they know who you are.",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 15:05:07 GMT",
+                                    "tweetId": "1508097791440179204",
+                                    "urltweet": "https://twitter.com/davewiner/status/1508097791440179204",
+                                    "inReplyToId": "1508095611345723395",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@kevinhughes you think the nyt isn't tracking everything you do in wordle?",
+                                    "rawText": "@kevinhughes you think the nyt isn't tracking everything you do in wordle?",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 14:55:05 GMT",
+                                    "tweetId": "1508095266297196551",
+                                    "urltweet": "https://twitter.com/davewiner/status/1508095266297196551",
+                                    "inReplyToId": "1508094871873200135",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@kevinhughes i have a lot of computers. ;-)",
                                     "rawText": "@kevinhughes i have a lot of computers. ;-)",
@@ -97,7 +117,31 @@
                                                                                     "tweetId": "1508094219973537796",
                                                                                     "urltweet": "https://twitter.com/davewiner/status/1508094219973537796",
                                                                                     "inReplyToId": "1508094133621112833",
-                                                                                    "tweetUserName": "davewiner"
+                                                                                    "tweetUserName": "davewiner",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "PS: The only punishment for Trump was he lost his TWTR. <a href=\"https://t.co/QDsNjpi4Mz\">[link]</a>",
+                                                                                            "rawText": "PS: The only punishment for Trump was he lost his TWTR. https://t.co/QDsNjpi4Mz",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Sun, 27 Mar 2022 15:01:38 GMT",
+                                                                                            "tweetId": "1508096917829468162",
+                                                                                            "urltweet": "https://twitter.com/davewiner/status/1508096917829468162",
+                                                                                            "inReplyToId": "1508094219973537796",
+                                                                                            "tweetUserName": "davewiner",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "PPS: That the Capitol was completely undefended can't have been an accident. I wasn't born yesterday and neither were you. If that had happened in another country would have believed there wasn't help on the inside?",
+                                                                                                    "rawText": "PPS: That the Capitol was completely undefended can't have been an accident. I wasn't born yesterday and neither were you. If that had happened in another country would have believed there wasn't help on the inside?",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Sun, 27 Mar 2022 15:04:24 GMT",
+                                                                                                    "tweetId": "1508097611710017548",
+                                                                                                    "urltweet": "https://twitter.com/davewiner/status/1508097611710017548",
+                                                                                                    "inReplyToId": "1508096917829468162",
+                                                                                                    "tweetUserName": "davewiner"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
