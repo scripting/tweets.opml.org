@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 21:42:59 GMT"
+            "dateModified": "Sun, 27 Mar 2022 20:50:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "I hope he is wrong, but….. <a href=\"https://t.co/ir91Yt7ne1\">[link]</a>",
+                                    "rawText": "I hope he is wrong, but….. https://t.co/ir91Yt7ne1",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 20:43:42 GMT",
+                                    "tweetId": "1508183001229897730",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1508183001229897730",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 26",
                             "type": "calendarDay",
