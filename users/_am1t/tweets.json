@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 26 Mar 2022 05:11:25 GMT"
+            "dateModified": "Sun, 27 Mar 2022 09:01:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Today’s Wordle was tricky. Two tries in and I had a big smile on my face. I am sure I wasn’t alone.",
+                                    "rawText": "Today’s Wordle was tricky. Two tries in and I had a big smile on my face. I am sure I wasn’t alone.",
+                                    "type": "tweet",
+                                    "created": "Sun, 27 Mar 2022 08:55:15 GMT",
+                                    "tweetId": "1508004713526087682",
+                                    "urltweet": "https://twitter.com/_am1t/status/1508004713526087682",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 26",
                             "type": "calendarDay",
