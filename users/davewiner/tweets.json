@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Mar 2022 02:51:37 GMT"
+            "dateModified": "Mon, 28 Mar 2022 03:15:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "We just saw Will Smith hit Chris Rock, and this is the speech Smith gives? This is such bullshit.",
+                                    "rawText": "We just saw Will Smith hit Chris Rock, and this is the speech Smith gives? This is such bullshit.",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Mar 2022 03:13:37 GMT",
+                                    "tweetId": "1508281126351257610",
+                                    "urltweet": "https://twitter.com/davewiner/status/1508281126351257610",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "He should have been thrown out of the venue.",
+                                            "rawText": "He should have been thrown out of the venue.",
+                                            "type": "tweet",
+                                            "created": "Mon, 28 Mar 2022 03:14:16 GMT",
+                                            "tweetId": "1508281290440810506",
+                                            "urltweet": "https://twitter.com/davewiner/status/1508281290440810506",
+                                            "inReplyToId": "1508281126351257610",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@FeroshUX @elonmusk it's not a dig at twitter. i'm a professional and i do a lot of development work assuming twitter's existence. i'm also a twtr shareholder, btw. \n\nany network that doesn't allow peering is going to be under the same kind of political pressure twitter is to ban unpopular people.",
                                     "rawText": "@FeroshUX @elonmusk it's not a dig at twitter. i'm a professional and i do a lot of development work assuming twitter's existence. i'm also a twtr shareholder, btw. \n\nany network that doesn't allow peering is going to be under the same kind of political pressure twitter is to ban unpopular people.",
