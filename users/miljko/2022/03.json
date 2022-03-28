@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Mar 2022 00:50:44 GMT"
+            "dateModified": "Mon, 28 Mar 2022 16:08:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@trzisnoresenje @prikljucenija1 @SkorupanMD Hvala! Videćemo… obe ideologije su na duži rok auto-destruktivne, ali treba preživeti kraći i srednji.",
+                                    "rawText": "@trzisnoresenje @prikljucenija1 @SkorupanMD Hvala! Videćemo… obe ideologije su na duži rok auto-destruktivne, ali treba preživeti kraći i srednji.",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Mar 2022 16:03:07 GMT",
+                                    "tweetId": "1508474778306371599",
+                                    "urltweet": "https://twitter.com/miljko/status/1508474778306371599",
+                                    "inReplyToId": "1508460062800597003",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 27",
                             "type": "calendarDay",
