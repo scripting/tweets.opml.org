@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Mar 2022 00:20:57 GMT"
+            "dateModified": "Mon, 28 Mar 2022 04:16:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Three cool planets and a pioneer microcomputer kit. <a href=\"https://t.co/0PhNylXFFx\">[link]</a>",
+                                    "rawText": "Three cool planets and a pioneer microcomputer kit. https://t.co/0PhNylXFFx",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Mar 2022 04:08:38 GMT",
+                                    "tweetId": "1508294972084260869",
+                                    "urltweet": "https://twitter.com/yudel/status/1508294972084260869",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 27",
                             "type": "calendarDay",
