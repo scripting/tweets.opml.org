@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Mar 2022 16:35:45 GMT"
+            "dateModified": "Mon, 28 Mar 2022 16:47:31 GMT"
         },
         "body": {
             "subs": [
@@ -45,7 +45,19 @@
                                     "created": "Mon, 28 Mar 2022 12:09:15 GMT",
                                     "tweetId": "1508415922003972107",
                                     "urltweet": "https://twitter.com/KenSmith/status/1508415922003972107",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "Other uses of that phrase:\n\n<a href=\"https://t.co/Thch6LXGIW\">[link]</a>",
+                                            "rawText": "Other uses of that phrase:\n\nhttps://t.co/Thch6LXGIW",
+                                            "type": "tweet",
+                                            "created": "Mon, 28 Mar 2022 16:46:25 GMT",
+                                            "tweetId": "1508485672654544908",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1508485672654544908",
+                                            "inReplyToId": "1508415922003972107",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "The Bill Barr memoir wants to confirm the basic Trump social media method. <a href=\"https://t.co/m0gE3oaUhS\">[link]</a> https://t.co/NAQH3NNSFI",
