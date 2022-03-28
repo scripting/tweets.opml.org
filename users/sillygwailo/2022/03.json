@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Mar 2022 16:16:44 GMT"
+            "dateModified": "Mon, 28 Mar 2022 17:39:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,51 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "Here’s my list. 🧵 <a href=\"https://t.co/JKrNnzNj6R\">[link]</a>",
+                                    "rawText": "Here’s my list. 🧵 https://t.co/JKrNnzNj6R",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Mar 2022 17:31:56 GMT",
+                                    "tweetId": "1508497127303008259",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1508497127303008259",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Toronto Architecture: A City Guide by Patricia McHugh and @alexbozikovic.",
+                                            "rawText": "Toronto Architecture: A City Guide by Patricia McHugh and @alexbozikovic.",
+                                            "type": "tweet",
+                                            "created": "Mon, 28 Mar 2022 17:31:56 GMT",
+                                            "tweetId": "1508497128682889223",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1508497128682889223",
+                                            "inReplyToId": "1508497127303008259",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Stroll: Psychogeographic Walking Tours of Toronto by @shawnmicallef.",
+                                                    "rawText": "Stroll: Psychogeographic Walking Tours of Toronto by @shawnmicallef.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 28 Mar 2022 17:35:16 GMT",
+                                                    "tweetId": "1508497965740085254",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1508497965740085254",
+                                                    "inReplyToId": "1508497128682889223",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "House Divided: How the Missing Middle Will Solve Toronto’s Housing Crisis by @JohnLorinc, @CheryllCase, @alexbozikovic, and @arkwelder12, eds.",
+                                                            "rawText": "House Divided: How the Missing Middle Will Solve Toronto’s Housing Crisis by @JohnLorinc, @CheryllCase, @alexbozikovic, and @arkwelder12, eds.",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 28 Mar 2022 17:36:22 GMT",
+                                                            "tweetId": "1508498242719436804",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1508498242719436804",
+                                                            "inReplyToId": "1508497965740085254",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@stephentweedale 7 days is a reasonable bet. This feels like an instance, though, where I’m not sure if just muting their names would mute the conversations about it. It’s not like some other subjects where you can mute just one word and the whole discourse becomes invisible to me.",
                                     "rawText": "@stephentweedale 7 days is a reasonable bet. This feels like an instance, though, where I’m not sure if just muting their names would mute the conversations about it. It’s not like some other subjects where you can mute just one word and the whole discourse becomes invisible to me.",
