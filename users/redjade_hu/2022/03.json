@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 05:48:00 GMT"
+            "dateModified": "Mon, 28 Mar 2022 17:28:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "social media is dying <a href=\"https://t.co/lAv9mGGJ8c\">[link]</a>",
+                                    "rawText": "social media is dying https://t.co/lAv9mGGJ8c",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Mar 2022 17:24:19 GMT",
+                                    "tweetId": "1508495212955459586",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1508495212955459586",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 27",
                             "type": "calendarDay",
