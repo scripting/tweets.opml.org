@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 23:58:26 GMT"
+            "dateModified": "Mon, 28 Mar 2022 13:06:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Woke up to a frosty 17 degrees this morning. One more day of below normal temperature is forecasted for tomorrow, then we should be back to normal.",
+                                    "rawText": "Woke up to a frosty 17 degrees this morning. One more day of below normal temperature is forecasted for tomorrow, then we should be back to normal.",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Mar 2022 13:02:28 GMT",
+                                    "tweetId": "1508429315599392769",
+                                    "urltweet": "https://twitter.com/frankm/status/1508429315599392769",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 27",
                             "type": "calendarDay",
