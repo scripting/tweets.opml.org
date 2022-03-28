@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 27 Mar 2022 23:30:24 GMT"
+            "dateModified": "Mon, 28 Mar 2022 13:49:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@RealMattLucas @_MariaPetrova I'm OK, but won't bother watching Oscars next year.",
+                                    "rawText": "@RealMattLucas @_MariaPetrova I'm OK, but won't bother watching Oscars next year.",
+                                    "type": "tweet",
+                                    "created": "Mon, 28 Mar 2022 13:39:21 GMT",
+                                    "tweetId": "1508438595563970566",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1508438595563970566",
+                                    "inReplyToId": "1508289225925533696",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 27",
                             "type": "calendarDay",
