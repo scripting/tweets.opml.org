@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 29 Mar 2022 18:04:10 GMT"
+            "dateModified": "Tue, 29 Mar 2022 18:15:56 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "A question for devs. When connecting a web client to a server, do you do polling, long polling or websockets for real time updates? Do you know what Twitter does? Facebook? Any other popular \"live\" web app.",
+                                    "rawText": "A question for devs. When connecting a web client to a server, do you do polling, long polling or websockets for real time updates? Do you know what Twitter does? Facebook? Any other popular \"live\" web app.",
+                                    "type": "tweet",
+                                    "created": "Tue, 29 Mar 2022 18:06:34 GMT",
+                                    "tweetId": "1508868233100767236",
+                                    "urltweet": "https://twitter.com/davewiner/status/1508868233100767236",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Sarah Sherman is a star. Maybe as big as Gilda Radner. <a href=\"https://t.co/l997LibvGl\">[link]</a>",
                                     "rawText": "Sarah Sherman is a star. Maybe as big as Gilda Radner. https://t.co/l997LibvGl",
