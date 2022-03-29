@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/davewiner/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 29 Mar 2022 18:27:42 GMT</dateModified>
+		<dateModified>Tue, 29 Mar 2022 18:51:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="March 2022" type="calendarMonth" name="march2022" >
 			<outline text="March 29" type="calendarDay" name="29" >
+				<outline text="@mterenzio I've been using Websockets pretty routinely these days. 
+
+The Instant Outlines feature supported by Drummer uses them. When you open one, it has a WS link back to the publisher, and when the outline updates, the updated is transmitted to the viewers." rawText="@mterenzio I've been using Websockets pretty routinely these days. 
+
+The Instant Outlines feature supported by Drummer uses them. When you open one, it has a WS link back to the publisher, and when the outline updates, the updated is transmitted to the viewers." type="tweet" created="Tue, 29 Mar 2022 18:46:36 GMT" tweetId="1508878307093323785" urltweet="https://twitter.com/davewiner/status/1508878307093323785" inReplyToId="1508876635935809550" tweetUserName="davewiner" >
+					<outline text="@mterenzio Everything I've read about WS says that it's totally cool to rely on the tech, nothing experimental about it." rawText="@mterenzio Everything I've read about WS says that it's totally cool to rely on the tech, nothing experimental about it." type="tweet" created="Tue, 29 Mar 2022 18:48:12 GMT" tweetId="1508878707154370563" urltweet="https://twitter.com/davewiner/status/1508878707154370563" inReplyToId="1508878307093323785" tweetUserName="davewiner" />
+					</outline>
 				<outline text="A Google search for &quot;Defund Fox News.&quot; Lots of hits. 
 
 No one should be forced to fund Putin's propaganda arm in the US.
@@ -19,7 +26,7 @@ No one should be forced to fund Putin's propaganda arm in the US.
 
 No one should be forced to fund Putin's propaganda arm in the US.
 
-https://t.co/m6zpJTQbUb" type="tweet" created="Tue, 29 Mar 2022 18:17:24 GMT" tweetId="1508870958232317955" urltweet="https://twitter.com/davewiner/status/1508870958232317955" inReplyToId="" tweetUserName="davewiner" />
+https://t.co/m6zpJTQbUb" type="tweet" created="Tue, 29 Mar 2022 18:17:24 GMT" tweetId="1508870958232317955" urltweet="https://twitter.com/davewiner/status/1508870958232317955" tweetUserName="davewiner" />
 				<outline text="A question for devs. When connecting a web client to a server, do you do polling, long polling or websockets for real time updates? Do you know what Twitter does? Facebook? Any other popular &quot;live&quot; web app." rawText="A question for devs. When connecting a web client to a server, do you do polling, long polling or websockets for real time updates? Do you know what Twitter does? Facebook? Any other popular &quot;live&quot; web app." type="tweet" created="Tue, 29 Mar 2022 18:06:34 GMT" tweetId="1508868233100767236" urltweet="https://twitter.com/davewiner/status/1508868233100767236" tweetUserName="davewiner" />
 				<outline text="Sarah Sherman is a star. Maybe as big as Gilda Radner. &lt;a href=&quot;https://t.co/l997LibvGl&quot;&gt;[link]&lt;/a&gt;" rawText="Sarah Sherman is a star. Maybe as big as Gilda Radner. https://t.co/l997LibvGl" type="tweet" created="Tue, 29 Mar 2022 17:53:47 GMT" tweetId="1508865016581308425" urltweet="https://twitter.com/davewiner/status/1508865016581308425" tweetUserName="davewiner" />
 				<outline text="FeedWordPress is an open-source RSS aggregator for the WordPress blog publishing platform. &lt;a href=&quot;https://t.co/URgxgG6UNB&quot;&gt;[link]&lt;/a&gt;" rawText="FeedWordPress is an open-source RSS aggregator for the WordPress blog publishing platform. https://t.co/URgxgG6UNB" type="tweet" created="Tue, 29 Mar 2022 17:37:28 GMT" tweetId="1508860910185689098" urltweet="https://twitter.com/davewiner/status/1508860910185689098" tweetUserName="davewiner" />
