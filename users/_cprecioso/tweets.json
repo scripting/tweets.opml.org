@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Mar 2022 09:50:49 GMT"
+            "dateModified": "Tue, 29 Mar 2022 08:23:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@rafagarces @srtena placa placa",
+                                    "rawText": "@rafagarces @srtena placa placa",
+                                    "type": "tweet",
+                                    "created": "Tue, 29 Mar 2022 08:17:37 GMT",
+                                    "tweetId": "1508720018846007303",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1508720018846007303",
+                                    "inReplyToId": "1508719876462071810",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@PorP0derSePuede dice laurel claramente",
+                                    "rawText": "@PorP0derSePuede dice laurel claramente",
+                                    "type": "tweet",
+                                    "created": "Tue, 29 Mar 2022 08:16:59 GMT",
+                                    "tweetId": "1508719856333557761",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1508719856333557761",
+                                    "inReplyToId": "1508719378199629825",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 28",
                             "type": "calendarDay",
