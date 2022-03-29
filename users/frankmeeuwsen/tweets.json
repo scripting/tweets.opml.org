@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Mar 2022 20:31:46 GMT"
+            "dateModified": "Tue, 29 Mar 2022 09:28:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@copydimitri Lijstje? Wat heb ik gedaan?",
+                                    "rawText": "@copydimitri Lijstje? Wat heb ik gedaan?",
+                                    "type": "tweet",
+                                    "created": "Tue, 29 Mar 2022 09:18:44 GMT",
+                                    "tweetId": "1508735397744029706",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1508735397744029706",
+                                    "inReplyToId": "1508733883419930627",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 28",
                             "type": "calendarDay",
