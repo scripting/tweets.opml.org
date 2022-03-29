@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 29 Mar 2022 18:27:42 GMT"
+            "dateModified": "Tue, 29 Mar 2022 18:51:14 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "@mterenzio I've been using Websockets pretty routinely these days. \n\nThe Instant Outlines feature supported by Drummer uses them. When you open one, it has a WS link back to the publisher, and when the outline updates, the updated is transmitted to the viewers.",
+                                    "rawText": "@mterenzio I've been using Websockets pretty routinely these days. \n\nThe Instant Outlines feature supported by Drummer uses them. When you open one, it has a WS link back to the publisher, and when the outline updates, the updated is transmitted to the viewers.",
+                                    "type": "tweet",
+                                    "created": "Tue, 29 Mar 2022 18:46:36 GMT",
+                                    "tweetId": "1508878307093323785",
+                                    "urltweet": "https://twitter.com/davewiner/status/1508878307093323785",
+                                    "inReplyToId": "1508876635935809550",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@mterenzio Everything I've read about WS says that it's totally cool to rely on the tech, nothing experimental about it.",
+                                            "rawText": "@mterenzio Everything I've read about WS says that it's totally cool to rely on the tech, nothing experimental about it.",
+                                            "type": "tweet",
+                                            "created": "Tue, 29 Mar 2022 18:48:12 GMT",
+                                            "tweetId": "1508878707154370563",
+                                            "urltweet": "https://twitter.com/davewiner/status/1508878707154370563",
+                                            "inReplyToId": "1508878307093323785",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "A Google search for \"Defund Fox News.\" Lots of hits. \n\nNo one should be forced to fund Putin's propaganda arm in the US.\n\n<a href=\"https://t.co/m6zpJTQbUb\">[link]</a>",
                                     "rawText": "A Google search for \"Defund Fox News.\" Lots of hits. \n\nNo one should be forced to fund Putin's propaganda arm in the US.\n\nhttps://t.co/m6zpJTQbUb",
