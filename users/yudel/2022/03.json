@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 29 Mar 2022 21:38:10 GMT"
+            "dateModified": "Tue, 29 Mar 2022 21:49:55 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "This is the present Republicans want. <a href=\"https://t.co/yOxnFenPul\">[link]</a>",
+                                    "rawText": "This is the present Republicans want. https://t.co/yOxnFenPul",
+                                    "type": "tweet",
+                                    "created": "Tue, 29 Mar 2022 21:41:59 GMT",
+                                    "tweetId": "1508922441724268552",
+                                    "urltweet": "https://twitter.com/yudel/status/1508922441724268552",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "And this is of course the corresponding future. <a href=\"https://t.co/T2k8tRrEfM\">[link]</a>",
+                                            "rawText": "And this is of course the corresponding future. https://t.co/T2k8tRrEfM",
+                                            "type": "tweet",
+                                            "created": "Tue, 29 Mar 2022 21:44:21 GMT",
+                                            "tweetId": "1508923039815241733",
+                                            "urltweet": "https://twitter.com/yudel/status/1508923039815241733",
+                                            "inReplyToId": "1508922441724268552",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Some excellent news for those of us toiling in the newspaper mines this evening. <a href=\"https://t.co/WnqKL3XS6h\">[link]</a>",
                                     "rawText": "Some excellent news for those of us toiling in the newspaper mines this evening. https://t.co/WnqKL3XS6h",
