@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 30 Mar 2022 03:31:02 GMT"
+            "dateModified": "Wed, 30 Mar 2022 05:16:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Today in Prager U faculty outrages. <a href=\"https://t.co/vijBchVsiT\">[link]</a>",
+                                    "rawText": "Today in Prager U faculty outrages. https://t.co/vijBchVsiT",
+                                    "type": "tweet",
+                                    "created": "Wed, 30 Mar 2022 05:13:48 GMT",
+                                    "tweetId": "1509036148198367234",
+                                    "urltweet": "https://twitter.com/yudel/status/1509036148198367234",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "Today in ArtScroll scions. <a href=\"https://t.co/ESbl3xH9Ls\">[link]</a>",
+                                    "rawText": "Today in ArtScroll scions. https://t.co/ESbl3xH9Ls",
+                                    "type": "tweet",
+                                    "created": "Wed, 30 Mar 2022 05:11:49 GMT",
+                                    "tweetId": "1509035648514244613",
+                                    "urltweet": "https://twitter.com/yudel/status/1509035648514244613",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 29",
                             "type": "calendarDay",
