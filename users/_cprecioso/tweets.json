@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 30 Mar 2022 19:40:50 GMT"
+            "dateModified": "Wed, 30 Mar 2022 21:38:27 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "Este mensaje encapsula mucho <a href=\"https://t.co/VFTXoBzGRR\">[link]</a>",
+                                    "rawText": "Este mensaje encapsula mucho https://t.co/VFTXoBzGRR",
+                                    "type": "tweet",
+                                    "created": "Wed, 30 Mar 2022 21:37:37 GMT",
+                                    "tweetId": "1509283733727322120",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1509283733727322120",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@rafagarces @buenapava Lo gestiono",
                                     "rawText": "@rafagarces @buenapava Lo gestiono",
