@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 28 Mar 2022 13:06:32 GMT"
+            "dateModified": "Wed, 30 Mar 2022 00:35:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "I wonder whether the “Friday Night Baseball” on Apple TV will be blacked out for local markets like <a href=\"https://t.co/h2zclkISNO\">[link]</a> is? https://t.co/Dp9HNa8aC6",
+                                    "rawText": "I wonder whether the “Friday Night Baseball” on Apple TV will be blacked out for local markets like https://t.co/h2zclkISNO is? https://t.co/Dp9HNa8aC6",
+                                    "type": "tweet",
+                                    "created": "Wed, 30 Mar 2022 00:28:49 GMT",
+                                    "tweetId": "1508964425981739015",
+                                    "urltweet": "https://twitter.com/frankm/status/1508964425981739015",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 28",
                             "type": "calendarDay",
