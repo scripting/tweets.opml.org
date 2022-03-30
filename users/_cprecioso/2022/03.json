@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 29 Mar 2022 22:06:56 GMT"
+            "dateModified": "Wed, 30 Mar 2022 10:04:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/ox6lqQNP8u\">[link]</a>",
+                                    "rawText": "https://t.co/ox6lqQNP8u",
+                                    "type": "tweet",
+                                    "created": "Wed, 30 Mar 2022 10:03:56 GMT",
+                                    "tweetId": "1509109162730528768",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1509109162730528768",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 29",
                             "type": "calendarDay",
