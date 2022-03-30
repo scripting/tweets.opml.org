@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 30 Mar 2022 22:53:17 GMT"
+            "dateModified": "Wed, 30 Mar 2022 23:52:06 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "Oy #Knicks bring in IQ.",
+                                    "rawText": "Oy #Knicks bring in IQ.",
+                                    "type": "tweet",
+                                    "created": "Wed, 30 Mar 2022 23:45:05 GMT",
+                                    "tweetId": "1509315808513728520",
+                                    "urltweet": "https://twitter.com/davewiner/status/1509315808513728520",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Neve minde. 😁",
+                                            "rawText": "Neve minde. 😁",
+                                            "type": "tweet",
+                                            "created": "Wed, 30 Mar 2022 23:47:04 GMT",
+                                            "tweetId": "1509316311096119297",
+                                            "urltweet": "https://twitter.com/davewiner/status/1509316311096119297",
+                                            "inReplyToId": "1509315808513728520",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Will Smith Refused to Leave Oscars After Slap, Academy Says. <a href=\"https://t.co/BLLfIFzivK\">[link]</a>",
                                     "rawText": "Will Smith Refused to Leave Oscars After Slap, Academy Says. https://t.co/BLLfIFzivK",
