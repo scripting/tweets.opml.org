@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 31 Mar 2022 04:01:22 GMT"
+            "dateModified": "Thu, 31 Mar 2022 14:36:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@peterhimmelman So many of us were so much younger then!",
+                                    "rawText": "@peterhimmelman So many of us were so much younger then!",
+                                    "type": "tweet",
+                                    "created": "Thu, 31 Mar 2022 14:25:31 GMT",
+                                    "tweetId": "1509537377500422150",
+                                    "urltweet": "https://twitter.com/yudel/status/1509537377500422150",
+                                    "inReplyToId": "1509494356989853703",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 30",
                             "type": "calendarDay",
