@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 30 Mar 2022 18:35:15 GMT"
+            "dateModified": "Thu, 31 Mar 2022 11:03:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Rose Mary Woods \nonly erased 18 1/2 minutes \nof Watergate tape.\n\n(Well, it seemed to be her. \nBack in 1973 Alexander Haig \n“speculated aloud that \nthe erasure was caused by \nan unidentified ‘sinister force.’”)",
+                                    "rawText": "Rose Mary Woods \nonly erased 18 1/2 minutes \nof Watergate tape.\n\n(Well, it seemed to be her. \nBack in 1973 Alexander Haig \n“speculated aloud that \nthe erasure was caused by \nan unidentified ‘sinister force.’”)",
+                                    "type": "tweet",
+                                    "created": "Thu, 31 Mar 2022 10:57:23 GMT",
+                                    "tweetId": "1509485000667893761",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1509485000667893761",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 30",
                             "type": "calendarDay",
