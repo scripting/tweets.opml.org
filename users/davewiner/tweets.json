@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 30 Mar 2022 23:52:06 GMT"
+            "dateModified": "Thu, 31 Mar 2022 10:27:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Russian Troops Suffer ‘Acute Radiation Sickness’ After Digging Chernobyl Trenches. <a href=\"https://t.co/XHg5baQe6O\">[link]</a>",
+                                    "rawText": "Russian Troops Suffer ‘Acute Radiation Sickness’ After Digging Chernobyl Trenches. https://t.co/XHg5baQe6O",
+                                    "type": "tweet",
+                                    "created": "Thu, 31 Mar 2022 10:26:37 GMT",
+                                    "tweetId": "1509477258062450696",
+                                    "urltweet": "https://twitter.com/davewiner/status/1509477258062450696",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 30",
                             "type": "calendarDay",
