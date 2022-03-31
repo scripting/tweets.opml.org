@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 31 Mar 2022 14:27:48 GMT"
+            "dateModified": "Thu, 31 Mar 2022 14:39:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "31",
                             "subs": [
+                                {
+                                    "text": "@rtanglao I’ve been considering doing that in Etobicoke. So why not Berlin?",
+                                    "rawText": "@rtanglao I’ve been considering doing that in Etobicoke. So why not Berlin?",
+                                    "type": "tweet",
+                                    "created": "Thu, 31 Mar 2022 14:31:51 GMT",
+                                    "tweetId": "1509538970820087814",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1509538970820087814",
+                                    "inReplyToId": "1509347298593046530",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@jeffjedras My German is about as good as that of Smithers from The Simpsons. <a href=\"https://t.co/fvgACyg1zW\">[link]</a>",
                                     "rawText": "@jeffjedras My German is about as good as that of Smithers from The Simpsons. https://t.co/fvgACyg1zW",
@@ -93,7 +103,31 @@
                                     "created": "Wed, 30 Mar 2022 22:51:07 GMT",
                                     "tweetId": "1509302228804382724",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1509302228804382724",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Maybe it’s just that I miss working with German speakers.",
+                                            "rawText": "Maybe it’s just that I miss working with German speakers.",
+                                            "type": "tweet",
+                                            "created": "Thu, 31 Mar 2022 14:30:13 GMT",
+                                            "tweetId": "1509538559514005513",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1509538559514005513",
+                                            "inReplyToId": "1509302228804382724",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "A running joke at work was, whenever my German manager would say a German proverb that he had translated into English, it wouldn’t make sense to us. So we’d get him to say it in the original German, which none of us spoke, and we respond with “Ah, right, of course.”",
+                                                    "rawText": "A running joke at work was, whenever my German manager would say a German proverb that he had translated into English, it wouldn’t make sense to us. So we’d get him to say it in the original German, which none of us spoke, and we respond with “Ah, right, of course.”",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 31 Mar 2022 14:36:26 GMT",
+                                                    "tweetId": "1509540127286120450",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1509540127286120450",
+                                                    "inReplyToId": "1509538559514005513",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I’m tempted to revive my bot @AllTimesPacific just for this. <a href=\"https://t.co/UXILA6SIOp\">[link]</a>",
