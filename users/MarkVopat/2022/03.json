@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 30 Mar 2022 23:09:03 GMT"
+            "dateModified": "Fri, 01 Apr 2022 00:14:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Wordle 285 4/6\n\n⬛⬛⬛🟩⬛\n⬛⬛⬛🟩🟨\n⬛🟩🟨🟩🟩\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 285 4/6\n\n⬛⬛⬛🟩⬛\n⬛⬛⬛🟩🟨\n⬛🟩🟨🟩🟩\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 00:13:09 GMT",
+                                    "tweetId": "1509685260895858691",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1509685260895858691",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 30",
                             "type": "calendarDay",
