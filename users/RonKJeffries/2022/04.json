@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "RonKJeffries tweets",
+            "dateCreated": "Fri, 11 Feb 2022 13:43:39 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Apr 2022 08:58:44 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Most excellent! Thank you, 2 am Twitter! <a href=\"https://t.co/lCzNtsafGk\">[link]</a>",
+                                    "rawText": "Most excellent! Thank you, 2 am Twitter! https://t.co/lCzNtsafGk",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 08:58:09 GMT",
+                                    "tweetId": "1509817383283617794",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1509817383283617794",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
