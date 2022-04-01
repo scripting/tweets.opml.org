@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 11:57:11 GMT"
+            "dateModified": "Fri, 01 Apr 2022 13:19:31 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "\"What an Oscar Win for ‘CODA’ Tells Us About Apple’s Power.\" <a href=\"https://t.co/6KJmfhpTQH\">[link]</a>",
+                                    "rawText": "\"What an Oscar Win for ‘CODA’ Tells Us About Apple’s Power.\" https://t.co/6KJmfhpTQH",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 13:08:38 GMT",
+                                    "tweetId": "1509880416471240709",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1509880416471240709",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "I don't know enough to quibble with the particulars of this opinion piece, but the \"on the other hand\" move sometimes waters things down in an op-ed. <a href=\"https://t.co/qeQnn6yoze\">[link]</a>",
+                                            "rawText": "I don't know enough to quibble with the particulars of this opinion piece, but the \"on the other hand\" move sometimes waters things down in an op-ed. https://t.co/qeQnn6yoze",
+                                            "type": "tweet",
+                                            "created": "Fri, 01 Apr 2022 13:12:27 GMT",
+                                            "tweetId": "1509881376589422598",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1509881376589422598",
+                                            "inReplyToId": "1509880416471240709",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "#defundFoxNews\nHard to tell exactly what Google Alerts scans each day, but no action just yet for this new standing search, to be delivered in a daily email. <a href=\"https://t.co/NBb0Il2XwQ\">[link]</a>",
                                     "rawText": "#defundFoxNews\nHard to tell exactly what Google Alerts scans each day, but no action just yet for this new standing search, to be delivered in a daily email. https://t.co/NBb0Il2XwQ",
