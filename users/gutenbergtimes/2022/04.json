@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "gutenbergtimes tweets",
+            "dateCreated": "Fri, 11 Feb 2022 10:58:20 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Apr 2022 23:17:10 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "New: Future of Themes is here, Block Examples updated and a Walk-Through - Weekend Edition #209 - hand-curated news by Birgit Pauli-Haack @bph with contributions by @ryanwelcher @andraganescu @critterverse @get_dave @scruffian @richard_tabor\n#WordPress <a href=\"https://t.co/qGU1cF25FW\">[link]</a>",
+                                    "rawText": "New: Future of Themes is here, Block Examples updated and a Walk-Through - Weekend Edition #209 - hand-curated news by Birgit Pauli-Haack @bph with contributions by @ryanwelcher @andraganescu @critterverse @get_dave @scruffian @richard_tabor\n#WordPress https://t.co/qGU1cF25FW",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 23:12:19 GMT",
+                                    "tweetId": "1510032338562031619",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1510032338562031619",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
