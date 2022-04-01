@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "moosebegab tweets",
+            "dateCreated": "Sun, 19 Dec 2021 16:38:45 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Apr 2022 14:43:37 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@Mairead_Sayre not a fan, either...",
+                                    "rawText": "@Mairead_Sayre not a fan, either...",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 14:39:27 GMT",
+                                    "tweetId": "1509903273410576391",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1509903273410576391",
+                                    "inReplyToId": "1509895472978317313",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
