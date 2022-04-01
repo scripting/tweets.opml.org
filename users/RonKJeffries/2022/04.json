@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 16:13:58 GMT"
+            "dateModified": "Fri, 01 Apr 2022 16:25:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@Carnage4Life @a16z You are MUCH better than this.",
+                                    "rawText": "@Carnage4Life @a16z You are MUCH better than this.",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 16:14:17 GMT",
+                                    "tweetId": "1509927137926516739",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1509927137926516739",
+                                    "inReplyToId": "1509924574682488837",
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "@Carnage4Life @a16z OK, it's time to quit using the web for today! I fell for this prank.",
+                                            "rawText": "@Carnage4Life @a16z OK, it's time to quit using the web for today! I fell for this prank.",
+                                            "type": "tweet",
+                                            "created": "Fri, 01 Apr 2022 16:15:54 GMT",
+                                            "tweetId": "1509927547160563715",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1509927547160563715",
+                                            "inReplyToId": "1509927137926516739",
+                                            "tweetUserName": "RonKJeffries"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Dear Twitter peeps: CC: @androidcentral @DigestAndroid @googledevs @SamsungMobileUS \n\nI help an elderly disabled veteran who uses a Samsung A50 phone. When he has an issue with his phone it would help ENORMOUSLY if I could remotely view his screen.\n\nThis problem can't be unique.",
                                     "rawText": "Dear Twitter peeps: CC: @androidcentral @DigestAndroid @googledevs @SamsungMobileUS \n\nI help an elderly disabled veteran who uses a Samsung A50 phone. When he has an issue with his phone it would help ENORMOUSLY if I could remotely view his screen.\n\nThis problem can't be unique.",
