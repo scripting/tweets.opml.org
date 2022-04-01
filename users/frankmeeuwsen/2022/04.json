@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "frankmeeuwsen tweets",
+            "dateCreated": "Sat, 18 Dec 2021 16:25:34 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Apr 2022 05:53:17 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Was ik er toch bijna ingetrapt...nog voor mijn eerste koffie. <a href=\"https://t.co/ih8t1Lgtl8\">[link]</a>",
+                                    "rawText": "Was ik er toch bijna ingetrapt...nog voor mijn eerste koffie. https://t.co/ih8t1Lgtl8",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 05:43:59 GMT",
+                                    "tweetId": "1509768519440904241",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1509768519440904241",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
