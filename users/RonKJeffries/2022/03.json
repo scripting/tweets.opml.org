@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 30 Mar 2022 17:10:55 GMT"
+            "dateModified": "Fri, 01 Apr 2022 00:21:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "march2022",
                     "subs": [
+                        {
+                            "text": "March 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@fed_speak Nope. Move along, nothing to see here,",
+                                    "rawText": "@fed_speak Nope. Move along, nothing to see here,",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 00:12:19 GMT",
+                                    "tweetId": "1509685049553162278",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1509685049553162278",
+                                    "inReplyToId": "1509684770153897990",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "March 30",
                             "type": "calendarDay",
