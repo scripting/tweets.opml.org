@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "KenSmith tweets",
+            "dateCreated": "Wed, 15 Dec 2021 02:53:23 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Apr 2022 11:57:11 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "#defundFoxNews\nHard to tell exactly what Google Alerts scans each day, but no action just yet for this new standing search, to be delivered in a daily email. <a href=\"https://t.co/NBb0Il2XwQ\">[link]</a>",
+                                    "rawText": "#defundFoxNews\nHard to tell exactly what Google Alerts scans each day, but no action just yet for this new standing search, to be delivered in a daily email. https://t.co/NBb0Il2XwQ",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 11:47:09 GMT",
+                                    "tweetId": "1509859910095458310",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1509859910095458310",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
