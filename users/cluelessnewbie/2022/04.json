@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "cluelessnewbie tweets",
+            "dateCreated": "Mon, 13 Dec 2021 20:18:57 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Apr 2022 14:05:34 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "The clueless newbie has something to say.",
+                                    "rawText": "The clueless newbie has something to say.",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 13:56:15 GMT",
+                                    "tweetId": "1509892403045539844",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1509892403045539844",
+                                    "tweetUserName": "cluelessnewbie"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
