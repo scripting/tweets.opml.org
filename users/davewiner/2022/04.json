@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "davewiner tweets",
+            "dateCreated": "Sat, 18 Dec 2021 15:51:38 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Apr 2022 09:58:48 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "The making of The Godfather. <a href=\"https://t.co/KIz6JQqxXO\">[link]</a>",
+                                    "rawText": "The making of The Godfather. https://t.co/KIz6JQqxXO",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 09:54:11 GMT",
+                                    "tweetId": "1509831482319290368",
+                                    "urltweet": "https://twitter.com/davewiner/status/1509831482319290368",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
