@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 16:29:14 GMT"
+            "dateModified": "Fri, 01 Apr 2022 16:40:59 GMT"
         },
         "body": {
             "subs": [
@@ -48,7 +48,31 @@
                                                     "tweetId": "1509930734940827651",
                                                     "urltweet": "https://twitter.com/yudel/status/1509930734940827651",
                                                     "inReplyToId": "1509930426361651203",
-                                                    "tweetUserName": "yudel"
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@Yair_Rosenberg @FoxmanAbraham Do you simply say, Walker, who holds bizarre antisemitic conspiracy theories, as an appositive clause as if it were an honorary degree or a lingering illness?",
+                                                            "rawText": "@Yair_Rosenberg @FoxmanAbraham Do you simply say, Walker, who holds bizarre antisemitic conspiracy theories, as an appositive clause as if it were an honorary degree or a lingering illness?",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 01 Apr 2022 16:30:15 GMT",
+                                                            "tweetId": "1509931158410252290",
+                                                            "urltweet": "https://twitter.com/yudel/status/1509931158410252290",
+                                                            "inReplyToId": "1509930734940827651",
+                                                            "tweetUserName": "yudel",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "@Yair_Rosenberg @FoxmanAbraham The journalistic conventions of approaching every main character with a presumption of good faith makes de facto cancellation the easiest course for a reporter and editor for whom an Alice Walker appearance is supposed to be an easy story.",
+                                                                    "rawText": "@Yair_Rosenberg @FoxmanAbraham The journalistic conventions of approaching every main character with a presumption of good faith makes de facto cancellation the easiest course for a reporter and editor for whom an Alice Walker appearance is supposed to be an easy story.",
+                                                                    "type": "tweet",
+                                                                    "created": "Fri, 01 Apr 2022 16:32:48 GMT",
+                                                                    "tweetId": "1509931798721142805",
+                                                                    "urltweet": "https://twitter.com/yudel/status/1509931798721142805",
+                                                                    "inReplyToId": "1509931158410252290",
+                                                                    "tweetUserName": "yudel"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
