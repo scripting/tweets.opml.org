@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "cshotton tweets",
+            "dateCreated": "Mon, 24 Jan 2022 19:51:26 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Apr 2022 15:23:39 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@rudytheelder \"Whose chopper is this?\"",
+                                    "rawText": "@rudytheelder \"Whose chopper is this?\"",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Apr 2022 15:14:13 GMT",
+                                    "tweetId": "1509912023458590725",
+                                    "urltweet": "https://twitter.com/cshotton/status/1509912023458590725",
+                                    "inReplyToId": "1509632840308178963",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
