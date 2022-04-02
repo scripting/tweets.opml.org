@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 01:40:34 GMT"
+            "dateModified": "Sat, 02 Apr 2022 12:04:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "What's the magic number? How many people who write about your topic do you have to read before you're likely to hear about most any new development? <a href=\"https://t.co/7GtamTCnDc\">[link]</a>",
+                                    "rawText": "What's the magic number? How many people who write about your topic do you have to read before you're likely to hear about most any new development? https://t.co/7GtamTCnDc",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Apr 2022 11:53:45 GMT",
+                                    "tweetId": "1510223960968945665",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1510223960968945665",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
