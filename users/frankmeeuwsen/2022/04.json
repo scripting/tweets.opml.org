@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 05:53:17 GMT"
+            "dateModified": "Sat, 02 Apr 2022 05:13:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Dit is waar we het over hadden, @CharlottesLaw <a href=\"https://t.co/xHp1s797zd\">[link]</a>",
+                                    "rawText": "Dit is waar we het over hadden, @CharlottesLaw https://t.co/xHp1s797zd",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Apr 2022 05:03:22 GMT",
+                                    "tweetId": "1510120684374089736",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1510120684374089736",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
