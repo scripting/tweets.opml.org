@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 17:50:19 GMT"
+            "dateModified": "Sat, 02 Apr 2022 09:43:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Off to Orlando 🛫",
+                                    "rawText": "Off to Orlando 🛫",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Apr 2022 09:31:30 GMT",
+                                    "tweetId": "1510188160667553798",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1510188160667553798",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
