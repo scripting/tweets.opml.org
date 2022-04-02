@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 02:19:07 GMT"
+            "dateModified": "Sat, 02 Apr 2022 13:53:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "\"Could it be that open debate, the importance of truth, the necessity of human rights for all, and the desirability of evidence are making a comeback? Is mere yelling about to go out of fashion? Let us devoutly hope so.\" <a href=\"https://t.co/AYRuEILNTk\">[link]</a>",
+                                    "rawText": "\"Could it be that open debate, the importance of truth, the necessity of human rights for all, and the desirability of evidence are making a comeback? Is mere yelling about to go out of fashion? Let us devoutly hope so.\" https://t.co/AYRuEILNTk",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Apr 2022 13:44:08 GMT",
+                                    "tweetId": "1510251741362761729",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1510251741362761729",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
