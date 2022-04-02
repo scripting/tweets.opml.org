@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 08:33:43 GMT"
+            "dateModified": "Sat, 02 Apr 2022 21:48:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@ktemkin All for science",
+                                    "rawText": "@ktemkin All for science",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Apr 2022 21:43:57 GMT",
+                                    "tweetId": "1510372490698182672",
+                                    "urltweet": "https://twitter.com/chiguire/status/1510372490698182672",
+                                    "inReplyToId": "1510370666721198085",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
