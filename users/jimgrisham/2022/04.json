@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 01:55:20 GMT"
+            "dateModified": "Sat, 02 Apr 2022 04:40:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@Javier_F @BrianWhedon @Euan_MacDonald It sounds like the implication is that different sized ships are sometimes commanded by different ranks.\n\nUS Navy example:\n - Enlisted NCO commands motor launch\n - LT commanded WWII PT boat\n - CDR commands fast-attack submarine\n - CAPT commands cruiser\n\n(generally)",
+                                    "rawText": "@Javier_F @BrianWhedon @Euan_MacDonald It sounds like the implication is that different sized ships are sometimes commanded by different ranks.\n\nUS Navy example:\n - Enlisted NCO commands motor launch\n - LT commanded WWII PT boat\n - CDR commands fast-attack submarine\n - CAPT commands cruiser\n\n(generally)",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Apr 2022 04:36:33 GMT",
+                                    "tweetId": "1510113934082256904",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1510113934082256904",
+                                    "inReplyToId": "1509969986252640259",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
