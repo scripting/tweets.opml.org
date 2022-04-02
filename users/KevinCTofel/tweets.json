@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 17:58:35 GMT"
+            "dateModified": "Sat, 02 Apr 2022 04:22:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Whoa! and Whoaaaa!  <a href=\"https://t.co/0EDDMKENLg\">[link]</a>",
+                                    "rawText": "Whoa! and Whoaaaa!  https://t.co/0EDDMKENLg",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Apr 2022 04:16:32 GMT",
+                                    "tweetId": "1510108896370868224",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1510108896370868224",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
