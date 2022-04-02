@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 17:17:36 GMT"
+            "dateModified": "Sat, 02 Apr 2022 18:39:56 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "02",
                             "subs": [
+                                {
+                                    "text": "@burray_mill @KPromeni Ahaha ne. Monarhija stop.",
+                                    "rawText": "@burray_mill @KPromeni Ahaha ne. Monarhija stop.",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Apr 2022 18:38:41 GMT",
+                                    "tweetId": "1510325866731032579",
+                                    "urltweet": "https://twitter.com/miljko/status/1510325866731032579",
+                                    "inReplyToId": "1510325393319993345",
+                                    "tweetUserName": "miljko"
+                                },
                                 {
                                     "text": "@mali_gad Bez brige, svet će brzo naći način da ga upropasti. U stvari već je počeo, pravljenjem priloga na TV-u.",
                                     "rawText": "@mali_gad Bez brige, svet će brzo naći način da ga upropasti. U stvari već je počeo, pravljenjem priloga na TV-u.",
@@ -47,7 +57,19 @@
                                             "tweetId": "1510295242599247880",
                                             "urltweet": "https://twitter.com/miljko/status/1510295242599247880",
                                             "inReplyToId": "1510247464376446977",
-                                            "tweetUserName": "miljko"
+                                            "tweetUserName": "miljko",
+                                            "subs": [
+                                                {
+                                                    "text": "@KPromeni OK, priznajem, tek danas ozbiljno gledam izborne liste i majko moja hoće li se ikada u Srbiji uvesti rangirano glasanje i ukinuti zatvorene izborne liste, i recite mi odmah ko se od kandidata za to zalaže da odmah glasam za njih…",
+                                                    "rawText": "@KPromeni OK, priznajem, tek danas ozbiljno gledam izborne liste i majko moja hoće li se ikada u Srbiji uvesti rangirano glasanje i ukinuti zatvorene izborne liste, i recite mi odmah ko se od kandidata za to zalaže da odmah glasam za njih…",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 02 Apr 2022 18:35:16 GMT",
+                                                    "tweetId": "1510325005242015747",
+                                                    "urltweet": "https://twitter.com/miljko/status/1510325005242015747",
+                                                    "inReplyToId": "1510295242599247880",
+                                                    "tweetUserName": "miljko"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
