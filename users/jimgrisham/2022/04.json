@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 20:09:17 GMT"
+            "dateModified": "Sat, 02 Apr 2022 20:21:03 GMT"
         },
         "body": {
             "subs": [
@@ -68,7 +68,19 @@
                                                     "tweetId": "1510343671002062849",
                                                     "urltweet": "https://twitter.com/jimgrisham/status/1510343671002062849",
                                                     "inReplyToId": "1510342438820495368",
-                                                    "tweetUserName": "jimgrisham"
+                                                    "tweetUserName": "jimgrisham",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@igorsushko <a href=\"https://t.co/MBoAlLqzXN\">[link]</a>",
+                                                            "rawText": "@igorsushko https://t.co/MBoAlLqzXN",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 02 Apr 2022 20:09:31 GMT",
+                                                            "tweetId": "1510348722605105164",
+                                                            "urltweet": "https://twitter.com/jimgrisham/status/1510348722605105164",
+                                                            "inReplyToId": "1510343671002062849",
+                                                            "tweetUserName": "jimgrisham"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
