@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 11:24:01 GMT"
+            "dateModified": "Sun, 03 Apr 2022 11:35:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@MCinHD Thanks. It’s been safe but interesting!",
+                                    "rawText": "@MCinHD Thanks. It’s been safe but interesting!",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 11:24:19 GMT",
+                                    "tweetId": "1510578940481523713",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1510578940481523713",
+                                    "inReplyToId": "1510569324737708040",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 2",
                             "type": "calendarDay",
