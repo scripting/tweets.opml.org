@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 16:31:29 GMT"
+            "dateModified": "Sun, 03 Apr 2022 11:15:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Wordle 288 3/6\n\n⬜🟩⬜⬜⬜\n🟩🟩⬜⬜⬜\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 288 3/6\n\n⬜🟩⬜⬜⬜\n🟩🟩⬜⬜⬜\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 11:05:11 GMT",
+                                    "tweetId": "1510574127496761345",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1510574127496761345",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
