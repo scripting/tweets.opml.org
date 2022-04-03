@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 16:58:08 GMT"
+            "dateModified": "Sun, 03 Apr 2022 17:10:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "@koshersemite Mute or block might work.",
+                                    "rawText": "@koshersemite Mute or block might work.",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 17:00:12 GMT",
+                                    "tweetId": "1510663470127226884",
+                                    "urltweet": "https://twitter.com/yudel/status/1510663470127226884",
+                                    "inReplyToId": "1510663303013482504",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@koshersemite The latter if you never want to see that tweeter again.",
+                                            "rawText": "@koshersemite The latter if you never want to see that tweeter again.",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Apr 2022 17:00:36 GMT",
+                                            "tweetId": "1510663569611890688",
+                                            "urltweet": "https://twitter.com/yudel/status/1510663569611890688",
+                                            "inReplyToId": "1510663470127226884",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@sevensixfive If God had wanted us to see the Columbian Exhibition, he would have had us be born in the 19th century. As was my great grandmother, who found the San Francisco earthquake more memorable than the subsequent exhibition.",
                                     "rawText": "@sevensixfive If God had wanted us to see the Columbian Exhibition, he would have had us be born in the 19th century. As was my great grandmother, who found the San Francisco earthquake more memorable than the subsequent exhibition.",
@@ -37,6 +59,16 @@
                                             "created": "Sun, 03 Apr 2022 16:57:08 GMT",
                                             "tweetId": "1510662698937298944",
                                             "urltweet": "https://twitter.com/yudel/status/1510662698937298944",
+                                            "inReplyToId": "1510662283118141443",
+                                            "tweetUserName": "yudel"
+                                        },
+                                        {
+                                            "text": "@sevensixfive Thank you. <a href=\"https://t.co/u6sIYbg1VA\">[link]</a>",
+                                            "rawText": "@sevensixfive Thank you. https://t.co/u6sIYbg1VA",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Apr 2022 16:58:46 GMT",
+                                            "tweetId": "1510663106678169619",
+                                            "urltweet": "https://twitter.com/yudel/status/1510663106678169619",
                                             "inReplyToId": "1510662283118141443",
                                             "tweetUserName": "yudel"
                                         }
