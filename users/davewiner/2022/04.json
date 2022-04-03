@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 20:44:08 GMT"
+            "dateModified": "Sun, 03 Apr 2022 20:56:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "Twitter is already off to a decent start with a structure that represents a tweet and another that represents a user. It probably could be reconciled with an &lt;item&gt; in RSS. They are doing the same thing. And not surprisingly it's also a good match. <a href=\"https://t.co/Fl059yY02S\">[link]</a>",
+                                    "rawText": "Twitter is already off to a decent start with a structure that represents a tweet and another that represents a user. It probably could be reconciled with an &lt;item&gt; in RSS. They are doing the same thing. And not surprisingly it's also a good match. https://t.co/Fl059yY02S",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 20:45:49 GMT",
+                                    "tweetId": "1510720247627714564",
+                                    "urltweet": "https://twitter.com/davewiner/status/1510720247627714564",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Here's an example of a tweet as a JavaScript object, as defined by Twitter the company. \n\n<a href=\"https://t.co/vLEF62IWhK\">[link]</a>",
+                                            "rawText": "Here's an example of a tweet as a JavaScript object, as defined by Twitter the company. \n\nhttps://t.co/vLEF62IWhK",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Apr 2022 20:52:33 GMT",
+                                            "tweetId": "1510721940666920960",
+                                            "urltweet": "https://twitter.com/davewiner/status/1510721940666920960",
+                                            "inReplyToId": "1510720247627714564",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Newsom calls for \"end to this carnage\" after Sacramento shooting. <a href=\"https://t.co/OrYgWBEumq\">[link]</a>",
                                     "rawText": "Newsom calls for \"end to this carnage\" after Sacramento shooting. https://t.co/OrYgWBEumq",
