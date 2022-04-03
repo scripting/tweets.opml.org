@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 03:33:42 GMT"
+            "dateModified": "Sun, 03 Apr 2022 20:40:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: BlueSCSI is AMAZING! <a href=\"https://t.co/YnS5DIkC0E\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: BlueSCSI is AMAZING! https://t.co/YnS5DIkC0E",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 20:28:42 GMT",
+                                    "tweetId": "1510715938009718790",
+                                    "urltweet": "https://twitter.com/oevl/status/1510715938009718790",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
