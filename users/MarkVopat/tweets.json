@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 23:29:30 GMT"
+            "dateModified": "Sun, 03 Apr 2022 22:00:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@tfrancisco203 @matthieuchapman Same here.",
+                                    "rawText": "@tfrancisco203 @matthieuchapman Same here.",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 21:58:47 GMT",
+                                    "tweetId": "1510738609002926084",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1510738609002926084",
+                                    "inReplyToId": "1510671011397742593",
+                                    "tweetUserName": "MarkVopat"
+                                },
+                                {
+                                    "text": "@HankF330ToGo Not sure specifically how you cook them, but I pretty sure you should not make them medium or medium rare 😉",
+                                    "rawText": "@HankF330ToGo Not sure specifically how you cook them, but I pretty sure you should not make them medium or medium rare 😉",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 21:57:56 GMT",
+                                    "tweetId": "1510738395995197446",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1510738395995197446",
+                                    "inReplyToId": "1510680261108944900",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 2",
                             "type": "calendarDay",
