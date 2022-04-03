@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Apr 2022 23:17:10 GMT"
+            "dateModified": "Sun, 03 Apr 2022 08:48:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "New: Gutenberg Changelog #64 - Gutenberg 12.9, Example Repo, and Inline Tokens - Birgit Pauli-Haack \n@bph &amp; Mary Job @maryojob talked Gutenberg 12.9 Design work, Example Repo, and inline tokens <a href=\"https://t.co/AtenXuOJbw\">[link]</a>",
+                                    "rawText": "New: Gutenberg Changelog #64 - Gutenberg 12.9, Example Repo, and Inline Tokens - Birgit Pauli-Haack \n@bph &amp; Mary Job @maryojob talked Gutenberg 12.9 Design work, Example Repo, and inline tokens https://t.co/AtenXuOJbw",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 08:45:07 GMT",
+                                    "tweetId": "1510538879442604038",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1510538879442604038",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
