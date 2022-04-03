@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 00:19:59 GMT"
+            "dateModified": "Sun, 03 Apr 2022 01:25:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Apparently, High schools are triggering for me and I have many unresolved issues.",
+                                    "rawText": "Apparently, High schools are triggering for me and I have many unresolved issues.",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 01:22:28 GMT",
+                                    "tweetId": "1510427479286202369",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1510427479286202369",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 1",
                             "type": "calendarDay",
