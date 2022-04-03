@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 17:10:09 GMT"
+            "dateModified": "Sun, 03 Apr 2022 18:22:14 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "@onthemainline Source?",
+                                    "rawText": "@onthemainline Source?",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 18:12:06 GMT",
+                                    "tweetId": "1510681564564361216",
+                                    "urltweet": "https://twitter.com/yudel/status/1510681564564361216",
+                                    "inReplyToId": "1510680230083670017",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@koshersemite Mute or block might work.",
                                     "rawText": "@koshersemite Mute or block might work.",
