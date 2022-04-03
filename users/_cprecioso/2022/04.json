@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 00:43:34 GMT"
+            "dateModified": "Sun, 03 Apr 2022 03:04:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "02",
                             "subs": [
+                                {
+                                    "text": "Pregunta las patatas son ultraprocesadas? <a href=\"https://t.co/XX2PVOnwyi\">[link]</a>",
+                                    "rawText": "Pregunta las patatas son ultraprocesadas? https://t.co/XX2PVOnwyi",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 02:58:03 GMT",
+                                    "tweetId": "1510451536551424006",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1510451536551424006",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "@abersta eres tú?",
+                                            "rawText": "@abersta eres tú?",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Apr 2022 02:58:04 GMT",
+                                            "tweetId": "1510451538854092802",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1510451538854092802",
+                                            "inReplyToId": "1510451536551424006",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Sometimes all I think about is you\nLate nights in the middle of June\nHeat waves been faking me out\nCan't make you happier now",
                                     "rawText": "Sometimes all I think about is you\nLate nights in the middle of June\nHeat waves been faking me out\nCan't make you happier now",
