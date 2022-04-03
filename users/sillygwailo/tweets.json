@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 17:37:26 GMT"
+            "dateModified": "Sun, 03 Apr 2022 17:49:27 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1510672766940426246",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1510672766940426246",
                                     "inReplyToId": "1504651928181030913",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I’m not the only greying white guy who came here alone on transit. I’m keeping an eye on him, though that makes me wonder: Who’s keeping an eye on me?",
+                                            "rawText": "I’m not the only greying white guy who came here alone on transit. I’m keeping an eye on him, though that makes me wonder: Who’s keeping an eye on me?",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Apr 2022 17:39:11 GMT",
+                                            "tweetId": "1510673280495230984",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1510673280495230984",
+                                            "inReplyToId": "1510672766940426246",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
