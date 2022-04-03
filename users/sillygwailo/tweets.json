@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 20:49:38 GMT"
+            "dateModified": "Sun, 03 Apr 2022 22:25:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "Today’s my name day in Czechia, Slovakia, France, and Hungary!",
+                                    "rawText": "Today’s my name day in Czechia, Slovakia, France, and Hungary!",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 22:25:03 GMT",
+                                    "tweetId": "1510745219620388866",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1510745219620388866",
+                                    "inReplyToId": "1490722559775576065",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "A reminder: I created a Twitter community for people named Richard. <a href=\"https://t.co/YrDuzHM5La\">[link]</a>",
+                                            "rawText": "A reminder: I created a Twitter community for people named Richard. https://t.co/YrDuzHM5La",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Apr 2022 22:25:03 GMT",
+                                            "tweetId": "1510745220572397575",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1510745220572397575",
+                                            "inReplyToId": "1510745219620388866",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "I’m at the highly scripted campaign launch for the Ontario branch of Canada’s orange-branded political party. <a href=\"https://t.co/7pnywpp1YF\">[link]</a>",
                                     "rawText": "I’m at the highly scripted campaign launch for the Ontario branch of Canada’s orange-branded political party. https://t.co/7pnywpp1YF",
