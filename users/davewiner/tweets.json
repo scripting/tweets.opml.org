@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 12:57:07 GMT"
+            "dateModified": "Sun, 03 Apr 2022 13:08:53 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,31 @@
                                             "tweetId": "1510602291111473152",
                                             "urltweet": "https://twitter.com/davewiner/status/1510602291111473152",
                                             "inReplyToId": "1510602086773317632",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@jeffjarvis ...what was comprehensible to me was the Apple II, so I got one and started developing. A few years later I was in silicon valley, had a company and was making a small fortune.",
+                                                    "rawText": "@jeffjarvis ...what was comprehensible to me was the Apple II, so I got one and started developing. A few years later I was in silicon valley, had a company and was making a small fortune.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 03 Apr 2022 12:58:00 GMT",
+                                                    "tweetId": "1510602515984887816",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1510602515984887816",
+                                                    "inReplyToId": "1510602291111473152",
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@jeffjarvis but over the many years since, i've seen us throw out progress with both hands, over and over -- in important ways the Mac OS of the 1980s was more capable than the Web OS we us in the 2020s. \n\nand now with this \"web3\" bullshit, they want to do it again!",
+                                                            "rawText": "@jeffjarvis but over the many years since, i've seen us throw out progress with both hands, over and over -- in important ways the Mac OS of the 1980s was more capable than the Web OS we us in the 2020s. \n\nand now with this \"web3\" bullshit, they want to do it again!",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 03 Apr 2022 12:59:07 GMT",
+                                                            "tweetId": "1510602797099667456",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1510602797099667456",
+                                                            "inReplyToId": "1510602515984887816",
+                                                            "tweetUserName": "davewiner"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
