@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 18:07:39 GMT"
+            "dateModified": "Sun, 03 Apr 2022 16:43:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "The clueless newbie strikes again!",
+                                    "rawText": "The clueless newbie strikes again!",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 16:36:30 GMT",
+                                    "tweetId": "1510657503461261313",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1510657503461261313",
+                                    "tweetUserName": "cluelessnewbie"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 2",
                             "type": "calendarDay",
