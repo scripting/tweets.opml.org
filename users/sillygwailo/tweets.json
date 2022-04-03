@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 02:27:11 GMT"
+            "dateModified": "Sun, 03 Apr 2022 02:50:43 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,29 @@
                                             "tweetId": "1510442954787328007",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1510442954787328007",
                                             "inReplyToId": "1510421939537563649",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "They’re a 20-minute drive from each other. <a href=\"https://t.co/mI4z8nMyA4\">[link]</a>",
+                                                    "rawText": "They’re a 20-minute drive from each other. https://t.co/mI4z8nMyA4",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 03 Apr 2022 02:42:44 GMT",
+                                                    "tweetId": "1510447679993794564",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1510447679993794564",
+                                                    "inReplyToId": "1510442954787328007",
+                                                    "tweetUserName": "sillygwailo"
+                                                },
+                                                {
+                                                    "text": "Wild game. Hold on to your butts.",
+                                                    "rawText": "Wild game. Hold on to your butts.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 03 Apr 2022 02:47:32 GMT",
+                                                    "tweetId": "1510448888150478857",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1510448888150478857",
+                                                    "inReplyToId": "1510442954787328007",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
