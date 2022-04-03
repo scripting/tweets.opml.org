@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "palayking tweets",
+            "dateCreated": "Sun, 03 Apr 2022 14:10:13 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/palayking/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 03 Apr 2022 14:10:14 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "March 2022",
+                    "type": "calendarMonth",
+                    "name": "march2022",
+                    "subs": [
+                        {
+                            "text": "March 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Test ppost <a href=\"https://t.co/EdUX5Pupyr\">[link]</a>",
+                                    "rawText": "Test ppost https://t.co/EdUX5Pupyr",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Mar 2022 19:02:28 GMT",
+                                    "tweetId": "1499097826680266759",
+                                    "urltweet": "https://twitter.com/palayking/status/1499097826680266759",
+                                    "tweetUserName": "palayking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
