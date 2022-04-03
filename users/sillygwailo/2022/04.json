@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 03:26:00 GMT"
+            "dateModified": "Sun, 03 Apr 2022 17:37:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "I’m at the highly scripted campaign launch for the Ontario branch of Canada’s orange-branded political party. <a href=\"https://t.co/7pnywpp1YF\">[link]</a>",
+                                    "rawText": "I’m at the highly scripted campaign launch for the Ontario branch of Canada’s orange-branded political party. https://t.co/7pnywpp1YF",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Apr 2022 17:37:09 GMT",
+                                    "tweetId": "1510672766940426246",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1510672766940426246",
+                                    "inReplyToId": "1504651928181030913",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 2",
                             "type": "calendarDay",
