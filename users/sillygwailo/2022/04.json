@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 03:50:06 GMT"
+            "dateModified": "Mon, 04 Apr 2022 16:50:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@hankgreen I’ll unfollow someone if their last [x] amount of tweets are about a subject that’s wearing me out. Hopefully someone will RT them into my stream.\n\nI’ll unfollow mean people that I don’t learn anything from. That said, because you’re mean isn’t a sufficient reason to unfollow.",
+                                    "rawText": "@hankgreen I’ll unfollow someone if their last [x] amount of tweets are about a subject that’s wearing me out. Hopefully someone will RT them into my stream.\n\nI’ll unfollow mean people that I don’t learn anything from. That said, because you’re mean isn’t a sufficient reason to unfollow.",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Apr 2022 16:42:04 GMT",
+                                    "tweetId": "1511021295760257028",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1511021295760257028",
+                                    "inReplyToId": "1510774523053830144",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 3",
                             "type": "calendarDay",
