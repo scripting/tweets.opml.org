@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 20:56:09 GMT"
+            "dateModified": "Mon, 04 Apr 2022 03:56:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "March 4: Evolution in software. <a href=\"https://t.co/dwVzdKyEwo\">[link]</a>",
+                                    "rawText": "March 4: Evolution in software. https://t.co/dwVzdKyEwo",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Apr 2022 03:52:20 GMT",
+                                    "tweetId": "1510827582215884800",
+                                    "urltweet": "https://twitter.com/davewiner/status/1510827582215884800",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@markzip @backlon worldle is either impossible or ridiculous. \n\nHave you looked at today's puzzle? Here's a screen shot for the archive. I didn't solve it, don't want to be a spoiler. ;-) <a href=\"https://t.co/b5eHEy3nhn\">[link]</a>",
+                                    "rawText": "@markzip @backlon worldle is either impossible or ridiculous. \n\nHave you looked at today's puzzle? Here's a screen shot for the archive. I didn't solve it, don't want to be a spoiler. ;-) https://t.co/b5eHEy3nhn",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Apr 2022 03:44:49 GMT",
+                                    "tweetId": "1510825693013237763",
+                                    "urltweet": "https://twitter.com/davewiner/status/1510825693013237763",
+                                    "inReplyToId": "1510824901317431300",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Twitter is already off to a decent start with a structure that represents a tweet and another that represents a user. It probably could be reconciled with an &lt;item&gt; in RSS. They are doing the same thing. And not surprisingly it's also a good match. <a href=\"https://t.co/Fl059yY02S\">[link]</a>",
                                     "rawText": "Twitter is already off to a decent start with a structure that represents a tweet and another that represents a user. It probably could be reconciled with an &lt;item&gt; in RSS. They are doing the same thing. And not surprisingly it's also a good match. https://t.co/Fl059yY02S",
