@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Apr 2022 11:29:13 GMT"
+            "dateModified": "Mon, 04 Apr 2022 11:34:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Keeping an eye on Glow Blogs: <a href=\"https://t.co/WDd1YNEgYR\">[link]</a> https://t.co/WTTMhVPR4i",
+                                    "rawText": "Keeping an eye on Glow Blogs: https://t.co/WDd1YNEgYR https://t.co/WTTMhVPR4i",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Apr 2022 11:34:17 GMT",
+                                    "tweetId": "1510943835865718796",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1510943835865718796",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 2",
                             "type": "calendarDay",
