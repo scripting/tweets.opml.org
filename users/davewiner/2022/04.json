@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 16:09:23 GMT"
+            "dateModified": "Mon, 04 Apr 2022 16:57:27 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "@jeffjarvis @rushkoff -- here are some quick notes.\n\n<a href=\"https://t.co/lMXpjtoMhI\">[link]</a>",
+                                    "rawText": "@jeffjarvis @rushkoff -- here are some quick notes.\n\nhttps://t.co/lMXpjtoMhI",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Apr 2022 16:51:45 GMT",
+                                    "tweetId": "1511023732080447500",
+                                    "urltweet": "https://twitter.com/davewiner/status/1511023732080447500",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@brettglass for one thing xml came after the web.",
                                     "rawText": "@brettglass for one thing xml came after the web.",
