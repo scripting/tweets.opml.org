@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 15:46:07 GMT"
+            "dateModified": "Mon, 04 Apr 2022 15:58:08 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1511006698370125829",
                                     "urltweet": "https://twitter.com/KenSmith/status/1511006698370125829",
                                     "inReplyToId": "1511006049716867073",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "@liamputt If there’s anyone left to operate the landfill . . .",
+                                            "rawText": "@liamputt If there’s anyone left to operate the landfill . . .",
+                                            "type": "tweet",
+                                            "created": "Mon, 04 Apr 2022 15:47:13 GMT",
+                                            "tweetId": "1511007490657374213",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1511007490657374213",
+                                            "inReplyToId": "1511006698370125829",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Schools used to teach outlining as a way to plan a piece of writing. I tend to use an outline as the actual place where I do the writing, thinking, and revising.",
