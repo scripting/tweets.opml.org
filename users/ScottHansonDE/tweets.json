@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Apr 2022 11:35:47 GMT"
+            "dateModified": "Mon, 04 Apr 2022 12:58:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Opening Session McD Worldwide 2022 <a href=\"https://t.co/6z9ULWRW1J\">[link]</a>",
+                                    "rawText": "Opening Session McD Worldwide 2022 https://t.co/6z9ULWRW1J",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Apr 2022 12:49:42 GMT",
+                                    "tweetId": "1510962815389122567",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1510962815389122567",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 3",
                             "type": "calendarDay",
