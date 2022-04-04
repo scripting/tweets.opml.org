@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 04:08:37 GMT"
+            "dateModified": "Mon, 04 Apr 2022 04:20:38 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                     "created": "Mon, 04 Apr 2022 04:05:30 GMT",
                                     "tweetId": "1510830898513694722",
                                     "urltweet": "https://twitter.com/davewiner/status/1510830898513694722",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Another related thought.\n\nDid you know Twitter is a feed reader?\n\nIt is except it's private, doesn't use RSS.\n\nYou could build a feed reader, based on RSS that had Twitter's user experience. It can be done. \n\nBut why haven't RSS-based feed readers evolved to work like Twitter?",
+                                            "rawText": "Another related thought.\n\nDid you know Twitter is a feed reader?\n\nIt is except it's private, doesn't use RSS.\n\nYou could build a feed reader, based on RSS that had Twitter's user experience. It can be done. \n\nBut why haven't RSS-based feed readers evolved to work like Twitter?",
+                                            "type": "tweet",
+                                            "created": "Mon, 04 Apr 2022 04:13:17 GMT",
+                                            "tweetId": "1510832854330138624",
+                                            "urltweet": "https://twitter.com/davewiner/status/1510832854330138624",
+                                            "inReplyToId": "1510830898513694722",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 }
                             ]
                         },
