@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 03:56:36 GMT"
+            "dateModified": "Mon, 04 Apr 2022 04:08:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@jwalkerjr thanks. i had been struggling to figure this out for a long time. ;-)",
+                                    "rawText": "@jwalkerjr thanks. i had been struggling to figure this out for a long time. ;-)",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Apr 2022 04:06:14 GMT",
+                                    "tweetId": "1510831081892859911",
+                                    "urltweet": "https://twitter.com/davewiner/status/1510831081892859911",
+                                    "inReplyToId": "1510830153517178883",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "WordPress is huge. \n\nI'm wondering if another blogging system could develop in competition with WordPress, using the same model they use. An open source base, with a commercial service.\n\nOr will evolution allow only one huge open source blogging system.\n\n<a href=\"https://t.co/dwVzdKyEwo\">[link]</a>",
+                                    "rawText": "WordPress is huge. \n\nI'm wondering if another blogging system could develop in competition with WordPress, using the same model they use. An open source base, with a commercial service.\n\nOr will evolution allow only one huge open source blogging system.\n\nhttps://t.co/dwVzdKyEwo",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Apr 2022 04:05:30 GMT",
+                                    "tweetId": "1510830898513694722",
+                                    "urltweet": "https://twitter.com/davewiner/status/1510830898513694722",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 3",
                             "type": "calendarDay",
