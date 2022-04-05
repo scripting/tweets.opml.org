@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 14:47:38 GMT"
+            "dateModified": "Tue, 05 Apr 2022 14:59:39 GMT"
         },
         "body": {
             "subs": [
@@ -195,7 +195,19 @@
                                             "tweetId": "1511038972528574467",
                                             "urltweet": "https://twitter.com/KenSmith/status/1511038972528574467",
                                             "inReplyToId": "1511038593019654152",
-                                            "tweetUserName": "KenSmith"
+                                            "tweetUserName": "KenSmith",
+                                            "subs": [
+                                                {
+                                                    "text": "\"It is not on any map. True places never are.\"\n\nStill pondering that Melville quotation yesterday from Paul @Holdengraber. <a href=\"https://t.co/XBbdkHpHC6\">[link]</a>",
+                                                    "rawText": "\"It is not on any map. True places never are.\"\n\nStill pondering that Melville quotation yesterday from Paul @Holdengraber. https://t.co/XBbdkHpHC6",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 05 Apr 2022 14:58:09 GMT",
+                                                    "tweetId": "1511357528784973826",
+                                                    "urltweet": "https://twitter.com/KenSmith/status/1511357528784973826",
+                                                    "inReplyToId": "1511038972528574467",
+                                                    "tweetUserName": "KenSmith"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
