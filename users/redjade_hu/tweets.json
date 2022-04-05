@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 21:52:46 GMT"
+            "dateModified": "Tue, 05 Apr 2022 22:42:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "LOL <a href=\"https://t.co/xhXLoVfOmL\">[link]</a>",
+                                    "rawText": "LOL https://t.co/xhXLoVfOmL",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 22:32:19 GMT",
+                                    "tweetId": "1511471823082475525",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1511471823082475525",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 4",
                             "type": "calendarDay",
