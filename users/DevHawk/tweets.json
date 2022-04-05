@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 03:00:17 GMT"
+            "dateModified": "Tue, 05 Apr 2022 13:50:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "There are more @Neo_Blockchain technical workshops. Next one starts shortly. Focused on developing smart contracts with Python featuring @lllwvlvwlll <a href=\"https://t.co/K6D0AZpc0q\">[link]</a>",
+                                    "rawText": "There are more @Neo_Blockchain technical workshops. Next one starts shortly. Focused on developing smart contracts with Python featuring @lllwvlvwlll https://t.co/K6D0AZpc0q",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 13:44:56 GMT",
+                                    "tweetId": "1511339103199051780",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1511339103199051780",
+                                    "tweetUserName": "DevHawk"
+                                },
+                                {
+                                    "text": "@eduardosurita @Neo_Blockchain <a href=\"https://t.co/3uhwjKLLMF\">[link]</a>",
+                                    "rawText": "@eduardosurita @Neo_Blockchain https://t.co/3uhwjKLLMF",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 13:41:10 GMT",
+                                    "tweetId": "1511338157421256712",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1511338157421256712",
+                                    "inReplyToId": "1511316437511585798",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 3",
                             "type": "calendarDay",
