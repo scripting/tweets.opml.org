@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 13:58:50 GMT"
+            "dateModified": "Tue, 05 Apr 2022 14:10:50 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "05",
                             "subs": [
                                 {
+                                    "text": "@TaylorLorenz that sounds like a great column for the washington post. \n\nwhat does twitter need to do to help people they haven't  been serving well.\n\nmaybe there's a would-be competitor out there that can benefit from this thinking.",
+                                    "rawText": "@TaylorLorenz that sounds like a great column for the washington post. \n\nwhat does twitter need to do to help people they haven't  been serving well.\n\nmaybe there's a would-be competitor out there that can benefit from this thinking.",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 14:07:30 GMT",
+                                    "tweetId": "1511344785600221193",
+                                    "urltweet": "https://twitter.com/davewiner/status/1511344785600221193",
+                                    "inReplyToId": "1511342351725309952",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@phonetonote Okay let's do it. I am not familiar with datascript. \n\nDo you have an example file? \n\nAre there docs for the format?\n\nHere's the docs on OPML.\n\n<a href=\"https://t.co/UneKXbtPIA\">[link]</a>",
                                     "rawText": "@phonetonote Okay let's do it. I am not familiar with datascript. \n\nDo you have an example file? \n\nAre there docs for the format?\n\nHere's the docs on OPML.\n\nhttps://t.co/UneKXbtPIA",
                                     "type": "tweet",
@@ -28,7 +38,19 @@
                                     "tweetId": "1511342450534666246",
                                     "urltweet": "https://twitter.com/davewiner/status/1511342450534666246",
                                     "inReplyToId": "1511342079745613840",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@phonetonote BTW, I've written a JavaScript package for reading and writing OPML files. \n\n<a href=\"https://t.co/Rk4917pyUt\">[link]</a>",
+                                            "rawText": "@phonetonote BTW, I've written a JavaScript package for reading and writing OPML files. \n\nhttps://t.co/Rk4917pyUt",
+                                            "type": "tweet",
+                                            "created": "Tue, 05 Apr 2022 13:59:14 GMT",
+                                            "tweetId": "1511342703329656835",
+                                            "urltweet": "https://twitter.com/davewiner/status/1511342703329656835",
+                                            "inReplyToId": "1511342450534666246",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@TaylorLorenz He might be really good for Twitter's board.\n\nHe's actually made software, himself -- and presumably knows how to write a bug report.\n\nAnd he uses the product. I don't imagine too many of the other board members at Twitter really use it.\n\nLeadership from users, what a concept. 😀",
