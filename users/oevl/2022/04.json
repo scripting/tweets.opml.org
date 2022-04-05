@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 03:30:23 GMT"
+            "dateModified": "Tue, 05 Apr 2022 04:30:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Desktop Virtualization using SPICE on LInux <a href=\"https://t.co/vIAkOWflCd\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Desktop Virtualization using SPICE on LInux https://t.co/vIAkOWflCd",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 04:28:35 GMT",
+                                    "tweetId": "1511199096043974658",
+                                    "urltweet": "https://twitter.com/oevl/status/1511199096043974658",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 4",
                             "type": "calendarDay",
