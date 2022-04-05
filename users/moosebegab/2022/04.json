@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 18:12:02 GMT"
+            "dateModified": "Tue, 05 Apr 2022 17:13:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Woman wakes up to a new dog sitting on patio furniture | GMA <a href=\"https://t.co/4ncDeD8E8C\">[link]</a>",
+                                    "rawText": "Woman wakes up to a new dog sitting on patio furniture | GMA https://t.co/4ncDeD8E8C",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 17:10:55 GMT",
+                                    "tweetId": "1511390939939586054",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1511390939939586054",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 4",
                             "type": "calendarDay",
