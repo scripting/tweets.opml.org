@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 20:35:15 GMT"
+            "dateModified": "Tue, 05 Apr 2022 20:47:16 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "A former president who can tell a joke. What a concept. <a href=\"https://t.co/s8w21d4oQM\">[link]</a>",
+                                    "rawText": "A former president who can tell a joke. What a concept. https://t.co/s8w21d4oQM",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 20:37:02 GMT",
+                                    "tweetId": "1511442811899502608",
+                                    "urltweet": "https://twitter.com/davewiner/status/1511442811899502608",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Elon Musk could be a nightmare for Twitter management. A board member who tweets. That could suck for them.",
                                     "rawText": "Elon Musk could be a nightmare for Twitter management. A board member who tweets. That could suck for them.",
@@ -36,7 +45,19 @@
                                     "created": "Tue, 05 Apr 2022 20:32:33 GMT",
                                     "tweetId": "1511441685515022340",
                                     "urltweet": "https://twitter.com/davewiner/status/1511441685515022340",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I assumed there was a way to turn the algorithm off, but it doesn't appear there is. So it's not the algorithm that's broken it's the whole product.\n\nWasn't the idea of Twitter that you could quickly see some new stuff? It's always the same for me. \n\n<a href=\"https://t.co/bMgIHyGs1C\">[link]</a>",
+                                            "rawText": "I assumed there was a way to turn the algorithm off, but it doesn't appear there is. So it's not the algorithm that's broken it's the whole product.\n\nWasn't the idea of Twitter that you could quickly see some new stuff? It's always the same for me. \n\nhttps://t.co/bMgIHyGs1C",
+                                            "type": "tweet",
+                                            "created": "Tue, 05 Apr 2022 20:44:34 GMT",
+                                            "tweetId": "1511444710342156295",
+                                            "urltweet": "https://twitter.com/davewiner/status/1511444710342156295",
+                                            "inReplyToId": "1511441685515022340",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@phonetonote @dvargas92495 @VladyslavSitalo @hashbrown490 @TfTHacker We have a JSONified OPML.\n\nHere's an example...\n\n<a href=\"https://t.co/pirSPRXSIz\">[link]</a>\n\n@phonetonote is right -- we're talking about interop.",
