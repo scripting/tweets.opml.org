@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 13:34:48 GMT"
+            "dateModified": "Tue, 05 Apr 2022 13:46:49 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,15 @@
                             "name": "05",
                             "subs": [
                                 {
+                                    "text": "#toolsforthought <a href=\"https://t.co/jIIMgeKIYO\">[link]</a>",
+                                    "rawText": "#toolsforthought https://t.co/jIIMgeKIYO",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 13:40:39 GMT",
+                                    "tweetId": "1511338028182167563",
+                                    "urltweet": "https://twitter.com/davewiner/status/1511338028182167563",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@jeffjarvis @verge I think we might see some movement on longstanding issues in Twitter. My complaint about Tesla is they move things around too much, but they do move. Twitter on the other hand moves at a glacial pace. I think this might be very good for Twitter (and its users).",
                                     "rawText": "@jeffjarvis @verge I think we might see some movement on longstanding issues in Twitter. My complaint about Tesla is they move things around too much, but they do move. Twitter on the other hand moves at a glacial pace. I think this might be very good for Twitter (and its users).",
                                     "type": "tweet",
@@ -28,7 +37,19 @@
                                     "tweetId": "1511336541511196681",
                                     "urltweet": "https://twitter.com/davewiner/status/1511336541511196681",
                                     "inReplyToId": "1511327309005008896",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@jeffjarvis @verge Look at it this way -- they put a user on their board, and presumably a user who knows how to write a bug report.\n\n<a href=\"https://t.co/8eWglsLnIR\">[link]</a> \n\nThere have been too many bankers and VCs and media company execs on Twitter's board. Imho of course.",
+                                            "rawText": "@jeffjarvis @verge Look at it this way -- they put a user on their board, and presumably a user who knows how to write a bug report.\n\nhttps://t.co/8eWglsLnIR \n\nThere have been too many bankers and VCs and media company execs on Twitter's board. Imho of course.",
+                                            "type": "tweet",
+                                            "created": "Tue, 05 Apr 2022 13:36:14 GMT",
+                                            "tweetId": "1511336914032418816",
+                                            "urltweet": "https://twitter.com/davewiner/status/1511336914032418816",
+                                            "inReplyToId": "1511336541511196681",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "It's time to sanction Fox News. They are an ally of Putin.",
