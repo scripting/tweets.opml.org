@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 01:46:46 GMT"
+            "dateModified": "Tue, 05 Apr 2022 09:11:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Seems like this should be called “Backed into a Corner” but what’s the story? <a href=\"https://t.co/VdKwWhuLpG\">[link]</a>",
+                                    "rawText": "Seems like this should be called “Backed into a Corner” but what’s the story? https://t.co/VdKwWhuLpG",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 09:08:13 GMT",
+                                    "tweetId": "1511269467191492610",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1511269467191492610",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 4",
                             "type": "calendarDay",
