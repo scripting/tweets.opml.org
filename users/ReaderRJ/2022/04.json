@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "ReaderRJ tweets",
+            "dateCreated": "Mon, 24 Jan 2022 15:37:34 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 05 Apr 2022 18:53:54 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Stop the privatisation of Channel 4 @NadineDorries - Sign the Petition! <a href=\"https://t.co/lJJakr6tCk\">[link]</a> via @UKChange",
+                                    "rawText": "Stop the privatisation of Channel 4 @NadineDorries - Sign the Petition! https://t.co/lJJakr6tCk via @UKChange",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 18:50:31 GMT",
+                                    "tweetId": "1511416008711577605",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1511416008711577605",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
