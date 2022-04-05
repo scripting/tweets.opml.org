@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 20:29:25 GMT"
+            "dateModified": "Tue, 05 Apr 2022 06:54:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@Rub3n_Rub0 Coge la bici, vago",
+                                    "rawText": "@Rub3n_Rub0 Coge la bici, vago",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 06:51:35 GMT",
+                                    "tweetId": "1511235082744483840",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1511235082744483840",
+                                    "inReplyToId": "1511225836921311235",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "Ojalá tener miles de kiloeuros",
+                                    "rawText": "Ojalá tener miles de kiloeuros",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 06:49:54 GMT",
+                                    "tweetId": "1511234659140702209",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1511234659140702209",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 4",
                             "type": "calendarDay",
