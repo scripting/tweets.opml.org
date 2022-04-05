@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 18:01:21 GMT"
+            "dateModified": "Tue, 05 Apr 2022 18:13:21 GMT"
         },
         "body": {
             "subs": [
@@ -48,7 +48,19 @@
                                                     "tweetId": "1511403426927857672",
                                                     "urltweet": "https://twitter.com/yudel/status/1511403426927857672",
                                                     "inReplyToId": "1511403221696323585",
-                                                    "tweetUserName": "yudel"
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@EladNehorai I imagine that most murders are committed by narcissistic jerks. I imagine there would be a lot more if there were no real consequences for murder.",
+                                                            "rawText": "@EladNehorai I imagine that most murders are committed by narcissistic jerks. I imagine there would be a lot more if there were no real consequences for murder.",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 05 Apr 2022 18:02:23 GMT",
+                                                            "tweetId": "1511403892323622925",
+                                                            "urltweet": "https://twitter.com/yudel/status/1511403892323622925",
+                                                            "inReplyToId": "1511403426927857672",
+                                                            "tweetUserName": "yudel"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
