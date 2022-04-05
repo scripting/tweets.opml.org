@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Apr 2022 12:58:11 GMT"
+            "dateModified": "Tue, 05 Apr 2022 10:47:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@ClaireSmith1848 And I even drove the car back to Atlanta yesterday and made it to Orlando again!",
+                                    "rawText": "@ClaireSmith1848 And I even drove the car back to Atlanta yesterday and made it to Orlando again!",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Apr 2022 10:35:42 GMT",
+                                    "tweetId": "1511291483739070465",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1511291483739070465",
+                                    "inReplyToId": "1511217324958879750",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 4",
                             "type": "calendarDay",
