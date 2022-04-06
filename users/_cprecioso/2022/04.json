@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 16:08:17 GMT"
+            "dateModified": "Wed, 06 Apr 2022 16:32:18 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/Zxs0kFxJm3\">[link]</a>",
+                                    "rawText": "https://t.co/Zxs0kFxJm3",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 16:26:22 GMT",
+                                    "tweetId": "1511742118800334848",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1511742118800334848",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "La canción es la misma que Take on Me",
+                                            "rawText": "La canción es la misma que Take on Me",
+                                            "type": "tweet",
+                                            "created": "Wed, 06 Apr 2022 16:26:50 GMT",
+                                            "tweetId": "1511742237348179973",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1511742237348179973",
+                                            "inReplyToId": "1511742118800334848",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Pablo ha escrito esto <a href=\"https://t.co/tNuVtVmzPT\">[link]</a>",
                                     "rawText": "Pablo ha escrito esto https://t.co/tNuVtVmzPT",
