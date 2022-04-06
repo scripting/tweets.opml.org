@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 16:32:18 GMT"
+            "dateModified": "Wed, 06 Apr 2022 19:32:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "hoy no podría haberme encontrado con más gente por la calle",
+                                    "rawText": "hoy no podría haberme encontrado con más gente por la calle",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 19:24:34 GMT",
+                                    "tweetId": "1511786962281283597",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1511786962281283597",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "señorxs y señoras, valencia",
+                                            "rawText": "señorxs y señoras, valencia",
+                                            "type": "tweet",
+                                            "created": "Wed, 06 Apr 2022 19:24:34 GMT",
+                                            "tweetId": "1511786963782754317",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1511786963782754317",
+                                            "inReplyToId": "1511786962281283597",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "<a href=\"https://t.co/Zxs0kFxJm3\">[link]</a>",
                                     "rawText": "https://t.co/Zxs0kFxJm3",
