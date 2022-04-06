@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "Jacobr tweets",
+            "dateCreated": "Sun, 30 Jan 2022 14:59:22 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 06 Apr 2022 13:33:22 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "In WSJ yesterday.  So true.  We wish for a pill to fix all ills. Not gonna work. <a href=\"https://t.co/mfXZvJ5U1X\">[link]</a>",
+                                    "rawText": "In WSJ yesterday.  So true.  We wish for a pill to fix all ills. Not gonna work. https://t.co/mfXZvJ5U1X",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 13:23:04 GMT",
+                                    "tweetId": "1511695989362638852",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1511695989362638852",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
