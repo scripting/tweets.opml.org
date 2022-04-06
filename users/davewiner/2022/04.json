@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 02:11:37 GMT"
+            "dateModified": "Wed, 06 Apr 2022 08:36:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Wordle 291 4/6\n\n⬜⬜⬜⬜⬜\n⬜🟩⬜⬜⬜\n🟨🟩⬜🟨⬜\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 291 4/6\n\n⬜⬜⬜⬜⬜\n⬜🟩⬜⬜⬜\n🟨🟩⬜🟨⬜\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 08:34:16 GMT",
+                                    "tweetId": "1511623312086081539",
+                                    "urltweet": "https://twitter.com/davewiner/status/1511623312086081539",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
