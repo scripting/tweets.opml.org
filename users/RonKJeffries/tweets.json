@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 16:57:46 GMT"
+            "dateModified": "Wed, 06 Apr 2022 15:11:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@SeamusBlackley let me Google that for you...",
+                                    "rawText": "@SeamusBlackley let me Google that for you...",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 15:10:42 GMT",
+                                    "tweetId": "1511723077993852936",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1511723077993852936",
+                                    "inReplyToId": "1511722878739234821",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "we can make a difference. <a href=\"https://t.co/Rxa0cCmlGD\">[link]</a>",
+                                    "rawText": "we can make a difference. https://t.co/Rxa0cCmlGD",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 14:59:39 GMT",
+                                    "tweetId": "1511720294653698049",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1511720294653698049",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
