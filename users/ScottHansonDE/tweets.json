@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 19:48:12 GMT"
+            "dateModified": "Wed, 06 Apr 2022 15:49:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@Regensbloggerin Not to rub it in, but our convention menu for today features… <a href=\"https://t.co/GHXsSjAvrr\">[link]</a>",
+                                    "rawText": "@Regensbloggerin Not to rub it in, but our convention menu for today features… https://t.co/GHXsSjAvrr",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 15:43:22 GMT",
+                                    "tweetId": "1511731298099937283",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1511731298099937283",
+                                    "inReplyToId": "1511431423269511171",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
