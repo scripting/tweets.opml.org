@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 02:49:55 GMT"
+            "dateModified": "Wed, 06 Apr 2022 04:26:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@trekonomics Karl Rove more recently.",
+                                    "rawText": "@trekonomics Karl Rove more recently.",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 04:18:18 GMT",
+                                    "tweetId": "1511558893943635968",
+                                    "urltweet": "https://twitter.com/yudel/status/1511558893943635968",
+                                    "inReplyToId": "1511555195817250817",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
