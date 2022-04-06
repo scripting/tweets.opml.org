@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 12:05:01 GMT"
+            "dateModified": "Wed, 06 Apr 2022 12:17:02 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,29 @@
                                     "created": "Wed, 06 Apr 2022 12:04:02 GMT",
                                     "tweetId": "1511676101671673858",
                                     "urltweet": "https://twitter.com/ccb18Vt/status/1511676101671673858",
-                                    "tweetUserName": "ccb18Vt"
+                                    "tweetUserName": "ccb18Vt",
+                                    "subs": [
+                                        {
+                                            "text": "@MicrosoftHelps (The camera auto-correcting the image is misleading - the screen goes to 64% night light when clicking the slider.)",
+                                            "rawText": "@MicrosoftHelps (The camera auto-correcting the image is misleading - the screen goes to 64% night light when clicking the slider.)",
+                                            "type": "tweet",
+                                            "created": "Wed, 06 Apr 2022 12:05:29 GMT",
+                                            "tweetId": "1511676464504180739",
+                                            "urltweet": "https://twitter.com/ccb18Vt/status/1511676464504180739",
+                                            "inReplyToId": "1511676101671673858",
+                                            "tweetUserName": "ccb18Vt"
+                                        },
+                                        {
+                                            "text": "@MicrosoftHelps This erratic behavior also occurs when turning on a connected external monitor - if Night Light is on, it is deactivated yet the Settings think it is still active.",
+                                            "rawText": "@MicrosoftHelps This erratic behavior also occurs when turning on a connected external monitor - if Night Light is on, it is deactivated yet the Settings think it is still active.",
+                                            "type": "tweet",
+                                            "created": "Wed, 06 Apr 2022 12:06:34 GMT",
+                                            "tweetId": "1511676739017228293",
+                                            "urltweet": "https://twitter.com/ccb18Vt/status/1511676739017228293",
+                                            "inReplyToId": "1511676101671673858",
+                                            "tweetUserName": "ccb18Vt"
+                                        }
+                                    ]
                                 }
                             ]
                         },
