@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 16:03:43 GMT"
+            "dateModified": "Wed, 06 Apr 2022 12:05:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@MicrosoftHelps Surf.Book3, Win10 pro, 21H2 19044.1620.\nThis has been going on for a while: Night Light settings are erratic.\nOne example:\n- PC was in Sleep mode\n- Wake it, clearly not in night light\n- Night Light settings thinks it is\n- Clicking slider shows that it is not <a href=\"https://t.co/mVJQJIDRD2\">[link]</a>",
+                                    "rawText": "@MicrosoftHelps Surf.Book3, Win10 pro, 21H2 19044.1620.\nThis has been going on for a while: Night Light settings are erratic.\nOne example:\n- PC was in Sleep mode\n- Wake it, clearly not in night light\n- Night Light settings thinks it is\n- Clicking slider shows that it is not https://t.co/mVJQJIDRD2",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 12:04:02 GMT",
+                                    "tweetId": "1511676101671673858",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1511676101671673858",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
