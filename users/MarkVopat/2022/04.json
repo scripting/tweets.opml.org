@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 02:15:52 GMT"
+            "dateModified": "Wed, 06 Apr 2022 19:41:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Opposition to HB616: \n<a href=\"https://t.co/zO8suRpd5h\">[link]</a>",
+                                    "rawText": "Opposition to HB616: \nhttps://t.co/zO8suRpd5h",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 19:34:01 GMT",
+                                    "tweetId": "1511789343702228999",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1511789343702228999",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
