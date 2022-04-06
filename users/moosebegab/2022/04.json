@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 17:13:32 GMT"
+            "dateModified": "Wed, 06 Apr 2022 14:14:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@adivawoman ((hugs))",
+                                    "rawText": "@adivawoman ((hugs))",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 14:07:51 GMT",
+                                    "tweetId": "1511707261365796872",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1511707261365796872",
+                                    "inReplyToId": "1511703983810830339",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
