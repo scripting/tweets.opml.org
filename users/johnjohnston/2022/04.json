@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 18:24:22 GMT"
+            "dateModified": "Wed, 06 Apr 2022 09:37:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@DigiLearnScot Might have mixed up the date. We used:\n<a href=\"https://t.co/4RR5cRHqId\">[link]</a>\nRather than our usual Keynote/alpha. Frighteningly simple.",
+                                    "rawText": "@DigiLearnScot Might have mixed up the date. We used:\nhttps://t.co/4RR5cRHqId\nRather than our usual Keynote/alpha. Frighteningly simple.",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Apr 2022 09:33:48 GMT",
+                                    "tweetId": "1511638290910298113",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1511638290910298113",
+                                    "inReplyToId": "1511633080460759040",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
