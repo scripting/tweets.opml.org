@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 02:39:27 GMT"
+            "dateModified": "Thu, 07 Apr 2022 12:52:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@FeldheimRejects So a sequel to this? <a href=\"https://t.co/hO8AsfPpf0\">[link]</a>",
+                                    "rawText": "@FeldheimRejects So a sequel to this? https://t.co/hO8AsfPpf0",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 12:41:30 GMT",
+                                    "tweetId": "1512047917766483974",
+                                    "urltweet": "https://twitter.com/yudel/status/1512047917766483974",
+                                    "inReplyToId": "1512046799246135314",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 6",
                             "type": "calendarDay",
