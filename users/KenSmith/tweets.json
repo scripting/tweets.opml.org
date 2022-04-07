@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 14:37:11 GMT"
+            "dateModified": "Thu, 07 Apr 2022 10:50:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "\"In ergodic literature, nontrivial effort is required to allow the reader to traverse the text.\" <a href=\"https://t.co/Ewa4o7nQ8q\">[link]</a>",
+                                    "rawText": "\"In ergodic literature, nontrivial effort is required to allow the reader to traverse the text.\" https://t.co/Ewa4o7nQ8q",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 10:49:14 GMT",
+                                    "tweetId": "1512019662380453890",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1512019662380453890",
+                                    "tweetUserName": "KenSmith"
+                                },
+                                {
+                                    "text": "\"I don't need you to interpret and translate my life and my work for other people – sorry journalists, but I’m a shepherd not an idiot.\" (Nov. 22, 2013) <a href=\"https://t.co/CFwr6QCd9p\">[link]</a>",
+                                    "rawText": "\"I don't need you to interpret and translate my life and my work for other people – sorry journalists, but I’m a shepherd not an idiot.\" (Nov. 22, 2013) https://t.co/CFwr6QCd9p",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 10:47:13 GMT",
+                                    "tweetId": "1512019158170488837",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1512019158170488837",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 6",
                             "type": "calendarDay",
