@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 11:13:27 GMT"
+            "dateModified": "Thu, 07 Apr 2022 14:39:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@ds106dc Here are my flickr butterflies, flickering about #tdc3738 #ds106 \n<a href=\"https://t.co/kJnKPdHHbU\">[link]</a>",
+                                    "rawText": "@ds106dc Here are my flickr butterflies, flickering about #tdc3738 #ds106 \nhttps://t.co/kJnKPdHHbU",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 14:34:20 GMT",
+                                    "tweetId": "1512076310847246349",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1512076310847246349",
+                                    "inReplyToId": "1512030938632376327",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 6",
                             "type": "calendarDay",
