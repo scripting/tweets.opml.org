@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 03:06:44 GMT"
+            "dateModified": "Thu, 07 Apr 2022 19:31:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "My developer account is now unblocked! As soon as I transfer over the @fullyjabbedCA project to that account, I’ll get to work on on adding support for triple- and quadruple-jab percentages.",
+                                    "rawText": "My developer account is now unblocked! As soon as I transfer over the @fullyjabbedCA project to that account, I’ll get to work on on adding support for triple- and quadruple-jab percentages.",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 19:20:24 GMT",
+                                    "tweetId": "1512148304490082304",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1512148304490082304",
+                                    "inReplyToId": "1491924925082488833",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 6",
                             "type": "calendarDay",
