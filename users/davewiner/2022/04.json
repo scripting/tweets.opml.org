@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 14:25:59 GMT"
+            "dateModified": "Thu, 07 Apr 2022 14:37:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "The first three quarters of last night's Knicks game were sublime. Alas, they had to play one more quarter. Oy. <a href=\"https://t.co/o3NS9IQ8da\">[link]</a>",
+                                    "rawText": "The first three quarters of last night's Knicks game were sublime. Alas, they had to play one more quarter. Oy. https://t.co/o3NS9IQ8da",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 14:26:00 GMT",
+                                    "tweetId": "1512074216274759698",
+                                    "urltweet": "https://twitter.com/davewiner/status/1512074216274759698",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Boca or Bucha was one of our many slogans at Living Videotext. <a href=\"https://t.co/568ctsDBRo\">[link]</a>",
                                     "rawText": "Boca or Bucha was one of our many slogans at Living Videotext. https://t.co/568ctsDBRo",
@@ -84,7 +93,19 @@
                                                             "tweetId": "1512041939792769025",
                                                             "urltweet": "https://twitter.com/davewiner/status/1512041939792769025",
                                                             "inReplyToId": "1512041182486052870",
-                                                            "tweetUserName": "davewiner"
+                                                            "tweetUserName": "davewiner",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "BTW, this one I already have in the form of a Node.js package. Haven't released it yet, but now I have a good reason to top it off to get it out at least in beta form.",
+                                                                    "rawText": "BTW, this one I already have in the form of a Node.js package. Haven't released it yet, but now I have a good reason to top it off to get it out at least in beta form.",
+                                                                    "type": "tweet",
+                                                                    "created": "Thu, 07 Apr 2022 14:31:48 GMT",
+                                                                    "tweetId": "1512075675573751809",
+                                                                    "urltweet": "https://twitter.com/davewiner/status/1512075675573751809",
+                                                                    "inReplyToId": "1512041939792769025",
+                                                                    "tweetUserName": "davewiner"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
