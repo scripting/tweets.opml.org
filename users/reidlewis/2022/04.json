@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "reidlewis tweets",
+            "dateCreated": "Mon, 24 Jan 2022 12:39:55 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/reidlewis/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Thu, 07 Apr 2022 19:44:34 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Thanks, @GregScott_photo, for a beautifully clear and detailed shot of the elusive #Octagrabber received hard earned TLC. <a href=\"https://t.co/GoporgjH8l\">[link]</a>",
+                                    "rawText": "Thanks, @GregScott_photo, for a beautifully clear and detailed shot of the elusive #Octagrabber received hard earned TLC. https://t.co/GoporgjH8l",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 19:38:12 GMT",
+                                    "tweetId": "1512152784556208129",
+                                    "urltweet": "https://twitter.com/reidlewis/status/1512152784556208129",
+                                    "tweetUserName": "reidlewis"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
