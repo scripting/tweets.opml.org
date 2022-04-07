@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Apr 2022 22:08:40 GMT"
+            "dateModified": "Thu, 07 Apr 2022 07:09:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@ViktorMedina María Abradelo andó para que Natalia Sánchez pudiera correr",
+                                    "rawText": "@ViktorMedina María Abradelo andó para que Natalia Sánchez pudiera correr",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 07:03:34 GMT",
+                                    "tweetId": "1511962873119055880",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1511962873119055880",
+                                    "inReplyToId": "1511939324341899266",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 6",
                             "type": "calendarDay",
