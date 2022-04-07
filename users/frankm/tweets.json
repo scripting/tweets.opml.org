@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Apr 2022 13:38:18 GMT"
+            "dateModified": "Thu, 07 Apr 2022 14:41:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Happy opening day Chicago Cubs fans!\n\n<a href=\"https://t.co/BZLya5UFCr\">[link]</a>... https://t.co/vSvwXYXM4g",
+                                    "rawText": "Happy opening day Chicago Cubs fans!\n\nhttps://t.co/BZLya5UFCr... https://t.co/vSvwXYXM4g",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 14:32:50 GMT",
+                                    "tweetId": "1512075934865641482",
+                                    "urltweet": "https://twitter.com/frankm/status/1512075934865641482",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 5",
                             "type": "calendarDay",
