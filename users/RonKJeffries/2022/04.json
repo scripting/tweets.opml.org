@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 00:23:48 GMT"
+            "dateModified": "Thu, 07 Apr 2022 14:12:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@dansaltzstein That study is flawed.",
+                                    "rawText": "@dansaltzstein That study is flawed.",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 14:12:34 GMT",
+                                    "tweetId": "1512070833430171667",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1512070833430171667",
+                                    "inReplyToId": "1512069854618001415",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 6",
                             "type": "calendarDay",
