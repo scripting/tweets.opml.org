@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 11:37:48 GMT"
+            "dateModified": "Thu, 07 Apr 2022 12:13:50 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,36 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "I think maybe we should show the Bluesky folk how to make a distributed Twitter without reinventing everything.",
+                                    "rawText": "I think maybe we should show the Bluesky folk how to make a distributed Twitter without reinventing everything.",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 12:11:01 GMT",
+                                    "tweetId": "1512040246984286218",
+                                    "urltweet": "https://twitter.com/davewiner/status/1512040246984286218",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "To start, why not use an existing identity system that scales, like the one they use in Twitter. It really works.",
+                                            "rawText": "To start, why not use an existing identity system that scales, like the one they use in Twitter. It really works.",
+                                            "type": "tweet",
+                                            "created": "Thu, 07 Apr 2022 12:13:24 GMT",
+                                            "tweetId": "1512040845964414980",
+                                            "urltweet": "https://twitter.com/davewiner/status/1512040845964414980",
+                                            "inReplyToId": "1512040246984286218",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Weekend Update Jokes That Are too Hot to Air. <a href=\"https://t.co/IqY0lkz48j\">[link]</a>",
+                                    "rawText": "Weekend Update Jokes That Are too Hot to Air. https://t.co/IqY0lkz48j",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Apr 2022 12:09:14 GMT",
+                                    "tweetId": "1512039794490200066",
+                                    "urltweet": "https://twitter.com/davewiner/status/1512039794490200066",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Trump deflects blame for silence on Jan. 6 and says he would have gone to the Capitol 'in a minute' that day. <a href=\"https://t.co/mPBkd034RE\">[link]</a>",
                                     "rawText": "Trump deflects blame for silence on Jan. 6 and says he would have gone to the Capitol 'in a minute' that day. https://t.co/mPBkd034RE",
