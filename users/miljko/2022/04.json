@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 02:47:31 GMT"
+            "dateModified": "Fri, 08 Apr 2022 19:12:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "“We live in Applicatia, a world where people must spend their days improving their resumes in the hope of improving their lives…”\n\nThis is from Experimental History, my new favorite newsletter. <a href=\"https://t.co/SbFG0Fn3o0\">[link]</a>",
+                                    "rawText": "“We live in Applicatia, a world where people must spend their days improving their resumes in the hope of improving their lives…”\n\nThis is from Experimental History, my new favorite newsletter. https://t.co/SbFG0Fn3o0",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 19:07:21 GMT",
+                                    "tweetId": "1512507405829120003",
+                                    "urltweet": "https://twitter.com/miljko/status/1512507405829120003",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 7",
                             "type": "calendarDay",
