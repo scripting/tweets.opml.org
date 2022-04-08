@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 08:15:04 GMT"
+            "dateModified": "Fri, 08 Apr 2022 07:52:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@wabol Gefeliciteerd met AM Beyond!",
+                                    "rawText": "@wabol Gefeliciteerd met AM Beyond!",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 07:43:10 GMT",
+                                    "tweetId": "1512335226806099971",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1512335226806099971",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 7",
                             "type": "calendarDay",
