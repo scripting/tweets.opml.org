@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 19:06:06 GMT"
+            "dateModified": "Fri, 08 Apr 2022 19:42:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "@smallbeerpress What a cover!",
+                                    "rawText": "@smallbeerpress What a cover!",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 19:36:52 GMT",
+                                    "tweetId": "1512514833987641345",
+                                    "urltweet": "https://twitter.com/yudel/status/1512514833987641345",
+                                    "inReplyToId": "1512514507133923328",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "Do I know anyone who follows contemporary synagogue music? I’m writing a piece about David Broza’s new musical setting for the Friday night service, commissioned by Temple Emanu-El’s @streickercenter and I’d love to speak with someone who could help contextualize it.",
+                                    "rawText": "Do I know anyone who follows contemporary synagogue music? I’m writing a piece about David Broza’s new musical setting for the Friday night service, commissioned by Temple Emanu-El’s @streickercenter and I’d love to speak with someone who could help contextualize it.",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 19:32:43 GMT",
+                                    "tweetId": "1512513791447244811",
+                                    "urltweet": "https://twitter.com/yudel/status/1512513791447244811",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Info on the new album and services featuring this new music is at David’s website. <a href=\"https://t.co/OITGpsIxz7\">[link]</a>",
+                                            "rawText": "Info on the new album and services featuring this new music is at David’s website. https://t.co/OITGpsIxz7",
+                                            "type": "tweet",
+                                            "created": "Fri, 08 Apr 2022 19:33:33 GMT",
+                                            "tweetId": "1512513999413334021",
+                                            "urltweet": "https://twitter.com/yudel/status/1512513999413334021",
+                                            "inReplyToId": "1512513791447244811",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@pdnell @nytimes One reason why the Times isn’t all in on democracy.",
                                     "rawText": "@pdnell @nytimes One reason why the Times isn’t all in on democracy.",
