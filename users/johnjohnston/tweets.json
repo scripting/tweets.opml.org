@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 14:39:14 GMT"
+            "dateModified": "Fri, 08 Apr 2022 13:04:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@phb256 @ds106dc Super👍",
+                                    "rawText": "@phb256 @ds106dc Super👍",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 12:57:49 GMT",
+                                    "tweetId": "1512414409523613704",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1512414409523613704",
+                                    "inReplyToId": "1512408272883666952",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 7",
                             "type": "calendarDay",
