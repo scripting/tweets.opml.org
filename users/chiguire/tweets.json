@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 22:47:46 GMT"
+            "dateModified": "Fri, 08 Apr 2022 09:36:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "Evitando TikTok porque yo me conozco",
+                                    "rawText": "Evitando TikTok porque yo me conozco",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 09:25:54 GMT",
+                                    "tweetId": "1512361078449180673",
+                                    "urltweet": "https://twitter.com/chiguire/status/1512361078449180673",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 7",
                             "type": "calendarDay",
@@ -220,7 +236,19 @@
                                             "tweetId": "1512010376682119173",
                                             "urltweet": "https://twitter.com/chiguire/status/1512010376682119173",
                                             "inReplyToId": "1511629176448729089",
-                                            "tweetUserName": "chiguire"
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "Pónganse los patines\n\n#Heardle #42\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\n<a href=\"https://t.co/y0qtdfCUBH\">[link]</a>",
+                                                    "rawText": "Pónganse los patines\n\n#Heardle #42\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\nhttps://t.co/y0qtdfCUBH",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 08 Apr 2022 09:24:47 GMT",
+                                                    "tweetId": "1512360799095898119",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1512360799095898119",
+                                                    "inReplyToId": "1512010376682119173",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
