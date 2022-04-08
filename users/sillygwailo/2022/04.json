@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 22:09:32 GMT"
+            "dateModified": "Fri, 08 Apr 2022 22:21:33 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Fri, 08 Apr 2022 22:04:40 GMT",
                                     "tweetId": "1512552030560206853",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1512552030560206853",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "It’s my first time attending Opening Night! @BlueJays #NextLevel",
+                                            "rawText": "It’s my first time attending Opening Night! @BlueJays #NextLevel",
+                                            "type": "tweet",
+                                            "created": "Fri, 08 Apr 2022 22:20:51 GMT",
+                                            "tweetId": "1512556104445747201",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1512556104445747201",
+                                            "inReplyToId": "1512552030560206853",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@daringfireball I put together a calendar of the Apple TV+ Friday Night Baseball schedule that people can subscribe to, with the teams and game times. See the tweet below. <a href=\"https://t.co/NqEABKkxAa\">[link]</a>",
