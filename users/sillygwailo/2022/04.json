@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 02:20:14 GMT"
+            "dateModified": "Fri, 08 Apr 2022 16:21:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "I’m gonna need a print of this. <a href=\"https://t.co/TUJFUP6Fzy\">[link]</a>",
+                                    "rawText": "I’m gonna need a print of this. https://t.co/TUJFUP6Fzy",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 16:15:12 GMT",
+                                    "tweetId": "1512464085073510405",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1512464085073510405",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 7",
                             "type": "calendarDay",
