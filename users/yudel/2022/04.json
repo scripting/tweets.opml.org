@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 16:53:57 GMT"
+            "dateModified": "Fri, 08 Apr 2022 17:17:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "They just went and tweeted it out. <a href=\"https://t.co/GOmLLGOubV\">[link]</a>",
+                                    "rawText": "They just went and tweeted it out. https://t.co/GOmLLGOubV",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 17:12:50 GMT",
+                                    "tweetId": "1512478588582256645",
+                                    "urltweet": "https://twitter.com/yudel/status/1512478588582256645",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@JonathanCohn Hey, subject lines are *hard*",
                                     "rawText": "@JonathanCohn Hey, subject lines are *hard*",
