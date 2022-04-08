@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 02:04:58 GMT"
+            "dateModified": "Fri, 08 Apr 2022 05:41:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "New album of Dylan covers coming soon. <a href=\"https://t.co/Q1XGWFniKj\">[link]</a>",
+                                    "rawText": "New album of Dylan covers coming soon. https://t.co/Q1XGWFniKj",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Apr 2022 05:36:07 GMT",
+                                    "tweetId": "1512303253488291840",
+                                    "urltweet": "https://twitter.com/yudel/status/1512303253488291840",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Their version of “I Shall Be Released” was just released. Nice, but I prefer It in the original Yiddish. <a href=\"https://t.co/TYTS9c86Y8\">[link]</a>",
+                                            "rawText": "Their version of “I Shall Be Released” was just released. Nice, but I prefer It in the original Yiddish. https://t.co/TYTS9c86Y8",
+                                            "type": "tweet",
+                                            "created": "Fri, 08 Apr 2022 05:37:20 GMT",
+                                            "tweetId": "1512303561195114499",
+                                            "urltweet": "https://twitter.com/yudel/status/1512303561195114499",
+                                            "inReplyToId": "1512303253488291840",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "April 7",
                             "type": "calendarDay",
