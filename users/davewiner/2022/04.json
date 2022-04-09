@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 12:28:58 GMT"
+            "dateModified": "Sat, 09 Apr 2022 13:05:01 GMT"
         },
         "body": {
             "subs": [
@@ -584,7 +584,31 @@
                                     "created": "Thu, 07 Apr 2022 00:45:37 GMT",
                                     "tweetId": "1511867757134024722",
                                     "urltweet": "https://twitter.com/davewiner/status/1511867757134024722",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@davegandy -- see the UI puzzle above. \n\nHere's what I really want. On the original Mac, they had a clock desk accessory that you could set alarms with. It had a flag, like the flag on a mailbox, that would toggle between up and down.",
+                                            "rawText": "@davegandy -- see the UI puzzle above. \n\nHere's what I really want. On the original Mac, they had a clock desk accessory that you could set alarms with. It had a flag, like the flag on a mailbox, that would toggle between up and down.",
+                                            "type": "tweet",
+                                            "created": "Sat, 09 Apr 2022 13:04:55 GMT",
+                                            "tweetId": "1512778583655206914",
+                                            "urltweet": "https://twitter.com/davewiner/status/1512778583655206914",
+                                            "inReplyToId": "1511867757134024722",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "If down it would reveal the details, if up, the details were hidden. Below is a screen shot from Wikipedia with an arrow pointing to the icon.\n\nToday we could do better. This would be a welcome addition to Font-Awesome. <a href=\"https://t.co/bQ2B4vIe0O\">[link]</a>",
+                                                    "rawText": "If down it would reveal the details, if up, the details were hidden. Below is a screen shot from Wikipedia with an arrow pointing to the icon.\n\nToday we could do better. This would be a welcome addition to Font-Awesome. https://t.co/bQ2B4vIe0O",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 09 Apr 2022 13:04:55 GMT",
+                                                    "tweetId": "1512778586230595587",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1512778586230595587",
+                                                    "inReplyToId": "1512778583655206914",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Meta is reportedly making ‘Zuck Bucks’. <a href=\"https://t.co/EjDbL7XBFc\">[link]</a>",
