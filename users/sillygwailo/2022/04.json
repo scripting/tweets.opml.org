@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 21:23:03 GMT"
+            "dateModified": "Sat, 09 Apr 2022 21:47:05 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                                     "tweetId": "1512903579086032900",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1512903579086032900",
                                                     "inReplyToId": "1512899503258587136",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "It’s wild that Matt Bush is allowed entry into Canada.",
+                                                            "rawText": "It’s wild that Matt Bush is allowed entry into Canada.",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 09 Apr 2022 21:37:47 GMT",
+                                                            "tweetId": "1512907652011024400",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1512907652011024400",
+                                                            "inReplyToId": "1512903579086032900",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
