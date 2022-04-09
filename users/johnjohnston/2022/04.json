@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 13:04:42 GMT"
+            "dateModified": "Sat, 09 Apr 2022 13:18:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "Kilpatrick Braes: <a href=\"https://t.co/to62wqhfHr\">[link]</a>",
+                                    "rawText": "Kilpatrick Braes: https://t.co/to62wqhfHr",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Apr 2022 13:13:19 GMT",
+                                    "tweetId": "1512780701241954305",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1512780701241954305",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 8",
                             "type": "calendarDay",
