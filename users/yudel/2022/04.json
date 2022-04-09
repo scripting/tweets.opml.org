@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 00:30:26 GMT"
+            "dateModified": "Sat, 09 Apr 2022 21:55:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@trekonomics So no free Borscht course. Yet.",
+                                    "rawText": "@trekonomics So no free Borscht course. Yet.",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Apr 2022 21:45:48 GMT",
+                                    "tweetId": "1512909672126332930",
+                                    "urltweet": "https://twitter.com/yudel/status/1512909672126332930",
+                                    "inReplyToId": "1512909224015237127",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 8",
                             "type": "calendarDay",
