@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 03:15:07 GMT"
+            "dateModified": "Sat, 09 Apr 2022 14:03:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@bijan Lovely images. So subtle. \n\nOur wonderful smartphone cameras don't do subtle. Maybe if shooting raw...",
+                                    "rawText": "@bijan Lovely images. So subtle. \n\nOur wonderful smartphone cameras don't do subtle. Maybe if shooting raw...",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Apr 2022 14:02:41 GMT",
+                                    "tweetId": "1512793124661125128",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1512793124661125128",
+                                    "inReplyToId": "1512792371733352455",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 8",
                             "type": "calendarDay",
