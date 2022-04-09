@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 21:11:02 GMT"
+            "dateModified": "Sat, 09 Apr 2022 21:23:03 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1512899503258587136",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1512899503258587136",
                                             "inReplyToId": "1512866812928667653",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "My view from the cheap seats. <a href=\"https://t.co/KEpSBOR4hl\">[link]</a>",
+                                                    "rawText": "My view from the cheap seats. https://t.co/KEpSBOR4hl",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 09 Apr 2022 21:21:36 GMT",
+                                                    "tweetId": "1512903579086032900",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1512903579086032900",
+                                                    "inReplyToId": "1512899503258587136",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
