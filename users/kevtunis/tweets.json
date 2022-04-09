@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Apr 2022 20:37:52 GMT"
+            "dateModified": "Sat, 09 Apr 2022 19:40:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@wpengine vs @HeyFlywheel",
+                                    "rawText": "@wpengine vs @HeyFlywheel",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Apr 2022 19:31:56 GMT",
+                                    "tweetId": "1512875979651309580",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1512875979651309580",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 7",
                             "type": "calendarDay",
