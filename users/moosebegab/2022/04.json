@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 17:06:13 GMT"
+            "dateModified": "Sat, 09 Apr 2022 13:43:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "took a sip of coffee and now have lump in my throat.. WTF??",
+                                    "rawText": "took a sip of coffee and now have lump in my throat.. WTF??",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Apr 2022 13:36:18 GMT",
+                                    "tweetId": "1512786481353478147",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1512786481353478147",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 8",
                             "type": "calendarDay",
