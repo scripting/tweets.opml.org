@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 13:24:47 GMT"
+            "dateModified": "Sat, 09 Apr 2022 13:48:49 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 09 Apr 2022 13:13:41 GMT",
                                     "tweetId": "1512780792950411266",
                                     "urltweet": "https://twitter.com/_cprecioso/status/1512780792950411266",
-                                    "tweetUserName": "_cprecioso"
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/nXXVNlFlOM\">[link]</a>",
+                                            "rawText": "https://t.co/nXXVNlFlOM",
+                                            "type": "tweet",
+                                            "created": "Sat, 09 Apr 2022 13:39:35 GMT",
+                                            "tweetId": "1512787310999388166",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1512787310999388166",
+                                            "inReplyToId": "1512780792950411266",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@victorsgap 👀",
