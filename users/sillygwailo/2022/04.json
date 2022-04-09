@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 18:58:54 GMT"
+            "dateModified": "Sat, 09 Apr 2022 21:11:02 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 09 Apr 2022 18:55:30 GMT",
                                     "tweetId": "1512866812928667653",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1512866812928667653",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I like this Santiago Espinal guy.",
+                                            "rawText": "I like this Santiago Espinal guy.",
+                                            "type": "tweet",
+                                            "created": "Sat, 09 Apr 2022 21:05:24 GMT",
+                                            "tweetId": "1512899503258587136",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1512899503258587136",
+                                            "inReplyToId": "1512866812928667653",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
