@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 23:37:23 GMT"
+            "dateModified": "Sat, 09 Apr 2022 08:37:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@Alexformosoc <a href=\"https://t.co/dRPYt9Haqv\">[link]</a>",
+                                    "rawText": "@Alexformosoc https://t.co/dRPYt9Haqv",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Apr 2022 08:33:19 GMT",
+                                    "tweetId": "1512710236175482884",
+                                    "urltweet": "https://twitter.com/chiguire/status/1512710236175482884",
+                                    "inReplyToId": "1512690558908739588",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 8",
                             "type": "calendarDay",
