@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 20:11:40 GMT"
+            "dateModified": "Sat, 09 Apr 2022 08:12:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@nilcaste @r_p_pp_ Niltendo DJ",
+                                    "rawText": "@nilcaste @r_p_pp_ Niltendo DJ",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Apr 2022 08:10:02 GMT",
+                                    "tweetId": "1512704375650758657",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1512704375650758657",
+                                    "inReplyToId": "1512703299987943428",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 8",
                             "type": "calendarDay",
