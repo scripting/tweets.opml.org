@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 14:58:38 GMT"
+            "dateModified": "Sat, 09 Apr 2022 18:58:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "This afternoon. <a href=\"https://t.co/8KbQmQJQnu\">[link]</a>",
+                                    "rawText": "This afternoon. https://t.co/8KbQmQJQnu",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Apr 2022 18:55:30 GMT",
+                                    "tweetId": "1512866812928667653",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1512866812928667653",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 8",
                             "type": "calendarDay",
