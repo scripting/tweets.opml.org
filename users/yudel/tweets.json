@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 21:55:50 GMT"
+            "dateModified": "Sun, 10 Apr 2022 01:32:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,24 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/d5MZiDcSdM\">[link]</a>",
+                                    "rawText": "https://t.co/d5MZiDcSdM",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 01:27:23 GMT",
+                                    "tweetId": "1512965431690248196",
+                                    "urltweet": "https://twitter.com/yudel/status/1512965431690248196",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "Sure, let’s clone the asteroid that killed the dinosaurs. What could possibly go wrong with a Jurassic rock?\n\n<a href=\"https://t.co/Hl1hlpAEMb\">[link]</a>",
+                                    "rawText": "Sure, let’s clone the asteroid that killed the dinosaurs. What could possibly go wrong with a Jurassic rock?\n\nhttps://t.co/Hl1hlpAEMb",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 01:23:55 GMT",
+                                    "tweetId": "1512964559333736449",
+                                    "urltweet": "https://twitter.com/yudel/status/1512964559333736449",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@trekonomics So no free Borscht course. Yet.",
                                     "rawText": "@trekonomics So no free Borscht course. Yet.",
