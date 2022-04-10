@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 01:32:04 GMT"
+            "dateModified": "Sun, 10 Apr 2022 01:44:06 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "@matthewstoller “The news watch never stops!”",
+                                    "rawText": "@matthewstoller “The news watch never stops!”",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 01:35:14 GMT",
+                                    "tweetId": "1512967407408660481",
+                                    "urltweet": "https://twitter.com/yudel/status/1512967407408660481",
+                                    "inReplyToId": "1512967143905628160",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "<a href=\"https://t.co/d5MZiDcSdM\">[link]</a>",
                                     "rawText": "https://t.co/d5MZiDcSdM",
