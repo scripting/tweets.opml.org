@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 21:12:35 GMT"
+            "dateModified": "Sun, 10 Apr 2022 21:36:36 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "10",
                             "subs": [
                                 {
+                                    "text": "@amye @BitIntegrity What about talking to the wine?",
+                                    "rawText": "@amye @BitIntegrity What about talking to the wine?",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 21:33:40 GMT",
+                                    "tweetId": "1513269003795550208",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1513269003795550208",
+                                    "inReplyToId": "1513266125227716609",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
                                     "text": "Can somebody tell me what my interests are? A woman is asking me and I can never seem to answer that question without people’s eyes glazing over.",
                                     "rawText": "Can somebody tell me what my interests are? A woman is asking me and I can never seem to answer that question without people’s eyes glazing over.",
                                     "type": "tweet",
                                     "created": "Sun, 10 Apr 2022 21:02:11 GMT",
                                     "tweetId": "1513261079413116930",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1513261079413116930",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I’m tempted to answer with “I own stocks through my RRSP, a little bit of cryptocurrency, and a single share of a sports club in British Columbia, and would own stock in the company I work for if it wasn’t for the mandatory options buyout,” but that’s not what she’s asking.",
+                                            "rawText": "I’m tempted to answer with “I own stocks through my RRSP, a little bit of cryptocurrency, and a single share of a sports club in British Columbia, and would own stock in the company I work for if it wasn’t for the mandatory options buyout,” but that’s not what she’s asking.",
+                                            "type": "tweet",
+                                            "created": "Sun, 10 Apr 2022 21:27:35 GMT",
+                                            "tweetId": "1513267475630247944",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1513267475630247944",
+                                            "inReplyToId": "1513261079413116930",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@BlueJayGal 🤔 Apparently the runner must cross home plate or the game can’t start up again, but there’s also precedent for it being scored a triple if the player leaves the field after touching third base. <a href=\"https://t.co/J7Masm6mX8\">[link]</a>",
