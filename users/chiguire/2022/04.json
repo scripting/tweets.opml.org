@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 09:39:35 GMT"
+            "dateModified": "Sun, 10 Apr 2022 10:15:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,55 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "La semana pasada me presentaron este programa para imprimir tabs de canciones y regresé a los 2000 de una buena manera <a href=\"https://t.co/slV8XLuw8i\">[link]</a>",
+                                    "rawText": "La semana pasada me presentaron este programa para imprimir tabs de canciones y regresé a los 2000 de una buena manera https://t.co/slV8XLuw8i",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 10:10:26 GMT",
+                                    "tweetId": "1513097062543417345",
+                                    "urltweet": "https://twitter.com/chiguire/status/1513097062543417345",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Quiero escribir un tutorial de esto, está super interesante <a href=\"https://t.co/PO90rcljI2\">[link]</a>",
+                                            "rawText": "Quiero escribir un tutorial de esto, está super interesante https://t.co/PO90rcljI2",
+                                            "type": "tweet",
+                                            "created": "Sun, 10 Apr 2022 10:12:10 GMT",
+                                            "tweetId": "1513097500449812486",
+                                            "urltweet": "https://twitter.com/chiguire/status/1513097500449812486",
+                                            "inReplyToId": "1513097062543417345",
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "La entrada para este resultado es esto, en texto plano <a href=\"https://t.co/pkYQRzpATx\">[link]</a>",
+                                                    "rawText": "La entrada para este resultado es esto, en texto plano https://t.co/pkYQRzpATx",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 10 Apr 2022 10:13:07 GMT",
+                                                    "tweetId": "1513097736979103749",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1513097736979103749",
+                                                    "inReplyToId": "1513097500449812486",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Lo único que le pediría a Spotify es \"pon este playlist después de que termine esta canción\"",
+                                    "rawText": "Lo único que le pediría a Spotify es \"pon este playlist después de que termine esta canción\"",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 10:08:38 GMT",
+                                    "tweetId": "1513096610489806853",
+                                    "urltweet": "https://twitter.com/chiguire/status/1513096610489806853",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 9",
                             "type": "calendarDay",
