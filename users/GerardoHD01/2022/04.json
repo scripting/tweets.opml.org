@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Apr 2022 02:44:01 GMT"
+            "dateModified": "Sun, 10 Apr 2022 13:35:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@complicated_cat 1.70, normalito 😅 <a href=\"https://t.co/7f7bhLvldZ\">[link]</a>",
+                                    "rawText": "@complicated_cat 1.70, normalito 😅 https://t.co/7f7bhLvldZ",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 13:29:43 GMT",
+                                    "tweetId": "1513147212473196547",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1513147212473196547",
+                                    "inReplyToId": "1512961149242912771",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 7",
                             "type": "calendarDay",
