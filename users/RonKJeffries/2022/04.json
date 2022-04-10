@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 01:28:34 GMT"
+            "dateModified": "Sun, 10 Apr 2022 19:05:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@Bernard_Brah @CAKitchener @prisonculture The police don't write the laws. This law is deeply fraught.",
+                                    "rawText": "@Bernard_Brah @CAKitchener @prisonculture The police don't write the laws. This law is deeply fraught.",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 19:03:00 GMT",
+                                    "tweetId": "1513231089677963264",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1513231089677963264",
+                                    "inReplyToId": "1513200894774493188",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 9",
                             "type": "calendarDay",
