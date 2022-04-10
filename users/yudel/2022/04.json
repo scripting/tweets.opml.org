@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 03:20:11 GMT"
+            "dateModified": "Sun, 10 Apr 2022 18:21:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@DanielSeidemann @kampeas Not so rare in America, my friend. <a href=\"https://t.co/pyb8klIbNW\">[link]</a>",
+                                    "rawText": "@DanielSeidemann @kampeas Not so rare in America, my friend. https://t.co/pyb8klIbNW",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 18:21:08 GMT",
+                                    "tweetId": "1513220552370147328",
+                                    "urltweet": "https://twitter.com/yudel/status/1513220552370147328",
+                                    "inReplyToId": "1513220113541091334",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 9",
                             "type": "calendarDay",
