@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 07:31:42 GMT"
+            "dateModified": "Sun, 10 Apr 2022 07:43:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@ChristaRomp @tjarko @my_wheels @SnappCar Dat zit inbegrepen bij de huurprijs. Alhoewel, bij Snappcar nog een tientje aftanken.",
+                                    "rawText": "@ChristaRomp @tjarko @my_wheels @SnappCar Dat zit inbegrepen bij de huurprijs. Alhoewel, bij Snappcar nog een tientje aftanken.",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Apr 2022 07:33:50 GMT",
+                                    "tweetId": "1513057654050074626",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1513057654050074626",
+                                    "inReplyToId": "1513057279293235207",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
                                 {
                                     "text": "@tjarko @my_wheels @SnappCar Herstel, €62,90. Opladen van een OV kaart incl 2 reizen.",
                                     "rawText": "@tjarko @my_wheels @SnappCar Herstel, €62,90. Opladen van een OV kaart incl 2 reizen.",
@@ -47,7 +57,31 @@
                                     "created": "Sun, 10 Apr 2022 07:21:08 GMT",
                                     "tweetId": "1513054458279780352",
                                     "urltweet": "https://twitter.com/frankmeeuwsen/status/1513054458279780352",
-                                    "tweetUserName": "frankmeeuwsen"
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "@my_wheels @SnappCar Goed om vragen te krijgen. Want inderdaad. OV hoort er nog bij en bij Snappcar moet je de auto afgetankt terugbrengen. Dan wordt het \nHuur: € 240\nOV: € 62,90\nBrandstof: € 10\nDan nog kom ik op iets meer dan 100 euro per maand wat beduidend minder is dan een eigen autobezit.",
+                                            "rawText": "@my_wheels @SnappCar Goed om vragen te krijgen. Want inderdaad. OV hoort er nog bij en bij Snappcar moet je de auto afgetankt terugbrengen. Dan wordt het \nHuur: € 240\nOV: € 62,90\nBrandstof: € 10\nDan nog kom ik op iets meer dan 100 euro per maand wat beduidend minder is dan een eigen autobezit.",
+                                            "type": "tweet",
+                                            "created": "Sun, 10 Apr 2022 07:35:49 GMT",
+                                            "tweetId": "1513058153742618625",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1513058153742618625",
+                                            "inReplyToId": "1513054458279780352",
+                                            "tweetUserName": "frankmeeuwsen",
+                                            "subs": [
+                                                {
+                                                    "text": "@my_wheels @SnappCar Ik kan niet wachten op alle \"ja, maar\"'s waar de mentale waarde niet is meegerekend dat je elk moment op pad kunt met een eigen auto etc. Daar hebben we tot op heden nog nooit problemen mee gehad. Er staan altijd 3-4 @my_wheels auto's in de buurt. In verschillende groottes.",
+                                                    "rawText": "@my_wheels @SnappCar Ik kan niet wachten op alle \"ja, maar\"'s waar de mentale waarde niet is meegerekend dat je elk moment op pad kunt met een eigen auto etc. Daar hebben we tot op heden nog nooit problemen mee gehad. Er staan altijd 3-4 @my_wheels auto's in de buurt. In verschillende groottes.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 10 Apr 2022 07:37:45 GMT",
+                                                    "tweetId": "1513058639434719242",
+                                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1513058639434719242",
+                                                    "inReplyToId": "1513058153742618625",
+                                                    "tweetUserName": "frankmeeuwsen"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
