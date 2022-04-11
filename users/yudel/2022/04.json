@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 14:22:26 GMT"
+            "dateModified": "Mon, 11 Apr 2022 14:34:27 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "This looks interesting. <a href=\"https://t.co/SGb1wvy4sf\">[link]</a>",
+                                    "rawText": "This looks interesting. https://t.co/SGb1wvy4sf",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Apr 2022 14:27:20 GMT",
+                                    "tweetId": "1513524100743970823",
+                                    "urltweet": "https://twitter.com/yudel/status/1513524100743970823",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@ankahajkova @jewish_studies @ucpress Here's the book: <a href=\"https://t.co/rvC9ixMDWP\">[link]</a>",
                                     "rawText": "@ankahajkova @jewish_studies @ucpress Here's the book: https://t.co/rvC9ixMDWP",
