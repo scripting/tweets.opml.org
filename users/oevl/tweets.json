@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 18:39:11 GMT"
+            "dateModified": "Mon, 11 Apr 2022 14:40:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Minicomputer Part 10: Will it Boot? <a href=\"https://t.co/wo1v401SFf\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Minicomputer Part 10: Will it Boot? https://t.co/wo1v401SFf",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Apr 2022 14:28:53 GMT",
+                                    "tweetId": "1513524493959970816",
+                                    "urltweet": "https://twitter.com/oevl/status/1513524493959970816",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: MikroTik Tutorial 91 - Turn your router into a network switch <a href=\"https://t.co/1yIrnNpRQ3\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: MikroTik Tutorial 91 - Turn your router into a network switch https://t.co/1yIrnNpRQ3",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Apr 2022 14:28:52 GMT",
+                                    "tweetId": "1513524489962860546",
+                                    "urltweet": "https://twitter.com/oevl/status/1513524489962860546",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 10",
                             "type": "calendarDay",
