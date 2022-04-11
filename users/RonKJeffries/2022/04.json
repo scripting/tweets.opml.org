@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 20:17:47 GMT"
+            "dateModified": "Mon, 11 Apr 2022 23:43:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@Stonekettle @BadAstronomer Santa Rosa Island off coast of california near Ventura,/Santa Barbara?",
+                                    "rawText": "@Stonekettle @BadAstronomer Santa Rosa Island off coast of california near Ventura,/Santa Barbara?",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Apr 2022 23:33:54 GMT",
+                                    "tweetId": "1513661649969811456",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1513661649969811456",
+                                    "inReplyToId": "1513653329842298884",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 10",
                             "type": "calendarDay",
