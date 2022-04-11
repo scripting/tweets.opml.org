@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 17:28:06 GMT"
+            "dateModified": "Mon, 11 Apr 2022 07:41:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@Zweihander11 Permite escribir tabs en ascii pero no vayamos a ese territorio con esa canción 😂",
+                                    "rawText": "@Zweihander11 Permite escribir tabs en ascii pero no vayamos a ese territorio con esa canción 😂",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Apr 2022 07:33:53 GMT",
+                                    "tweetId": "1513420052170690564",
+                                    "urltweet": "https://twitter.com/chiguire/status/1513420052170690564",
+                                    "inReplyToId": "1513324266820886530",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 10",
                             "type": "calendarDay",
