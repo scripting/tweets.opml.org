@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 14:34:27 GMT"
+            "dateModified": "Mon, 11 Apr 2022 16:10:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@bernstein_judah What do you mean?",
+                                    "rawText": "@bernstein_judah What do you mean?",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Apr 2022 16:01:38 GMT",
+                                    "tweetId": "1513547831696629763",
+                                    "urltweet": "https://twitter.com/yudel/status/1513547831696629763",
+                                    "inReplyToId": "1513541523954089984",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "This looks interesting. <a href=\"https://t.co/SGb1wvy4sf\">[link]</a>",
                                     "rawText": "This looks interesting. https://t.co/SGb1wvy4sf",
