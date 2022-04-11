@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 16:45:21 GMT"
+            "dateModified": "Mon, 11 Apr 2022 17:33:24 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1513558545148612613",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1513558545148612613",
                                     "inReplyToId": "1513554919550341128",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "@tessaapproves Then get your remaining vacation days paid out since you can’t take vacation when you’re sick.",
+                                            "rawText": "@tessaapproves Then get your remaining vacation days paid out since you can’t take vacation when you’re sick.",
+                                            "type": "tweet",
+                                            "created": "Mon, 11 Apr 2022 17:31:40 GMT",
+                                            "tweetId": "1513570491860234245",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1513570491860234245",
+                                            "inReplyToId": "1513558545148612613",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 }
                             ]
                         },
