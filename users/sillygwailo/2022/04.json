@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 00:02:18 GMT"
+            "dateModified": "Tue, 12 Apr 2022 15:27:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@uncleweed Kindness is insufficient.",
+                                    "rawText": "@uncleweed Kindness is insufficient.",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Apr 2022 15:21:25 GMT",
+                                    "tweetId": "1513900098803093506",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1513900098803093506",
+                                    "inReplyToId": "1513668573104726017",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 11",
                             "type": "calendarDay",
