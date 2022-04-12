@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 00:24:35 GMT"
+            "dateModified": "Tue, 12 Apr 2022 14:37:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "This time, I'm actually doing a contract tutorial instead of a tour of the Blockchain Toolkit <a href=\"https://t.co/x7p1Xtk8Dd\">[link]</a>",
+                                    "rawText": "This time, I'm actually doing a contract tutorial instead of a tour of the Blockchain Toolkit https://t.co/x7p1Xtk8Dd",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Apr 2022 14:28:29 GMT",
+                                    "tweetId": "1513886779035770884",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1513886779035770884",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 11",
                             "type": "calendarDay",
