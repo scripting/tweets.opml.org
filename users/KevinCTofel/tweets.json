@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 20:18:04 GMT"
+            "dateModified": "Tue, 12 Apr 2022 10:43:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Great segment worth watching, particularly the last five minutes. <a href=\"https://t.co/G5ZLRCffaJ\">[link]</a>",
+                                    "rawText": "Great segment worth watching, particularly the last five minutes. https://t.co/G5ZLRCffaJ",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Apr 2022 10:40:34 GMT",
+                                    "tweetId": "1513829421546934272",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1513829421546934272",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 11",
                             "type": "calendarDay",
