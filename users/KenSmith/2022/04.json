@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 19:21:16 GMT"
+            "dateModified": "Tue, 12 Apr 2022 16:10:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "What does it take for \"Sources go direct\" to work well? <a href=\"https://t.co/55IQn7NuRw\">[link]</a>",
+                                    "rawText": "What does it take for \"Sources go direct\" to work well? https://t.co/55IQn7NuRw",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Apr 2022 16:02:10 GMT",
+                                    "tweetId": "1513910354635591688",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1513910354635591688",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 11",
                             "type": "calendarDay",
