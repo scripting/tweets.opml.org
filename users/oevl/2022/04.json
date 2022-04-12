@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 02:29:13 GMT"
+            "dateModified": "Tue, 12 Apr 2022 13:29:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Keynote: Technology is dead <a href=\"https://t.co/KnbUJXEnxW\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Keynote: Technology is dead https://t.co/KnbUJXEnxW",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Apr 2022 13:28:04 GMT",
+                                    "tweetId": "1513871574096658439",
+                                    "urltweet": "https://twitter.com/oevl/status/1513871574096658439",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 11",
                             "type": "calendarDay",
