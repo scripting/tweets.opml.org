@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 12:21:33 GMT"
+            "dateModified": "Tue, 12 Apr 2022 10:47:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Naar aanleiding van jullie laatste POM @ejpfauth @AlexanderNL @nielsvdoorn <a href=\"https://t.co/YlscL48lFn\">[link]</a>",
+                                    "rawText": "Naar aanleiding van jullie laatste POM @ejpfauth @AlexanderNL @nielsvdoorn https://t.co/YlscL48lFn",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Apr 2022 10:43:52 GMT",
+                                    "tweetId": "1513830251545124869",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1513830251545124869",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 11",
                             "type": "calendarDay",
