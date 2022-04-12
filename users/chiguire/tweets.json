@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 11:41:16 GMT"
+            "dateModified": "Tue, 12 Apr 2022 07:42:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Really pondering the orb <a href=\"https://t.co/THWQtf5UsR\">[link]</a> https://t.co/ZgwRY9X41p",
+                                    "rawText": "Really pondering the orb https://t.co/THWQtf5UsR https://t.co/ZgwRY9X41p",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Apr 2022 07:31:44 GMT",
+                                    "tweetId": "1513781899126321156",
+                                    "urltweet": "https://twitter.com/chiguire/status/1513781899126321156",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 11",
                             "type": "calendarDay",
