@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 16:12:06 GMT"
+            "dateModified": "Tue, 12 Apr 2022 16:24:07 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1513911263054733312",
                                     "urltweet": "https://twitter.com/yudel/status/1513911263054733312",
                                     "inReplyToId": "1513910260750118912",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@antumbral @thedextriarchy <a href=\"https://t.co/7FEJtG0Eun\">[link]</a>",
+                                            "rawText": "@antumbral @thedextriarchy https://t.co/7FEJtG0Eun",
+                                            "type": "tweet",
+                                            "created": "Tue, 12 Apr 2022 16:18:11 GMT",
+                                            "tweetId": "1513914387920211969",
+                                            "urltweet": "https://twitter.com/yudel/status/1513914387920211969",
+                                            "inReplyToId": "1513911263054733312",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@TheRaDR Tablet is also complicit in spreading covid and Trumpist conspiracy theories.",
