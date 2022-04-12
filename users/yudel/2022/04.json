@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 23:11:00 GMT"
+            "dateModified": "Tue, 12 Apr 2022 02:35:13 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "Good thing coastal cities face no threats in the years ahead <a href=\"https://t.co/K975gcG0tN\">[link]</a>",
+                                    "rawText": "Good thing coastal cities face no threats in the years ahead https://t.co/K975gcG0tN",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Apr 2022 02:31:55 GMT",
+                                    "tweetId": "1513706449771319297",
+                                    "urltweet": "https://twitter.com/yudel/status/1513706449771319297",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/3NyiNfrAdl\">[link]</a>",
+                                            "rawText": "https://t.co/3NyiNfrAdl",
+                                            "type": "tweet",
+                                            "created": "Tue, 12 Apr 2022 02:32:55 GMT",
+                                            "tweetId": "1513706699223351296",
+                                            "urltweet": "https://twitter.com/yudel/status/1513706699223351296",
+                                            "inReplyToId": "1513706449771319297",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Classic parenting hack. <a href=\"https://t.co/8Ci1Y4JXNW\">[link]</a>",
                                     "rawText": "Classic parenting hack. https://t.co/8Ci1Y4JXNW",
