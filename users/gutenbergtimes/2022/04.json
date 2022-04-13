@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Apr 2022 08:06:17 GMT"
+            "dateModified": "Wed, 13 Apr 2022 02:33:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Core Styles and Theme Customization: the next steps <a href=\"https://t.co/jCTre6SlFC\">[link]</a> via @WordPress",
+                                    "rawText": "Core Styles and Theme Customization: the next steps https://t.co/jCTre6SlFC via @WordPress",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 02:28:59 GMT",
+                                    "tweetId": "1514068099443707906",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1514068099443707906",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 11",
                             "type": "calendarDay",
