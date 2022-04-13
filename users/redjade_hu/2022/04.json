@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 23:41:21 GMT"
+            "dateModified": "Wed, 13 Apr 2022 19:54:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@ManuelaBoatca @KrivonosDaria @jborocz @steven_seegel @DGSoziologie Did anyone make a youtube or other video link of this?  thanks",
+                                    "rawText": "@ManuelaBoatca @KrivonosDaria @jborocz @steven_seegel @DGSoziologie Did anyone make a youtube or other video link of this?  thanks",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 19:48:20 GMT",
+                                    "tweetId": "1514329660213297152",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1514329660213297152",
+                                    "inReplyToId": "1510971377410625542",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
