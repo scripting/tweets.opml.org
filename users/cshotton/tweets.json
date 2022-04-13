@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Apr 2022 21:14:35 GMT"
+            "dateModified": "Wed, 13 Apr 2022 15:18:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@willie It's a poor craftsman that blames his tools.",
+                                    "rawText": "@willie It's a poor craftsman that blames his tools.",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 15:08:01 GMT",
+                                    "tweetId": "1514259117719920653",
+                                    "urltweet": "https://twitter.com/cshotton/status/1514259117719920653",
+                                    "inReplyToId": "1513975888223875074",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 10",
                             "type": "calendarDay",
