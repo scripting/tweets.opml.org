@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 10:47:04 GMT"
+            "dateModified": "Wed, 13 Apr 2022 12:59:12 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Wordle 298 3/6\n\n⬜⬜🟨⬜⬜\n⬜⬜🟩⬜🟨\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 298 3/6\n\n⬜⬜🟨⬜⬜\n⬜⬜🟩⬜🟨\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 12:53:45 GMT",
+                                    "tweetId": "1514225327756779527",
+                                    "urltweet": "https://twitter.com/davewiner/status/1514225327756779527",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@molly0xFFF @cdixon @reckless We can use twitters namespace. I like twitters api. Works great. No need to build a new city.",
                                     "rawText": "@molly0xFFF @cdixon @reckless We can use twitters namespace. I like twitters api. Works great. No need to build a new city.",
