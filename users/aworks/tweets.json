@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 13:48:42 GMT"
+            "dateModified": "Wed, 13 Apr 2022 13:50:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/IFPYx2sUkA\">[link]</a> Stories via @rupertcheek @NOWEnsemble @garrt",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/IFPYx2sUkA Stories via @rupertcheek @NOWEnsemble @garrt",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 13:47:49 GMT",
+                                    "tweetId": "1514238932980047878",
+                                    "urltweet": "https://twitter.com/aworks/status/1514238932980047878",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
