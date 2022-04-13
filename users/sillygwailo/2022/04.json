@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 22:51:48 GMT"
+            "dateModified": "Wed, 13 Apr 2022 00:51:55 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                     "created": "Tue, 12 Apr 2022 22:28:14 GMT",
                                     "tweetId": "1514007512294596609",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1514007512294596609",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I had a really hard time with this movie. Russell was hilarious, though.",
+                                            "rawText": "I had a really hard time with this movie. Russell was hilarious, though.",
+                                            "type": "tweet",
+                                            "created": "Wed, 13 Apr 2022 00:47:53 GMT",
+                                            "tweetId": "1514042655403126790",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1514042655403126790",
+                                            "inReplyToId": "1514007512294596609",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@geerlingguy Wait. It wasn’t DNS this time?",
