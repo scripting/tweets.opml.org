@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 03:46:37 GMT"
+            "dateModified": "Wed, 13 Apr 2022 10:35:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@molly0xFFF @cdixon @reckless We can use twitters namespace. I like twitters api. Works great. No need to build a new city.",
+                                    "rawText": "@molly0xFFF @cdixon @reckless We can use twitters namespace. I like twitters api. Works great. No need to build a new city.",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 10:26:56 GMT",
+                                    "tweetId": "1514188379436560386",
+                                    "urltweet": "https://twitter.com/davewiner/status/1514188379436560386",
+                                    "inReplyToId": "1514016012823404548",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
