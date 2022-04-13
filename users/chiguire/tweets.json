@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 23:19:34 GMT"
+            "dateModified": "Wed, 13 Apr 2022 06:56:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@mariannedh What’s another stripe for the tiger?",
+                                    "rawText": "@mariannedh What’s another stripe for the tiger?",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 06:55:53 GMT",
+                                    "tweetId": "1514135265853456385",
+                                    "urltweet": "https://twitter.com/chiguire/status/1514135265853456385",
+                                    "inReplyToId": "1514074580662452229",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
