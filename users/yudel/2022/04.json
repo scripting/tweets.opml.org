@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 22:14:03 GMT"
+            "dateModified": "Wed, 13 Apr 2022 22:26:04 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,19 @@
                                             "tweetId": "1514365364477562886",
                                             "urltweet": "https://twitter.com/yudel/status/1514365364477562886",
                                             "inReplyToId": "1514365245992620044",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@EladNehorai @AIPAC @jstreetdotorg @JewishStandard And by here I mean here: <a href=\"https://t.co/kZbaZ3vhl0\">[link]</a>",
+                                                    "rawText": "@EladNehorai @AIPAC @jstreetdotorg @JewishStandard And by here I mean here: https://t.co/kZbaZ3vhl0",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 13 Apr 2022 22:17:19 GMT",
+                                                    "tweetId": "1514367152962289672",
+                                                    "urltweet": "https://twitter.com/yudel/status/1514367152962289672",
+                                                    "inReplyToId": "1514365364477562886",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
