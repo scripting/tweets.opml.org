@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 08:18:39 GMT"
+            "dateModified": "Wed, 13 Apr 2022 08:30:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@GitKraken my company's Jira Server instance is at a non-standard TLD (jira.mycompany.hh), I think this is tripping up the app as it says \"Could not reach the specified Host Domain\"",
+                                    "rawText": "@GitKraken my company's Jira Server instance is at a non-standard TLD (jira.mycompany.hh), I think this is tripping up the app as it says \"Could not reach the specified Host Domain\"",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 08:22:56 GMT",
+                                    "tweetId": "1514157173441536003",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1514157173441536003",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@seikv p\nersonalmente si",
                                     "rawText": "@seikv p\nersonalmente si",
