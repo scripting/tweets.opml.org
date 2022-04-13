@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 13:01:09 GMT"
+            "dateModified": "Wed, 13 Apr 2022 13:02:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Yesterday I thought about what abstraction exists that can enable one to use the editor of their choice to publish to a web site and concluded git and text/markdown provide that today. We just need “general purpose” editors (read not IDEs) to ... <a href=\"https://t.co/FBeVisaBag\">[link]</a>",
+                                    "rawText": "Yesterday I thought about what abstraction exists that can enable one to use the editor of their choice to publish to a web site and concluded git and text/markdown provide that today. We just need “general purpose” editors (read not IDEs) to ... https://t.co/FBeVisaBag",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 13:00:12 GMT",
+                                    "tweetId": "1514226950163808262",
+                                    "urltweet": "https://twitter.com/frankm/status/1514226950163808262",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
