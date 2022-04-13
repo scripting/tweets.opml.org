@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 01:19:57 GMT"
+            "dateModified": "Wed, 13 Apr 2022 13:32:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Wordle 298 5/6 Bogey (+1). Now -4 through 9. 😬\n\n⬛⬛⬛⬛⬛\n⬛⬛⬛⬛⬛\n🟨🟨🟨🟨⬛\n🟩🟩🟩⬛🟨\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 298 5/6 Bogey (+1). Now -4 through 9. 😬\n\n⬛⬛⬛⬛⬛\n⬛⬛⬛⬛⬛\n🟨🟨🟨🟨⬛\n🟩🟩🟩⬛🟨\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 13:30:45 GMT",
+                                    "tweetId": "1514234638029500417",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1514234638029500417",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
