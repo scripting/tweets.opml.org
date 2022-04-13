@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 04:47:25 GMT"
+            "dateModified": "Wed, 13 Apr 2022 04:59:26 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 13 Apr 2022 04:37:08 GMT",
                                     "tweetId": "1514100347542908933",
                                     "urltweet": "https://twitter.com/KenSmith/status/1514100347542908933",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "Well, that’s my first impression, anyway.",
+                                            "rawText": "Well, that’s my first impression, anyway.",
+                                            "type": "tweet",
+                                            "created": "Wed, 13 Apr 2022 04:50:39 GMT",
+                                            "tweetId": "1514103751799365632",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1514103751799365632",
+                                            "inReplyToId": "1514100347542908933",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 }
                             ]
                         },
