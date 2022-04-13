@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 02:12:46 GMT"
+            "dateModified": "Wed, 13 Apr 2022 12:25:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@kampeas Editors publish the pieces their publishers want them to publish.",
+                                    "rawText": "@kampeas Editors publish the pieces their publishers want them to publish.",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 12:22:34 GMT",
+                                    "tweetId": "1514217477932265472",
+                                    "urltweet": "https://twitter.com/yudel/status/1514217477932265472",
+                                    "inReplyToId": "1514214750988738560",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@jamesdnicoll Translated from which language?",
+                                    "rawText": "@jamesdnicoll Translated from which language?",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 12:16:20 GMT",
+                                    "tweetId": "1514215912584400910",
+                                    "urltweet": "https://twitter.com/yudel/status/1514215912584400910",
+                                    "inReplyToId": "1514215355501236225",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
