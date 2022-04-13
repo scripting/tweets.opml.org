@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 03:05:49 GMT"
+            "dateModified": "Wed, 13 Apr 2022 12:42:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@colin_p_hill Ya, makes sense. I’m just adding if you add the marginalized to those who support them you wind up with a force for change.",
+                                    "rawText": "@colin_p_hill Ya, makes sense. I’m just adding if you add the marginalized to those who support them you wind up with a force for change.",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Apr 2022 12:37:07 GMT",
+                                    "tweetId": "1514221142143221761",
+                                    "urltweet": "https://twitter.com/mal/status/1514221142143221761",
+                                    "inReplyToId": "1514217226940919810",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
