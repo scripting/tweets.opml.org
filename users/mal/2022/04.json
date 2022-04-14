@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 13:30:29 GMT"
+            "dateModified": "Thu, 14 Apr 2022 18:08:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@davewiner I'm skeptical. I heard some right-winger saying they'd go back in the event - no thanks.",
+                                    "rawText": "@davewiner I'm skeptical. I heard some right-winger saying they'd go back in the event - no thanks.",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Apr 2022 18:06:15 GMT",
+                                    "tweetId": "1514666356188201007",
+                                    "urltweet": "https://twitter.com/mal/status/1514666356188201007",
+                                    "inReplyToId": "1514581588272680963",
+                                    "tweetUserName": "mal"
+                                },
+                                {
+                                    "text": "@JaniceMcGeachin Nope, two more variants coming our way thanks to people like you.",
+                                    "rawText": "@JaniceMcGeachin Nope, two more variants coming our way thanks to people like you.",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Apr 2022 18:03:55 GMT",
+                                    "tweetId": "1514665771464491009",
+                                    "urltweet": "https://twitter.com/mal/status/1514665771464491009",
+                                    "inReplyToId": "1514423394141310977",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 13",
                             "type": "calendarDay",
