@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Apr 2022 02:38:21 GMT"
+            "dateModified": "Thu, 14 Apr 2022 02:50:22 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,50 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@prof_dainy What book?",
+                                    "rawText": "@prof_dainy What book?",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Apr 2022 02:44:48 GMT",
+                                    "tweetId": "1514434465455644673",
+                                    "urltweet": "https://twitter.com/yudel/status/1514434465455644673",
+                                    "inReplyToId": "1514430818348843015",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@mordyovits @onthemainline If you or anyone else would like to write a full-length, page-by-page fisking/rebuttal of at least 15k words, I’d be happy to publish it as book.",
+                                    "rawText": "@mordyovits @onthemainline If you or anyone else would like to write a full-length, page-by-page fisking/rebuttal of at least 15k words, I’d be happy to publish it as book.",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Apr 2022 02:40:30 GMT",
+                                    "tweetId": "1514433386143698947",
+                                    "urltweet": "https://twitter.com/yudel/status/1514433386143698947",
+                                    "inReplyToId": "1514430823675613186",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@mordyovits @onthemainline This is nice but only a start. <a href=\"https://t.co/DkdcUWAWQ0\">[link]</a>",
+                                            "rawText": "@mordyovits @onthemainline This is nice but only a start. https://t.co/DkdcUWAWQ0",
+                                            "type": "tweet",
+                                            "created": "Thu, 14 Apr 2022 02:41:06 GMT",
+                                            "tweetId": "1514433537222533128",
+                                            "urltweet": "https://twitter.com/yudel/status/1514433537222533128",
+                                            "inReplyToId": "1514433386143698947",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@mordyovits @onthemainline I will note that while my rebuttal of David Klinghoffer has yet to reach triple digits in sales, he never opined in public on Judaism again. <a href=\"https://t.co/nbms7rnK4f\">[link]</a>",
+                                                    "rawText": "@mordyovits @onthemainline I will note that while my rebuttal of David Klinghoffer has yet to reach triple digits in sales, he never opined in public on Judaism again. https://t.co/nbms7rnK4f",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 14 Apr 2022 02:43:04 GMT",
+                                                    "tweetId": "1514434031986827264",
+                                                    "urltweet": "https://twitter.com/yudel/status/1514434031986827264",
+                                                    "inReplyToId": "1514433537222533128",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@BGrueskin Certainly, we here in Jersey have sent you worse.",
                                     "rawText": "@BGrueskin Certainly, we here in Jersey have sent you worse.",
