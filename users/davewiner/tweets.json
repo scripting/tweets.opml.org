@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Apr 2022 00:11:57 GMT"
+            "dateModified": "Thu, 14 Apr 2022 00:35:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,36 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "What is an infinite loop? <a href=\"https://t.co/0evGJaL79K\">[link]</a>",
+                                    "rawText": "What is an infinite loop? https://t.co/0evGJaL79K",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Apr 2022 00:35:41 GMT",
+                                    "tweetId": "1514401973768003598",
+                                    "urltweet": "https://twitter.com/davewiner/status/1514401973768003598",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "This quote from @cdixon is fascinating. I can put my Twitter screenname in my RSS feed, or an identifier from Etherium, are where ever you like, and form your presence on that net with an RSS feed. It’s a strong foundation. <a href=\"https://t.co/G0pvdqdglB\">[link]</a>",
+                                    "rawText": "This quote from @cdixon is fascinating. I can put my Twitter screenname in my RSS feed, or an identifier from Etherium, are where ever you like, and form your presence on that net with an RSS feed. It’s a strong foundation. https://t.co/G0pvdqdglB",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Apr 2022 00:26:53 GMT",
+                                    "tweetId": "1514399759888535552",
+                                    "urltweet": "https://twitter.com/davewiner/status/1514399759888535552",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "In fact if you look at my RSS feed, you'll see there's a slot for the user's ID on various systems. It's part of a namespace I used to extend the format. <a href=\"https://t.co/X5dfcA1wrR\">[link]</a>",
+                                            "rawText": "In fact if you look at my RSS feed, you'll see there's a slot for the user's ID on various systems. It's part of a namespace I used to extend the format. https://t.co/X5dfcA1wrR",
+                                            "type": "tweet",
+                                            "created": "Thu, 14 Apr 2022 00:29:11 GMT",
+                                            "tweetId": "1514400338635333632",
+                                            "urltweet": "https://twitter.com/davewiner/status/1514400338635333632",
+                                            "inReplyToId": "1514399759888535552",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@jeffjarvis Yes all those things on a timeline, until now it’s fully democratized. The dish is on my porch right now. 😀",
                                     "rawText": "@jeffjarvis Yes all those things on a timeline, until now it’s fully democratized. The dish is on my porch right now. 😀",
