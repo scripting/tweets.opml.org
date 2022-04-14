@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 18:00:17 GMT"
+            "dateModified": "Thu, 14 Apr 2022 12:25:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "And Hallmark will introduce a line of thank-you cards to send to helpful robots. <a href=\"https://t.co/vLYkHJrNKI\">[link]</a>",
+                                    "rawText": "And Hallmark will introduce a line of thank-you cards to send to helpful robots. https://t.co/vLYkHJrNKI",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Apr 2022 12:15:56 GMT",
+                                    "tweetId": "1514578197874200577",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1514578197874200577",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 13",
                             "type": "calendarDay",
