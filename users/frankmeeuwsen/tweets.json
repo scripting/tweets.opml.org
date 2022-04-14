@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Apr 2022 19:35:35 GMT"
+            "dateModified": "Thu, 14 Apr 2022 18:02:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@JosK Laat weten hoe het voorprogramma was!",
+                                    "rawText": "@JosK Laat weten hoe het voorprogramma was!",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Apr 2022 17:56:37 GMT",
+                                    "tweetId": "1514663935466745866",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1514663935466745866",
+                                    "inReplyToId": "1514654264077000711",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 12",
                             "type": "calendarDay",
