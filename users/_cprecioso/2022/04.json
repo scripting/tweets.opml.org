@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Apr 2022 21:57:08 GMT"
+            "dateModified": "Thu, 14 Apr 2022 22:09:08 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 14 Apr 2022 21:56:58 GMT",
                                     "tweetId": "1514724420601921538",
                                     "urltweet": "https://twitter.com/_cprecioso/status/1514724420601921538",
-                                    "tweetUserName": "_cprecioso"
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Esta serie está al 1.15x",
+                                            "rawText": "Esta serie está al 1.15x",
+                                            "type": "tweet",
+                                            "created": "Thu, 14 Apr 2022 22:08:24 GMT",
+                                            "tweetId": "1514727298825658377",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1514727298825658377",
+                                            "inReplyToId": "1514724420601921538",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Soy bicipapi",
