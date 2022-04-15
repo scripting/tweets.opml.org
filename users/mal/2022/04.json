@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 04:57:05 GMT"
+            "dateModified": "Fri, 15 Apr 2022 17:57:55 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@davewiner twilio has good apis too",
+                                    "rawText": "@davewiner twilio has good apis too",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 17:55:17 GMT",
+                                    "tweetId": "1515025983803297793",
+                                    "urltweet": "https://twitter.com/mal/status/1515025983803297793",
+                                    "inReplyToId": "1514979094496260106",
+                                    "tweetUserName": "mal"
+                                },
+                                {
+                                    "text": "@davewiner I mean slack doesn't fit all your needs but everyone's using it.",
+                                    "rawText": "@davewiner I mean slack doesn't fit all your needs but everyone's using it.",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 17:50:52 GMT",
+                                    "tweetId": "1515024874623799299",
+                                    "urltweet": "https://twitter.com/mal/status/1515024874623799299",
+                                    "inReplyToId": "1514977776981483531",
+                                    "tweetUserName": "mal"
+                                },
                                 {
                                     "text": "@JaniceMcGeachin Other states do this by educating their population.",
                                     "rawText": "@JaniceMcGeachin Other states do this by educating their population.",
