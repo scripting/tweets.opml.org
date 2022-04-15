@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 10:27:11 GMT"
+            "dateModified": "Fri, 15 Apr 2022 10:39:12 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Fri, 15 Apr 2022 10:17:27 GMT",
                                     "tweetId": "1514910769837654017",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1514910769837654017",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "For beginners in Germany: because shops are closed for Good Friday today, we have to buy groceries at the airport",
+                                            "rawText": "For beginners in Germany: because shops are closed for Good Friday today, we have to buy groceries at the airport",
+                                            "type": "tweet",
+                                            "created": "Fri, 15 Apr 2022 10:36:44 GMT",
+                                            "tweetId": "1514915619522715656",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1514915619522715656",
+                                            "inReplyToId": "1514910769837654017",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "The S-Bahn to Hamburg Airport is pretty convenient except when there‘s Schienenersatzverkehr 🤷‍♀️",
