@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 19:19:30 GMT"
+            "dateModified": "Fri, 15 Apr 2022 19:55:32 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Fri, 15 Apr 2022 19:08:22 GMT",
                                     "tweetId": "1515044376103239682",
                                     "urltweet": "https://twitter.com/ccb18Vt/status/1515044376103239682",
-                                    "tweetUserName": "ccb18Vt"
+                                    "tweetUserName": "ccb18Vt",
+                                    "subs": [
+                                        {
+                                            "text": "@resharper Excellent! VS 2022 disabled for 78 secs. this time.",
+                                            "rawText": "@resharper Excellent! VS 2022 disabled for 78 secs. this time.",
+                                            "type": "tweet",
+                                            "created": "Fri, 15 Apr 2022 19:45:11 GMT",
+                                            "tweetId": "1515053643459878915",
+                                            "urltweet": "https://twitter.com/ccb18Vt/status/1515053643459878915",
+                                            "inReplyToId": "1515044376103239682",
+                                            "tweetUserName": "ccb18Vt"
+                                        }
+                                    ]
                                 }
                             ]
                         },
