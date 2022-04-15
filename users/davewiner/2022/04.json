@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 23:03:00 GMT"
+            "dateModified": "Fri, 15 Apr 2022 23:39:02 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "15",
                             "subs": [
                                 {
+                                    "text": "I have the best search engine for a blog. <a href=\"https://t.co/TGfyydQvxN\">[link]</a>",
+                                    "rawText": "I have the best search engine for a blog. https://t.co/TGfyydQvxN",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 23:35:09 GMT",
+                                    "tweetId": "1515111514788843528",
+                                    "urltweet": "https://twitter.com/davewiner/status/1515111514788843528",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "If Twitter had peered with other Twitter-like systems then they never would have had to develop and pay for content moderation. File this under \"silos are expensive to run.\"",
                                     "rawText": "If Twitter had peered with other Twitter-like systems then they never would have had to develop and pay for content moderation. File this under \"silos are expensive to run.\"",
                                     "type": "tweet",
                                     "created": "Fri, 15 Apr 2022 22:54:50 GMT",
                                     "tweetId": "1515101369602088961",
                                     "urltweet": "https://twitter.com/davewiner/status/1515101369602088961",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I see pundits say mr musk doesn’t grok moderation, but they might be missing the bigger picture. 👆",
+                                            "rawText": "I see pundits say mr musk doesn’t grok moderation, but they might be missing the bigger picture. 👆",
+                                            "type": "tweet",
+                                            "created": "Fri, 15 Apr 2022 23:32:41 GMT",
+                                            "tweetId": "1515110893650157568",
+                                            "urltweet": "https://twitter.com/davewiner/status/1515110893650157568",
+                                            "inReplyToId": "1515101369602088961",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "2016: Teamwork isn't arithmetic. <a href=\"https://t.co/RjBeuC47uS\">[link]</a>",
