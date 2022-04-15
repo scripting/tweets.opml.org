@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Apr 2022 21:46:37 GMT"
+            "dateModified": "Fri, 15 Apr 2022 15:59:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Joyas que se consiguen en tiendas de segunda mano <a href=\"https://t.co/fH0BIXc1tR\">[link]</a>",
+                                    "rawText": "Joyas que se consiguen en tiendas de segunda mano https://t.co/fH0BIXc1tR",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 15:55:15 GMT",
+                                    "tweetId": "1514995776488935425",
+                                    "urltweet": "https://twitter.com/chiguire/status/1514995776488935425",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 14",
                             "type": "calendarDay",
