@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Apr 2022 11:13:55 GMT"
+            "dateModified": "Fri, 15 Apr 2022 21:52:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Primrose <a href=\"https://t.co/QotrvbjhgG\">[link]</a>",
+                                    "rawText": "Primrose https://t.co/QotrvbjhgG",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 21:47:51 GMT",
+                                    "tweetId": "1515084512639737867",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1515084512639737867",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 14",
                             "type": "calendarDay",
