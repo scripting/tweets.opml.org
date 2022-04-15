@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Apr 2022 20:02:15 GMT"
+            "dateModified": "Fri, 15 Apr 2022 08:03:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "The S-Bahn to Hamburg Airport is pretty convenient except when there‘s Schienenersatzverkehr 🤷‍♀️",
+                                    "rawText": "The S-Bahn to Hamburg Airport is pretty convenient except when there‘s Schienenersatzverkehr 🤷‍♀️",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 07:51:07 GMT",
+                                    "tweetId": "1514873943416582145",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1514873943416582145",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 14",
                             "type": "calendarDay",
