@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Apr 2022 18:52:40 GMT"
+            "dateModified": "Fri, 15 Apr 2022 15:42:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Day 1 of my long birthday weekend, aka retirement practice, has begun. I wish we were not experiencing below normal temperature that is made worse by above normal wind.",
+                                    "rawText": "Day 1 of my long birthday weekend, aka retirement practice, has begun. I wish we were not experiencing below normal temperature that is made worse by above normal wind.",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 15:36:02 GMT",
+                                    "tweetId": "1514990941039480836",
+                                    "urltweet": "https://twitter.com/frankm/status/1514990941039480836",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 14",
                             "type": "calendarDay",
