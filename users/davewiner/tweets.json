@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 13:14:21 GMT"
+            "dateModified": "Fri, 15 Apr 2022 13:26:22 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                                     "tweetId": "1514954933489082375",
                                                     "urltweet": "https://twitter.com/davewiner/status/1514954933489082375",
                                                     "inReplyToId": "1514954271002931207",
-                                                    "tweetUserName": "davewiner"
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "However -- like @elonmusk I think Twitter is a vital resource. A long time ago I compared it to a coral reef, and I still stand by that analogy.\n\n<a href=\"https://t.co/bGAZI1sXCB\">[link]</a>",
+                                                            "rawText": "However -- like @elonmusk I think Twitter is a vital resource. A long time ago I compared it to a coral reef, and I still stand by that analogy.\n\nhttps://t.co/bGAZI1sXCB",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 15 Apr 2022 13:14:28 GMT",
+                                                            "tweetId": "1514955315166552072",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1514955315166552072",
+                                                            "inReplyToId": "1514954933489082375",
+                                                            "tweetUserName": "davewiner"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
