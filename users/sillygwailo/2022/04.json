@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 22:44:29 GMT"
+            "dateModified": "Fri, 15 Apr 2022 23:44:33 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Fri, 15 Apr 2022 22:36:51 GMT",
                                     "tweetId": "1515096843792830468",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1515096843792830468",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "More like Santiago Yessssspinal. <a href=\"https://t.co/qEVlWaPumb\">[link]</a>",
+                                            "rawText": "More like Santiago Yessssspinal. https://t.co/qEVlWaPumb",
+                                            "type": "tweet",
+                                            "created": "Fri, 15 Apr 2022 23:40:49 GMT",
+                                            "tweetId": "1515112943456825347",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1515112943456825347",
+                                            "inReplyToId": "1515096843792830468",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "The City of Toronto has updated the shapefiles for its neighbourhoods, so I will update my “Which Toronto Neighbourhood Am I In?” app. <a href=\"https://t.co/fzPRzDGDma\">[link]</a>",
