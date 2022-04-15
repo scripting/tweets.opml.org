@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Apr 2022 18:02:37 GMT"
+            "dateModified": "Fri, 15 Apr 2022 05:15:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@HuubBellemakers Luca, Arezzo, San Gimignano, Florence.",
+                                    "rawText": "@HuubBellemakers Luca, Arezzo, San Gimignano, Florence.",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 05:14:29 GMT",
+                                    "tweetId": "1514834522566799362",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1514834522566799362",
+                                    "inReplyToId": "1514697935187070978",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 14",
                             "type": "calendarDay",
