@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 02:13:39 GMT"
+            "dateModified": "Fri, 15 Apr 2022 11:38:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "It’s Still Stupidly, Ridiculously Difficult To Buy A ‘Dumb’ TV. <a href=\"https://t.co/HyyQjdDns2\">[link]</a>",
+                                    "rawText": "It’s Still Stupidly, Ridiculously Difficult To Buy A ‘Dumb’ TV. https://t.co/HyyQjdDns2",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Apr 2022 11:27:43 GMT",
+                                    "tweetId": "1514928451853160457",
+                                    "urltweet": "https://twitter.com/davewiner/status/1514928451853160457",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 14",
                             "type": "calendarDay",
