@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/rhoeffnagel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 05:01:05 GMT"
+            "dateModified": "Sat, 16 Apr 2022 20:03:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@strategywoman The Netherlands",
+                                    "rawText": "@strategywoman The Netherlands",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 19:52:05 GMT",
+                                    "tweetId": "1515417765389246476",
+                                    "urltweet": "https://twitter.com/rhoeffnagel/status/1515417765389246476",
+                                    "inReplyToId": "1515373848098754561",
+                                    "tweetUserName": "rhoeffnagel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
