@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 20:29:09 GMT"
+            "dateModified": "Sat, 16 Apr 2022 21:30:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "Went to the movies, saw two previews:",
+                                    "rawText": "Went to the movies, saw two previews:",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 21:29:07 GMT",
+                                    "tweetId": "1515442184929132552",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1515442184929132552",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "First preview: hunted by some vague malevolent creature, a young woman crawls out of a shadowy pile of furniture, studs and wallboard, suddenly to be dragged by the ankles back into the darkness screaming and clawing the floor with her fingernails.",
+                                            "rawText": "First preview: hunted by some vague malevolent creature, a young woman crawls out of a shadowy pile of furniture, studs and wallboard, suddenly to be dragged by the ankles back into the darkness screaming and clawing the floor with her fingernails.",
+                                            "type": "tweet",
+                                            "created": "Sat, 16 Apr 2022 21:29:07 GMT",
+                                            "tweetId": "1515442185864421376",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1515442185864421376",
+                                            "inReplyToId": "1515442184929132552",
+                                            "tweetUserName": "KenSmith",
+                                            "subs": [
+                                                {
+                                                    "text": "Second preview: hunted by some vague malevolent creature, a young man crawls out of a shadowy pile of cabinets, studs and wallboard, suddenly to be dragged by the ankles back into the darkness screaming and clawing the floor with his fingernails.",
+                                                    "rawText": "Second preview: hunted by some vague malevolent creature, a young man crawls out of a shadowy pile of cabinets, studs and wallboard, suddenly to be dragged by the ankles back into the darkness screaming and clawing the floor with his fingernails.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 16 Apr 2022 21:29:07 GMT",
+                                                    "tweetId": "1515442187013664777",
+                                                    "urltweet": "https://twitter.com/KenSmith/status/1515442187013664777",
+                                                    "inReplyToId": "1515442185864421376",
+                                                    "tweetUserName": "KenSmith"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "\"(What like a bullet can undeceive!)\" <a href=\"https://t.co/2M2xDASbUf\">[link]</a>",
                                     "rawText": "\"(What like a bullet can undeceive!)\" https://t.co/2M2xDASbUf",
