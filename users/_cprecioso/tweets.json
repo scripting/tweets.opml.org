@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 19:47:07 GMT"
+            "dateModified": "Sat, 16 Apr 2022 19:59:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "@vicjush <a href=\"https://t.co/b1ijlGozmX\">[link]</a>",
+                                    "rawText": "@vicjush https://t.co/b1ijlGozmX",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 19:58:47 GMT",
+                                    "tweetId": "1515419453747613708",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1515419453747613708",
+                                    "inReplyToId": "1515414728738230275",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@vicjush Por alias lo que es, es un despropósito",
                                     "rawText": "@vicjush Por alias lo que es, es un despropósito",
@@ -57,7 +67,19 @@
                                             "tweetId": "1515409837231943687",
                                             "urltweet": "https://twitter.com/_cprecioso/status/1515409837231943687",
                                             "inReplyToId": "1515409495404466188",
-                                            "tweetUserName": "_cprecioso"
+                                            "tweetUserName": "_cprecioso",
+                                            "subs": [
+                                                {
+                                                    "text": "Chicas, foto del resultado: <a href=\"https://t.co/K2qzkbn6wW\">[link]</a>",
+                                                    "rawText": "Chicas, foto del resultado: https://t.co/K2qzkbn6wW",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 16 Apr 2022 19:58:05 GMT",
+                                                    "tweetId": "1515419278509490192",
+                                                    "urltweet": "https://twitter.com/_cprecioso/status/1515419278509490192",
+                                                    "inReplyToId": "1515409837231943687",
+                                                    "tweetUserName": "_cprecioso"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
