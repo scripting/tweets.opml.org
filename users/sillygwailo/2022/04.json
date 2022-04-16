@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 19:20:20 GMT"
+            "dateModified": "Sat, 16 Apr 2022 20:09:23 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 16 Apr 2022 19:16:20 GMT",
                                     "tweetId": "1515408769462808579",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1515408769462808579",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "1-2-3 4th inning defensively for the Blue Jays. Shots are on me!",
+                                            "rawText": "1-2-3 4th inning defensively for the Blue Jays. Shots are on me!",
+                                            "type": "tweet",
+                                            "created": "Sat, 16 Apr 2022 20:07:21 GMT",
+                                            "tweetId": "1515421608072122369",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1515421608072122369",
+                                            "inReplyToId": "1515408769462808579",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I wonder what my cancellable takes are. Does anybody know?",
