@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 23:22:01 GMT"
+            "dateModified": "Sat, 16 Apr 2022 14:15:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@ryangrim who is the NRCC man he is talking about?",
+                                    "rawText": "@ryangrim who is the NRCC man he is talking about?",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 14:11:15 GMT",
+                                    "tweetId": "1515331993864753158",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1515331993864753158",
+                                    "inReplyToId": "1515013007788683264",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
