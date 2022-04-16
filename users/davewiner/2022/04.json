@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 00:03:04 GMT"
+            "dateModified": "Sat, 16 Apr 2022 00:15:05 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,35 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@TommyBeer They are awesome.",
+                                    "rawText": "@TommyBeer They are awesome.",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 00:07:38 GMT",
+                                    "tweetId": "1515119690309378057",
+                                    "urltweet": "https://twitter.com/davewiner/status/1515119690309378057",
+                                    "inReplyToId": "1515119335890632709",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "One thing that’s good about @elonmusk interest in Twitter, we’re finally talking about the good stuff.",
+                                    "rawText": "One thing that’s good about @elonmusk interest in Twitter, we’re finally talking about the good stuff.",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 00:05:27 GMT",
+                                    "tweetId": "1515119142654943235",
+                                    "urltweet": "https://twitter.com/davewiner/status/1515119142654943235",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@azeem @elonmusk The one that determines which tweets you see.\n\nLike this, but for Twitter.\n\n<a href=\"https://t.co/HaD7DRUApU\">[link]</a>",
+                                    "rawText": "@azeem @elonmusk The one that determines which tweets you see.\n\nLike this, but for Twitter.\n\nhttps://t.co/HaD7DRUApU",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 00:04:15 GMT",
+                                    "tweetId": "1515118840023326720",
+                                    "urltweet": "https://twitter.com/davewiner/status/1515118840023326720",
+                                    "inReplyToId": "1515117314743615491",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I like the idea of Twitter publishing their algorithm in a GitHub repo, via @elonmusk. Even better make the algorithm a plugin.",
                                     "rawText": "I like the idea of Twitter publishing their algorithm in a GitHub repo, via @elonmusk. Even better make the algorithm a plugin.",
