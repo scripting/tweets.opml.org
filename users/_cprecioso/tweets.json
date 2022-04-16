@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 19:46:32 GMT"
+            "dateModified": "Sat, 16 Apr 2022 13:02:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@mneseo Donde se puede comprar eso? 👀",
+                                    "rawText": "@mneseo Donde se puede comprar eso? 👀",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 12:53:42 GMT",
+                                    "tweetId": "1515312476216307715",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1515312476216307715",
+                                    "inReplyToId": "1515308453878808587",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
