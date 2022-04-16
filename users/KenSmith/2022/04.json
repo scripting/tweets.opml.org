@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 18:51:28 GMT"
+            "dateModified": "Sat, 16 Apr 2022 13:32:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "\"Twitter is, in many ways, a platform of the elite. [It’s] most powerful as a communication tool for already prominent and influential people.\" <a href=\"https://t.co/fzQpl8PU9R\">[link]</a>",
+                                    "rawText": "\"Twitter is, in many ways, a platform of the elite. [It’s] most powerful as a communication tool for already prominent and influential people.\" https://t.co/fzQpl8PU9R",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 13:24:48 GMT",
+                                    "tweetId": "1515320304087744523",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1515320304087744523",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
