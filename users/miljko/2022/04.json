@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Apr 2022 13:25:47 GMT"
+            "dateModified": "Sat, 16 Apr 2022 02:13:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@ArtirKel Thanks for sharing this, it’s on my watch list now. Any chance they mention lack of theoretical biology? I.e. if physics were also only experimental, would we consider it just as fuzzy?",
+                                    "rawText": "@ArtirKel Thanks for sharing this, it’s on my watch list now. Any chance they mention lack of theoretical biology? I.e. if physics were also only experimental, would we consider it just as fuzzy?",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 02:07:01 GMT",
+                                    "tweetId": "1515149736071905280",
+                                    "urltweet": "https://twitter.com/miljko/status/1515149736071905280",
+                                    "inReplyToId": "1515087769650929674",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 9",
                             "type": "calendarDay",
