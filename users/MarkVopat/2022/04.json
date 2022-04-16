@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 00:31:21 GMT"
+            "dateModified": "Sat, 16 Apr 2022 16:51:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Understanding tax brackets via Vox: <a href=\"https://t.co/rVhnpqUVpI\">[link]</a>",
+                                    "rawText": "Understanding tax brackets via Vox: https://t.co/rVhnpqUVpI",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Apr 2022 16:45:21 GMT",
+                                    "tweetId": "1515370773678014478",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1515370773678014478",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
