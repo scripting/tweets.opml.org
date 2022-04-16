@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 16:10:53 GMT"
+            "dateModified": "Sat, 16 Apr 2022 16:23:08 GMT"
         },
         "body": {
             "subs": [
@@ -36,7 +36,43 @@
                                     "created": "Sat, 16 Apr 2022 16:00:14 GMT",
                                     "tweetId": "1515359421064482816",
                                     "urltweet": "https://twitter.com/davewiner/status/1515359421064482816",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Regardless, if you manage to own Twitter, you should reserve some serious resources to invest in developer products. It's a completely untapped thing. Unbelievable how much value there is locked up in an internet-scale notification system with a user-friendly interface.",
+                                            "rawText": "Regardless, if you manage to own Twitter, you should reserve some serious resources to invest in developer products. It's a completely untapped thing. Unbelievable how much value there is locked up in an internet-scale notification system with a user-friendly interface.",
+                                            "type": "tweet",
+                                            "created": "Sat, 16 Apr 2022 16:17:16 GMT",
+                                            "tweetId": "1515363706355474436",
+                                            "urltweet": "https://twitter.com/davewiner/status/1515363706355474436",
+                                            "inReplyToId": "1515359421064482816",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "API + UI + scale.",
+                                                    "rawText": "API + UI + scale.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 16 Apr 2022 16:18:05 GMT",
+                                                    "tweetId": "1515363911754780676",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1515363911754780676",
+                                                    "inReplyToId": "1515363706355474436",
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "BTW, come to think of it, why doesn't @bluesky start working at the API level. Why focus on reinventing the communication layer. What twitter has is incredible. It works, and the people who own the platform aren't shitheads.",
+                                                            "rawText": "BTW, come to think of it, why doesn't @bluesky start working at the API level. Why focus on reinventing the communication layer. What twitter has is incredible. It works, and the people who own the platform aren't shitheads.",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 16 Apr 2022 16:20:05 GMT",
+                                                            "tweetId": "1515364414798671876",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1515364414798671876",
+                                                            "inReplyToId": "1515363911754780676",
+                                                            "tweetUserName": "davewiner"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "A good day to bookmark <a href=\"https://t.co/6xgUEpITJU\">[link]</a>.",
