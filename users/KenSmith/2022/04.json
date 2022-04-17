@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 21:42:44 GMT"
+            "dateModified": "Sun, 17 Apr 2022 00:58:57 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "Something for Poetry Month. This poem refers to the one that follows. <a href=\"https://t.co/YsUL8nKXGY\">[link]</a>",
+                                    "rawText": "Something for Poetry Month. This poem refers to the one that follows. https://t.co/YsUL8nKXGY",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 00:55:41 GMT",
+                                    "tweetId": "1515494168747024392",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1515494168747024392",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "Auden, writing in the 1930s, as the dictators were testing their options. <a href=\"https://t.co/Z6Kw0PWrUG\">[link]</a>",
+                                            "rawText": "Auden, writing in the 1930s, as the dictators were testing their options. https://t.co/Z6Kw0PWrUG",
+                                            "type": "tweet",
+                                            "created": "Sun, 17 Apr 2022 00:55:42 GMT",
+                                            "tweetId": "1515494173708849163",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1515494173708849163",
+                                            "inReplyToId": "1515494168747024392",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "\"It sounded like hope, stupid hope.\" <a href=\"https://t.co/pE0Y8D76Fr\">[link]</a>",
                                     "rawText": "\"It sounded like hope, stupid hope.\" https://t.co/pE0Y8D76Fr",
