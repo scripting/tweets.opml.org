@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 16:30:12 GMT"
+            "dateModified": "Sun, 17 Apr 2022 16:54:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "@workout_fox i'm sure it's great, but that's not the same thing and i think you know it.",
+                                    "rawText": "@workout_fox i'm sure it's great, but that's not the same thing and i think you know it.",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 16:48:40 GMT",
+                                    "tweetId": "1515733996638023681",
+                                    "urltweet": "https://twitter.com/davewiner/status/1515733996638023681",
+                                    "inReplyToId": "1515728544810348545",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "BTW, my plan is to hook RSS up to any protocol people come up with. \n\nAnd when I say RSS, I mean all flavors including RDF and Atom. \n\nI don't just have advice for other people, sometimes I give myself advice too.\n\nI think it's time to love RSS again. ;-)",
                                     "rawText": "BTW, my plan is to hook RSS up to any protocol people come up with. \n\nAnd when I say RSS, I mean all flavors including RDF and Atom. \n\nI don't just have advice for other people, sometimes I give myself advice too.\n\nI think it's time to love RSS again. ;-)",
