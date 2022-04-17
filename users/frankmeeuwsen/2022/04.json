@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 22:08:01 GMT"
+            "dateModified": "Sun, 17 Apr 2022 05:29:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@EwoutWolff Gecondoleerd Ewout. Veel sterkte.",
+                                    "rawText": "@EwoutWolff Gecondoleerd Ewout. Veel sterkte.",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 05:23:48 GMT",
+                                    "tweetId": "1515561642821668864",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1515561642821668864",
+                                    "inReplyToId": "1515387012148301826",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 16",
                             "type": "calendarDay",
