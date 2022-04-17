@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 15:59:37 GMT"
+            "dateModified": "Sun, 17 Apr 2022 07:31:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@HejM0 @MCinHD @swaggoner @germany_iam @masthminching @drdelusional Or not… <a href=\"https://t.co/573sG12aWo\">[link]</a>",
+                                    "rawText": "@HejM0 @MCinHD @swaggoner @germany_iam @masthminching @drdelusional Or not… https://t.co/573sG12aWo",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 07:25:20 GMT",
+                                    "tweetId": "1515592228063825927",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1515592228063825927",
+                                    "inReplyToId": "1515586560409886720",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 16",
                             "type": "calendarDay",
