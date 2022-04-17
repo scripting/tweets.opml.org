@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 04:02:08 GMT"
+            "dateModified": "Sun, 17 Apr 2022 10:46:50 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "NBA fans: Nets or Celtics?",
+                                    "rawText": "NBA fans: Nets or Celtics?",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 10:37:05 GMT",
+                                    "tweetId": "1515640485762768898",
+                                    "urltweet": "https://twitter.com/davewiner/status/1515640485762768898",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Self-moderation is going to be a huge deal.\n\nMaybe to make something workable you have to start something néw, not in a half assed way.\n\nHow about a Twitter-like webservice at AWS.\n\nLet a thousand Twitters bloom.\n\nInterop baked in from the beginning.",
                                     "rawText": "Self-moderation is going to be a huge deal.\n\nMaybe to make something workable you have to start something néw, not in a half assed way.\n\nHow about a Twitter-like webservice at AWS.\n\nLet a thousand Twitters bloom.\n\nInterop baked in from the beginning.",
