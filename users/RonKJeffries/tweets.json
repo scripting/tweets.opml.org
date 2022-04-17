@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 02:10:32 GMT"
+            "dateModified": "Sun, 17 Apr 2022 17:05:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@Carnage4Life Yes. LOL",
+                                    "rawText": "@Carnage4Life Yes. LOL",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 16:57:52 GMT",
+                                    "tweetId": "1515736312485011456",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1515736312485011456",
+                                    "inReplyToId": "1515736176631590912",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 16",
                             "type": "calendarDay",
