@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 17:13:27 GMT"
+            "dateModified": "Sun, 17 Apr 2022 09:46:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Liked: Contra Chrome: <a href=\"https://t.co/2VdQjgKsOj\">[link]</a>",
+                                    "rawText": "Liked: Contra Chrome: https://t.co/2VdQjgKsOj",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 09:37:26 GMT",
+                                    "tweetId": "1515625473501446146",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1515625473501446146",
+                                    "tweetUserName": "johnjohnston"
+                                },
+                                {
+                                    "text": "Liked: Contra Chrome: <a href=\"https://t.co/WT9y7BZznD\">[link]</a>",
+                                    "rawText": "Liked: Contra Chrome: https://t.co/WT9y7BZznD",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 09:35:28 GMT",
+                                    "tweetId": "1515624977449504773",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1515624977449504773",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 16",
                             "type": "calendarDay",
