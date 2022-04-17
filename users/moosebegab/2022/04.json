@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 23:41:33 GMT"
+            "dateModified": "Sun, 17 Apr 2022 14:42:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@Quiara Peanut Butter cups",
+                                    "rawText": "@Quiara Peanut Butter cups",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 14:36:44 GMT",
+                                    "tweetId": "1515700795697729538",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1515700795697729538",
+                                    "inReplyToId": "1515699891347021832",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
