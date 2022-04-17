@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 00:58:57 GMT"
+            "dateModified": "Sun, 17 Apr 2022 11:36:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Who needs TV . . . <a href=\"https://t.co/Ybhlfz32Qa\">[link]</a>",
+                                    "rawText": "Who needs TV . . . https://t.co/Ybhlfz32Qa",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 11:32:11 GMT",
+                                    "tweetId": "1515654352039555076",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1515654352039555076",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 16",
                             "type": "calendarDay",
