@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 03:08:35 GMT"
+            "dateModified": "Sun, 17 Apr 2022 11:31:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "He visto un anuncio de que hoy hacen churros con chocolate (la fiesta) y ahora quiero churros con chocolate (la comida)",
+                                    "rawText": "He visto un anuncio de que hoy hacen churros con chocolate (la fiesta) y ahora quiero churros con chocolate (la comida)",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Apr 2022 11:30:20 GMT",
+                                    "tweetId": "1515653884429090819",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1515653884429090819",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 16",
                             "type": "calendarDay",
