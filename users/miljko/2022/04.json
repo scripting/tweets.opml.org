@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 02:13:28 GMT"
+            "dateModified": "Mon, 18 Apr 2022 17:10:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "The most important article you'll read this week: <a href=\"https://t.co/tRo6TnzHGx\">[link]</a>",
+                                    "rawText": "The most important article you'll read this week: https://t.co/tRo6TnzHGx",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 17:02:04 GMT",
+                                    "tweetId": "1516099756870848518",
+                                    "urltweet": "https://twitter.com/miljko/status/1516099756870848518",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
