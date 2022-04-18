@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 15:41:54 GMT"
+            "dateModified": "Mon, 18 Apr 2022 11:43:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Fresh snow on Tax Day, South Bend, Indiana, 4/18/2022. <a href=\"https://t.co/5OVN6qLN6n\">[link]</a>",
+                                    "rawText": "Fresh snow on Tax Day, South Bend, Indiana, 4/18/2022. https://t.co/5OVN6qLN6n",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 11:39:08 GMT",
+                                    "tweetId": "1516018486631350277",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1516018486631350277",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 17",
                             "type": "calendarDay",
