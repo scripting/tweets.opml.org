@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 23:36:25 GMT"
+            "dateModified": "Mon, 18 Apr 2022 11:27:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Wrote some notes on how to use chordpro for writing chord sheets <a href=\"https://t.co/Aablt5252A\">[link]</a>",
+                                    "rawText": "Wrote some notes on how to use chordpro for writing chord sheets https://t.co/Aablt5252A",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 11:16:24 GMT",
+                                    "tweetId": "1516012768113139716",
+                                    "urltweet": "https://twitter.com/chiguire/status/1516012768113139716",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 17",
                             "type": "calendarDay",
