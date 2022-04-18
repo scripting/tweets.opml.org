@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/elroyjetson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 14:05:30 GMT"
+            "dateModified": "Mon, 18 Apr 2022 15:08:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "I put up a post about the marvel of modern computing!\n<a href=\"https://t.co/k76lGVKjAo\">[link]</a>",
+                                    "rawText": "I put up a post about the marvel of modern computing!\nhttps://t.co/k76lGVKjAo",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 15:06:15 GMT",
+                                    "tweetId": "1516070610639757316",
+                                    "urltweet": "https://twitter.com/elroyjetson/status/1516070610639757316",
+                                    "tweetUserName": "elroyjetson"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 16",
                             "type": "calendarDay",
