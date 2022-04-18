@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Apr 2022 16:51:55 GMT"
+            "dateModified": "Mon, 18 Apr 2022 00:44:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@nathaliejacoby1 <a href=\"https://t.co/plxWsng27o\">[link]</a>",
+                                    "rawText": "@nathaliejacoby1 https://t.co/plxWsng27o",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 00:40:12 GMT",
+                                    "tweetId": "1515852662683717632",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1515852662683717632",
+                                    "inReplyToId": "1515719987217977346",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 16",
                             "type": "calendarDay",
