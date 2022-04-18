@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Apr 2022 15:18:51 GMT"
+            "dateModified": "Mon, 18 Apr 2022 12:14:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@cstross @rudytheelder would tell you that the sand has been able to think all along. You must've just made it cranky.",
+                                    "rawText": "@cstross @rudytheelder would tell you that the sand has been able to think all along. You must've just made it cranky.",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 12:04:41 GMT",
+                                    "tweetId": "1516024916327469064",
+                                    "urltweet": "https://twitter.com/cshotton/status/1516024916327469064",
+                                    "inReplyToId": "1515973659608899594",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 13",
                             "type": "calendarDay",
