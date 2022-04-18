@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 16:33:43 GMT"
+            "dateModified": "Mon, 18 Apr 2022 16:40:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Day 1 of lap 57 around the sun does not have as nice weather (it is snowing) as lap 56 but is a great day none the less. <a href=\"https://t.co/df0d88YOpJ\">[link]</a>",
+                                    "rawText": "Day 1 of lap 57 around the sun does not have as nice weather (it is snowing) as lap 56 but is a great day none the less. https://t.co/df0d88YOpJ",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 16:31:04 GMT",
+                                    "tweetId": "1516091954928488451",
+                                    "urltweet": "https://twitter.com/frankm/status/1516091954928488451",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 17",
                             "type": "calendarDay",
