@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Apr 2022 15:03:55 GMT"
+            "dateModified": "Mon, 18 Apr 2022 20:22:46 GMT"
         },
         "body": {
             "subs": [
@@ -112,6 +112,16 @@
                                             "created": "Fri, 15 Apr 2022 19:45:11 GMT",
                                             "tweetId": "1515053643459878915",
                                             "urltweet": "https://twitter.com/ccb18Vt/status/1515053643459878915",
+                                            "inReplyToId": "1515044376103239682",
+                                            "tweetUserName": "ccb18Vt"
+                                        },
+                                        {
+                                            "text": "@resharper I'm guessing ReSharper is trying to call home.  Since our VMs are completely locked down once connected to our dev cloud, it can't succeed but continues to waste nearly a minute-and-a-half anyway.",
+                                            "rawText": "@resharper I'm guessing ReSharper is trying to call home.  Since our VMs are completely locked down once connected to our dev cloud, it can't succeed but continues to waste nearly a minute-and-a-half anyway.",
+                                            "type": "tweet",
+                                            "created": "Mon, 18 Apr 2022 20:19:08 GMT",
+                                            "tweetId": "1516149348463218697",
+                                            "urltweet": "https://twitter.com/ccb18Vt/status/1516149348463218697",
                                             "inReplyToId": "1515044376103239682",
                                             "tweetUserName": "ccb18Vt"
                                         }
