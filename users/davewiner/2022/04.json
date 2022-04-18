@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 20:10:56 GMT"
+            "dateModified": "Mon, 18 Apr 2022 03:20:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,24 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "Kyrie Irving is an asshole. <a href=\"https://t.co/GgdQIAmZCF\">[link]</a>",
+                                    "rawText": "Kyrie Irving is an asshole. https://t.co/GgdQIAmZCF",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 03:18:24 GMT",
+                                    "tweetId": "1515892473838678025",
+                                    "urltweet": "https://twitter.com/davewiner/status/1515892473838678025",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Most people have no idea how software works and is made.",
+                                    "rawText": "Most people have no idea how software works and is made.",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Apr 2022 03:17:04 GMT",
+                                    "tweetId": "1515892139988824067",
+                                    "urltweet": "https://twitter.com/davewiner/status/1515892139988824067",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Blogging on static generated sites with OPML and XSLT in 2022 <a href=\"https://t.co/ppVfJzzRSc\">[link]</a>",
                                     "rawText": "Blogging on static generated sites with OPML and XSLT in 2022 https://t.co/ppVfJzzRSc",
