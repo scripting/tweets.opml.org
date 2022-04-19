@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 03:17:14 GMT"
+            "dateModified": "Tue, 19 Apr 2022 03:29:30 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Tue, 19 Apr 2022 03:16:29 GMT",
                                     "tweetId": "1516254380584022017",
                                     "urltweet": "https://twitter.com/yudel/status/1516254380584022017",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "I imagine William Levitt would be perversely proud. <a href=\"https://t.co/nkaDsVFWFO\">[link]</a>",
+                                            "rawText": "I imagine William Levitt would be perversely proud. https://t.co/nkaDsVFWFO",
+                                            "type": "tweet",
+                                            "created": "Tue, 19 Apr 2022 03:18:28 GMT",
+                                            "tweetId": "1516254878624063491",
+                                            "urltweet": "https://twitter.com/yudel/status/1516254878624063491",
+                                            "inReplyToId": "1516254380584022017",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "Meanwhile, I’m perversely wondering how one might craft a lawsuit to reinstate restrictive housing covenants overturned by a liberal Supreme Court. Clearly, there are questions of standing. But where there’s a Federalist will, there’s a Federalist way.",
+                                                    "rawText": "Meanwhile, I’m perversely wondering how one might craft a lawsuit to reinstate restrictive housing covenants overturned by a liberal Supreme Court. Clearly, there are questions of standing. But where there’s a Federalist will, there’s a Federalist way.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 19 Apr 2022 03:20:41 GMT",
+                                                    "tweetId": "1516255438269988868",
+                                                    "urltweet": "https://twitter.com/yudel/status/1516255438269988868",
+                                                    "inReplyToId": "1516254878624063491",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@RFfromMass @drewdellinger In hindsight, I regret not trying much harder.",
