@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 00:57:35 GMT"
+            "dateModified": "Tue, 19 Apr 2022 13:13:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@boundzy98 Whoa!!! Haven’t tackled it yet.",
+                                    "rawText": "@boundzy98 Whoa!!! Haven’t tackled it yet.",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 13:03:32 GMT",
+                                    "tweetId": "1516402117820534790",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1516402117820534790",
+                                    "inReplyToId": "1516385109477371908",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
