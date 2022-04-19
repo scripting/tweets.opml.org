@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 03:20:29 GMT"
+            "dateModified": "Tue, 19 Apr 2022 12:07:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "I used to be in favour of marijuana decriminalization, but now I’m inching back towards criminalization because of this. <a href=\"https://t.co/oSsukjFt33\">[link]</a>",
+                                    "rawText": "I used to be in favour of marijuana decriminalization, but now I’m inching back towards criminalization because of this. https://t.co/oSsukjFt33",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 12:00:02 GMT",
+                                    "tweetId": "1516386135072808960",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1516386135072808960",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "(I live in the neighbourhood @porterthereport is reporting on.)",
+                                            "rawText": "(I live in the neighbourhood @porterthereport is reporting on.)",
+                                            "type": "tweet",
+                                            "created": "Tue, 19 Apr 2022 12:00:02 GMT",
+                                            "tweetId": "1516386137056722944",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1516386137056722944",
+                                            "inReplyToId": "1516386135072808960",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
