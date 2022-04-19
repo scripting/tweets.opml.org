@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Apr 2022 23:18:58 GMT"
+            "dateModified": "Tue, 19 Apr 2022 17:42:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@cris7ian <a href=\"https://t.co/croyhmjiNH\">[link]</a>",
+                                    "rawText": "@cris7ian https://t.co/croyhmjiNH",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 17:33:26 GMT",
+                                    "tweetId": "1516470038961831944",
+                                    "urltweet": "https://twitter.com/chiguire/status/1516470038961831944",
+                                    "inReplyToId": "1516396481594470404",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
