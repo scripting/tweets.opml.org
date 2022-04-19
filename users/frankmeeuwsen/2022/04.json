@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Apr 2022 09:05:02 GMT"
+            "dateModified": "Tue, 19 Apr 2022 08:47:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@hierislisa Kan fysio helpen bij vermoeidheid? Heb ik nooit over nagedacht eerlijk gezegd.",
+                                    "rawText": "@hierislisa Kan fysio helpen bij vermoeidheid? Heb ik nooit over nagedacht eerlijk gezegd.",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 08:43:08 GMT",
+                                    "tweetId": "1516336585410809862",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1516336585410809862",
+                                    "inReplyToId": "1516285568904269828",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
