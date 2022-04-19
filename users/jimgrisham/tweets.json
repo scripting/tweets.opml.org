@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 23:19:01 GMT"
+            "dateModified": "Tue, 19 Apr 2022 22:07:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "#CombinedArms explained in 16 tweets: <a href=\"https://t.co/HVUd7kETXf\">[link]</a>",
+                                    "rawText": "#CombinedArms explained in 16 tweets: https://t.co/HVUd7kETXf",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 22:01:51 GMT",
+                                    "tweetId": "1516537589766967304",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1516537589766967304",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
