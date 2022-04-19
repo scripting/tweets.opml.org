@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Apr 2022 09:46:46 GMT"
+            "dateModified": "Tue, 19 Apr 2022 12:52:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Updates for #GlowBlogs @GlowScot \n\n<a href=\"https://t.co/8naKxefWgJ\">[link]</a>",
+                                    "rawText": "Updates for #GlowBlogs @GlowScot \n\nhttps://t.co/8naKxefWgJ",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 12:46:12 GMT",
+                                    "tweetId": "1516397755874394119",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1516397755874394119",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 17",
                             "type": "calendarDay",
