@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Apr 2022 05:23:17 GMT"
+            "dateModified": "Tue, 19 Apr 2022 14:05:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "With Giddy Excitement: <a href=\"https://t.co/Od2ybn88eH\">[link]</a>",
+                                    "rawText": "With Giddy Excitement: https://t.co/Od2ybn88eH",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 14:04:13 GMT",
+                                    "tweetId": "1516417388950040582",
+                                    "urltweet": "https://twitter.com/_am1t/status/1516417388950040582",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
