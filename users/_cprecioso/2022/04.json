@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Apr 2022 22:16:09 GMT"
+            "dateModified": "Tue, 19 Apr 2022 07:03:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@YerayVaro Apúntate al Mercadona que suelen quedar bien los pantalones",
+                                    "rawText": "@YerayVaro Apúntate al Mercadona que suelen quedar bien los pantalones",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 06:54:50 GMT",
+                                    "tweetId": "1516309330487918593",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1516309330487918593",
+                                    "inReplyToId": "1516289499013296129",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
