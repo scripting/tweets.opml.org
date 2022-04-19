@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 01:21:06 GMT"
+            "dateModified": "Tue, 19 Apr 2022 18:18:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Well this is a surprise. I expected way more sugar and only trace amounts of hazelnut. <a href=\"https://t.co/L8SES0IemI\">[link]</a>",
+                                    "rawText": "Well this is a surprise. I expected way more sugar and only trace amounts of hazelnut. https://t.co/L8SES0IemI",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 18:17:52 GMT",
+                                    "tweetId": "1516481218916855813",
+                                    "urltweet": "https://twitter.com/miljko/status/1516481218916855813",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
