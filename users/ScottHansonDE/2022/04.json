@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Apr 2022 16:38:16 GMT"
+            "dateModified": "Tue, 19 Apr 2022 05:43:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@tehnyit @swaggoner @path_ethic We’re in a small town, so we get mail even if the street and number are wrong or left off",
+                                    "rawText": "@tehnyit @swaggoner @path_ethic We’re in a small town, so we get mail even if the street and number are wrong or left off",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 05:42:07 GMT",
+                                    "tweetId": "1516291029158268930",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1516291029158268930",
+                                    "inReplyToId": "1516289241432694786",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
