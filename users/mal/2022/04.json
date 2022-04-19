@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Apr 2022 23:34:17 GMT"
+            "dateModified": "Tue, 19 Apr 2022 04:11:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@JaniceMcGeachin More than one way to skin a cat.",
+                                    "rawText": "@JaniceMcGeachin More than one way to skin a cat.",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Apr 2022 04:09:09 GMT",
+                                    "tweetId": "1516267634639060994",
+                                    "urltweet": "https://twitter.com/mal/status/1516267634639060994",
+                                    "inReplyToId": "1516193630209253379",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 15",
                             "type": "calendarDay",
