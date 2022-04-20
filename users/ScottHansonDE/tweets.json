@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 16:33:06 GMT"
+            "dateModified": "Wed, 20 Apr 2022 20:45:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@jenrazzle Ich find’ dich scheiße <a href=\"https://t.co/Ii882AoR1N\">[link]</a>",
+                                    "rawText": "@jenrazzle Ich find’ dich scheiße https://t.co/Ii882AoR1N",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Apr 2022 20:43:28 GMT",
+                                    "tweetId": "1516880250701025282",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1516880250701025282",
+                                    "inReplyToId": "1516874092334522369",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 19",
                             "type": "calendarDay",
