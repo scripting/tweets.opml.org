@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 04:11:17 GMT"
+            "dateModified": "Wed, 20 Apr 2022 12:41:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@JaniceMcGeachin You don’t have any idea how many lives were saved with masks do you?",
+                                    "rawText": "@JaniceMcGeachin You don’t have any idea how many lives were saved with masks do you?",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Apr 2022 12:36:54 GMT",
+                                    "tweetId": "1516757800541507584",
+                                    "urltweet": "https://twitter.com/mal/status/1516757800541507584",
+                                    "inReplyToId": "1516162282895536129",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 19",
                             "type": "calendarDay",
