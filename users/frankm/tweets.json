@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Apr 2022 18:31:09 GMT"
+            "dateModified": "Wed, 20 Apr 2022 14:15:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "A couple of Easter survivors. <a href=\"https://t.co/7Bis5LaHYF\">[link]</a>",
+                                    "rawText": "A couple of Easter survivors. https://t.co/7Bis5LaHYF",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Apr 2022 14:10:01 GMT",
+                                    "tweetId": "1516781236513128449",
+                                    "urltweet": "https://twitter.com/frankm/status/1516781236513128449",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 18",
                             "type": "calendarDay",
