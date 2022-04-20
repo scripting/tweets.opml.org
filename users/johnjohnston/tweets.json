@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 18:35:59 GMT"
+            "dateModified": "Wed, 20 Apr 2022 11:21:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@MghrMorrison @DigiLearnScot @GlowScot Thanks. All photos my own. Google Street view app takes 360 photos.",
+                                    "rawText": "@MghrMorrison @DigiLearnScot @GlowScot Thanks. All photos my own. Google Street view app takes 360 photos.",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Apr 2022 11:17:05 GMT",
+                                    "tweetId": "1516737713331970057",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1516737713331970057",
+                                    "inReplyToId": "1516701720742666240",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 19",
                             "type": "calendarDay",
