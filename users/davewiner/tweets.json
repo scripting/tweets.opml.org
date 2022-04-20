@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Apr 2022 12:58:26 GMT"
+            "dateModified": "Wed, 20 Apr 2022 13:10:42 GMT"
         },
         "body": {
             "subs": [
@@ -73,7 +73,19 @@
                                     "created": "Wed, 20 Apr 2022 08:07:53 GMT",
                                     "tweetId": "1516690100352077831",
                                     "urltweet": "https://twitter.com/davewiner/status/1516690100352077831",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Also, Ken Jennings is the obvious best choice to be the Jeopardy host because he's such a great Jeopardy player, and is immersed in all aspects of the game. He really connects with the players, and therefore the fans at home. <a href=\"https://t.co/O2TYSvo5n0\">[link]</a>",
+                                            "rawText": "Also, Ken Jennings is the obvious best choice to be the Jeopardy host because he's such a great Jeopardy player, and is immersed in all aspects of the game. He really connects with the players, and therefore the fans at home. https://t.co/O2TYSvo5n0",
+                                            "type": "tweet",
+                                            "created": "Wed, 20 Apr 2022 13:00:02 GMT",
+                                            "tweetId": "1516763623972036611",
+                                            "urltweet": "https://twitter.com/davewiner/status/1516763623972036611",
+                                            "inReplyToId": "1516690100352077831",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 }
                             ]
                         },
