@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 14:05:26 GMT"
+            "dateModified": "Wed, 20 Apr 2022 04:11:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "I wanted to watch Dune recently and I thought it had to be a Netflix original. No idea why I thought so, but I somehow assume everything that is streaming first is brought to us by Netflix. Funny that’s often not the case.",
+                                    "rawText": "I wanted to watch Dune recently and I thought it had to be a Netflix original. No idea why I thought so, but I somehow assume everything that is streaming first is brought to us by Netflix. Funny that’s often not the case.",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Apr 2022 04:01:42 GMT",
+                                    "tweetId": "1516628146279399439",
+                                    "urltweet": "https://twitter.com/_am1t/status/1516628146279399439",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 19",
                             "type": "calendarDay",
