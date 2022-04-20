@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Apr 2022 18:31:48 GMT"
+            "dateModified": "Wed, 20 Apr 2022 18:44:04 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,19 @@
                                             "tweetId": "1516847102609039361",
                                             "urltweet": "https://twitter.com/yudel/status/1516847102609039361",
                                             "inReplyToId": "1516845674842804224",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@typolad @onthemainline @NatGertler @DBashIdeas And here's the 2003 obit for the other, a former Hillel director in Los Angeles. <a href=\"https://t.co/ASRX8Y2Bsv\">[link]</a>",
+                                                    "rawText": "@typolad @onthemainline @NatGertler @DBashIdeas And here's the 2003 obit for the other, a former Hillel director in Los Angeles. https://t.co/ASRX8Y2Bsv",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 20 Apr 2022 18:37:19 GMT",
+                                                    "tweetId": "1516848504466984962",
+                                                    "urltweet": "https://twitter.com/yudel/status/1516848504466984962",
+                                                    "inReplyToId": "1516847102609039361",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
