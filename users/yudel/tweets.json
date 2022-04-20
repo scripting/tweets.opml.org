@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Apr 2022 03:48:50 GMT"
+            "dateModified": "Wed, 20 Apr 2022 13:00:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,35 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@DemocraticLuntz @onthemainline @PYMundGenealogy What was yesterday's Miller news?",
+                                    "rawText": "@DemocraticLuntz @onthemainline @PYMundGenealogy What was yesterday's Miller news?",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Apr 2022 12:56:22 GMT",
+                                    "tweetId": "1516762698704375814",
+                                    "urltweet": "https://twitter.com/yudel/status/1516762698704375814",
+                                    "inReplyToId": "1516750169248784386",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@DemocraticLuntz @onthemainline @PYMundGenealogy Incidentally, if you want evidence that Miller is not properly understood in too much of modern Orthodoxy, here's last week's column by our Teaneck suburban ortholife columnist: <a href=\"https://t.co/aUdpijKf4G\">[link]</a>",
+                                            "rawText": "@DemocraticLuntz @onthemainline @PYMundGenealogy Incidentally, if you want evidence that Miller is not properly understood in too much of modern Orthodoxy, here's last week's column by our Teaneck suburban ortholife columnist: https://t.co/aUdpijKf4G",
+                                            "type": "tweet",
+                                            "created": "Wed, 20 Apr 2022 12:58:11 GMT",
+                                            "tweetId": "1516763158127460359",
+                                            "urltweet": "https://twitter.com/yudel/status/1516763158127460359",
+                                            "inReplyToId": "1516762698704375814",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "April 19",
                             "type": "calendarDay",
