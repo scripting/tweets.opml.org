@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 23:26:03 GMT"
+            "dateModified": "Wed, 20 Apr 2022 07:24:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@androidqueen I understand this feeling. I’m glad you liked it.",
+                                    "rawText": "@androidqueen I understand this feeling. I’m glad you liked it.",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Apr 2022 07:22:06 GMT",
+                                    "tweetId": "1516678577902821377",
+                                    "urltweet": "https://twitter.com/chiguire/status/1516678577902821377",
+                                    "inReplyToId": "1516637088157949955",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 19",
                             "type": "calendarDay",
