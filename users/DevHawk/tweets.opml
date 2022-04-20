@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 12 Apr 2022 14:37:30 GMT</dateModified>
+		<dateModified>Wed, 20 Apr 2022 14:03:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="April 2022" type="calendarMonth" name="april2022" >
+			<outline text="April 20" type="calendarDay" name="20" >
+				<outline text="&lt;a href=&quot;https://t.co/TcQPlcjXzb&quot;&gt;[link]&lt;/a&gt; https://t.co/rVaOt69mah" rawText="https://t.co/TcQPlcjXzb https://t.co/rVaOt69mah" type="tweet" created="Wed, 20 Apr 2022 13:58:01 GMT" tweetId="1516778214206566403" urltweet="https://twitter.com/DevHawk/status/1516778214206566403" inReplyToId="" tweetUserName="DevHawk" />
+				</outline>
 			<outline text="April 12" type="calendarDay" name="12" >
-				<outline text="This time, I'm actually doing a contract tutorial instead of a tour of the Blockchain Toolkit &lt;a href=&quot;https://t.co/x7p1Xtk8Dd&quot;&gt;[link]&lt;/a&gt;" rawText="This time, I'm actually doing a contract tutorial instead of a tour of the Blockchain Toolkit https://t.co/x7p1Xtk8Dd" type="tweet" created="Tue, 12 Apr 2022 14:28:29 GMT" tweetId="1513886779035770884" urltweet="https://twitter.com/DevHawk/status/1513886779035770884" inReplyToId="" tweetUserName="DevHawk" />
+				<outline text="This time, I'm actually doing a contract tutorial instead of a tour of the Blockchain Toolkit &lt;a href=&quot;https://t.co/x7p1Xtk8Dd&quot;&gt;[link]&lt;/a&gt;" rawText="This time, I'm actually doing a contract tutorial instead of a tour of the Blockchain Toolkit https://t.co/x7p1Xtk8Dd" type="tweet" created="Tue, 12 Apr 2022 14:28:29 GMT" tweetId="1513886779035770884" urltweet="https://twitter.com/DevHawk/status/1513886779035770884" tweetUserName="DevHawk" />
 				</outline>
 			<outline text="April 11" type="calendarDay" name="11" >
 				<outline text="TFW you waste most of your day on what turns out to be a known @dotnet issue that was closed as won't fix 8 months ago &quot;to reflect current priorities&quot; but the docs still tell developers to do things the way that is known to be broken.
