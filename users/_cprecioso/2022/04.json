@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Apr 2022 11:15:49 GMT"
+            "dateModified": "Thu, 21 Apr 2022 07:17:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "Señor Moseby",
+                                    "rawText": "Señor Moseby",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Apr 2022 07:07:58 GMT",
+                                    "tweetId": "1517037409258590209",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1517037409258590209",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 20",
                             "type": "calendarDay",
