@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Apr 2022 12:50:15 GMT"
+            "dateModified": "Thu, 21 Apr 2022 13:14:46 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                                     "tweetId": "1517121056967999489",
                                                     "urltweet": "https://twitter.com/chiguire/status/1517121056967999489",
                                                     "inReplyToId": "1517119924644335618",
-                                                    "tweetUserName": "chiguire"
+                                                    "tweetUserName": "chiguire",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Los Fabulosos Cadillacs, tremendo grupo <a href=\"https://t.co/u3YDD1TMqx\">[link]</a>",
+                                                            "rawText": "Los Fabulosos Cadillacs, tremendo grupo https://t.co/u3YDD1TMqx",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 21 Apr 2022 13:06:08 GMT",
+                                                            "tweetId": "1517127547481374721",
+                                                            "urltweet": "https://twitter.com/chiguire/status/1517127547481374721",
+                                                            "inReplyToId": "1517121056967999489",
+                                                            "tweetUserName": "chiguire"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
