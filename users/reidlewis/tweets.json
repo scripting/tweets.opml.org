@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/reidlewis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 15:49:18 GMT"
+            "dateModified": "Thu, 21 Apr 2022 19:07:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@voyager212 Very cool! Might this be re-purposed for the Starship propellant depot that @elonmusk mentioned in his 10-February-2022 Starship Update?\n\n#SpaceXStarship #propellantdepot",
+                                    "rawText": "@voyager212 Very cool! Might this be re-purposed for the Starship propellant depot that @elonmusk mentioned in his 10-February-2022 Starship Update?\n\n#SpaceXStarship #propellantdepot",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Apr 2022 18:56:27 GMT",
+                                    "tweetId": "1517215705497800707",
+                                    "urltweet": "https://twitter.com/reidlewis/status/1517215705497800707",
+                                    "inReplyToId": "1517143513854472193",
+                                    "tweetUserName": "reidlewis"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 19",
                             "type": "calendarDay",
