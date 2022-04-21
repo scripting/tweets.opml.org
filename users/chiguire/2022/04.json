@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Apr 2022 12:37:59 GMT"
+            "dateModified": "Thu, 21 Apr 2022 12:50:15 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1517119924644335618",
                                             "urltweet": "https://twitter.com/chiguire/status/1517119924644335618",
                                             "inReplyToId": "1517118000318529536",
-                                            "tweetUserName": "chiguire"
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "I like big buildings and I cannot lie",
+                                                    "rawText": "I like big buildings and I cannot lie",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 21 Apr 2022 12:40:21 GMT",
+                                                    "tweetId": "1517121056967999489",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1517121056967999489",
+                                                    "inReplyToId": "1517119924644335618",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
