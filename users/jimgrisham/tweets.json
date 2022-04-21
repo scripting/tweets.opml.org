@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Apr 2022 00:04:40 GMT"
+            "dateModified": "Thu, 21 Apr 2022 00:16:56 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,31 @@
                                     "tweetId": "1516930801631436807",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1516930801631436807",
                                     "inReplyToId": "1516608890703650818",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@alyssa_holden_ @MayaGosztyla (Actually, I think #Docusign once did something similar, at least for signatures in pre-marked fields, so one could print/fax a document if they didn’t have #DigitalSignatures … without affecting the recipient’s workflow)",
+                                            "rawText": "@alyssa_holden_ @MayaGosztyla (Actually, I think #Docusign once did something similar, at least for signatures in pre-marked fields, so one could print/fax a document if they didn’t have #DigitalSignatures … without affecting the recipient’s workflow)",
+                                            "type": "tweet",
+                                            "created": "Thu, 21 Apr 2022 00:10:34 GMT",
+                                            "tweetId": "1516932366572396544",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1516932366572396544",
+                                            "inReplyToId": "1516930801631436807",
+                                            "tweetUserName": "jimgrisham",
+                                            "subs": [
+                                                {
+                                                    "text": "@alyssa_holden_ @MayaGosztyla Have you ever heard of anything else like this, @markproxy or @SusanPotter?",
+                                                    "rawText": "@alyssa_holden_ @MayaGosztyla Have you ever heard of anything else like this, @markproxy or @SusanPotter?",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 21 Apr 2022 00:11:08 GMT",
+                                                    "tweetId": "1516932511300993031",
+                                                    "urltweet": "https://twitter.com/jimgrisham/status/1516932511300993031",
+                                                    "inReplyToId": "1516932366572396544",
+                                                    "tweetUserName": "jimgrisham"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Michael_Geardan @Kosherart @pdnell @Rod__Mason The more people who voluntarily do this helps can reduce possible stigma from those who prefer to be addressed in a non-obvious way.\n\nA mandate shouldn’t be required.\n\n100% of folks don’t have to do this; it’s probably best with 50-70% participation?",
