@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Apr 2022 20:45:27 GMT"
+            "dateModified": "Thu, 21 Apr 2022 10:02:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "A drama in 4 acts <a href=\"https://t.co/GifdlYStR2\">[link]</a>",
+                                    "rawText": "A drama in 4 acts https://t.co/GifdlYStR2",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Apr 2022 09:56:50 GMT",
+                                    "tweetId": "1517079908270358529",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1517079908270358529",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 20",
                             "type": "calendarDay",
