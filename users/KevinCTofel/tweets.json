@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 00:17:29 GMT"
+            "dateModified": "Fri, 22 Apr 2022 08:28:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Zoom PWA for Chromebook gains blur and virtual backgrounds <a href=\"https://t.co/C72wVnFjvU\">[link]</a>",
+                                    "rawText": "ICYMI: Zoom PWA for Chromebook gains blur and virtual backgrounds https://t.co/C72wVnFjvU",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 08:20:28 GMT",
+                                    "tweetId": "1517418041772060672",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1517418041772060672",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 21",
                             "type": "calendarDay",
