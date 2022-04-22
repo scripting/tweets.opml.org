@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Apr 2022 21:03:46 GMT"
+            "dateModified": "Fri, 22 Apr 2022 01:09:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "I wonder why I’m just hearing about this now. <a href=\"https://t.co/YZIoJ0nujW\">[link]</a>",
+                                    "rawText": "I wonder why I’m just hearing about this now. https://t.co/YZIoJ0nujW",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 00:59:14 GMT",
+                                    "tweetId": "1517307004859162624",
+                                    "urltweet": "https://twitter.com/davewiner/status/1517307004859162624",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Twitter has a great api, I’ve been doing apps with it since 2007. Here’s a simple easy app every twitter writer should know about imho.\n\n<a href=\"https://t.co/KAVhNd06pG\">[link]</a>",
+                                            "rawText": "Twitter has a great api, I’ve been doing apps with it since 2007. Here’s a simple easy app every twitter writer should know about imho.\n\nhttps://t.co/KAVhNd06pG",
+                                            "type": "tweet",
+                                            "created": "Fri, 22 Apr 2022 01:03:57 GMT",
+                                            "tweetId": "1517308189431283715",
+                                            "urltweet": "https://twitter.com/davewiner/status/1517308189431283715",
+                                            "inReplyToId": "1517307004859162624",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Family beat man because they ‘made’ son gay, victim told cops. <a href=\"https://t.co/Sjmif6Xd3r\">[link]</a>",
                                     "rawText": "Family beat man because they ‘made’ son gay, victim told cops. https://t.co/Sjmif6Xd3r",
