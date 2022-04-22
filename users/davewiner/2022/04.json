@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 10:57:40 GMT"
+            "dateModified": "Fri, 22 Apr 2022 11:09:56 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "22",
                             "subs": [
                                 {
+                                    "text": "New Jersey launches recreational marijuana sales following voter approval. <a href=\"https://t.co/tS9R0mP9zd\">[link]</a>",
+                                    "rawText": "New Jersey launches recreational marijuana sales following voter approval. https://t.co/tS9R0mP9zd",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 10:58:54 GMT",
+                                    "tweetId": "1517457916160266240",
+                                    "urltweet": "https://twitter.com/davewiner/status/1517457916160266240",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "A New Day Dawns for Marijuana in New Jersey. <a href=\"https://t.co/wxL35f1xmN\">[link]</a>",
                                     "rawText": "A New Day Dawns for Marijuana in New Jersey. https://t.co/wxL35f1xmN",
                                     "type": "tweet",
                                     "created": "Fri, 22 Apr 2022 10:57:39 GMT",
                                     "tweetId": "1517457598030700545",
                                     "urltweet": "https://twitter.com/davewiner/status/1517457598030700545",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Price list for nj recreational place, first day yesterday. <a href=\"https://t.co/AfHedr0MGc\">[link]</a>",
+                                            "rawText": "Price list for nj recreational place, first day yesterday. https://t.co/AfHedr0MGc",
+                                            "type": "tweet",
+                                            "created": "Fri, 22 Apr 2022 11:06:32 GMT",
+                                            "tweetId": "1517459834425294852",
+                                            "urltweet": "https://twitter.com/davewiner/status/1517459834425294852",
+                                            "inReplyToId": "1517457598030700545",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@ThatEricAlper <a href=\"https://t.co/SDUQP4pp6K\">[link]</a>",
