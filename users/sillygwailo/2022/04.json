@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 01:14:33 GMT"
+            "dateModified": "Fri, 22 Apr 2022 23:06:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Leather jacket weather. #dlws",
+                                    "rawText": "Leather jacket weather. #dlws",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 22:59:28 GMT",
+                                    "tweetId": "1517639252821127168",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1517639252821127168",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 21",
                             "type": "calendarDay",
