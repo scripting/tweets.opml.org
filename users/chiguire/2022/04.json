@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Apr 2022 21:13:02 GMT"
+            "dateModified": "Fri, 22 Apr 2022 08:02:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@josemaorsini Un abrazote Jose, espero que hayas pasado feliz cumpleaños 💕💕",
+                                    "rawText": "@josemaorsini Un abrazote Jose, espero que hayas pasado feliz cumpleaños 💕💕",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 08:02:06 GMT",
+                                    "tweetId": "1517413422421397504",
+                                    "urltweet": "https://twitter.com/chiguire/status/1517413422421397504",
+                                    "inReplyToId": "1517292721354035202",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 21",
                             "type": "calendarDay",
