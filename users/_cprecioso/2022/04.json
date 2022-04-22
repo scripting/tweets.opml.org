@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 00:03:13 GMT"
+            "dateModified": "Fri, 22 Apr 2022 12:55:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Mi psicólogo: “eso es una broma o lo dices en serio?”\nYo: “si”",
+                                    "rawText": "Mi psicólogo: “eso es una broma o lo dices en serio?”\nYo: “si”",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 12:55:47 GMT",
+                                    "tweetId": "1517487330927468544",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1517487330927468544",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 21",
                             "type": "calendarDay",
