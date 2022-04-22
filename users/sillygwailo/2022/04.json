@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 23:18:59 GMT"
+            "dateModified": "Fri, 22 Apr 2022 23:31:15 GMT"
         },
         "body": {
             "subs": [
@@ -36,7 +36,19 @@
                                     "created": "Fri, 22 Apr 2022 22:59:28 GMT",
                                     "tweetId": "1517639252821127168",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1517639252821127168",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I’m mentally telling everybody I see in Toronto who’s wearing a leather jacket tonight “That leather jacket really suits you!”",
+                                            "rawText": "I’m mentally telling everybody I see in Toronto who’s wearing a leather jacket tonight “That leather jacket really suits you!”",
+                                            "type": "tweet",
+                                            "created": "Fri, 22 Apr 2022 23:25:13 GMT",
+                                            "tweetId": "1517645731892445184",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1517645731892445184",
+                                            "inReplyToId": "1517639252821127168",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
