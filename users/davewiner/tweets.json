@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 14:38:24 GMT"
+            "dateModified": "Fri, 22 Apr 2022 14:50:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "@JimDuncanRVA it's a fine word.",
+                                    "rawText": "@JimDuncanRVA it's a fine word.",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 14:44:48 GMT",
+                                    "tweetId": "1517514764049686530",
+                                    "urltweet": "https://twitter.com/davewiner/status/1517514764049686530",
+                                    "inReplyToId": "1517514025273380864",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "This is what a post-Twitter blog looks like imho.\n\n<a href=\"https://t.co/UM5mAH0GpH\">[link]</a>",
                                     "rawText": "This is what a post-Twitter blog looks like imho.\n\nhttps://t.co/UM5mAH0GpH",
@@ -37,7 +47,19 @@
                                             "tweetId": "1517513039741861888",
                                             "urltweet": "https://twitter.com/davewiner/status/1517513039741861888",
                                             "inReplyToId": "1517512597658025984",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "There is a sweet spot between Twitter and blogs.\n\nI've been writing in that spot for most of the last 27 years. There was a while when I tried to conform to the more formal form of blogging, but I hated it.",
+                                                    "rawText": "There is a sweet spot between Twitter and blogs.\n\nI've been writing in that spot for most of the last 27 years. There was a while when I tried to conform to the more formal form of blogging, but I hated it.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 22 Apr 2022 14:39:27 GMT",
+                                                    "tweetId": "1517513415895523330",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1517513415895523330",
+                                                    "inReplyToId": "1517513039741861888",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
