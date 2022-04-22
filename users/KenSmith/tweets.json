@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 02:47:54 GMT"
+            "dateModified": "Fri, 22 Apr 2022 13:25:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "\"Leave the same as you arrive, only more so.\" Stewart Lee on the way some art or entertainment confirms or recites rather than explores or challenges. <a href=\"https://t.co/PHu57Pbqz7\">[link]</a>",
+                                    "rawText": "\"Leave the same as you arrive, only more so.\" Stewart Lee on the way some art or entertainment confirms or recites rather than explores or challenges. https://t.co/PHu57Pbqz7",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 13:21:26 GMT",
+                                    "tweetId": "1517493785491652608",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1517493785491652608",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 21",
                             "type": "calendarDay",
