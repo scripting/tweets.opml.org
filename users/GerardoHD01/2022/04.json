@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Apr 2022 22:45:15 GMT"
+            "dateModified": "Fri, 22 Apr 2022 04:30:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@Joako00 Yo nunca cobro, lo hago por deporte jajaja\nNo antier ofrecías pagar? 🤔",
+                                    "rawText": "@Joako00 Yo nunca cobro, lo hago por deporte jajaja\nNo antier ofrecías pagar? 🤔",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 04:22:22 GMT",
+                                    "tweetId": "1517358122578317312",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1517358122578317312",
+                                    "inReplyToId": "1517354409747009537",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 19",
                             "type": "calendarDay",
