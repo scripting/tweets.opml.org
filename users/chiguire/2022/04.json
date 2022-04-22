@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 08:02:59 GMT"
+            "dateModified": "Fri, 22 Apr 2022 17:02:34 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "@adrigutierrezv_ Noslomismo",
+                                    "rawText": "@adrigutierrezv_ Noslomismo",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Apr 2022 16:59:53 GMT",
+                                    "tweetId": "1517548757537239041",
+                                    "urltweet": "https://twitter.com/chiguire/status/1517548757537239041",
+                                    "inReplyToId": "1517547445034622978",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@josemaorsini Un abrazote Jose, espero que hayas pasado feliz cumpleaños 💕💕",
                                     "rawText": "@josemaorsini Un abrazote Jose, espero que hayas pasado feliz cumpleaños 💕💕",
@@ -142,7 +152,19 @@
                                                             "tweetId": "1517127547481374721",
                                                             "urltweet": "https://twitter.com/chiguire/status/1517127547481374721",
                                                             "inReplyToId": "1517121056967999489",
-                                                            "tweetUserName": "chiguire"
+                                                            "tweetUserName": "chiguire",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Otro campo de fútbol <a href=\"https://t.co/SmhVOMW6cx\">[link]</a>",
+                                                                    "rawText": "Otro campo de fútbol https://t.co/SmhVOMW6cx",
+                                                                    "type": "tweet",
+                                                                    "created": "Fri, 22 Apr 2022 16:56:37 GMT",
+                                                                    "tweetId": "1517547938037309443",
+                                                                    "urltweet": "https://twitter.com/chiguire/status/1517547938037309443",
+                                                                    "inReplyToId": "1517127547481374721",
+                                                                    "tweetUserName": "chiguire"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
