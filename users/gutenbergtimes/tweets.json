@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 19:43:30 GMT"
+            "dateModified": "Sat, 23 Apr 2022 23:06:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "New: Webfonts API, Accessibility Improvements, WordPress 6.0, and more - Weekend Edition 212 curated by @bph TY to @ellenbauer @richard_tabor @fabiankaegy @gziolo @m_munirkamal @mattreport @aurooba @schutzsmith @ryanwelcher @pootlepress @jenniferbourn <a href=\"https://t.co/Eg0JchUQ0h\">[link]</a>",
+                                    "rawText": "New: Webfonts API, Accessibility Improvements, WordPress 6.0, and more - Weekend Edition 212 curated by @bph TY to @ellenbauer @richard_tabor @fabiankaegy @gziolo @m_munirkamal @mattreport @aurooba @schutzsmith @ryanwelcher @pootlepress @jenniferbourn https://t.co/Eg0JchUQ0h",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 23:01:55 GMT",
+                                    "tweetId": "1518002256095895553",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1518002256095895553",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
