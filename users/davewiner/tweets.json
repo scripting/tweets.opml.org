@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 02:05:10 GMT"
+            "dateModified": "Sat, 23 Apr 2022 10:27:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Why e-bikes are fast becoming the green transport of choice. <a href=\"https://t.co/UG6QPf3uNt\">[link]</a>",
+                                    "rawText": "Why e-bikes are fast becoming the green transport of choice. https://t.co/UG6QPf3uNt",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 10:21:39 GMT",
+                                    "tweetId": "1517810926619045888",
+                                    "urltweet": "https://twitter.com/davewiner/status/1517810926619045888",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
