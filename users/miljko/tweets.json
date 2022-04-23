@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 22:45:27 GMT"
+            "dateModified": "Sat, 23 Apr 2022 11:38:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "📚 Starting the morning with some Gerd Gigerenzer. Hope he doesn’t get into trouble for implying the media and health agencies are spreading disinformation.\n\nOh, who am I kidding? It’s in a book, no one will see it. <a href=\"https://t.co/baloJXlzaf\">[link]</a>",
+                                    "rawText": "📚 Starting the morning with some Gerd Gigerenzer. Hope he doesn’t get into trouble for implying the media and health agencies are spreading disinformation.\n\nOh, who am I kidding? It’s in a book, no one will see it. https://t.co/baloJXlzaf",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 11:31:19 GMT",
+                                    "tweetId": "1517828461473247233",
+                                    "urltweet": "https://twitter.com/miljko/status/1517828461473247233",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
