@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 19:08:31 GMT"
+            "dateModified": "Sat, 23 Apr 2022 21:35:41 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 23 Apr 2022 18:59:20 GMT",
                                     "tweetId": "1517941208907231233",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1517941208907231233",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "“This is how I fight.”",
+                                            "rawText": "“This is how I fight.”",
+                                            "type": "tweet",
+                                            "created": "Sat, 23 Apr 2022 21:31:30 GMT",
+                                            "tweetId": "1517979500805595137",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1517979500805595137",
+                                            "inReplyToId": "1517941208907231233",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "What days exactly in May are Prince Charles and Camilla, Duchess of Cornwall, coming to Canada for their upcoming visit? It’s for @CanadaPlanner.",
