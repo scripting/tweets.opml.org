@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 18:57:27 GMT"
+            "dateModified": "Sat, 23 Apr 2022 08:02:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Sinds begin deze maand een nieuwe kleine hobby. Go spelen. Niet eenvoudig, wel intrigerend. <a href=\"https://t.co/y0P4oYDaxl\">[link]</a>",
+                                    "rawText": "Sinds begin deze maand een nieuwe kleine hobby. Go spelen. Niet eenvoudig, wel intrigerend. https://t.co/y0P4oYDaxl",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 07:57:43 GMT",
+                                    "tweetId": "1517774704135843841",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1517774704135843841",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
