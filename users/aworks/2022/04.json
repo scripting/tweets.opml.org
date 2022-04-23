@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 13:52:21 GMT"
+            "dateModified": "Sat, 23 Apr 2022 13:59:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/0j35DwJREl\">[link]</a> Stories via @stwbass @annezilotti @BostonSymphony",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/0j35DwJREl Stories via @stwbass @annezilotti @BostonSymphony",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 13:47:49 GMT",
+                                    "tweetId": "1517862810696491008",
+                                    "urltweet": "https://twitter.com/aworks/status/1517862810696491008",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
