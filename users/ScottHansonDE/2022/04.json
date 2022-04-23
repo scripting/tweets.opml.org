@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 16:29:47 GMT"
+            "dateModified": "Sat, 23 Apr 2022 06:48:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Hol den Vorschlaghammer!",
+                                    "rawText": "Hol den Vorschlaghammer!",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 06:40:10 GMT",
+                                    "tweetId": "1517755188991434752",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1517755188991434752",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
