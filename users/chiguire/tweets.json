@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 21:27:11 GMT"
+            "dateModified": "Sat, 23 Apr 2022 21:39:26 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "23",
                             "subs": [
                                 {
+                                    "text": "@binauralfusion It me",
+                                    "rawText": "@binauralfusion It me",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 21:27:43 GMT",
+                                    "tweetId": "1517978548895719424",
+                                    "urltweet": "https://twitter.com/chiguire/status/1517978548895719424",
+                                    "inReplyToId": "1517976377454116870",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
                                     "text": "Yo con estos dos discos <a href=\"https://t.co/1G8ePKpyTY\">[link]</a> https://t.co/2ShGsC6Cu0",
                                     "rawText": "Yo con estos dos discos https://t.co/1G8ePKpyTY https://t.co/2ShGsC6Cu0",
                                     "type": "tweet",
                                     "created": "Sat, 23 Apr 2022 21:27:00 GMT",
                                     "tweetId": "1517978368528072705",
                                     "urltweet": "https://twitter.com/chiguire/status/1517978368528072705",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Gracias papá, por tenerme paciencia",
+                                            "rawText": "Gracias papá, por tenerme paciencia",
+                                            "type": "tweet",
+                                            "created": "Sat, 23 Apr 2022 21:28:21 GMT",
+                                            "tweetId": "1517978709768253442",
+                                            "urltweet": "https://twitter.com/chiguire/status/1517978709768253442",
+                                            "inReplyToId": "1517978368528072705",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@lafp Because you know I'm all databass, databass, databass",
