@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 22:33:41 GMT"
+            "dateModified": "Sat, 23 Apr 2022 05:55:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@luis1210 @lobachevscki Cero peo, el sentimiento es mutuo",
+                                    "rawText": "@luis1210 @lobachevscki Cero peo, el sentimiento es mutuo",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 05:53:41 GMT",
+                                    "tweetId": "1517743492163899392",
+                                    "urltweet": "https://twitter.com/chiguire/status/1517743492163899392",
+                                    "inReplyToId": "1517648978367631365",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
