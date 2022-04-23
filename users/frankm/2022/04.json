@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Apr 2022 13:03:48 GMT"
+            "dateModified": "Sat, 23 Apr 2022 15:25:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Finally some warm weather! Alpha tree is enjoying the sun too. <a href=\"https://t.co/1p6jwz90gT\">[link]</a>",
+                                    "rawText": "Finally some warm weather! Alpha tree is enjoying the sun too. https://t.co/1p6jwz90gT",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 15:25:35 GMT",
+                                    "tweetId": "1517887414072758274",
+                                    "urltweet": "https://twitter.com/frankm/status/1517887414072758274",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
