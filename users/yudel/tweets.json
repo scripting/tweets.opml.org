@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 01:42:53 GMT"
+            "dateModified": "Sat, 23 Apr 2022 07:01:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@racheleklein Shatner’s IMDB page is quite the rabbit hole, as I discovered when I wrote about him a few years back. <a href=\"https://t.co/879Lxs3n9p\">[link]</a>",
+                                    "rawText": "@racheleklein Shatner’s IMDB page is quite the rabbit hole, as I discovered when I wrote about him a few years back. https://t.co/879Lxs3n9p",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 06:57:01 GMT",
+                                    "tweetId": "1517759431198527488",
+                                    "urltweet": "https://twitter.com/yudel/status/1517759431198527488",
+                                    "inReplyToId": "1517749919431462912",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 22",
                             "type": "calendarDay",
