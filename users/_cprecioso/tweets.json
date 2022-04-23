@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 09:09:52 GMT"
+            "dateModified": "Sat, 23 Apr 2022 09:58:55 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "Mi aplicación favorita <a href=\"https://t.co/gdmdgXSMqh\">[link]</a>",
+                                    "rawText": "Mi aplicación favorita https://t.co/gdmdgXSMqh",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 09:48:20 GMT",
+                                    "tweetId": "1517802542067027969",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1517802542067027969",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/9C8MAAXunl\">[link]</a>",
+                                            "rawText": "https://t.co/9C8MAAXunl",
+                                            "type": "tweet",
+                                            "created": "Sat, 23 Apr 2022 09:48:29 GMT",
+                                            "tweetId": "1517802581153632256",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1517802581153632256",
+                                            "inReplyToId": "1517802542067027969",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Dónde se apunta uno a una histeria colectiva?",
                                     "rawText": "Dónde se apunta uno a una histeria colectiva?",
