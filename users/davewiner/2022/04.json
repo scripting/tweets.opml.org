@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 19:27:33 GMT"
+            "dateModified": "Sat, 23 Apr 2022 19:39:49 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,38 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "@ashevat good man. let's fix a ui bug. \n\nsuppose I want to mute a word. \n\n1. click More.\n\n2. Privacy and safety tab.\n\n3. Muted words.\n\n4. Click the plus icon. \n\nWhat? There is no plus icon. I stared at that screen and couldn't find it. Then I saw where it was.",
+                                    "rawText": "@ashevat good man. let's fix a ui bug. \n\nsuppose I want to mute a word. \n\n1. click More.\n\n2. Privacy and safety tab.\n\n3. Muted words.\n\n4. Click the plus icon. \n\nWhat? There is no plus icon. I stared at that screen and couldn't find it. Then I saw where it was.",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 19:33:09 GMT",
+                                    "tweetId": "1517949719108018177",
+                                    "urltweet": "https://twitter.com/davewiner/status/1517949719108018177",
+                                    "inReplyToId": "1517949263891816448",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@ashevat For those following at home, here's a screen shot. <a href=\"https://t.co/86zwSWpPMf\">[link]</a>",
+                                            "rawText": "@ashevat For those following at home, here's a screen shot. https://t.co/86zwSWpPMf",
+                                            "type": "tweet",
+                                            "created": "Sat, 23 Apr 2022 19:34:37 GMT",
+                                            "tweetId": "1517950086629707779",
+                                            "urltweet": "https://twitter.com/davewiner/status/1517950086629707779",
+                                            "inReplyToId": "1517949719108018177",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@ashevat true, and in the spirit of easier user interfaces, there are places in the twitter ui where this rule is broken. boldly. let me know if you want to know where. ;-)",
+                                    "rawText": "@ashevat true, and in the spirit of easier user interfaces, there are places in the twitter ui where this rule is broken. boldly. let me know if you want to know where. ;-)",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Apr 2022 19:29:16 GMT",
+                                    "tweetId": "1517948742120448002",
+                                    "urltweet": "https://twitter.com/davewiner/status/1517948742120448002",
+                                    "inReplyToId": "1517906805271187456",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I was trying to think of which SNL star Sarah Sherman is most like, and I think it's Gilda Radner. <a href=\"https://t.co/GX5h8JSEHI\">[link]</a>",
                                     "rawText": "I was trying to think of which SNL star Sarah Sherman is most like, and I think it's Gilda Radner. https://t.co/GX5h8JSEHI",
