@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "Surfy tweets",
+            "dateCreated": "Tue, 25 Jan 2022 19:17:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 24 Apr 2022 03:21:34 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@davewiner @scener",
+                                    "rawText": "@davewiner @scener",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 03:21:24 GMT",
+                                    "tweetId": "1518067558494064640",
+                                    "urltweet": "https://twitter.com/Surfy/status/1518067558494064640",
+                                    "inReplyToId": "1518044581232787458",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
