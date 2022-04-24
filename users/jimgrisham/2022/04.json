@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Apr 2022 02:03:59 GMT"
+            "dateModified": "Sun, 24 Apr 2022 15:33:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@CrankyThegn @Noahpinion And modern semi-automated artillery such as the CAESAR appear to be able to load and fire a round in as little as 9-10 sec.\n\nThat’s 6 / min per gun; with 5 guns you could reach 30+ 155mm shells / minute!\n\nTargeting delays probably result in slower real-world rates of fire.",
+                                    "rawText": "@CrankyThegn @Noahpinion And modern semi-automated artillery such as the CAESAR appear to be able to load and fire a round in as little as 9-10 sec.\n\nThat’s 6 / min per gun; with 5 guns you could reach 30+ 155mm shells / minute!\n\nTargeting delays probably result in slower real-world rates of fire.",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 15:29:51 GMT",
+                                    "tweetId": "1518250878070923265",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1518250878070923265",
+                                    "inReplyToId": "1518232112192757760",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
