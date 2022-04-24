@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 12:49:52 GMT"
+            "dateModified": "Sun, 24 Apr 2022 14:22:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@AmmonCheskin @threadreaderapp unroll",
+                                    "rawText": "@AmmonCheskin @threadreaderapp unroll",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 14:17:30 GMT",
+                                    "tweetId": "1518232668336529409",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1518232668336529409",
+                                    "inReplyToId": "1517925715970347010",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
