@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Apr 2022 03:05:33 GMT"
+            "dateModified": "Sun, 24 Apr 2022 16:47:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/uCAdytL6v2\">[link]</a>",
+                                    "rawText": "https://t.co/uCAdytL6v2",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 16:35:48 GMT",
+                                    "tweetId": "1518267474730536963",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1518267474730536963",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
