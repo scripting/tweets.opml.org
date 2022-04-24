@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Apr 2022 05:55:14 GMT"
+            "dateModified": "Sun, 24 Apr 2022 13:16:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "Some interesting questions here.  <a href=\"https://t.co/TtiaEyLBcj\">[link]</a>",
+                                    "rawText": "Some interesting questions here.  https://t.co/TtiaEyLBcj",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 13:14:13 GMT",
+                                    "tweetId": "1518216742316744705",
+                                    "urltweet": "https://twitter.com/yudel/status/1518216742316744705",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@AlonPinkas Doesn’t get more beautiful than Jackie O, so I guess you’re right.",
                                     "rawText": "@AlonPinkas Doesn’t get more beautiful than Jackie O, so I guess you’re right.",
