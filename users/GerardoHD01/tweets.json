@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 17:05:38 GMT"
+            "dateModified": "Sun, 24 Apr 2022 05:58:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@EddieRohe Foto o no pasó 😗",
+                                    "rawText": "@EddieRohe Foto o no pasó 😗",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 05:51:05 GMT",
+                                    "tweetId": "1518105225818738689",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1518105225818738689",
+                                    "inReplyToId": "1518006998574452737",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
