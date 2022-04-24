@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 10:58:29 GMT"
+            "dateModified": "Sun, 24 Apr 2022 07:12:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "♫ My Top 4 #lastfm artists: Ryley Walker (8), The Utopia Strong (6), Arcade Fire (2) &amp; Kevin Morby (2) #lastfm via @tweeklyfm",
+                                    "rawText": "♫ My Top 4 #lastfm artists: Ryley Walker (8), The Utopia Strong (6), Arcade Fire (2) &amp; Kevin Morby (2) #lastfm via @tweeklyfm",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 07:00:21 GMT",
+                                    "tweetId": "1518122658398806016",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1518122658398806016",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
