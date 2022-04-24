@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 21:39:26 GMT"
+            "dateModified": "Sun, 24 Apr 2022 08:04:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@randileeharper it's a banger, tho",
+                                    "rawText": "@randileeharper it's a banger, tho",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 07:56:36 GMT",
+                                    "tweetId": "1518136813134794752",
+                                    "urltweet": "https://twitter.com/chiguire/status/1518136813134794752",
+                                    "inReplyToId": "1518132890567020544",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
