@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Apr 2022 01:20:41 GMT"
+            "dateModified": "Sun, 24 Apr 2022 16:28:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "I just sent the free, weekly About Chromebooks newsletter out for a Sunday afternoon read. Want in on this every weekend? Just click the link to see the latest issue and sign up! <a href=\"https://t.co/PuYaioz4S7\">[link]</a>",
+                                    "rawText": "I just sent the free, weekly About Chromebooks newsletter out for a Sunday afternoon read. Want in on this every weekend? Just click the link to see the latest issue and sign up! https://t.co/PuYaioz4S7",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 16:20:26 GMT",
+                                    "tweetId": "1518263605124337666",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1518263605124337666",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
