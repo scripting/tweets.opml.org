@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Apr 2022 14:39:03 GMT"
+            "dateModified": "Sun, 24 Apr 2022 15:03:35 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,15 @@
                             "name": "24",
                             "subs": [
                                 {
+                                    "text": "Pretty sure I do not fully appreciate what's going on here. I think it has something to do with creating an art NFT? <a href=\"https://t.co/ocs9xzpnMh\">[link]</a>",
+                                    "rawText": "Pretty sure I do not fully appreciate what's going on here. I think it has something to do with creating an art NFT? https://t.co/ocs9xzpnMh",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 15:02:21 GMT",
+                                    "tweetId": "1518243954675773440",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1518243954675773440",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
                                     "text": "@OctorDawes @brainsturbator Imply lovely. Thanks for sharing it.",
                                     "rawText": "@OctorDawes @brainsturbator Imply lovely. Thanks for sharing it.",
                                     "type": "tweet",
@@ -28,7 +37,19 @@
                                     "tweetId": "1518237116278263810",
                                     "urltweet": "https://twitter.com/RonKJeffries/status/1518237116278263810",
                                     "inReplyToId": "1517973549616537601",
-                                    "tweetUserName": "RonKJeffries"
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "@OctorDawes @brainsturbator One hopes your brain fills in the missing \"S\" Oh my...",
+                                            "rawText": "@OctorDawes @brainsturbator One hopes your brain fills in the missing \"S\" Oh my...",
+                                            "type": "tweet",
+                                            "created": "Sun, 24 Apr 2022 14:52:12 GMT",
+                                            "tweetId": "1518241403360272384",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1518241403360272384",
+                                            "inReplyToId": "1518237116278263810",
+                                            "tweetUserName": "RonKJeffries"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@thunknotes @kmelve @tconfrey @Mappletons @ABraintool @logseq Please understand, I have NO standing, this is, at best, a half-baked opinion. Binary formats are efficient, and with good viewing tools are easy to read/use.",
