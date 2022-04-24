@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Apr 2022 17:15:13 GMT"
+            "dateModified": "Sun, 24 Apr 2022 17:27:29 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 24 Apr 2022 17:14:50 GMT",
                                     "tweetId": "1518277295722713088",
                                     "urltweet": "https://twitter.com/_cprecioso/status/1518277295722713088",
-                                    "tweetUserName": "_cprecioso"
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "como dices tu",
+                                            "rawText": "como dices tu",
+                                            "type": "tweet",
+                                            "created": "Sun, 24 Apr 2022 17:16:53 GMT",
+                                            "tweetId": "1518277812951699458",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1518277812951699458",
+                                            "inReplyToId": "1518277295722713088",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
                                 }
                             ]
                         },
