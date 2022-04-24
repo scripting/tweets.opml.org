@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 16:31:21 GMT"
+            "dateModified": "Sun, 24 Apr 2022 17:15:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "por cerda y por falsa amore",
+                                    "rawText": "por cerda y por falsa amore",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Apr 2022 17:14:50 GMT",
+                                    "tweetId": "1518277295722713088",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1518277295722713088",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
