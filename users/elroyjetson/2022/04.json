@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/elroyjetson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Apr 2022 22:28:45 GMT"
+            "dateModified": "Mon, 25 Apr 2022 19:38:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@bryanrieger @Twitter I have been using Mastodon for a while now.  Other than suffering from a lack of momentum, it is as good as if not better than Twitter feature-wise and, presumably, more robust since it is distributed. You can run your own instance or join one that belongs to someone else.",
+                                    "rawText": "@bryanrieger @Twitter I have been using Mastodon for a while now.  Other than suffering from a lack of momentum, it is as good as if not better than Twitter feature-wise and, presumably, more robust since it is distributed. You can run your own instance or join one that belongs to someone else.",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 19:36:41 GMT",
+                                    "tweetId": "1518675381590577153",
+                                    "urltweet": "https://twitter.com/elroyjetson/status/1518675381590577153",
+                                    "inReplyToId": "1518667083235659777",
+                                    "tweetUserName": "elroyjetson"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 23",
                             "type": "calendarDay",
