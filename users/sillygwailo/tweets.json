@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 16:43:15 GMT"
+            "dateModified": "Mon, 25 Apr 2022 19:10:25 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "I’ll see you over at Mastodon. <a href=\"https://t.co/A8ToqGOE0W\">[link]</a>",
+                                    "rawText": "I’ll see you over at Mastodon. https://t.co/A8ToqGOE0W",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 19:09:20 GMT",
+                                    "tweetId": "1518668500717420544",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1518668500717420544",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@nsylianteng Unordered list if they’re not instructions (with the most important point at the top), numbered list if it’s instructions. Sometimes, every now and then, a numbered list if I think the reader will use that as a reference for responding to my points, but that’s pretty rare.",
                                     "rawText": "@nsylianteng Unordered list if they’re not instructions (with the most important point at the top), numbered list if it’s instructions. Sometimes, every now and then, a numbered list if I think the reader will use that as a reference for responding to my points, but that’s pretty rare.",
