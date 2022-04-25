@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 14:10:35 GMT"
+            "dateModified": "Mon, 25 Apr 2022 14:22:51 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,33 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "RSS is a two-way protocol. \n\n1. It's great if your app supports outbound RSS\n\n2. Even better to support inbound RSS, esp if your software acts as an aggregator or distributor. \n\nSubstack is a great example of an app I wish supported inbound RSS.",
+                                    "rawText": "RSS is a two-way protocol. \n\n1. It's great if your app supports outbound RSS\n\n2. Even better to support inbound RSS, esp if your software acts as an aggregator or distributor. \n\nSubstack is a great example of an app I wish supported inbound RSS.",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 14:16:06 GMT",
+                                    "tweetId": "1518594704207761409",
+                                    "urltweet": "https://twitter.com/davewiner/status/1518594704207761409",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "The Extreme Bias Of Florida’s New Congressional Map. <a href=\"https://t.co/j09eFJ6D6p\">[link]</a>",
+                                    "rawText": "The Extreme Bias Of Florida’s New Congressional Map. https://t.co/j09eFJ6D6p",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 14:13:35 GMT",
+                                    "tweetId": "1518594073828933632",
+                                    "urltweet": "https://twitter.com/davewiner/status/1518594073828933632",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Will you delete your account if Musk buys Twitter?",
+                                    "rawText": "Will you delete your account if Musk buys Twitter?",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 14:12:32 GMT",
+                                    "tweetId": "1518593809537548288",
+                                    "urltweet": "https://twitter.com/davewiner/status/1518593809537548288",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@compascafe everyone's a critic.",
                                     "rawText": "@compascafe everyone's a critic.",
