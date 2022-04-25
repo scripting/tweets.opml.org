@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 19:17:11 GMT"
+            "dateModified": "Mon, 25 Apr 2022 19:29:26 GMT"
         },
         "body": {
             "subs": [
@@ -91,7 +91,31 @@
                                             "tweetId": "1518670367056969734",
                                             "urltweet": "https://twitter.com/davewiner/status/1518670367056969734",
                                             "inReplyToId": "1518666782608867329",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "When we look back on this event in say 5 years, will we think good or bad thoughts.",
+                                                    "rawText": "When we look back on this event in say 5 years, will we think good or bad thoughts.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 25 Apr 2022 19:17:35 GMT",
+                                                    "tweetId": "1518670575555821571",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1518670575555821571",
+                                                    "inReplyToId": "1518670367056969734",
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "How long before Musk is in Moscow offering Putin a quick 80 million followers, in return for.. ?",
+                                                            "rawText": "How long before Musk is in Moscow offering Putin a quick 80 million followers, in return for.. ?",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 25 Apr 2022 19:18:03 GMT",
+                                                            "tweetId": "1518670695156305921",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1518670695156305921",
+                                                            "inReplyToId": "1518670575555821571",
+                                                            "tweetUserName": "davewiner"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
