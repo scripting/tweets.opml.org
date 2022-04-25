@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 03:22:53 GMT"
+            "dateModified": "Mon, 25 Apr 2022 04:24:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@ShammaBoyarin The Hertz Chumash was full of them. Sadly, it was also full of ethical admonitions, so had to be replaced following the election of Ronald Reagan.",
+                                    "rawText": "@ShammaBoyarin The Hertz Chumash was full of them. Sadly, it was also full of ethical admonitions, so had to be replaced following the election of Ronald Reagan.",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 04:16:55 GMT",
+                                    "tweetId": "1518443914696474624",
+                                    "urltweet": "https://twitter.com/yudel/status/1518443914696474624",
+                                    "inReplyToId": "1518420815217233920",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@DrZackaryBerger He says what people with money want to hear. Always a sure path to success.",
+                                    "rawText": "@DrZackaryBerger He says what people with money want to hear. Always a sure path to success.",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 04:14:42 GMT",
+                                    "tweetId": "1518443358875750400",
+                                    "urltweet": "https://twitter.com/yudel/status/1518443358875750400",
+                                    "inReplyToId": "1518426626308001792",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 24",
                             "type": "calendarDay",
