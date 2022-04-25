@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 13:33:48 GMT"
+            "dateModified": "Mon, 25 Apr 2022 13:46:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "@NickEllis Everyone's going to say that, and no one's going to do it. ;-)",
+                                    "rawText": "@NickEllis Everyone's going to say that, and no one's going to do it. ;-)",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 13:41:41 GMT",
+                                    "tweetId": "1518586045797142528",
+                                    "urltweet": "https://twitter.com/davewiner/status/1518586045797142528",
+                                    "inReplyToId": "1518582553657102338",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@tchambers @joinmastodon Let me know when they support RSS.",
                                     "rawText": "@tchambers @joinmastodon Let me know when they support RSS.",
