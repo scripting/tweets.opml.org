@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Apr 2022 07:12:34 GMT"
+            "dateModified": "Mon, 25 Apr 2022 22:51:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@morrick <a href=\"https://t.co/o2WJeEnNum\">[link]</a> is ... similar vibe!",
+                                    "rawText": "@morrick https://t.co/o2WJeEnNum is ... similar vibe!",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 22:40:19 GMT",
+                                    "tweetId": "1518721595149279232",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1518721595149279232",
+                                    "inReplyToId": "1518674728294273024",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 24",
                             "type": "calendarDay",
