@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 16:52:31 GMT"
+            "dateModified": "Mon, 25 Apr 2022 18:30:37 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "unless you are PRO member, your counter social link wont work. so people have to search for you.\n#CounterSocial for example, my link\n<a href=\"https://t.co/oiDXcKN9UT\">[link]</a>",
+                                    "rawText": "unless you are PRO member, your counter social link wont work. so people have to search for you.\n#CounterSocial for example, my link\nhttps://t.co/oiDXcKN9UT",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 18:27:00 GMT",
+                                    "tweetId": "1518657845713117185",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1518657845713117185",
+                                    "tweetUserName": "moosebegab"
+                                },
                                 {
                                     "text": "I set up twitter to mastodon crossposting via \n@masto_poster tool.",
                                     "rawText": "I set up twitter to mastodon crossposting via \n@masto_poster tool.",
