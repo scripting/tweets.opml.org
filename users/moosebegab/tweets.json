@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 14:49:53 GMT"
+            "dateModified": "Mon, 25 Apr 2022 15:02:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "@MsLCWebs thanks. i followed you. : )",
+                                    "rawText": "@MsLCWebs thanks. i followed you. : )",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 14:56:39 GMT",
+                                    "tweetId": "1518604908433489923",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1518604908433489923",
+                                    "inReplyToId": "1518599801377632258",
+                                    "tweetUserName": "moosebegab"
+                                },
+                                {
+                                    "text": "\"Hi! <a href=\"https://t.co/pEOlL2z5h0\">[link]</a> is being slow right now, as far as I can tell because there's twice as many people using it at the same time as ever have; 1/2",
+                                    "rawText": "\"Hi! https://t.co/pEOlL2z5h0 is being slow right now, as far as I can tell because there's twice as many people using it at the same time as ever have; 1/2",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 14:52:48 GMT",
+                                    "tweetId": "1518603940794884097",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1518603940794884097",
+                                    "tweetUserName": "moosebegab",
+                                    "subs": [
+                                        {
+                                            "text": "I'm working on making it go fast again, but in the meantime, do remember to invite people to <a href=\"https://t.co/rU5qmPgtiT\">[link]</a> instead of directly to mastodon social. People don't have to be on the same server to follow you! Thanks!\" @ gargron on ms 2/2\n#Mastodon",
+                                            "rawText": "I'm working on making it go fast again, but in the meantime, do remember to invite people to https://t.co/rU5qmPgtiT instead of directly to mastodon social. People don't have to be on the same server to follow you! Thanks!\" @ gargron on ms 2/2\n#Mastodon",
+                                            "type": "tweet",
+                                            "created": "Mon, 25 Apr 2022 14:52:48 GMT",
+                                            "tweetId": "1518603942220939264",
+                                            "urltweet": "https://twitter.com/moosebegab/status/1518603942220939264",
+                                            "inReplyToId": "1518603940794884097",
+                                            "tweetUserName": "moosebegab"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@sandyshores27 ((hugs))",
                                     "rawText": "@sandyshores27 ((hugs))",
