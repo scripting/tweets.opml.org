@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 14:25:21 GMT"
+            "dateModified": "Mon, 25 Apr 2022 14:37:37 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "havent been active (because.. twitter) but im moosebegab on mastodon and mewe. id love to find my tweeps over there.",
+                                    "rawText": "havent been active (because.. twitter) but im moosebegab on mastodon and mewe. id love to find my tweeps over there.",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 14:28:23 GMT",
+                                    "tweetId": "1518597797582417921",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1518597797582417921",
+                                    "tweetUserName": "moosebegab",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/Cf9vfpKPSR\">[link]</a>",
+                                            "rawText": "https://t.co/Cf9vfpKPSR",
+                                            "type": "tweet",
+                                            "created": "Mon, 25 Apr 2022 14:28:24 GMT",
+                                            "tweetId": "1518597798769344514",
+                                            "urltweet": "https://twitter.com/moosebegab/status/1518597798769344514",
+                                            "inReplyToId": "1518597797582417921",
+                                            "tweetUserName": "moosebegab",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/ynMkN5U0L8\">[link]</a>",
+                                                    "rawText": "https://t.co/ynMkN5U0L8",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 25 Apr 2022 14:28:24 GMT",
+                                                    "tweetId": "1518597799935361026",
+                                                    "urltweet": "https://twitter.com/moosebegab/status/1518597799935361026",
+                                                    "inReplyToId": "1518597798769344514",
+                                                    "tweetUserName": "moosebegab"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@ZachsMind <a href=\"https://t.co/fywWxfXpjn\">[link]</a> , https://t.co/ynMkN5U0L8",
                                     "rawText": "@ZachsMind https://t.co/fywWxfXpjn , https://t.co/ynMkN5U0L8",
