@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 01:48:02 GMT"
+            "dateModified": "Mon, 25 Apr 2022 13:27:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "I’ll see you over at Mastodon. <a href=\"https://t.co/xl68zwxXB6\">[link]</a>",
+                                    "rawText": "I’ll see you over at Mastodon. https://t.co/xl68zwxXB6",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 13:20:57 GMT",
+                                    "tweetId": "1518580828279910401",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1518580828279910401",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 24",
                             "type": "calendarDay",
