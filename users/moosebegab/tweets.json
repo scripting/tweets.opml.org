@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 15:51:12 GMT"
+            "dateModified": "Mon, 25 Apr 2022 16:40:15 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "I set up twitter to mastodon crossposting via @masto_poster tool.",
+                                    "rawText": "I set up twitter to mastodon crossposting via @masto_poster tool.",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 16:38:02 GMT",
+                                    "tweetId": "1518630422741237762",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1518630422741237762",
+                                    "tweetUserName": "moosebegab"
+                                },
                                 {
                                     "text": "@Quiara @meep_matsushima not finding you on mastodon : (",
                                     "rawText": "@Quiara @meep_matsushima not finding you on mastodon : (",
