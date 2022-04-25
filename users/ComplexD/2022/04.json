@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ComplexD/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Apr 2022 10:52:18 GMT"
+            "dateModified": "Mon, 25 Apr 2022 13:02:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "[Newsletter] Five Great Reads on Cyber, Data, and Legal Discovery for April 2022 - Read the complete newsletter at <a href=\"https://t.co/Fv2lBGwVhN\">[link]</a>. #eDiscovery #Cybersecurity #InformationGovernance https://t.co/Sg9nwsylev",
+                                    "rawText": "[Newsletter] Five Great Reads on Cyber, Data, and Legal Discovery for April 2022 - Read the complete newsletter at https://t.co/Fv2lBGwVhN. #eDiscovery #Cybersecurity #InformationGovernance https://t.co/Sg9nwsylev",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Apr 2022 12:58:03 GMT",
+                                    "tweetId": "1518575064781926400",
+                                    "urltweet": "https://twitter.com/ComplexD/status/1518575064781926400",
+                                    "tweetUserName": "ComplexD"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 24",
                             "type": "calendarDay",
