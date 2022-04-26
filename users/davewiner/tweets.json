@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 23:59:13 GMT"
+            "dateModified": "Tue, 26 Apr 2022 08:58:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@HardKnicksLife There aren’t any Nets fans.",
+                                    "rawText": "@HardKnicksLife There aren’t any Nets fans.",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 08:51:04 GMT",
+                                    "tweetId": "1518875296694521856",
+                                    "urltweet": "https://twitter.com/davewiner/status/1518875296694521856",
+                                    "inReplyToId": "1518765132498841603",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
