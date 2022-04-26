@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 22:51:39 GMT"
+            "dateModified": "Tue, 26 Apr 2022 16:50:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Poem of the week: Welcome to Donetsk by Anastasia Taylor-Lind\n\n<a href=\"https://t.co/B5NJphr259\">[link]</a>",
+                                    "rawText": "Poem of the week: Welcome to Donetsk by Anastasia Taylor-Lind\n\nhttps://t.co/B5NJphr259",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 16:43:28 GMT",
+                                    "tweetId": "1518994179342446594",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1518994179342446594",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
