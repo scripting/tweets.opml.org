@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 20:19:29 GMT"
+            "dateModified": "Tue, 26 Apr 2022 16:21:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "In Hamburg for a social event for the first time in over 2 years <a href=\"https://t.co/N05FkVE9uv\">[link]</a>",
+                                    "rawText": "In Hamburg for a social event for the first time in over 2 years https://t.co/N05FkVE9uv",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 16:19:05 GMT",
+                                    "tweetId": "1518988041288929280",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1518988041288929280",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
