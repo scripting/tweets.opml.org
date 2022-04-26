@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 21:09:02 GMT"
+            "dateModified": "Tue, 26 Apr 2022 09:24:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@contentmeisje Het medium is zo sociaal als haar gebruiker ;-)",
+                                    "rawText": "@contentmeisje Het medium is zo sociaal als haar gebruiker ;-)",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 09:21:29 GMT",
+                                    "tweetId": "1518882950607163392",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1518882950607163392",
+                                    "inReplyToId": "1518810788236079106",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
