@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 00:40:16 GMT"
+            "dateModified": "Tue, 26 Apr 2022 13:45:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "It's not just about individual choice, when your choice impacts others: <a href=\"https://t.co/ffzQCj2HLY\">[link]</a>",
+                                    "rawText": "It's not just about individual choice, when your choice impacts others: https://t.co/ffzQCj2HLY",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 13:35:54 GMT",
+                                    "tweetId": "1518946974963159041",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1518946974963159041",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
