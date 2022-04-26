@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 23:17:26 GMT"
+            "dateModified": "Tue, 26 Apr 2022 16:52:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@jjsaldana I get you. <a href=\"https://t.co/gipeM7rCK6\">[link]</a>",
+                                    "rawText": "@jjsaldana I get you. https://t.co/gipeM7rCK6",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 16:47:42 GMT",
+                                    "tweetId": "1518995242942222337",
+                                    "urltweet": "https://twitter.com/mal/status/1518995242942222337",
+                                    "inReplyToId": "1518971050658213888",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
