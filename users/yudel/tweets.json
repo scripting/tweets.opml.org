@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 20:45:16 GMT"
+            "dateModified": "Tue, 26 Apr 2022 05:32:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@joshtpm One thing I’ve seen little talk about is how Twitter is just so *bad* for small advertisers compared to FB. I can’t say any of my FB ad spending delivered. But it was easy to spend the money. Twitter, much less so.",
+                                    "rawText": "@joshtpm One thing I’ve seen little talk about is how Twitter is just so *bad* for small advertisers compared to FB. I can’t say any of my FB ad spending delivered. But it was easy to spend the money. Twitter, much less so.",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 05:25:03 GMT",
+                                    "tweetId": "1518823451427065856",
+                                    "urltweet": "https://twitter.com/yudel/status/1518823451427065856",
+                                    "inReplyToId": "1518746908331814922",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
