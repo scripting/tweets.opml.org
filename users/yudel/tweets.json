@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 21:16:51 GMT"
+            "dateModified": "Tue, 26 Apr 2022 22:30:26 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "Important life advice that I just forwarded to my kids. <a href=\"https://t.co/bRwLmYxO4V\">[link]</a>",
+                                    "rawText": "Important life advice that I just forwarded to my kids. https://t.co/bRwLmYxO4V",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 22:19:00 GMT",
+                                    "tweetId": "1519078620328861696",
+                                    "urltweet": "https://twitter.com/yudel/status/1519078620328861696",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Don’t allege a crime if you can’t do the time, as it were.",
+                                            "rawText": "Don’t allege a crime if you can’t do the time, as it were.",
+                                            "type": "tweet",
+                                            "created": "Tue, 26 Apr 2022 22:19:30 GMT",
+                                            "tweetId": "1519078743150628864",
+                                            "urltweet": "https://twitter.com/yudel/status/1519078743150628864",
+                                            "inReplyToId": "1519078620328861696",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@BerryFLW @Sandwichman_eh @froomkin If a significant minority of advertisers and readers support that perspective, you can bet the Times will both sides it. Cf their recent piece on crypto.",
                                     "rawText": "@BerryFLW @Sandwichman_eh @froomkin If a significant minority of advertisers and readers support that perspective, you can bet the Times will both sides it. Cf their recent piece on crypto.",
