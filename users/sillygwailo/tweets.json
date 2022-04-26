@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 03:57:44 GMT"
+            "dateModified": "Tue, 26 Apr 2022 20:43:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "I really enjoyed my train ride across the Golden Gate Bridge when I was in San Francisco a few years back. It was a highlight of my trip. <a href=\"https://t.co/J4AMCS7Lnt\">[link]</a>",
+                                    "rawText": "I really enjoyed my train ride across the Golden Gate Bridge when I was in San Francisco a few years back. It was a highlight of my trip. https://t.co/J4AMCS7Lnt",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 20:34:17 GMT",
+                                    "tweetId": "1519052266279522305",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1519052266279522305",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
