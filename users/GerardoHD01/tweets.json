@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 03:50:25 GMT"
+            "dateModified": "Tue, 26 Apr 2022 00:04:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@arandy_26 Perfecta la segunda foto 🤩",
+                                    "rawText": "@arandy_26 Perfecta la segunda foto 🤩",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 00:01:30 GMT",
+                                    "tweetId": "1518742027080540160",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1518742027080540160",
+                                    "inReplyToId": "1518717100155670528",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 24",
                             "type": "calendarDay",
