@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 23:49:28 GMT"
+            "dateModified": "Tue, 26 Apr 2022 16:59:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "HA! 😆 <a href=\"https://t.co/23UEdEHPno\">[link]</a>",
+                                    "rawText": "HA! 😆 https://t.co/23UEdEHPno",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 16:58:39 GMT",
+                                    "tweetId": "1518998001674604544",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1518998001674604544",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
