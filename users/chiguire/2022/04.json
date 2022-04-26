@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 07:42:13 GMT"
+            "dateModified": "Tue, 26 Apr 2022 09:44:51 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@mariannedh Pronto <a href=\"https://t.co/o3evXBKgEE\">[link]</a>",
+                                    "rawText": "@mariannedh Pronto https://t.co/o3evXBKgEE",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 09:34:55 GMT",
+                                    "tweetId": "1518886329043595264",
+                                    "urltweet": "https://twitter.com/chiguire/status/1518886329043595264",
+                                    "inReplyToId": "1518729068006490116",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Intenté entrar a mi cuenta de Mastodon (incluso antes de confirmarse la noticia) y tardaba un minuto en cargar. Suerte usando eso.",
                                     "rawText": "Intenté entrar a mi cuenta de Mastodon (incluso antes de confirmarse la noticia) y tardaba un minuto en cargar. Suerte usando eso.",
