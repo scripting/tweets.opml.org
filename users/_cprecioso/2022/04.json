@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 22:16:37 GMT"
+            "dateModified": "Tue, 26 Apr 2022 09:43:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/aDs5jt2Ej8\">[link]</a>",
+                                    "rawText": "https://t.co/aDs5jt2Ej8",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 09:32:20 GMT",
+                                    "tweetId": "1518885682898481152",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1518885682898481152",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
