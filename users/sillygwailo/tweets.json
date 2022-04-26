@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 01:18:18 GMT"
+            "dateModified": "Tue, 26 Apr 2022 01:30:34 GMT"
         },
         "body": {
             "subs": [
@@ -77,7 +77,19 @@
                                                                             "tweetId": "1518761157414330368",
                                                                             "urltweet": "https://twitter.com/sillygwailo/status/1518761157414330368",
                                                                             "inReplyToId": "1518760188601421825",
-                                                                            "tweetUserName": "sillygwailo"
+                                                                            "tweetUserName": "sillygwailo",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "Blue Jays win! <a href=\"https://t.co/1y6a900mJI\">[link]</a>",
+                                                                                    "rawText": "Blue Jays win! https://t.co/1y6a900mJI",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Tue, 26 Apr 2022 01:28:54 GMT",
+                                                                                    "tweetId": "1518764021813555200",
+                                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1518764021813555200",
+                                                                                    "inReplyToId": "1518761157414330368",
+                                                                                    "tweetUserName": "sillygwailo"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     ]
                                                                 }
