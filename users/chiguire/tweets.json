@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 20:52:16 GMT"
+            "dateModified": "Tue, 26 Apr 2022 07:42:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Intenté entrar a mi cuenta de Mastodon (incluso antes de confirmarse la noticia) y tardaba un minuto en cargar. Suerte usando eso.",
+                                    "rawText": "Intenté entrar a mi cuenta de Mastodon (incluso antes de confirmarse la noticia) y tardaba un minuto en cargar. Suerte usando eso.",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 07:41:46 GMT",
+                                    "tweetId": "1518857854299652096",
+                                    "urltweet": "https://twitter.com/chiguire/status/1518857854299652096",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
