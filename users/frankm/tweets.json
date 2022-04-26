@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Apr 2022 14:01:50 GMT"
+            "dateModified": "Tue, 26 Apr 2022 17:37:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Some server components of the Scripting News hosting infrastructure are down, for example my Old School blog is not reachable. Browser shows an error message saying the server refused connection. Watching attempt to access with the browser console ... <a href=\"https://t.co/8Q6fyAdhff\">[link]</a>",
+                                    "rawText": "Some server components of the Scripting News hosting infrastructure are down, for example my Old School blog is not reachable. Browser shows an error message saying the server refused connection. Watching attempt to access with the browser console ... https://t.co/8Q6fyAdhff",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Apr 2022 17:25:49 GMT",
+                                    "tweetId": "1519004838083842048",
+                                    "urltweet": "https://twitter.com/frankm/status/1519004838083842048",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 25",
                             "type": "calendarDay",
