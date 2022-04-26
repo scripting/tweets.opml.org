@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 22:40:27 GMT"
+            "dateModified": "Tue, 26 Apr 2022 22:52:43 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,19 @@
                                                             "tweetId": "1519082707116072961",
                                                             "urltweet": "https://twitter.com/davewiner/status/1519082707116072961",
                                                             "inReplyToId": "1519082116289601536",
-                                                            "tweetUserName": "davewiner"
+                                                            "tweetUserName": "davewiner",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "BTW, here's the Bezos tweet.\n\n<a href=\"https://t.co/CRdB3Eqny8\">[link]</a>",
+                                                                    "rawText": "BTW, here's the Bezos tweet.\n\nhttps://t.co/CRdB3Eqny8",
+                                                                    "type": "tweet",
+                                                                    "created": "Tue, 26 Apr 2022 22:44:28 GMT",
+                                                                    "tweetId": "1519085026821894144",
+                                                                    "urltweet": "https://twitter.com/davewiner/status/1519085026821894144",
+                                                                    "inReplyToId": "1519082707116072961",
+                                                                    "tweetUserName": "davewiner"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
