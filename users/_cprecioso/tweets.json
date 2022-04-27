@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 18:42:56 GMT"
+            "dateModified": "Wed, 27 Apr 2022 10:51:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "No se para que hacen mas intros de series, la intro perfecta ya está hecha y es la de “Kuzco: un emperador en el cole”",
+                                    "rawText": "No se para que hacen mas intros de series, la intro perfecta ya está hecha y es la de “Kuzco: un emperador en el cole”",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 10:47:13 GMT",
+                                    "tweetId": "1519266915629387777",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1519266915629387777",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "For reference <a href=\"https://t.co/tMJCFKF0bA\">[link]</a>",
+                                            "rawText": "For reference https://t.co/tMJCFKF0bA",
+                                            "type": "tweet",
+                                            "created": "Wed, 27 Apr 2022 10:47:14 GMT",
+                                            "tweetId": "1519266918372454400",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1519266918372454400",
+                                            "inReplyToId": "1519266915629387777",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "April 26",
                             "type": "calendarDay",
