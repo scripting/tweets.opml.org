@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 16:50:49 GMT"
+            "dateModified": "Wed, 27 Apr 2022 05:55:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Best so far 😊\n\nI solved today's Redactle (#20) in 14 guesses with an accuracy of 85.71%. Played at <a href=\"https://t.co/SFRnPxWIsO\">[link]</a>",
+                                    "rawText": "Best so far 😊\n\nI solved today's Redactle (#20) in 14 guesses with an accuracy of 85.71%. Played at https://t.co/SFRnPxWIsO",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 05:54:33 GMT",
+                                    "tweetId": "1519193262539563012",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1519193262539563012",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 26",
                             "type": "calendarDay",
