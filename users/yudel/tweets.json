@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 03:12:30 GMT"
+            "dateModified": "Wed, 27 Apr 2022 03:24:46 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "Evergreen tweet <a href=\"https://t.co/wJSwkaaVZr\">[link]</a>",
+                                    "rawText": "Evergreen tweet https://t.co/wJSwkaaVZr",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 03:21:02 GMT",
+                                    "tweetId": "1519154628990021632",
+                                    "urltweet": "https://twitter.com/yudel/status/1519154628990021632",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@ShammaBoyarin Says who?",
+                                    "rawText": "@ShammaBoyarin Says who?",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 03:20:20 GMT",
+                                    "tweetId": "1519154453022228481",
+                                    "urltweet": "https://twitter.com/yudel/status/1519154453022228481",
+                                    "inReplyToId": "1519146624471105537",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@joshtpm @markets If you want to laugh at crypto on a regular basis, add <a href=\"https://t.co/9gDaI4An9s\">[link]</a> to your RSS feeder.",
                                     "rawText": "@joshtpm @markets If you want to laugh at crypto on a regular basis, add https://t.co/9gDaI4An9s to your RSS feeder.",
