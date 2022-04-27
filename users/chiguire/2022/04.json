@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 23:14:14 GMT"
+            "dateModified": "Wed, 27 Apr 2022 07:37:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@MsDOSClub <a href=\"https://t.co/AIDTYeiMul\">[link]</a>",
+                                    "rawText": "@MsDOSClub https://t.co/AIDTYeiMul",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 07:28:32 GMT",
+                                    "tweetId": "1519216914299559937",
+                                    "urltweet": "https://twitter.com/chiguire/status/1519216914299559937",
+                                    "inReplyToId": "1519214269228892162",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 26",
                             "type": "calendarDay",
