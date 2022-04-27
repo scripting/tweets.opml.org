@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 12:46:37 GMT"
+            "dateModified": "Wed, 27 Apr 2022 12:58:52 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "The lost thread. <a href=\"https://t.co/zq7YMLVvVm\">[link]</a>",
+                                    "rawText": "The lost thread. https://t.co/zq7YMLVvVm",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 12:56:05 GMT",
+                                    "tweetId": "1519299344826085378",
+                                    "urltweet": "https://twitter.com/davewiner/status/1519299344826085378",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@mterenzio @jeffjarvis you mean it wasn't just elites who were crushed by #metoo? if so, yes. and no they weren't all guilty. we should have a process, justice shouldn't be dispensed by mobs.",
+                                    "rawText": "@mterenzio @jeffjarvis you mean it wasn't just elites who were crushed by #metoo? if so, yes. and no they weren't all guilty. we should have a process, justice shouldn't be dispensed by mobs.",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 12:49:48 GMT",
+                                    "tweetId": "1519297763195895809",
+                                    "urltweet": "https://twitter.com/davewiner/status/1519297763195895809",
+                                    "inReplyToId": "1519294945726709762",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "It would be kind of interesting to add a feature to Twitter where it automatically adds a bit to the beginning of every tweet. Something like:\n\n1. You're right...\n\n2. I agree...\n\n3. Good point...\n\nI try to do that myself, manually.",
                                     "rawText": "It would be kind of interesting to add a feature to Twitter where it automatically adds a bit to the beginning of every tweet. Something like:\n\n1. You're right...\n\n2. I agree...\n\n3. Good point...\n\nI try to do that myself, manually.",
