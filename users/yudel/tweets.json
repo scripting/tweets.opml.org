@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 03:37:01 GMT"
+            "dateModified": "Wed, 27 Apr 2022 04:13:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@datadivajf Oy! Refuah shleimah!",
+                                    "rawText": "@datadivajf Oy! Refuah shleimah!",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 04:12:21 GMT",
+                                    "tweetId": "1519167543923068928",
+                                    "urltweet": "https://twitter.com/yudel/status/1519167543923068928",
+                                    "inReplyToId": "1519166942736756736",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 26",
                             "type": "calendarDay",
