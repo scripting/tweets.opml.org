@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 00:57:51 GMT"
+            "dateModified": "Wed, 27 Apr 2022 14:27:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "i have a sore muscle in my throat.. weird. bad teeth so could be dental infection.",
+                                    "rawText": "i have a sore muscle in my throat.. weird. bad teeth so could be dental infection.",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 14:22:34 GMT",
+                                    "tweetId": "1519321107714789376",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1519321107714789376",
+                                    "tweetUserName": "moosebegab"
+                                },
+                                {
+                                    "text": "@RedTapeLass <a href=\"https://t.co/e0By6Eh9BM\">[link]</a>",
+                                    "rawText": "@RedTapeLass https://t.co/e0By6Eh9BM",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 14:15:11 GMT",
+                                    "tweetId": "1519319251470934018",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1519319251470934018",
+                                    "inReplyToId": "1519316914924785664",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 26",
                             "type": "calendarDay",
