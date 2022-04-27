@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 19:39:04 GMT"
+            "dateModified": "Wed, 27 Apr 2022 20:52:38 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "Es que quepo",
+                                    "rawText": "Es que quepo",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Apr 2022 20:42:57 GMT",
+                                    "tweetId": "1519416833497051142",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1519416833497051142",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "(En este pozo sin fondo de desdicha)",
+                                            "rawText": "(En este pozo sin fondo de desdicha)",
+                                            "type": "tweet",
+                                            "created": "Wed, 27 Apr 2022 20:42:57 GMT",
+                                            "tweetId": "1519416835829080065",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1519416835829080065",
+                                            "inReplyToId": "1519416833497051142",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "<a href=\"https://t.co/VqLgFlCXio\">[link]</a>",
                                     "rawText": "https://t.co/VqLgFlCXio",
