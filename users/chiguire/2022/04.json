@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 07:37:01 GMT"
+            "dateModified": "Wed, 27 Apr 2022 08:01:33 GMT"
         },
         "body": {
             "subs": [
@@ -128,7 +128,19 @@
                                     "created": "Mon, 25 Apr 2022 19:01:10 GMT",
                                     "tweetId": "1518666444518666243",
                                     "urltweet": "https://twitter.com/chiguire/status/1518666444518666243",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Doce años haciendo el mismo chiste <a href=\"https://t.co/LLGTltBS8V\">[link]</a>",
+                                            "rawText": "Doce años haciendo el mismo chiste https://t.co/LLGTltBS8V",
+                                            "type": "tweet",
+                                            "created": "Wed, 27 Apr 2022 08:00:36 GMT",
+                                            "tweetId": "1519224983905607680",
+                                            "urltweet": "https://twitter.com/chiguire/status/1519224983905607680",
+                                            "inReplyToId": "1518666444518666243",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@la_lucieole no quiero entender",
