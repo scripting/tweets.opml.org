@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 23:10:29 GMT"
+            "dateModified": "Wed, 27 Apr 2022 00:11:48 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                             "tweetId": "1519091180952293376",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1519091180952293376",
                                             "inReplyToId": "1519087235081121793",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "VAR is killing baseball.",
+                                                    "rawText": "VAR is killing baseball.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 27 Apr 2022 00:03:48 GMT",
+                                                    "tweetId": "1519104992728469506",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1519104992728469506",
+                                                    "inReplyToId": "1519091180952293376",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
