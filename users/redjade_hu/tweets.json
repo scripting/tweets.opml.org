@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 23:36:30 GMT"
+            "dateModified": "Thu, 28 Apr 2022 17:55:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@mtracey <a href=\"https://t.co/fVwdbWyGZi\">[link]</a>",
+                                    "rawText": "@mtracey https://t.co/fVwdbWyGZi",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Apr 2022 17:47:39 GMT",
+                                    "tweetId": "1519735106470088709",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1519735106470088709",
+                                    "inReplyToId": "1519710402518597633",
+                                    "tweetUserName": "redjade_hu"
+                                },
+                                {
+                                    "text": "@mtracey is there a link for this?",
+                                    "rawText": "@mtracey is there a link for this?",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Apr 2022 17:46:39 GMT",
+                                    "tweetId": "1519734856095342594",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1519734856095342594",
+                                    "inReplyToId": "1519710402518597633",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 26",
                             "type": "calendarDay",
