@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 02:21:30 GMT"
+            "dateModified": "Thu, 28 Apr 2022 02:33:46 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,19 @@
                                                             "tweetId": "1519499820964143104",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1519499820964143104",
                                                             "inReplyToId": "1519486995210424321",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Red Sox win. <a href=\"https://t.co/kJZtvdVhtH\">[link]</a>",
+                                                                    "rawText": "Red Sox win. https://t.co/kJZtvdVhtH",
+                                                                    "type": "tweet",
+                                                                    "created": "Thu, 28 Apr 2022 02:32:49 GMT",
+                                                                    "tweetId": "1519504883329740804",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1519504883329740804",
+                                                                    "inReplyToId": "1519499820964143104",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
