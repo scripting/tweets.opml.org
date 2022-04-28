@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 16:52:04 GMT"
+            "dateModified": "Thu, 28 Apr 2022 06:03:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@davewiner Slack was nice enough to donate a Pro account to the Clojure community as they have for some other open source projects. It's quite active and responsive. <a href=\"https://t.co/YZMeN83ibe\">[link]</a>",
+                                    "rawText": "@davewiner Slack was nice enough to donate a Pro account to the Clojure community as they have for some other open source projects. It's quite active and responsive. https://t.co/YZMeN83ibe",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Apr 2022 05:59:30 GMT",
+                                    "tweetId": "1519556894196584450",
+                                    "urltweet": "https://twitter.com/mal/status/1519556894196584450",
+                                    "inReplyToId": "1519300450520080384",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 26",
                             "type": "calendarDay",
