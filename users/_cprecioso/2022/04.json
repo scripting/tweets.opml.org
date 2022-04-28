@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 12:12:23 GMT"
+            "dateModified": "Thu, 28 Apr 2022 12:24:39 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 28 Apr 2022 12:10:27 GMT",
                                     "tweetId": "1519650248716660736",
                                     "urltweet": "https://twitter.com/_cprecioso/status/1519650248716660736",
-                                    "tweetUserName": "_cprecioso"
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "También te digo que 1.50€ la bromita de mandar una carta",
+                                            "rawText": "También te digo que 1.50€ la bromita de mandar una carta",
+                                            "type": "tweet",
+                                            "created": "Thu, 28 Apr 2022 12:15:47 GMT",
+                                            "tweetId": "1519651591632166912",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1519651591632166912",
+                                            "inReplyToId": "1519650248716660736",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@javiesser <a href=\"https://t.co/UOdmqlU6Yt\">[link]</a>",
