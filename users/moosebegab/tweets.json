@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 00:03:36 GMT"
+            "dateModified": "Thu, 28 Apr 2022 15:23:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@shadow_journey #iPad #art #ApplePencil <a href=\"https://t.co/A82DiSnGzH\">[link]</a>",
+                                    "rawText": "@shadow_journey #iPad #art #ApplePencil https://t.co/A82DiSnGzH",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Apr 2022 15:17:44 GMT",
+                                    "tweetId": "1519697380639129601",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1519697380639129601",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 27",
                             "type": "calendarDay",
