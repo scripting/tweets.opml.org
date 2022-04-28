@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 23:09:32 GMT"
+            "dateModified": "Thu, 28 Apr 2022 16:44:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "The Google Chrome OS Diagnostics app will soon let you test input devices and other peripherals. Here’s a first look in Chrome OS 102. <a href=\"https://t.co/ufWx2aBIWy\">[link]</a>",
+                                    "rawText": "The Google Chrome OS Diagnostics app will soon let you test input devices and other peripherals. Here’s a first look in Chrome OS 102. https://t.co/ufWx2aBIWy",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Apr 2022 16:43:06 GMT",
+                                    "tweetId": "1519718864543752193",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1519718864543752193",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 27",
                             "type": "calendarDay",
