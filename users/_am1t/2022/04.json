@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 16:52:23 GMT"
+            "dateModified": "Thu, 28 Apr 2022 10:27:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@ilikebeans I did register. But I want to move a different account to this one which fails as I am unable to create an alias. I understand  it’s an issue that only recently got fixed. <a href=\"https://t.co/zZFHoiaRqf\">[link]</a> An update would help.",
+                                    "rawText": "@ilikebeans I did register. But I want to move a different account to this one which fails as I am unable to create an alias. I understand  it’s an issue that only recently got fixed. https://t.co/zZFHoiaRqf An update would help.",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Apr 2022 10:20:01 GMT",
+                                    "tweetId": "1519622456839127040",
+                                    "urltweet": "https://twitter.com/_am1t/status/1519622456839127040",
+                                    "inReplyToId": "1518732154674552832",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 27",
                             "type": "calendarDay",
