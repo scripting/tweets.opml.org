@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 14:19:31 GMT"
+            "dateModified": "Thu, 28 Apr 2022 14:56:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "@ashur i don't understand the last part -- \"that doesn’t otherwise support the service\"",
+                                    "rawText": "@ashur i don't understand the last part -- \"that doesn’t otherwise support the service\"",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Apr 2022 14:47:39 GMT",
+                                    "tweetId": "1519689808431489030",
+                                    "urltweet": "https://twitter.com/davewiner/status/1519689808431489030",
+                                    "inReplyToId": "1519689289826816000",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Does anyone believe that with journalism as it is, we will be able to manage the climate crisis without huge lost of human life.",
                                     "rawText": "Does anyone believe that with journalism as it is, we will be able to manage the climate crisis without huge lost of human life.",
@@ -36,7 +46,19 @@
                                     "created": "Thu, 28 Apr 2022 13:39:26 GMT",
                                     "tweetId": "1519672640784551936",
                                     "urltweet": "https://twitter.com/davewiner/status/1519672640784551936",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "If you have questions or comments, this is the place..\n\n<a href=\"https://t.co/ExRBtff7mo\">[link]</a>",
+                                            "rawText": "If you have questions or comments, this is the place..\n\nhttps://t.co/ExRBtff7mo",
+                                            "type": "tweet",
+                                            "created": "Thu, 28 Apr 2022 14:44:39 GMT",
+                                            "tweetId": "1519689053708369922",
+                                            "urltweet": "https://twitter.com/davewiner/status/1519689053708369922",
+                                            "inReplyToId": "1519672640784551936",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@peterwil in the meantime you're playing with fire, if the repubs control the house that's it, our democracy is finished there won't be another election. \n\ni've heard it said there's no memory of fascism with most people in the US. my parents and grandparents taught me about it.",
