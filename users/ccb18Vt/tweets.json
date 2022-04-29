@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 20:19:55 GMT"
+            "dateModified": "Fri, 29 Apr 2022 14:19:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "This needs repeating every day through November. <a href=\"https://t.co/jdeRuqShCV\">[link]</a>",
+                                    "rawText": "This needs repeating every day through November. https://t.co/jdeRuqShCV",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 14:14:53 GMT",
+                                    "tweetId": "1520043948726755328",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1520043948726755328",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 28",
                             "type": "calendarDay",
