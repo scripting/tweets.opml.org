@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/rhoeffnagel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 05:43:43 GMT"
+            "dateModified": "Fri, 29 Apr 2022 05:01:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "VMware Cross-Cloud Services nu beschikbaar in Microsoft Azure Marketplace - <a href=\"https://t.co/Nw9muQoE4p\">[link]</a>\nVMware kondigt de beschikbaarheid aan van VMware Cross-Cloud services op Microsoft Azure Marketplace, een online winkel die applicaties en services biedt voor gebruik op Azure. ...",
+                                    "rawText": "VMware Cross-Cloud Services nu beschikbaar in Microsoft Azure Marketplace - https://t.co/Nw9muQoE4p\nVMware kondigt de beschikbaarheid aan van VMware Cross-Cloud services op Microsoft Azure Marketplace, een online winkel die applicaties en services biedt voor gebruik op Azure. ...",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 04:53:01 GMT",
+                                    "tweetId": "1519902552665595904",
+                                    "urltweet": "https://twitter.com/rhoeffnagel/status/1519902552665595904",
+                                    "tweetUserName": "rhoeffnagel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 28",
                             "type": "calendarDay",
