@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 21:11:58 GMT"
+            "dateModified": "Fri, 29 Apr 2022 08:26:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "manzana verde (una)",
+                                    "rawText": "manzana verde (una)",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 08:20:17 GMT",
+                                    "tweetId": "1519954712526835715",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1519954712526835715",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 28",
                             "type": "calendarDay",
