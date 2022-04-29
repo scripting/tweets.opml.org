@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Apr 2022 17:32:47 GMT"
+            "dateModified": "Fri, 29 Apr 2022 17:45:03 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "@AlSweigart One pain point I’m having today as I try to use the second edition’s code for automating Google Sheets and Gmail. Google seems to have revamped its authentication/token screens to make them look more like a user unfriendly enterprise product.",
+                                    "rawText": "@AlSweigart One pain point I’m having today as I try to use the second edition’s code for automating Google Sheets and Gmail. Google seems to have revamped its authentication/token screens to make them look more like a user unfriendly enterprise product.",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 17:37:09 GMT",
+                                    "tweetId": "1520094853140557828",
+                                    "urltweet": "https://twitter.com/yudel/status/1520094853140557828",
+                                    "inReplyToId": "1520093992095928320",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@cstross @Foone I do have “oops! That’s a mushroom cloud out my window!” dreams every now and then.",
                                     "rawText": "@cstross @Foone I do have “oops! That’s a mushroom cloud out my window!” dreams every now and then.",
