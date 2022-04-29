@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 23:49:08 GMT"
+            "dateModified": "Fri, 29 Apr 2022 16:34:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "It’s barely noon, and I’ve already run the dishwasher twice, if you know what I mean.",
+                                    "rawText": "It’s barely noon, and I’ve already run the dishwasher twice, if you know what I mean.",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 16:30:34 GMT",
+                                    "tweetId": "1520078095323127808",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1520078095323127808",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 28",
                             "type": "calendarDay",
