@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Apr 2022 00:13:24 GMT"
+            "dateModified": "Fri, 29 Apr 2022 16:46:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@tommmydg Es bondad 😉",
+                                    "rawText": "@tommmydg Es bondad 😉",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 16:44:00 GMT",
+                                    "tweetId": "1520081478062727170",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1520081478062727170",
+                                    "inReplyToId": "1520069277218312192",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 28",
                             "type": "calendarDay",
