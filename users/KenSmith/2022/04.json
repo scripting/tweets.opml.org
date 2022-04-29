@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Apr 2022 00:19:18 GMT"
+            "dateModified": "Fri, 29 Apr 2022 02:23:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "\"Indiana tops the list of states with the dirtiest waterways, with 24,395 total miles of rivers and streams considered impaired for swimming and recreation.\" <a href=\"https://t.co/wRwq7YLoWA\">[link]</a>",
+                                    "rawText": "\"Indiana tops the list of states with the dirtiest waterways, with 24,395 total miles of rivers and streams considered impaired for swimming and recreation.\" https://t.co/wRwq7YLoWA",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 02:14:11 GMT",
+                                    "tweetId": "1519862581204299777",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1519862581204299777",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 26",
                             "type": "calendarDay",
