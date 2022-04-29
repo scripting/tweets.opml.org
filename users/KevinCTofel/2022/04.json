@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Apr 2022 15:25:24 GMT"
+            "dateModified": "Fri, 29 Apr 2022 18:53:53 GMT"
         },
         "body": {
             "subs": [
@@ -45,7 +45,19 @@
                                     "created": "Fri, 29 Apr 2022 11:00:01 GMT",
                                     "tweetId": "1519994908861423616",
                                     "urltweet": "https://twitter.com/KevinCTofel/status/1519994908861423616",
-                                    "tweetUserName": "KevinCTofel"
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Couldn’t pass up the opportunity for a 40 miler after lunch. <a href=\"https://t.co/Qjb63GArG8\">[link]</a>",
+                                            "rawText": "Couldn’t pass up the opportunity for a 40 miler after lunch. https://t.co/Qjb63GArG8",
+                                            "type": "tweet",
+                                            "created": "Fri, 29 Apr 2022 18:48:06 GMT",
+                                            "tweetId": "1520112706778550272",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1520112706778550272",
+                                            "inReplyToId": "1519994908861423616",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "ICYMI: Google Chrome OS Diagnostics app gains some new tricks <a href=\"https://t.co/ufWx2aBIWy\">[link]</a> https://t.co/ad4VU8CDoj",
