@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Apr 2022 03:51:09 GMT"
+            "dateModified": "Fri, 29 Apr 2022 04:15:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@trekonomics @joshtpm I've got to agree with him. It has been hijacked by extremists -- extreme centrists!",
+                                    "rawText": "@trekonomics @joshtpm I've got to agree with him. It has been hijacked by extremists -- extreme centrists!",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 04:11:55 GMT",
+                                    "tweetId": "1519892206907232263",
+                                    "urltweet": "https://twitter.com/yudel/status/1519892206907232263",
+                                    "inReplyToId": "1519886005272080384",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 28",
                             "type": "calendarDay",
