@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Apr 2022 17:45:03 GMT"
+            "dateModified": "Fri, 29 Apr 2022 19:59:57 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "@SenatorLorettaW We continue to not ask the question of how anti masking and other pro-covid policies entered the discourse.",
+                                    "rawText": "@SenatorLorettaW We continue to not ask the question of how anti masking and other pro-covid policies entered the discourse.",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 19:56:51 GMT",
+                                    "tweetId": "1520130009704407041",
+                                    "urltweet": "https://twitter.com/yudel/status/1520130009704407041",
+                                    "inReplyToId": "1520096003512311811",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@SenatorLorettaW As I asked a year and a half ago: <a href=\"https://t.co/QgGeRcrMGG\">[link]</a>",
+                                            "rawText": "@SenatorLorettaW As I asked a year and a half ago: https://t.co/QgGeRcrMGG",
+                                            "type": "tweet",
+                                            "created": "Fri, 29 Apr 2022 19:57:54 GMT",
+                                            "tweetId": "1520130274130026496",
+                                            "urltweet": "https://twitter.com/yudel/status/1520130274130026496",
+                                            "inReplyToId": "1520130009704407041",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@AlSweigart One pain point I’m having today as I try to use the second edition’s code for automating Google Sheets and Gmail. Google seems to have revamped its authentication/token screens to make them look more like a user unfriendly enterprise product.",
                                     "rawText": "@AlSweigart One pain point I’m having today as I try to use the second edition’s code for automating Google Sheets and Gmail. Google seems to have revamped its authentication/token screens to make them look more like a user unfriendly enterprise product.",
