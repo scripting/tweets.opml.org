@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Apr 2022 23:03:50 GMT"
+            "dateModified": "Fri, 29 Apr 2022 09:29:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@aledominique_ 8 años después me sigue costando decir unfortunately",
+                                    "rawText": "@aledominique_ 8 años después me sigue costando decir unfortunately",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Apr 2022 09:22:36 GMT",
+                                    "tweetId": "1519970393678884864",
+                                    "urltweet": "https://twitter.com/chiguire/status/1519970393678884864",
+                                    "inReplyToId": "1519969343538438146",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 28",
                             "type": "calendarDay",
