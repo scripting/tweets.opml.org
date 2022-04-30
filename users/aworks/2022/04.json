@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 01:07:18 GMT"
+            "dateModified": "Sat, 30 Apr 2022 13:59:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/IP4MgwuBK3\">[link]</a> Stories via @vuzhmusic @TheHExperiment @ELHopkins",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/IP4MgwuBK3 Stories via @vuzhmusic @TheHExperiment @ELHopkins",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 13:47:49 GMT",
+                                    "tweetId": "1520399526749782017",
+                                    "urltweet": "https://twitter.com/aworks/status/1520399526749782017",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 29",
                             "type": "calendarDay",
