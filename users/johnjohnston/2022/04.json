@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 09:40:36 GMT"
+            "dateModified": "Sat, 30 Apr 2022 09:52:52 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "Saturday morning poetic links: <a href=\"https://t.co/zTXCzovBsQ\">[link]</a>",
+                                    "rawText": "Saturday morning poetic links: https://t.co/zTXCzovBsQ",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 09:46:57 GMT",
+                                    "tweetId": "1520338909217144832",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1520338909217144832",
+                                    "tweetUserName": "johnjohnston"
+                                },
                                 {
                                     "text": "Twitter Edits You\nTwitter is using its embedded javascript to edit other people‘s sites.\nThere seems to be a fix: GitHub – markjaquith/stabletweet. I wonder if someone will make a WordPress plug-in? <a href=\"https://t.co/DsBnR8USkd\">[link]</a>",
                                     "rawText": "Twitter Edits You\nTwitter is using its embedded javascript to edit other people‘s sites.\nThere seems to be a fix: GitHub – markjaquith/stabletweet. I wonder if someone will make a WordPress plug-in? https://t.co/DsBnR8USkd",
