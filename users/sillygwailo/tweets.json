@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 22:12:55 GMT"
+            "dateModified": "Sat, 30 Apr 2022 22:25:11 GMT"
         },
         "body": {
             "subs": [
@@ -682,7 +682,19 @@
                                     "created": "Sun, 24 Apr 2022 13:21:32 GMT",
                                     "tweetId": "1518218587068145666",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1518218587068145666",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Tomorrow: I run in the @torontomarathon 5k. #TorontoMarathon (May 1) <a href=\"https://t.co/Pa2FtiuM1X\">[link]</a>",
+                                            "rawText": "Tomorrow: I run in the @torontomarathon 5k. #TorontoMarathon (May 1) https://t.co/Pa2FtiuM1X",
+                                            "type": "tweet",
+                                            "created": "Sat, 30 Apr 2022 22:14:15 GMT",
+                                            "tweetId": "1520526974187233280",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1520526974187233280",
+                                            "inReplyToId": "1518218587068145666",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@AnakanaSchofiel From the clips of Succession I’ve seen, he plays basically the same character as on The Big Short. Which makes me want to watch Succession.",
