@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 01:31:19 GMT"
+            "dateModified": "Sat, 30 Apr 2022 14:23:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "ive been enjoying my #CounterSocial exp thus far. Had account for awhile but started interacting recently. Ppl are welcoming and reasonable.",
+                                    "rawText": "ive been enjoying my #CounterSocial exp thus far. Had account for awhile but started interacting recently. Ppl are welcoming and reasonable.",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 14:12:05 GMT",
+                                    "tweetId": "1520405634893725699",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1520405634893725699",
+                                    "tweetUserName": "moosebegab",
+                                    "subs": [
+                                        {
+                                            "text": "i know there's some controversy over @th3j35t3r past .. but he seems ok.",
+                                            "rawText": "i know there's some controversy over @th3j35t3r past .. but he seems ok.",
+                                            "type": "tweet",
+                                            "created": "Sat, 30 Apr 2022 14:12:06 GMT",
+                                            "tweetId": "1520405636055449600",
+                                            "urltweet": "https://twitter.com/moosebegab/status/1520405636055449600",
+                                            "inReplyToId": "1520405634893725699",
+                                            "tweetUserName": "moosebegab"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "April 29",
                             "type": "calendarDay",
