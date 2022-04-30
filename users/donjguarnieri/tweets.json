@@ -1,0 +1,48 @@
+{
+    "opml": {
+        "head": {
+            "title": "donjguarnieri tweets",
+            "dateCreated": "Mon, 24 Jan 2022 14:35:34 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/donjguarnieri/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sat, 30 Apr 2022 13:51:07 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "April 2022",
+                    "type": "calendarMonth",
+                    "name": "april2022",
+                    "subs": [
+                        {
+                            "text": "April 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Rotate this <a href=\"https://t.co/yl5sqewgMF\">[link]</a>",
+                                    "rawText": "Rotate this https://t.co/yl5sqewgMF",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 13:50:55 GMT",
+                                    "tweetId": "1520400305271328771",
+                                    "urltweet": "https://twitter.com/donjguarnieri/status/1520400305271328771",
+                                    "tweetUserName": "donjguarnieri"
+                                },
+                                {
+                                    "text": "Spikey <a href=\"https://t.co/2iiJPzp2Tb\">[link]</a>",
+                                    "rawText": "Spikey https://t.co/2iiJPzp2Tb",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 13:49:02 GMT",
+                                    "tweetId": "1520399834070626306",
+                                    "urltweet": "https://twitter.com/donjguarnieri/status/1520399834070626306",
+                                    "tweetUserName": "donjguarnieri"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
