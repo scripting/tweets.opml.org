@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 01:46:35 GMT"
+            "dateModified": "Sat, 30 Apr 2022 02:11:07 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,31 @@
                                             "tweetId": "1520195946012889091",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1520195946012889091",
                                             "inReplyToId": "1520177118541455360",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "My view from the cheap seats. <a href=\"https://t.co/sdt548MXbw\">[link]</a>",
+                                                    "rawText": "My view from the cheap seats. https://t.co/sdt548MXbw",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 30 Apr 2022 02:00:16 GMT",
+                                                    "tweetId": "1520221465118978048",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1520221465118978048",
+                                                    "inReplyToId": "1520195946012889091",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "I watch baseball games not because I want the terrifying truth, but rather to see the players sock a few dingers.",
+                                                            "rawText": "I watch baseball games not because I want the terrifying truth, but rather to see the players sock a few dingers.",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 30 Apr 2022 02:05:31 GMT",
+                                                            "tweetId": "1520222786375102464",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1520222786375102464",
+                                                            "inReplyToId": "1520221465118978048",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
