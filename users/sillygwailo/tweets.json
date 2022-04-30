@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 02:11:07 GMT"
+            "dateModified": "Sat, 30 Apr 2022 03:00:10 GMT"
         },
         "body": {
             "subs": [
@@ -67,7 +67,31 @@
                                                             "tweetId": "1520222786375102464",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1520222786375102464",
                                                             "inReplyToId": "1520221465118978048",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "PitchCom is a disaster.",
+                                                                    "rawText": "PitchCom is a disaster.",
+                                                                    "type": "tweet",
+                                                                    "created": "Sat, 30 Apr 2022 02:48:18 GMT",
+                                                                    "tweetId": "1520233555414364162",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1520233555414364162",
+                                                                    "inReplyToId": "1520222786375102464",
+                                                                    "tweetUserName": "sillygwailo",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "The Houston Cheaters win. <a href=\"https://t.co/u2zuJBCe62\">[link]</a>",
+                                                                            "rawText": "The Houston Cheaters win. https://t.co/u2zuJBCe62",
+                                                                            "type": "tweet",
+                                                                            "created": "Sat, 30 Apr 2022 02:51:33 GMT",
+                                                                            "tweetId": "1520234373358190592",
+                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1520234373358190592",
+                                                                            "inReplyToId": "1520233555414364162",
+                                                                            "tweetUserName": "sillygwailo"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
