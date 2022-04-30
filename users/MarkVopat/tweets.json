@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 03:11:11 GMT"
+            "dateModified": "Sat, 30 Apr 2022 14:13:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@davewiner Although I am just learning about it, isn’t what you are describing something like Mastodon (<a href=\"https://t.co/DEqfyBI4sT\">[link]</a>)?",
+                                    "rawText": "@davewiner Although I am just learning about it, isn’t what you are describing something like Mastodon (https://t.co/DEqfyBI4sT)?",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 14:08:21 GMT",
+                                    "tweetId": "1520404695650639874",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1520404695650639874",
+                                    "inReplyToId": "1520393821749760001",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 29",
                             "type": "calendarDay",
