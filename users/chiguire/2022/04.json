@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 07:45:59 GMT"
+            "dateModified": "Sat, 30 Apr 2022 12:03:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/gmaMmzNq6E\">[link]</a>",
+                                    "rawText": "https://t.co/gmaMmzNq6E",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 11:53:07 GMT",
+                                    "tweetId": "1520370660857585666",
+                                    "urltweet": "https://twitter.com/chiguire/status/1520370660857585666",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@ninarancel Salud 🥂",
                                     "rawText": "@ninarancel Salud 🥂",
