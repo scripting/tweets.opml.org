@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 01:28:49 GMT"
+            "dateModified": "Sat, 30 Apr 2022 02:05:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "Twitter is too big.",
+                                    "rawText": "Twitter is too big.",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 01:56:16 GMT",
+                                    "tweetId": "1520220459068968965",
+                                    "urltweet": "https://twitter.com/davewiner/status/1520220459068968965",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Jack Dorsey: ‘Nothing that is said now matters’. <a href=\"https://t.co/g1b13rZgXK\">[link]</a>",
                                     "rawText": "Jack Dorsey: ‘Nothing that is said now matters’. https://t.co/g1b13rZgXK",
