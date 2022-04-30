@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 19:21:14 GMT"
+            "dateModified": "Sat, 30 Apr 2022 19:58:01 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                             "tweetId": "1520482401838944256",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1520482401838944256",
                                             "inReplyToId": "1520475386710220800",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "George Springer is ridiculous.",
+                                                    "rawText": "George Springer is ridiculous.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 30 Apr 2022 19:53:13 GMT",
+                                                    "tweetId": "1520491483681468416",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1520491483681468416",
+                                                    "inReplyToId": "1520482401838944256",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
