@@ -6,230 +6,28 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 23 Mar 2022 15:25:25 GMT"
+            "dateModified": "Sat, 30 Apr 2022 06:34:24 GMT"
         },
         "body": {
             "subs": [
                 {
-                    "text": "March 2022",
+                    "text": "April 2022",
                     "type": "calendarMonth",
-                    "name": "march2022",
+                    "name": "april2022",
                     "subs": [
                         {
-                            "text": "March 23",
+                            "text": "April 30",
                             "type": "calendarDay",
-                            "name": "23",
+                            "name": "30",
                             "subs": [
                                 {
-                                    "text": "@carnets_jupyter Well, it’s gone, but not a big deal. However, Carnets (not plus) is still stuck in a web view. I can access python docs on the web, but the “back” button doesn’t do anything.",
-                                    "rawText": "@carnets_jupyter Well, it’s gone, but not a big deal. However, Carnets (not plus) is still stuck in a web view. I can access python docs on the web, but the “back” button doesn’t do anything.",
+                                    "text": "@alexxguss Hume’s problem of induction (An Enquiry Concerning Human Understanding).",
+                                    "rawText": "@alexxguss Hume’s problem of induction (An Enquiry Concerning Human Understanding).",
                                     "type": "tweet",
-                                    "created": "Wed, 23 Mar 2022 15:14:44 GMT",
-                                    "tweetId": "1506650660665757697",
-                                    "urltweet": "https://twitter.com/defjaf/status/1506650660665757697",
-                                    "inReplyToId": "1506614626968121345",
-                                    "tweetUserName": "defjaf"
-                                },
-                                {
-                                    "text": "@carnets_jupyter Ok, thanks. I can live with this relatively small loss… (or do you think it’s recoverable?) Does it default to “on my iPad”? I assume I can move it from there to iCloud within Files?",
-                                    "rawText": "@carnets_jupyter Ok, thanks. I can live with this relatively small loss… (or do you think it’s recoverable?) Does it default to “on my iPad”? I assume I can move it from there to iCloud within Files?",
-                                    "type": "tweet",
-                                    "created": "Wed, 23 Mar 2022 12:43:58 GMT",
-                                    "tweetId": "1506612718681444352",
-                                    "urltweet": "https://twitter.com/defjaf/status/1506612718681444352",
-                                    "inReplyToId": "1506611527566123023",
-                                    "tweetUserName": "defjaf"
-                                },
-                                {
-                                    "text": "@carnets_jupyter I think I started just pre-1.7.0 (yesterday!) but now on the latest. So not sure about permissions. (And not sure where it defaults to writing the files.) I am pretty sure it was written successfully but I could be wrong.",
-                                    "rawText": "@carnets_jupyter I think I started just pre-1.7.0 (yesterday!) but now on the latest. So not sure about permissions. (And not sure where it defaults to writing the files.) I am pretty sure it was written successfully but I could be wrong.",
-                                    "type": "tweet",
-                                    "created": "Wed, 23 Mar 2022 12:31:26 GMT",
-                                    "tweetId": "1506609564325761033",
-                                    "urltweet": "https://twitter.com/defjaf/status/1506609564325761033",
-                                    "inReplyToId": "1506609220237594625",
-                                    "tweetUserName": "defjaf"
-                                },
-                                {
-                                    "text": "@carnets_jupyter Having trouble with losing files in the recent release! I created a notebook (in Carnets Plus) which I now can’t find anywhere. (Related to what seems like a mismatch between accessing notebooks w/ the Files picker vs the text interface in the notebook itself?)",
-                                    "rawText": "@carnets_jupyter Having trouble with losing files in the recent release! I created a notebook (in Carnets Plus) which I now can’t find anywhere. (Related to what seems like a mismatch between accessing notebooks w/ the Files picker vs the text interface in the notebook itself?)",
-                                    "type": "tweet",
-                                    "created": "Wed, 23 Mar 2022 12:25:49 GMT",
-                                    "tweetId": "1506608153026301957",
-                                    "urltweet": "https://twitter.com/defjaf/status/1506608153026301957",
-                                    "tweetUserName": "defjaf",
-                                    "subs": [
-                                        {
-                                            "text": "Also (related?): 1. I seem to be stuck in a webview in Carnets (not plus). Can’t get back to a notebook or file picker. 2. Files shows that the Carnets/Carnets Plus folders “On My iPad” have  items in them but none show up.",
-                                            "rawText": "Also (related?): 1. I seem to be stuck in a webview in Carnets (not plus). Can’t get back to a notebook or file picker. 2. Files shows that the Carnets/Carnets Plus folders “On My iPad” have  items in them but none show up.",
-                                            "type": "tweet",
-                                            "created": "Wed, 23 Mar 2022 12:29:25 GMT",
-                                            "tweetId": "1506609057607602180",
-                                            "urltweet": "https://twitter.com/defjaf/status/1506609057607602180",
-                                            "inReplyToId": "1506608153026301957",
-                                            "tweetUserName": "defjaf"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 22",
-                            "type": "calendarDay",
-                            "name": "22",
-                            "subs": [
-                                {
-                                    "text": "@jgeach @davecl42 @DrEOChapman @jr_pritchard I think if we combine them all it’s the latex source for Dave’s PhD thesis in ASCII.",
-                                    "rawText": "@jgeach @davecl42 @DrEOChapman @jr_pritchard I think if we combine them all it’s the latex source for Dave’s PhD thesis in ASCII.",
-                                    "type": "tweet",
-                                    "created": "Tue, 22 Mar 2022 18:54:36 GMT",
-                                    "tweetId": "1506343605455237123",
-                                    "urltweet": "https://twitter.com/defjaf/status/1506343605455237123",
-                                    "inReplyToId": "1506341267793489920",
-                                    "tweetUserName": "defjaf"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 21",
-                            "type": "calendarDay",
-                            "name": "21",
-                            "subs": [
-                                {
-                                    "text": "@REasther Is it LaTeX?",
-                                    "rawText": "@REasther Is it LaTeX?",
-                                    "type": "tweet",
-                                    "created": "Mon, 21 Mar 2022 06:18:51 GMT",
-                                    "tweetId": "1505791027050913792",
-                                    "urltweet": "https://twitter.com/defjaf/status/1505791027050913792",
-                                    "inReplyToId": "1505489752317108225",
-                                    "tweetUserName": "defjaf"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 19",
-                            "type": "calendarDay",
-                            "name": "19",
-                            "subs": [
-                                {
-                                    "text": "@paperfishesband @paranoiacs @Fuzzel76 Hey @Fuzzel76 I second this recommendation!",
-                                    "rawText": "@paperfishesband @paranoiacs @Fuzzel76 Hey @Fuzzel76 I second this recommendation!",
-                                    "type": "tweet",
-                                    "created": "Sat, 19 Mar 2022 18:08:02 GMT",
-                                    "tweetId": "1505244724017479684",
-                                    "urltweet": "https://twitter.com/defjaf/status/1505244724017479684",
-                                    "inReplyToId": "1505149114736123907",
-                                    "tweetUserName": "defjaf"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 18",
-                            "type": "calendarDay",
-                            "name": "18",
-                            "subs": [
-                                {
-                                    "text": "I suddenly feel the urge to start making appropriate but not very pleasant comments about @Researchfish, a private company (not a person) contracted to collect reports for research grants funded by  UKRI (@UKRI_News).",
-                                    "rawText": "I suddenly feel the urge to start making appropriate but not very pleasant comments about @Researchfish, a private company (not a person) contracted to collect reports for research grants funded by  UKRI (@UKRI_News).",
-                                    "type": "tweet",
-                                    "created": "Fri, 18 Mar 2022 21:12:02 GMT",
-                                    "tweetId": "1504928637849591810",
-                                    "urltweet": "https://twitter.com/defjaf/status/1504928637849591810",
-                                    "tweetUserName": "defjaf"
-                                },
-                                {
-                                    "text": "@hotdogsladies Bongwater was really, really great.",
-                                    "rawText": "@hotdogsladies Bongwater was really, really great.",
-                                    "type": "tweet",
-                                    "created": "Fri, 18 Mar 2022 06:22:14 GMT",
-                                    "tweetId": "1504704712142209024",
-                                    "urltweet": "https://twitter.com/defjaf/status/1504704712142209024",
-                                    "inReplyToId": "1504704073735421952",
-                                    "tweetUserName": "defjaf"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 11",
-                            "type": "calendarDay",
-                            "name": "11",
-                            "subs": [
-                                {
-                                    "text": "@cosmonist “Never ascribe to malice that which is adequately explained by incompetence.”",
-                                    "rawText": "@cosmonist “Never ascribe to malice that which is adequately explained by incompetence.”",
-                                    "type": "tweet",
-                                    "created": "Fri, 11 Mar 2022 11:54:59 GMT",
-                                    "tweetId": "1502251736706265096",
-                                    "urltweet": "https://twitter.com/defjaf/status/1502251736706265096",
-                                    "inReplyToId": "1502230927497388035",
-                                    "tweetUserName": "defjaf"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 8",
-                            "type": "calendarDay",
-                            "name": "08",
-                            "subs": [
-                                {
-                                    "text": "@cosmo_bruce What does “doubles in size” mean? Area or length? \n\n(I assume I’m overthinking it and that’s not related to the problem with the “quick answer”.)",
-                                    "rawText": "@cosmo_bruce What does “doubles in size” mean? Area or length? \n\n(I assume I’m overthinking it and that’s not related to the problem with the “quick answer”.)",
-                                    "type": "tweet",
-                                    "created": "Tue, 08 Mar 2022 11:22:01 GMT",
-                                    "tweetId": "1501156278420267010",
-                                    "urltweet": "https://twitter.com/defjaf/status/1501156278420267010",
-                                    "inReplyToId": "1501145033226997763",
-                                    "tweetUserName": "defjaf"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 7",
-                            "type": "calendarDay",
-                            "name": "07",
-                            "subs": [
-                                {
-                                    "text": "@atpfm too late to be relevant, but: I sit in front of my computer behind my desk.",
-                                    "rawText": "@atpfm too late to be relevant, but: I sit in front of my computer behind my desk.",
-                                    "type": "tweet",
-                                    "created": "Mon, 07 Mar 2022 16:55:08 GMT",
-                                    "tweetId": "1500877722788245513",
-                                    "urltweet": "https://twitter.com/defjaf/status/1500877722788245513",
-                                    "tweetUserName": "defjaf"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 6",
-                            "type": "calendarDay",
-                            "name": "06",
-                            "subs": [
-                                {
-                                    "text": "@seanmcarroll @JenLucPiquant @JohnsHopkins Congratulations to both of you!",
-                                    "rawText": "@seanmcarroll @JenLucPiquant @JohnsHopkins Congratulations to both of you!",
-                                    "type": "tweet",
-                                    "created": "Sun, 06 Mar 2022 23:16:16 GMT",
-                                    "tweetId": "1500611249553424390",
-                                    "urltweet": "https://twitter.com/defjaf/status/1500611249553424390",
-                                    "inReplyToId": "1500576910853632000",
-                                    "tweetUserName": "defjaf"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "March 3",
-                            "type": "calendarDay",
-                            "name": "03",
-                            "subs": [
-                                {
-                                    "text": "@EricRWeinstein My grandmother was born in 1911 in Shepetivka, when it was part of the Russian empire. At a time of pogroms against the Jewish population, she fled to the US after WWI, following her father who had made it to New York before the war.",
-                                    "rawText": "@EricRWeinstein My grandmother was born in 1911 in Shepetivka, when it was part of the Russian empire. At a time of pogroms against the Jewish population, she fled to the US after WWI, following her father who had made it to New York before the war.",
-                                    "type": "tweet",
-                                    "created": "Thu, 03 Mar 2022 18:15:43 GMT",
-                                    "tweetId": "1499448451251195904",
-                                    "urltweet": "https://twitter.com/defjaf/status/1499448451251195904",
-                                    "inReplyToId": "1499062429371682817",
+                                    "created": "Sat, 30 Apr 2022 06:34:09 GMT",
+                                    "tweetId": "1520290389457969153",
+                                    "urltweet": "https://twitter.com/defjaf/status/1520290389457969153",
+                                    "inReplyToId": "1520161912729788416",
                                     "tweetUserName": "defjaf"
                                 }
                             ]
