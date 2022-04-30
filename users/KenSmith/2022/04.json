@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Apr 2022 12:49:14 GMT"
+            "dateModified": "Sat, 30 Apr 2022 11:30:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Teachers sound like they're witnessing a society suffering from psychological depression. <a href=\"https://t.co/4apPqYGa72\">[link]</a>",
+                                    "rawText": "Teachers sound like they're witnessing a society suffering from psychological depression. https://t.co/4apPqYGa72",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Apr 2022 11:29:22 GMT",
+                                    "tweetId": "1520364685161283584",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1520364685161283584",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "...which also sounds like a realistic response to the world around us.",
+                                            "rawText": "...which also sounds like a realistic response to the world around us.",
+                                            "type": "tweet",
+                                            "created": "Sat, 30 Apr 2022 11:30:19 GMT",
+                                            "tweetId": "1520364922995191809",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1520364922995191809",
+                                            "inReplyToId": "1520364685161283584",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "April 29",
                             "type": "calendarDay",
