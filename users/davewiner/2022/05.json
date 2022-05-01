@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 15:29:47 GMT"
+            "dateModified": "Sun, 01 May 2022 15:42:03 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@bvschroeder interesting. so you're saying that it's being transmitted correctly but the browser on the mac is mangling it?\n\ni'm using chrome.",
+                                    "rawText": "@bvschroeder interesting. so you're saying that it's being transmitted correctly but the browser on the mac is mangling it?\n\ni'm using chrome.",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 15:39:46 GMT",
+                                    "tweetId": "1520790086983589888",
+                                    "urltweet": "https://twitter.com/davewiner/status/1520790086983589888",
+                                    "inReplyToId": "1520789407997038593",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@jeremyzilar oh fuck you. :-)",
+                                    "rawText": "@jeremyzilar oh fuck you. :-)",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 15:34:52 GMT",
+                                    "tweetId": "1520788855439380483",
+                                    "urltweet": "https://twitter.com/davewiner/status/1520788855439380483",
+                                    "inReplyToId": "1520788692469788672",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@fxshaw my brain isn't working this morning. the fog is thick. ;-)",
                                     "rawText": "@fxshaw my brain isn't working this morning. the fog is thick. ;-)",
