@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "johnjohnston tweets",
+            "dateCreated": "Thu, 16 Dec 2021 20:50:27 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 01 May 2022 17:09:08 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "By the Finlas Reservoir this morning, lots of cuckoos calling.\n\n<a href=\"https://t.co/U54S31hBfv\">[link]</a> https://t.co/tP9jrOkkbR",
+                                    "rawText": "By the Finlas Reservoir this morning, lots of cuckoos calling.\n\nhttps://t.co/U54S31hBfv https://t.co/tP9jrOkkbR",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 16:58:21 GMT",
+                                    "tweetId": "1520809863940554754",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1520809863940554754",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
