@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "chiguire tweets",
+            "dateCreated": "Thu, 10 Feb 2022 23:35:37 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 01 May 2022 10:44:44 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Soy un viejo <a href=\"https://t.co/Q3qijnUgIE\">[link]</a> https://t.co/uyDjkyHPDL",
+                                    "rawText": "Soy un viejo https://t.co/Q3qijnUgIE https://t.co/uyDjkyHPDL",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 10:35:28 GMT",
+                                    "tweetId": "1520713509994213376",
+                                    "urltweet": "https://twitter.com/chiguire/status/1520713509994213376",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
