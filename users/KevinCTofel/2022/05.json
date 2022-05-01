@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 18:43:30 GMT"
+            "dateModified": "Sun, 01 May 2022 19:44:49 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 01 May 2022 18:32:50 GMT",
                                     "tweetId": "1520833640871116800",
                                     "urltweet": "https://twitter.com/KevinCTofel/status/1520833640871116800",
-                                    "tweetUserName": "KevinCTofel"
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Somebody pooped out and needed a tow. 🙄 <a href=\"https://t.co/P36O3zS8Dw\">[link]</a>",
+                                            "rawText": "Somebody pooped out and needed a tow. 🙄 https://t.co/P36O3zS8Dw",
+                                            "type": "tweet",
+                                            "created": "Sun, 01 May 2022 19:40:46 GMT",
+                                            "tweetId": "1520850739005960193",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1520850739005960193",
+                                            "inReplyToId": "1520833640871116800",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I just sent the free, weekly About Chromebooks newsletter to thousands of passionate Chromies. If you're one of those but not a subscriber, here's your golden ticket: <a href=\"https://t.co/CKagN9ehNV\">[link]</a>",
