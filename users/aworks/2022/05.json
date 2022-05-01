@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "aworks tweets",
+            "dateCreated": "Sun, 19 Dec 2021 16:49:19 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 01 May 2022 13:54:41 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/lQGE8KKGNT\">[link]</a> Stories via @BklsweetMedia @theoperacritic @Peter_Nocella",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/lQGE8KKGNT Stories via @BklsweetMedia @theoperacritic @Peter_Nocella",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 13:47:49 GMT",
+                                    "tweetId": "1520761913088610306",
+                                    "urltweet": "https://twitter.com/aworks/status/1520761913088610306",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
