@@ -6,11 +6,35 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/davewiner/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sun, 01 May 2022 15:42:03 GMT</dateModified>
+		<dateModified>Sun, 01 May 2022 15:54:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="May 2022" type="calendarMonth" name="may2022" >
 			<outline text="May 1" type="calendarDay" name="01" >
+				<outline text="@marshallk there are laws about this btw and they vary from state to state. my company was in calif, where the laws favor the employee." rawText="@marshallk there are laws about this btw and they vary from state to state. my company was in calif, where the laws favor the employee." type="tweet" created="Sun, 01 May 2022 15:54:12 GMT" tweetId="1520793719817056256" urltweet="https://twitter.com/davewiner/status/1520793719817056256" inReplyToId="1520792890494005250" tweetUserName="davewiner" />
+				<outline text="@marshallk hard to say. i had it happen twice. once with my vp-sales going to our chief competitor who was kicking our ass. it looked terrible, beyond whatever secrets he took with him." rawText="@marshallk hard to say. i had it happen twice. once with my vp-sales going to our chief competitor who was kicking our ass. it looked terrible, beyond whatever secrets he took with him." type="tweet" created="Sun, 01 May 2022 15:45:40 GMT" tweetId="1520791574329896960" urltweet="https://twitter.com/davewiner/status/1520791574329896960" inReplyToId="1520791202395607042" tweetUserName="davewiner" >
+					<outline text="@marshallk also had apple hire away a developer who i assigned to work on a project with apple. made it hard to trust them." rawText="@marshallk also had apple hire away a developer who i assigned to work on a project with apple. made it hard to trust them." type="tweet" created="Sun, 01 May 2022 15:45:49 GMT" tweetId="1520791610908463105" urltweet="https://twitter.com/davewiner/status/1520791610908463105" inReplyToId="1520791574329896960" tweetUserName="davewiner" />
+					</outline>
+				<outline text="@bvschroeder Here's another clue. 
+
+I pasted the text from the tweet into a new tweet here on twitter and it worked. 
+
+i tried the same on a different website with a standard text edit box in chrome and it was mangled.
+
+which strongly suggests it's a font issue. ;-)" rawText="@bvschroeder Here's another clue. 
+
+I pasted the text from the tweet into a new tweet here on twitter and it worked. 
+
+i tried the same on a different website with a standard text edit box in chrome and it was mangled.
+
+which strongly suggests it's a font issue. ;-)" type="tweet" created="Sun, 01 May 2022 15:44:15 GMT" tweetId="1520791215414947847" urltweet="https://twitter.com/davewiner/status/1520791215414947847" inReplyToId="1520790874719985664" tweetUserName="davewiner" >
+					<outline text="@bvschroeder From the CSS styles for the Wordle boxes.
+
+font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;" rawText="@bvschroeder From the CSS styles for the Wordle boxes.
+
+font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;" type="tweet" created="Sun, 01 May 2022 15:49:15 GMT" tweetId="1520792476231028737" urltweet="https://twitter.com/davewiner/status/1520792476231028737" inReplyToId="1520791215414947847" tweetUserName="davewiner" />
+					</outline>
+				<outline text="@marshallk Most people don't think so. Happens all the time." rawText="@marshallk Most people don't think so. Happens all the time." type="tweet" created="Sun, 01 May 2022 15:42:42 GMT" tweetId="1520790825453637638" urltweet="https://twitter.com/davewiner/status/1520790825453637638" inReplyToId="1520790395839336448" tweetUserName="davewiner" />
 				<outline text="@bvschroeder interesting. so you're saying that it's being transmitted correctly but the browser on the mac is mangling it?
 
 i'm using chrome." rawText="@bvschroeder interesting. so you're saying that it's being transmitted correctly but the browser on the mac is mangling it?
