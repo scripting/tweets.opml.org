@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 19:03:46 GMT"
+            "dateModified": "Sun, 01 May 2022 19:40:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "This afternoon. <a href=\"https://t.co/M6VYUQurI8\">[link]</a>",
+                                    "rawText": "This afternoon. https://t.co/M6VYUQurI8",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 19:39:31 GMT",
+                                    "tweetId": "1520850424756154371",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1520850424756154371",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "VAR is killing baseball.",
                                     "rawText": "VAR is killing baseball.",
