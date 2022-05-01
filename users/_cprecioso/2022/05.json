@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "_cprecioso tweets",
+            "dateCreated": "Wed, 23 Mar 2022 16:08:24 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 01 May 2022 11:07:45 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@NewTin Si soy más bueno que el pan 🥺",
+                                    "rawText": "@NewTin Si soy más bueno que el pan 🥺",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 11:04:52 GMT",
+                                    "tweetId": "1520720907299340288",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1520720907299340288",
+                                    "inReplyToId": "1520663359091269634",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
