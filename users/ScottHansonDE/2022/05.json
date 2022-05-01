@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "ScottHansonDE tweets",
+            "dateCreated": "Wed, 15 Dec 2021 17:44:06 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 01 May 2022 08:58:21 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "This hurts… <a href=\"https://t.co/UB41KjfUcn\">[link]</a>",
+                                    "rawText": "This hurts… https://t.co/UB41KjfUcn",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 08:53:32 GMT",
+                                    "tweetId": "1520687855701528583",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1520687855701528583",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
