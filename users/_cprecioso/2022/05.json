@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 19:42:49 GMT"
+            "dateModified": "Sun, 01 May 2022 19:55:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/ejVw5X9etT\">[link]</a>",
+                                    "rawText": "https://t.co/ejVw5X9etT",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 19:53:44 GMT",
+                                    "tweetId": "1520854001247563782",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1520854001247563782",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "Creo que a la perra de @rafagarces y @buenapava le gusto <a href=\"https://t.co/CFD8iiI6tG\">[link]</a>",
                                     "rawText": "Creo que a la perra de @rafagarces y @buenapava le gusto https://t.co/CFD8iiI6tG",
