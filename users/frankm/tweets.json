@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Apr 2022 22:52:54 GMT"
+            "dateModified": "Sun, 01 May 2022 01:02:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Striding down the Riverwalk wearing purple <a href=\"https://t.co/Z2oNSXuX6G\">[link]</a>",
+                                    "rawText": "Striding down the Riverwalk wearing purple https://t.co/Z2oNSXuX6G",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 00:59:48 GMT",
+                                    "tweetId": "1520568637157003264",
+                                    "urltweet": "https://twitter.com/frankm/status/1520568637157003264",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 29",
                             "type": "calendarDay",
