@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Apr 2022 03:45:58 GMT"
+            "dateModified": "Sun, 01 May 2022 01:01:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "april2022",
                     "subs": [
+                        {
+                            "text": "April 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Your occasional reminder that, contra the Stones, you don’t always get what you need. Though you do get what’s profitable. <a href=\"https://t.co/PS3nURIxc5\">[link]</a>",
+                                    "rawText": "Your occasional reminder that, contra the Stones, you don’t always get what you need. Though you do get what’s profitable. https://t.co/PS3nURIxc5",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 00:54:37 GMT",
+                                    "tweetId": "1520567332300546048",
+                                    "urltweet": "https://twitter.com/yudel/status/1520567332300546048",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@hannahgais @nytimes Hmmm. FYI @FoxmanAbraham",
+                                    "rawText": "@hannahgais @nytimes Hmmm. FYI @FoxmanAbraham",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 00:52:53 GMT",
+                                    "tweetId": "1520566895950372864",
+                                    "urltweet": "https://twitter.com/yudel/status/1520566895950372864",
+                                    "inReplyToId": "1520561444730847234",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "April 29",
                             "type": "calendarDay",
