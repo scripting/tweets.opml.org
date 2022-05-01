@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "frankmeeuwsen tweets",
+            "dateCreated": "Sat, 18 Dec 2021 16:25:34 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 01 May 2022 08:46:36 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Heerlijk! <a href=\"https://t.co/ghxUAzkek2\">[link]</a>",
+                                    "rawText": "Heerlijk! https://t.co/ghxUAzkek2",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 08:38:26 GMT",
+                                    "tweetId": "1520684057218240512",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1520684057218240512",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
