@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 15:17:31 GMT"
+            "dateModified": "Sun, 01 May 2022 15:29:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@fxshaw my brain isn't working this morning. the fog is thick. ;-)",
+                                    "rawText": "@fxshaw my brain isn't working this morning. the fog is thick. ;-)",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 15:26:05 GMT",
+                                    "tweetId": "1520786644542144513",
+                                    "urltweet": "https://twitter.com/davewiner/status/1520786644542144513",
+                                    "inReplyToId": "1520786303557595136",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Here's the result of getting a tweet containing a Wordle report, when retrieved via the Twitter API.\n\n<a href=\"https://t.co/gh2sPrnlZn\">[link]</a>\n\nNote that the text of the tweet appears to be mangled. \n\nTrying to figure out how to get this via the API... https://t.co/zyctBh1NM5",
+                                    "rawText": "Here's the result of getting a tweet containing a Wordle report, when retrieved via the Twitter API.\n\nhttps://t.co/gh2sPrnlZn\n\nNote that the text of the tweet appears to be mangled. \n\nTrying to figure out how to get this via the API... https://t.co/zyctBh1NM5",
+                                    "type": "tweet",
+                                    "created": "Sun, 01 May 2022 15:24:36 GMT",
+                                    "tweetId": "1520786270728990721",
+                                    "urltweet": "https://twitter.com/davewiner/status/1520786270728990721",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Wordle 316 5/6\n\n⬜⬜⬜⬜⬜\n⬜🟩⬜⬜⬜\n⬜⬜⬜🟨⬜\n⬜🟩🟩⬜⬜\n🟩🟩🟩🟩🟩",
                                     "rawText": "Wordle 316 5/6\n\n⬜⬜⬜⬜⬜\n⬜🟩⬜⬜⬜\n⬜⬜⬜🟨⬜\n⬜🟩🟩⬜⬜\n🟩🟩🟩🟩🟩",
