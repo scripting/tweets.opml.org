@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 17:07:53 GMT"
+            "dateModified": "Sun, 01 May 2022 17:20:09 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1520811864351035392",
                                     "urltweet": "https://twitter.com/davewiner/status/1520811864351035392",
                                     "inReplyToId": "1520804036575911936",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@bvschroeder when i test on 11.4, it works properly! ;-) <a href=\"https://t.co/R0bZcvgNRe\">[link]</a>",
+                                            "rawText": "@bvschroeder when i test on 11.4, it works properly! ;-) https://t.co/R0bZcvgNRe",
+                                            "type": "tweet",
+                                            "created": "Sun, 01 May 2022 17:09:31 GMT",
+                                            "tweetId": "1520812673235046400",
+                                            "urltweet": "https://twitter.com/davewiner/status/1520812673235046400",
+                                            "inReplyToId": "1520811864351035392",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@argonaut Yes. I feel that way too. But I have a surprisingly few number of people in that category. And there must be better ways to do that.",
