@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 12:06:49 GMT"
+            "dateModified": "Sun, 01 May 2022 18:26:59 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1520734429978759168",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1520734429978759168",
                                     "inReplyToId": "1520526974187233280",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Race report, @torontomarathon 5k: It was windy, but at least the route was flat. #TorontoMarathon <a href=\"https://t.co/cu8oC0B9mZ\">[link]</a>",
+                                            "rawText": "Race report, @torontomarathon 5k: It was windy, but at least the route was flat. #TorontoMarathon https://t.co/cu8oC0B9mZ",
+                                            "type": "tweet",
+                                            "created": "Sun, 01 May 2022 18:16:41 GMT",
+                                            "tweetId": "1520829575730806790",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1520829575730806790",
+                                            "inReplyToId": "1520734429978759168",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "So far, 2022 is flying by. <a href=\"https://t.co/WgVZJzFdyg\">[link]</a>",
