@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 20:31:52 GMT"
+            "dateModified": "Mon, 02 May 2022 06:32:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@HecBoi_ Esa es la letra del abecedario de hoy??",
+                                    "rawText": "@HecBoi_ Esa es la letra del abecedario de hoy??",
+                                    "type": "tweet",
+                                    "created": "Mon, 02 May 2022 06:25:59 GMT",
+                                    "tweetId": "1521013112576659456",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1521013112576659456",
+                                    "inReplyToId": "1521012722376323072",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@OscarOnt_ <a href=\"https://t.co/VBmFafAljD\">[link]</a>",
+                                    "rawText": "@OscarOnt_ https://t.co/VBmFafAljD",
+                                    "type": "tweet",
+                                    "created": "Mon, 02 May 2022 06:25:14 GMT",
+                                    "tweetId": "1521012922394234885",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1521012922394234885",
+                                    "inReplyToId": "1520909148841467904",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 1",
                             "type": "calendarDay",
