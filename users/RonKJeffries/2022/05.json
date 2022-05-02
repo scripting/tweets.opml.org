@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 15:53:04 GMT"
+            "dateModified": "Mon, 02 May 2022 14:09:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@nalband Jeff Bezos when he had hair? ;)",
+                                    "rawText": "@nalband Jeff Bezos when he had hair? ;)",
+                                    "type": "tweet",
+                                    "created": "Mon, 02 May 2022 14:02:15 GMT",
+                                    "tweetId": "1521127936262168576",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1521127936262168576",
+                                    "inReplyToId": "1521126601060233221",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@tdavidson I have the same problem. Google mail has a quirk: green@gmail.com is the same as red.green@gmail.com or yellow.green@gmail.com (the part before a period is ignored).  But that oddity doesn't explain many of the wrong emails I get.",
+                                    "rawText": "@tdavidson I have the same problem. Google mail has a quirk: green@gmail.com is the same as red.green@gmail.com or yellow.green@gmail.com (the part before a period is ignored).  But that oddity doesn't explain many of the wrong emails I get.",
+                                    "type": "tweet",
+                                    "created": "Mon, 02 May 2022 14:01:36 GMT",
+                                    "tweetId": "1521127769366679552",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1521127769366679552",
+                                    "inReplyToId": "1519677182615896066",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 1",
                             "type": "calendarDay",
