@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 13:54:41 GMT"
+            "dateModified": "Mon, 02 May 2022 13:49:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/NiNWFBIwRG\">[link]</a> Stories via @CincySymphony @fvguima @reaktorplayer",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/NiNWFBIwRG Stories via @CincySymphony @fvguima @reaktorplayer",
+                                    "type": "tweet",
+                                    "created": "Mon, 02 May 2022 13:47:48 GMT",
+                                    "tweetId": "1521124300199235585",
+                                    "urltweet": "https://twitter.com/aworks/status/1521124300199235585",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 1",
                             "type": "calendarDay",
