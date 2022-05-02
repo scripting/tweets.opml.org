@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 03:23:18 GMT"
+            "dateModified": "Mon, 02 May 2022 14:25:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "New Jersey rules! <a href=\"https://t.co/vT6St5vCDI\">[link]</a>",
+                                    "rawText": "New Jersey rules! https://t.co/vT6St5vCDI",
+                                    "type": "tweet",
+                                    "created": "Mon, 02 May 2022 14:23:29 GMT",
+                                    "tweetId": "1521133279751122944",
+                                    "urltweet": "https://twitter.com/yudel/status/1521133279751122944",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 1",
                             "type": "calendarDay",
