@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 19:44:49 GMT"
+            "dateModified": "Mon, 02 May 2022 07:11:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "In a different context, something like this might almost be funny. Instead, it’s truly sad. <a href=\"https://t.co/EwwvVsyo27\">[link]</a>",
+                                    "rawText": "In a different context, something like this might almost be funny. Instead, it’s truly sad. https://t.co/EwwvVsyo27",
+                                    "type": "tweet",
+                                    "created": "Mon, 02 May 2022 07:09:44 GMT",
+                                    "tweetId": "1521024122771419138",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1521024122771419138",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 1",
                             "type": "calendarDay",
