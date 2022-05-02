@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 07:02:32 GMT"
+            "dateModified": "Mon, 02 May 2022 07:14:48 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 02 May 2022 07:01:34 GMT",
                                     "tweetId": "1521022065653993475",
                                     "urltweet": "https://twitter.com/KenSmith/status/1521022065653993475",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "Poet Phillip Larkin wrote about one of the ways this works in life. I hear that in pubs in England many a person will recite this poem from memory, if you give them a chance.\n\n<a href=\"https://t.co/lxxGHfpzTl\">[link]</a>",
+                                            "rawText": "Poet Phillip Larkin wrote about one of the ways this works in life. I hear that in pubs in England many a person will recite this poem from memory, if you give them a chance.\n\nhttps://t.co/lxxGHfpzTl",
+                                            "type": "tweet",
+                                            "created": "Mon, 02 May 2022 07:04:32 GMT",
+                                            "tweetId": "1521022811942305792",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1521022811942305792",
+                                            "inReplyToId": "1521022065653993475",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 }
                             ]
                         },
