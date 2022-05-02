@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 14:25:32 GMT"
+            "dateModified": "Mon, 02 May 2022 15:51:22 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "02",
                             "subs": [
+                                {
+                                    "text": "Canadian astronauts no longer free to rob and kill with abandon in space or on the moon.  <a href=\"https://t.co/ZLwdYT0HMW\">[link]</a>",
+                                    "rawText": "Canadian astronauts no longer free to rob and kill with abandon in space or on the moon.  https://t.co/ZLwdYT0HMW",
+                                    "type": "tweet",
+                                    "created": "Mon, 02 May 2022 15:43:22 GMT",
+                                    "tweetId": "1521153381234003969",
+                                    "urltweet": "https://twitter.com/yudel/status/1521153381234003969",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@ZachWeiner FYI.",
+                                            "rawText": "@ZachWeiner FYI.",
+                                            "type": "tweet",
+                                            "created": "Mon, 02 May 2022 15:44:26 GMT",
+                                            "tweetId": "1521153648750911491",
+                                            "urltweet": "https://twitter.com/yudel/status/1521153648750911491",
+                                            "inReplyToId": "1521153381234003969",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "New Jersey rules! <a href=\"https://t.co/vT6St5vCDI\">[link]</a>",
                                     "rawText": "New Jersey rules! https://t.co/vT6St5vCDI",
