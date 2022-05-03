@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 02:35:04 GMT"
+            "dateModified": "Tue, 03 May 2022 18:35:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: WATCH LIVE: Democratic senators hold news briefing on leaked draft of Supreme Court abortion opinion <a href=\"https://t.co/C4U5UL7CnF\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: WATCH LIVE: Democratic senators hold news briefing on leaked draft of Supreme Court abortion opinion https://t.co/C4U5UL7CnF",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 18:28:25 GMT",
+                                    "tweetId": "1521557305870987265",
+                                    "urltweet": "https://twitter.com/oevl/status/1521557305870987265",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 2",
                             "type": "calendarDay",
