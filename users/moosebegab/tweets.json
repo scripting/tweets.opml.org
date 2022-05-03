@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 01:57:42 GMT"
+            "dateModified": "Tue, 03 May 2022 14:57:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "been spending more time on my #CounterSocial account. less \"poke the bear\" over there.",
+                                    "rawText": "been spending more time on my #CounterSocial account. less \"poke the bear\" over there.",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 14:50:25 GMT",
+                                    "tweetId": "1521502444680888322",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1521502444680888322",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 1",
                             "type": "calendarDay",
