@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 01 May 2022 07:00:44 GMT"
+            "dateModified": "Tue, 03 May 2022 16:53:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Published 1 more photos on my Flickr account: <a href=\"https://t.co/xHZ63C1Vvz\">[link]</a> 📷 🏷️ underworld, flickrfriday https://t.co/C1AmD08ljW",
+                                    "rawText": "Published 1 more photos on my Flickr account: https://t.co/xHZ63C1Vvz 📷 🏷️ underworld, flickrfriday https://t.co/C1AmD08ljW",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 16:44:41 GMT",
+                                    "tweetId": "1521531200749326337",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1521531200749326337",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 1",
                             "type": "calendarDay",
