@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 13:41:18 GMT"
+            "dateModified": "Tue, 03 May 2022 13:53:33 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1521484757456019457",
                                     "urltweet": "https://twitter.com/davewiner/status/1521484757456019457",
                                     "inReplyToId": "1521478127771291648",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@amyklobuchar This guy. <a href=\"https://t.co/QJdLuHSf6b\">[link]</a>",
+                                            "rawText": "@amyklobuchar This guy. https://t.co/QJdLuHSf6b",
+                                            "type": "tweet",
+                                            "created": "Tue, 03 May 2022 13:43:22 GMT",
+                                            "tweetId": "1521485569016090642",
+                                            "urltweet": "https://twitter.com/davewiner/status/1521485569016090642",
+                                            "inReplyToId": "1521484757456019457",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "\"Because of the leaked draft — a leak with no modern precedent at the court — any justice who switched sides would become notorious as the conservative who saved Roe.\"\n\n<a href=\"https://t.co/rdkz6Epv3J\">[link]</a>",
