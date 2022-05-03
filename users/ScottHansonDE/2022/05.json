@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 18:05:01 GMT"
+            "dateModified": "Tue, 03 May 2022 07:58:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@jrsofty I know the guy who invented OPML if you want to complain (not that he’ll listen) 😛",
+                                    "rawText": "@jrsofty I know the guy who invented OPML if you want to complain (not that he’ll listen) 😛",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 07:47:47 GMT",
+                                    "tweetId": "1521396085562003457",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1521396085562003457",
+                                    "inReplyToId": "1521197142987186177",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 2",
                             "type": "calendarDay",
