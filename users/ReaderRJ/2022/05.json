@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "ReaderRJ tweets",
+            "dateCreated": "Mon, 24 Jan 2022 15:37:34 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 03 May 2022 21:04:01 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/SB5v6qx9Xj\">[link]</a>",
+                                    "rawText": "https://t.co/SB5v6qx9Xj",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 20:51:40 GMT",
+                                    "tweetId": "1521593354345144322",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1521593354345144322",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
