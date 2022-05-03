@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 03:02:21 GMT"
+            "dateModified": "Tue, 03 May 2022 13:40:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@parismarx Those robes!!!",
+                                    "rawText": "@parismarx Those robes!!!",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 13:39:46 GMT",
+                                    "tweetId": "1521484664363532294",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1521484664363532294",
+                                    "inReplyToId": "1521481297415258112",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 2",
                             "type": "calendarDay",
