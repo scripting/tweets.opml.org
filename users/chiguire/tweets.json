@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 10:34:20 GMT"
+            "dateModified": "Tue, 03 May 2022 16:43:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@binauralfusion @studioZAUM Congrats!!",
+                                    "rawText": "@binauralfusion @studioZAUM Congrats!!",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 16:34:55 GMT",
+                                    "tweetId": "1521528744409808897",
+                                    "urltweet": "https://twitter.com/chiguire/status/1521528744409808897",
+                                    "inReplyToId": "1521522783330652162",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 2",
                             "type": "calendarDay",
