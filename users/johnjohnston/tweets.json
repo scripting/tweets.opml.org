@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 11:57:22 GMT"
+            "dateModified": "Tue, 03 May 2022 07:34:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "The application “<a href=\"https://t.co/NOVcWG9Gbq\">[link]</a>” is not open anymore.\nNot the most welcome of messages on arriving at school this morn. Especially when the app will not open. After trying the obvious, installed the new version. OneDrive processing 1000s of changes. Not what I need.",
+                                    "rawText": "The application “https://t.co/NOVcWG9Gbq” is not open anymore.\nNot the most welcome of messages on arriving at school this morn. Especially when the app will not open. After trying the obvious, installed the new version. OneDrive processing 1000s of changes. Not what I need.",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 07:32:44 GMT",
+                                    "tweetId": "1521392296108990465",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1521392296108990465",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 2",
                             "type": "calendarDay",
