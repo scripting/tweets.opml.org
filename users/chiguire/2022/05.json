@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 20:40:26 GMT"
+            "dateModified": "Tue, 03 May 2022 10:34:20 GMT"
         },
         "body": {
             "subs": [
@@ -122,7 +122,19 @@
                                     "tweetId": "1520750337203789826",
                                     "urltweet": "https://twitter.com/chiguire/status/1520750337203789826",
                                     "inReplyToId": "1520000510916542464",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "#Heardle #67\n\n🔇⬛️⬛️⬛️⬛️⬛️⬛️\n\n<a href=\"https://t.co/Z6l3YYHnYY\">[link]</a>",
+                                            "rawText": "#Heardle #67\n\n🔇⬛️⬛️⬛️⬛️⬛️⬛️\n\nhttps://t.co/Z6l3YYHnYY",
+                                            "type": "tweet",
+                                            "created": "Tue, 03 May 2022 10:33:46 GMT",
+                                            "tweetId": "1521437856610328577",
+                                            "urltweet": "https://twitter.com/chiguire/status/1521437856610328577",
+                                            "inReplyToId": "1520750337203789826",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Soy un viejo <a href=\"https://t.co/Q3qijnUgIE\">[link]</a> https://t.co/uyDjkyHPDL",
