@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 23:04:24 GMT"
+            "dateModified": "Tue, 03 May 2022 23:29:26 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "As I’ve told my kids, your source code may be open sourced some day, so code like you are dancing alone, but comment like the whole world is watching. \n\n<a href=\"https://t.co/zjxlyGiuSm\">[link]</a> https://t.co/uIHwuYNSt3",
+                                    "rawText": "As I’ve told my kids, your source code may be open sourced some day, so code like you are dancing alone, but comment like the whole world is watching. \n\nhttps://t.co/zjxlyGiuSm https://t.co/uIHwuYNSt3",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 23:22:59 GMT",
+                                    "tweetId": "1521631436352245762",
+                                    "urltweet": "https://twitter.com/yudel/status/1521631436352245762",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@jh_swanson @Shmarya As they, quite falsely, claim God had in mind when He founded this country.",
                                     "rawText": "@jh_swanson @Shmarya As they, quite falsely, claim God had in mind when He founded this country.",
@@ -96,7 +105,19 @@
                                             "tweetId": "1521610929598869504",
                                             "urltweet": "https://twitter.com/yudel/status/1521610929598869504",
                                             "inReplyToId": "1521610352512933889",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "Of whom one I could find #onhere. @TomDivon\nlooks like a very interesting follow.",
+                                                    "rawText": "Of whom one I could find #onhere. @TomDivon\nlooks like a very interesting follow.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 03 May 2022 23:18:12 GMT",
+                                                    "tweetId": "1521630229990543360",
+                                                    "urltweet": "https://twitter.com/yudel/status/1521630229990543360",
+                                                    "inReplyToId": "1521610929598869504",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
