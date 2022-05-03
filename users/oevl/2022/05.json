@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "oevl tweets",
+            "dateCreated": "Wed, 26 Jan 2022 20:26:12 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Tue, 03 May 2022 00:32:26 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Minicomputer Part 12: I Bought a What?! <a href=\"https://t.co/zbXkHQZzLh\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Minicomputer Part 12: I Bought a What?! https://t.co/zbXkHQZzLh",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 00:28:47 GMT",
+                                    "tweetId": "1521285606986457090",
+                                    "urltweet": "https://twitter.com/oevl/status/1521285606986457090",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
