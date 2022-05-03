@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 14:52:33 GMT"
+            "dateModified": "Tue, 03 May 2022 13:09:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Another important thread by DJRothkopf. <a href=\"https://t.co/l7XfQx9mMe\">[link]</a>",
+                                    "rawText": "Another important thread by DJRothkopf. https://t.co/l7XfQx9mMe",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 13:01:30 GMT",
+                                    "tweetId": "1521475034560315392",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1521475034560315392",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 2",
                             "type": "calendarDay",
