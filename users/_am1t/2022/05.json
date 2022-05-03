@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 02 May 2022 15:25:05 GMT"
+            "dateModified": "Tue, 03 May 2022 15:57:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Experimental picture with nature’s colors at night. I’m not too proud. But an experiment nonetheless. #mbmay <a href=\"https://t.co/pEa3SMtkgE\">[link]</a> https://t.co/WJShiZFozm",
+                                    "rawText": "Experimental picture with nature’s colors at night. I’m not too proud. But an experiment nonetheless. #mbmay https://t.co/pEa3SMtkgE https://t.co/WJShiZFozm",
+                                    "type": "tweet",
+                                    "created": "Tue, 03 May 2022 15:51:18 GMT",
+                                    "tweetId": "1521517765751980041",
+                                    "urltweet": "https://twitter.com/_am1t/status/1521517765751980041",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 2",
                             "type": "calendarDay",
