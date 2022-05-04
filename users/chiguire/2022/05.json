@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 22:20:40 GMT"
+            "dateModified": "Wed, 04 May 2022 23:10:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/NDU8xEwu0F\">[link]</a>",
+                                    "rawText": "https://t.co/NDU8xEwu0F",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 23:05:31 GMT",
+                                    "tweetId": "1521989426859106304",
+                                    "urltweet": "https://twitter.com/chiguire/status/1521989426859106304",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Is it synthwave or genuinely from the 80s?",
                                     "rawText": "Is it synthwave or genuinely from the 80s?",
