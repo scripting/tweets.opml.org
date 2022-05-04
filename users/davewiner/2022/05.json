@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 14:15:38 GMT"
+            "dateModified": "Wed, 04 May 2022 21:21:06 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "@wmf thanks. \n\ni haven't look at activitypub yet, are there any easy docs with some examples?\n\ni'm planning on sticking with RSS. It's still the most popular format out there.",
+                                    "rawText": "@wmf thanks. \n\ni haven't look at activitypub yet, are there any easy docs with some examples?\n\ni'm planning on sticking with RSS. It's still the most popular format out there.",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 21:20:19 GMT",
+                                    "tweetId": "1521962952601096196",
+                                    "urltweet": "https://twitter.com/davewiner/status/1521962952601096196",
+                                    "inReplyToId": "1521962291922616326",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@wmf what do you think?",
+                                    "rawText": "@wmf what do you think?",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 21:11:25 GMT",
+                                    "tweetId": "1521960713845157888",
+                                    "urltweet": "https://twitter.com/davewiner/status/1521960713845157888",
+                                    "inReplyToId": "1521953458370322436",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "It’s Time to Rage. <a href=\"https://t.co/IlStF7CHRE\">[link]</a>",
                                     "rawText": "It’s Time to Rage. https://t.co/IlStF7CHRE",
