@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 01:00:32 GMT"
+            "dateModified": "Wed, 04 May 2022 01:25:33 GMT"
         },
         "body": {
             "subs": [
@@ -36,7 +36,19 @@
                                     "created": "Tue, 03 May 2022 23:53:01 GMT",
                                     "tweetId": "1521638995003912193",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1521638995003912193",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "🎶 “With hearts on fire I reach out to you tonight!” 🎶",
+                                            "rawText": "🎶 “With hearts on fire I reach out to you tonight!” 🎶",
+                                            "type": "tweet",
+                                            "created": "Wed, 04 May 2022 01:14:02 GMT",
+                                            "tweetId": "1521659382014095365",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1521659382014095365",
+                                            "inReplyToId": "1521638995003912193",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@TwitterBlue I follow almost 500 people, but find that the Top Articles tab contains articles tweeted by only one person each. I realize that’s a reflection of who I follow, but could Top Articles pull from a Twitter List? I’d “follow” a lot more people that way just for their Top Articles.",
