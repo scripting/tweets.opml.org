@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 06:31:05 GMT"
+            "dateModified": "Wed, 04 May 2022 15:42:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,35 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@daringfireball In fact, NFC payments were pretty common in the UK and EU prior to Apple Pay… The claim that “NFC payments were used by almost no one” is US-centric and/or disingenuous, and specifically not relevant to the EU where this report originates.",
+                                    "rawText": "@daringfireball In fact, NFC payments were pretty common in the UK and EU prior to Apple Pay… The claim that “NFC payments were used by almost no one” is US-centric and/or disingenuous, and specifically not relevant to the EU where this report originates.",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 15:37:49 GMT",
+                                    "tweetId": "1521876761369358337",
+                                    "urltweet": "https://twitter.com/defjaf/status/1521876761369358337",
+                                    "inReplyToId": "1521872533917552640",
+                                    "tweetUserName": "defjaf",
+                                    "subs": [
+                                        {
+                                            "text": "@daringfireball (To be clear, the payments in the UK and EU are mostly from cards, not mobile phones, and I am pretty sure the 2017 90% number refers to phone-based transactions.)",
+                                            "rawText": "@daringfireball (To be clear, the payments in the UK and EU are mostly from cards, not mobile phones, and I am pretty sure the 2017 90% number refers to phone-based transactions.)",
+                                            "type": "tweet",
+                                            "created": "Wed, 04 May 2022 15:40:15 GMT",
+                                            "tweetId": "1521877374408830977",
+                                            "urltweet": "https://twitter.com/defjaf/status/1521877374408830977",
+                                            "inReplyToId": "1521876761369358337",
+                                            "tweetUserName": "defjaf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "May 3",
                             "type": "calendarDay",
