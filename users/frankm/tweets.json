@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 20:35:44 GMT"
+            "dateModified": "Wed, 04 May 2022 13:16:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "May the fourth be with you <a href=\"https://t.co/K6ReIvbu5Z\">[link]</a>",
+                                    "rawText": "May the fourth be with you https://t.co/K6ReIvbu5Z",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 13:06:26 GMT",
+                                    "tweetId": "1521838665504378880",
+                                    "urltweet": "https://twitter.com/frankm/status/1521838665504378880",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 3",
                             "type": "calendarDay",
