@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 01:47:05 GMT"
+            "dateModified": "Wed, 04 May 2022 08:15:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Looks like the new @storybundle collection features an anthology of trans SF edited by @benyehudapress social media maven @bogiperson. <a href=\"https://t.co/168hTPpyC7\">[link]</a>",
+                                    "rawText": "Looks like the new @storybundle collection features an anthology of trans SF edited by @benyehudapress social media maven @bogiperson. https://t.co/168hTPpyC7",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 08:07:12 GMT",
+                                    "tweetId": "1521763360324427777",
+                                    "urltweet": "https://twitter.com/yudel/status/1521763360324427777",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 3",
                             "type": "calendarDay",
