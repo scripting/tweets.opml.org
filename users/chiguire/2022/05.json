@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 23:11:40 GMT"
+            "dateModified": "Wed, 04 May 2022 07:44:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@medvar72 @atmantree Los envidiosos dirán que es Photoshop",
+                                    "rawText": "@medvar72 @atmantree Los envidiosos dirán que es Photoshop",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 07:40:58 GMT",
+                                    "tweetId": "1521756755507785729",
+                                    "urltweet": "https://twitter.com/chiguire/status/1521756755507785729",
+                                    "inReplyToId": "1521644414858313737",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 3",
                             "type": "calendarDay",
