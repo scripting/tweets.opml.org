@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 13:25:35 GMT"
+            "dateModified": "Wed, 04 May 2022 13:50:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "@JimMorrisonIAm @shanselman Not true. It depends who's writing and who's reading. I leave careful notes to myself because I know I'll need them. And I trust my collaborators to do the same. \n\nIn any case I don't trust anything I read in code or comments. Esp not when I'm hunting down a bug.",
+                                    "rawText": "@JimMorrisonIAm @shanselman Not true. It depends who's writing and who's reading. I leave careful notes to myself because I know I'll need them. And I trust my collaborators to do the same. \n\nIn any case I don't trust anything I read in code or comments. Esp not when I'm hunting down a bug.",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 13:39:55 GMT",
+                                    "tweetId": "1521847089109639168",
+                                    "urltweet": "https://twitter.com/davewiner/status/1521847089109639168",
+                                    "inReplyToId": "1521839203243413504",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@JimMorrisonIAm @shanselman My projects tend to be in development for many years, sometimes decades. Without discipline in documenting the work, you couldn't build on the code very far.",
+                                            "rawText": "@JimMorrisonIAm @shanselman My projects tend to be in development for many years, sometimes decades. Without discipline in documenting the work, you couldn't build on the code very far.",
+                                            "type": "tweet",
+                                            "created": "Wed, 04 May 2022 13:40:33 GMT",
+                                            "tweetId": "1521847247922774019",
+                                            "urltweet": "https://twitter.com/davewiner/status/1521847247922774019",
+                                            "inReplyToId": "1521847089109639168",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@BarbMcQuade That's why I think it must be Ginni Thomas.",
                                     "rawText": "@BarbMcQuade That's why I think it must be Ginni Thomas.",
