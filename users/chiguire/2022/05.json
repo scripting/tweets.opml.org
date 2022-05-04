@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 10:39:54 GMT"
+            "dateModified": "Wed, 04 May 2022 19:50:30 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 04 May 2022 10:29:50 GMT",
                                     "tweetId": "1521799253705867266",
                                     "urltweet": "https://twitter.com/chiguire/status/1521799253705867266",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "I mean <a href=\"https://t.co/86zYsxEIBF\">[link]</a>",
+                                            "rawText": "I mean https://t.co/86zYsxEIBF",
+                                            "type": "tweet",
+                                            "created": "Wed, 04 May 2022 19:41:43 GMT",
+                                            "tweetId": "1521938141552197632",
+                                            "urltweet": "https://twitter.com/chiguire/status/1521938141552197632",
+                                            "inReplyToId": "1521799253705867266",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Mayo el cuarto esté por siempre con todos ustedes",
