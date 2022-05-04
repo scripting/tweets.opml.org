@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 03:30:41 GMT"
+            "dateModified": "Wed, 04 May 2022 04:20:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@ReneeStephen I am 100% absolutely not in the least surprised.",
+                                    "rawText": "@ReneeStephen I am 100% absolutely not in the least surprised.",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 04:20:35 GMT",
+                                    "tweetId": "1521706329957715969",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1521706329957715969",
+                                    "inReplyToId": "1521701090684809216",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 3",
                             "type": "calendarDay",
