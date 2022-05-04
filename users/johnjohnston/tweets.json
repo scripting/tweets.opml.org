@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 03 May 2022 20:20:43 GMT"
+            "dateModified": "Wed, 04 May 2022 20:07:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Hawthorn, may is coming out. <a href=\"https://t.co/GAv3HR6G6S\">[link]</a>",
+                                    "rawText": "Hawthorn, may is coming out. https://t.co/GAv3HR6G6S",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 19:59:51 GMT",
+                                    "tweetId": "1521942702669152258",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1521942702669152258",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 3",
                             "type": "calendarDay",
