@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 13:40:21 GMT"
+            "dateModified": "Wed, 04 May 2022 13:52:51 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,19 @@
                                             "tweetId": "1521847111230586883",
                                             "urltweet": "https://twitter.com/yudel/status/1521847111230586883",
                                             "inReplyToId": "1521846902710546432",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@rabbijilljacobs There's also the factor of being boring and lazy. The journal rounded up the usual suspects, rather than tracking down new voices. There are doubtless women writing for Makor Rishon etc. with new and interesting things to say.",
+                                                    "rawText": "@rabbijilljacobs There's also the factor of being boring and lazy. The journal rounded up the usual suspects, rather than tracking down new voices. There are doubtless women writing for Makor Rishon etc. with new and interesting things to say.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 04 May 2022 13:44:38 GMT",
+                                                    "tweetId": "1521848276974280705",
+                                                    "urltweet": "https://twitter.com/yudel/status/1521848276974280705",
+                                                    "inReplyToId": "1521847111230586883",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
