@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 22:36:11 GMT"
+            "dateModified": "Wed, 04 May 2022 22:48:41 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "@jeffjarvis @bluesky Software takes time. Replicating the functionality of a system that’s huge in complexity and scale while changing its underlying design, think about any other field, imagine rebuilding the nyc subway in a year or two with one of the basic constraints changed.",
+                                    "rawText": "@jeffjarvis @bluesky Software takes time. Replicating the functionality of a system that’s huge in complexity and scale while changing its underlying design, think about any other field, imagine rebuilding the nyc subway in a year or two with one of the basic constraints changed.",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 22:46:22 GMT",
+                                    "tweetId": "1521984608237240326",
+                                    "urltweet": "https://twitter.com/davewiner/status/1521984608237240326",
+                                    "inReplyToId": "1521983728481931266",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@jeffjarvis @bluesky People expect miracles of software mostly because they don’t understand how it’s made but it’s pretty much like everything else, if it took a long time to make it the first time it’s going to take almost as much time the second and that’s assuming you’re cloning it.",
+                                            "rawText": "@jeffjarvis @bluesky People expect miracles of software mostly because they don’t understand how it’s made but it’s pretty much like everything else, if it took a long time to make it the first time it’s going to take almost as much time the second and that’s assuming you’re cloning it.",
+                                            "type": "tweet",
+                                            "created": "Wed, 04 May 2022 22:47:24 GMT",
+                                            "tweetId": "1521984868472786945",
+                                            "urltweet": "https://twitter.com/davewiner/status/1521984868472786945",
+                                            "inReplyToId": "1521984608237240326",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "I don’t envy the bluesky people. Everyone is watching with great expectation and they’ve bit off the problem of federating a closed system that has been built over sixteen years.",
+                                    "rawText": "I don’t envy the bluesky people. Everyone is watching with great expectation and they’ve bit off the problem of federating a closed system that has been built over sixteen years.",
+                                    "type": "tweet",
+                                    "created": "Wed, 04 May 2022 22:39:50 GMT",
+                                    "tweetId": "1521982966213316608",
+                                    "urltweet": "https://twitter.com/davewiner/status/1521982966213316608",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I’ve been programming for 49 years.",
                                     "rawText": "I’ve been programming for 49 years.",
