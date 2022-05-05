@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 15:34:28 GMT"
+            "dateModified": "Thu, 05 May 2022 13:16:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "It is May 5 and the furnace is still on and running. Outdoor temperature still in the low 40s. So ready for warm weather to come and stay.",
+                                    "rawText": "It is May 5 and the furnace is still on and running. Outdoor temperature still in the low 40s. So ready for warm weather to come and stay.",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 13:06:13 GMT",
+                                    "tweetId": "1522200997392785412",
+                                    "urltweet": "https://twitter.com/frankm/status/1522200997392785412",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
