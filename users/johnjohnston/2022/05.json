@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 20:07:16 GMT"
+            "dateModified": "Thu, 05 May 2022 07:48:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "The WP Accessibility plugin in #GlowBlogs provided a nice reminder to help visitors. It lets you know if you forget to add Alt text. #Accessibility <a href=\"https://t.co/thM6VHuM9O\">[link]</a> https://t.co/mQffE6AqNu",
+                                    "rawText": "The WP Accessibility plugin in #GlowBlogs provided a nice reminder to help visitors. It lets you know if you forget to add Alt text. #Accessibility https://t.co/thM6VHuM9O https://t.co/mQffE6AqNu",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 07:46:07 GMT",
+                                    "tweetId": "1522120442412249088",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1522120442412249088",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
