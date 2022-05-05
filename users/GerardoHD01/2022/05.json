@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 22:29:10 GMT"
+            "dateModified": "Thu, 05 May 2022 05:34:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@Joako00 Absolutely",
+                                    "rawText": "@Joako00 Absolutely",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 05:34:36 GMT",
+                                    "tweetId": "1522087342777016321",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1522087342777016321",
+                                    "inReplyToId": "1522086565119463425",
+                                    "tweetUserName": "GerardoHD01"
+                                },
+                                {
+                                    "text": "@tommmydg Me gusta lo que sube CoGKs2",
+                                    "rawText": "@tommmydg Me gusta lo que sube CoGKs2",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 05:22:21 GMT",
+                                    "tweetId": "1522084259707596802",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1522084259707596802",
+                                    "inReplyToId": "1522080382295973888",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
