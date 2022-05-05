@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 12:41:11 GMT"
+            "dateModified": "Thu, 05 May 2022 15:40:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "Delphi CE enthält ein Bluetooth-Modul.\n\nEin neues Spielzeug. Mist!",
+                                    "rawText": "Delphi CE enthält ein Bluetooth-Modul.\n\nEin neues Spielzeug. Mist!",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 15:30:15 GMT",
+                                    "tweetId": "1522237245759143936",
+                                    "urltweet": "https://twitter.com/Latz/status/1522237245759143936",
+                                    "tweetUserName": "Latz"
+                                },
                                 {
                                     "text": "Ein vergessenes \"event.preventDefault();\" kann einem schon mal zwei Stunden Fehlersuche bescheren.\n\n#javascript",
                                     "rawText": "Ein vergessenes \"event.preventDefault();\" kann einem schon mal zwei Stunden Fehlersuche bescheren.\n\n#javascript",
