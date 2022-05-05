@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 19:25:58 GMT"
+            "dateModified": "Thu, 05 May 2022 07:44:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@MattNavarra <a href=\"https://t.co/9OBaKDetmT\">[link]</a>",
+                                    "rawText": "@MattNavarra https://t.co/9OBaKDetmT",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 07:40:40 GMT",
+                                    "tweetId": "1522119069322948610",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1522119069322948610",
+                                    "inReplyToId": "1522117275683364869",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
