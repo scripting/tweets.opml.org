@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 16:10:19 GMT"
+            "dateModified": "Thu, 05 May 2022 16:23:04 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,43 @@
                                     "created": "Thu, 05 May 2022 16:08:17 GMT",
                                     "tweetId": "1522246814056914944",
                                     "urltweet": "https://twitter.com/RonKJeffries/status/1522246814056914944",
-                                    "tweetUserName": "RonKJeffries"
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "Does a federated structure for a social network platform allow for a superior user experience? Might #ActivityPub be a key enabler? @evanpro  Or has the social network world moved on?",
+                                            "rawText": "Does a federated structure for a social network platform allow for a superior user experience? Might #ActivityPub be a key enabler? @evanpro  Or has the social network world moved on?",
+                                            "type": "tweet",
+                                            "created": "Thu, 05 May 2022 16:13:30 GMT",
+                                            "tweetId": "1522248126991507456",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1522248126991507456",
+                                            "inReplyToId": "1522246814056914944",
+                                            "tweetUserName": "RonKJeffries",
+                                            "subs": [
+                                                {
+                                                    "text": "See also: <a href=\"https://t.co/2CIMXMhAOc\">[link]</a>",
+                                                    "rawText": "See also: https://t.co/2CIMXMhAOc",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 05 May 2022 16:15:53 GMT",
+                                                    "tweetId": "1522248730199531526",
+                                                    "urltweet": "https://twitter.com/RonKJeffries/status/1522248730199531526",
+                                                    "inReplyToId": "1522248126991507456",
+                                                    "tweetUserName": "RonKJeffries",
+                                                    "subs": [
+                                                        {
+                                                            "text": "And then there's this: <a href=\"https://t.co/9aCyWsHEdP\">[link]</a>",
+                                                            "rawText": "And then there's this: https://t.co/9aCyWsHEdP",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 05 May 2022 16:18:25 GMT",
+                                                            "tweetId": "1522249365280018435",
+                                                            "urltweet": "https://twitter.com/RonKJeffries/status/1522249365280018435",
+                                                            "inReplyToId": "1522248730199531526",
+                                                            "tweetUserName": "RonKJeffries"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Quote: Logseq stores inter-connected information in infinite graphs. @logseq \n<a href=\"https://t.co/fZVOORrxWf\">[link]</a>",
