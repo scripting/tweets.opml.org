@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 15:37:59 GMT"
+            "dateModified": "Thu, 05 May 2022 12:16:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Tyger Tyger burning bright, \nIn the forests of the night: \nWhat immortal hand or eye,\nDare frame thy fearful symmetry? <a href=\"https://t.co/8jeVJPR6L5\">[link]</a>",
+                                    "rawText": "Tyger Tyger burning bright, \nIn the forests of the night: \nWhat immortal hand or eye,\nDare frame thy fearful symmetry? https://t.co/8jeVJPR6L5",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 12:14:31 GMT",
+                                    "tweetId": "1522187985982304256",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1522187985982304256",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
