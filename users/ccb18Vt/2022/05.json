@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 20:36:03 GMT"
+            "dateModified": "Thu, 05 May 2022 13:56:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@resharper It's hard to put in to words the rush of productivity I feel when VS 2022 hangs for 80 seconds waiting for ReSharper to load.",
+                                    "rawText": "@resharper It's hard to put in to words the rush of productivity I feel when VS 2022 hangs for 80 seconds waiting for ReSharper to load.",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 13:51:43 GMT",
+                                    "tweetId": "1522212448106954752",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1522212448106954752",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
