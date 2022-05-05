@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 04:07:17 GMT"
+            "dateModified": "Thu, 05 May 2022 04:57:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@syncros The thing I like most about this story is that this flow chart played out in real life (it’s a little out of date now, but still funny-because-it’s-true): <a href=\"https://t.co/GkQshlyqzW\">[link]</a>",
+                                    "rawText": "@syncros The thing I like most about this story is that this flow chart played out in real life (it’s a little out of date now, but still funny-because-it’s-true): https://t.co/GkQshlyqzW",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 04:48:34 GMT",
+                                    "tweetId": "1522075759447355395",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1522075759447355395",
+                                    "inReplyToId": "1522070690270171136",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
