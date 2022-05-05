@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 23:10:43 GMT"
+            "dateModified": "Thu, 05 May 2022 07:06:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@Ninfa_dp A timeless classic",
+                                    "rawText": "@Ninfa_dp A timeless classic",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 07:02:48 GMT",
+                                    "tweetId": "1522109540422103040",
+                                    "urltweet": "https://twitter.com/chiguire/status/1522109540422103040",
+                                    "inReplyToId": "1522106382073401345",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
