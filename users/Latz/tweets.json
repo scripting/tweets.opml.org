@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 15:52:47 GMT"
+            "dateModified": "Thu, 05 May 2022 16:05:33 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1522240198888804358",
                                     "urltweet": "https://twitter.com/Latz/status/1522240198888804358",
                                     "inReplyToId": "1522239854704271370",
-                                    "tweetUserName": "Latz"
+                                    "tweetUserName": "Latz",
+                                    "subs": [
+                                        {
+                                            "text": "@DublinCommuters OK, I should have written:\n\nevery GERMAN politician",
+                                            "rawText": "@DublinCommuters OK, I should have written:\n\nevery GERMAN politician",
+                                            "type": "tweet",
+                                            "created": "Thu, 05 May 2022 15:54:10 GMT",
+                                            "tweetId": "1522243263616458753",
+                                            "urltweet": "https://twitter.com/Latz/status/1522243263616458753",
+                                            "inReplyToId": "1522240198888804358",
+                                            "tweetUserName": "Latz"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Delphi CE enthält ein Bluetooth-Modul.\n\nEin neues Spielzeug. Mist!",
