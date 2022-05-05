@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 04 May 2022 20:58:34 GMT"
+            "dateModified": "Thu, 05 May 2022 14:19:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Dog STEALS Human Baby's Bed <a href=\"https://t.co/55o9gWWofs\">[link]</a>",
+                                    "rawText": "Dog STEALS Human Baby's Bed https://t.co/55o9gWWofs",
+                                    "type": "tweet",
+                                    "created": "Thu, 05 May 2022 14:12:42 GMT",
+                                    "tweetId": "1522217728697794568",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1522217728697794568",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 4",
                             "type": "calendarDay",
