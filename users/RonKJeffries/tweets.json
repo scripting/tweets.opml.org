@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 16:35:50 GMT"
+            "dateModified": "Fri, 06 May 2022 14:30:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "1 of 2\nThe <a href=\"https://t.co/TXFJKRvnbF\">[link]</a> server (about 700K accounts) publishes these rules: \n\nSexually explicit or violent media must be marked as sensitive when posting\n\nNo racism, sexism, homophobia, transphobia, xenophobia, or casteism",
+                                    "rawText": "1 of 2\nThe https://t.co/TXFJKRvnbF server (about 700K accounts) publishes these rules: \n\nSexually explicit or violent media must be marked as sensitive when posting\n\nNo racism, sexism, homophobia, transphobia, xenophobia, or casteism",
+                                    "type": "tweet",
+                                    "created": "Fri, 06 May 2022 14:23:59 GMT",
+                                    "tweetId": "1522582953523486720",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1522582953523486720",
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "2 of 2 (continuing)\n\nNo incitement of violence or promotion of violent ideologies\nNo harassment, dogpiling or doxxing of other users\nNo content illegal in Germany\nDo not share intentionally false or misleading information\n\n//rules seem reasonable. Wonder what @elonmusk thinks...",
+                                            "rawText": "2 of 2 (continuing)\n\nNo incitement of violence or promotion of violent ideologies\nNo harassment, dogpiling or doxxing of other users\nNo content illegal in Germany\nDo not share intentionally false or misleading information\n\n//rules seem reasonable. Wonder what @elonmusk thinks...",
+                                            "type": "tweet",
+                                            "created": "Fri, 06 May 2022 14:28:30 GMT",
+                                            "tweetId": "1522584090448478209",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1522584090448478209",
+                                            "inReplyToId": "1522582953523486720",
+                                            "tweetUserName": "RonKJeffries"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "May 5",
                             "type": "calendarDay",
