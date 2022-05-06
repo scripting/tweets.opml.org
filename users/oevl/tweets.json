@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 20:35:35 GMT"
+            "dateModified": "Fri, 06 May 2022 18:04:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@AlejandraIriza <a href=\"https://t.co/Jr9TZZ09Qr\">[link]</a>",
+                                    "rawText": "@AlejandraIriza https://t.co/Jr9TZZ09Qr",
+                                    "type": "tweet",
+                                    "created": "Fri, 06 May 2022 18:04:14 GMT",
+                                    "tweetId": "1522638384354705411",
+                                    "urltweet": "https://twitter.com/oevl/status/1522638384354705411",
+                                    "inReplyToId": "1522392943486812163",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 5",
                             "type": "calendarDay",
