@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 07:48:01 GMT"
+            "dateModified": "Fri, 06 May 2022 18:48:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "And you can share your learning with #GlowBlogs by embedding your micro:bit simulator in a post:\n<a href=\"https://t.co/PAqNn3vczV\">[link]</a> https://t.co/kY4vWj4vjP",
+                                    "rawText": "And you can share your learning with #GlowBlogs by embedding your micro:bit simulator in a post:\nhttps://t.co/PAqNn3vczV https://t.co/kY4vWj4vjP",
+                                    "type": "tweet",
+                                    "created": "Fri, 06 May 2022 18:35:58 GMT",
+                                    "tweetId": "1522646367818203138",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1522646367818203138",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 5",
                             "type": "calendarDay",
