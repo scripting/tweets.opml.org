@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 06 May 2022 01:35:24 GMT"
+            "dateModified": "Fri, 06 May 2022 02:26:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "What's the equivalent for \"The worst person in the world has made a good point,\" except it's \"The worst person in the world has had a Nazi quote he was attacking attributed to him and turned into a meme with his picture on it at <a href=\"https://t.co/IjIigsMuTj\">[link]</a>\"?",
+                                    "rawText": "What's the equivalent for \"The worst person in the world has made a good point,\" except it's \"The worst person in the world has had a Nazi quote he was attacking attributed to him and turned into a meme with his picture on it at https://t.co/IjIigsMuTj\"?",
+                                    "type": "tweet",
+                                    "created": "Fri, 06 May 2022 02:20:03 GMT",
+                                    "tweetId": "1522400770917810181",
+                                    "urltweet": "https://twitter.com/yudel/status/1522400770917810181",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "And no, there's no contact form on the site or other way to ask them to correct it. And I (or the victim) couldn't in good faith sign a copyright takedown, since the actual quote belongs to a 1937 Nazi filmmaker ... at least according to said worst person's article.",
+                                            "rawText": "And no, there's no contact form on the site or other way to ask them to correct it. And I (or the victim) couldn't in good faith sign a copyright takedown, since the actual quote belongs to a 1937 Nazi filmmaker ... at least according to said worst person's article.",
+                                            "type": "tweet",
+                                            "created": "Fri, 06 May 2022 02:24:06 GMT",
+                                            "tweetId": "1522401789752061953",
+                                            "urltweet": "https://twitter.com/yudel/status/1522401789752061953",
+                                            "inReplyToId": "1522400770917810181",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@babyboymonaghan Was he right?",
                                     "rawText": "@babyboymonaghan Was he right?",
