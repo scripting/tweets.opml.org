@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 21:15:23 GMT"
+            "dateModified": "Fri, 06 May 2022 07:28:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Wordle 321 2/6 🤓🤓\n\n🟨⬛🟨⬛🟩\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 321 2/6 🤓🤓\n\n🟨⬛🟨⬛🟩\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Fri, 06 May 2022 07:26:28 GMT",
+                                    "tweetId": "1522477885474365440",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1522477885474365440",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 5",
                             "type": "calendarDay",
