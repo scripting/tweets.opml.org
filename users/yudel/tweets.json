@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 06 May 2022 03:43:03 GMT"
+            "dateModified": "Fri, 06 May 2022 05:25:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "If only Abbie Hoffman were alive to see this moment. <a href=\"https://t.co/oXWtcxHi9f\">[link]</a>",
+                                    "rawText": "If only Abbie Hoffman were alive to see this moment. https://t.co/oXWtcxHi9f",
+                                    "type": "tweet",
+                                    "created": "Fri, 06 May 2022 05:16:41 GMT",
+                                    "tweetId": "1522445222168432641",
+                                    "urltweet": "https://twitter.com/yudel/status/1522445222168432641",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 5",
                             "type": "calendarDay",
