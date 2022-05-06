@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 06 May 2022 04:10:49 GMT"
+            "dateModified": "Fri, 06 May 2022 13:19:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/AQQSo6zJMi\">[link]</a>",
+                                    "rawText": "https://t.co/AQQSo6zJMi",
+                                    "type": "tweet",
+                                    "created": "Fri, 06 May 2022 13:12:13 GMT",
+                                    "tweetId": "1522564896738709505",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1522564896738709505",
+                                    "tweetUserName": "MarkVopat"
+                                },
                                 {
                                     "text": "Public Service Announcement: <a href=\"https://t.co/b2TaQLQqm9\">[link]</a>",
                                     "rawText": "Public Service Announcement: https://t.co/b2TaQLQqm9",
