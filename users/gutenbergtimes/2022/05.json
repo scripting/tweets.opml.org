@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "gutenbergtimes tweets",
+            "dateCreated": "Fri, 11 Feb 2022 10:58:20 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sat, 07 May 2022 03:41:36 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Now with transcript - a conversation with co-hosts @maryojob and @bph - special guest @glendaviesnz <a href=\"https://t.co/8XdHc6us83\">[link]</a>",
+                                    "rawText": "Now with transcript - a conversation with co-hosts @maryojob and @bph - special guest @glendaviesnz https://t.co/8XdHc6us83",
+                                    "type": "tweet",
+                                    "created": "Sat, 07 May 2022 03:38:04 GMT",
+                                    "tweetId": "1522782791381008386",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1522782791381008386",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
