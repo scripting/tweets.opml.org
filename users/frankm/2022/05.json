@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 05 May 2022 13:16:38 GMT"
+            "dateModified": "Sat, 07 May 2022 15:54:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Spring might be here. <a href=\"https://t.co/ao9H881Iik\">[link]</a>",
+                                    "rawText": "Spring might be here. https://t.co/ao9H881Iik",
+                                    "type": "tweet",
+                                    "created": "Sat, 07 May 2022 15:42:28 GMT",
+                                    "tweetId": "1522965094161858561",
+                                    "urltweet": "https://twitter.com/frankm/status/1522965094161858561",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 5",
                             "type": "calendarDay",
