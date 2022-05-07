@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 06 May 2022 19:22:49 GMT"
+            "dateModified": "Sat, 07 May 2022 09:37:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@MobileHG He can keep resting. 😬 <a href=\"https://t.co/PjUoY04v4e\">[link]</a>",
+                                    "rawText": "@MobileHG He can keep resting. 😬 https://t.co/PjUoY04v4e",
+                                    "type": "tweet",
+                                    "created": "Sat, 07 May 2022 09:29:32 GMT",
+                                    "tweetId": "1522871244055621634",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1522871244055621634",
+                                    "inReplyToId": "1522806471007686657",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 6",
                             "type": "calendarDay",
