@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 00:55:55 GMT"
+            "dateModified": "Sat, 07 May 2022 13:41:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@acweyand This redefines \"First world problem\"",
+                                    "rawText": "@acweyand This redefines \"First world problem\"",
+                                    "type": "tweet",
+                                    "created": "Sat, 07 May 2022 13:31:00 GMT",
+                                    "tweetId": "1522932010565611521",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1522932010565611521",
+                                    "inReplyToId": "1522729126704164865",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 6",
                             "type": "calendarDay",
