@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 03:41:36 GMT"
+            "dateModified": "Sat, 07 May 2022 23:54:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "WordPress 6.0 Devnotes, Sneak Peeks and articles – Weekend edition 214 <a href=\"https://t.co/xrvmFNTxvu\">[link]</a>",
+                                    "rawText": "WordPress 6.0 Devnotes, Sneak Peeks and articles – Weekend edition 214 https://t.co/xrvmFNTxvu",
+                                    "type": "tweet",
+                                    "created": "Sat, 07 May 2022 23:49:44 GMT",
+                                    "tweetId": "1523087719055863809",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1523087719055863809",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 6",
                             "type": "calendarDay",
