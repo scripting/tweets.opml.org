@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 08:19:24 GMT"
+            "dateModified": "Sat, 07 May 2022 10:39:48 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "Quiéreme, adquiéreme",
+                                    "rawText": "Quiéreme, adquiéreme",
+                                    "type": "tweet",
+                                    "created": "Sat, 07 May 2022 10:28:26 GMT",
+                                    "tweetId": "1522886066486878208",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1522886066486878208",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "(Para que solo tú me disfrutes)",
+                                            "rawText": "(Para que solo tú me disfrutes)",
+                                            "type": "tweet",
+                                            "created": "Sat, 07 May 2022 10:29:50 GMT",
+                                            "tweetId": "1522886419118702593",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1522886419118702593",
+                                            "inReplyToId": "1522886066486878208",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@EvaJaneiroUXW Al primero, que es el que twitter después muestra a la gente",
                                     "rawText": "@EvaJaneiroUXW Al primero, que es el que twitter después muestra a la gente",
