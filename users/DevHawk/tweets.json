@@ -6,243 +6,40 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Apr 2022 20:17:02 GMT"
+            "dateModified": "Sat, 07 May 2022 17:11:13 GMT"
         },
         "body": {
             "subs": [
                 {
-                    "text": "April 2022",
+                    "text": "May 2022",
                     "type": "calendarMonth",
-                    "name": "april2022",
+                    "name": "may2022",
                     "subs": [
                         {
-                            "text": "April 26",
+                            "text": "May 7",
                             "type": "calendarDay",
-                            "name": "26",
+                            "name": "07",
                             "subs": [
                                 {
-                                    "text": "@LuckyPBP @msonenote <a href=\"https://t.co/lQKAdZHqDq\">[link]</a>",
-                                    "rawText": "@LuckyPBP @msonenote https://t.co/lQKAdZHqDq",
+                                    "text": "Today's Workout : 285# squat, 120# overhead, 325# deadlift. 3x5 work sets #startingStrength",
+                                    "rawText": "Today's Workout : 285# squat, 120# overhead, 325# deadlift. 3x5 work sets #startingStrength",
                                     "type": "tweet",
-                                    "created": "Tue, 26 Apr 2022 20:11:36 GMT",
-                                    "tweetId": "1519046557684838400",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1519046557684838400",
-                                    "inReplyToId": "1519044627130593280",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "@marypcbuk @roschler @msonenote @NoelleSilver_ @gcaughey Thanks. I can access the notebooks via the website no problem. It's just the desktop + mobile apps that are giving me trouble.",
-                                    "rawText": "@marypcbuk @roschler @msonenote @NoelleSilver_ @gcaughey Thanks. I can access the notebooks via the website no problem. It's just the desktop + mobile apps that are giving me trouble.",
-                                    "type": "tweet",
-                                    "created": "Tue, 26 Apr 2022 19:51:40 GMT",
-                                    "tweetId": "1519041540391243776",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1519041540391243776",
-                                    "inReplyToId": "1519033298957316097",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "Is there a service status page for @msonenote? Having issues accessing my personal notebooks from desktop and mobile apps.",
-                                    "rawText": "Is there a service status page for @msonenote? Having issues accessing my personal notebooks from desktop and mobile apps.",
-                                    "type": "tweet",
-                                    "created": "Tue, 26 Apr 2022 17:22:52 GMT",
-                                    "tweetId": "1519004093355753472",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1519004093355753472",
-                                    "tweetUserName": "DevHawk"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "April 21",
-                            "type": "calendarDay",
-                            "name": "21",
-                            "subs": [
-                                {
-                                    "text": "@ClintRutkas @DennisCode @zooba @timheuer Context is simple. I whine about windows build times in Azure DevOps and GitHub Actions from time to time\n\n@timheuer responds when he sees me whine, but improvements take time, so it keeps happening\n\n@DennisCode claims you're responsible for fixing every bug in Windows\n\nNo biggie",
-                                    "rawText": "@ClintRutkas @DennisCode @zooba @timheuer Context is simple. I whine about windows build times in Azure DevOps and GitHub Actions from time to time\n\n@timheuer responds when he sees me whine, but improvements take time, so it keeps happening\n\n@DennisCode claims you're responsible for fixing every bug in Windows\n\nNo biggie",
-                                    "type": "tweet",
-                                    "created": "Fri, 22 Apr 2022 00:13:15 GMT",
-                                    "tweetId": "1517295433235664896",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1517295433235664896",
-                                    "inReplyToId": "1517292409608040448",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "@DennisCode @zooba @timheuer @ClintRutkas Windows Feedback -&gt; @ClintRutkas ? <a href=\"https://t.co/84sQvznnzp\">[link]</a>",
-                                    "rawText": "@DennisCode @zooba @timheuer @ClintRutkas Windows Feedback -&gt; @ClintRutkas ? https://t.co/84sQvznnzp",
-                                    "type": "tweet",
-                                    "created": "Thu, 21 Apr 2022 23:58:14 GMT",
-                                    "tweetId": "1517291651948974080",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1517291651948974080",
-                                    "inReplyToId": "1517275167398891520",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "@timheuer I miss you too @timheuer 🙂\n\nI pretty sure Checkout Code taking OVER 2 MINUTES was a transient issue + obviously unrelated to .NET SDK. \n\nOn the next run, Windows code checkout only took 7 seconds.",
-                                    "rawText": "@timheuer I miss you too @timheuer 🙂\n\nI pretty sure Checkout Code taking OVER 2 MINUTES was a transient issue + obviously unrelated to .NET SDK. \n\nOn the next run, Windows code checkout only took 7 seconds.",
-                                    "type": "tweet",
-                                    "created": "Thu, 21 Apr 2022 22:39:53 GMT",
-                                    "tweetId": "1517271934945292288",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1517271934945292288",
-                                    "inReplyToId": "1517270334155550720",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "Building on Windows for test purposes. \nLuckily, it's a small repo and I'm not in a rush. <a href=\"https://t.co/BVtmJ76Xkk\">[link]</a>",
-                                    "rawText": "Building on Windows for test purposes. \nLuckily, it's a small repo and I'm not in a rush. https://t.co/BVtmJ76Xkk",
-                                    "type": "tweet",
-                                    "created": "Thu, 21 Apr 2022 21:34:23 GMT",
-                                    "tweetId": "1517255449380225024",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1517255449380225024",
-                                    "tweetUserName": "DevHawk"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "April 20",
-                            "type": "calendarDay",
-                            "name": "20",
-                            "subs": [
-                                {
-                                    "text": "My son Patrick skated several summer camps + teams with Vaughan over the years. Vaughan even tapped me to help him coach one summer (a mistake he only made once 🤣)\n\nCongrats on an amazing career Vaughan. <a href=\"https://t.co/VmwPuJoS4s\">[link]</a>",
-                                    "rawText": "My son Patrick skated several summer camps + teams with Vaughan over the years. Vaughan even tapped me to help him coach one summer (a mistake he only made once 🤣)\n\nCongrats on an amazing career Vaughan. https://t.co/VmwPuJoS4s",
-                                    "type": "tweet",
-                                    "created": "Thu, 21 Apr 2022 02:47:29 GMT",
-                                    "tweetId": "1516971857727025152",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1516971857727025152",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "<a href=\"https://t.co/TcQPlcjXzb\">[link]</a> https://t.co/rVaOt69mah",
-                                    "rawText": "https://t.co/TcQPlcjXzb https://t.co/rVaOt69mah",
-                                    "type": "tweet",
-                                    "created": "Wed, 20 Apr 2022 13:58:01 GMT",
-                                    "tweetId": "1516778214206566403",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1516778214206566403",
-                                    "tweetUserName": "DevHawk"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "April 12",
-                            "type": "calendarDay",
-                            "name": "12",
-                            "subs": [
-                                {
-                                    "text": "This time, I'm actually doing a contract tutorial instead of a tour of the Blockchain Toolkit <a href=\"https://t.co/x7p1Xtk8Dd\">[link]</a>",
-                                    "rawText": "This time, I'm actually doing a contract tutorial instead of a tour of the Blockchain Toolkit https://t.co/x7p1Xtk8Dd",
-                                    "type": "tweet",
-                                    "created": "Tue, 12 Apr 2022 14:28:29 GMT",
-                                    "tweetId": "1513886779035770884",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1513886779035770884",
-                                    "tweetUserName": "DevHawk"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "April 11",
-                            "type": "calendarDay",
-                            "name": "11",
-                            "subs": [
-                                {
-                                    "text": "TFW you waste most of your day on what turns out to be a known @dotnet issue that was closed as won't fix 8 months ago \"to reflect current priorities\" but the docs still tell developers to do things the way that is known to be broken.\n\n<a href=\"https://t.co/dyMt3HVOQa\">[link]</a> https://t.co/KcZu0i1zv5",
-                                    "rawText": "TFW you waste most of your day on what turns out to be a known @dotnet issue that was closed as won't fix 8 months ago \"to reflect current priorities\" but the docs still tell developers to do things the way that is known to be broken.\n\nhttps://t.co/dyMt3HVOQa https://t.co/KcZu0i1zv5",
-                                    "type": "tweet",
-                                    "created": "Tue, 12 Apr 2022 00:19:51 GMT",
-                                    "tweetId": "1513673215612108800",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1513673215612108800",
-                                    "tweetUserName": "DevHawk"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "April 9",
-                            "type": "calendarDay",
-                            "name": "09",
-                            "subs": [
-                                {
-                                    "text": "That is a very very very old business card in that luggage tag <a href=\"https://t.co/OIjIbrTf6t\">[link]</a>",
-                                    "rawText": "That is a very very very old business card in that luggage tag https://t.co/OIjIbrTf6t",
-                                    "type": "tweet",
-                                    "created": "Sat, 09 Apr 2022 19:47:09 GMT",
-                                    "tweetId": "1512879812741718017",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1512879812741718017",
-                                    "tweetUserName": "DevHawk"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "April 5",
-                            "type": "calendarDay",
-                            "name": "05",
-                            "subs": [
-                                {
-                                    "text": "#EverythingEverywhereAllAtOnce is one of the best movies I've ever seen.\n\nThe last movie to hit me like this was the Matrix. This actually hit me harder. Some of that is subject matter + where I am in my life. But a lot of it is just how fucking good the movie is",
-                                    "rawText": "#EverythingEverywhereAllAtOnce is one of the best movies I've ever seen.\n\nThe last movie to hit me like this was the Matrix. This actually hit me harder. Some of that is subject matter + where I am in my life. But a lot of it is just how fucking good the movie is",
-                                    "type": "tweet",
-                                    "created": "Tue, 05 Apr 2022 23:40:01 GMT",
-                                    "tweetId": "1511488862421282819",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1511488862421282819",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "FYI, this workshop was not a c# contract tutorial. More of a tour of lesser known features of the Neo Blockchain Toolkit.\n\nHappy to do a c# contract tutorial workshop if there is interest. <a href=\"https://t.co/8Xkt0qG0ld\">[link]</a>",
-                                    "rawText": "FYI, this workshop was not a c# contract tutorial. More of a tour of lesser known features of the Neo Blockchain Toolkit.\n\nHappy to do a c# contract tutorial workshop if there is interest. https://t.co/8Xkt0qG0ld",
-                                    "type": "tweet",
-                                    "created": "Tue, 05 Apr 2022 15:17:18 GMT",
-                                    "tweetId": "1511362349935972353",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1511362349935972353",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "There are more @Neo_Blockchain technical workshops. Next one starts shortly. Focused on developing smart contracts with Python featuring @lllwvlvwlll <a href=\"https://t.co/K6D0AZpc0q\">[link]</a>",
-                                    "rawText": "There are more @Neo_Blockchain technical workshops. Next one starts shortly. Focused on developing smart contracts with Python featuring @lllwvlvwlll https://t.co/K6D0AZpc0q",
-                                    "type": "tweet",
-                                    "created": "Tue, 05 Apr 2022 13:44:56 GMT",
-                                    "tweetId": "1511339103199051780",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1511339103199051780",
-                                    "tweetUserName": "DevHawk"
-                                },
-                                {
-                                    "text": "@eduardosurita @Neo_Blockchain <a href=\"https://t.co/3uhwjKLLMF\">[link]</a>",
-                                    "rawText": "@eduardosurita @Neo_Blockchain https://t.co/3uhwjKLLMF",
-                                    "type": "tweet",
-                                    "created": "Tue, 05 Apr 2022 13:41:10 GMT",
-                                    "tweetId": "1511338157421256712",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1511338157421256712",
-                                    "inReplyToId": "1511316437511585798",
-                                    "tweetUserName": "DevHawk"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "April 3",
-                            "type": "calendarDay",
-                            "name": "03",
-                            "subs": [
-                                {
-                                    "text": "FYI I'm talking about @Neo_Blockchain Smart Contract Development *FOR* an hour, not *IN* an hour.\n\nThe workshop is *TOMORROW* (aka April 4th) at 2pm UTC.\n\nMy hockey team won tonight &amp; I had the primary assist on the game winning goal. I will be tired, but in a very good mood. 🤪 <a href=\"https://t.co/eiJcxKDhF7\">[link]</a>",
-                                    "rawText": "FYI I'm talking about @Neo_Blockchain Smart Contract Development *FOR* an hour, not *IN* an hour.\n\nThe workshop is *TOMORROW* (aka April 4th) at 2pm UTC.\n\nMy hockey team won tonight &amp; I had the primary assist on the game winning goal. I will be tired, but in a very good mood. 🤪 https://t.co/eiJcxKDhF7",
-                                    "type": "tweet",
-                                    "created": "Mon, 04 Apr 2022 02:52:59 GMT",
-                                    "tweetId": "1510812647779815426",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1510812647779815426",
-                                    "tweetUserName": "DevHawk"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "April 1",
-                            "type": "calendarDay",
-                            "name": "01",
-                            "subs": [
-                                {
-                                    "text": "Holy shit @pagliaccipizza in Sammamish has awful customer service. Apparently nobody here can tell time.\n\n\"its going to be 8 minutes\"\n\n20 minutes later, was still waiting.\n\nWouldn't bother me so much if we weren't in a hurry to youngest child performance.",
-                                    "rawText": "Holy shit @pagliaccipizza in Sammamish has awful customer service. Apparently nobody here can tell time.\n\n\"its going to be 8 minutes\"\n\n20 minutes later, was still waiting.\n\nWouldn't bother me so much if we weren't in a hurry to youngest child performance.",
-                                    "type": "tweet",
-                                    "created": "Sat, 02 Apr 2022 01:37:05 GMT",
-                                    "tweetId": "1510068772941426692",
-                                    "urltweet": "https://twitter.com/DevHawk/status/1510068772941426692",
-                                    "tweetUserName": "DevHawk"
+                                    "created": "Sat, 07 May 2022 16:58:57 GMT",
+                                    "tweetId": "1522984340791062529",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1522984340791062529",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "Between holidays, failed omicron avoidance and covid recovery, my lifting was offline for almost three months. Been back at it for two months. Almost back to where I was last December",
+                                            "rawText": "Between holidays, failed omicron avoidance and covid recovery, my lifting was offline for almost three months. Been back at it for two months. Almost back to where I was last December",
+                                            "type": "tweet",
+                                            "created": "Sat, 07 May 2022 16:58:57 GMT",
+                                            "tweetId": "1522984342175186945",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1522984342175186945",
+                                            "inReplyToId": "1522984340791062529",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
                                 }
                             ]
                         }
