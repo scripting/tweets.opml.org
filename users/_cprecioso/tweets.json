@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 08 May 2022 12:24:13 GMT"
+            "dateModified": "Sun, 08 May 2022 12:49:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "que me haga subtweeting pablo? amo",
+                                    "rawText": "que me haga subtweeting pablo? amo",
+                                    "type": "tweet",
+                                    "created": "Sun, 08 May 2022 12:48:02 GMT",
+                                    "tweetId": "1523283584941195265",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1523283584941195265",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "si, me he activado el circulo pa esto",
+                                            "rawText": "si, me he activado el circulo pa esto",
+                                            "type": "tweet",
+                                            "created": "Sun, 08 May 2022 12:48:02 GMT",
+                                            "tweetId": "1523283586572509187",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1523283586572509187",
+                                            "inReplyToId": "1523283584941195265",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Opinión: Lutero tenía razón",
                                     "rawText": "Opinión: Lutero tenía razón",
