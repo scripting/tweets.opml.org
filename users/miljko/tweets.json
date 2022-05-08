@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 08 May 2022 12:37:59 GMT"
+            "dateModified": "Sun, 08 May 2022 12:50:45 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1523280644570492929",
                                     "urltweet": "https://twitter.com/miljko/status/1523280644570492929",
                                     "inReplyToId": "1523249125634064387",
-                                    "tweetUserName": "miljko"
+                                    "tweetUserName": "miljko",
+                                    "subs": [
+                                        {
+                                            "text": "@awkwardseance Although,1920s Luckys for weight loss is arguably better than the Victorian tapeworm or the 1940s amphetamine diet pills.\nPeople have always been weird.",
+                                            "rawText": "@awkwardseance Although,1920s Luckys for weight loss is arguably better than the Victorian tapeworm or the 1940s amphetamine diet pills.\nPeople have always been weird.",
+                                            "type": "tweet",
+                                            "created": "Sun, 08 May 2022 12:38:15 GMT",
+                                            "tweetId": "1523281124671520768",
+                                            "urltweet": "https://twitter.com/miljko/status/1523281124671520768",
+                                            "inReplyToId": "1523280644570492929",
+                                            "tweetUserName": "miljko"
+                                        }
+                                    ]
                                 }
                             ]
                         },
