@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 20:39:42 GMT"
+            "dateModified": "Sun, 08 May 2022 08:47:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@lanadelrave_ Send link 👀",
+                                    "rawText": "@lanadelrave_ Send link 👀",
+                                    "type": "tweet",
+                                    "created": "Sun, 08 May 2022 08:39:12 GMT",
+                                    "tweetId": "1523220962661257216",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1523220962661257216",
+                                    "inReplyToId": "1523209346414694400",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 7",
                             "type": "calendarDay",
