@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 23:54:09 GMT"
+            "dateModified": "Sun, 08 May 2022 00:06:55 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 07 May 2022 23:49:44 GMT",
                                     "tweetId": "1523087719055863809",
                                     "urltweet": "https://twitter.com/gutenbergtimes/status/1523087719055863809",
-                                    "tweetUserName": "gutenbergtimes"
+                                    "tweetUserName": "gutenbergtimes",
+                                    "subs": [
+                                        {
+                                            "text": "with contributions by @wpbuilds @robcairns @josephahaden @critterverse @carlodaniele @wpbeginners, hand curated by Birgit Pauli-Haack @bph",
+                                            "rawText": "with contributions by @wpbuilds @robcairns @josephahaden @critterverse @carlodaniele @wpbeginners, hand curated by Birgit Pauli-Haack @bph",
+                                            "type": "tweet",
+                                            "created": "Sat, 07 May 2022 23:54:33 GMT",
+                                            "tweetId": "1523088933181345793",
+                                            "urltweet": "https://twitter.com/gutenbergtimes/status/1523088933181345793",
+                                            "inReplyToId": "1523087719055863809",
+                                            "tweetUserName": "gutenbergtimes"
+                                        }
+                                    ]
                                 }
                             ]
                         },
