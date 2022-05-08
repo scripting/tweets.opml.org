@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 06 May 2022 18:48:16 GMT"
+            "dateModified": "Sun, 08 May 2022 13:33:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "Spending some time updating the #GlowBlogs   embedding content examples, #microbit &amp; #scratch projects, pdfs and a ton more:\n<a href=\"https://t.co/o1O3UCoZMj\">[link]</a>",
+                                    "rawText": "Spending some time updating the #GlowBlogs   embedding content examples, #microbit &amp; #scratch projects, pdfs and a ton more:\nhttps://t.co/o1O3UCoZMj",
+                                    "type": "tweet",
+                                    "created": "Sun, 08 May 2022 13:33:35 GMT",
+                                    "tweetId": "1523295045956562949",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1523295045956562949",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 6",
                             "type": "calendarDay",
