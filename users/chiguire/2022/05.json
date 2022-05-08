@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 23:14:22 GMT"
+            "dateModified": "Sun, 08 May 2022 09:14:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "Yo conociendo gente en Flickr en 2006 <a href=\"https://t.co/WOdKBkc6Py\">[link]</a>",
+                                    "rawText": "Yo conociendo gente en Flickr en 2006 https://t.co/WOdKBkc6Py",
+                                    "type": "tweet",
+                                    "created": "Sun, 08 May 2022 09:13:37 GMT",
+                                    "tweetId": "1523229626893541376",
+                                    "urltweet": "https://twitter.com/chiguire/status/1523229626893541376",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 7",
                             "type": "calendarDay",
