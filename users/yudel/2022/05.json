@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 03:19:49 GMT"
+            "dateModified": "Sun, 08 May 2022 00:48:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "This is the past Republicans want to bring back. <a href=\"https://t.co/y1MiC9Oypq\">[link]</a>",
+                                    "rawText": "This is the past Republicans want to bring back. https://t.co/y1MiC9Oypq",
+                                    "type": "tweet",
+                                    "created": "Sun, 08 May 2022 00:48:52 GMT",
+                                    "tweetId": "1523102601100898309",
+                                    "urltweet": "https://twitter.com/yudel/status/1523102601100898309",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 6",
                             "type": "calendarDay",
