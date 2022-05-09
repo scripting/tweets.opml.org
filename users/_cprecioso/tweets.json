@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 12:00:59 GMT"
+            "dateModified": "Mon, 09 May 2022 12:13:45 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/F3UaemdyjO\">[link]</a>",
+                                    "rawText": "https://t.co/F3UaemdyjO",
+                                    "type": "tweet",
+                                    "created": "Mon, 09 May 2022 12:09:14 GMT",
+                                    "tweetId": "1523636206785134592",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1523636206785134592",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "alguien tiene el meme de monedero diciendo \"no te puto pilles\"?",
                                     "rawText": "alguien tiene el meme de monedero diciendo \"no te puto pilles\"?",
