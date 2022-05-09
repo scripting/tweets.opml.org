@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 08 May 2022 14:25:06 GMT"
+            "dateModified": "Mon, 09 May 2022 10:50:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@amsterdamant @thenextweb @puur @mathys @vangeest @marcoderksen @Sublimey Nee, ik ben daar niet bij.",
+                                    "rawText": "@amsterdamant @thenextweb @puur @mathys @vangeest @marcoderksen @Sublimey Nee, ik ben daar niet bij.",
+                                    "type": "tweet",
+                                    "created": "Mon, 09 May 2022 10:45:23 GMT",
+                                    "tweetId": "1523615106403561473",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1523615106403561473",
+                                    "inReplyToId": "1523583600930680832",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 8",
                             "type": "calendarDay",
