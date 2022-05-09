@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 16:26:32 GMT"
+            "dateModified": "Mon, 09 May 2022 19:50:45 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "Glasses shopping is always death.",
+                                    "rawText": "Glasses shopping is always death.",
+                                    "type": "tweet",
+                                    "created": "Mon, 09 May 2022 19:38:57 GMT",
+                                    "tweetId": "1523749384877264896",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1523749384877264896",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@Fahrni <a href=\"https://t.co/9UTKzoXgj2\">[link]</a> isn’t where the people are.",
                                     "rawText": "@Fahrni https://t.co/9UTKzoXgj2 isn’t where the people are.",
@@ -612,7 +621,19 @@
                                     "tweetId": "1521212808851034113",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1521212808851034113",
                                     "inReplyToId": "1511782034259206154",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Toronto! /cc @wnbatoronto <a href=\"https://t.co/TqLkltf5mu\">[link]</a>",
+                                            "rawText": "Toronto! /cc @wnbatoronto https://t.co/TqLkltf5mu",
+                                            "type": "tweet",
+                                            "created": "Mon, 09 May 2022 19:43:29 GMT",
+                                            "tweetId": "1523750523845099520",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1523750523845099520",
+                                            "inReplyToId": "1521212808851034113",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@harrisonlowman Good stuff. Thanks!",
