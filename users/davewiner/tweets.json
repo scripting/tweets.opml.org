@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 19:19:28 GMT"
+            "dateModified": "Mon, 09 May 2022 19:32:14 GMT"
         },
         "body": {
             "subs": [
@@ -67,7 +67,19 @@
                                                             "tweetId": "1523744477571334144",
                                                             "urltweet": "https://twitter.com/davewiner/status/1523744477571334144",
                                                             "inReplyToId": "1523744414417358848",
-                                                            "tweetUserName": "davewiner"
+                                                            "tweetUserName": "davewiner",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "@rroudt @thunknotes Since these products were often used inside organizations, this meant companies could build their own workflows to take more of the work out of the layout process, and writers could use whatever tools they liked.",
+                                                                    "rawText": "@rroudt @thunknotes Since these products were often used inside organizations, this meant companies could build their own workflows to take more of the work out of the layout process, and writers could use whatever tools they liked.",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 09 May 2022 19:19:45 GMT",
+                                                                    "tweetId": "1523744551147831296",
+                                                                    "urltweet": "https://twitter.com/davewiner/status/1523744551147831296",
+                                                                    "inReplyToId": "1523744477571334144",
+                                                                    "tweetUserName": "davewiner"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
