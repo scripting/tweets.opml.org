@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 14:58:56 GMT"
+            "dateModified": "Tue, 10 May 2022 16:05:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "jesus :-o <a href=\"https://t.co/21rd462Knx\">[link]</a>",
+                                    "rawText": "jesus :-o https://t.co/21rd462Knx",
+                                    "type": "tweet",
+                                    "created": "Tue, 10 May 2022 15:52:31 GMT",
+                                    "tweetId": "1524054785871151104",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1524054785871151104",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 9",
                             "type": "calendarDay",
