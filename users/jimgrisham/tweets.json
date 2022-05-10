@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 21:39:31 GMT"
+            "dateModified": "Tue, 10 May 2022 01:59:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@MrTLesser @nilsson61307689 @timot78 @igorsushko The only way to get anywhere close will be with low-altitude aircraft/drone optics.",
+                                    "rawText": "@MrTLesser @nilsson61307689 @timot78 @igorsushko The only way to get anywhere close will be with low-altitude aircraft/drone optics.",
+                                    "type": "tweet",
+                                    "created": "Tue, 10 May 2022 01:53:47 GMT",
+                                    "tweetId": "1523843714375954434",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1523843714375954434",
+                                    "inReplyToId": "1523827629111103493",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
+                                    "text": "@ImALittleTeaPo9 @TrentTelenko I imagine they can type the coordinates manually into their system. Maybe adds 15 seconds of extra latency?\n\nCreating an automated system link, using modern microcontrollers (that can fit _inside_ of an interface cable) could be prototyped in a day or two.",
+                                    "rawText": "@ImALittleTeaPo9 @TrentTelenko I imagine they can type the coordinates manually into their system. Maybe adds 15 seconds of extra latency?\n\nCreating an automated system link, using modern microcontrollers (that can fit _inside_ of an interface cable) could be prototyped in a day or two.",
+                                    "type": "tweet",
+                                    "created": "Tue, 10 May 2022 01:50:32 GMT",
+                                    "tweetId": "1523842896063082498",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1523842896063082498",
+                                    "inReplyToId": "1523793949860646914",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 7",
                             "type": "calendarDay",
