@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 15:01:41 GMT"
+            "dateModified": "Tue, 10 May 2022 15:04:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "The Google Chrome OS 101 update is here for all supported devices on the Stable Channel. Here’s what you need to know. <a href=\"https://t.co/ufUMUUyNHo\">[link]</a>",
+                                    "rawText": "The Google Chrome OS 101 update is here for all supported devices on the Stable Channel. Here’s what you need to know. https://t.co/ufUMUUyNHo",
+                                    "type": "tweet",
+                                    "created": "Tue, 10 May 2022 14:59:46 GMT",
+                                    "tweetId": "1524041512077647877",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1524041512077647877",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 9",
                             "type": "calendarDay",
