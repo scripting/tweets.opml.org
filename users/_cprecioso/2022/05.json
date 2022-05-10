@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 22:13:39 GMT"
+            "dateModified": "Tue, 10 May 2022 08:00:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "No salgo de aquí <a href=\"https://t.co/frpuJfb0PL\">[link]</a>",
+                                    "rawText": "No salgo de aquí https://t.co/frpuJfb0PL",
+                                    "type": "tweet",
+                                    "created": "Tue, 10 May 2022 07:49:50 GMT",
+                                    "tweetId": "1523933315455139840",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1523933315455139840",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 9",
                             "type": "calendarDay",
