@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 10:50:25 GMT"
+            "dateModified": "Tue, 10 May 2022 05:33:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@roosvanvugt jouw dag. 🎂🎉😘 <a href=\"https://t.co/nNdsUZF2YI\">[link]</a>",
+                                    "rawText": "@roosvanvugt jouw dag. 🎂🎉😘 https://t.co/nNdsUZF2YI",
+                                    "type": "tweet",
+                                    "created": "Tue, 10 May 2022 05:22:17 GMT",
+                                    "tweetId": "1523896184892538882",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1523896184892538882",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 9",
                             "type": "calendarDay",
