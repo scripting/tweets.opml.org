@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 10 May 2022 14:30:28 GMT"
+            "dateModified": "Tue, 10 May 2022 14:43:14 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1524034101384253442",
                                             "urltweet": "https://twitter.com/yudel/status/1524034101384253442",
                                             "inReplyToId": "1524033905778692097",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "We have one party that is pro-covid, and one party that has been bullied into not fighting the other party.",
+                                                    "rawText": "We have one party that is pro-covid, and one party that has been bullied into not fighting the other party.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 10 May 2022 14:31:24 GMT",
+                                                    "tweetId": "1524034372726370307",
+                                                    "urltweet": "https://twitter.com/yudel/status/1524034372726370307",
+                                                    "inReplyToId": "1524034101384253442",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
