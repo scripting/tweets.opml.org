@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 10 May 2022 09:31:39 GMT"
+            "dateModified": "Tue, 10 May 2022 10:22:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "I don't always binge stuff, but when I do, it's usually a visual novel",
+                                    "rawText": "I don't always binge stuff, but when I do, it's usually a visual novel",
+                                    "type": "tweet",
+                                    "created": "Tue, 10 May 2022 10:18:03 GMT",
+                                    "tweetId": "1523970614213632000",
+                                    "urltweet": "https://twitter.com/chiguire/status/1523970614213632000",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 9",
                             "type": "calendarDay",
