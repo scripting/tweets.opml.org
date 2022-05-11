@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 11 May 2022 18:24:32 GMT"
+            "dateModified": "Wed, 11 May 2022 18:37:18 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@EricRego8 @FreightAlley <a href=\"https://t.co/MzfoqL5c04\">[link]</a>",
+                                    "rawText": "@EricRego8 @FreightAlley https://t.co/MzfoqL5c04",
+                                    "type": "tweet",
+                                    "created": "Wed, 11 May 2022 18:30:15 GMT",
+                                    "tweetId": "1524456870899036160",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1524456870899036160",
+                                    "inReplyToId": "1524390918840799233",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
+                                    "text": "@Gigi_MCal @jprupp @FreightAlley @EricRego8 <a href=\"https://t.co/MzfoqL5c04\">[link]</a>",
+                                    "rawText": "@Gigi_MCal @jprupp @FreightAlley @EricRego8 https://t.co/MzfoqL5c04",
+                                    "type": "tweet",
+                                    "created": "Wed, 11 May 2022 18:29:53 GMT",
+                                    "tweetId": "1524456776049041410",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1524456776049041410",
+                                    "inReplyToId": "1524450427957387265",
+                                    "tweetUserName": "jimgrisham"
+                                },
                                 {
                                     "text": "@Gigi_MCal @jprupp @FreightAlley @EricRego8 Refineries have been closed all over the world over the past several years, due to various incentives.\n\nPolitical discourse was likely distracted by the pandemic? Tragedy of the commons?\n\n#NotAnExpert\n\n1/4",
                                     "rawText": "@Gigi_MCal @jprupp @FreightAlley @EricRego8 Refineries have been closed all over the world over the past several years, due to various incentives.\n\nPolitical discourse was likely distracted by the pandemic? Tragedy of the commons?\n\n#NotAnExpert\n\n1/4",
@@ -84,7 +104,19 @@
                                     "tweetId": "1524439894482993157",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1524439894482993157",
                                     "inReplyToId": "1524416417692594178",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@jprupp @FreightAlley @EricRego8 As of 11 years ago, there was knowledge of potential #diesel supply issues.\n\nToday’s #DieselCrisis has been brewing for quite some time.\n\n<a href=\"https://t.co/dYYTB3Dxaq\">[link]</a> https://t.co/qTTt44QI81",
+                                            "rawText": "@jprupp @FreightAlley @EricRego8 As of 11 years ago, there was knowledge of potential #diesel supply issues.\n\nToday’s #DieselCrisis has been brewing for quite some time.\n\nhttps://t.co/dYYTB3Dxaq https://t.co/qTTt44QI81",
+                                            "type": "tweet",
+                                            "created": "Wed, 11 May 2022 18:28:30 GMT",
+                                            "tweetId": "1524456431226871808",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1524456431226871808",
+                                            "inReplyToId": "1524439894482993157",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@klausenhauser @ChefMiew @sdbaral Elevators are known for their amazing cellular &amp; WiFi reception, after all.",
