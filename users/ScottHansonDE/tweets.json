@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 10 May 2022 18:06:12 GMT"
+            "dateModified": "Wed, 11 May 2022 18:08:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@swaggoner @40PercentGerman I see you with deep fried butter and raise you with a stick <a href=\"https://t.co/x8u1MqnaHT\">[link]</a> https://t.co/goAPu80h0q",
+                                    "rawText": "@swaggoner @40PercentGerman I see you with deep fried butter and raise you with a stick https://t.co/x8u1MqnaHT https://t.co/goAPu80h0q",
+                                    "type": "tweet",
+                                    "created": "Wed, 11 May 2022 18:01:59 GMT",
+                                    "tweetId": "1524449758282141697",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1524449758282141697",
+                                    "inReplyToId": "1524448058402131968",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 10",
                             "type": "calendarDay",
