@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 11 May 2022 13:59:00 GMT"
+            "dateModified": "Wed, 11 May 2022 14:11:46 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 11 May 2022 13:51:51 GMT",
                                     "tweetId": "1524386808519438337",
                                     "urltweet": "https://twitter.com/Latz/status/1524386808519438337",
-                                    "tweetUserName": "Latz"
+                                    "tweetUserName": "Latz",
+                                    "subs": [
+                                        {
+                                            "text": "Gut das es demnächst das 9€-Ticket gibt. So bin ich wenigstens bis Ende August einigermaßen mobil. Vielleicht gibt's dann ja wieder Räder zu kaufen.",
+                                            "rawText": "Gut das es demnächst das 9€-Ticket gibt. So bin ich wenigstens bis Ende August einigermaßen mobil. Vielleicht gibt's dann ja wieder Räder zu kaufen.",
+                                            "type": "tweet",
+                                            "created": "Wed, 11 May 2022 14:03:37 GMT",
+                                            "tweetId": "1524389768779472897",
+                                            "urltweet": "https://twitter.com/Latz/status/1524389768779472897",
+                                            "inReplyToId": "1524386808519438337",
+                                            "tweetUserName": "Latz"
+                                        }
+                                    ]
                                 }
                             ]
                         },
