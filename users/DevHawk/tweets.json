@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 19:57:09 GMT"
+            "dateModified": "Wed, 11 May 2022 03:05:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Took off work early to see new Dr Strange movie. Not bad, but nothing to write home about.\n\nDoesn't hold a candle to #EverythingEverywhereAllAtOnce.\n\nI'd say @Marvel should hire the @Daniels, but I suspect they would end up having to peace out like @edgarwright did on ant man.",
+                                    "rawText": "Took off work early to see new Dr Strange movie. Not bad, but nothing to write home about.\n\nDoesn't hold a candle to #EverythingEverywhereAllAtOnce.\n\nI'd say @Marvel should hire the @Daniels, but I suspect they would end up having to peace out like @edgarwright did on ant man.",
+                                    "type": "tweet",
+                                    "created": "Wed, 11 May 2022 03:04:31 GMT",
+                                    "tweetId": "1524223900661346304",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1524223900661346304",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 7",
                             "type": "calendarDay",
