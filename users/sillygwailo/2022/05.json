@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 11 May 2022 00:21:07 GMT"
+            "dateModified": "Wed, 11 May 2022 03:45:20 GMT"
         },
         "body": {
             "subs": [
@@ -108,7 +108,19 @@
                                                     "tweetId": "1524181467441545222",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1524181467441545222",
                                                     "inReplyToId": "1524042206608334848",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "No “Savage Night at the Opera” tonight, alas. <a href=\"https://t.co/QmWGOEQ5Ib\">[link]</a>",
+                                                            "rawText": "No “Savage Night at the Opera” tonight, alas. https://t.co/QmWGOEQ5Ib",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 11 May 2022 03:45:12 GMT",
+                                                            "tweetId": "1524234141063172096",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1524234141063172096",
+                                                            "inReplyToId": "1524181467441545222",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
