@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 11 May 2022 01:08:40 GMT"
+            "dateModified": "Wed, 11 May 2022 11:46:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,47 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@EladNehorai Cf. : <a href=\"https://t.co/F8s6xCu9Hn\">[link]</a>",
+                                    "rawText": "@EladNehorai Cf. : https://t.co/F8s6xCu9Hn",
+                                    "type": "tweet",
+                                    "created": "Wed, 11 May 2022 11:39:33 GMT",
+                                    "tweetId": "1524353514490810369",
+                                    "urltweet": "https://twitter.com/yudel/status/1524353514490810369",
+                                    "inReplyToId": "1524204360619610112",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@EladNehorai “Given the passions driving the anti-abortion movement, putting Judaism on the block might well prompt abortion foes to reconsider their views not on abortion rights but on Jewish rights.”",
+                                            "rawText": "@EladNehorai “Given the passions driving the anti-abortion movement, putting Judaism on the block might well prompt abortion foes to reconsider their views not on abortion rights but on Jewish rights.”",
+                                            "type": "tweet",
+                                            "created": "Wed, 11 May 2022 11:40:49 GMT",
+                                            "tweetId": "1524353834750988288",
+                                            "urltweet": "https://twitter.com/yudel/status/1524353834750988288",
+                                            "inReplyToId": "1524353514490810369",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@EladNehorai “ We might find that America’s affection for Jewand their distinctive habits is more contingent than we like to think.”",
+                                                    "rawText": "@EladNehorai “ We might find that America’s affection for Jewand their distinctive habits is more contingent than we like to think.”",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 11 May 2022 11:41:01 GMT",
+                                                    "tweetId": "1524353881379119110",
+                                                    "urltweet": "https://twitter.com/yudel/status/1524353881379119110",
+                                                    "inReplyToId": "1524353834750988288",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "May 10",
                             "type": "calendarDay",
