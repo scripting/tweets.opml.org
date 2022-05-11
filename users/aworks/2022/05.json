@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 10 May 2022 13:53:11 GMT"
+            "dateModified": "Wed, 11 May 2022 13:55:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/Z9n4OzNyWQ\">[link]</a> Stories via @Schott_NY @cs_newmusic @soundonsoundmag",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/Z9n4OzNyWQ Stories via @Schott_NY @cs_newmusic @soundonsoundmag",
+                                    "type": "tweet",
+                                    "created": "Wed, 11 May 2022 13:48:26 GMT",
+                                    "tweetId": "1524385950528331777",
+                                    "urltweet": "https://twitter.com/aworks/status/1524385950528331777",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 10",
                             "type": "calendarDay",
