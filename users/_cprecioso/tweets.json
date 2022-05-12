@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 12 May 2022 09:09:14 GMT"
+            "dateModified": "Thu, 12 May 2022 09:22:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@gamusino normal",
+                                    "rawText": "@gamusino normal",
+                                    "type": "tweet",
+                                    "created": "Thu, 12 May 2022 09:18:35 GMT",
+                                    "tweetId": "1524680426899619841",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1524680426899619841",
+                                    "inReplyToId": "1524679195154169856",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "same <a href=\"https://t.co/hFSjVFxB5O\">[link]</a>",
                                     "rawText": "same https://t.co/hFSjVFxB5O",
