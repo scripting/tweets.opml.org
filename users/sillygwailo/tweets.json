@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 14:15:23 GMT"
+            "dateModified": "Fri, 13 May 2022 21:42:07 GMT"
         },
         "body": {
             "subs": [
@@ -125,7 +125,19 @@
                                                             "tweetId": "1525115520760135680",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1525115520760135680",
                                                             "inReplyToId": "1524977570252525574",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Somebody put the setlist for @radioheadioteq’s show last night at @3030DundasWest on @setlistfm. <a href=\"https://t.co/KLK7FYHwMJ\">[link]</a>",
+                                                                    "rawText": "Somebody put the setlist for @radioheadioteq’s show last night at @3030DundasWest on @setlistfm. https://t.co/KLK7FYHwMJ",
+                                                                    "type": "tweet",
+                                                                    "created": "Fri, 13 May 2022 21:34:57 GMT",
+                                                                    "tweetId": "1525228128532058112",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1525228128532058112",
+                                                                    "inReplyToId": "1525115520760135680",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
