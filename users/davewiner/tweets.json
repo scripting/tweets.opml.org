@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 12:27:31 GMT"
+            "dateModified": "Fri, 13 May 2022 12:40:17 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,56 @@
                             "name": "13",
                             "subs": [
                                 {
+                                    "text": "@phonetonote I've got a lot of interop available and more on the way! ;-)\n\n<a href=\"https://t.co/yYkHcrwgNf\">[link]</a>",
+                                    "rawText": "@phonetonote I've got a lot of interop available and more on the way! ;-)\n\nhttps://t.co/yYkHcrwgNf",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 12:33:06 GMT",
+                                    "tweetId": "1525091766105522177",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525091766105522177",
+                                    "inReplyToId": "1522349311484383238",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Wordle 328 4/6\n\n🟨⬜⬜⬜⬜\n🟨⬜⬜🟨⬜\n⬜🟩⬜⬜🟨\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 328 4/6\n\n🟨⬜⬜⬜⬜\n🟨⬜⬜🟨⬜\n⬜🟩⬜⬜🟨\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 12:27:41 GMT",
+                                    "tweetId": "1525090400918183936",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525090400918183936",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "What are the odds that Musk actually acquires Twitter?",
                                     "rawText": "What are the odds that Musk actually acquires Twitter?",
                                     "type": "tweet",
                                     "created": "Fri, 13 May 2022 12:19:57 GMT",
                                     "tweetId": "1525088455851745284",
                                     "urltweet": "https://twitter.com/davewiner/status/1525088455851745284",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "My bet is it's virtually zero.\n\nWhy? The difficulties of Twitter have become more apparent, and at the same time, the difficulties of the companies he already controls have gotten bigger with the collapse of the tech stock market.\n\nOwning Twitter is a hobby he can't afford now.",
+                                            "rawText": "My bet is it's virtually zero.\n\nWhy? The difficulties of Twitter have become more apparent, and at the same time, the difficulties of the companies he already controls have gotten bigger with the collapse of the tech stock market.\n\nOwning Twitter is a hobby he can't afford now.",
+                                            "type": "tweet",
+                                            "created": "Fri, 13 May 2022 12:31:22 GMT",
+                                            "tweetId": "1525091330849918978",
+                                            "urltweet": "https://twitter.com/davewiner/status/1525091330849918978",
+                                            "inReplyToId": "1525088455851745284",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "PS: I own a small amount of $TWTR.",
+                                                    "rawText": "PS: I own a small amount of $TWTR.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 13 May 2022 12:32:04 GMT",
+                                                    "tweetId": "1525091504485711874",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1525091504485711874",
+                                                    "inReplyToId": "1525091330849918978",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Musk shelves $44-billion Twitter deal 'temporarily', shares slump. <a href=\"https://t.co/CsAvaszkh5\">[link]</a>",
