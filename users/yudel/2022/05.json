@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 04:37:30 GMT"
+            "dateModified": "Fri, 13 May 2022 04:50:16 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1524971947276255232",
                                     "urltweet": "https://twitter.com/yudel/status/1524971947276255232",
                                     "inReplyToId": "1524970741002752000",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@trekonomics @JohnArgh Remind me not to underestimate my kid. That was in 2013. And this year’s Super Bowl ads were a clear sell signal so I might have gotten out in time.",
+                                            "rawText": "@trekonomics @JohnArgh Remind me not to underestimate my kid. That was in 2013. And this year’s Super Bowl ads were a clear sell signal so I might have gotten out in time.",
+                                            "type": "tweet",
+                                            "created": "Fri, 13 May 2022 04:38:23 GMT",
+                                            "tweetId": "1524972300508008460",
+                                            "urltweet": "https://twitter.com/yudel/status/1524972300508008460",
+                                            "inReplyToId": "1524971947276255232",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@datadivajf I’m hoping they’re planning to bring in Sulu and perhaps some others — are there others ?— in year two or three.",
