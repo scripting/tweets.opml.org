@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 14:35:09 GMT"
+            "dateModified": "Fri, 13 May 2022 14:47:55 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "13",
                             "subs": [
                                 {
+                                    "text": "@workout_fox absolutely!",
+                                    "rawText": "@workout_fox absolutely!",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 14:39:29 GMT",
+                                    "tweetId": "1525123571177115648",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525123571177115648",
+                                    "inReplyToId": "1525122844618899460",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@jeffjarvis @JoelKatz @mmasnick @ACLU imho they don't have an editorial product. this has been an argument between journalism and tech since the beginning, and nothing has changed as far as i'm concerned, yet journalism acts like they won the argument.",
                                     "rawText": "@jeffjarvis @JoelKatz @mmasnick @ACLU imho they don't have an editorial product. this has been an argument between journalism and tech since the beginning, and nothing has changed as far as i'm concerned, yet journalism acts like they won the argument.",
                                     "type": "tweet",
@@ -28,7 +38,55 @@
                                     "tweetId": "1525122302232641536",
                                     "urltweet": "https://twitter.com/davewiner/status/1525122302232641536",
                                     "inReplyToId": "1525109684264390663",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@jeffjarvis @JoelKatz @mmasnick @ACLU it's just like when journos thought bloggers were trying to steal their jobs. i'm sure you heard that. it's simply not true. \n\ntech didn't want the job of moderation, and ultimately it's diseconomic, and we all know that, it can't be where this ends up.",
+                                            "rawText": "@jeffjarvis @JoelKatz @mmasnick @ACLU it's just like when journos thought bloggers were trying to steal their jobs. i'm sure you heard that. it's simply not true. \n\ntech didn't want the job of moderation, and ultimately it's diseconomic, and we all know that, it can't be where this ends up.",
+                                            "type": "tweet",
+                                            "created": "Fri, 13 May 2022 14:35:51 GMT",
+                                            "tweetId": "1525122658723016704",
+                                            "urltweet": "https://twitter.com/davewiner/status/1525122658723016704",
+                                            "inReplyToId": "1525122302232641536",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@jeffjarvis @JoelKatz @mmasnick @ACLU anyway i think twitter can give us the tools to effectively kick trump off twitter. i think we had pretty good tools when he was on, but people insisted on RTing him, to say how much they hated him.",
+                                                    "rawText": "@jeffjarvis @JoelKatz @mmasnick @ACLU anyway i think twitter can give us the tools to effectively kick trump off twitter. i think we had pretty good tools when he was on, but people insisted on RTing him, to say how much they hated him.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 13 May 2022 14:37:30 GMT",
+                                                    "tweetId": "1525123071308341250",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1525123071308341250",
+                                                    "inReplyToId": "1525122658723016704",
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@jeffjarvis @JoelKatz @mmasnick @ACLU and it's not the trumps i worry about it's all the poor schnooks they ban who you've never heard of and suspect maybe they deserved to be banned.",
+                                                            "rawText": "@jeffjarvis @JoelKatz @mmasnick @ACLU and it's not the trumps i worry about it's all the poor schnooks they ban who you've never heard of and suspect maybe they deserved to be banned.",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 13 May 2022 14:38:44 GMT",
+                                                            "tweetId": "1525123380869058563",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1525123380869058563",
+                                                            "inReplyToId": "1525123071308341250",
+                                                            "tweetUserName": "davewiner",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "@jeffjarvis @JoelKatz @mmasnick @ACLU trump is a bad example. it was rational to ban him in jan 2021. i was relieved when they did it. but what about the regular people.",
+                                                                    "rawText": "@jeffjarvis @JoelKatz @mmasnick @ACLU trump is a bad example. it was rational to ban him in jan 2021. i was relieved when they did it. but what about the regular people.",
+                                                                    "type": "tweet",
+                                                                    "created": "Fri, 13 May 2022 14:39:02 GMT",
+                                                                    "tweetId": "1525123457775816705",
+                                                                    "urltweet": "https://twitter.com/davewiner/status/1525123457775816705",
+                                                                    "inReplyToId": "1525123380869058563",
+                                                                    "tweetUserName": "davewiner"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@workout_fox i doubt if that's the way it started, btw. i think he was sincerely interested in running twitter. but now that it's slipping away from him, i can't imagine he won't compete in some way. i hope he does.",
