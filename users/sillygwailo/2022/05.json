@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 04:41:00 GMT"
+            "dateModified": "Fri, 13 May 2022 04:53:46 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "13",
                             "subs": [
                                 {
+                                    "text": "@ReneeStephen The TTC asks so little, and that’s still too much for them.",
+                                    "rawText": "@ReneeStephen The TTC asks so little, and that’s still too much for them.",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 04:49:51 GMT",
+                                    "tweetId": "1524975184444329994",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1524975184444329994",
+                                    "inReplyToId": "1524973250706477056",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
                                     "text": "I sometimes want to ask people and their friends who don’t wear a mandatory face covering on the TTC “What are the odds that all of you have the same medical condition preventing you from wearing a mask?” Then I remember that I’m trying to avoid getting punched in the face.",
                                     "rawText": "I sometimes want to ask people and their friends who don’t wear a mandatory face covering on the TTC “What are the odds that all of you have the same medical condition preventing you from wearing a mask?” Then I remember that I’m trying to avoid getting punched in the face.",
                                     "type": "tweet",
                                     "created": "Fri, 13 May 2022 04:40:39 GMT",
                                     "tweetId": "1524972870560059394",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1524972870560059394",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "For the first time, I selected “MOST ARE NOT” (it also bugs me that it’s a streetcar I was on, not a train). <a href=\"https://t.co/3HX8XmJh87\">[link]</a>",
+                                            "rawText": "For the first time, I selected “MOST ARE NOT” (it also bugs me that it’s a streetcar I was on, not a train). https://t.co/3HX8XmJh87",
+                                            "type": "tweet",
+                                            "created": "Fri, 13 May 2022 04:47:54 GMT",
+                                            "tweetId": "1524974695900188679",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1524974695900188679",
+                                            "inReplyToId": "1524972870560059394",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
