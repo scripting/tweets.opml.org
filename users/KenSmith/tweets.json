@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 12 May 2022 02:13:17 GMT"
+            "dateModified": "Fri, 13 May 2022 15:52:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "One hundred years ago, Firestone wanted folks to know that its 32 x 4 car tire was gum-dipped. <a href=\"https://t.co/YIzz8F2veT\">[link]</a>",
+                                    "rawText": "One hundred years ago, Firestone wanted folks to know that its 32 x 4 car tire was gum-dipped. https://t.co/YIzz8F2veT",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 15:43:40 GMT",
+                                    "tweetId": "1525139721650831362",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1525139721650831362",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 11",
                             "type": "calendarDay",
