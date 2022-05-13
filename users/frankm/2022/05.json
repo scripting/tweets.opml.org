@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 00:40:01 GMT"
+            "dateModified": "Fri, 13 May 2022 01:02:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Our flooring tree is at full bloom. Enjoying it before the inevitable wind and rain comes. <a href=\"https://t.co/lzQ43z61Yu\">[link]</a>",
+                                    "rawText": "Our flooring tree is at full bloom. Enjoying it before the inevitable wind and rain comes. https://t.co/lzQ43z61Yu",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 00:58:18 GMT",
+                                    "tweetId": "1524916914891390981",
+                                    "urltweet": "https://twitter.com/frankm/status/1524916914891390981",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 8",
                             "type": "calendarDay",
