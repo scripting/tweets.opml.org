@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 02:04:20 GMT"
+            "dateModified": "Fri, 13 May 2022 02:17:06 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Fri, 13 May 2022 02:03:53 GMT",
                                     "tweetId": "1524933418269691904",
                                     "urltweet": "https://twitter.com/yudel/status/1524933418269691904",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@matthewstoller has the receipts.",
+                                            "rawText": "@matthewstoller has the receipts.",
+                                            "type": "tweet",
+                                            "created": "Fri, 13 May 2022 02:04:34 GMT",
+                                            "tweetId": "1524933591771250688",
+                                            "urltweet": "https://twitter.com/yudel/status/1524933591771250688",
+                                            "inReplyToId": "1524933418269691904",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@gavinsblog @simoncozens @McCracKenway @tha_rami @Google @sundarpichai People really ought to be picketing Adobe about this. In 2022, “world mode,” which recognizes right to left typesets, is not part of the default install of InDesign.",
