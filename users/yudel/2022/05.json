@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 23:20:43 GMT"
+            "dateModified": "Fri, 13 May 2022 23:33:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "So how do we do this, sir? <a href=\"https://t.co/Ru38GFI1ba\">[link]</a>",
+                                    "rawText": "So how do we do this, sir? https://t.co/Ru38GFI1ba",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 23:32:30 GMT",
+                                    "tweetId": "1525257710442270721",
+                                    "urltweet": "https://twitter.com/yudel/status/1525257710442270721",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "I can’t give executive orders to change IRS auditing decisions; you can.",
+                                            "rawText": "I can’t give executive orders to change IRS auditing decisions; you can.",
+                                            "type": "tweet",
+                                            "created": "Fri, 13 May 2022 23:33:20 GMT",
+                                            "tweetId": "1525257920564412416",
+                                            "urltweet": "https://twitter.com/yudel/status/1525257920564412416",
+                                            "inReplyToId": "1525257710442270721",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@BergYeshivaView @Doc_RPS @GettysburgNMP Certainly Samuel Clemens did some kind of tshuvah. My uncle did not. I would spit on a statue of a general, not on the grave of my uncle. But if you’d like to, apparently you can find him here. <a href=\"https://t.co/1lrMJOeQlD\">[link]</a>",
                                     "rawText": "@BergYeshivaView @Doc_RPS @GettysburgNMP Certainly Samuel Clemens did some kind of tshuvah. My uncle did not. I would spit on a statue of a general, not on the grave of my uncle. But if you’d like to, apparently you can find him here. https://t.co/1lrMJOeQlD",
