@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 21:23:36 GMT"
+            "dateModified": "Fri, 13 May 2022 21:36:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Steampipe: select * from cloud; <a href=\"https://t.co/qlVVvFc8N7\">[link]</a>",
+                                    "rawText": "Steampipe: select * from cloud; https://t.co/qlVVvFc8N7",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 21:33:47 GMT",
+                                    "tweetId": "1525227833701826560",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525227833701826560",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@JeffBezos Twitter-as-a-service from AWS would kick ass.\n\nI hope you do it. I'd love to test it. Big fan. ;-)",
                                     "rawText": "@JeffBezos Twitter-as-a-service from AWS would kick ass.\n\nI hope you do it. I'd love to test it. Big fan. ;-)",
