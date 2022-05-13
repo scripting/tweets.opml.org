@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 12 May 2022 21:51:04 GMT"
+            "dateModified": "Fri, 13 May 2022 14:13:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@Bill_Abely @brandonazheng @Noahpinion “They” has long been a default when it is not known what pronoun to use; e.g.:\n\nA: “Someone broke into my car last night.”\nB: “That’s horrible! Did they steal anything valuable?”\nA: “No, that almost makes it worse. They broke two windows for nothing!”\nB: “I hope they get caught!”",
+                                    "rawText": "@Bill_Abely @brandonazheng @Noahpinion “They” has long been a default when it is not known what pronoun to use; e.g.:\n\nA: “Someone broke into my car last night.”\nB: “That’s horrible! Did they steal anything valuable?”\nA: “No, that almost makes it worse. They broke two windows for nothing!”\nB: “I hope they get caught!”",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 14:04:16 GMT",
+                                    "tweetId": "1525114708881195008",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1525114708881195008",
+                                    "inReplyToId": "1524927501591519242",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 12",
                             "type": "calendarDay",
