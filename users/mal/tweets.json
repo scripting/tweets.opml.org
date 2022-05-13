@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 09 May 2022 22:38:41 GMT"
+            "dateModified": "Fri, 13 May 2022 09:49:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@jimmy_tho @JaniceMcGeachin If Idaho is so free why do we have to head to neighboring democratic states for healthcare?",
+                                    "rawText": "@jimmy_tho @JaniceMcGeachin If Idaho is so free why do we have to head to neighboring democratic states for healthcare?",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 09:46:46 GMT",
+                                    "tweetId": "1525049906708172800",
+                                    "urltweet": "https://twitter.com/mal/status/1525049906708172800",
+                                    "inReplyToId": "1524965624757116928",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 9",
                             "type": "calendarDay",
