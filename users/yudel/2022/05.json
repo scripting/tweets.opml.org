@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 22:55:11 GMT"
+            "dateModified": "Fri, 13 May 2022 23:07:57 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Meanwhile, back on twitter…. <a href=\"https://t.co/LU88Vvn2qV\">[link]</a>",
+                                    "rawText": "Meanwhile, back on twitter…. https://t.co/LU88Vvn2qV",
+                                    "type": "tweet",
+                                    "created": "Fri, 13 May 2022 23:04:45 GMT",
+                                    "tweetId": "1525250723977494535",
+                                    "urltweet": "https://twitter.com/yudel/status/1525250723977494535",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@JustSayXtian FYI.",
+                                            "rawText": "@JustSayXtian FYI.",
+                                            "type": "tweet",
+                                            "created": "Fri, 13 May 2022 23:06:51 GMT",
+                                            "tweetId": "1525251254024290306",
+                                            "urltweet": "https://twitter.com/yudel/status/1525251254024290306",
+                                            "inReplyToId": "1525250723977494535",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Fact check: True. At least in northern New Jersey. <a href=\"https://t.co/LCChkPwWXX\">[link]</a>",
                                     "rawText": "Fact check: True. At least in northern New Jersey. https://t.co/LCChkPwWXX",
