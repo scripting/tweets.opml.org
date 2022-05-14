@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 17:37:10 GMT"
+            "dateModified": "Sat, 14 May 2022 18:28:13 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 14 May 2022 17:37:00 GMT",
                                     "tweetId": "1525530630750085122",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1525530630750085122",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "Of course there are no hotels free in Cuxhaven on the weekend, so we‘ll bike 35 km eastward to a hotel then the next day 50 km further east to catch a train home",
+                                            "rawText": "Of course there are no hotels free in Cuxhaven on the weekend, so we‘ll bike 35 km eastward to a hotel then the next day 50 km further east to catch a train home",
+                                            "type": "tweet",
+                                            "created": "Sat, 14 May 2022 18:20:31 GMT",
+                                            "tweetId": "1525541583835234308",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1525541583835234308",
+                                            "inReplyToId": "1525530630750085122",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 }
                             ]
                         },
