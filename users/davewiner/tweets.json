@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 14:11:56 GMT"
+            "dateModified": "Sat, 14 May 2022 14:24:42 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "@rrhoover S&amp;P 500, because it's pretty much guaranteed to go up over time, because politicians are judged on its performance.",
+                                    "rawText": "@rrhoover S&amp;P 500, because it's pretty much guaranteed to go up over time, because politicians are judged on its performance.",
+                                    "type": "tweet",
+                                    "created": "Sat, 14 May 2022 14:16:31 GMT",
+                                    "tweetId": "1525480180688510976",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525480180688510976",
+                                    "inReplyToId": "1525452461451902984",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@judell @nathanwallace @steampipeio Okay thanks, I think I understand now. \n\nThis approach can only look in a single feed, the feed is the database.",
                                     "rawText": "@judell @nathanwallace @steampipeio Okay thanks, I think I understand now. \n\nThis approach can only look in a single feed, the feed is the database.",
