@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 21:10:08 GMT"
+            "dateModified": "Sat, 14 May 2022 21:22:54 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "@BabeDeJour No estás en la zona horaria adecuada",
+                                    "rawText": "@BabeDeJour No estás en la zona horaria adecuada",
+                                    "type": "tweet",
+                                    "created": "Sat, 14 May 2022 21:22:33 GMT",
+                                    "tweetId": "1525587394501689349",
+                                    "urltweet": "https://twitter.com/chiguire/status/1525587394501689349",
+                                    "inReplyToId": "1525585874058027008",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "Serbia quería unirse al tren de las canciones para lavarse las manos que había al principio de la pandemia #Eurovision",
+                                    "rawText": "Serbia quería unirse al tren de las canciones para lavarse las manos que había al principio de la pandemia #Eurovision",
+                                    "type": "tweet",
+                                    "created": "Sat, 14 May 2022 21:10:30 GMT",
+                                    "tweetId": "1525584362661609473",
+                                    "urltweet": "https://twitter.com/chiguire/status/1525584362661609473",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Al terminar la canción sus manos son seguras",
+                                            "rawText": "Al terminar la canción sus manos son seguras",
+                                            "type": "tweet",
+                                            "created": "Sat, 14 May 2022 21:11:53 GMT",
+                                            "tweetId": "1525584709035737088",
+                                            "urltweet": "https://twitter.com/chiguire/status/1525584709035737088",
+                                            "inReplyToId": "1525584362661609473",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Who’s doing the chroma key memes with Mika’s suit? #Eurovision",
                                     "rawText": "Who’s doing the chroma key memes with Mika’s suit? #Eurovision",
