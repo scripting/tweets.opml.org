@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 18:07:27 GMT"
+            "dateModified": "Sat, 14 May 2022 18:32:58 GMT"
         },
         "body": {
             "subs": [
@@ -36,7 +36,31 @@
                                     "created": "Sat, 14 May 2022 17:22:01 GMT",
                                     "tweetId": "1525526860754558976",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1525526860754558976",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I bought this charming enamel pin at a plant expo in Parkdale. <a href=\"https://t.co/8XeOAs66gw\">[link]</a>",
+                                            "rawText": "I bought this charming enamel pin at a plant expo in Parkdale. https://t.co/8XeOAs66gw",
+                                            "type": "tweet",
+                                            "created": "Sat, 14 May 2022 18:24:42 GMT",
+                                            "tweetId": "1525542634911150080",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1525542634911150080",
+                                            "inReplyToId": "1525526860754558976",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I ate this delicious burrito in Parkdale. <a href=\"https://t.co/bXZceoPf8O\">[link]</a>",
+                                                    "rawText": "I ate this delicious burrito in Parkdale. https://t.co/bXZceoPf8O",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 14 May 2022 18:26:38 GMT",
+                                                    "tweetId": "1525543123828482054",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1525543123828482054",
+                                                    "inReplyToId": "1525542634911150080",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Celadon_kate Good luck! May the Gods of Clothing You Haven’t Worn in Half a Year smile upon you!",
