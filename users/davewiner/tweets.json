@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 14:50:14 GMT"
+            "dateModified": "Sat, 14 May 2022 16:32:20 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "@corikesler is the new place bigger?",
+                                    "rawText": "@corikesler is the new place bigger?",
+                                    "type": "tweet",
+                                    "created": "Sat, 14 May 2022 16:24:24 GMT",
+                                    "tweetId": "1525512362731753476",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525512362731753476",
+                                    "inReplyToId": "1525496619956699141",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@judell, since we last talked i've been building apps with SQL-stored data. \n\nexample -- <a href=\"https://t.co/SLbNZ0xvfH\">[link]</a>",
                                     "rawText": "@judell, since we last talked i've been building apps with SQL-stored data. \n\nexample -- https://t.co/SLbNZ0xvfH",
