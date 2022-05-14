@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 20:31:51 GMT"
+            "dateModified": "Sat, 14 May 2022 20:44:36 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "14",
                             "subs": [
                                 {
+                                    "text": "Epic Accordion 🪗 #Eurovision",
+                                    "rawText": "Epic Accordion 🪗 #Eurovision",
+                                    "type": "tweet",
+                                    "created": "Sat, 14 May 2022 20:42:58 GMT",
+                                    "tweetId": "1525577431280754688",
+                                    "urltweet": "https://twitter.com/chiguire/status/1525577431280754688",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
                                     "text": "Perdón por llegar tarde, comencé a ver desde Italia #Eurovision",
                                     "rawText": "Perdón por llegar tarde, comencé a ver desde Italia #Eurovision",
                                     "type": "tweet",
                                     "created": "Sat, 14 May 2022 20:27:20 GMT",
                                     "tweetId": "1525573498713817088",
                                     "urltweet": "https://twitter.com/chiguire/status/1525573498713817088",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Por otro lado, amé Everything Everywhere All At Once. Seguimos con la racha de películas resolviendo el trauma generacional. 👀🪨",
+                                            "rawText": "Por otro lado, amé Everything Everywhere All At Once. Seguimos con la racha de películas resolviendo el trauma generacional. 👀🪨",
+                                            "type": "tweet",
+                                            "created": "Sat, 14 May 2022 20:32:48 GMT",
+                                            "tweetId": "1525574874479173632",
+                                            "urltweet": "https://twitter.com/chiguire/status/1525574874479173632",
+                                            "inReplyToId": "1525573498713817088",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@alesanchezr vale vale. Bueno, El Chigüire Literario sigue en Wordpress por el tema de los comentarios (aunque creo que ya es hora de migrarlo), y mi página personal pasó a ser generada con Jekyll hace un par de meses",
