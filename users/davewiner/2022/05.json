@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 08:52:50 GMT"
+            "dateModified": "Sat, 14 May 2022 09:05:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "My Biggest Regret In Moving To Mexico. <a href=\"https://t.co/Xm6CH3fl1H\">[link]</a>",
+                                    "rawText": "My Biggest Regret In Moving To Mexico. https://t.co/Xm6CH3fl1H",
+                                    "type": "tweet",
+                                    "created": "Sat, 14 May 2022 09:04:50 GMT",
+                                    "tweetId": "1525401741239394305",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525401741239394305",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@nathanwallace @steampipeio Where is the database that’s being queried?",
                                     "rawText": "@nathanwallace @steampipeio Where is the database that’s being queried?",
@@ -128,7 +137,31 @@
                                     "created": "Fri, 13 May 2022 22:00:01 GMT",
                                     "tweetId": "1525234435578372101",
                                     "urltweet": "https://twitter.com/davewiner/status/1525234435578372101",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I went to the MFMD site, expecting to find a spec of some kind, and support for their protocol by the founding products, but there’s nothing there.\n\nAlso, I object that it’s only venture backed companies. Where do you think all the lock-in comes from? 😀",
+                                            "rawText": "I went to the MFMD site, expecting to find a spec of some kind, and support for their protocol by the founding products, but there’s nothing there.\n\nAlso, I object that it’s only venture backed companies. Where do you think all the lock-in comes from? 😀",
+                                            "type": "tweet",
+                                            "created": "Sat, 14 May 2022 08:58:50 GMT",
+                                            "tweetId": "1525400231789182977",
+                                            "urltweet": "https://twitter.com/davewiner/status/1525400231789182977",
+                                            "inReplyToId": "1525234435578372101",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "This is a hard problem, btw.",
+                                                    "rawText": "This is a hard problem, btw.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 14 May 2022 08:58:50 GMT",
+                                                    "tweetId": "1525400232732901376",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1525400232732901376",
+                                                    "inReplyToId": "1525400231789182977",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@WichitaCindy Now I wish I spoke French.",
