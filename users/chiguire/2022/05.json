@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 15 May 2022 08:39:23 GMT"
+            "dateModified": "Sun, 15 May 2022 15:15:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@havebeeair Estaba viéndolo con una pana y en la mitad del show quedamos que íbamos a ver si íbamos al show del próximo año 😂",
+                                    "rawText": "@havebeeair Estaba viéndolo con una pana y en la mitad del show quedamos que íbamos a ver si íbamos al show del próximo año 😂",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 15:09:57 GMT",
+                                    "tweetId": "1525856013970284546",
+                                    "urltweet": "https://twitter.com/chiguire/status/1525856013970284546",
+                                    "inReplyToId": "1525854932519333888",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 14",
                             "type": "calendarDay",
