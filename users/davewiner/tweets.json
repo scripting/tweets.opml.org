@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 15 May 2022 14:27:00 GMT"
+            "dateModified": "Sun, 15 May 2022 14:39:46 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,15 @@
                             "name": "15",
                             "subs": [
                                 {
+                                    "text": "This is a good point, except I don't know about Manchin saving them. He's pretty corrupt. <a href=\"https://t.co/FxFXuxsfce\">[link]</a>",
+                                    "rawText": "This is a good point, except I don't know about Manchin saving them. He's pretty corrupt. https://t.co/FxFXuxsfce",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 14:35:07 GMT",
+                                    "tweetId": "1525847250127265794",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525847250127265794",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@judell @nathanwallace @steampipeio Very interesting. I'm working in this area, but on in regards to RSS. My app is a feed system, lots of users and feeds, and all in an SQL database. I want to do a user-facing SQL interface, but haven't started work on this.",
                                     "rawText": "@judell @nathanwallace @steampipeio Very interesting. I'm working in this area, but on in regards to RSS. My app is a feed system, lots of users and feeds, and all in an SQL database. I want to do a user-facing SQL interface, but haven't started work on this.",
                                     "type": "tweet",
@@ -28,7 +37,31 @@
                                     "tweetId": "1525844952479109121",
                                     "urltweet": "https://twitter.com/davewiner/status/1525844952479109121",
                                     "inReplyToId": "1525565651443585024",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@judell @nathanwallace @steampipeio A question, why not use the names of elements as RSS defines them? Why use different names?\n\nExample, instead of \n\nselect published, title, author_name, feed_link from ...\n\ndo this\n\nselect pubDate, title, author, link from\n\nthe latter are the actual names of values for RSS items",
+                                            "rawText": "@judell @nathanwallace @steampipeio A question, why not use the names of elements as RSS defines them? Why use different names?\n\nExample, instead of \n\nselect published, title, author_name, feed_link from ...\n\ndo this\n\nselect pubDate, title, author, link from\n\nthe latter are the actual names of values for RSS items",
+                                            "type": "tweet",
+                                            "created": "Sun, 15 May 2022 14:29:30 GMT",
+                                            "tweetId": "1525845836088893440",
+                                            "urltweet": "https://twitter.com/davewiner/status/1525845836088893440",
+                                            "inReplyToId": "1525844952479109121",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@judell @nathanwallace @steampipeio Why I'm concerned, when it comes time to put the user-facing API on my database, wouldn't it be cool if we used the same names for things? Luckily we already have a standard, so why not just use that.",
+                                                    "rawText": "@judell @nathanwallace @steampipeio Why I'm concerned, when it comes time to put the user-facing API on my database, wouldn't it be cool if we used the same names for things? Luckily we already have a standard, so why not just use that.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 15 May 2022 14:30:57 GMT",
+                                                    "tweetId": "1525846201265954818",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1525846201265954818",
+                                                    "inReplyToId": "1525845836088893440",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@jeffjarvis @stewartbrand That's the correct answer. The net is the world now, more so all the time. \n\nI gave a talk at your journalism class a few weeks ago. I did it from my living room in the mountains. \n\nThis is the kind of stuff that used to be in John Sculley videos.",
