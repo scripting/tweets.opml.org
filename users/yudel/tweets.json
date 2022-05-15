@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 15 May 2022 15:33:04 GMT"
+            "dateModified": "Sun, 15 May 2022 15:58:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@trekonomics You know, if I’m an advertiser, I want to know number of users accessing tweets directly, through the app or the web, not via tweetdeck or the API.",
+                                    "rawText": "@trekonomics You know, if I’m an advertiser, I want to know number of users accessing tweets directly, through the app or the web, not via tweetdeck or the API.",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 15:47:34 GMT",
+                                    "tweetId": "1525865482762477570",
+                                    "urltweet": "https://twitter.com/yudel/status/1525865482762477570",
+                                    "inReplyToId": "1525743306012913665",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@trekonomics The fact that figure is apparently not footnoted in SEC filings speaks to Twitter’s failures in the advertising business.",
+                                            "rawText": "@trekonomics The fact that figure is apparently not footnoted in SEC filings speaks to Twitter’s failures in the advertising business.",
+                                            "type": "tweet",
+                                            "created": "Sun, 15 May 2022 15:48:48 GMT",
+                                            "tweetId": "1525865792042110978",
+                                            "urltweet": "https://twitter.com/yudel/status/1525865792042110978",
+                                            "inReplyToId": "1525865482762477570",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Today in scions of Young Israel. <a href=\"https://t.co/KOrI54b3BM\">[link]</a>",
                                     "rawText": "Today in scions of Young Israel. https://t.co/KOrI54b3BM",
