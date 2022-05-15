@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 15:42:47 GMT"
+            "dateModified": "Sun, 15 May 2022 08:05:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Goedemorgen. Een blogpost over het grote gedoe van webloggen. Lekker meta. \nNaar aanleiding van de videoserie van @KittyKilian met @eljadaae en @MerelRoze \n\n<a href=\"https://t.co/vf505PwPW6\">[link]</a>",
+                                    "rawText": "Goedemorgen. Een blogpost over het grote gedoe van webloggen. Lekker meta. \nNaar aanleiding van de videoserie van @KittyKilian met @eljadaae en @MerelRoze \n\nhttps://t.co/vf505PwPW6",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 07:56:31 GMT",
+                                    "tweetId": "1525746938859094016",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1525746938859094016",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 14",
                             "type": "calendarDay",
