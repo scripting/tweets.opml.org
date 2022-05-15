@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 15 May 2022 00:59:53 GMT"
+            "dateModified": "Sun, 15 May 2022 08:39:23 GMT"
         },
         "body": {
             "subs": [
@@ -235,7 +235,19 @@
                                             "tweetId": "1525574874479173632",
                                             "urltweet": "https://twitter.com/chiguire/status/1525574874479173632",
                                             "inReplyToId": "1525573498713817088",
-                                            "tweetUserName": "chiguire"
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "Aún estoy pensando en esta película, fuertes vibes de The Matrix (la primera)",
+                                                    "rawText": "Aún estoy pensando en esta película, fuertes vibes de The Matrix (la primera)",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 15 May 2022 08:33:34 GMT",
+                                                    "tweetId": "1525756261245104128",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1525756261245104128",
+                                                    "inReplyToId": "1525574874479173632",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
