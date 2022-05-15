@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 15 May 2022 14:52:32 GMT"
+            "dateModified": "Sun, 15 May 2022 15:18:03 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,47 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@wjmaggos another guy says it's an irrelevant question. you should think about this some more.",
+                                    "rawText": "@wjmaggos another guy says it's an irrelevant question. you should think about this some more.",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 15:10:09 GMT",
+                                    "tweetId": "1525856066122153984",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525856066122153984",
+                                    "inReplyToId": "1525842935991918594",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@fozbaca another guy says it's a silly question. you should think about this some more.",
+                                    "rawText": "@fozbaca another guy says it's a silly question. you should think about this some more.",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 15:09:53 GMT",
+                                    "tweetId": "1525855998426103808",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525855998426103808",
+                                    "inReplyToId": "1525851465297891332",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "America has never, as far as I know, apologized to African-Americans for enslaving their ancestors, who it turns out weren't property and were our ancestors too, as Americans.",
+                                    "rawText": "America has never, as far as I know, apologized to African-Americans for enslaving their ancestors, who it turns out weren't property and were our ancestors too, as Americans.",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 15:07:56 GMT",
+                                    "tweetId": "1525855504848850946",
+                                    "urltweet": "https://twitter.com/davewiner/status/1525855504848850946",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "It's something we could take care of now, so we don't pass curse of not having resolved this on to future generations of Americans.",
+                                            "rawText": "It's something we could take care of now, so we don't pass curse of not having resolved this on to future generations of Americans.",
+                                            "type": "tweet",
+                                            "created": "Sun, 15 May 2022 15:09:04 GMT",
+                                            "tweetId": "1525855791915634688",
+                                            "urltweet": "https://twitter.com/davewiner/status/1525855791915634688",
+                                            "inReplyToId": "1525855504848850946",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@nathanwallace @judell @steampipeio My use case is parallel with yours, providing a programmatic interface with SQL to a system of feeds. \n\nYou're doing a much broader set of services, my focus is just on feeds. \n\nFrom your explanation I know understand better where you fit in. \n\nBTW, your product looks great.",
                                     "rawText": "@nathanwallace @judell @steampipeio My use case is parallel with yours, providing a programmatic interface with SQL to a system of feeds. \n\nYou're doing a much broader set of services, my focus is just on feeds. \n\nFrom your explanation I know understand better where you fit in. \n\nBTW, your product looks great.",
