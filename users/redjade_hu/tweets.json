@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 14:44:58 GMT"
+            "dateModified": "Sun, 15 May 2022 13:17:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@JeepinAintEazy @Chris18Dj @DW92368905 @redsteeze @ggreenwald this factually not true.",
+                                    "rawText": "@JeepinAintEazy @Chris18Dj @DW92368905 @redsteeze @ggreenwald this factually not true.",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 13:13:20 GMT",
+                                    "tweetId": "1525826667813523457",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1525826667813523457",
+                                    "inReplyToId": "1525824343850135553",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 14",
                             "type": "calendarDay",
