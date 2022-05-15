@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 23:03:00 GMT"
+            "dateModified": "Sun, 15 May 2022 15:25:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@TomFitton That’s nothing compared to the line GOP wants coming out of women.",
+                                    "rawText": "@TomFitton That’s nothing compared to the line GOP wants coming out of women.",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 15:23:56 GMT",
+                                    "tweetId": "1525859534794678272",
+                                    "urltweet": "https://twitter.com/mal/status/1525859534794678272",
+                                    "inReplyToId": "1525284488229666816",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 14",
                             "type": "calendarDay",
