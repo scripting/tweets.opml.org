@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 15 May 2022 19:51:51 GMT"
+            "dateModified": "Sun, 15 May 2022 20:55:40 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 15 May 2022 19:51:31 GMT",
                                     "tweetId": "1525926873787670529",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1525926873787670529",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Some of the attendees were themselves works of art.",
+                                            "rawText": "Some of the attendees were themselves works of art.",
+                                            "type": "tweet",
+                                            "created": "Sun, 15 May 2022 20:46:12 GMT",
+                                            "tweetId": "1525940633411674112",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1525940633411674112",
+                                            "inReplyToId": "1525926873787670529",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
