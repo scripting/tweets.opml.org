@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 10 May 2022 16:57:53 GMT"
+            "dateModified": "Sun, 15 May 2022 15:14:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "U pravi čas 👌 I otključano! <a href=\"https://t.co/pFBlVjLCXI\">[link]</a>",
+                                    "rawText": "U pravi čas 👌 I otključano! https://t.co/pFBlVjLCXI",
+                                    "type": "tweet",
+                                    "created": "Sun, 15 May 2022 15:13:26 GMT",
+                                    "tweetId": "1525856889183019008",
+                                    "urltweet": "https://twitter.com/miljko/status/1525856889183019008",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 10",
                             "type": "calendarDay",
