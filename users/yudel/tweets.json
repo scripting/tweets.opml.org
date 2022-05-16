@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 16 May 2022 03:15:04 GMT"
+            "dateModified": "Mon, 16 May 2022 03:27:50 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1526038087356370946",
                                     "urltweet": "https://twitter.com/yudel/status/1526038087356370946",
                                     "inReplyToId": "1526037584689905666",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@JosieBrendaA (I just got back from hearing this played live at Joe’s Pub.) <a href=\"https://t.co/mpejlCPcAN\">[link]</a>",
+                                            "rawText": "@JosieBrendaA (I just got back from hearing this played live at Joe’s Pub.) https://t.co/mpejlCPcAN",
+                                            "type": "tweet",
+                                            "created": "Mon, 16 May 2022 03:17:58 GMT",
+                                            "tweetId": "1526039226483343361",
+                                            "urltweet": "https://twitter.com/yudel/status/1526039226483343361",
+                                            "inReplyToId": "1526038087356370946",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@onthemainline Do you have access to the Long Island Jewish World?",
