@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 16 May 2022 15:44:38 GMT"
+            "dateModified": "Mon, 16 May 2022 21:54:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "This is, uh, interesting... \n<a href=\"https://t.co/bNJiNaupJS\">[link]</a>\n\n@mims @stevesi",
+                                    "rawText": "This is, uh, interesting... \nhttps://t.co/bNJiNaupJS\n\n@mims @stevesi",
+                                    "type": "tweet",
+                                    "created": "Mon, 16 May 2022 21:54:02 GMT",
+                                    "tweetId": "1526320093839249409",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1526320093839249409",
+                                    "tweetUserName": "RonKJeffries"
+                                },
                                 {
                                     "text": "@rabovitz @Twitter Maybe Elon will hire you to do due diligence? smile.",
                                     "rawText": "@rabovitz @Twitter Maybe Elon will hire you to do due diligence? smile.",
