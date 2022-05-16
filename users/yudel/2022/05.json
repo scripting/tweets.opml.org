@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 16 May 2022 05:22:43 GMT"
+            "dateModified": "Mon, 16 May 2022 05:35:29 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "16",
                             "subs": [
                                 {
+                                    "text": "@jh_swanson To be fair, Paramount has allowed the writers to take it where NBC would not have.",
+                                    "rawText": "@jh_swanson To be fair, Paramount has allowed the writers to take it where NBC would not have.",
+                                    "type": "tweet",
+                                    "created": "Mon, 16 May 2022 05:27:34 GMT",
+                                    "tweetId": "1526071839742623744",
+                                    "urltweet": "https://twitter.com/yudel/status/1526071839742623744",
+                                    "inReplyToId": "1526070841645182978",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
                                     "text": "@trekonomics Kinda natural to hate your job and its subject matter after a few decades.",
                                     "rawText": "@trekonomics Kinda natural to hate your job and its subject matter after a few decades.",
                                     "type": "tweet",
@@ -28,7 +38,19 @@
                                     "tweetId": "1526070477881495553",
                                     "urltweet": "https://twitter.com/yudel/status/1526070477881495553",
                                     "inReplyToId": "1526069226229727232",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@trekonomics Anyway, did you know that if the moon was made of green cheese lunar mining could displace the methane emissions of dairy cows equivalent to two million cars driving two million miles for two million years?",
+                                            "rawText": "@trekonomics Anyway, did you know that if the moon was made of green cheese lunar mining could displace the methane emissions of dairy cows equivalent to two million cars driving two million miles for two million years?",
+                                            "type": "tweet",
+                                            "created": "Mon, 16 May 2022 05:23:51 GMT",
+                                            "tweetId": "1526070906954600448",
+                                            "urltweet": "https://twitter.com/yudel/status/1526070906954600448",
+                                            "inReplyToId": "1526070477881495553",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@EmExAstris It would be really trivial for IG to show me the problematic post and what policy it violated. The fact they don’t can only spark speculation.",
