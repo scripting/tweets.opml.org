@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 18:53:45 GMT"
+            "dateModified": "Mon, 16 May 2022 04:17:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Good morning from the Expo-Plaza in Hannover! <a href=\"https://t.co/BIYrb0DYqt\">[link]</a>",
+                                    "rawText": "Good morning from the Expo-Plaza in Hannover! https://t.co/BIYrb0DYqt",
+                                    "type": "tweet",
+                                    "created": "Mon, 16 May 2022 04:06:57 GMT",
+                                    "tweetId": "1526051553970372608",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1526051553970372608",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 14",
                             "type": "calendarDay",
