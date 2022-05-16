@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 16 May 2022 20:45:13 GMT"
+            "dateModified": "Mon, 16 May 2022 20:57:59 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                             "tweetId": "1526300956924723200",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1526300956924723200",
                                             "inReplyToId": "1526226483437608960",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "This morning I went to a coffee shop (Coco’s in Little Italy) that sells giant chocolate chip cookies. It’s not quite as big as my head, though my mental health still did improve as a result of eating it. <a href=\"https://t.co/IewodRPQxH\">[link]</a>",
+                                                    "rawText": "This morning I went to a coffee shop (Coco’s in Little Italy) that sells giant chocolate chip cookies. It’s not quite as big as my head, though my mental health still did improve as a result of eating it. https://t.co/IewodRPQxH",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 16 May 2022 20:55:44 GMT",
+                                                    "tweetId": "1526305422063304704",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1526305422063304704",
+                                                    "inReplyToId": "1526300956924723200",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
