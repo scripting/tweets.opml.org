@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 19:25:10 GMT"
+            "dateModified": "Tue, 17 May 2022 21:07:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "I just bought an expensive product from Bose.\n\nBut before it'll do anything I have to create an account.\n\nIt seems that should have been in their advertising.",
+                                    "rawText": "I just bought an expensive product from Bose.\n\nBut before it'll do anything I have to create an account.\n\nIt seems that should have been in their advertising.",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 21:07:15 GMT",
+                                    "tweetId": "1526670709530968069",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526670709530968069",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@verycoolhacker I like that OPML is its native file format.\n\nSame with <a href=\"https://t.co/jBvvd07MwT\">[link]</a>\n\nThe two apps should be able to work on the same files. \n\nVery nice!\n\nI wish my friends in #toolsforthought world would do that too. ;-)",
+                                    "rawText": "@verycoolhacker I like that OPML is its native file format.\n\nSame with https://t.co/jBvvd07MwT\n\nThe two apps should be able to work on the same files. \n\nVery nice!\n\nI wish my friends in #toolsforthought world would do that too. ;-)",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 21:04:51 GMT",
+                                    "tweetId": "1526670101658882049",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526670101658882049",
+                                    "inReplyToId": "1526655670480687105",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Elon Musk Says He'll Vote Republican in 'This Election.' <a href=\"https://t.co/bTuXXsMCw5\">[link]</a>",
                                     "rawText": "Elon Musk Says He'll Vote Republican in 'This Election.' https://t.co/bTuXXsMCw5",
