@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 12:49:30 GMT"
+            "dateModified": "Tue, 17 May 2022 13:40:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,60 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "I've hoped that even though Elon Musk was a partner of Peter Thiel in Paypal, that he didn't have the same disgusting nazi-like politics as Thiel. Give him the benefit of the doubt. Hope for the best. But it's becoming harder to give him that benefit.",
+                                    "rawText": "I've hoped that even though Elon Musk was a partner of Peter Thiel in Paypal, that he didn't have the same disgusting nazi-like politics as Thiel. Give him the benefit of the doubt. Hope for the best. But it's becoming harder to give him that benefit.",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 13:38:15 GMT",
+                                    "tweetId": "1526557714431737863",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526557714431737863",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "1/4 Software is easy to debug if you treat it like anything else.",
+                                    "rawText": "1/4 Software is easy to debug if you treat it like anything else.",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 13:35:57 GMT",
+                                    "tweetId": "1526557135261384715",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526557135261384715",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "2/4 If you have what you think is a bad light bulb, but when you put a new bulb in the socket it doesn't work, you'd conclude the problem was in the socket, not the bulb.",
+                                            "rawText": "2/4 If you have what you think is a bad light bulb, but when you put a new bulb in the socket it doesn't work, you'd conclude the problem was in the socket, not the bulb.",
+                                            "type": "tweet",
+                                            "created": "Tue, 17 May 2022 13:35:58 GMT",
+                                            "tweetId": "1526557138880970752",
+                                            "urltweet": "https://twitter.com/davewiner/status/1526557138880970752",
+                                            "inReplyToId": "1526557135261384715",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "3/4 (Although it doesn't hurt to try a third bulb from a different pack if possible. Sometimes two bulbs are broken.)",
+                                                    "rawText": "3/4 (Although it doesn't hurt to try a third bulb from a different pack if possible. Sometimes two bulbs are broken.)",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 17 May 2022 13:35:59 GMT",
+                                                    "tweetId": "1526557143117221890",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1526557143117221890",
+                                                    "inReplyToId": "1526557138880970752",
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "4/4 Debugging a problem in software is usually just a series of those kinds of tests.",
+                                                            "rawText": "4/4 Debugging a problem in software is usually just a series of those kinds of tests.",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 17 May 2022 13:36:01 GMT",
+                                                            "tweetId": "1526557149853368321",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1526557149853368321",
+                                                            "inReplyToId": "1526557143117221890",
+                                                            "tweetUserName": "davewiner"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Jordan Peterson announces he is 'departing' Twitter. <a href=\"https://t.co/kqx3Y1VMvq\">[link]</a>",
                                     "rawText": "Jordan Peterson announces he is 'departing' Twitter. https://t.co/kqx3Y1VMvq",
