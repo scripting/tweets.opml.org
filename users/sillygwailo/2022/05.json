@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 16:06:43 GMT"
+            "dateModified": "Tue, 17 May 2022 16:57:46 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "I sometimes use “like” as punctuation, and in those cases, I’m trying to replace it with a pause instead. I’m keeping it when I need to drive home a point, though. <a href=\"https://t.co/F0NZ4s3r9R\">[link]</a>",
+                                    "rawText": "I sometimes use “like” as punctuation, and in those cases, I’m trying to replace it with a pause instead. I’m keeping it when I need to drive home a point, though. https://t.co/F0NZ4s3r9R",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 16:51:58 GMT",
+                                    "tweetId": "1526606462318952449",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1526606462318952449",
+                                    "inReplyToId": "1488883606470672387",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/SWY2iz7o43\">[link]</a>",
+                                            "rawText": "https://t.co/SWY2iz7o43",
+                                            "type": "tweet",
+                                            "created": "Tue, 17 May 2022 16:52:26 GMT",
+                                            "tweetId": "1526606579549847552",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1526606579549847552",
+                                            "inReplyToId": "1526606462318952449",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "I have everything I need to he productive today. <a href=\"https://t.co/vnk9D8Jdn6\">[link]</a>",
                                     "rawText": "I have everything I need to he productive today. https://t.co/vnk9D8Jdn6",
