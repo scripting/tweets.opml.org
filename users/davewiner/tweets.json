@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 16:00:58 GMT"
+            "dateModified": "Tue, 17 May 2022 16:13:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "@tad exactly",
+                                    "rawText": "@tad exactly",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 16:01:12 GMT",
+                                    "tweetId": "1526593688432005121",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526593688432005121",
+                                    "inReplyToId": "1526593357673136129",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "If Twitter had a Steve Jobs type leader he'd come up with a brilliant idea, akin to noise-cancelling headphones (and call it that), and explain how satisfying it can be to tell the trolls to shut the fuck up.\n\nAhhhh nice and quiet.",
                                     "rawText": "If Twitter had a Steve Jobs type leader he'd come up with a brilliant idea, akin to noise-cancelling headphones (and call it that), and explain how satisfying it can be to tell the trolls to shut the fuck up.\n\nAhhhh nice and quiet.",
@@ -77,7 +87,19 @@
                                                                             "tweetId": "1526593473427783684",
                                                                             "urltweet": "https://twitter.com/davewiner/status/1526593473427783684",
                                                                             "inReplyToId": "1526592956333015040",
-                                                                            "tweetUserName": "davewiner"
+                                                                            "tweetUserName": "davewiner",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "I think I'll add another tweet.\n\nA Repub is someone who likes to troll Libs.\n\nA Lib is someone who thinks Repubs want to know why they're wrong.",
+                                                                                    "rawText": "I think I'll add another tweet.\n\nA Repub is someone who likes to troll Libs.\n\nA Lib is someone who thinks Repubs want to know why they're wrong.",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Tue, 17 May 2022 16:02:08 GMT",
+                                                                                    "tweetId": "1526593921186516993",
+                                                                                    "urltweet": "https://twitter.com/davewiner/status/1526593921186516993",
+                                                                                    "inReplyToId": "1526593473427783684",
+                                                                                    "tweetUserName": "davewiner"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     ]
                                                                 }
