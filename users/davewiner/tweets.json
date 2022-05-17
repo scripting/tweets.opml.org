@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 01:45:47 GMT"
+            "dateModified": "Tue, 17 May 2022 11:32:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "I have a product, <a href=\"https://t.co/mvc62pUlkz\">[link]</a>, that needs to be marketed and managed properly. I think it should ultimately be sold to one of the large streaming services.",
+                                    "rawText": "I have a product, https://t.co/mvc62pUlkz, that needs to be marketed and managed properly. I think it should ultimately be sold to one of the large streaming services.",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 11:23:03 GMT",
+                                    "tweetId": "1526523687125630983",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526523687125630983",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 16",
                             "type": "calendarDay",
