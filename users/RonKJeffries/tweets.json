@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 03:01:07 GMT"
+            "dateModified": "Tue, 17 May 2022 18:07:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@rycaut My Lenovo IP Flex 5 (from CostCo) has been a joy to use. Not the cheapest but works great. Be sure to get touch screen no matter what you buy.",
+                                    "rawText": "@rycaut My Lenovo IP Flex 5 (from CostCo) has been a joy to use. Not the cheapest but works great. Be sure to get touch screen no matter what you buy.",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 18:00:55 GMT",
+                                    "tweetId": "1526623816931110913",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1526623816931110913",
+                                    "inReplyToId": "1526601338422894593",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@evanpro What is this \"underwear\" of which you speak?",
+                                    "rawText": "@evanpro What is this \"underwear\" of which you speak?",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 17:56:53 GMT",
+                                    "tweetId": "1526622802224173056",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1526622802224173056",
+                                    "inReplyToId": "1526535004892848128",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 16",
                             "type": "calendarDay",
