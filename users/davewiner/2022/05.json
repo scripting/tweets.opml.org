@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 21:07:17 GMT"
+            "dateModified": "Tue, 17 May 2022 21:20:03 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "17",
                             "subs": [
                                 {
+                                    "text": "@bruces OK to repost this pic?",
+                                    "rawText": "@bruces OK to repost this pic?",
+                                    "type": "tweet",
+                                    "created": "Tue, 17 May 2022 21:17:26 GMT",
+                                    "tweetId": "1526673270979837958",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526673270979837958",
+                                    "inReplyToId": "1526648173254656001",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "I just bought an expensive product from Bose.\n\nBut before it'll do anything I have to create an account.\n\nIt seems that should have been in their advertising.",
                                     "rawText": "I just bought an expensive product from Bose.\n\nBut before it'll do anything I have to create an account.\n\nIt seems that should have been in their advertising.",
                                     "type": "tweet",
                                     "created": "Tue, 17 May 2022 21:07:15 GMT",
                                     "tweetId": "1526670709530968069",
                                     "urltweet": "https://twitter.com/davewiner/status/1526670709530968069",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "And now it's updating itself. Oy. They need to work on the instant gratification thing.",
+                                            "rawText": "And now it's updating itself. Oy. They need to work on the instant gratification thing.",
+                                            "type": "tweet",
+                                            "created": "Tue, 17 May 2022 21:18:07 GMT",
+                                            "tweetId": "1526673443617480705",
+                                            "urltweet": "https://twitter.com/davewiner/status/1526673443617480705",
+                                            "inReplyToId": "1526670709530968069",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@verycoolhacker I like that OPML is its native file format.\n\nSame with <a href=\"https://t.co/jBvvd07MwT\">[link]</a>\n\nThe two apps should be able to work on the same files. \n\nVery nice!\n\nI wish my friends in #toolsforthought world would do that too. ;-)",
