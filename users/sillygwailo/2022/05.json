@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 03:33:39 GMT"
+            "dateModified": "Tue, 17 May 2022 03:46:25 GMT"
         },
         "body": {
             "subs": [
@@ -210,7 +210,31 @@
                                                             "tweetId": "1526403174738890754",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1526403174738890754",
                                                             "inReplyToId": "1526305422063304704",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "I topped the day off with a baseball game. <a href=\"https://t.co/qqD4ibqVRY\">[link]</a>",
+                                                                    "rawText": "I topped the day off with a baseball game. https://t.co/qqD4ibqVRY",
+                                                                    "type": "tweet",
+                                                                    "created": "Tue, 17 May 2022 03:40:35 GMT",
+                                                                    "tweetId": "1526407305331367937",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1526407305331367937",
+                                                                    "inReplyToId": "1526403174738890754",
+                                                                    "tweetUserName": "sillygwailo",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "I gotta say, today was a good day.",
+                                                                            "rawText": "I gotta say, today was a good day.",
+                                                                            "type": "tweet",
+                                                                            "created": "Tue, 17 May 2022 03:40:35 GMT",
+                                                                            "tweetId": "1526407306929397760",
+                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1526407306929397760",
+                                                                            "inReplyToId": "1526407305331367937",
+                                                                            "tweetUserName": "sillygwailo"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
