@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 02:42:36 GMT"
+            "dateModified": "Tue, 17 May 2022 03:33:39 GMT"
         },
         "body": {
             "subs": [
@@ -200,7 +200,19 @@
                                                     "tweetId": "1526305422063304704",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1526305422063304704",
                                                     "inReplyToId": "1526300956924723200",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "I can’t believe I ate the whole thing! <a href=\"https://t.co/zBWCMDRfYE\">[link]</a>",
+                                                            "rawText": "I can’t believe I ate the whole thing! https://t.co/zBWCMDRfYE",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 17 May 2022 03:24:10 GMT",
+                                                            "tweetId": "1526403174738890754",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1526403174738890754",
+                                                            "inReplyToId": "1526305422063304704",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
