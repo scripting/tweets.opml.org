@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 23:07:55 GMT"
+            "dateModified": "Tue, 17 May 2022 23:20:40 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,31 @@
                                     "tweetId": "1526700775203823617",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1526700775203823617",
                                     "inReplyToId": "1484358682678730757",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Because I have honour, I’m moving off Google Workspace for my dormant sole proprietorship @e14t, the domain for which is purely for business purposes. I’ll most likely be back if I need to rejuvenate it.",
+                                            "rawText": "Because I have honour, I’m moving off Google Workspace for my dormant sole proprietorship @e14t, the domain for which is purely for business purposes. I’ll most likely be back if I need to rejuvenate it.",
+                                            "type": "tweet",
+                                            "created": "Tue, 17 May 2022 23:16:22 GMT",
+                                            "tweetId": "1526703202283945984",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1526703202283945984",
+                                            "inReplyToId": "1526700775203823617",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I’ll use <a href=\"https://t.co/N9SJP9nVjC\">[link]</a> for free email forwarding for the business domain.",
+                                                    "rawText": "I’ll use https://t.co/N9SJP9nVjC for free email forwarding for the business domain.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 17 May 2022 23:20:19 GMT",
+                                                    "tweetId": "1526704195251982336",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1526704195251982336",
+                                                    "inReplyToId": "1526703202283945984",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Now that I know to watch out for this, I keep wondering if an article I find in search engines is the original or a weird plagiarism with random words replaced with synonyms. <a href=\"https://t.co/vazlEnAbG7\">[link]</a>",
