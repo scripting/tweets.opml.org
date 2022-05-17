@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 00:22:12 GMT"
+            "dateModified": "Tue, 17 May 2022 01:26:01 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,19 @@
                                                             "tweetId": "1526354171217252353",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1526354171217252353",
                                                             "inReplyToId": "1526333809393901569",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "My view from the cheap seats. <a href=\"https://t.co/RcGWt8uFF2\">[link]</a>",
+                                                                    "rawText": "My view from the cheap seats. https://t.co/RcGWt8uFF2",
+                                                                    "type": "tweet",
+                                                                    "created": "Tue, 17 May 2022 01:16:22 GMT",
+                                                                    "tweetId": "1526371013109358595",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1526371013109358595",
+                                                                    "inReplyToId": "1526354171217252353",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
