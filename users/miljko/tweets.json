@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 16 May 2022 14:25:48 GMT"
+            "dateModified": "Wed, 18 May 2022 02:35:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@trishankkarthik Just started reading. So far so good. 70s vibes aged better than the 90s.",
+                                    "rawText": "@trishankkarthik Just started reading. So far so good. 70s vibes aged better than the 90s.",
+                                    "type": "tweet",
+                                    "created": "Wed, 18 May 2022 02:33:54 GMT",
+                                    "tweetId": "1526752910557814784",
+                                    "urltweet": "https://twitter.com/miljko/status/1526752910557814784",
+                                    "inReplyToId": "1526751315107676161",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 16",
                             "type": "calendarDay",
