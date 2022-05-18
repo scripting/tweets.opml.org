@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 18 May 2022 16:03:12 GMT"
+            "dateModified": "Wed, 18 May 2022 16:41:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "@gwthompson @jessegrosjean @chriseidhof @WorkFlowy @checkvist_news That's correct. Electric Drummer is the same outliner. Different package.",
+                                    "rawText": "@gwthompson @jessegrosjean @chriseidhof @WorkFlowy @checkvist_news That's correct. Electric Drummer is the same outliner. Different package.",
+                                    "type": "tweet",
+                                    "created": "Wed, 18 May 2022 16:32:55 GMT",
+                                    "tweetId": "1526964059119267841",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526964059119267841",
+                                    "inReplyToId": "1526963562337427458",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@jessegrosjean @gwthompson @chriseidhof @WorkFlowy @checkvist_news Jesse, do you use GitHub?\n\nI'd like to start a thread there for the question of round-trip atts.\n\nOK?",
+                                    "rawText": "@jessegrosjean @gwthompson @chriseidhof @WorkFlowy @checkvist_news Jesse, do you use GitHub?\n\nI'd like to start a thread there for the question of round-trip atts.\n\nOK?",
+                                    "type": "tweet",
+                                    "created": "Wed, 18 May 2022 16:32:21 GMT",
+                                    "tweetId": "1526963916609396736",
+                                    "urltweet": "https://twitter.com/davewiner/status/1526963916609396736",
+                                    "inReplyToId": "1526954727002578944",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@jessegrosjean @gwthompson @chriseidhof @WorkFlowy @checkvist_news Good.",
                                     "rawText": "@jessegrosjean @gwthompson @chriseidhof @WorkFlowy @checkvist_news Good.",
@@ -38,7 +58,19 @@
                                     "tweetId": "1526951160598482944",
                                     "urltweet": "https://twitter.com/davewiner/status/1526951160598482944",
                                     "inReplyToId": "1526947314312650763",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@jayrosen_nyu jay i wonder who they would listen to.",
+                                            "rawText": "@jayrosen_nyu jay i wonder who they would listen to.",
+                                            "type": "tweet",
+                                            "created": "Wed, 18 May 2022 16:34:02 GMT",
+                                            "tweetId": "1526964336136269825",
+                                            "urltweet": "https://twitter.com/davewiner/status/1526964336136269825",
+                                            "inReplyToId": "1526951160598482944",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@gwthompson @jessegrosjean @chriseidhof @WorkFlowy @checkvist_news could you help him with that?\n\nthat's the first goal is to make sure the two products share files and leave the data the other put there as it was. \n\nmaybe we should start a discussion thread for the connection between these two products.",
