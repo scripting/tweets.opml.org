@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 18 May 2022 00:20:59 GMT"
+            "dateModified": "Wed, 18 May 2022 00:33:45 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "This is cute, but the real question is how can we foster a Yiddish Reformation. <a href=\"https://t.co/mNPrQO3OpL\">[link]</a>",
+                                    "rawText": "This is cute, but the real question is how can we foster a Yiddish Reformation. https://t.co/mNPrQO3OpL",
+                                    "type": "tweet",
+                                    "created": "Wed, 18 May 2022 00:26:00 GMT",
+                                    "tweetId": "1526720724001558528",
+                                    "urltweet": "https://twitter.com/yudel/status/1526720724001558528",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Proud to have done a small bit in that direction. <a href=\"https://t.co/3xRSH5JIuK\">[link]</a>",
+                                            "rawText": "Proud to have done a small bit in that direction. https://t.co/3xRSH5JIuK",
+                                            "type": "tweet",
+                                            "created": "Wed, 18 May 2022 00:26:29 GMT",
+                                            "tweetId": "1526720846177484800",
+                                            "urltweet": "https://twitter.com/yudel/status/1526720846177484800",
+                                            "inReplyToId": "1526720724001558528",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Go for it, folks! <a href=\"https://t.co/tYE94s0Sae\">[link]</a>",
                                     "rawText": "Go for it, folks! https://t.co/tYE94s0Sae",
