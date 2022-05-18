@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 17:31:48 GMT"
+            "dateModified": "Wed, 18 May 2022 04:09:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@merchandise True. Bij mij is het rustig wat nieuws lezen en wat puzzels doen.",
+                                    "rawText": "@merchandise True. Bij mij is het rustig wat nieuws lezen en wat puzzels doen.",
+                                    "type": "tweet",
+                                    "created": "Wed, 18 May 2022 04:03:22 GMT",
+                                    "tweetId": "1526775425808089090",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1526775425808089090",
+                                    "inReplyToId": "1526768746827812865",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 17",
                             "type": "calendarDay",
