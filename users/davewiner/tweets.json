@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 18 May 2022 13:42:48 GMT"
+            "dateModified": "Wed, 18 May 2022 13:55:34 GMT"
         },
         "body": {
             "subs": [
@@ -143,7 +143,19 @@
                                             "tweetId": "1526677657282297857",
                                             "urltweet": "https://twitter.com/davewiner/status/1526677657282297857",
                                             "inReplyToId": "1526677506010628097",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "Here's my full review.\n\n<a href=\"https://t.co/CwmG1jb0ov\">[link]</a>\n\nI'm returning it.",
+                                                    "rawText": "Here's my full review.\n\nhttps://t.co/CwmG1jb0ov\n\nI'm returning it.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 18 May 2022 13:46:39 GMT",
+                                                    "tweetId": "1526922215559766022",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1526922215559766022",
+                                                    "inReplyToId": "1526677657282297857",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
@@ -2393,7 +2405,19 @@
                                     "created": "Wed, 11 May 2022 23:34:19 GMT",
                                     "tweetId": "1524533392901083136",
                                     "urltweet": "https://twitter.com/davewiner/status/1524533392901083136",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I got the $400 Bose speaker with built-in Alexa.\n\n<a href=\"https://t.co/CwmG1jb0ov\">[link]</a>\n\nTL;DR -- I'm returning it.",
+                                            "rawText": "I got the $400 Bose speaker with built-in Alexa.\n\nhttps://t.co/CwmG1jb0ov\n\nTL;DR -- I'm returning it.",
+                                            "type": "tweet",
+                                            "created": "Wed, 18 May 2022 13:53:56 GMT",
+                                            "tweetId": "1526924049024172034",
+                                            "urltweet": "https://twitter.com/davewiner/status/1526924049024172034",
+                                            "inReplyToId": "1524533392901083136",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "2022 Ford F-150 Lightning First Drive: A Monumental Electric Pickup Truck. <a href=\"https://t.co/LvQgU9ZK4q\">[link]</a>",
