@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 18 May 2022 09:39:18 GMT"
+            "dateModified": "Wed, 18 May 2022 10:04:50 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 18 May 2022 09:29:55 GMT",
                                     "tweetId": "1526857605347430592",
                                     "urltweet": "https://twitter.com/defjaf/status/1526857605347430592",
-                                    "tweetUserName": "defjaf"
+                                    "tweetUserName": "defjaf",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/aYDqSoddv3\">[link]</a>",
+                                            "rawText": "https://t.co/aYDqSoddv3",
+                                            "type": "tweet",
+                                            "created": "Wed, 18 May 2022 09:53:32 GMT",
+                                            "tweetId": "1526863549187891200",
+                                            "urltweet": "https://twitter.com/defjaf/status/1526863549187891200",
+                                            "inReplyToId": "1526857605347430592",
+                                            "tweetUserName": "defjaf"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@ulyssesapp I’ve got Ulysses on several devices, and all of a sudden it is consistently freezing on launch on one of my Macs. Help, please!",
