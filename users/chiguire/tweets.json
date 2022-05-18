@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 22:08:06 GMT"
+            "dateModified": "Wed, 18 May 2022 09:50:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@binauralfusion <a href=\"https://t.co/1eNYv9f7l7\">[link]</a>",
+                                    "rawText": "@binauralfusion https://t.co/1eNYv9f7l7",
+                                    "type": "tweet",
+                                    "created": "Wed, 18 May 2022 09:38:59 GMT",
+                                    "tweetId": "1526859886054760448",
+                                    "urltweet": "https://twitter.com/chiguire/status/1526859886054760448",
+                                    "inReplyToId": "1526858358694756358",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 17",
                             "type": "calendarDay",
