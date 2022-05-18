@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 18 May 2022 09:50:04 GMT"
+            "dateModified": "Wed, 18 May 2022 10:28:21 GMT"
         },
         "body": {
             "subs": [
@@ -54,7 +54,19 @@
                                     "created": "Tue, 17 May 2022 22:05:04 GMT",
                                     "tweetId": "1526685257390596096",
                                     "urltweet": "https://twitter.com/chiguire/status/1526685257390596096",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Lamento decir que esta taza no es para zurdos. Intento tomar café y termino dándole un beso en la frente a la taza.",
+                                            "rawText": "Lamento decir que esta taza no es para zurdos. Intento tomar café y termino dándole un beso en la frente a la taza.",
+                                            "type": "tweet",
+                                            "created": "Wed, 18 May 2022 10:16:36 GMT",
+                                            "tweetId": "1526869355207839744",
+                                            "urltweet": "https://twitter.com/chiguire/status/1526869355207839744",
+                                            "inReplyToId": "1526685257390596096",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Foone It is very long indeed",
