@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 18 May 2022 20:28:13 GMT"
+            "dateModified": "Thu, 19 May 2022 08:35:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@MarySafroArt OnlyDans",
+                                    "rawText": "@MarySafroArt OnlyDans",
+                                    "type": "tweet",
+                                    "created": "Thu, 19 May 2022 08:33:36 GMT",
+                                    "tweetId": "1527205820626239488",
+                                    "urltweet": "https://twitter.com/chiguire/status/1527205820626239488",
+                                    "inReplyToId": "1527205329343324160",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "Usar uBlock Origin para ocultar el bloque de What's Happening. No sé a quien se lo leí pero gracias.",
+                                    "rawText": "Usar uBlock Origin para ocultar el bloque de What's Happening. No sé a quien se lo leí pero gracias.",
+                                    "type": "tweet",
+                                    "created": "Thu, 19 May 2022 08:27:44 GMT",
+                                    "tweetId": "1527204342679355394",
+                                    "urltweet": "https://twitter.com/chiguire/status/1527204342679355394",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 18",
                             "type": "calendarDay",
