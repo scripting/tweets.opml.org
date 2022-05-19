@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 19 May 2022 16:02:24 GMT"
+            "dateModified": "Thu, 19 May 2022 16:15:10 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1527318722842886144",
                                     "urltweet": "https://twitter.com/chiguire/status/1527318722842886144",
                                     "inReplyToId": "1527317691962249216",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "@iamemhn O Machetusetts, dependiendo quien lo diga",
+                                            "rawText": "@iamemhn O Machetusetts, dependiendo quien lo diga",
+                                            "type": "tweet",
+                                            "created": "Thu, 19 May 2022 16:02:52 GMT",
+                                            "tweetId": "1527318882272571392",
+                                            "urltweet": "https://twitter.com/chiguire/status/1527318882272571392",
+                                            "inReplyToId": "1527318722842886144",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@FreyaHolmer <a href=\"https://t.co/Jw6R8ZSkh5\">[link]</a>",
