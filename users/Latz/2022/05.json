@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 17 May 2022 19:57:27 GMT"
+            "dateModified": "Thu, 19 May 2022 08:45:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Was ein Parkplatz in Berlin wirklich kosten müsste: \"Sie drehen schon seit Stunden hier so ihre Runden \"\n\n<a href=\"https://t.co/n31a1pKHbK\">[link]</a> (rbb24)",
+                                    "rawText": "Was ein Parkplatz in Berlin wirklich kosten müsste: \"Sie drehen schon seit Stunden hier so ihre Runden \"\n\nhttps://t.co/n31a1pKHbK (rbb24)",
+                                    "type": "tweet",
+                                    "created": "Thu, 19 May 2022 08:34:15 GMT",
+                                    "tweetId": "1527205986355888129",
+                                    "urltweet": "https://twitter.com/Latz/status/1527205986355888129",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 17",
                             "type": "calendarDay",
