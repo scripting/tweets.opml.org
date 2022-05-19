@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/PG_Kelly/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 15 May 2022 02:42:44 GMT"
+            "dateModified": "Thu, 19 May 2022 22:51:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@elincomm @adamcurry Congrats! My best to both of you.",
+                                    "rawText": "@elincomm @adamcurry Congrats! My best to both of you.",
+                                    "type": "tweet",
+                                    "created": "Thu, 19 May 2022 22:51:03 GMT",
+                                    "tweetId": "1527421605738991617",
+                                    "urltweet": "https://twitter.com/PG_Kelly/status/1527421605738991617",
+                                    "inReplyToId": "1527263575747842049",
+                                    "tweetUserName": "PG_Kelly"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 14",
                             "type": "calendarDay",
