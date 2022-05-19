@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 19 May 2022 09:26:45 GMT"
+            "dateModified": "Thu, 19 May 2022 11:21:37 GMT"
         },
         "body": {
             "subs": [
@@ -1554,7 +1554,19 @@
                                                                                                                     "tweetId": "1526498083118452736",
                                                                                                                     "urltweet": "https://twitter.com/chiguire/status/1526498083118452736",
                                                                                                                     "inReplyToId": "1526270238530093056",
-                                                                                                                    "tweetUserName": "chiguire"
+                                                                                                                    "tweetUserName": "chiguire",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "#Heardle #83\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\n<a href=\"https://t.co/Z6l3YYHnYY\">[link]</a>",
+                                                                                                                            "rawText": "#Heardle #83\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\nhttps://t.co/Z6l3YYHnYY",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Thu, 19 May 2022 11:16:40 GMT",
+                                                                                                                            "tweetId": "1527246857268764672",
+                                                                                                                            "urltweet": "https://twitter.com/chiguire/status/1527246857268764672",
+                                                                                                                            "inReplyToId": "1526498083118452736",
+                                                                                                                            "tweetUserName": "chiguire"
+                                                                                                                        }
+                                                                                                                    ]
                                                                                                                 }
                                                                                                             ]
                                                                                                         }
