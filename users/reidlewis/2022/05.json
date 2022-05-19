@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "reidlewis tweets",
+            "dateCreated": "Mon, 24 Jan 2022 12:39:55 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/reidlewis/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Thu, 19 May 2022 21:05:27 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "May 2022",
+                    "type": "calendarMonth",
+                    "name": "may2022",
+                    "subs": [
+                        {
+                            "text": "May 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@austinkleon H-E-B Grocery Company, LP is an American privately held supermarket chain based in San Antonio, Texas, with more than 340 stores throughout the U.S. state of Texas, as well as in northeast Mexico.",
+                                    "rawText": "@austinkleon H-E-B Grocery Company, LP is an American privately held supermarket chain based in San Antonio, Texas, with more than 340 stores throughout the U.S. state of Texas, as well as in northeast Mexico.",
+                                    "type": "tweet",
+                                    "created": "Thu, 19 May 2022 21:00:57 GMT",
+                                    "tweetId": "1527393899752431616",
+                                    "urltweet": "https://twitter.com/reidlewis/status/1527393899752431616",
+                                    "inReplyToId": "1527391145881477120",
+                                    "tweetUserName": "reidlewis"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
