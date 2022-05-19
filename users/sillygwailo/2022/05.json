@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 19 May 2022 16:36:41 GMT"
+            "dateModified": "Thu, 19 May 2022 17:40:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,75 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "I have questions about this. <a href=\"https://t.co/VUmk3MhUZV\">[link]</a>",
+                                    "rawText": "I have questions about this. https://t.co/VUmk3MhUZV",
+                                    "type": "tweet",
+                                    "created": "Thu, 19 May 2022 17:27:54 GMT",
+                                    "tweetId": "1527340280038715393",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1527340280038715393",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Remember how Twitter removes features because only a tiny percentage of people use them? I’m not saying they will in this case, but they’ve done it in the past.",
+                                            "rawText": "Remember how Twitter removes features because only a tiny percentage of people use them? I’m not saying they will in this case, but they’ve done it in the past.",
+                                            "type": "tweet",
+                                            "created": "Thu, 19 May 2022 17:27:54 GMT",
+                                            "tweetId": "1527340281875824641",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1527340281875824641",
+                                            "inReplyToId": "1527340280038715393",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "If we describe the image in the tweet, is the alt text necessary?",
+                                                    "rawText": "If we describe the image in the tweet, is the alt text necessary?",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 19 May 2022 17:27:55 GMT",
+                                                    "tweetId": "1527340284140724224",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1527340284140724224",
+                                                    "inReplyToId": "1527340281875824641",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "What level of detail is necessary? How many people are going to spend the amount of time it took to write the example they provide?",
+                                                            "rawText": "What level of detail is necessary? How many people are going to spend the amount of time it took to write the example they provide?",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 19 May 2022 17:27:55 GMT",
+                                                            "tweetId": "1527340285516054528",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1527340285516054528",
+                                                            "inReplyToId": "1527340284140724224",
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Does OCR, which his now baked into operating systems, make it unnecessary to provide alt text if the image is just words?",
+                                                                    "rawText": "Does OCR, which his now baked into operating systems, make it unnecessary to provide alt text if the image is just words?",
+                                                                    "type": "tweet",
+                                                                    "created": "Thu, 19 May 2022 17:27:55 GMT",
+                                                                    "tweetId": "1527340286870900745",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1527340286870900745",
+                                                                    "inReplyToId": "1527340285516054528",
+                                                                    "tweetUserName": "sillygwailo",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Are people abusing the alt text so they can have 1,000 more characters to write in a single tweet?",
+                                                                            "rawText": "Are people abusing the alt text so they can have 1,000 more characters to write in a single tweet?",
+                                                                            "type": "tweet",
+                                                                            "created": "Thu, 19 May 2022 17:27:55 GMT",
+                                                                            "tweetId": "1527340288226004993",
+                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1527340288226004993",
+                                                                            "inReplyToId": "1527340286870900745",
+                                                                            "tweetUserName": "sillygwailo"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@cityoftoronto A complete list of road openings and freedoms is available at <a href=\"https://t.co/73EIPrUDk3\">[link]</a>",
                                     "rawText": "@cityoftoronto A complete list of road openings and freedoms is available at https://t.co/73EIPrUDk3",
