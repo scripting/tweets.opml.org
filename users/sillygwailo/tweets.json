@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 19 May 2022 04:03:40 GMT"
+            "dateModified": "Thu, 19 May 2022 04:29:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Poor Elon. <a href=\"https://t.co/YNEWld5aJr\">[link]</a>",
+                                    "rawText": "Poor Elon. https://t.co/YNEWld5aJr",
+                                    "type": "tweet",
+                                    "created": "Thu, 19 May 2022 04:21:30 GMT",
+                                    "tweetId": "1527142376686362630",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1527142376686362630",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
+                                    "text": "@Stv I have so many exceptions to the rule, and I say it so often, that it’s become a figure of speech for me.",
+                                    "rawText": "@Stv I have so many exceptions to the rule, and I say it so often, that it’s become a figure of speech for me.",
+                                    "type": "tweet",
+                                    "created": "Thu, 19 May 2022 04:17:51 GMT",
+                                    "tweetId": "1527141457605312512",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1527141457605312512",
+                                    "inReplyToId": "1527137419518091264",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 18",
                             "type": "calendarDay",
