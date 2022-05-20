@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 19 May 2022 16:15:10 GMT"
+            "dateModified": "Fri, 20 May 2022 08:50:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@anandahernandez Sí",
+                                    "rawText": "@anandahernandez Sí",
+                                    "type": "tweet",
+                                    "created": "Fri, 20 May 2022 08:49:54 GMT",
+                                    "tweetId": "1527572308826669056",
+                                    "urltweet": "https://twitter.com/chiguire/status/1527572308826669056",
+                                    "inReplyToId": "1527515503513767945",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 19",
                             "type": "calendarDay",
