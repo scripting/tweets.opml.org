@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 17:01:52 GMT"
+            "dateModified": "Fri, 20 May 2022 21:43:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "I'm in Chicago this weekend for the Windy City Spring Classic - my son's last 18u hockey tournament. NW Crabs win game one 4-0 and Patrick gets an assist.",
+                                    "rawText": "I'm in Chicago this weekend for the Windy City Spring Classic - my son's last 18u hockey tournament. NW Crabs win game one 4-0 and Patrick gets an assist.",
+                                    "type": "tweet",
+                                    "created": "Fri, 20 May 2022 21:43:13 GMT",
+                                    "tweetId": "1527766924033236992",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1527766924033236992",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 14",
                             "type": "calendarDay",
