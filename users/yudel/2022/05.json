@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 19 May 2022 23:59:53 GMT"
+            "dateModified": "Fri, 20 May 2022 02:33:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "@trekonomics But horses. On Mars! Owned by flight attendants!",
+                                    "rawText": "@trekonomics But horses. On Mars! Owned by flight attendants!",
+                                    "type": "tweet",
+                                    "created": "Fri, 20 May 2022 02:26:34 GMT",
+                                    "tweetId": "1527475843102015495",
+                                    "urltweet": "https://twitter.com/yudel/status/1527475843102015495",
+                                    "inReplyToId": "1527470762881216512",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@trekonomics (Heinlein had print magazines on Mars. I bet he wishes he thought of horses!)",
+                                            "rawText": "@trekonomics (Heinlein had print magazines on Mars. I bet he wishes he thought of horses!)",
+                                            "type": "tweet",
+                                            "created": "Fri, 20 May 2022 02:27:20 GMT",
+                                            "tweetId": "1527476036828528648",
+                                            "urltweet": "https://twitter.com/yudel/status/1527476036828528648",
+                                            "inReplyToId": "1527475843102015495",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@DandiaAsad or possibly any Ft Lee resident.",
                                     "rawText": "@DandiaAsad or possibly any Ft Lee resident.",
