@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 20 May 2022 08:50:39 GMT"
+            "dateModified": "Fri, 20 May 2022 09:03:25 GMT"
         },
         "body": {
             "subs": [
@@ -1613,7 +1613,19 @@
                                                                                                                             "tweetId": "1527246857268764672",
                                                                                                                             "urltweet": "https://twitter.com/chiguire/status/1527246857268764672",
                                                                                                                             "inReplyToId": "1526498083118452736",
-                                                                                                                            "tweetUserName": "chiguire"
+                                                                                                                            "tweetUserName": "chiguire",
+                                                                                                                            "subs": [
+                                                                                                                                {
+                                                                                                                                    "text": "#Heardle #84\n\n🔇⬛️⬛️⬛️🟨⬛️⬛️\n\n<a href=\"https://t.co/Z6l3YYHnYY\">[link]</a>",
+                                                                                                                                    "rawText": "#Heardle #84\n\n🔇⬛️⬛️⬛️🟨⬛️⬛️\n\nhttps://t.co/Z6l3YYHnYY",
+                                                                                                                                    "type": "tweet",
+                                                                                                                                    "created": "Fri, 20 May 2022 09:02:32 GMT",
+                                                                                                                                    "tweetId": "1527575490399182848",
+                                                                                                                                    "urltweet": "https://twitter.com/chiguire/status/1527575490399182848",
+                                                                                                                                    "inReplyToId": "1527246857268764672",
+                                                                                                                                    "tweetUserName": "chiguire"
+                                                                                                                                }
+                                                                                                                            ]
                                                                                                                         }
                                                                                                                     ]
                                                                                                                 }
