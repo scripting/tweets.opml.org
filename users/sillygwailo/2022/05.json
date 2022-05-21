@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 01:34:55 GMT"
+            "dateModified": "Sat, 21 May 2022 02:00:27 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,19 @@
                                                     "tweetId": "1527824215168192512",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1527824215168192512",
                                                     "inReplyToId": "1527804324268724224",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Blue Jays win! <a href=\"https://t.co/aXE9Y263CG\">[link]</a>",
+                                                            "rawText": "Blue Jays win! https://t.co/aXE9Y263CG",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 21 May 2022 01:59:34 GMT",
+                                                            "tweetId": "1527831435763122176",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1527831435763122176",
+                                                            "inReplyToId": "1527824215168192512",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
