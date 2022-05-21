@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 14 May 2022 19:55:03 GMT"
+            "dateModified": "Sat, 21 May 2022 00:11:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Creating Style Variations for your block theme \n<a href=\"https://t.co/3wZTTYcmoM\">[link]</a>",
+                                    "rawText": "Creating Style Variations for your block theme \nhttps://t.co/3wZTTYcmoM",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 00:03:32 GMT",
+                                    "tweetId": "1527802232195932160",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1527802232195932160",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 14",
                             "type": "calendarDay",
