@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 00:18:21 GMT"
+            "dateModified": "Sat, 21 May 2022 01:09:24 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1527804324268724224",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1527804324268724224",
                                             "inReplyToId": "1527784315140067329",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "The ballpark is the only nightclub that will let a guy like me in.",
+                                                    "rawText": "The ballpark is the only nightclub that will let a guy like me in.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 21 May 2022 01:06:13 GMT",
+                                                    "tweetId": "1527818009737568256",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1527818009737568256",
+                                                    "inReplyToId": "1527804324268724224",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
