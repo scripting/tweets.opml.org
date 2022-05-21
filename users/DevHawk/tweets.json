@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 03:15:16 GMT"
+            "dateModified": "Sat, 21 May 2022 16:01:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "NW🦀 get the win in their second game of the Windy City Spring Classic 6-1. Yesterday, they took a while to get started. Today they started solid, got a little lazy late, but had built enough of a lead that it didn't matter.",
+                                    "rawText": "NW🦀 get the win in their second game of the Windy City Spring Classic 6-1. Yesterday, they took a while to get started. Today they started solid, got a little lazy late, but had built enough of a lead that it didn't matter.",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 15:57:58 GMT",
+                                    "tweetId": "1528042423624114184",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1528042423624114184",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 20",
                             "type": "calendarDay",
