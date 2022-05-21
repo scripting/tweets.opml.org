@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 18 May 2022 23:01:52 GMT"
+            "dateModified": "Sat, 21 May 2022 10:48:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "It’s been a crazy, challenging week but it ended on a good note: Delivered. <a href=\"https://t.co/yZRee3LyKR\">[link]</a>",
+                                    "rawText": "It’s been a crazy, challenging week but it ended on a good note: Delivered. https://t.co/yZRee3LyKR",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 10:42:03 GMT",
+                                    "tweetId": "1527962922995044353",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1527962922995044353",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 18",
                             "type": "calendarDay",
