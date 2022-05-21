@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 16:01:03 GMT"
+            "dateModified": "Sat, 21 May 2022 16:52:06 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 21 May 2022 15:57:58 GMT",
                                     "tweetId": "1528042423624114184",
                                     "urltweet": "https://twitter.com/DevHawk/status/1528042423624114184",
-                                    "tweetUserName": "DevHawk"
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "Patrick picked up the crabs' final goal this morning. Knocked the puck out of the air and down to his stick above the crease and then banged it home.\n\nToday's my birthday so he really wanted to score at this tournament. Mission Accomplished",
+                                            "rawText": "Patrick picked up the crabs' final goal this morning. Knocked the puck out of the air and down to his stick above the crease and then banged it home.\n\nToday's my birthday so he really wanted to score at this tournament. Mission Accomplished",
+                                            "type": "tweet",
+                                            "created": "Sat, 21 May 2022 16:44:39 GMT",
+                                            "tweetId": "1528054175556374528",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1528054175556374528",
+                                            "inReplyToId": "1528042423624114184",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -54,7 +66,19 @@
                                             "tweetId": "1527849616481329152",
                                             "urltweet": "https://twitter.com/DevHawk/status/1527849616481329152",
                                             "inReplyToId": "1527847971185991681",
-                                            "tweetUserName": "DevHawk"
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "@davemangot #ProofOfBeer <a href=\"https://t.co/vVKc9gQwA3\">[link]</a>",
+                                                    "rawText": "@davemangot #ProofOfBeer https://t.co/vVKc9gQwA3",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 21 May 2022 16:45:24 GMT",
+                                                    "tweetId": "1528054363452850176",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1528054363452850176",
+                                                    "inReplyToId": "1527849616481329152",
+                                                    "tweetUserName": "DevHawk"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
