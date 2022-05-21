@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 20 May 2022 15:51:50 GMT"
+            "dateModified": "Sat, 21 May 2022 07:36:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "Yo ayer horneé unas galletas yque para llevarlas hoy a una reunión y terminé comiéndomelas 😬",
+                                    "rawText": "Yo ayer horneé unas galletas yque para llevarlas hoy a una reunión y terminé comiéndomelas 😬",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 07:26:18 GMT",
+                                    "tweetId": "1527913658084429825",
+                                    "urltweet": "https://twitter.com/chiguire/status/1527913658084429825",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 20",
                             "type": "calendarDay",
