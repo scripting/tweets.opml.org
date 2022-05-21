@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 00:51:38 GMT"
+            "dateModified": "Sat, 21 May 2022 01:29:55 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 21 May 2022 00:45:02 GMT",
                                     "tweetId": "1527812677304713216",
                                     "urltweet": "https://twitter.com/KenSmith/status/1527812677304713216",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/UHNtZhpikI\">[link]</a>",
+                                            "rawText": "https://t.co/UHNtZhpikI",
+                                            "type": "tweet",
+                                            "created": "Sat, 21 May 2022 01:28:52 GMT",
+                                            "tweetId": "1527823711176368128",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1527823711176368128",
+                                            "inReplyToId": "1527812677304713216",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "NYC, what is it about you? <a href=\"https://t.co/uWXgVaGYKZ\">[link]</a>",
