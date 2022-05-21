@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 00:11:05 GMT"
+            "dateModified": "Sat, 21 May 2022 06:46:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "WordCamp Europe, 75 Themes, Thunks and Filters - Weekend Edition 216 // curated news by Birgit Paul-Haack @bph with contributions by @priethor @nickmdiego @wpbuilds @ana_segota @ryelle @carolinapoena @justintadlock @kevinbardorf @ryanwelcher @adamzielin <a href=\"https://t.co/Fg0BLSBuYc\">[link]</a>",
+                                    "rawText": "WordCamp Europe, 75 Themes, Thunks and Filters - Weekend Edition 216 // curated news by Birgit Paul-Haack @bph with contributions by @priethor @nickmdiego @wpbuilds @ana_segota @ryelle @carolinapoena @justintadlock @kevinbardorf @ryanwelcher @adamzielin https://t.co/Fg0BLSBuYc",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 06:43:45 GMT",
+                                    "tweetId": "1527902952937205761",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1527902952937205761",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 20",
                             "type": "calendarDay",
