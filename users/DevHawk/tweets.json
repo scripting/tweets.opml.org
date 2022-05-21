@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 20 May 2022 21:43:26 GMT"
+            "dateModified": "Sat, 21 May 2022 00:29:21 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Fri, 20 May 2022 21:43:13 GMT",
                                     "tweetId": "1527766924033236992",
                                     "urltweet": "https://twitter.com/DevHawk/status/1527766924033236992",
-                                    "tweetUserName": "DevHawk"
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "My niece lives downtown, so we are getting dinner by the ballpark <a href=\"https://t.co/y5dXZqwdPb\">[link]</a>",
+                                            "rawText": "My niece lives downtown, so we are getting dinner by the ballpark https://t.co/y5dXZqwdPb",
+                                            "type": "tweet",
+                                            "created": "Sat, 21 May 2022 00:17:06 GMT",
+                                            "tweetId": "1527805647072464896",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1527805647072464896",
+                                            "inReplyToId": "1527766924033236992",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
                                 }
                             ]
                         },
