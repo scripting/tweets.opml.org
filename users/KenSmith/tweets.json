@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 00:38:52 GMT"
+            "dateModified": "Sat, 21 May 2022 00:51:38 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "20",
                             "subs": [
                                 {
+                                    "text": "Sometimes the real estate developers win, \nsometimes the boulders win.\n\n(A few steps from Broadway on 114th, on the west side.) <a href=\"https://t.co/cysT3gQRz9\">[link]</a>",
+                                    "rawText": "Sometimes the real estate developers win, \nsometimes the boulders win.\n\n(A few steps from Broadway on 114th, on the west side.) https://t.co/cysT3gQRz9",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 00:45:02 GMT",
+                                    "tweetId": "1527812677304713216",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1527812677304713216",
+                                    "tweetUserName": "KenSmith"
+                                },
+                                {
                                     "text": "NYC, what is it about you? <a href=\"https://t.co/uWXgVaGYKZ\">[link]</a>",
                                     "rawText": "NYC, what is it about you? https://t.co/uWXgVaGYKZ",
                                     "type": "tweet",
                                     "created": "Sat, 21 May 2022 00:38:43 GMT",
                                     "tweetId": "1527811086413709313",
                                     "urltweet": "https://twitter.com/KenSmith/status/1527811086413709313",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "Unexpected pool of sunlight. <a href=\"https://t.co/qjNy1T8i5c\">[link]</a>",
+                                            "rawText": "Unexpected pool of sunlight. https://t.co/qjNy1T8i5c",
+                                            "type": "tweet",
+                                            "created": "Sat, 21 May 2022 00:39:28 GMT",
+                                            "tweetId": "1527811278084968449",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1527811278084968449",
+                                            "inReplyToId": "1527811086413709313",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Patti Smith, charmed by all the good energy in the air, receiving an honorary doctorate at Columbia’s graduation on Wednesday. <a href=\"https://t.co/XElKhqS4HU\">[link]</a>",
