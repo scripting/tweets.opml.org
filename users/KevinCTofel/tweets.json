@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 10:48:14 GMT"
+            "dateModified": "Sat, 21 May 2022 14:50:44 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "21",
                             "subs": [
                                 {
+                                    "text": "@KorwinnH That’s a really sweet vehicle! Good luck!",
+                                    "rawText": "@KorwinnH That’s a really sweet vehicle! Good luck!",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 14:43:07 GMT",
+                                    "tweetId": "1528023586816016384",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1528023586816016384",
+                                    "inReplyToId": "1528022938414247936",
+                                    "tweetUserName": "KevinCTofel"
+                                },
+                                {
                                     "text": "It’s been a crazy, challenging week but it ended on a good note: Delivered. <a href=\"https://t.co/yZRee3LyKR\">[link]</a>",
                                     "rawText": "It’s been a crazy, challenging week but it ended on a good note: Delivered. https://t.co/yZRee3LyKR",
                                     "type": "tweet",
                                     "created": "Sat, 21 May 2022 10:42:03 GMT",
                                     "tweetId": "1527962922995044353",
                                     "urltweet": "https://twitter.com/KevinCTofel/status/1527962922995044353",
-                                    "tweetUserName": "KevinCTofel"
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Added bonus: We took our MSF training course and passed our PA motorcycle road test. Bye bye permits! Was a great father/son experience with @tylerjtofel. He can’t decide between Beatles modes: Late McCartney hair/beard but round Lennon glasses. 🤣 <a href=\"https://t.co/RFgRjBNVaF\">[link]</a>",
+                                            "rawText": "Added bonus: We took our MSF training course and passed our PA motorcycle road test. Bye bye permits! Was a great father/son experience with @tylerjtofel. He can’t decide between Beatles modes: Late McCartney hair/beard but round Lennon glasses. 🤣 https://t.co/RFgRjBNVaF",
+                                            "type": "tweet",
+                                            "created": "Sat, 21 May 2022 14:42:24 GMT",
+                                            "tweetId": "1528023410038669313",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1528023410038669313",
+                                            "inReplyToId": "1527962922995044353",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
                                 }
                             ]
                         },
