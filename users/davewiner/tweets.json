@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 13:36:39 GMT"
+            "dateModified": "Sat, 21 May 2022 15:44:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "Today I learned that there's a Twitter-hosted discussion board for developers.  <a href=\"https://t.co/1honMgJkzC\">[link]</a>",
+                                    "rawText": "Today I learned that there's a Twitter-hosted discussion board for developers.  https://t.co/1honMgJkzC",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 15:41:54 GMT",
+                                    "tweetId": "1528038381376180228",
+                                    "urltweet": "https://twitter.com/davewiner/status/1528038381376180228",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@i_am_daniele @ashevat OK, now that's useful. Thanks. I like that it uses Twitter identity.",
+                                    "rawText": "@i_am_daniele @ashevat OK, now that's useful. Thanks. I like that it uses Twitter identity.",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 15:41:12 GMT",
+                                    "tweetId": "1528038205735505926",
+                                    "urltweet": "https://twitter.com/davewiner/status/1528038205735505926",
+                                    "inReplyToId": "1528026345254531072",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@ashevat @TwitterDev thanks. i've set it up so i get notified every time it updates.",
                                     "rawText": "@ashevat @TwitterDev thanks. i've set it up so i get notified every time it updates.",
