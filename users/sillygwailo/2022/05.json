@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 02:00:27 GMT"
+            "dateModified": "Sat, 21 May 2022 14:33:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "To think, I was just reading about why the Australian Labor Party spells its name the way it does. #auspol  #ausvotes <a href=\"https://t.co/CmtGwQoxGB\">[link]</a>",
+                                    "rawText": "To think, I was just reading about why the Australian Labor Party spells its name the way it does. #auspol  #ausvotes https://t.co/CmtGwQoxGB",
+                                    "type": "tweet",
+                                    "created": "Sat, 21 May 2022 14:26:14 GMT",
+                                    "tweetId": "1528019338967629824",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1528019338967629824",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 20",
                             "type": "calendarDay",
