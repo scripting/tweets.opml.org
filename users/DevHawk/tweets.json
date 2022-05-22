@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 22 May 2022 00:06:02 GMT"
+            "dateModified": "Sun, 22 May 2022 03:43:00 GMT"
         },
         "body": {
             "subs": [
@@ -97,7 +97,19 @@
                                                     "tweetId": "1528054363452850176",
                                                     "urltweet": "https://twitter.com/DevHawk/status/1528054363452850176",
                                                     "inReplyToId": "1527849616481329152",
-                                                    "tweetUserName": "DevHawk"
+                                                    "tweetUserName": "DevHawk",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@davemangot IPAs. Still not my thing",
+                                                            "rawText": "@davemangot IPAs. Still not my thing",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 22 May 2022 03:31:58 GMT",
+                                                            "tweetId": "1528217074820071424",
+                                                            "urltweet": "https://twitter.com/DevHawk/status/1528217074820071424",
+                                                            "inReplyToId": "1528054363452850176",
+                                                            "tweetUserName": "DevHawk"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
