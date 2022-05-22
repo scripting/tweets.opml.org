@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 22 May 2022 14:01:53 GMT"
+            "dateModified": "Sun, 22 May 2022 19:20:57 GMT"
         },
         "body": {
             "subs": [
@@ -63,7 +63,19 @@
                                                     "tweetId": "1528160432187494400",
                                                     "urltweet": "https://twitter.com/KevinCTofel/status/1528160432187494400",
                                                     "inReplyToId": "1528110661363957761",
-                                                    "tweetUserName": "KevinCTofel"
+                                                    "tweetUserName": "KevinCTofel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Spare flux capacitor delivered and installed by the Chief Engineer. AC Warp Drive now operating with normal parameters. Red Alert cancelled! <a href=\"https://t.co/ZWlglf0CwL\">[link]</a>",
+                                                            "rawText": "Spare flux capacitor delivered and installed by the Chief Engineer. AC Warp Drive now operating with normal parameters. Red Alert cancelled! https://t.co/ZWlglf0CwL",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 22 May 2022 19:20:06 GMT",
+                                                            "tweetId": "1528455681375969283",
+                                                            "urltweet": "https://twitter.com/KevinCTofel/status/1528455681375969283",
+                                                            "inReplyToId": "1528160432187494400",
+                                                            "tweetUserName": "KevinCTofel"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
