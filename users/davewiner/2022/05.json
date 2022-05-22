@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 22 May 2022 18:19:39 GMT"
+            "dateModified": "Sun, 22 May 2022 19:10:42 GMT"
         },
         "body": {
             "subs": [
@@ -103,7 +103,19 @@
                                     "tweetId": "1528364623434498049",
                                     "urltweet": "https://twitter.com/davewiner/status/1528364623434498049",
                                     "inReplyToId": "1528361218704039937",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@jessegrosjean Jesse, I noted that you added LO2 and Electric Drummer to the list, and thanks for that! ;-) \n\nBut both belong in your first category, they read and write OPML files, it's their native format. \n\nWhen you choose File/New it creates and OPML file.",
+                                            "rawText": "@jessegrosjean Jesse, I noted that you added LO2 and Electric Drummer to the list, and thanks for that! ;-) \n\nBut both belong in your first category, they read and write OPML files, it's their native format. \n\nWhen you choose File/New it creates and OPML file.",
+                                            "type": "tweet",
+                                            "created": "Sun, 22 May 2022 19:02:13 GMT",
+                                            "tweetId": "1528451179788877825",
+                                            "urltweet": "https://twitter.com/davewiner/status/1528451179788877825",
+                                            "inReplyToId": "1528364623434498049",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@jessegrosjean Sorry at first I missed that you already had a list. \n\nOne thing -- Drummer is also a desktop app for the Mac.",
