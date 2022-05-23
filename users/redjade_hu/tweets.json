@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 20 May 2022 10:56:02 GMT"
+            "dateModified": "Mon, 23 May 2022 08:55:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@gtconway3d not to mention Lara Logan, ffs.",
+                                    "rawText": "@gtconway3d not to mention Lara Logan, ffs.",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 08:49:19 GMT",
+                                    "tweetId": "1528659329464864769",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1528659329464864769",
+                                    "inReplyToId": "1528415999011303425",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 20",
                             "type": "calendarDay",
