@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 16:37:50 GMT"
+            "dateModified": "Mon, 23 May 2022 00:45:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@shadow_journey <a href=\"https://t.co/zNed01Okjq\">[link]</a>",
+                                    "rawText": "@shadow_journey https://t.co/zNed01Okjq",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 00:33:18 GMT",
+                                    "tweetId": "1528534502536093696",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1528534502536093696",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 21",
                             "type": "calendarDay",
