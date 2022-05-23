@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 23 May 2022 03:30:42 GMT"
+            "dateModified": "Mon, 23 May 2022 05:12:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@AliceFromQueens And vice versa.",
+                                    "rawText": "@AliceFromQueens And vice versa.",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 05:06:04 GMT",
+                                    "tweetId": "1528603145156415489",
+                                    "urltweet": "https://twitter.com/yudel/status/1528603145156415489",
+                                    "inReplyToId": "1528602345143255042",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@jnack Luckily, there’s a Dylan song to accompany the hunt for the latter. <a href=\"https://t.co/mnzU9yMSrU\">[link]</a>",
+                                    "rawText": "@jnack Luckily, there’s a Dylan song to accompany the hunt for the latter. https://t.co/mnzU9yMSrU",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 05:03:10 GMT",
+                                    "tweetId": "1528602415188135936",
+                                    "urltweet": "https://twitter.com/yudel/status/1528602415188135936",
+                                    "inReplyToId": "1528601593750298624",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 22",
                             "type": "calendarDay",
