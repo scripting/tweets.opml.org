@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 23 May 2022 10:12:21 GMT"
+            "dateModified": "Mon, 23 May 2022 10:37:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "vamos a hacer taller de cremaet en mi empresa",
+                                    "rawText": "vamos a hacer taller de cremaet en mi empresa",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 10:27:01 GMT",
+                                    "tweetId": "1528683914197442561",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1528683914197442561",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "yo flipo en serio",
+                                            "rawText": "yo flipo en serio",
+                                            "type": "tweet",
+                                            "created": "Mon, 23 May 2022 10:27:01 GMT",
+                                            "tweetId": "1528683915849891841",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1528683915849891841",
+                                            "inReplyToId": "1528683914197442561",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@r_p_pp_ creo que soy feo",
                                     "rawText": "@r_p_pp_ creo que soy feo",
