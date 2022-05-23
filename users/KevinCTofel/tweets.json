@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 22 May 2022 20:37:32 GMT"
+            "dateModified": "Mon, 23 May 2022 12:09:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Watch John Lennon perform 'Stand By Me' in 1975... (@FarOutMag) <a href=\"https://t.co/tuIFnqdHso\">[link]</a>",
+                                    "rawText": "Watch John Lennon perform 'Stand By Me' in 1975... (@FarOutMag) https://t.co/tuIFnqdHso",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 12:05:31 GMT",
+                                    "tweetId": "1528708701883977728",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1528708701883977728",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 22",
                             "type": "calendarDay",
