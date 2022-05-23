@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 15:07:30 GMT"
+            "dateModified": "Mon, 23 May 2022 03:55:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@TimOphetBroek Er was VPRO On Stage tijdens lockdowns. Dat vond ik er nog best op lijken.",
+                                    "rawText": "@TimOphetBroek Er was VPRO On Stage tijdens lockdowns. Dat vond ik er nog best op lijken.",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 03:42:50 GMT",
+                                    "tweetId": "1528582197917192192",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1528582197917192192",
+                                    "inReplyToId": "1528455148393181184",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 21",
                             "type": "calendarDay",
