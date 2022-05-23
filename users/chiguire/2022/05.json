@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 23 May 2022 08:57:17 GMT"
+            "dateModified": "Mon, 23 May 2022 17:40:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "@The_leO <a href=\"https://t.co/CSnUwahf5c\">[link]</a>",
+                                    "rawText": "@The_leO https://t.co/CSnUwahf5c",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 17:30:12 GMT",
+                                    "tweetId": "1528790411980025863",
+                                    "urltweet": "https://twitter.com/chiguire/status/1528790411980025863",
+                                    "inReplyToId": "1528780151412215809",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "@The_leO Y para probar bajos <a href=\"https://t.co/JE8Jhp2mrw\">[link]</a>",
+                                            "rawText": "@The_leO Y para probar bajos https://t.co/JE8Jhp2mrw",
+                                            "type": "tweet",
+                                            "created": "Mon, 23 May 2022 17:30:57 GMT",
+                                            "tweetId": "1528790600572719105",
+                                            "urltweet": "https://twitter.com/chiguire/status/1528790600572719105",
+                                            "inReplyToId": "1528790411980025863",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "La gente aquí hablando de inflación\n\nYo: <a href=\"https://t.co/strjWFkXlp\">[link]</a>",
                                     "rawText": "La gente aquí hablando de inflación\n\nYo: https://t.co/strjWFkXlp",
