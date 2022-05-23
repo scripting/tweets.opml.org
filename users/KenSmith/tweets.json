@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 22 May 2022 20:28:01 GMT"
+            "dateModified": "Mon, 23 May 2022 12:25:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Robert J. Vlasic linked the brand name of his pickles to humor. <a href=\"https://t.co/RQSBwKTWf0\">[link]</a>",
+                                    "rawText": "Robert J. Vlasic linked the brand name of his pickles to humor. https://t.co/RQSBwKTWf0",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 12:19:55 GMT",
+                                    "tweetId": "1528712326823792641",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1528712326823792641",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 22",
                             "type": "calendarDay",
