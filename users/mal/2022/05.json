@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 16 May 2022 07:35:51 GMT"
+            "dateModified": "Mon, 23 May 2022 06:34:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@JaniceMcGeachin The only one apparently trying to steal the election was a Supreme Court justice’s wife.",
+                                    "rawText": "@JaniceMcGeachin The only one apparently trying to steal the election was a Supreme Court justice’s wife.",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 06:33:42 GMT",
+                                    "tweetId": "1528625200274673664",
+                                    "urltweet": "https://twitter.com/mal/status/1528625200274673664",
+                                    "inReplyToId": "1524110960432087042",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 16",
                             "type": "calendarDay",
