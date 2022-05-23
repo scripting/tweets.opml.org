@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 06:46:44 GMT"
+            "dateModified": "Mon, 23 May 2022 20:02:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Congrats 🎉🦸‍♀️ <a href=\"https://t.co/n27XoD2lZ3\">[link]</a>",
+                                    "rawText": "Congrats 🎉🦸‍♀️ https://t.co/n27XoD2lZ3",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 19:53:59 GMT",
+                                    "tweetId": "1528826596433461248",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1528826596433461248",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 21",
                             "type": "calendarDay",
