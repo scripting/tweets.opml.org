@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 22 May 2022 22:31:54 GMT"
+            "dateModified": "Mon, 23 May 2022 08:57:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "La gente aquí hablando de inflación\n\nYo: <a href=\"https://t.co/strjWFkXlp\">[link]</a>",
+                                    "rawText": "La gente aquí hablando de inflación\n\nYo: https://t.co/strjWFkXlp",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 08:52:01 GMT",
+                                    "tweetId": "1528660007008587777",
+                                    "urltweet": "https://twitter.com/chiguire/status/1528660007008587777",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@SirEelBiscuits @androidqueen The accessibility option to slow down time",
+                                    "rawText": "@SirEelBiscuits @androidqueen The accessibility option to slow down time",
+                                    "type": "tweet",
+                                    "created": "Mon, 23 May 2022 08:48:52 GMT",
+                                    "tweetId": "1528659214004011009",
+                                    "urltweet": "https://twitter.com/chiguire/status/1528659214004011009",
+                                    "inReplyToId": "1528658344310984704",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 22",
                             "type": "calendarDay",
