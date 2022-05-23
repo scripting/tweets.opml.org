@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 23 May 2022 19:31:25 GMT"
+            "dateModified": "Mon, 23 May 2022 19:56:57 GMT"
         },
         "body": {
             "subs": [
@@ -355,7 +355,19 @@
                                     "created": "Fri, 20 May 2022 01:56:43 GMT",
                                     "tweetId": "1527468329765568515",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1527468329765568515",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I saw a guy with the same getup as me that day and now I’m going to see it everywhere I look, aren’t I?",
+                                            "rawText": "I saw a guy with the same getup as me that day and now I’m going to see it everywhere I look, aren’t I?",
+                                            "type": "tweet",
+                                            "created": "Mon, 23 May 2022 19:48:15 GMT",
+                                            "tweetId": "1528825154821816321",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1528825154821816321",
+                                            "inReplyToId": "1527468329765568515",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Tonight. <a href=\"https://t.co/pwvHkUKduX\">[link]</a>",
