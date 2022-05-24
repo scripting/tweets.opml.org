@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 21 May 2022 18:52:13 GMT"
+            "dateModified": "Tue, 24 May 2022 17:55:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@MihailoCvijetic Hvala!",
+                                    "rawText": "@MihailoCvijetic Hvala!",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 17:47:59 GMT",
+                                    "tweetId": "1529157275805437952",
+                                    "urltweet": "https://twitter.com/miljko/status/1529157275805437952",
+                                    "inReplyToId": "1528781876927909888",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 21",
                             "type": "calendarDay",
