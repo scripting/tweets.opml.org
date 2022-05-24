@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 12:52:13 GMT"
+            "dateModified": "Tue, 24 May 2022 16:54:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "In JavaScript: Why can't we have the require verb work in browser-based apps as it does in Node. It would take a URL as a param. So much simpler if I could use exactly the same modules in both places. \n\n<a href=\"https://t.co/ZstmLfjMLr\">[link]</a>",
+                                    "rawText": "In JavaScript: Why can't we have the require verb work in browser-based apps as it does in Node. It would take a URL as a param. So much simpler if I could use exactly the same modules in both places. \n\nhttps://t.co/ZstmLfjMLr",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 16:53:45 GMT",
+                                    "tweetId": "1529143626193829888",
+                                    "urltweet": "https://twitter.com/davewiner/status/1529143626193829888",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@pkmwiki Maybe you made a mistake. ;-)\n\nI just tried posting with a test blog and it seems to work.\n\n<a href=\"https://t.co/l25j7UUCaw\">[link]</a>",
                                     "rawText": "@pkmwiki Maybe you made a mistake. ;-)\n\nI just tried posting with a test blog and it seems to work.\n\nhttps://t.co/l25j7UUCaw",
