@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 02:29:05 GMT"
+            "dateModified": "Tue, 24 May 2022 15:27:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@MattBruenig @ryanlcooper Wait until he discovers that Walmart celebrates Xmas in December, rather than in January as Putin-ally Jesus intended.",
+                                    "rawText": "@MattBruenig @ryanlcooper Wait until he discovers that Walmart celebrates Xmas in December, rather than in January as Putin-ally Jesus intended.",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 15:18:45 GMT",
+                                    "tweetId": "1529119719462166528",
+                                    "urltweet": "https://twitter.com/yudel/status/1529119719462166528",
+                                    "inReplyToId": "1529119325726162953",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 23",
                             "type": "calendarDay",
