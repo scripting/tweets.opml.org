@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 00:56:15 GMT"
+            "dateModified": "Tue, 24 May 2022 15:11:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@twinklresources busy signal on a phone",
+                                    "rawText": "@twinklresources busy signal on a phone",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 14:59:55 GMT",
+                                    "tweetId": "1529114981194604544",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1529114981194604544",
+                                    "inReplyToId": "1528790421400346624",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 23",
                             "type": "calendarDay",
