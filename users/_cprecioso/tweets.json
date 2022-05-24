@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 16:37:27 GMT"
+            "dateModified": "Tue, 24 May 2022 17:15:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,40 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "@davewiner Because it requires a synchronous cascade of requests, as require works at runtime. With ES Modules, the engine knows ahead of time what you will need and can parse some modules while you fetch others and run them all the same time.",
+                                    "rawText": "@davewiner Because it requires a synchronous cascade of requests, as require works at runtime. With ES Modules, the engine knows ahead of time what you will need and can parse some modules while you fetch others and run them all the same time.",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 17:05:29 GMT",
+                                    "tweetId": "1529146579864670211",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529146579864670211",
+                                    "inReplyToId": "1529143626193829888",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "@davewiner With dynamic import() it can also work at runtime, but being an async function, it lets you do work meanwhile (for example, show a spinner or keep processing user interaction).",
+                                            "rawText": "@davewiner With dynamic import() it can also work at runtime, but being an async function, it lets you do work meanwhile (for example, show a spinner or keep processing user interaction).",
+                                            "type": "tweet",
+                                            "created": "Tue, 24 May 2022 17:05:40 GMT",
+                                            "tweetId": "1529146628069904384",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1529146628069904384",
+                                            "inReplyToId": "1529146579864670211",
+                                            "tweetUserName": "_cprecioso",
+                                            "subs": [
+                                                {
+                                                    "text": "@davewiner It’s worth noting that ES Modules already work in browser and Node; and they do take relative paths and absolute URLs. If you want to settle into something that works for both, that would be my bet.",
+                                                    "rawText": "@davewiner It’s worth noting that ES Modules already work in browser and Node; and they do take relative paths and absolute URLs. If you want to settle into something that works for both, that would be my bet.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 24 May 2022 17:07:43 GMT",
+                                                    "tweetId": "1529147141666521092",
+                                                    "urltweet": "https://twitter.com/_cprecioso/status/1529147141666521092",
+                                                    "inReplyToId": "1529146628069904384",
+                                                    "tweetUserName": "_cprecioso"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Yo cuando me han dicho que si voy hoy al gym: <a href=\"https://t.co/DGYZonhZFr\">[link]</a>",
                                     "rawText": "Yo cuando me han dicho que si voy hoy al gym: https://t.co/DGYZonhZFr",
