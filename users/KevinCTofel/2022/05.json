@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 23 May 2022 22:21:50 GMT"
+            "dateModified": "Tue, 24 May 2022 07:05:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Another Chrome OS 101 update arrives with a big focus on Lacros <a href=\"https://t.co/GKNHw0SoWD\">[link]</a>",
+                                    "rawText": "ICYMI: Another Chrome OS 101 update arrives with a big focus on Lacros https://t.co/GKNHw0SoWD",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 06:59:12 GMT",
+                                    "tweetId": "1528994005291237376",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1528994005291237376",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 23",
                             "type": "calendarDay",
