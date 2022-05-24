@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 13 May 2022 01:02:01 GMT"
+            "dateModified": "Tue, 24 May 2022 02:05:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "I just earned the 'Brewery Pioneer (Level 11)' badge on @untappd! <a href=\"https://t.co/aZ5gLqKWlS\">[link]</a>",
+                                    "rawText": "I just earned the 'Brewery Pioneer (Level 11)' badge on @untappd! https://t.co/aZ5gLqKWlS",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 02:05:01 GMT",
+                                    "tweetId": "1528919969366528003",
+                                    "urltweet": "https://twitter.com/frankm/status/1528919969366528003",
+                                    "tweetUserName": "frankm"
+                                },
+                                {
+                                    "text": "I just earned the 'Cheers to Independent U.S. Craft Breweries (Level 18)' badge on @untappd! <a href=\"https://t.co/FM6ADECYdj\">[link]</a>",
+                                    "rawText": "I just earned the 'Cheers to Independent U.S. Craft Breweries (Level 18)' badge on @untappd! https://t.co/FM6ADECYdj",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 02:05:00 GMT",
+                                    "tweetId": "1528919965339893761",
+                                    "urltweet": "https://twitter.com/frankm/status/1528919965339893761",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 12",
                             "type": "calendarDay",
