@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 23 May 2022 00:38:31 GMT"
+            "dateModified": "Tue, 24 May 2022 03:39:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Labelle ~ Lady Marmalade 1975 Disco Purrfection Version #2 <a href=\"https://t.co/orPi4bku2t\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Labelle ~ Lady Marmalade 1975 Disco Purrfection Version #2 https://t.co/orPi4bku2t",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 03:28:28 GMT",
+                                    "tweetId": "1528940971760799745",
+                                    "urltweet": "https://twitter.com/oevl/status/1528940971760799745",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 22",
                             "type": "calendarDay",
