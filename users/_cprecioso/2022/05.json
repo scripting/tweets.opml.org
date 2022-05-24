@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 17:15:44 GMT"
+            "dateModified": "Tue, 24 May 2022 17:28:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,48 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "@MiNoSerHector Ya te lo enseñaré en directo para que te impacte más",
+                                    "rawText": "@MiNoSerHector Ya te lo enseñaré en directo para que te impacte más",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 17:22:57 GMT",
+                                    "tweetId": "1529150975566569474",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529150975566569474",
+                                    "inReplyToId": "1529150258936262658",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@MiNoSerHector También",
+                                    "rawText": "@MiNoSerHector También",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 17:19:10 GMT",
+                                    "tweetId": "1529150023333818374",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529150023333818374",
+                                    "inReplyToId": "1529149912084103169",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "@MiNoSerHector Aunque mi madre me acaba de regalar un outfit de gym y ahora tengo ganas de enseñar modelito",
+                                            "rawText": "@MiNoSerHector Aunque mi madre me acaba de regalar un outfit de gym y ahora tengo ganas de enseñar modelito",
+                                            "type": "tweet",
+                                            "created": "Tue, 24 May 2022 17:19:49 GMT",
+                                            "tweetId": "1529150185909125122",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1529150185909125122",
+                                            "inReplyToId": "1529150023333818374",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@davewiner Yes, there is Require.js, but that’s ancient by JS standards. Otherwise, you might want to use a bundler, as it will take Node packages just fine. They’ve all vastly reduced their upfront configuration needs lately.",
+                                    "rawText": "@davewiner Yes, there is Require.js, but that’s ancient by JS standards. Otherwise, you might want to use a bundler, as it will take Node packages just fine. They’ve all vastly reduced their upfront configuration needs lately.",
+                                    "type": "tweet",
+                                    "created": "Tue, 24 May 2022 17:16:21 GMT",
+                                    "tweetId": "1529149313850519555",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529149313850519555",
+                                    "inReplyToId": "1529147818870394880",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@davewiner Because it requires a synchronous cascade of requests, as require works at runtime. With ES Modules, the engine knows ahead of time what you will need and can parse some modules while you fetch others and run them all the same time.",
                                     "rawText": "@davewiner Because it requires a synchronous cascade of requests, as require works at runtime. With ES Modules, the engine knows ahead of time what you will need and can parse some modules while you fetch others and run them all the same time.",
