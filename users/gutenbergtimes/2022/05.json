@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 23 May 2022 20:02:27 GMT"
+            "dateModified": "Wed, 25 May 2022 13:18:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,70 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "WordPress 6.0 is now available. Watch this fun video to learn what's new. <a href=\"https://t.co/Zwb4LAsttO\">[link]</a>",
+                                    "rawText": "WordPress 6.0 is now available. Watch this fun video to learn what's new. https://t.co/Zwb4LAsttO",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 13:10:37 GMT",
+                                    "tweetId": "1529449860897832960",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1529449860897832960",
+                                    "tweetUserName": "gutenbergtimes",
+                                    "subs": [
+                                        {
+                                            "text": "Announcement on WordPress News: <a href=\"https://t.co/lNGlRRsxm8\">[link]</a>",
+                                            "rawText": "Announcement on WordPress News: https://t.co/lNGlRRsxm8",
+                                            "type": "tweet",
+                                            "created": "Wed, 25 May 2022 13:10:37 GMT",
+                                            "tweetId": "1529449862722375682",
+                                            "urltweet": "https://twitter.com/gutenbergtimes/status/1529449862722375682",
+                                            "inReplyToId": "1529449860897832960",
+                                            "tweetUserName": "gutenbergtimes",
+                                            "subs": [
+                                                {
+                                                    "text": "WordPress 6.0 Field Guide with all DevNotes for developers building products and site. \n<a href=\"https://t.co/QlMxTxaiPT\">[link]</a>",
+                                                    "rawText": "WordPress 6.0 Field Guide with all DevNotes for developers building products and site. \nhttps://t.co/QlMxTxaiPT",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 25 May 2022 13:10:38 GMT",
+                                                    "tweetId": "1529449864291024900",
+                                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1529449864291024900",
+                                                    "inReplyToId": "1529449862722375682",
+                                                    "tweetUserName": "gutenbergtimes",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Video: Exploring WordPress 6.0: Style Variations, Block Locking UI, Writing Improvements, &amp; more w/ Anne McCarthy <a href=\"https://t.co/mc9zsMzSzv\">[link]</a>",
+                                                            "rawText": "Video: Exploring WordPress 6.0: Style Variations, Block Locking UI, Writing Improvements, &amp; more w/ Anne McCarthy https://t.co/mc9zsMzSzv",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 25 May 2022 13:10:38 GMT",
+                                                            "tweetId": "1529449865989718016",
+                                                            "urltweet": "https://twitter.com/gutenbergtimes/status/1529449865989718016",
+                                                            "inReplyToId": "1529449864291024900",
+                                                            "tweetUserName": "gutenbergtimes",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "If you want to know how far the block-editor has come after 10 releases? Building a site with WordPress 5.0 vs WordPress 6.0 <a href=\"https://t.co/OybhyEuX9e\">[link]</a>",
+                                                                    "rawText": "If you want to know how far the block-editor has come after 10 releases? Building a site with WordPress 5.0 vs WordPress 6.0 https://t.co/OybhyEuX9e",
+                                                                    "type": "tweet",
+                                                                    "created": "Wed, 25 May 2022 13:10:38 GMT",
+                                                                    "tweetId": "1529449867554304000",
+                                                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1529449867554304000",
+                                                                    "inReplyToId": "1529449865989718016",
+                                                                    "tweetUserName": "gutenbergtimes"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "May 23",
                             "type": "calendarDay",
