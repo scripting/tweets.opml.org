@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 02:31:18 GMT"
+            "dateModified": "Wed, 25 May 2022 02:44:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "@rmneiss Suitcase nukes, my friend. Suitcase nukes.",
+                                    "rawText": "@rmneiss Suitcase nukes, my friend. Suitcase nukes.",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 02:42:46 GMT",
+                                    "tweetId": "1529291859520110593",
+                                    "urltweet": "https://twitter.com/yudel/status/1529291859520110593",
+                                    "inReplyToId": "1529291516463702016",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "Heresy? Blasphemy? Christian fascism? This is from the company that reportedly sold the murderer his gun. <a href=\"https://t.co/sKMAQI6OyS\">[link]</a>",
                                     "rawText": "Heresy? Blasphemy? Christian fascism? This is from the company that reportedly sold the murderer his gun. https://t.co/sKMAQI6OyS",
@@ -57,7 +67,19 @@
                                                             "tweetId": "1529287899581128707",
                                                             "urltweet": "https://twitter.com/yudel/status/1529287899581128707",
                                                             "inReplyToId": "1529287731624427521",
-                                                            "tweetUserName": "yudel"
+                                                            "tweetUserName": "yudel",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "They worship power. That’s why they won’t ordain women. And that’s why they repeatedly turned a dead ear to the cries of the victims.",
+                                                                    "rawText": "They worship power. That’s why they won’t ordain women. And that’s why they repeatedly turned a dead ear to the cries of the victims.",
+                                                                    "type": "tweet",
+                                                                    "created": "Wed, 25 May 2022 02:35:47 GMT",
+                                                                    "tweetId": "1529290101620097025",
+                                                                    "urltweet": "https://twitter.com/yudel/status/1529290101620097025",
+                                                                    "inReplyToId": "1529287899581128707",
+                                                                    "tweetUserName": "yudel"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
