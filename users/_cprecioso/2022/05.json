@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 23:38:37 GMT"
+            "dateModified": "Wed, 25 May 2022 06:39:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@CarlaStabile Para un día que no vienes y te lo pierdes",
+                                    "rawText": "@CarlaStabile Para un día que no vienes y te lo pierdes",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 06:36:40 GMT",
+                                    "tweetId": "1529350723036749824",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529350723036749824",
+                                    "inReplyToId": "1529350226913394690",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 24",
                             "type": "calendarDay",
