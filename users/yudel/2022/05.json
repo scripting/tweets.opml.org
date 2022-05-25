@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 04:00:38 GMT"
+            "dateModified": "Wed, 25 May 2022 04:38:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@DavidRSelis @trayne_wreck But they’ve read the New American translation of Proverbs. <a href=\"https://t.co/3Syarh3vrj\">[link]</a>",
+                                    "rawText": "@DavidRSelis @trayne_wreck But they’ve read the New American translation of Proverbs. https://t.co/3Syarh3vrj",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 04:37:54 GMT",
+                                    "tweetId": "1529320831570034688",
+                                    "urltweet": "https://twitter.com/yudel/status/1529320831570034688",
+                                    "inReplyToId": "1529319094348128256",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 24",
                             "type": "calendarDay",
