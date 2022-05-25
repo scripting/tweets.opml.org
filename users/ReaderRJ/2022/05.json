@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 22 May 2022 17:23:05 GMT"
+            "dateModified": "Wed, 25 May 2022 15:34:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@CCriadoPerez Have you seen this? <a href=\"https://t.co/kBjRI8cFru\">[link]</a>",
+                                    "rawText": "@CCriadoPerez Have you seen this? https://t.co/kBjRI8cFru",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 15:28:05 GMT",
+                                    "tweetId": "1529484458373545985",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1529484458373545985",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 22",
                             "type": "calendarDay",
