@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 09:32:29 GMT"
+            "dateModified": "Wed, 25 May 2022 09:45:14 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "25",
                             "subs": [
                                 {
+                                    "text": "@inesanma @jackmjenkins Question for the Vatican: What is your response to this post from the manufacturer of the murder weapon? <a href=\"https://t.co/Z5EkxTk1hk\">[link]</a>",
+                                    "rawText": "@inesanma @jackmjenkins Question for the Vatican: What is your response to this post from the manufacturer of the murder weapon? https://t.co/Z5EkxTk1hk",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 09:36:27 GMT",
+                                    "tweetId": "1529395962925432834",
+                                    "urltweet": "https://twitter.com/yudel/status/1529395962925432834",
+                                    "inReplyToId": "1529373743092584448",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
                                     "text": "@ArthurLenk @springsteen I am indeed. Galei tzahal loved that song the years I was in Jerusalem.",
                                     "rawText": "@ArthurLenk @springsteen I am indeed. Galei tzahal loved that song the years I was in Jerusalem.",
                                     "type": "tweet",
@@ -28,7 +38,19 @@
                                     "tweetId": "1529394657746206720",
                                     "urltweet": "https://twitter.com/yudel/status/1529394657746206720",
                                     "inReplyToId": "1529393913517199362",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@ArthurLenk @springsteen Say what you might about TMBG, but they never boasted of marrying ISIS.",
+                                            "rawText": "@ArthurLenk @springsteen Say what you might about TMBG, but they never boasted of marrying ISIS.",
+                                            "type": "tweet",
+                                            "created": "Wed, 25 May 2022 09:33:10 GMT",
+                                            "tweetId": "1529395136765075457",
+                                            "urltweet": "https://twitter.com/yudel/status/1529395136765075457",
+                                            "inReplyToId": "1529394657746206720",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@ArthurLenk I do hope the FM took advantage of his meeting to ask — not that it’s his business, of course — just why did Constantinople get the works?",
