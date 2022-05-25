@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 03:09:35 GMT"
+            "dateModified": "Wed, 25 May 2022 03:22:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,36 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "This. And that bipartisanship is just another name for collaboration. <a href=\"https://t.co/UmSpaZzMDN\">[link]</a>",
+                                    "rawText": "This. And that bipartisanship is just another name for collaboration. https://t.co/UmSpaZzMDN",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 03:17:17 GMT",
+                                    "tweetId": "1529300544438816768",
+                                    "urltweet": "https://twitter.com/yudel/status/1529300544438816768",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "Really easy to be pro-death if you believe in a magical God who evens the score after the fact. <a href=\"https://t.co/6HQBxtsiUA\">[link]</a>",
+                                    "rawText": "Really easy to be pro-death if you believe in a magical God who evens the score after the fact. https://t.co/6HQBxtsiUA",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 03:10:51 GMT",
+                                    "tweetId": "1529298924997066754",
+                                    "urltweet": "https://twitter.com/yudel/status/1529298924997066754",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Yes, this is a Joseph Telushkin subtweet. <a href=\"https://t.co/iSvKYCgDk4\">[link]</a>",
+                                            "rawText": "Yes, this is a Joseph Telushkin subtweet. https://t.co/iSvKYCgDk4",
+                                            "type": "tweet",
+                                            "created": "Wed, 25 May 2022 03:15:06 GMT",
+                                            "tweetId": "1529299996293701637",
+                                            "urltweet": "https://twitter.com/yudel/status/1529299996293701637",
+                                            "inReplyToId": "1529298924997066754",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@inkasrain They think the victims are in heaven so it’s all good. And the didn’t turn out gay, so it’s even better.",
                                     "rawText": "@inkasrain They think the victims are in heaven so it’s all good. And the didn’t turn out gay, so it’s even better.",
