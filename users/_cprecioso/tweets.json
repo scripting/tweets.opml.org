@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 06:39:48 GMT"
+            "dateModified": "Wed, 25 May 2022 09:25:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "@_dabeed @CarlaStabile 👀",
+                                    "rawText": "@_dabeed @CarlaStabile 👀",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 09:24:38 GMT",
+                                    "tweetId": "1529392989314895875",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529392989314895875",
+                                    "inReplyToId": "1529381202964135938",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "El otro día le pedí a mi padre que me comprara una Coca-Cola y me hizo darle los 70 céntimos",
+                                    "rawText": "El otro día le pedí a mi padre que me comprara una Coca-Cola y me hizo darle los 70 céntimos",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 09:16:34 GMT",
+                                    "tweetId": "1529390959125053441",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529390959125053441",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Ahora que lo recuerdo, no me dió las vueltas",
+                                            "rawText": "Ahora que lo recuerdo, no me dió las vueltas",
+                                            "type": "tweet",
+                                            "created": "Wed, 25 May 2022 09:16:34 GMT",
+                                            "tweetId": "1529390960777502721",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1529390960777502721",
+                                            "inReplyToId": "1529390959125053441",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@CarlaStabile Para un día que no vienes y te lo pierdes",
                                     "rawText": "@CarlaStabile Para un día que no vienes y te lo pierdes",
