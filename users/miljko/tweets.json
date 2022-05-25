@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 20:28:11 GMT"
+            "dateModified": "Wed, 25 May 2022 15:24:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@adamcifu @CDCgov “Talk to your health care provider if…”\n\nSo nice of the CDC to put other people’s skin in their own poorly thought-out game.",
+                                    "rawText": "@adamcifu @CDCgov “Talk to your health care provider if…”\n\nSo nice of the CDC to put other people’s skin in their own poorly thought-out game.",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 15:19:09 GMT",
+                                    "tweetId": "1529482206380539904",
+                                    "urltweet": "https://twitter.com/miljko/status/1529482206380539904",
+                                    "inReplyToId": "1529479878361243648",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 24",
                             "type": "calendarDay",
