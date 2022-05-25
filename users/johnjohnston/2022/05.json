@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 12:53:28 GMT"
+            "dateModified": "Wed, 25 May 2022 18:53:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/ABGcG9JF7Z\">[link]</a> I don't really pay attention to tiktok, but this is something I would not have expected. via  @jjn1's newletter.",
+                                    "rawText": "https://t.co/ABGcG9JF7Z I don't really pay attention to tiktok, but this is something I would not have expected. via  @jjn1's newletter.",
+                                    "type": "tweet",
+                                    "created": "Wed, 25 May 2022 18:46:40 GMT",
+                                    "tweetId": "1529534429755998208",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1529534429755998208",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 24",
                             "type": "calendarDay",
