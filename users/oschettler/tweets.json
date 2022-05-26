@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oschettler/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 07 May 2022 10:42:18 GMT"
+            "dateModified": "Thu, 26 May 2022 18:00:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "#daml (Douglas Adams Memorial Lecture) starts in a few moments :)",
+                                    "rawText": "#daml (Douglas Adams Memorial Lecture) starts in a few moments :)",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 17:50:35 GMT",
+                                    "tweetId": "1529882706720526337",
+                                    "urltweet": "https://twitter.com/oschettler/status/1529882706720526337",
+                                    "tweetUserName": "oschettler"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 7",
                             "type": "calendarDay",
