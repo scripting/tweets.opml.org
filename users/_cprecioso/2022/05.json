@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 17:56:14 GMT"
+            "dateModified": "Thu, 26 May 2022 07:33:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "No pero me gustaría verlas",
+                                    "rawText": "No pero me gustaría verlas",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 07:23:33 GMT",
+                                    "tweetId": "1529724905843003395",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529724905843003395",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "Jo espe que guay 🥺 <a href=\"https://t.co/37pBEA4cOs\">[link]</a>",
+                                    "rawText": "Jo espe que guay 🥺 https://t.co/37pBEA4cOs",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 07:20:28 GMT",
+                                    "tweetId": "1529724132270776322",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1529724132270776322",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 25",
                             "type": "calendarDay",
