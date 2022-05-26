@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 23 May 2022 06:34:53 GMT"
+            "dateModified": "Thu, 26 May 2022 14:46:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@Art0fLife_ @nixcraft But then I’d be procrastinating.",
+                                    "rawText": "@Art0fLife_ @nixcraft But then I’d be procrastinating.",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 14:37:16 GMT",
+                                    "tweetId": "1529834057546072064",
+                                    "urltweet": "https://twitter.com/mal/status/1529834057546072064",
+                                    "inReplyToId": "1529372020001095681",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 23",
                             "type": "calendarDay",
