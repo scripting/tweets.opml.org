@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 26 May 2022 03:40:50 GMT"
+            "dateModified": "Thu, 26 May 2022 18:34:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "I’m going to be in Toronto for an indefinite period starting June 19th. Is anybody going to be in town then? Let’s meet up!",
+                                    "rawText": "I’m going to be in Toronto for an indefinite period starting June 19th. Is anybody going to be in town then? Let’s meet up!",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 18:27:48 GMT",
+                                    "tweetId": "1529892072634859521",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1529892072634859521",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 25",
                             "type": "calendarDay",
