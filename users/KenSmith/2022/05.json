@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 26 May 2022 03:10:18 GMT"
+            "dateModified": "Thu, 26 May 2022 14:01:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Putting a \"like\" on a tweet is a far milder act than retweeting.\n\nA \"like\" is roughly an approving nod to the tweet's writer from across the way. Probably no one else will notice.\n\nWith a RT we stand before our friends and repeat the writer's words.\n\n[Still, it's just a tweet.]",
+                                    "rawText": "Putting a \"like\" on a tweet is a far milder act than retweeting.\n\nA \"like\" is roughly an approving nod to the tweet's writer from across the way. Probably no one else will notice.\n\nWith a RT we stand before our friends and repeat the writer's words.\n\n[Still, it's just a tweet.]",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 13:53:50 GMT",
+                                    "tweetId": "1529823126237761538",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1529823126237761538",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 25",
                             "type": "calendarDay",
