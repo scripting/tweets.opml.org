@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 23:38:20 GMT"
+            "dateModified": "Thu, 26 May 2022 01:33:12 GMT"
         },
         "body": {
             "subs": [
@@ -718,7 +718,19 @@
                                     "tweetId": "1527122056806076425",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1527122056806076425",
                                     "inReplyToId": "1466257854311157762",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "You know? Nobody’s asked me that before. <a href=\"https://t.co/jfp8MzKTHW\">[link]</a>",
+                                            "rawText": "You know? Nobody’s asked me that before. https://t.co/jfp8MzKTHW",
+                                            "type": "tweet",
+                                            "created": "Thu, 26 May 2022 01:29:24 GMT",
+                                            "tweetId": "1529635784126521345",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1529635784126521345",
+                                            "inReplyToId": "1527122056806076425",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@goodreads I can only listen to music without lyrics while reading. Otherwise it’s too distracting. The exception is when it’s a book *about* music, such as Dilla Time by @dancharnas, where I want to hear the artist’s music (and music adjacent to the artist) that’s the subject of the book.",
