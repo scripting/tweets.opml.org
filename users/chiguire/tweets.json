@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 26 May 2022 16:56:08 GMT"
+            "dateModified": "Thu, 26 May 2022 18:25:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/VWfPblyIao\">[link]</a>",
+                                    "rawText": "https://t.co/VWfPblyIao",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 18:16:58 GMT",
+                                    "tweetId": "1529889343766245393",
+                                    "urltweet": "https://twitter.com/chiguire/status/1529889343766245393",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@la_lucieole cuando la gente se quiere ir, hay que dejarla ir",
                                     "rawText": "@la_lucieole cuando la gente se quiere ir, hay que dejarla ir",
