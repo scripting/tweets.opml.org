@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 12:54:43 GMT"
+            "dateModified": "Thu, 26 May 2022 20:38:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@Quiara feel better 🌷",
+                                    "rawText": "@Quiara feel better 🌷",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 20:31:06 GMT",
+                                    "tweetId": "1529923100879601680",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1529923100879601680",
+                                    "inReplyToId": "1529905021193703433",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 24",
                             "type": "calendarDay",
