@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 26 May 2022 12:33:22 GMT"
+            "dateModified": "Thu, 26 May 2022 12:58:54 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "This. Very much this. <a href=\"https://t.co/qkZzK0zCu1\">[link]</a>",
+                                    "rawText": "This. Very much this. https://t.co/qkZzK0zCu1",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 12:46:27 GMT",
+                                    "tweetId": "1529806167962173441",
+                                    "urltweet": "https://twitter.com/yudel/status/1529806167962173441",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@Chronotope Misses a key point: taking out two Republicans would mean that Manchin doesn’t matter.",
                                     "rawText": "@Chronotope Misses a key point: taking out two Republicans would mean that Manchin doesn’t matter.",
@@ -38,7 +47,43 @@
                                             "tweetId": "1529801976803909632",
                                             "urltweet": "https://twitter.com/yudel/status/1529801976803909632",
                                             "inReplyToId": "1529801599429881857",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@Chronotope Really, seize four Republican senators and threaten to start shooting one by one until the Senate 1) Expands the Supreme Court and 2) Modified the Filibuster.",
+                                                    "rawText": "@Chronotope Really, seize four Republican senators and threaten to start shooting one by one until the Senate 1) Expands the Supreme Court and 2) Modified the Filibuster.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 26 May 2022 12:48:16 GMT",
+                                                    "tweetId": "1529806625703354369",
+                                                    "urltweet": "https://twitter.com/yudel/status/1529806625703354369",
+                                                    "inReplyToId": "1529801976803909632",
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@Chronotope Executing such a plot is beyond my resources -- for better or for worse -- but I challenge anyone to show how it would not be acceptable according to Jewish law, as laid out by Rabbi Moshe Tendler in his 1984 defending the Jewish terrorist underground.",
+                                                            "rawText": "@Chronotope Executing such a plot is beyond my resources -- for better or for worse -- but I challenge anyone to show how it would not be acceptable according to Jewish law, as laid out by Rabbi Moshe Tendler in his 1984 defending the Jewish terrorist underground.",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 26 May 2022 12:49:43 GMT",
+                                                            "tweetId": "1529806988854628353",
+                                                            "urltweet": "https://twitter.com/yudel/status/1529806988854628353",
+                                                            "inReplyToId": "1529806625703354369",
+                                                            "tweetUserName": "yudel",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "@Chronotope Ah, those days when publishing a journal evenly divided between pro- and anti- terror supporters got you (correctly) branded as a liberal in the college cafeteria, because the default Orthodox position was pro-terror.",
+                                                                    "rawText": "@Chronotope Ah, those days when publishing a journal evenly divided between pro- and anti- terror supporters got you (correctly) branded as a liberal in the college cafeteria, because the default Orthodox position was pro-terror.",
+                                                                    "type": "tweet",
+                                                                    "created": "Thu, 26 May 2022 12:50:49 GMT",
+                                                                    "tweetId": "1529807265330515968",
+                                                                    "urltweet": "https://twitter.com/yudel/status/1529807265330515968",
+                                                                    "inReplyToId": "1529806988854628353",
+                                                                    "tweetUserName": "yudel"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
