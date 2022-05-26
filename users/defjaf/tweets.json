@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 18 May 2022 10:04:50 GMT"
+            "dateModified": "Thu, 26 May 2022 09:18:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@DanielWhiteson “I am sitting at a desk, typing on a computer, and seeing words on the screen in front of me” is very emergent, and very true.",
+                                    "rawText": "@DanielWhiteson “I am sitting at a desk, typing on a computer, and seeing words on the screen in front of me” is very emergent, and very true.",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 09:11:11 GMT",
+                                    "tweetId": "1529751995665506305",
+                                    "urltweet": "https://twitter.com/defjaf/status/1529751995665506305",
+                                    "inReplyToId": "1529496537167847426",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 18",
                             "type": "calendarDay",
