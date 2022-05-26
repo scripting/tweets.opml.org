@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 17:14:42 GMT"
+            "dateModified": "Thu, 26 May 2022 15:34:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Too many choices after step 2.",
+                                    "rawText": "Too many choices after step 2.",
+                                    "type": "tweet",
+                                    "created": "Thu, 26 May 2022 15:32:41 GMT",
+                                    "tweetId": "1529848000037765120",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1529848000037765120",
+                                    "tweetUserName": "ccb18Vt",
+                                    "subs": [
+                                        {
+                                            "text": "Wordle 341 5/6\n\n⬜🟨🟨🟨🟩\n🟨🟨🟨🟨⬜\n🟨🟨🟩⬜🟨\n⬜⬜🟩🟩🟩\n🟩🟩🟩🟩🟩",
+                                            "rawText": "Wordle 341 5/6\n\n⬜🟨🟨🟨🟩\n🟨🟨🟨🟨⬜\n🟨🟨🟩⬜🟨\n⬜⬜🟩🟩🟩\n🟩🟩🟩🟩🟩",
+                                            "type": "tweet",
+                                            "created": "Thu, 26 May 2022 15:33:04 GMT",
+                                            "tweetId": "1529848096359866368",
+                                            "urltweet": "https://twitter.com/ccb18Vt/status/1529848096359866368",
+                                            "inReplyToId": "1529848000037765120",
+                                            "tweetUserName": "ccb18Vt"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "May 25",
                             "type": "calendarDay",
