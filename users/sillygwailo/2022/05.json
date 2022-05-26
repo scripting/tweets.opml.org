@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 26 May 2022 01:33:12 GMT"
+            "dateModified": "Thu, 26 May 2022 03:40:50 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                     "tweetId": "1529468041825861635",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1529468041825861635",
                                     "inReplyToId": "1397347789017952257",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I didn’t see any other hoopy froods who knew where their towel was today.",
+                                            "rawText": "I didn’t see any other hoopy froods who knew where their towel was today.",
+                                            "type": "tweet",
+                                            "created": "Thu, 26 May 2022 03:33:29 GMT",
+                                            "tweetId": "1529667009109270529",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1529667009109270529",
+                                            "inReplyToId": "1529468041825861635",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "It’s already been a long week of realizing I had a chance to do [x] without really knowing it.",
