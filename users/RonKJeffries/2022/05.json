@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 02:06:43 GMT"
+            "dateModified": "Fri, 27 May 2022 14:39:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "In awe... <a href=\"https://t.co/FU2u9m4fjU\">[link]</a>",
+                                    "rawText": "In awe... https://t.co/FU2u9m4fjU",
+                                    "type": "tweet",
+                                    "created": "Fri, 27 May 2022 14:37:36 GMT",
+                                    "tweetId": "1530196528643444736",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1530196528643444736",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 26",
                             "type": "calendarDay",
