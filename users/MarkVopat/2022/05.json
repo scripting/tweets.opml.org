@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 02:12:29 GMT"
+            "dateModified": "Fri, 27 May 2022 11:46:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Students Are Missing the Point of College <a href=\"https://t.co/klHJ3uGRPH\">[link]</a>",
+                                    "rawText": "Students Are Missing the Point of College https://t.co/klHJ3uGRPH",
+                                    "type": "tweet",
+                                    "created": "Fri, 27 May 2022 11:35:47 GMT",
+                                    "tweetId": "1530150772087869441",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1530150772087869441",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 26",
                             "type": "calendarDay",
