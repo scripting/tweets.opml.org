@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 03:28:34 GMT"
+            "dateModified": "Fri, 27 May 2022 04:19:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "That was not a distinct kicking motion #EDMvsCGY",
+                                    "rawText": "That was not a distinct kicking motion #EDMvsCGY",
+                                    "type": "tweet",
+                                    "created": "Fri, 27 May 2022 04:10:44 GMT",
+                                    "tweetId": "1530038769411190784",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1530038769411190784",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 26",
                             "type": "calendarDay",
