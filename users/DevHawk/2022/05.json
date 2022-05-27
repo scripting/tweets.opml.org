@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 04:19:37 GMT"
+            "dateModified": "Fri, 27 May 2022 04:45:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "I'm rooting for Calgary mostly because I don't want this series to be over yet",
+                                    "rawText": "I'm rooting for Calgary mostly because I don't want this series to be over yet",
+                                    "type": "tweet",
+                                    "created": "Fri, 27 May 2022 04:35:38 GMT",
+                                    "tweetId": "1530045039715356672",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1530045039715356672",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "Boo",
+                                            "rawText": "Boo",
+                                            "type": "tweet",
+                                            "created": "Fri, 27 May 2022 04:42:55 GMT",
+                                            "tweetId": "1530046872672272384",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1530046872672272384",
+                                            "inReplyToId": "1530045039715356672",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "That was not a distinct kicking motion #EDMvsCGY",
                                     "rawText": "That was not a distinct kicking motion #EDMvsCGY",
