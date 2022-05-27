@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 15:08:49 GMT"
+            "dateModified": "Fri, 27 May 2022 15:21:34 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1530204102029979650",
                                     "urltweet": "https://twitter.com/yudel/status/1530204102029979650",
                                     "inReplyToId": "1529930142029692934",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@TfTHacker @davewiner Now, I use the primitive @NotionHQ outline features as part of relying on Notion to keep track of my myriad tasks and sub tasks. It’s not perfect, but the Kanban view is indispensable.",
+                                            "rawText": "@TfTHacker @davewiner Now, I use the primitive @NotionHQ outline features as part of relying on Notion to keep track of my myriad tasks and sub tasks. It’s not perfect, but the Kanban view is indispensable.",
+                                            "type": "tweet",
+                                            "created": "Fri, 27 May 2022 15:11:17 GMT",
+                                            "tweetId": "1530205004476342272",
+                                            "urltweet": "https://twitter.com/yudel/status/1530205004476342272",
+                                            "inReplyToId": "1530204102029979650",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@TfTHacker Died because MS announced that it would bundle Outlook with its next iteration of Office.",
