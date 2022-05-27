@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 01:29:41 GMT"
+            "dateModified": "Fri, 27 May 2022 01:55:13 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "Elon Musk Drops Margin Loan From Twitter Bid, Making It A Little Less Risky. <a href=\"https://t.co/8amry8ojL6\">[link]</a>",
+                                    "rawText": "Elon Musk Drops Margin Loan From Twitter Bid, Making It A Little Less Risky. https://t.co/8amry8ojL6",
+                                    "type": "tweet",
+                                    "created": "Fri, 27 May 2022 01:45:18 GMT",
+                                    "tweetId": "1530002169881333760",
+                                    "urltweet": "https://twitter.com/davewiner/status/1530002169881333760",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "The good guys with guns were scared of the bad guy with a gun.  <a href=\"https://t.co/jBqvGMn8K5\">[link]</a>",
                                     "rawText": "The good guys with guns were scared of the bad guy with a gun.  https://t.co/jBqvGMn8K5",
@@ -36,7 +45,19 @@
                                     "created": "Fri, 27 May 2022 00:57:31 GMT",
                                     "tweetId": "1529990145121964035",
                                     "urltweet": "https://twitter.com/davewiner/status/1529990145121964035",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "M thinking blowout.",
+                                            "rawText": "M thinking blowout.",
+                                            "type": "tweet",
+                                            "created": "Fri, 27 May 2022 01:52:17 GMT",
+                                            "tweetId": "1530003928766611457",
+                                            "urltweet": "https://twitter.com/davewiner/status/1530003928766611457",
+                                            "inReplyToId": "1529990145121964035",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@TfTHacker Very interesting thread. It’ll be hard for me to put together my list. I’m not sure my first outliner even had a name. Oy. 😀",
