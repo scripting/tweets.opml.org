@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 17:45:29 GMT"
+            "dateModified": "Fri, 27 May 2022 23:04:34 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "I made this for dinner tonight. <a href=\"https://t.co/SlZzATZ36l\">[link]</a>",
+                                    "rawText": "I made this for dinner tonight. https://t.co/SlZzATZ36l",
+                                    "type": "tweet",
+                                    "created": "Fri, 27 May 2022 22:52:51 GMT",
+                                    "tweetId": "1530321162609246211",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1530321162609246211",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "The fork is just for show. I ate it with a spoon.",
+                                            "rawText": "The fork is just for show. I ate it with a spoon.",
+                                            "type": "tweet",
+                                            "created": "Fri, 27 May 2022 22:53:20 GMT",
+                                            "tweetId": "1530321281530355714",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1530321281530355714",
+                                            "inReplyToId": "1530321162609246211",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@rtanglao Haha it’s a gag/true statement. I’m truly going to be back in town then.",
                                     "rawText": "@rtanglao Haha it’s a gag/true statement. I’m truly going to be back in town then.",
