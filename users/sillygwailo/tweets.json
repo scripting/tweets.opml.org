@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 18:13:19 GMT"
+            "dateModified": "Sat, 28 May 2022 18:38:51 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                                     "tweetId": "1530611348278857731",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1530611348278857731",
                                                     "inReplyToId": "1530590992402882560",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "This afternoon. <a href=\"https://t.co/PCLsStt8Ol\">[link]</a>",
+                                                            "rawText": "This afternoon. https://t.co/PCLsStt8Ol",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 28 May 2022 18:37:30 GMT",
+                                                            "tweetId": "1530619290205954050",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1530619290205954050",
+                                                            "inReplyToId": "1530611348278857731",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
