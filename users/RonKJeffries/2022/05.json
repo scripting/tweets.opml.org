@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 21:40:59 GMT"
+            "dateModified": "Sat, 28 May 2022 10:14:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@TheArduinoGuy did you post-process or straight out of camera? Lovely image!",
+                                    "rawText": "@TheArduinoGuy did you post-process or straight out of camera? Lovely image!",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 10:07:16 GMT",
+                                    "tweetId": "1530490881739919360",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1530490881739919360",
+                                    "inReplyToId": "1530488018196471809",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 27",
                             "type": "calendarDay",
