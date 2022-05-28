@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 15:14:38 GMT"
+            "dateModified": "Sat, 28 May 2022 16:56:44 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 28 May 2022 15:05:19 GMT",
                                     "tweetId": "1530565892593135616",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1530565892593135616",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "This afternoon. <a href=\"https://t.co/l6BcCpHlI5\">[link]</a>",
+                                            "rawText": "This afternoon. https://t.co/l6BcCpHlI5",
+                                            "type": "tweet",
+                                            "created": "Sat, 28 May 2022 16:45:04 GMT",
+                                            "tweetId": "1530590992402882560",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1530590992402882560",
+                                            "inReplyToId": "1530565892593135616",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Doors_OpenTO I can work with that. Thanks!\n\nFor next year, my hope is to make an app that will plot out a walking/cycling/transit/driving (in that order) route from a randomly selected few sites.",
