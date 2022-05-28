@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 24 May 2022 22:32:33 GMT"
+            "dateModified": "Sat, 28 May 2022 18:26:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "This looks like a really interesting event for history buffs like me. H/T @SpinItSocial <a href=\"https://t.co/8kTEhD3Vhf\">[link]</a>",
+                                    "rawText": "This looks like a really interesting event for history buffs like me. H/T @SpinItSocial https://t.co/8kTEhD3Vhf",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 18:23:13 GMT",
+                                    "tweetId": "1530615693602787328",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1530615693602787328",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 24",
                             "type": "calendarDay",
