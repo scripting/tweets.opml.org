@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 19:30:36 GMT"
+            "dateModified": "Sat, 28 May 2022 16:21:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@RainieRDiaz13 ¡Adiós parrilla!",
+                                    "rawText": "@RainieRDiaz13 ¡Adiós parrilla!",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 16:13:12 GMT",
+                                    "tweetId": "1530582973015330816",
+                                    "urltweet": "https://twitter.com/oevl/status/1530582973015330816",
+                                    "inReplyToId": "1530191881560276992",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 27",
                             "type": "calendarDay",
