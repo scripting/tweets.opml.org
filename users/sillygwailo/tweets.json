@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 13:19:46 GMT"
+            "dateModified": "Sat, 28 May 2022 13:58:03 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "@Doors_OpenTO I can work with that. Thanks!\n\nFor next year, my hope is to make an app that will plot out a walking/cycling/transit/driving (in that order) route from a randomly selected few sites.",
+                                    "rawText": "@Doors_OpenTO I can work with that. Thanks!\n\nFor next year, my hope is to make an app that will plot out a walking/cycling/transit/driving (in that order) route from a randomly selected few sites.",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 13:51:45 GMT",
+                                    "tweetId": "1530547376607449088",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1530547376607449088",
+                                    "inReplyToId": "1530543999626485761",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "Is there a JSON (or other open data format) representation of the @Doors_OpenTO locations? It’s hard to choose between the over 100 sites open to the public this weekend and I’d like to make a random picker to ease my decision fatigue. #DOT22",
                                     "rawText": "Is there a JSON (or other open data format) representation of the @Doors_OpenTO locations? It’s hard to choose between the over 100 sites open to the public this weekend and I’d like to make a random picker to ease my decision fatigue. #DOT22",
