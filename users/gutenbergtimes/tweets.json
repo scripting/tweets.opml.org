@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 25 May 2022 22:27:16 GMT"
+            "dateModified": "Sat, 28 May 2022 11:04:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Gutenberg and fluid typography\n<a href=\"https://t.co/eLSFRXW7nT\">[link]</a>",
+                                    "rawText": "Gutenberg and fluid typography\nhttps://t.co/eLSFRXW7nT",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 10:55:02 GMT",
+                                    "tweetId": "1530502905224212480",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1530502905224212480",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 25",
                             "type": "calendarDay",
