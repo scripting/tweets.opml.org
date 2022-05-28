@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 03:54:38 GMT"
+            "dateModified": "Sat, 28 May 2022 04:07:24 GMT"
         },
         "body": {
             "subs": [
@@ -16,10 +16,47 @@
                     "name": "may2022",
                     "subs": [
                         {
+                            "text": "May 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@jholbo1 Or at least more rebates to drivers.",
+                                    "rawText": "@jholbo1 Or at least more rebates to drivers.",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 04:00:30 GMT",
+                                    "tweetId": "1530398582108561410",
+                                    "urltweet": "https://twitter.com/yudel/status/1530398582108561410",
+                                    "inReplyToId": "1530398176452091905",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
+                        {
                             "text": "May 27",
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "@swordsjew “An so on, infinitum.”",
+                                    "rawText": "@swordsjew “An so on, infinitum.”",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 03:58:21 GMT",
+                                    "tweetId": "1530398042368659458",
+                                    "urltweet": "https://twitter.com/yudel/status/1530398042368659458",
+                                    "inReplyToId": "1530397397695750147",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@jamesdnicoll Can’t believe nobody has trademarked Thitolomine as the name of an app or something.",
+                                    "rawText": "@jamesdnicoll Can’t believe nobody has trademarked Thitolomine as the name of an app or something.",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 03:57:26 GMT",
+                                    "tweetId": "1530397813024096256",
+                                    "urltweet": "https://twitter.com/yudel/status/1530397813024096256",
+                                    "inReplyToId": "1530395342876905473",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@swordsjew This is how culture evolves and grows. My great grandmother was in college when the electron was discovered. I learned about it in kindergarten.",
                                     "rawText": "@swordsjew This is how culture evolves and grows. My great grandmother was in college when the electron was discovered. I learned about it in kindergarten.",
@@ -28,7 +65,31 @@
                                     "tweetId": "1530397068833050626",
                                     "urltweet": "https://twitter.com/yudel/status/1530397068833050626",
                                     "inReplyToId": "1530396288684068865",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@swordsjew My grandparents evidently had to be taught to eat ketchup. We learned as toddlers.",
+                                            "rawText": "@swordsjew My grandparents evidently had to be taught to eat ketchup. We learned as toddlers.",
+                                            "type": "tweet",
+                                            "created": "Sat, 28 May 2022 03:55:09 GMT",
+                                            "tweetId": "1530397239507570688",
+                                            "urltweet": "https://twitter.com/yudel/status/1530397239507570688",
+                                            "inReplyToId": "1530397068833050626",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@swordsjew As adults, we now discover lists of exotic sandwiches that our grandchildren will take to their killer-robot patrolled schools. Progress!",
+                                                    "rawText": "@swordsjew As adults, we now discover lists of exotic sandwiches that our grandchildren will take to their killer-robot patrolled schools. Progress!",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 28 May 2022 03:56:12 GMT",
+                                                    "tweetId": "1530397502867898371",
+                                                    "urltweet": "https://twitter.com/yudel/status/1530397502867898371",
+                                                    "inReplyToId": "1530397239507570688",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@JohnQuiggin What scares me is I believe the Republicans in Congress generally aren’t smart and honest enough to properly supervise the Pentagon and its budget, and the Democrats are pathologically scared of Republican criticism.",
