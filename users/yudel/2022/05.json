@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 04:45:42 GMT"
+            "dateModified": "Sat, 28 May 2022 05:11:14 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "@hardmaru So I play a lot with the text generator at <a href=\"https://t.co/OdngmloMv0\">[link]</a> and it’s a very strange thing. Fictional stories that read like news articles and reflect an enormous range of knowledge only partially remembered. The AI is very knowledgeable but only somewhat smart. Or drunk.",
+                                    "rawText": "@hardmaru So I play a lot with the text generator at https://t.co/OdngmloMv0 and it’s a very strange thing. Fictional stories that read like news articles and reflect an enormous range of knowledge only partially remembered. The AI is very knowledgeable but only somewhat smart. Or drunk.",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 05:10:16 GMT",
+                                    "tweetId": "1530416139263741952",
+                                    "urltweet": "https://twitter.com/yudel/status/1530416139263741952",
+                                    "inReplyToId": "1530415349367070720",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@hardmaru But I hesitate to post the results online because it has real people saying things in their fields of expertise that are of course not true.",
+                                            "rawText": "@hardmaru But I hesitate to post the results online because it has real people saying things in their fields of expertise that are of course not true.",
+                                            "type": "tweet",
+                                            "created": "Sat, 28 May 2022 05:11:09 GMT",
+                                            "tweetId": "1530416362807517184",
+                                            "urltweet": "https://twitter.com/yudel/status/1530416362807517184",
+                                            "inReplyToId": "1530416139263741952",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@hardmaru I wonder how it would respond to a prompt of 1956 Life Magazine ad, as in this thread. <a href=\"https://t.co/AQCQpFd0YS\">[link]</a>",
                                     "rawText": "@hardmaru I wonder how it would respond to a prompt of 1956 Life Magazine ad, as in this thread. https://t.co/AQCQpFd0YS",
