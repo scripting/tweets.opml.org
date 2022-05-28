@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 01:24:59 GMT"
+            "dateModified": "Sat, 28 May 2022 13:19:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Is there a JSON (or other open data format) representation of the @Doors_OpenTO locations? It’s hard to choose between the over 100 sites open to the public this weekend and I’d like to make a random picker to ease my decision fatigue. #DOT22",
+                                    "rawText": "Is there a JSON (or other open data format) representation of the @Doors_OpenTO locations? It’s hard to choose between the over 100 sites open to the public this weekend and I’d like to make a random picker to ease my decision fatigue. #DOT22",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 13:08:34 GMT",
+                                    "tweetId": "1530536509098668036",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1530536509098668036",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 27",
                             "type": "calendarDay",
