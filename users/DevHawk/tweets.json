@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 27 May 2022 04:45:08 GMT"
+            "dateModified": "Sat, 28 May 2022 17:58:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "I had to try it <a href=\"https://t.co/XlHZkM939v\">[link]</a>",
+                                    "rawText": "I had to try it https://t.co/XlHZkM939v",
+                                    "type": "tweet",
+                                    "created": "Sat, 28 May 2022 17:55:39 GMT",
+                                    "tweetId": "1530608758111408128",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1530608758111408128",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 27",
                             "type": "calendarDay",
