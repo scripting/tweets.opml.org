@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 29 May 2022 22:27:23 GMT"
+            "dateModified": "Sun, 29 May 2022 22:40:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "Some old time religion, American-style <a href=\"https://t.co/9I5YqKGF9x\">[link]</a>",
+                                    "rawText": "Some old time religion, American-style https://t.co/9I5YqKGF9x",
+                                    "type": "tweet",
+                                    "created": "Sun, 29 May 2022 22:34:24 GMT",
+                                    "tweetId": "1531041292318347264",
+                                    "urltweet": "https://twitter.com/yudel/status/1531041292318347264",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@AShihipar In unity is strength. Like a bundle of sticks is so much more powerful than any one stick.",
+                                    "rawText": "@AShihipar In unity is strength. Like a bundle of sticks is so much more powerful than any one stick.",
+                                    "type": "tweet",
+                                    "created": "Sun, 29 May 2022 22:29:20 GMT",
+                                    "tweetId": "1531040020139847681",
+                                    "urltweet": "https://twitter.com/yudel/status/1531040020139847681",
+                                    "inReplyToId": "1531039100991586307",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@AShihipar Does she think this will save her from Gitmo when the show trials begin?",
+                                            "rawText": "@AShihipar Does she think this will save her from Gitmo when the show trials begin?",
+                                            "type": "tweet",
+                                            "created": "Sun, 29 May 2022 22:29:59 GMT",
+                                            "tweetId": "1531040182610415616",
+                                            "urltweet": "https://twitter.com/yudel/status/1531040182610415616",
+                                            "inReplyToId": "1531040020139847681",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@aayushkrm @hardmaru I suspect that by 2035 that a computer can both write a script from a prompt and then generate the photorealistic movie.",
                                     "rawText": "@aayushkrm @hardmaru I suspect that by 2035 that a computer can both write a script from a prompt and then generate the photorealistic movie.",
