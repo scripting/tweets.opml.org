@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 23:47:41 GMT"
+            "dateModified": "Sun, 29 May 2022 08:05:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "Chicxs estoy completamente in love con el camarero del Christopher Lee",
+                                    "rawText": "Chicxs estoy completamente in love con el camarero del Christopher Lee",
+                                    "type": "tweet",
+                                    "created": "Sun, 29 May 2022 07:56:07 GMT",
+                                    "tweetId": "1530820266300956673",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1530820266300956673",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Mi futuro marido y el padre de mis hijos",
+                                            "rawText": "Mi futuro marido y el padre de mis hijos",
+                                            "type": "tweet",
+                                            "created": "Sun, 29 May 2022 07:56:07 GMT",
+                                            "tweetId": "1530820268029091842",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1530820268029091842",
+                                            "inReplyToId": "1530820266300956673",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "May 28",
                             "type": "calendarDay",
