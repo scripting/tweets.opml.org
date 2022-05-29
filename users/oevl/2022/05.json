@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 29 May 2022 03:37:56 GMT"
+            "dateModified": "Sun, 29 May 2022 15:32:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: New details in police response to Uvalde school shooting <a href=\"https://t.co/gx7yDXdHIB\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: New details in police response to Uvalde school shooting https://t.co/gx7yDXdHIB",
+                                    "type": "tweet",
+                                    "created": "Sun, 29 May 2022 15:28:52 GMT",
+                                    "tweetId": "1530934205672210433",
+                                    "urltweet": "https://twitter.com/oevl/status/1530934205672210433",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 28",
                             "type": "calendarDay",
