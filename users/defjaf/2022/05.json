@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 26 May 2022 09:18:40 GMT"
+            "dateModified": "Sun, 29 May 2022 15:35:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@alirahimi0 @cosmic_mar Generally, there is some likelihood function which will give any posterior at all (at least for proper priors with finite range), and hence there is no necessary relation at all between prior &amp; posterior entropy. (Gaussians are special: the posterior width always increases.)",
+                                    "rawText": "@alirahimi0 @cosmic_mar Generally, there is some likelihood function which will give any posterior at all (at least for proper priors with finite range), and hence there is no necessary relation at all between prior &amp; posterior entropy. (Gaussians are special: the posterior width always increases.)",
+                                    "type": "tweet",
+                                    "created": "Sun, 29 May 2022 15:28:30 GMT",
+                                    "tweetId": "1530934111363268608",
+                                    "urltweet": "https://twitter.com/defjaf/status/1530934111363268608",
+                                    "inReplyToId": "1530261099236364288",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 26",
                             "type": "calendarDay",
