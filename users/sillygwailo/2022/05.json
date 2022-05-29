@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 29 May 2022 22:43:39 GMT"
+            "dateModified": "Sun, 29 May 2022 22:56:25 GMT"
         },
         "body": {
             "subs": [
@@ -615,7 +615,31 @@
                                                     "tweetId": "1531025121791684609",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1531025121791684609",
                                                     "inReplyToId": "1528815543179943938",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "I actually forgot about today’s road opening for cyclists (and other active people). I was thinking I’d have to use the narrower trails through the park. I took advantage of #ActiveTO to get to Doors Open Toronto (#DOT22).",
+                                                            "rawText": "I actually forgot about today’s road opening for cyclists (and other active people). I was thinking I’d have to use the narrower trails through the park. I took advantage of #ActiveTO to get to Doors Open Toronto (#DOT22).",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 29 May 2022 22:54:07 GMT",
+                                                            "tweetId": "1531046257300541441",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1531046257300541441",
+                                                            "inReplyToId": "1531025121791684609",
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "[Insert here the lengths I had to go to dock my Bike Share Toronto bike.]",
+                                                                    "rawText": "[Insert here the lengths I had to go to dock my Bike Share Toronto bike.]",
+                                                                    "type": "tweet",
+                                                                    "created": "Sun, 29 May 2022 22:54:08 GMT",
+                                                                    "tweetId": "1531046258688901120",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1531046258688901120",
+                                                                    "inReplyToId": "1531046257300541441",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
