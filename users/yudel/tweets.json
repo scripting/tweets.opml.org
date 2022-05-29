@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 29 May 2022 06:04:35 GMT"
+            "dateModified": "Sun, 29 May 2022 06:17:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "@gabrielwinant But it assumes punishment of this who don’t serve is more probable than punishment of those who are lefhanded.",
+                                    "rawText": "@gabrielwinant But it assumes punishment of this who don’t serve is more probable than punishment of those who are lefhanded.",
+                                    "type": "tweet",
+                                    "created": "Sun, 29 May 2022 06:13:09 GMT",
+                                    "tweetId": "1530794353509154816",
+                                    "urltweet": "https://twitter.com/yudel/status/1530794353509154816",
+                                    "inReplyToId": "1530792156071337986",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@gabrielwinant It’s an embodiment of a fascist Christian theology, that *assumes* an all-powerful being would harbor infinite resentment.",
                                     "rawText": "@gabrielwinant It’s an embodiment of a fascist Christian theology, that *assumes* an all-powerful being would harbor infinite resentment.",
@@ -38,7 +48,31 @@
                                             "tweetId": "1530791969005387776",
                                             "urltweet": "https://twitter.com/yudel/status/1530791969005387776",
                                             "inReplyToId": "1530791526787317760",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@gabrielwinant It’s Ayn Rand meets Fire and Brinstone. So prototypically American.",
+                                                    "rawText": "@gabrielwinant It’s Ayn Rand meets Fire and Brinstone. So prototypically American.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 29 May 2022 06:04:55 GMT",
+                                                    "tweetId": "1530792284001910785",
+                                                    "urltweet": "https://twitter.com/yudel/status/1530792284001910785",
+                                                    "inReplyToId": "1530791969005387776",
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@gabrielwinant The fact people take it seriously implies a profound lack of philosophical training among seemingly smart people.",
+                                                            "rawText": "@gabrielwinant The fact people take it seriously implies a profound lack of philosophical training among seemingly smart people.",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 29 May 2022 06:06:02 GMT",
+                                                            "tweetId": "1530792562495209472",
+                                                            "urltweet": "https://twitter.com/yudel/status/1530792562495209472",
+                                                            "inReplyToId": "1530792284001910785",
+                                                            "tweetUserName": "yudel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
