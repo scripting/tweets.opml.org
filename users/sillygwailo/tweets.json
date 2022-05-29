@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 29 May 2022 14:51:23 GMT"
+            "dateModified": "Sun, 29 May 2022 16:59:02 GMT"
         },
         "body": {
             "subs": [
@@ -127,7 +127,19 @@
                                                                             "tweetId": "1530922305471258625",
                                                                             "urltweet": "https://twitter.com/sillygwailo/status/1530922305471258625",
                                                                             "inReplyToId": "1530711756515024896",
-                                                                            "tweetUserName": "sillygwailo"
+                                                                            "tweetUserName": "sillygwailo",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "This afternoon. <a href=\"https://t.co/dQGbzTE2id\">[link]</a>",
+                                                                                    "rawText": "This afternoon. https://t.co/dQGbzTE2id",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Sun, 29 May 2022 16:58:59 GMT",
+                                                                                    "tweetId": "1530956882013216769",
+                                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1530956882013216769",
+                                                                                    "inReplyToId": "1530922305471258625",
+                                                                                    "tweetUserName": "sillygwailo"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     ]
                                                                 }
