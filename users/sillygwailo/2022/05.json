@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 29 May 2022 21:14:18 GMT"
+            "dateModified": "Sun, 29 May 2022 21:39:50 GMT"
         },
         "body": {
             "subs": [
@@ -545,7 +545,19 @@
                                             "tweetId": "1528815543179943938",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1528815543179943938",
                                             "inReplyToId": "1528807858732732419",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I biked along the Lakeshore Boulevard Activeway again today, and it was just as spectacular as I remembered it to be. #ActiveTO <a href=\"https://t.co/AURMmGQlmk\">[link]</a>",
+                                                    "rawText": "I biked along the Lakeshore Boulevard Activeway again today, and it was just as spectacular as I remembered it to be. #ActiveTO https://t.co/AURMmGQlmk",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 29 May 2022 21:30:08 GMT",
+                                                    "tweetId": "1531025121791684609",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1531025121791684609",
+                                                    "inReplyToId": "1528815543179943938",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
