@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 21:28:47 GMT"
+            "dateModified": "Sun, 29 May 2022 08:32:29 GMT"
         },
         "body": {
             "subs": [
@@ -278,7 +278,19 @@
                                                     "tweetId": "1530478950635474945",
                                                     "urltweet": "https://twitter.com/chiguire/status/1530478950635474945",
                                                     "inReplyToId": "1529494633515999232",
-                                                    "tweetUserName": "chiguire"
+                                                    "tweetUserName": "chiguire",
+                                                    "subs": [
+                                                        {
+                                                            "text": "#Earworm <a href=\"https://t.co/l8OR0aoaYP\">[link]</a>",
+                                                            "rawText": "#Earworm https://t.co/l8OR0aoaYP",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 29 May 2022 08:27:44 GMT",
+                                                            "tweetId": "1530828221440266240",
+                                                            "urltweet": "https://twitter.com/chiguire/status/1530828221440266240",
+                                                            "inReplyToId": "1530478950635474945",
+                                                            "tweetUserName": "chiguire"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
@@ -2295,7 +2307,19 @@
                                                                                                                                                                             "tweetId": "1530477946057773057",
                                                                                                                                                                             "urltweet": "https://twitter.com/chiguire/status/1530477946057773057",
                                                                                                                                                                             "inReplyToId": "1530090491466989569",
-                                                                                                                                                                            "tweetUserName": "chiguire"
+                                                                                                                                                                            "tweetUserName": "chiguire",
+                                                                                                                                                                            "subs": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "text": "#Heardle #93\n\n🔉⬛️⬛️🟩⬜️⬜️⬜️\n\n<a href=\"https://t.co/Z6l3YYHnYY\">[link]</a>",
+                                                                                                                                                                                    "rawText": "#Heardle #93\n\n🔉⬛️⬛️🟩⬜️⬜️⬜️\n\nhttps://t.co/Z6l3YYHnYY",
+                                                                                                                                                                                    "type": "tweet",
+                                                                                                                                                                                    "created": "Sun, 29 May 2022 08:29:29 GMT",
+                                                                                                                                                                                    "tweetId": "1530828662068625409",
+                                                                                                                                                                                    "urltweet": "https://twitter.com/chiguire/status/1530828662068625409",
+                                                                                                                                                                                    "inReplyToId": "1530477946057773057",
+                                                                                                                                                                                    "tweetUserName": "chiguire"
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
                                                                                                                                                                         }
                                                                                                                                                                     ]
                                                                                                                                                                 }
