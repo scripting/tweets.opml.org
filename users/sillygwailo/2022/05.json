@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 15:44:45 GMT"
+            "dateModified": "Mon, 30 May 2022 15:57:31 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "30",
                             "subs": [
                                 {
+                                    "text": "@stephentweedale <a href=\"https://t.co/XMXo84VQoB\">[link]</a>",
+                                    "rawText": "@stephentweedale https://t.co/XMXo84VQoB",
+                                    "type": "tweet",
+                                    "created": "Mon, 30 May 2022 15:47:02 GMT",
+                                    "tweetId": "1531301162649014273",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1531301162649014273",
+                                    "inReplyToId": "1526985781667106817",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
                                     "text": "Look what arrived in the mail! <a href=\"https://t.co/o4S1qRC4o4\">[link]</a>",
                                     "rawText": "Look what arrived in the mail! https://t.co/o4S1qRC4o4",
                                     "type": "tweet",
                                     "created": "Mon, 30 May 2022 15:42:49 GMT",
                                     "tweetId": "1531300103704690690",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1531300103704690690",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "You have to pay postage, but you can get your free  Platinum Jubilee lapel pin from @monarchist at <a href=\"https://t.co/Y84WwptdEr\">[link]</a>",
+                                            "rawText": "You have to pay postage, but you can get your free  Platinum Jubilee lapel pin from @monarchist at https://t.co/Y84WwptdEr",
+                                            "type": "tweet",
+                                            "created": "Mon, 30 May 2022 15:45:44 GMT",
+                                            "tweetId": "1531300835573088256",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1531300835573088256",
+                                            "inReplyToId": "1531300103704690690",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
