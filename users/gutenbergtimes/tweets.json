@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 28 May 2022 20:52:00 GMT"
+            "dateModified": "Mon, 30 May 2022 17:57:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "New: Gutenberg Changelog #67 Gutenberg 13.2 and 13.3, WordPress 6.0 and more with Birgit Pauli-Haack \n@bph and special guest Grzegorz Ziolkowski @gziolo // Now with transcript, too! \n<a href=\"https://t.co/NwfrD6fKHr\">[link]</a>",
+                                    "rawText": "New: Gutenberg Changelog #67 Gutenberg 13.2 and 13.3, WordPress 6.0 and more with Birgit Pauli-Haack \n@bph and special guest Grzegorz Ziolkowski @gziolo // Now with transcript, too! \nhttps://t.co/NwfrD6fKHr",
+                                    "type": "tweet",
+                                    "created": "Mon, 30 May 2022 17:54:13 GMT",
+                                    "tweetId": "1531333171018715143",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1531333171018715143",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 28",
                             "type": "calendarDay",
