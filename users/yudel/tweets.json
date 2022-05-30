@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 02:55:25 GMT"
+            "dateModified": "Mon, 30 May 2022 03:08:11 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "People complain about using American racial issues for understanding Israel/Palestine. But I’ve found that understanding the Israeli arena very useful for understanding American policing. <a href=\"https://t.co/z0t0P4YxLE\">[link]</a>",
+                                    "rawText": "People complain about using American racial issues for understanding Israel/Palestine. But I’ve found that understanding the Israeli arena very useful for understanding American policing. https://t.co/z0t0P4YxLE",
+                                    "type": "tweet",
+                                    "created": "Mon, 30 May 2022 03:00:33 GMT",
+                                    "tweetId": "1531108272484360192",
+                                    "urltweet": "https://twitter.com/yudel/status/1531108272484360192",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@EladNehorai It’s interesting to note who is allowed to express righteous anger and for which offenses.",
                                     "rawText": "@EladNehorai It’s interesting to note who is allowed to express righteous anger and for which offenses.",
@@ -38,7 +47,19 @@
                                             "tweetId": "1531106389866823680",
                                             "urltweet": "https://twitter.com/yudel/status/1531106389866823680",
                                             "inReplyToId": "1531106001507831810",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@EladNehorai (While I have no knowledge of how masturbation was discussed at Frisch at the end of the 1999s, I did hear a rabbi at the closest Solomon Schecter high school explain to students in 2001 or 2002 that yes, Judaism views masturbation as a sin.)",
+                                                    "rawText": "@EladNehorai (While I have no knowledge of how masturbation was discussed at Frisch at the end of the 1999s, I did hear a rabbi at the closest Solomon Schecter high school explain to students in 2001 or 2002 that yes, Judaism views masturbation as a sin.)",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 30 May 2022 02:55:31 GMT",
+                                                    "tweetId": "1531107006995652613",
+                                                    "urltweet": "https://twitter.com/yudel/status/1531107006995652613",
+                                                    "inReplyToId": "1531106389866823680",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
