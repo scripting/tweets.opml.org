@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 17:08:21 GMT"
+            "dateModified": "Mon, 30 May 2022 17:59:24 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "I subscribe to the NYT and WP, both have the concept of \"gifting\" articles. 10 per month per subscriber.\n\nBy the end of the month I have a bunch of free gifts left over -- if I don't use them they'll go to waste.",
+                                    "rawText": "I subscribe to the NYT and WP, both have the concept of \"gifting\" articles. 10 per month per subscriber.\n\nBy the end of the month I have a bunch of free gifts left over -- if I don't use them they'll go to waste.",
+                                    "type": "tweet",
+                                    "created": "Mon, 30 May 2022 17:53:01 GMT",
+                                    "tweetId": "1531332868584181770",
+                                    "urltweet": "https://twitter.com/davewiner/status/1531332868584181770",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Wonder if there isn't a way to pool our gift links and put them to some good communal use?",
+                                            "rawText": "Wonder if there isn't a way to pool our gift links and put them to some good communal use?",
+                                            "type": "tweet",
+                                            "created": "Mon, 30 May 2022 17:53:01 GMT",
+                                            "tweetId": "1531332870069014530",
+                                            "urltweet": "https://twitter.com/davewiner/status/1531332870069014530",
+                                            "inReplyToId": "1531332868584181770",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "For example, here's a gift link to a story about rail trails for biking in the US.\n\n<a href=\"https://t.co/zhNwk5KqSt\">[link]</a>",
+                                                    "rawText": "For example, here's a gift link to a story about rail trails for biking in the US.\n\nhttps://t.co/zhNwk5KqSt",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 30 May 2022 17:57:47 GMT",
+                                                    "tweetId": "1531334070701105152",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1531334070701105152",
+                                                    "inReplyToId": "1531332870069014530",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@ElieNYC @BrianLehrer Had to look it up..\n\n<a href=\"https://t.co/UXrA4BgnJM\">[link]</a>",
                                     "rawText": "@ElieNYC @BrianLehrer Had to look it up..\n\nhttps://t.co/UXrA4BgnJM",
