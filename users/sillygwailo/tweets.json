@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 03:49:58 GMT"
+            "dateModified": "Mon, 30 May 2022 15:44:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Look what arrived in the mail! <a href=\"https://t.co/o4S1qRC4o4\">[link]</a>",
+                                    "rawText": "Look what arrived in the mail! https://t.co/o4S1qRC4o4",
+                                    "type": "tweet",
+                                    "created": "Mon, 30 May 2022 15:42:49 GMT",
+                                    "tweetId": "1531300103704690690",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1531300103704690690",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 29",
                             "type": "calendarDay",
