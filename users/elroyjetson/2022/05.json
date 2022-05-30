@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/elroyjetson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 26 May 2022 13:06:39 GMT"
+            "dateModified": "Mon, 30 May 2022 11:46:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Interesting observations about self-checkout.  <a href=\"https://t.co/211C8Pnf9d\">[link]</a> https://t.co/yjydGGqFOO",
+                                    "rawText": "Interesting observations about self-checkout.  https://t.co/211C8Pnf9d https://t.co/yjydGGqFOO",
+                                    "type": "tweet",
+                                    "created": "Mon, 30 May 2022 11:35:19 GMT",
+                                    "tweetId": "1531237818453970945",
+                                    "urltweet": "https://twitter.com/elroyjetson/status/1531237818453970945",
+                                    "tweetUserName": "elroyjetson"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 26",
                             "type": "calendarDay",
