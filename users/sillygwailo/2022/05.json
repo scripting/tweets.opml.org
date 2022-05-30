@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 03:11:41 GMT"
+            "dateModified": "Mon, 30 May 2022 03:37:12 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "@davewiner People are offering to shake my hand again, so things are more or less back to normal here in Toronto.",
+                                    "rawText": "@davewiner People are offering to shake my hand again, so things are more or less back to normal here in Toronto.",
+                                    "type": "tweet",
+                                    "created": "Mon, 30 May 2022 03:35:47 GMT",
+                                    "tweetId": "1531117139939274753",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1531117139939274753",
+                                    "inReplyToId": "1530940677877547009",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@ItsJennyJ For those reading this, there were a good many more than 20 bikes on Lakeshore Blvd. today.",
                                     "rawText": "@ItsJennyJ For those reading this, there were a good many more than 20 bikes on Lakeshore Blvd. today.",
@@ -47,7 +57,19 @@
                                             "tweetId": "1531108199075659777",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1531108199075659777",
                                             "inReplyToId": "1531096488364986372",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I’m thinking of moving to Wallace Emerson, that’s what I’m trying to say.",
+                                                    "rawText": "I’m thinking of moving to Wallace Emerson, that’s what I’m trying to say.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 30 May 2022 03:32:05 GMT",
+                                                    "tweetId": "1531116207776182272",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1531116207776182272",
+                                                    "inReplyToId": "1531108199075659777",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
