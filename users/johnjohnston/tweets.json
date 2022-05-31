@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 18:51:42 GMT"
+            "dateModified": "Tue, 31 May 2022 22:43:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@cogdog @mdvfunes I am still mostly classic, certainly for my own blog. Often just post drafts from TextMate, and tickle a bit in the editor. Take up of blocks on Glow Blogs very slow so far.",
+                                    "rawText": "@cogdog @mdvfunes I am still mostly classic, certainly for my own blog. Often just post drafts from TextMate, and tickle a bit in the editor. Take up of blocks on Glow Blogs very slow so far.",
+                                    "type": "tweet",
+                                    "created": "Tue, 31 May 2022 22:42:27 GMT",
+                                    "tweetId": "1531768096876273667",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1531768096876273667",
+                                    "inReplyToId": "1531751793801166848",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 30",
                             "type": "calendarDay",
