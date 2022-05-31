@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 13:15:05 GMT"
+            "dateModified": "Tue, 31 May 2022 17:07:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Panta rhei. Heraclitus may have lived ~500BC but he would’ve run circles around modern-day scientists. <a href=\"https://t.co/5jgBvnBgJA\">[link]</a>",
+                                    "rawText": "Panta rhei. Heraclitus may have lived ~500BC but he would’ve run circles around modern-day scientists. https://t.co/5jgBvnBgJA",
+                                    "type": "tweet",
+                                    "created": "Tue, 31 May 2022 16:59:55 GMT",
+                                    "tweetId": "1531681893426647042",
+                                    "urltweet": "https://twitter.com/miljko/status/1531681893426647042",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 30",
                             "type": "calendarDay",
