@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 17:24:22 GMT"
+            "dateModified": "Tue, 31 May 2022 13:49:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/b0lEw3HmXq\">[link]</a> Stories via @tedgioia @larrygoves @BMOPmusic",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/b0lEw3HmXq Stories via @tedgioia @larrygoves @BMOPmusic",
+                                    "type": "tweet",
+                                    "created": "Tue, 31 May 2022 13:47:49 GMT",
+                                    "tweetId": "1531633549199163392",
+                                    "urltweet": "https://twitter.com/aworks/status/1531633549199163392",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 30",
                             "type": "calendarDay",
