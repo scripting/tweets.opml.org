@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 30 May 2022 13:01:04 GMT"
+            "dateModified": "Tue, 31 May 2022 13:41:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "may2022",
                     "subs": [
+                        {
+                            "text": "May 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@b05crypto @LLcryptoJ Finals for a 13 yr old!? what kind of gulags are they running down there for middle schoolers?",
+                                    "rawText": "@b05crypto @LLcryptoJ Finals for a 13 yr old!? what kind of gulags are they running down there for middle schoolers?",
+                                    "type": "tweet",
+                                    "created": "Tue, 31 May 2022 13:30:07 GMT",
+                                    "tweetId": "1531629094408003588",
+                                    "urltweet": "https://twitter.com/cshotton/status/1531629094408003588",
+                                    "inReplyToId": "1531584139694116867",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "May 30",
                             "type": "calendarDay",
