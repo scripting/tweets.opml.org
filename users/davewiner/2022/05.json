@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 31 May 2022 15:03:02 GMT"
+            "dateModified": "Tue, 31 May 2022 15:28:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,56 @@
                             "type": "calendarDay",
                             "name": "31",
                             "subs": [
+                                {
+                                    "text": "@rbergin @markos to lock in the votes in favor of the ruling.",
+                                    "rawText": "@rbergin @markos to lock in the votes in favor of the ruling.",
+                                    "type": "tweet",
+                                    "created": "Tue, 31 May 2022 15:23:35 GMT",
+                                    "tweetId": "1531657649284075521",
+                                    "urltweet": "https://twitter.com/davewiner/status/1531657649284075521",
+                                    "inReplyToId": "1531657026929152004",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@markos I've been saying the same thing. Why doesn't anyone else see this.",
+                                    "rawText": "@markos I've been saying the same thing. Why doesn't anyone else see this.",
+                                    "type": "tweet",
+                                    "created": "Tue, 31 May 2022 15:23:03 GMT",
+                                    "tweetId": "1531657516236652545",
+                                    "urltweet": "https://twitter.com/davewiner/status/1531657516236652545",
+                                    "inReplyToId": "1531656804999933954",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "The best book on Microsoft was written by David Bank, and unfortunately almost no one read it because it came out the week of 9/11. But if you want to know what really happened it's authoritative imho. <a href=\"https://t.co/82pmpIes0s\">[link]</a>",
+                                    "rawText": "The best book on Microsoft was written by David Bank, and unfortunately almost no one read it because it came out the week of 9/11. But if you want to know what really happened it's authoritative imho. https://t.co/82pmpIes0s",
+                                    "type": "tweet",
+                                    "created": "Tue, 31 May 2022 15:21:04 GMT",
+                                    "tweetId": "1531657016472653826",
+                                    "urltweet": "https://twitter.com/davewiner/status/1531657016472653826",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I had inside sources myself and wrote about it in my blog in the 90s. Bank covered Microsoft for the WSJ, so his sources were probably better. But we both saw the same thing, a huge disconnect between the top guy and reality.",
+                                            "rawText": "I had inside sources myself and wrote about it in my blog in the 90s. Bank covered Microsoft for the WSJ, so his sources were probably better. But we both saw the same thing, a huge disconnect between the top guy and reality.",
+                                            "type": "tweet",
+                                            "created": "Tue, 31 May 2022 15:24:46 GMT",
+                                            "tweetId": "1531657947553701891",
+                                            "urltweet": "https://twitter.com/davewiner/status/1531657947553701891",
+                                            "inReplyToId": "1531657016472653826",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "One of the things Facebook does better than Twitter is the way they write browser-based JS modules as their API instead of server-based APIs. \n\nThat way:\n\n1. The API is *much* simpler.\n2. I don't have to run a server as an intermediary.\n3. The uptake of new APIs would be faster.",
+                                    "rawText": "One of the things Facebook does better than Twitter is the way they write browser-based JS modules as their API instead of server-based APIs. \n\nThat way:\n\n1. The API is *much* simpler.\n2. I don't have to run a server as an intermediary.\n3. The uptake of new APIs would be faster.",
+                                    "type": "tweet",
+                                    "created": "Tue, 31 May 2022 15:16:48 GMT",
+                                    "tweetId": "1531655944584712194",
+                                    "urltweet": "https://twitter.com/davewiner/status/1531655944584712194",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Andreessen Horowitz explains the crypto hype cycle. <a href=\"https://t.co/MvoQy0LUVm\">[link]</a>",
                                     "rawText": "Andreessen Horowitz explains the crypto hype cycle. https://t.co/MvoQy0LUVm",
