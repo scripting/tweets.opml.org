@@ -1,0 +1,59 @@
+{
+    "opml": {
+        "head": {
+            "title": "davewiner tweets",
+            "dateCreated": "Sat, 18 Dec 2021 15:51:38 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 12:19:25 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Coffee associated with lower mortality risk. <a href=\"https://t.co/kI86r6VYjv\">[link]</a>",
+                                    "rawText": "Coffee associated with lower mortality risk. https://t.co/kI86r6VYjv",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 12:14:55 GMT",
+                                    "tweetId": "1531972559708868608",
+                                    "urltweet": "https://twitter.com/davewiner/status/1531972559708868608",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@AdamSinger @huskedthings It should be because we all need to work together and it’s still our only hope.",
+                                    "rawText": "@AdamSinger @huskedthings It should be because we all need to work together and it’s still our only hope.",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 12:13:12 GMT",
+                                    "tweetId": "1531972127267729410",
+                                    "urltweet": "https://twitter.com/davewiner/status/1531972127267729410",
+                                    "inReplyToId": "1531970915071934464",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@AdamSinger Amen.",
+                                    "rawText": "@AdamSinger Amen.",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 12:10:57 GMT",
+                                    "tweetId": "1531971561233780745",
+                                    "urltweet": "https://twitter.com/davewiner/status/1531971561233780745",
+                                    "inReplyToId": "1531968993996718080",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
