@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "redjade_hu tweets",
+            "dateCreated": "Mon, 24 Jan 2022 16:21:42 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 10:19:17 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@NBCNews Donald Trump is to blame for this.",
+                                    "rawText": "@NBCNews Donald Trump is to blame for this.",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 10:18:01 GMT",
+                                    "tweetId": "1531943141888204800",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1531943141888204800",
+                                    "inReplyToId": "1531750135604162560",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
