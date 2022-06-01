@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "GerardoHD01 tweets",
+            "dateCreated": "Tue, 04 Jan 2022 17:16:22 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 12:50:27 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@CrisAntuan No mames, estás bien papi 🤤",
+                                    "rawText": "@CrisAntuan No mames, estás bien papi 🤤",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 12:42:17 GMT",
+                                    "tweetId": "1531979448420954112",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1531979448420954112",
+                                    "inReplyToId": "1531847288905252865",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
