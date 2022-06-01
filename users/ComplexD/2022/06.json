@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "ComplexD tweets",
+            "dateCreated": "Sun, 26 Dec 2021 22:31:21 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/ComplexD/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 11:59:08 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "The Price of Privacy - Read the complete article at <a href=\"https://t.co/qE4m7uWCL8\">[link]</a>. #Privacy #eDiscovery @TheAtlantic https://t.co/an92E18XSv",
+                                    "rawText": "The Price of Privacy - Read the complete article at https://t.co/qE4m7uWCL8. #Privacy #eDiscovery @TheAtlantic https://t.co/an92E18XSv",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 11:48:57 GMT",
+                                    "tweetId": "1531966025188663297",
+                                    "urltweet": "https://twitter.com/ComplexD/status/1531966025188663297",
+                                    "tweetUserName": "ComplexD"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
