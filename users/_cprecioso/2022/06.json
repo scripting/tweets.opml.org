@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "_cprecioso tweets",
+            "dateCreated": "Wed, 23 Mar 2022 16:08:24 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 07:08:34 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@AitorHalliwell Suena a excusa",
+                                    "rawText": "@AitorHalliwell Suena a excusa",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 07:05:12 GMT",
+                                    "tweetId": "1531894618375213063",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1531894618375213063",
+                                    "inReplyToId": "1531892183564951556",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
