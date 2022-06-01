@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "Latz tweets",
+            "dateCreated": "Thu, 05 May 2022 12:41:11 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 08:10:54 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Dieses Lied hat mich vor 37 Jahren angefixt, als es nachts gegen 23 Uhr im NDR bei \"Dr. Mambo\" lief.\n\nR.E.M. - Driver 8 <a href=\"https://t.co/whItpYBthC\">[link]</a>",
+                                    "rawText": "Dieses Lied hat mich vor 37 Jahren angefixt, als es nachts gegen 23 Uhr im NDR bei \"Dr. Mambo\" lief.\n\nR.E.M. - Driver 8 https://t.co/whItpYBthC",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 08:02:36 GMT",
+                                    "tweetId": "1531909063017123841",
+                                    "urltweet": "https://twitter.com/Latz/status/1531909063017123841",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
