@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "frankmeeuwsen tweets",
+            "dateCreated": "Sat, 18 Dec 2021 16:25:34 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 06:10:46 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Wakker worden met de knaller van de dag. Luisteren jullie mee @freek_janssen @Scheer @JeroenMirck  @skoopnl \n\n<a href=\"https://t.co/WHoJ5juYlA\">[link]</a>",
+                                    "rawText": "Wakker worden met de knaller van de dag. Luisteren jullie mee @freek_janssen @Scheer @JeroenMirck  @skoopnl \n\nhttps://t.co/WHoJ5juYlA",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 06:06:15 GMT",
+                                    "tweetId": "1531879779657519105",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1531879779657519105",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
