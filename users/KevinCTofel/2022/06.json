@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "KevinCTofel tweets",
+            "dateCreated": "Fri, 11 Feb 2022 00:54:26 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 13:59:01 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "A new prototype feature adds multiple tabs in PWAs on a Chromebook. This could elevate Progressive Web Apps with new user experiences. <a href=\"https://t.co/5d999gc7pp\">[link]</a>",
+                                    "rawText": "A new prototype feature adds multiple tabs in PWAs on a Chromebook. This could elevate Progressive Web Apps with new user experiences. https://t.co/5d999gc7pp",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 13:49:33 GMT",
+                                    "tweetId": "1531996372836261890",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1531996372836261890",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
