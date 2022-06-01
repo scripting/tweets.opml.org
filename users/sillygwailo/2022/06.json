@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "sillygwailo tweets",
+            "dateCreated": "Sun, 23 Jan 2022 23:52:54 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 14:45:34 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Tomorrow: @RevueCinema screens Double Happiness, starring future Order of Canada recipient Sandra Oh. <a href=\"https://t.co/N6dV6HGDbt\">[link]</a>",
+                                    "rawText": "Tomorrow: @RevueCinema screens Double Happiness, starring future Order of Canada recipient Sandra Oh. https://t.co/N6dV6HGDbt",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 14:34:34 GMT",
+                                    "tweetId": "1532007702385377283",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1532007702385377283",
+                                    "inReplyToId": "1112515700369825794",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
