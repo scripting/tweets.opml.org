@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 16:36:11 GMT"
+            "dateModified": "Wed, 01 Jun 2022 16:48:57 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "01",
                             "subs": [
                                 {
+                                    "text": "@merchandise @ernohannink @bloknood Is deze beter, voor de Fullstack (whut?) WordPress developer die wij zoeken? <a href=\"https://t.co/1nY13jYdla\">[link]</a>",
+                                    "rawText": "@merchandise @ernohannink @bloknood Is deze beter, voor de Fullstack (whut?) WordPress developer die wij zoeken? https://t.co/1nY13jYdla",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 16:48:54 GMT",
+                                    "tweetId": "1532041507812921346",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1532041507812921346",
+                                    "inReplyToId": "1532017832942247937",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
+                                {
                                     "text": "De kunst van AI zie ik al op het moment dat ik de cover wil fotograferen en de camera tekst ziet. En met welke app kan ik die aardige man op de voorgrond wegpoetsen @campodipace ? Gefeliciteerd met de boeklancering! \n(iOS’ Autoconnect hielp me met deze tekstje) <a href=\"https://t.co/IPsve93vqd\">[link]</a>",
                                     "rawText": "De kunst van AI zie ik al op het moment dat ik de cover wil fotograferen en de camera tekst ziet. En met welke app kan ik die aardige man op de voorgrond wegpoetsen @campodipace ? Gefeliciteerd met de boeklancering! \n(iOS’ Autoconnect hielp me met deze tekstje) https://t.co/IPsve93vqd",
                                     "type": "tweet",
                                     "created": "Wed, 01 Jun 2022 16:33:56 GMT",
                                     "tweetId": "1532037744758771713",
                                     "urltweet": "https://twitter.com/frankmeeuwsen/status/1532037744758771713",
-                                    "tweetUserName": "frankmeeuwsen"
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "OK. <a href=\"https://t.co/oVzDgveMzW\">[link]</a> is best boeiend.  Goeie tip uit het boek Art of AI van @campodipace https://t.co/FdlyDZXKBQ",
+                                            "rawText": "OK. https://t.co/oVzDgveMzW is best boeiend.  Goeie tip uit het boek Art of AI van @campodipace https://t.co/FdlyDZXKBQ",
+                                            "type": "tweet",
+                                            "created": "Wed, 01 Jun 2022 16:42:32 GMT",
+                                            "tweetId": "1532039908113756165",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1532039908113756165",
+                                            "inReplyToId": "1532037744758771713",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@patrickloonstra @chordify @NotionHQ Er is niet 1 oplossing voor alle vraagstukken ;-) elk productiviteit systeem wat in Notion wordt aangeboden heeft altijd wat van je eigen touch en flair nodig. Het werkt nooit out of the Gumroad-box.",
