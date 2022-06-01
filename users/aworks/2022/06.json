@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "aworks tweets",
+            "dateCreated": "Sun, 19 Dec 2021 16:49:19 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 13:52:01 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/BBHoaZagAd\">[link]</a> Stories via @olagjeilo @nmcrecordings @kennethwoods",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/BBHoaZagAd Stories via @olagjeilo @nmcrecordings @kennethwoods",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 13:47:49 GMT",
+                                    "tweetId": "1531995937161334786",
+                                    "urltweet": "https://twitter.com/aworks/status/1531995937161334786",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
