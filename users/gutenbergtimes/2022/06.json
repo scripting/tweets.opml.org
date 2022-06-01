@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "gutenbergtimes tweets",
+            "dateCreated": "Fri, 11 Feb 2022 10:58:20 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 19:06:21 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "The Museum of Block Art is now offering an official way to submit your art. Explore the power of the editor, create something wonderful, and give back to the community all at once. <a href=\"https://t.co/UGP3rvhkNm\">[link]</a>",
+                                    "rawText": "The Museum of Block Art is now offering an official way to submit your art. Explore the power of the editor, create something wonderful, and give back to the community all at once. https://t.co/UGP3rvhkNm",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 19:05:14 GMT",
+                                    "tweetId": "1532075817978707969",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1532075817978707969",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
