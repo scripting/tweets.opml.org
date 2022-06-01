@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 08:26:40 GMT"
+            "dateModified": "Wed, 01 Jun 2022 08:39:26 GMT"
         },
         "body": {
             "subs": [
@@ -467,7 +467,19 @@
                                                                             "tweetId": "1531711495855390720",
                                                                             "urltweet": "https://twitter.com/chiguire/status/1531711495855390720",
                                                                             "inReplyToId": "1531232388189134848",
-                                                                            "tweetUserName": "chiguire"
+                                                                            "tweetUserName": "chiguire",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "#Earworm <a href=\"https://t.co/v8LyebrOB8\">[link]</a>",
+                                                                                    "rawText": "#Earworm https://t.co/v8LyebrOB8",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Wed, 01 Jun 2022 08:28:39 GMT",
+                                                                                    "tweetId": "1531915617833349120",
+                                                                                    "urltweet": "https://twitter.com/chiguire/status/1531915617833349120",
+                                                                                    "inReplyToId": "1531711495855390720",
+                                                                                    "tweetUserName": "chiguire"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     ]
                                                                 }
