@@ -1,0 +1,50 @@
+{
+    "opml": {
+        "head": {
+            "title": "RonKJeffries tweets",
+            "dateCreated": "Fri, 11 Feb 2022 13:43:39 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 01 Jun 2022 10:23:17 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@elerianm <a href=\"https://t.co/HRwybhPMuS\">[link]</a>",
+                                    "rawText": "@elerianm https://t.co/HRwybhPMuS",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 10:20:09 GMT",
+                                    "tweetId": "1531943677567766528",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1531943677567766528",
+                                    "inReplyToId": "1531942597085773834",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@Lauruhhpalooza Divorce is a valid option.",
+                                    "rawText": "@Lauruhhpalooza Divorce is a valid option.",
+                                    "type": "tweet",
+                                    "created": "Wed, 01 Jun 2022 10:16:08 GMT",
+                                    "tweetId": "1531942665272451072",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1531942665272451072",
+                                    "inReplyToId": "1531941826361425920",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
