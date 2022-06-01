@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 22:37:50 GMT"
+            "dateModified": "Wed, 01 Jun 2022 22:50:36 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,31 @@
                                             "tweetId": "1532125943891910656",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1532125943891910656",
                                             "inReplyToId": "1532122424254386176",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Just a great feeling. And it lasts for over 20 minutes.",
+                                                    "rawText": "Just a great feeling. And it lasts for over 20 minutes.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 01 Jun 2022 22:38:40 GMT",
+                                                    "tweetId": "1532129532760756226",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1532129532760756226",
+                                                    "inReplyToId": "1532125943891910656",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "I can’t believe I live in Toronto. <a href=\"https://t.co/wJr4PCRVFH\">[link]</a>",
+                                                            "rawText": "I can’t believe I live in Toronto. https://t.co/wJr4PCRVFH",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 01 Jun 2022 22:43:02 GMT",
+                                                            "tweetId": "1532130629453860864",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1532130629453860864",
+                                                            "inReplyToId": "1532129532760756226",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
