@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 14:13:36 GMT"
+            "dateModified": "Thu, 02 Jun 2022 18:03:21 GMT"
         },
         "body": {
             "subs": [
@@ -56,7 +56,19 @@
                                             "tweetId": "1532361700334358530",
                                             "urltweet": "https://twitter.com/chiguire/status/1532361700334358530",
                                             "inReplyToId": "1532284044452450304",
-                                            "tweetUserName": "chiguire"
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "🎏 I struggled a bit with setting up the tent, but it sort of came out alright <a href=\"https://t.co/iK27fJFZ5c\">[link]</a>",
+                                                    "rawText": "🎏 I struggled a bit with setting up the tent, but it sort of came out alright https://t.co/iK27fJFZ5c",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 02 Jun 2022 17:58:28 GMT",
+                                                    "tweetId": "1532421406532804608",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1532421406532804608",
+                                                    "inReplyToId": "1532361700334358530",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
