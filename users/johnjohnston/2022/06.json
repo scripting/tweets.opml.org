@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 17:52:31 GMT"
+            "dateModified": "Thu, 02 Jun 2022 20:15:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "How can the Royal Family push their #QueensGreenCanopy project whilst the Duchies of Cornwall and Lancaster refuse to discuss rewilding their land with @wildcardrewild #PlatinumJubilee #RewildTheRoyals",
+                                    "rawText": "How can the Royal Family push their #QueensGreenCanopy project whilst the Duchies of Cornwall and Lancaster refuse to discuss rewilding their land with @wildcardrewild #PlatinumJubilee #RewildTheRoyals",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 20:13:56 GMT",
+                                    "tweetId": "1532455495293976577",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1532455495293976577",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
