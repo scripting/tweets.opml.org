@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 01:23:46 GMT"
+            "dateModified": "Thu, 02 Jun 2022 01:49:18 GMT"
         },
         "body": {
             "subs": [
@@ -97,7 +97,19 @@
                                                                                     "tweetId": "1532171048254316544",
                                                                                     "urltweet": "https://twitter.com/sillygwailo/status/1532171048254316544",
                                                                                     "inReplyToId": "1532164119985528832",
-                                                                                    "tweetUserName": "sillygwailo"
+                                                                                    "tweetUserName": "sillygwailo",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "My view from the cheap seats. <a href=\"https://t.co/kjqdudqjTq\">[link]</a>",
+                                                                                            "rawText": "My view from the cheap seats. https://t.co/kjqdudqjTq",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Thu, 02 Jun 2022 01:46:48 GMT",
+                                                                                            "tweetId": "1532176874490691584",
+                                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1532176874490691584",
+                                                                                            "inReplyToId": "1532171048254316544",
+                                                                                            "tweetUserName": "sillygwailo"
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
