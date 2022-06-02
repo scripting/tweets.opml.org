@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 22:20:04 GMT"
+            "dateModified": "Thu, 02 Jun 2022 10:40:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "“Human civilization is based on the assumption of a stable climate.” <a href=\"https://t.co/j05ddiuwmp\">[link]</a>",
+                                    "rawText": "“Human civilization is based on the assumption of a stable climate.” https://t.co/j05ddiuwmp",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 10:31:48 GMT",
+                                    "tweetId": "1532308996337586178",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1532308996337586178",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
