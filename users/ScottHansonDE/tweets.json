@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 18:43:20 GMT"
+            "dateModified": "Thu, 02 Jun 2022 06:38:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Actually it’s noon or 6 pm on any day <a href=\"https://t.co/7TAHVHuOd6\">[link]</a>",
+                                    "rawText": "Actually it’s noon or 6 pm on any day https://t.co/7TAHVHuOd6",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 06:37:36 GMT",
+                                    "tweetId": "1532250057675882496",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1532250057675882496",
+                                    "tweetUserName": "ScottHansonDE"
+                                },
+                                {
+                                    "text": "@jrsofty Marketing is well aware of that. 😃 At our worldwide meeting we tried some spicy nuggets from Asia. 🔥🔥🔥",
+                                    "rawText": "@jrsofty Marketing is well aware of that. 😃 At our worldwide meeting we tried some spicy nuggets from Asia. 🔥🔥🔥",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 06:34:55 GMT",
+                                    "tweetId": "1532249384435449857",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1532249384435449857",
+                                    "inReplyToId": "1531935988699869184",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
