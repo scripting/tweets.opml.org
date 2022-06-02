@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 15:50:23 GMT"
+            "dateModified": "Thu, 02 Jun 2022 18:51:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Heute mal wieder ein lokales Bier:\nDunkles von Rehbocks Braumanufaktur in Wolfhagen (<a href=\"https://t.co/9oD3gDnMgM\">[link]</a>). https://t.co/pe2kZYThFE",
+                                    "rawText": "Heute mal wieder ein lokales Bier:\nDunkles von Rehbocks Braumanufaktur in Wolfhagen (https://t.co/9oD3gDnMgM). https://t.co/pe2kZYThFE",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 18:42:31 GMT",
+                                    "tweetId": "1532432490526298112",
+                                    "urltweet": "https://twitter.com/Latz/status/1532432490526298112",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
