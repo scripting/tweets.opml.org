@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 14:22:22 GMT"
+            "dateModified": "Thu, 02 Jun 2022 14:35:08 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                             "tweetId": "1532364977633378306",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1532364977633378306",
                                             "inReplyToId": "1532364385682857985",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I posted over 11,000 articles to Reading: <a href=\"https://t.co/dYpGkFeURG\">[link]</a>",
+                                                    "rawText": "I posted over 11,000 articles to Reading: https://t.co/dYpGkFeURG",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 02 Jun 2022 14:22:46 GMT",
+                                                    "tweetId": "1532367122600497153",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1532367122600497153",
+                                                    "inReplyToId": "1532364977633378306",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
