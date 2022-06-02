@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 03:31:24 GMT"
+            "dateModified": "Thu, 02 Jun 2022 04:09:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "I mainly went to the ballgame tonight to get a bobblehead of my current favourite Blue Jay, Teoscar Hernández. Mission accomplished! <a href=\"https://t.co/h33XYziOae\">[link]</a>",
+                                    "rawText": "I mainly went to the ballgame tonight to get a bobblehead of my current favourite Blue Jay, Teoscar Hernández. Mission accomplished! https://t.co/h33XYziOae",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 04:00:48 GMT",
+                                    "tweetId": "1532210597160488963",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1532210597160488963",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
