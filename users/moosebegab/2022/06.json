@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "moosebegab tweets",
+            "dateCreated": "Sun, 19 Dec 2021 16:38:45 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Thu, 02 Jun 2022 14:31:52 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Improving my Sudoku game slowly but surely. Bored with social media (after years!) so finding other outlets.",
+                                    "rawText": "Improving my Sudoku game slowly but surely. Bored with social media (after years!) so finding other outlets.",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 14:25:11 GMT",
+                                    "tweetId": "1532367729155522562",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1532367729155522562",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
