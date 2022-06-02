@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 18:41:38 GMT"
+            "dateModified": "Thu, 02 Jun 2022 19:45:27 GMT"
         },
         "body": {
             "subs": [
@@ -96,7 +96,19 @@
                                                             "tweetId": "1532429125452976128",
                                                             "urltweet": "https://twitter.com/chiguire/status/1532429125452976128",
                                                             "inReplyToId": "1532421406532804608",
-                                                            "tweetUserName": "chiguire"
+                                                            "tweetUserName": "chiguire",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "<a href=\"https://t.co/PAQnJch5oW\">[link]</a>",
+                                                                    "rawText": "https://t.co/PAQnJch5oW",
+                                                                    "type": "tweet",
+                                                                    "created": "Thu, 02 Jun 2022 19:39:14 GMT",
+                                                                    "tweetId": "1532446763961004032",
+                                                                    "urltweet": "https://twitter.com/chiguire/status/1532446763961004032",
+                                                                    "inReplyToId": "1532429125452976128",
+                                                                    "tweetUserName": "chiguire"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
