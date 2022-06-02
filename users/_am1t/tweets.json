@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 00:52:59 GMT"
+            "dateModified": "Thu, 02 Jun 2022 17:54:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "The only [linux] cheat sheet you need - Unified access to the best community-driven documentation repositories of the world\n\nSource: <a href=\"https://t.co/1YSRdAyko3\">[link]</a>. Brilliant - look at the demo available in the repo. https://t.co/skNQZmOEAj",
+                                    "rawText": "The only [linux] cheat sheet you need - Unified access to the best community-driven documentation repositories of the world\n\nSource: https://t.co/1YSRdAyko3. Brilliant - look at the demo available in the repo. https://t.co/skNQZmOEAj",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 17:47:43 GMT",
+                                    "tweetId": "1532418698375483392",
+                                    "urltweet": "https://twitter.com/_am1t/status/1532418698375483392",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
