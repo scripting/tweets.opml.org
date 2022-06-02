@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 02:09:04 GMT"
+            "dateModified": "Thu, 02 Jun 2022 08:19:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "How Omicron Infection Turbo-Charges Vaccinated People’s Immunity. <a href=\"https://t.co/UPTZv40JeV\">[link]</a>",
+                                    "rawText": "How Omicron Infection Turbo-Charges Vaccinated People’s Immunity. https://t.co/UPTZv40JeV",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 08:18:37 GMT",
+                                    "tweetId": "1532275478647779328",
+                                    "urltweet": "https://twitter.com/davewiner/status/1532275478647779328",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
