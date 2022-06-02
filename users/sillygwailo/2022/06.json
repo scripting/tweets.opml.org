@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 02:27:35 GMT"
+            "dateModified": "Thu, 02 Jun 2022 02:40:21 GMT"
         },
         "body": {
             "subs": [
@@ -117,7 +117,19 @@
                                                                                                     "tweetId": "1532185172497600512",
                                                                                                     "urltweet": "https://twitter.com/sillygwailo/status/1532185172497600512",
                                                                                                     "inReplyToId": "1532176874490691584",
-                                                                                                    "tweetUserName": "sillygwailo"
+                                                                                                    "tweetUserName": "sillygwailo",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "Blue Jays win! <a href=\"https://t.co/Pd9sIfEPlY\">[link]</a>",
+                                                                                                            "rawText": "Blue Jays win! https://t.co/Pd9sIfEPlY",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Thu, 02 Jun 2022 02:28:15 GMT",
+                                                                                                            "tweetId": "1532187308698509312",
+                                                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1532187308698509312",
+                                                                                                            "inReplyToId": "1532185172497600512",
+                                                                                                            "tweetUserName": "sillygwailo"
+                                                                                                        }
+                                                                                                    ]
                                                                                                 }
                                                                                             ]
                                                                                         }
