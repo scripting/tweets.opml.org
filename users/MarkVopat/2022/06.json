@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "MarkVopat tweets",
+            "dateCreated": "Tue, 21 Dec 2021 06:14:01 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Thu, 02 Jun 2022 02:00:48 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Wordle 347 3/6\n\n⬛🟨⬛🟨🟨\n🟩🟩🟩🟩⬛\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 347 3/6\n\n⬛🟨⬛🟨🟨\n🟩🟩🟩🟩⬛\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Thu, 02 Jun 2022 01:50:02 GMT",
+                                    "tweetId": "1532177691318833152",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1532177691318833152",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
