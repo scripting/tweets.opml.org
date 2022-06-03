@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 15:09:57 GMT"
+            "dateModified": "Fri, 03 Jun 2022 16:01:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "VMWare question.\n\nRunning on Mac, inside Ubuntu 20.04.3, the mouse is off by a few pixels. When I point at something, if I click on it, nothing registers. Move the mouse a couple of pixels to the left and click, and it works.\n\nI've tried rebooting VMWare and Ubuntu, no help.",
+                                    "rawText": "VMWare question.\n\nRunning on Mac, inside Ubuntu 20.04.3, the mouse is off by a few pixels. When I point at something, if I click on it, nothing registers. Move the mouse a couple of pixels to the left and click, and it works.\n\nI've tried rebooting VMWare and Ubuntu, no help.",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 15:53:46 GMT",
+                                    "tweetId": "1532752410896121856",
+                                    "urltweet": "https://twitter.com/davewiner/status/1532752410896121856",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@KenSmith yeah pretty much. \n\ni made a decision a while back that i wasn't going to work too hard on these. ;-)\n\ni like crosswords better...",
                                     "rawText": "@KenSmith yeah pretty much. \n\ni made a decision a while back that i wasn't going to work too hard on these. ;-)\n\ni like crosswords better...",
