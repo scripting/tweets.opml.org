@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 01:48:06 GMT"
+            "dateModified": "Fri, 03 Jun 2022 04:46:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@DandiaAsad It works be like invading the Capitol with a Confederate flag….",
+                                    "rawText": "@DandiaAsad It works be like invading the Capitol with a Confederate flag….",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 04:42:36 GMT",
+                                    "tweetId": "1532583506731274242",
+                                    "urltweet": "https://twitter.com/yudel/status/1532583506731274242",
+                                    "inReplyToId": "1532583305656287233",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 2",
                             "type": "calendarDay",
