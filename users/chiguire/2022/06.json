@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 06:23:38 GMT"
+            "dateModified": "Fri, 03 Jun 2022 07:27:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "@p0welly @emfcamp Sehr gut!",
+                                    "rawText": "@p0welly @emfcamp Sehr gut!",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 07:23:29 GMT",
+                                    "tweetId": "1532623994117029891",
+                                    "urltweet": "https://twitter.com/chiguire/status/1532623994117029891",
+                                    "inReplyToId": "1532623018366799874",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@nojose Volver a aprenderse las partes del cuerpo y los cortes de res 😔 #TheStruggleIsReal",
                                     "rawText": "@nojose Volver a aprenderse las partes del cuerpo y los cortes de res 😔 #TheStruggleIsReal",
@@ -143,7 +153,19 @@
                                                                             "tweetId": "1532455601518919692",
                                                                             "urltweet": "https://twitter.com/chiguire/status/1532455601518919692",
                                                                             "inReplyToId": "1532446763961004032",
-                                                                            "tweetUserName": "chiguire"
+                                                                            "tweetUserName": "chiguire",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "Uh… Three, I know I’m in a magical land but I’m still in the UK <a href=\"https://t.co/48GDQlZJZ9\">[link]</a>",
+                                                                                    "rawText": "Uh… Three, I know I’m in a magical land but I’m still in the UK https://t.co/48GDQlZJZ9",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Fri, 03 Jun 2022 07:17:29 GMT",
+                                                                                    "tweetId": "1532622485178433538",
+                                                                                    "urltweet": "https://twitter.com/chiguire/status/1532622485178433538",
+                                                                                    "inReplyToId": "1532455601518919692",
+                                                                                    "tweetUserName": "chiguire"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     ]
                                                                 }
