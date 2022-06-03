@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 04:46:47 GMT"
+            "dateModified": "Fri, 03 Jun 2022 05:25:05 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "@DavidRSelis Have you tried Shefa Gold’s “Torah Journeys”?",
+                                    "rawText": "@DavidRSelis Have you tried Shefa Gold’s “Torah Journeys”?",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 05:22:41 GMT",
+                                    "tweetId": "1532593593554280449",
+                                    "urltweet": "https://twitter.com/yudel/status/1532593593554280449",
+                                    "inReplyToId": "1532588382831902721",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@DavidRSelis <a href=\"https://t.co/GkG1fJzq2U\">[link]</a>",
+                                            "rawText": "@DavidRSelis https://t.co/GkG1fJzq2U",
+                                            "type": "tweet",
+                                            "created": "Fri, 03 Jun 2022 05:23:33 GMT",
+                                            "tweetId": "1532593813021249537",
+                                            "urltweet": "https://twitter.com/yudel/status/1532593813021249537",
+                                            "inReplyToId": "1532593593554280449",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@DandiaAsad It works be like invading the Capitol with a Confederate flag….",
                                     "rawText": "@DandiaAsad It works be like invading the Capitol with a Confederate flag….",
