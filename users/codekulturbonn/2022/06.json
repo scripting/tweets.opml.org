@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "codekulturbonn tweets",
+            "dateCreated": "Fri, 11 Feb 2022 07:47:51 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/codekulturbonn/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 03 Jun 2022 21:31:07 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Folia ist eine neue Umgebung zum Schreiben interaktiver Geschichten in Lua. Das Maskottchen ist ein Finkenfälkchen - <a href=\"https://t.co/8aopnqY1mX\">[link]</a>",
+                                    "rawText": "Folia ist eine neue Umgebung zum Schreiben interaktiver Geschichten in Lua. Das Maskottchen ist ein Finkenfälkchen - https://t.co/8aopnqY1mX",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 21:18:57 GMT",
+                                    "tweetId": "1532834246674587653",
+                                    "urltweet": "https://twitter.com/codekulturbonn/status/1532834246674587653",
+                                    "tweetUserName": "codekulturbonn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
