@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 23:47:58 GMT"
+            "dateModified": "Fri, 03 Jun 2022 06:23:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@nojose Volver a aprenderse las partes del cuerpo y los cortes de res 😔 #TheStruggleIsReal",
+                                    "rawText": "@nojose Volver a aprenderse las partes del cuerpo y los cortes de res 😔 #TheStruggleIsReal",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 06:20:00 GMT",
+                                    "tweetId": "1532608019313397760",
+                                    "urltweet": "https://twitter.com/chiguire/status/1532608019313397760",
+                                    "inReplyToId": "1532567996304134156",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 2",
                             "type": "calendarDay",
