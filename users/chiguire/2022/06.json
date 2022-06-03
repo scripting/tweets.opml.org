@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 17:40:07 GMT"
+            "dateModified": "Fri, 03 Jun 2022 21:55:24 GMT"
         },
         "body": {
             "subs": [
@@ -302,7 +302,19 @@
                                                                                                                     "tweetId": "1532776494610665478",
                                                                                                                     "urltweet": "https://twitter.com/chiguire/status/1532776494610665478",
                                                                                                                     "inReplyToId": "1532770686552383491",
-                                                                                                                    "tweetUserName": "chiguire"
+                                                                                                                    "tweetUserName": "chiguire",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "<a href=\"https://t.co/N6LQvLz6Ut\">[link]</a>",
+                                                                                                                            "rawText": "https://t.co/N6LQvLz6Ut",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Fri, 03 Jun 2022 21:47:17 GMT",
+                                                                                                                            "tweetId": "1532841377402441728",
+                                                                                                                            "urltweet": "https://twitter.com/chiguire/status/1532841377402441728",
+                                                                                                                            "inReplyToId": "1532776494610665478",
+                                                                                                                            "tweetUserName": "chiguire"
+                                                                                                                        }
+                                                                                                                    ]
                                                                                                                 }
                                                                                                             ]
                                                                                                         }
