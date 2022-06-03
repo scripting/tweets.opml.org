@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 01:33:50 GMT"
+            "dateModified": "Fri, 03 Jun 2022 05:36:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Inside the city limits here. <a href=\"https://t.co/fWYohlgruw\">[link]</a>",
+                                    "rawText": "Inside the city limits here. https://t.co/fWYohlgruw",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 05:25:28 GMT",
+                                    "tweetId": "1532594295726714880",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1532594295726714880",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 2",
                             "type": "calendarDay",
