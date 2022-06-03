@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 15:32:29 GMT"
+            "dateModified": "Fri, 03 Jun 2022 17:14:36 GMT"
         },
         "body": {
             "subs": [
@@ -272,7 +272,19 @@
                                                                                                     "tweetId": "1532720547389493249",
                                                                                                     "urltweet": "https://twitter.com/chiguire/status/1532720547389493249",
                                                                                                     "inReplyToId": "1532683618593689600",
-                                                                                                    "tweetUserName": "chiguire"
+                                                                                                    "tweetUserName": "chiguire",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "The baaaadge #emfcamp <a href=\"https://t.co/hjKpsllnCX\">[link]</a>",
+                                                                                                            "rawText": "The baaaadge #emfcamp https://t.co/hjKpsllnCX",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Fri, 03 Jun 2022 17:06:23 GMT",
+                                                                                                            "tweetId": "1532770686552383491",
+                                                                                                            "urltweet": "https://twitter.com/chiguire/status/1532770686552383491",
+                                                                                                            "inReplyToId": "1532720547389493249",
+                                                                                                            "tweetUserName": "chiguire"
+                                                                                                        }
+                                                                                                    ]
                                                                                                 }
                                                                                             ]
                                                                                         }
