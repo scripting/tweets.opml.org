@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "thedimpause tweets",
+            "dateCreated": "Mon, 24 Jan 2022 07:53:23 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 03 Jun 2022 06:07:22 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Bank holidays. Yesterday was small barbecue day, today is pizza day. <a href=\"https://t.co/eGIeFH7vMy\">[link]</a>",
+                                    "rawText": "Bank holidays. Yesterday was small barbecue day, today is pizza day. https://t.co/eGIeFH7vMy",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 06:07:03 GMT",
+                                    "tweetId": "1532604760523689985",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1532604760523689985",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
