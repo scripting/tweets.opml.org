@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 06:03:22 GMT"
+            "dateModified": "Fri, 03 Jun 2022 06:28:54 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "Wow. <a href=\"https://t.co/YTRqUEA9j7\">[link]</a>",
+                                    "rawText": "Wow. https://t.co/YTRqUEA9j7",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 06:17:44 GMT",
+                                    "tweetId": "1532607446048546818",
+                                    "urltweet": "https://twitter.com/yudel/status/1532607446048546818",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@trekonomics Can’t believe we’ve had fifty years of evolutionary psychology and still haven’t cured that shit.",
                                     "rawText": "@trekonomics Can’t believe we’ve had fifty years of evolutionary psychology and still haven’t cured that shit.",
