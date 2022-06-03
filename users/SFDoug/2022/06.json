@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "SFDoug tweets",
+            "dateCreated": "Mon, 24 Jan 2022 05:09:08 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 03 Jun 2022 19:05:43 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Former NY police officer, apparently, caught with weapons and fake badge near Capitol.  <a href=\"https://t.co/dTNWkOtNCy\">[link]</a>",
+                                    "rawText": "Former NY police officer, apparently, caught with weapons and fake badge near Capitol.  https://t.co/dTNWkOtNCy",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 18:58:28 GMT",
+                                    "tweetId": "1532798892122599424",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1532798892122599424",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
