@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 04:07:45 GMT"
+            "dateModified": "Fri, 03 Jun 2022 07:31:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@riendebock Dank je. Ik maak echter geen gebruik van Facebook...",
+                                    "rawText": "@riendebock Dank je. Ik maak echter geen gebruik van Facebook...",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 07:30:08 GMT",
+                                    "tweetId": "1532625666558070785",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1532625666558070785",
+                                    "inReplyToId": "1532459350463332368",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
+                                {
+                                    "text": "@elisevdlinden @reneevh Dank je. Ik maak echter geen gebruik van Facebook...",
+                                    "rawText": "@elisevdlinden @reneevh Dank je. Ik maak echter geen gebruik van Facebook...",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 07:30:00 GMT",
+                                    "tweetId": "1532625631590199296",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1532625631590199296",
+                                    "inReplyToId": "1532477899592327193",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 2",
                             "type": "calendarDay",
