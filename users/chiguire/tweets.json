@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 10:13:23 GMT"
+            "dateModified": "Fri, 03 Jun 2022 11:29:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "@vvwvwvwvwvwvw <a href=\"https://t.co/Deml0rheQV\">[link]</a>",
+                                    "rawText": "@vvwvwvwvwvwvw https://t.co/Deml0rheQV",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 11:25:27 GMT",
+                                    "tweetId": "1532684888184348678",
+                                    "urltweet": "https://twitter.com/chiguire/status/1532684888184348678",
+                                    "inReplyToId": "1532632439927066624",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Now I find it hilarious that all my ads are in German <a href=\"https://t.co/LEQZLit0db\">[link]</a>",
                                     "rawText": "Now I find it hilarious that all my ads are in German https://t.co/LEQZLit0db",
@@ -210,7 +220,19 @@
                                                                                     "tweetId": "1532622485178433538",
                                                                                     "urltweet": "https://twitter.com/chiguire/status/1532622485178433538",
                                                                                     "inReplyToId": "1532455601518919692",
-                                                                                    "tweetUserName": "chiguire"
+                                                                                    "tweetUserName": "chiguire",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "Beautiful postcard designs from #emfcamp2022, I will send a few to strangers in <a href=\"https://t.co/roBBV86htv\">[link]</a> and maybe a couple of local ones. Look out for the red postboxes around the area https://t.co/DY3sBr0p6v",
+                                                                                            "rawText": "Beautiful postcard designs from #emfcamp2022, I will send a few to strangers in https://t.co/roBBV86htv and maybe a couple of local ones. Look out for the red postboxes around the area https://t.co/DY3sBr0p6v",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Fri, 03 Jun 2022 11:20:25 GMT",
+                                                                                            "tweetId": "1532683618593689600",
+                                                                                            "urltweet": "https://twitter.com/chiguire/status/1532683618593689600",
+                                                                                            "inReplyToId": "1532622485178433538",
+                                                                                            "tweetUserName": "chiguire"
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
