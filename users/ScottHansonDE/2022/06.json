@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 20:14:59 GMT"
+            "dateModified": "Fri, 03 Jun 2022 20:30:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Our neighbor cat is still rolling around on our patio at 10:20 pm <a href=\"https://t.co/UGvxqqoWvw\">[link]</a>",
+                                    "rawText": "Our neighbor cat is still rolling around on our patio at 10:20 pm https://t.co/UGvxqqoWvw",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 20:24:45 GMT",
+                                    "tweetId": "1532820605686501377",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1532820605686501377",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 2",
                             "type": "calendarDay",
