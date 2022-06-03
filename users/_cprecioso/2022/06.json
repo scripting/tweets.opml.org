@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 02 Jun 2022 21:13:18 GMT"
+            "dateModified": "Fri, 03 Jun 2022 06:22:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@Adrimartin Una de estas <a href=\"https://t.co/WEqbWreIee\">[link]</a>",
+                                    "rawText": "@Adrimartin Una de estas https://t.co/WEqbWreIee",
+                                    "type": "tweet",
+                                    "created": "Fri, 03 Jun 2022 06:15:19 GMT",
+                                    "tweetId": "1532606837517963264",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1532606837517963264",
+                                    "inReplyToId": "1532472077185343506",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 2",
                             "type": "calendarDay",
