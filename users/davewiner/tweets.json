@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 02:51:58 GMT"
+            "dateModified": "Sat, 04 Jun 2022 12:13:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Are there any @nytimes devs here? If so, there appears to be a bug in the gifting sys. My number never goes above 4. I’ve called support twice, no help. Thanks. 😀",
+                                    "rawText": "Are there any @nytimes devs here? If so, there appears to be a bug in the gifting sys. My number never goes above 4. I’ve called support twice, no help. Thanks. 😀",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 12:12:33 GMT",
+                                    "tweetId": "1533059128037453828",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533059128037453828",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "What if this is as good as it gets?",
+                                    "rawText": "What if this is as good as it gets?",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 12:06:19 GMT",
+                                    "tweetId": "1533057560093261825",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533057560093261825",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
