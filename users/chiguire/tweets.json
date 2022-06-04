@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 18:59:01 GMT"
+            "dateModified": "Sat, 04 Jun 2022 19:11:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "So I’ve made a weather report app just for #emfcamp location, in the badge, but I have problems testing in device, so if anyone wants to try it out head to <a href=\"https://t.co/pazz8h3Emo\">[link]</a> or “wetter” in the badge App Store",
+                                    "rawText": "So I’ve made a weather report app just for #emfcamp location, in the badge, but I have problems testing in device, so if anyone wants to try it out head to https://t.co/pazz8h3Emo or “wetter” in the badge App Store",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 19:04:01 GMT",
+                                    "tweetId": "1533162676104339456",
+                                    "urltweet": "https://twitter.com/chiguire/status/1533162676104339456",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Data provided by @metoffice API 🌧",
+                                            "rawText": "Data provided by @metoffice API 🌧",
+                                            "type": "tweet",
+                                            "created": "Sat, 04 Jun 2022 19:05:32 GMT",
+                                            "tweetId": "1533163056691302402",
+                                            "urltweet": "https://twitter.com/chiguire/status/1533163056691302402",
+                                            "inReplyToId": "1533162676104339456",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Aparentemente esto es legal <a href=\"https://t.co/HmxHS8nTJS\">[link]</a>",
                                     "rawText": "Aparentemente esto es legal https://t.co/HmxHS8nTJS",
