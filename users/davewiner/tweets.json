@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 16:28:51 GMT"
+            "dateModified": "Sat, 04 Jun 2022 17:19:55 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,54 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "I’m going to open source on of my Twitter projects to show the people at Twitter how they could simplify their api and vastly reduce the hassle and expense of writing an app. After that they’ll have to decide if they want all the new development it’ll make possible. 😀",
+                                    "rawText": "I’m going to open source on of my Twitter projects to show the people at Twitter how they could simplify their api and vastly reduce the hassle and expense of writing an app. After that they’ll have to decide if they want all the new development it’ll make possible. 😀",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 17:14:54 GMT",
+                                    "tweetId": "1533135215337644032",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533135215337644032",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Tesla is probably going to blow up like Osborne.",
+                                    "rawText": "Tesla is probably going to blow up like Osborne.",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 17:11:50 GMT",
+                                    "tweetId": "1533134443875127297",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533134443875127297",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/X7vBEb4BpT\">[link]</a>",
+                                            "rawText": "https://t.co/X7vBEb4BpT",
+                                            "type": "tweet",
+                                            "created": "Sat, 04 Jun 2022 17:18:30 GMT",
+                                            "tweetId": "1533136122225762314",
+                                            "urltweet": "https://twitter.com/davewiner/status/1533136122225762314",
+                                            "inReplyToId": "1533134443875127297",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Stop hyping it. <a href=\"https://t.co/eJ4tKQpnwa\">[link]</a>",
+                                    "rawText": "Stop hyping it. https://t.co/eJ4tKQpnwa",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 17:09:47 GMT",
+                                    "tweetId": "1533133929770786818",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533133929770786818",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Too much Johnny Depp. Been a long time since he made a movie I cared about. Actually walked out on one of his pirate movies. He’s a shithead otherwise. i resent whoever decided this is something they should waste my attention with.",
+                                    "rawText": "Too much Johnny Depp. Been a long time since he made a movie I cared about. Actually walked out on one of his pirate movies. He’s a shithead otherwise. i resent whoever decided this is something they should waste my attention with.",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 17:07:47 GMT",
+                                    "tweetId": "1533133427263918080",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533133427263918080",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Former Judge Gunned Down in Wisconsin by Man With Hit List Apparently Targeting Public Officials. <a href=\"https://t.co/rNzSfjAAhF\">[link]</a>",
                                     "rawText": "Former Judge Gunned Down in Wisconsin by Man With Hit List Apparently Targeting Public Officials. https://t.co/rNzSfjAAhF",
