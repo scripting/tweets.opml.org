@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 20:30:03 GMT"
+            "dateModified": "Sat, 04 Jun 2022 10:19:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@___jgl___ Machen wir im Drive <a href=\"https://t.co/1LBubMJBe9\">[link]</a>",
+                                    "rawText": "@___jgl___ Machen wir im Drive https://t.co/1LBubMJBe9",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 10:18:09 GMT",
+                                    "tweetId": "1533030336002772992",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1533030336002772992",
+                                    "inReplyToId": "1533020270373609472",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
