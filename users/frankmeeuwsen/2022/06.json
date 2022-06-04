@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 16:53:34 GMT"
+            "dateModified": "Sat, 04 Jun 2022 11:11:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@suzanneunck Open maps denk ik?",
+                                    "rawText": "@suzanneunck Open maps denk ik?",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 11:05:07 GMT",
+                                    "tweetId": "1533042156465684480",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1533042156465684480",
+                                    "inReplyToId": "1533030749108113411",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
