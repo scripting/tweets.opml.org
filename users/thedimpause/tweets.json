@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 08:40:32 GMT"
+            "dateModified": "Sat, 04 Jun 2022 09:21:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Marmite or Dynamite 🧨 <a href=\"https://t.co/jPGjCSgMdH\">[link]</a>",
+                                    "rawText": "Marmite or Dynamite 🧨 https://t.co/jPGjCSgMdH",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 09:20:11 GMT",
+                                    "tweetId": "1533015750348353536",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1533015750348353536",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
