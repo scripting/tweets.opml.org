@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 00:39:49 GMT"
+            "dateModified": "Sat, 04 Jun 2022 10:14:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Amo <a href=\"https://t.co/hXgVRUfwGm\">[link]</a> https://t.co/xCVp4oqmw8",
+                                    "rawText": "Amo https://t.co/hXgVRUfwGm https://t.co/xCVp4oqmw8",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 10:05:51 GMT",
+                                    "tweetId": "1533027241914945536",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1533027241914945536",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "Si soy <a href=\"https://t.co/GrfoyINz5i\">[link]</a>",
+                                    "rawText": "Si soy https://t.co/GrfoyINz5i",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 10:03:59 GMT",
+                                    "tweetId": "1533026773218254848",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1533026773218254848",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
