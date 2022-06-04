@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 12:13:35 GMT"
+            "dateModified": "Sat, 04 Jun 2022 13:04:38 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "Wordle 350 5/6\n\n⬜⬜⬜⬜⬜\n⬜🟨⬜🟩🟩\n⬜⬜🟨⬜⬜\n⬜🟩🟩🟩🟩\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 350 5/6\n\n⬜⬜⬜⬜⬜\n⬜🟨⬜🟩🟩\n⬜⬜🟨⬜⬜\n⬜🟩🟩🟩🟩\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 13:03:15 GMT",
+                                    "tweetId": "1533071887219277828",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533071887219277828",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Are there any @nytimes devs here? If so, there appears to be a bug in the gifting sys. My number never goes above 4. I’ve called support twice, no help. Thanks. 😀",
                                     "rawText": "Are there any @nytimes devs here? If so, there appears to be a bug in the gifting sys. My number never goes above 4. I’ve called support twice, no help. Thanks. 😀",
