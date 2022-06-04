@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 19:07:47 GMT"
+            "dateModified": "Sat, 04 Jun 2022 19:20:33 GMT"
         },
         "body": {
             "subs": [
@@ -164,7 +164,19 @@
                                                     "tweetId": "1533137563451637761",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1533137563451637761",
                                                     "inReplyToId": "1532818901763076099",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "I’m leaning towards requesting that the interviewer not ask the question.",
+                                                            "rawText": "I’m leaning towards requesting that the interviewer not ask the question.",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 04 Jun 2022 19:19:57 GMT",
+                                                            "tweetId": "1533166685431160832",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1533166685431160832",
+                                                            "inReplyToId": "1533137563451637761",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
