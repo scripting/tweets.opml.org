@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 03:45:17 GMT"
+            "dateModified": "Sat, 04 Jun 2022 20:46:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@cstross Can America Afford To Lose The Moonbat Race?",
+                                    "rawText": "@cstross Can America Afford To Lose The Moonbat Race?",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 20:36:04 GMT",
+                                    "tweetId": "1533185840490459138",
+                                    "urltweet": "https://twitter.com/yudel/status/1533185840490459138",
+                                    "inReplyToId": "1533184359351599105",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
