@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 22:56:58 GMT"
+            "dateModified": "Sat, 04 Jun 2022 16:23:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@TimothyDSnyder @threadreaderapp unroll",
+                                    "rawText": "@TimothyDSnyder @threadreaderapp unroll",
+                                    "type": "tweet",
+                                    "created": "Sat, 04 Jun 2022 16:15:29 GMT",
+                                    "tweetId": "1533120263000301570",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1533120263000301570",
+                                    "inReplyToId": "1533099435269447681",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
