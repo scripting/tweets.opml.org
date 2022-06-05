@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 05 Jun 2022 15:33:06 GMT"
+            "dateModified": "Sun, 05 Jun 2022 17:02:27 GMT"
         },
         "body": {
             "subs": [
@@ -143,7 +143,19 @@
                                             "tweetId": "1532872361824899074",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1532872361824899074",
                                             "inReplyToId": "1532871858516787208",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I stand corrected. <a href=\"https://t.co/bFbmwleWen\">[link]</a>",
+                                                    "rawText": "I stand corrected. https://t.co/bFbmwleWen",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 05 Jun 2022 16:49:44 GMT",
+                                                    "tweetId": "1533491268818505728",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1533491268818505728",
+                                                    "inReplyToId": "1532872361824899074",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
