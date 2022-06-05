@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 16:29:56 GMT"
+            "dateModified": "Sun, 05 Jun 2022 13:02:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@b05crypto @pgpsam @SturdyFinance This sheds a little more light on the NY fossil fuel crypto mining ban. I guess it pays to actually read the legislation... <a href=\"https://t.co/RgPk4krqeo\">[link]</a>",
+                                    "rawText": "@b05crypto @pgpsam @SturdyFinance This sheds a little more light on the NY fossil fuel crypto mining ban. I guess it pays to actually read the legislation... https://t.co/RgPk4krqeo",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 12:54:47 GMT",
+                                    "tweetId": "1533432144260907009",
+                                    "urltweet": "https://twitter.com/cshotton/status/1533432144260907009",
+                                    "inReplyToId": "1532820345501143040",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
