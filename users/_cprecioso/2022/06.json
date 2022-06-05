@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 23:12:48 GMT"
+            "dateModified": "Sun, 05 Jun 2022 08:34:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Aquí tiene su envío <a href=\"https://t.co/pqDinCwpbd\">[link]</a>",
+                                    "rawText": "Aquí tiene su envío https://t.co/pqDinCwpbd",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 08:33:50 GMT",
+                                    "tweetId": "1533366472667545600",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1533366472667545600",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 4",
                             "type": "calendarDay",
