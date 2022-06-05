@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 14:53:00 GMT"
+            "dateModified": "Sun, 05 Jun 2022 07:03:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "♫ My Top 2 #lastfm artists: Davis, Staatskapelle Dresden (7) &amp; Solti, Chamber Orchestra of Europe, Alicia de Larrocha (6) #lastfm via @tweeklyfm",
+                                    "rawText": "♫ My Top 2 #lastfm artists: Davis, Staatskapelle Dresden (7) &amp; Solti, Chamber Orchestra of Europe, Alicia de Larrocha (6) #lastfm via @tweeklyfm",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 07:00:24 GMT",
+                                    "tweetId": "1533342961454358528",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1533342961454358528",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 4",
                             "type": "calendarDay",
