@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 05 Jun 2022 17:02:27 GMT"
+            "dateModified": "Sun, 05 Jun 2022 17:53:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "“The tracks go off in this direction.” <a href=\"https://t.co/cYgDFk5Ny4\">[link]</a>",
+                                    "rawText": "“The tracks go off in this direction.” https://t.co/cYgDFk5Ny4",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 17:49:29 GMT",
+                                    "tweetId": "1533506305368932354",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1533506305368932354",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 4",
                             "type": "calendarDay",
