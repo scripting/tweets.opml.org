@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 20:46:23 GMT"
+            "dateModified": "Sun, 05 Jun 2022 20:35:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@RavenOnthill @jayrosen_nyu Hmmmm. This says it couldn’t find classical sources. Maybe it’s an American invention? <a href=\"https://t.co/QDjwFizKSr\">[link]</a>",
+                                    "rawText": "@RavenOnthill @jayrosen_nyu Hmmmm. This says it couldn’t find classical sources. Maybe it’s an American invention? https://t.co/QDjwFizKSr",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 20:31:37 GMT",
+                                    "tweetId": "1533547107851849729",
+                                    "urltweet": "https://twitter.com/yudel/status/1533547107851849729",
+                                    "inReplyToId": "1533540186818158597",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 4",
                             "type": "calendarDay",
