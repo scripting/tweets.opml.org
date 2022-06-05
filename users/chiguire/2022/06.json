@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 22:36:00 GMT"
+            "dateModified": "Sun, 05 Jun 2022 09:01:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@darokun Un khe",
+                                    "rawText": "@darokun Un khe",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 08:54:51 GMT",
+                                    "tweetId": "1533371763190546432",
+                                    "urltweet": "https://twitter.com/chiguire/status/1533371763190546432",
+                                    "inReplyToId": "1533308092024340480",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "So someone tagged the entirety of 400k subscribers to Epic’s GitHub and hilarity ensues all night long",
+                                    "rawText": "So someone tagged the entirety of 400k subscribers to Epic’s GitHub and hilarity ensues all night long",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 08:53:00 GMT",
+                                    "tweetId": "1533371297501167617",
+                                    "urltweet": "https://twitter.com/chiguire/status/1533371297501167617",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 4",
                             "type": "calendarDay",
