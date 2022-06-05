@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 03:39:01 GMT"
+            "dateModified": "Sun, 05 Jun 2022 22:37:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Sublime- Kidd nico <a href=\"https://t.co/yyWlpn0VTE\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Sublime- Kidd nico https://t.co/yyWlpn0VTE",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 22:28:16 GMT",
+                                    "tweetId": "1533576464712486912",
+                                    "urltweet": "https://twitter.com/oevl/status/1533576464712486912",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
