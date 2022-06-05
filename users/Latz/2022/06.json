@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 19:34:18 GMT"
+            "dateModified": "Sun, 05 Jun 2022 10:02:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Kohle wächst nicht nach. Klingt erstmal logisch, die Erklärung ist aber sehr interessant:\n\n<a href=\"https://t.co/crGF8tWieQ\">[link]</a>",
+                                    "rawText": "Kohle wächst nicht nach. Klingt erstmal logisch, die Erklärung ist aber sehr interessant:\n\nhttps://t.co/crGF8tWieQ",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 10:00:00 GMT",
+                                    "tweetId": "1533388158741659649",
+                                    "urltweet": "https://twitter.com/Latz/status/1533388158741659649",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 4",
                             "type": "calendarDay",
