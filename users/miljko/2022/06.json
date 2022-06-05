@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 19:34:30 GMT"
+            "dateModified": "Sun, 05 Jun 2022 17:18:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "📷 Reminds me of M.C. Escher’s Three Worlds (Tregaron Park, NW DC) <a href=\"https://t.co/gfeuzsXmiu\">[link]</a>",
+                                    "rawText": "📷 Reminds me of M.C. Escher’s Three Worlds (Tregaron Park, NW DC) https://t.co/gfeuzsXmiu",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 17:13:47 GMT",
+                                    "tweetId": "1533497322763702274",
+                                    "urltweet": "https://twitter.com/miljko/status/1533497322763702274",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
