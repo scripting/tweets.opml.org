@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 14:35:29 GMT"
+            "dateModified": "Sun, 05 Jun 2022 10:48:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@gipsbek Heb je reacties geblokt misschien? Als ik nu weer onder de post kijk (tophaar BTW!) zie ik alleen positieve reacties. Zou dat toch het Twitter algoritme zijn wat slimmer wordt?",
+                                    "rawText": "@gipsbek Heb je reacties geblokt misschien? Als ik nu weer onder de post kijk (tophaar BTW!) zie ik alleen positieve reacties. Zou dat toch het Twitter algoritme zijn wat slimmer wordt?",
+                                    "type": "tweet",
+                                    "created": "Sun, 05 Jun 2022 10:43:41 GMT",
+                                    "tweetId": "1533399149919490048",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1533399149919490048",
+                                    "inReplyToId": "1533382363404718080",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 4",
                             "type": "calendarDay",
