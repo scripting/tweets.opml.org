@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 05 Jun 2022 18:06:46 GMT"
+            "dateModified": "Mon, 06 Jun 2022 16:39:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Drinking an Amstel by @amstelbier_nl @ Ye Olde George — <a href=\"https://t.co/PkNIr0J4g7\">[link]</a>",
+                                    "rawText": "Drinking an Amstel by @amstelbier_nl @ Ye Olde George — https://t.co/PkNIr0J4g7",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 16:38:07 GMT",
+                                    "tweetId": "1533850734499966977",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1533850734499966977",
+                                    "tweetUserName": "thedimpause"
+                                },
+                                {
+                                    "text": "I just earned the 'Beer Connoisseur (Level 3)' badge on @untappd! <a href=\"https://t.co/AQkeYR4N56\">[link]</a>",
+                                    "rawText": "I just earned the 'Beer Connoisseur (Level 3)' badge on @untappd! https://t.co/AQkeYR4N56",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 16:38:03 GMT",
+                                    "tweetId": "1533850718540599298",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1533850718540599298",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
