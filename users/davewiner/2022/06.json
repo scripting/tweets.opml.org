@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 13:22:00 GMT"
+            "dateModified": "Mon, 06 Jun 2022 14:00:18 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "Yesterday I read the archives of my blog for August and September 2002. It's a pretty good archive of a project that started off as RSS 0.94 and led, a month later, to RSS 2.0. It's all about humans and interop, very little actual tech. :-)\n\n<a href=\"https://t.co/6ZS6SdjcvS\">[link]</a>",
+                                    "rawText": "Yesterday I read the archives of my blog for August and September 2002. It's a pretty good archive of a project that started off as RSS 0.94 and led, a month later, to RSS 2.0. It's all about humans and interop, very little actual tech. :-)\n\nhttps://t.co/6ZS6SdjcvS",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 13:56:02 GMT",
+                                    "tweetId": "1533809945551978497",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533809945551978497",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@judell, then a columnist at InfoWorld, said including namespaces in RSS 2.0 was an olive branch. All perspectives are valid, but imho it was not that -- it was a commitment made early in the process. When the format was frozen, it would be extensible.\n\n<a href=\"https://t.co/coGWNUfdcY\">[link]</a>",
+                                            "rawText": "@judell, then a columnist at InfoWorld, said including namespaces in RSS 2.0 was an olive branch. All perspectives are valid, but imho it was not that -- it was a commitment made early in the process. When the format was frozen, it would be extensible.\n\nhttps://t.co/coGWNUfdcY",
+                                            "type": "tweet",
+                                            "created": "Mon, 06 Jun 2022 13:58:06 GMT",
+                                            "tweetId": "1533810464932634624",
+                                            "urltweet": "https://twitter.com/davewiner/status/1533810464932634624",
+                                            "inReplyToId": "1533809945551978497",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@rswilbourn thanks sands. ;-)",
                                     "rawText": "@rswilbourn thanks sands. ;-)",
