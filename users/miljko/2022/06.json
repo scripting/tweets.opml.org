@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 01:36:30 GMT"
+            "dateModified": "Mon, 06 Jun 2022 19:28:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Walking around Seoul: <a href=\"https://t.co/d5gFxiHwx0\">[link]</a>",
+                                    "rawText": "Walking around Seoul: https://t.co/d5gFxiHwx0",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 19:22:24 GMT",
+                                    "tweetId": "1533892077528010752",
+                                    "urltweet": "https://twitter.com/miljko/status/1533892077528010752",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
