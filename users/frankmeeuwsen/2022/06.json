@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 05 Jun 2022 21:13:28 GMT"
+            "dateModified": "Mon, 06 Jun 2022 10:37:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Keuzes! Ik heb twee tickets voor Pinkpop te koop gezet. Met een parkeerticket er bij. <a href=\"https://t.co/D3BGRzhYzt\">[link]</a>",
+                                    "rawText": "Keuzes! Ik heb twee tickets voor Pinkpop te koop gezet. Met een parkeerticket er bij. https://t.co/D3BGRzhYzt",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 10:30:05 GMT",
+                                    "tweetId": "1533758114595586048",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1533758114595586048",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
