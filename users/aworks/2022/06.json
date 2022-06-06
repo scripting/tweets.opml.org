@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 05 Jun 2022 13:48:29 GMT"
+            "dateModified": "Mon, 06 Jun 2022 13:50:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/3W77Vre77o\">[link]</a> Stories via @tedgioia @saquabote @bangonacan",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/3W77Vre77o Stories via @tedgioia @saquabote @bangonacan",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 13:47:49 GMT",
+                                    "tweetId": "1533807875797172224",
+                                    "urltweet": "https://twitter.com/aworks/status/1533807875797172224",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
