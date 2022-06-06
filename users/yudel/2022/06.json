@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 05 Jun 2022 20:35:55 GMT"
+            "dateModified": "Mon, 06 Jun 2022 23:49:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@trekonomics Heinlein knew. <a href=\"https://t.co/hcbRT3gEwJ\">[link]</a>",
+                                    "rawText": "@trekonomics Heinlein knew. https://t.co/hcbRT3gEwJ",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 23:39:45 GMT",
+                                    "tweetId": "1533956842296164354",
+                                    "urltweet": "https://twitter.com/yudel/status/1533956842296164354",
+                                    "inReplyToId": "1533956393841008640",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
