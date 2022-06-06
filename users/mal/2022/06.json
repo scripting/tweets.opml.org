@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "mal tweets",
+            "dateCreated": "Mon, 24 Jan 2022 16:52:26 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 06 Jun 2022 23:42:25 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@davewiner whatever you're doing worked.",
+                                    "rawText": "@davewiner whatever you're doing worked.",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 23:39:11 GMT",
+                                    "tweetId": "1533956701283442688",
+                                    "urltweet": "https://twitter.com/mal/status/1533956701283442688",
+                                    "inReplyToId": "1533916522464296963",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
