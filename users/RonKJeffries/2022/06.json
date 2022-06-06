@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 05 Jun 2022 17:46:30 GMT"
+            "dateModified": "Mon, 06 Jun 2022 05:02:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@BoneKnightmare @cocobadu Stockholm Syndrome?",
+                                    "rawText": "@BoneKnightmare @cocobadu Stockholm Syndrome?",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 04:58:34 GMT",
+                                    "tweetId": "1533674688454356992",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1533674688454356992",
+                                    "inReplyToId": "1533669894864130048",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@aussiastronomer don't be trash talking LA. LOL",
+                                    "rawText": "@aussiastronomer don't be trash talking LA. LOL",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 04:56:45 GMT",
+                                    "tweetId": "1533674229366812672",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1533674229366812672",
+                                    "inReplyToId": "1533671808079015938",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
