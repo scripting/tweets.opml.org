@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 20:48:44 GMT"
+            "dateModified": "Mon, 06 Jun 2022 21:01:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,24 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "Hello World",
+                                    "rawText": "Hello World",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 20:59:32 GMT",
+                                    "tweetId": "1533916522464296963",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533916522464296963",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "I wrote a simple Hello World app for Twitter.\n\n<a href=\"https://t.co/Bg2I2CbKCG\">[link]</a>\n\nYou could help by giving it a try, and saying how it worked. :-)",
+                                    "rawText": "I wrote a simple Hello World app for Twitter.\n\nhttps://t.co/Bg2I2CbKCG\n\nYou could help by giving it a try, and saying how it worked. :-)",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 20:55:38 GMT",
+                                    "tweetId": "1533915542201020416",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533915542201020416",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@phonetonote @codexeditor I've been working on it my whole career. ;-)",
                                     "rawText": "@phonetonote @codexeditor I've been working on it my whole career. ;-)",
