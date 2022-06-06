@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "cluelessnewbie tweets",
+            "dateCreated": "Mon, 13 Dec 2021 20:18:57 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 06 Jun 2022 16:45:59 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Hello World",
+                                    "rawText": "Hello World",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 16:34:12 GMT",
+                                    "tweetId": "1533849749492846593",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1533849749492846593",
+                                    "tweetUserName": "cluelessnewbie"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
