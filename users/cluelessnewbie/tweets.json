@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 17:49:48 GMT"
+            "dateModified": "Mon, 06 Jun 2022 21:01:14 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "Hello world. I'm kvelling here.",
+                                    "rawText": "Hello world. I'm kvelling here.",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 20:50:21 GMT",
+                                    "tweetId": "1533914213097345031",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1533914213097345031",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "Hello world. And grape juice.",
                                     "rawText": "Hello world. And grape juice.",
