@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 00:33:01 GMT"
+            "dateModified": "Mon, 06 Jun 2022 15:33:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "I drove from Colorado to Michigan over the last three days. Gas prices in Nebraska and Iowa were in the $4.30 range, I think mostly due to the heavy use of ethanol. The highest price was $5.79 in Joliet, IL, which I think is the most I’ve ever paid for a gallon of gas.",
+                                    "rawText": "I drove from Colorado to Michigan over the last three days. Gas prices in Nebraska and Iowa were in the $4.30 range, I think mostly due to the heavy use of ethanol. The highest price was $5.79 in Joliet, IL, which I think is the most I’ve ever paid for a gallon of gas.",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 15:32:32 GMT",
+                                    "tweetId": "1533834229049610241",
+                                    "urltweet": "https://twitter.com/frankm/status/1533834229049610241",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 2",
                             "type": "calendarDay",
