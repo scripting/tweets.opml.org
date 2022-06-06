@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 02:39:48 GMT"
+            "dateModified": "Mon, 06 Jun 2022 14:34:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: REFERENDUM GIUSTIZIA 2022 | #TELOSPIEGO <a href=\"https://t.co/I6FTk28S1u\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: REFERENDUM GIUSTIZIA 2022 | #TELOSPIEGO https://t.co/I6FTk28S1u",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 14:28:16 GMT",
+                                    "tweetId": "1533818059219140612",
+                                    "urltweet": "https://twitter.com/oevl/status/1533818059219140612",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
