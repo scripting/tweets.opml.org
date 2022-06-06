@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 12:04:10 GMT"
+            "dateModified": "Mon, 06 Jun 2022 19:56:25 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "Today I learned.. <a href=\"https://t.co/OCmeKMJmLa\">[link]</a>",
+                                    "rawText": "Today I learned.. https://t.co/OCmeKMJmLa",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 19:49:27 GMT",
+                                    "tweetId": "1533898886435074048",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1533898886435074048",
+                                    "tweetUserName": "RonKJeffries"
+                                },
                                 {
                                     "text": "Be amazed. Javascript for the win.\n@stevesi @mims @KevinCTofel <a href=\"https://t.co/WW93OXVDWv\">[link]</a>",
                                     "rawText": "Be amazed. Javascript for the win.\n@stevesi @mims @KevinCTofel https://t.co/WW93OXVDWv",
