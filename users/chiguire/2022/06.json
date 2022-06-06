@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 00:45:57 GMT"
+            "dateModified": "Mon, 06 Jun 2022 01:24:14 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "I found a bunny #emfcamp <a href=\"https://t.co/HBVLEndzwA\">[link]</a>",
+                                    "rawText": "I found a bunny #emfcamp https://t.co/HBVLEndzwA",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 01:18:49 GMT",
+                                    "tweetId": "1533619387084718081",
+                                    "urltweet": "https://twitter.com/chiguire/status/1533619387084718081",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@pascoda I felt your pain",
                                     "rawText": "@pascoda I felt your pain",
