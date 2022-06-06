@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "defjaf tweets",
+            "dateCreated": "Fri, 11 Feb 2022 15:36:38 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 06 Jun 2022 12:55:28 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "I was out of contact for five days, four of which were holiday or weekend, and it still took me over two hours to deal with all the accumulated emails and messages.",
+                                    "rawText": "I was out of contact for five days, four of which were holiday or weekend, and it still took me over two hours to deal with all the accumulated emails and messages.",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 12:47:34 GMT",
+                                    "tweetId": "1533792714445279233",
+                                    "urltweet": "https://twitter.com/defjaf/status/1533792714445279233",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
