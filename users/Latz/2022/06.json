@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 05 Jun 2022 10:02:15 GMT"
+            "dateModified": "Mon, 06 Jun 2022 15:23:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Seafile - an alternative to Nextcloud?\n\n<a href=\"https://t.co/FyKXz6XoTu\">[link]</a>",
+                                    "rawText": "Seafile - an alternative to Nextcloud?\n\nhttps://t.co/FyKXz6XoTu",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 15:22:20 GMT",
+                                    "tweetId": "1533831664673206272",
+                                    "urltweet": "https://twitter.com/Latz/status/1533831664673206272",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
