@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 04 Jun 2022 17:04:39 GMT"
+            "dateModified": "Mon, 06 Jun 2022 16:18:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "A review unit of the new @Lenovo  IdeaPad Chromebook Duet 3 recently arrived. Here are my first impressions of this low-cost Chrome OS tablet. <a href=\"https://t.co/JdvrLFddc7\">[link]</a>",
+                                    "rawText": "A review unit of the new @Lenovo  IdeaPad Chromebook Duet 3 recently arrived. Here are my first impressions of this low-cost Chrome OS tablet. https://t.co/JdvrLFddc7",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 16:10:39 GMT",
+                                    "tweetId": "1533843821309591552",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1533843821309591552",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 4",
                             "type": "calendarDay",
