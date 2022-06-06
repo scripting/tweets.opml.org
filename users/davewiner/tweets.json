@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 21:01:29 GMT"
+            "dateModified": "Mon, 06 Jun 2022 21:27:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,40 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "@codexeditor @phonetonote I'm not so sure. The deep think part is relatively easy compared to the getting-it-to-work part or the getting-people-to-listen part. ;-)",
+                                    "rawText": "@codexeditor @phonetonote I'm not so sure. The deep think part is relatively easy compared to the getting-it-to-work part or the getting-people-to-listen part. ;-)",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 21:15:44 GMT",
+                                    "tweetId": "1533920600401530880",
+                                    "urltweet": "https://twitter.com/davewiner/status/1533920600401530880",
+                                    "inReplyToId": "1533919956114771969",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@codexeditor @phonetonote The basic idea is that there are outlines everywhere inside the computer. So why write a million shitty outliners, when you could have one really good one with all the right stuff hanging off it. Then what would happen.",
+                                            "rawText": "@codexeditor @phonetonote The basic idea is that there are outlines everywhere inside the computer. So why write a million shitty outliners, when you could have one really good one with all the right stuff hanging off it. Then what would happen.",
+                                            "type": "tweet",
+                                            "created": "Mon, 06 Jun 2022 21:16:06 GMT",
+                                            "tweetId": "1533920689941630982",
+                                            "urltweet": "https://twitter.com/davewiner/status/1533920689941630982",
+                                            "inReplyToId": "1533920600401530880",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@codexeditor @phonetonote The getting-people-to-listen part is basically impossible. It'll wait until people want it. Enough people are fed up with all the bullshit Apple throws at their OSes.",
+                                                    "rawText": "@codexeditor @phonetonote The getting-people-to-listen part is basically impossible. It'll wait until people want it. Enough people are fed up with all the bullshit Apple throws at their OSes.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 06 Jun 2022 21:17:39 GMT",
+                                                    "tweetId": "1533921081773510657",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1533921081773510657",
+                                                    "inReplyToId": "1533920689941630982",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Hello World",
                                     "rawText": "Hello World",
