@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 01:24:14 GMT"
+            "dateModified": "Mon, 06 Jun 2022 10:20:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Me after 4 nights camping #emfcamp <a href=\"https://t.co/8YrmBT3pTz\">[link]</a>",
+                                    "rawText": "Me after 4 nights camping #emfcamp https://t.co/8YrmBT3pTz",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 10:17:17 GMT",
+                                    "tweetId": "1533754897300168704",
+                                    "urltweet": "https://twitter.com/chiguire/status/1533754897300168704",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@Clipart1994bot Once I wanted to be the grapest\nNo wind or waterfall could stall me",
+                                    "rawText": "@Clipart1994bot Once I wanted to be the grapest\nNo wind or waterfall could stall me",
+                                    "type": "tweet",
+                                    "created": "Mon, 06 Jun 2022 10:13:14 GMT",
+                                    "tweetId": "1533753874288361474",
+                                    "urltweet": "https://twitter.com/chiguire/status/1533753874288361474",
+                                    "inReplyToId": "1533753345789374465",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
