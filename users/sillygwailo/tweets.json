@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 07 Jun 2022 03:04:38 GMT"
+            "dateModified": "Tue, 07 Jun 2022 03:42:55 GMT"
         },
         "body": {
             "subs": [
@@ -76,7 +76,19 @@
                                                             "tweetId": "1534007734860931072",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1534007734860931072",
                                                             "inReplyToId": "1533961737925496838",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "I bought all four enamel pins at the Kraftwerk merch table. <a href=\"https://t.co/qOniGsUTay\">[link]</a>",
+                                                                    "rawText": "I bought all four enamel pins at the Kraftwerk merch table. https://t.co/qOniGsUTay",
+                                                                    "type": "tweet",
+                                                                    "created": "Tue, 07 Jun 2022 03:37:16 GMT",
+                                                                    "tweetId": "1534016615905386498",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1534016615905386498",
+                                                                    "inReplyToId": "1534007734860931072",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
