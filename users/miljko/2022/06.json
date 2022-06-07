@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 19:28:39 GMT"
+            "dateModified": "Tue, 07 Jun 2022 18:01:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "To reform NIH, maybe you should first understand it?: <a href=\"https://t.co/C8HiFvRRAW\">[link]</a>",
+                                    "rawText": "To reform NIH, maybe you should first understand it?: https://t.co/C8HiFvRRAW",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 17:54:51 GMT",
+                                    "tweetId": "1534232431678607365",
+                                    "urltweet": "https://twitter.com/miljko/status/1534232431678607365",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
