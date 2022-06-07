@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 23:42:40 GMT"
+            "dateModified": "Tue, 07 Jun 2022 19:55:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@coreycottrell This was a really exciting demo and intro to Uplift World. Great show, @b05crypto and @coreycottrell !! I think there's a pony in here somewhere!",
+                                    "rawText": "@coreycottrell This was a really exciting demo and intro to Uplift World. Great show, @b05crypto and @coreycottrell !! I think there's a pony in here somewhere!",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 19:46:25 GMT",
+                                    "tweetId": "1534260511826747393",
+                                    "urltweet": "https://twitter.com/cshotton/status/1534260511826747393",
+                                    "inReplyToId": "1534203801904848897",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
