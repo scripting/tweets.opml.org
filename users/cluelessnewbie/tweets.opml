@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Mon, 06 Jun 2022 21:01:14 GMT</dateModified>
+		<dateModified>Tue, 07 Jun 2022 15:44:27 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2022" type="calendarMonth" name="june2022" >
+			<outline text="June 7" type="calendarDay" name="07" >
+				<outline text="Hello world. And orange juice is lovely." rawText="Hello world. And orange juice is lovely." type="tweet" created="Tue, 07 Jun 2022 15:42:37 GMT" tweetId="1534199156830502912" urltweet="https://twitter.com/cluelessnewbie/status/1534199156830502912" inReplyToId="" tweetUserName="cluelessnewbie" />
+				</outline>
 			<outline text="June 6" type="calendarDay" name="06" >
-				<outline text="Hello world. I'm kvelling here." rawText="Hello world. I'm kvelling here." type="tweet" created="Mon, 06 Jun 2022 20:50:21 GMT" tweetId="1533914213097345031" urltweet="https://twitter.com/cluelessnewbie/status/1533914213097345031" inReplyToId="" tweetUserName="cluelessnewbie" />
+				<outline text="Hello world. I'm kvelling here." rawText="Hello world. I'm kvelling here." type="tweet" created="Mon, 06 Jun 2022 20:50:21 GMT" tweetId="1533914213097345031" urltweet="https://twitter.com/cluelessnewbie/status/1533914213097345031" tweetUserName="cluelessnewbie" />
 				<outline text="Hello world. And grape juice." rawText="Hello world. And grape juice." type="tweet" created="Mon, 06 Jun 2022 17:46:05 GMT" tweetId="1533867839244869633" urltweet="https://twitter.com/cluelessnewbie/status/1533867839244869633" tweetUserName="cluelessnewbie" />
 				<outline text="Hello world. And orange juice." rawText="Hello world. And orange juice." type="tweet" created="Mon, 06 Jun 2022 17:44:07 GMT" tweetId="1533867343847247873" urltweet="https://twitter.com/cluelessnewbie/status/1533867343847247873" tweetUserName="cluelessnewbie" />
 				<outline text="Hello world. And what a nice day it is." rawText="Hello world. And what a nice day it is." type="tweet" created="Mon, 06 Jun 2022 17:27:13 GMT" tweetId="1533863089875128321" urltweet="https://twitter.com/cluelessnewbie/status/1533863089875128321" tweetUserName="cluelessnewbie" />
