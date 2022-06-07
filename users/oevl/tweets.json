@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 20:31:57 GMT"
+            "dateModified": "Tue, 07 Jun 2022 21:38:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: WWDC22: Inside Apple HQ, Day 1 <a href=\"https://t.co/VFVnl4p5oB\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: WWDC22: Inside Apple HQ, Day 1 https://t.co/VFVnl4p5oB",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 21:28:10 GMT",
+                                    "tweetId": "1534286116790075395",
+                                    "urltweet": "https://twitter.com/oevl/status/1534286116790075395",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: The new MacBook Air | Supercharged by M2 | Apple <a href=\"https://t.co/NoDshxEzNR\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: The new MacBook Air | Supercharged by M2 | Apple https://t.co/NoDshxEzNR",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 21:28:09 GMT",
+                                    "tweetId": "1534286113778679808",
+                                    "urltweet": "https://twitter.com/oevl/status/1534286113778679808",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
