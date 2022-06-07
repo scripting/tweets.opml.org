@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 18:36:36 GMT"
+            "dateModified": "Tue, 07 Jun 2022 09:04:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@javirevillas jre punto villas",
+                                    "rawText": "@javirevillas jre punto villas",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 09:01:10 GMT",
+                                    "tweetId": "1534098127967473664",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1534098127967473664",
+                                    "inReplyToId": "1534074314252865541",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
