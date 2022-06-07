@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 07 Jun 2022 17:03:32 GMT"
+            "dateModified": "Tue, 07 Jun 2022 17:54:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "@rmneiss Hmmmm. FORTRAN was indeed the first language I ever programmed in….",
+                                    "rawText": "@rmneiss Hmmmm. FORTRAN was indeed the first language I ever programmed in….",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 17:42:47 GMT",
+                                    "tweetId": "1534229396395020289",
+                                    "urltweet": "https://twitter.com/yudel/status/1534229396395020289",
+                                    "inReplyToId": "1534229049542856705",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@rmneiss Hard to believe decades of IRS frameworks can be more complicated than coding Hello World in React.",
+                                            "rawText": "@rmneiss Hard to believe decades of IRS frameworks can be more complicated than coding Hello World in React.",
+                                            "type": "tweet",
+                                            "created": "Tue, 07 Jun 2022 17:43:35 GMT",
+                                            "tweetId": "1534229596698296321",
+                                            "urltweet": "https://twitter.com/yudel/status/1534229596698296321",
+                                            "inReplyToId": "1534229396395020289",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@raggedmouths @ZacharyBraiterm “Religion organizes meanness” is less absolutely true, but a more useful reminder.",
                                     "rawText": "@raggedmouths @ZacharyBraiterm “Religion organizes meanness” is less absolutely true, but a more useful reminder.",
