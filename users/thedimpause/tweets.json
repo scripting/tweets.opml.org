@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 18:09:04 GMT"
+            "dateModified": "Tue, 07 Jun 2022 07:33:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Location check in 🗺 — Heathrow Airport, Terminal 5 ✈️ <a href=\"https://t.co/RctIIUSeAf\">[link]</a>",
+                                    "rawText": "Location check in 🗺 — Heathrow Airport, Terminal 5 ✈️ https://t.co/RctIIUSeAf",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 07:24:01 GMT",
+                                    "tweetId": "1534073678123749376",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1534073678123749376",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
