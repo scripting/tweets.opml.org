@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 21:41:17 GMT"
+            "dateModified": "Tue, 07 Jun 2022 18:06:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Oh wat is dit fantastisch. <a href=\"https://t.co/hA3vx9Jo0v\">[link]</a>",
+                                    "rawText": "Oh wat is dit fantastisch. https://t.co/hA3vx9Jo0v",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 17:59:50 GMT",
+                                    "tweetId": "1534233687587491840",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1534233687587491840",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
