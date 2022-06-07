@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 07 Jun 2022 16:27:15 GMT"
+            "dateModified": "Tue, 07 Jun 2022 16:40:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "@LiberalResults @jeichlerlevine Perhaps that’s more of an indictment of end-stage capitalism, inequality, and other systemic factors than of the individuals themselves…",
+                                    "rawText": "@LiberalResults @jeichlerlevine Perhaps that’s more of an indictment of end-stage capitalism, inequality, and other systemic factors than of the individuals themselves…",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 16:36:41 GMT",
+                                    "tweetId": "1534212763957874689",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1534212763957874689",
+                                    "inReplyToId": "1534204998535348224",
+                                    "tweetUserName": "jimgrisham"
+                                },
                                 {
                                     "text": "@BergqvistRene @PhillipsPOBrien @TheStudyofWar @criticalthreats While it may not be their intention, this could actually benefit Ukraine in the mid-to-long* term by making Putin complacent enough to further over-extend Russia.\n\n(* Enormous short-term human toll, however)",
                                     "rawText": "@BergqvistRene @PhillipsPOBrien @TheStudyofWar @criticalthreats While it may not be their intention, this could actually benefit Ukraine in the mid-to-long* term by making Putin complacent enough to further over-extend Russia.\n\n(* Enormous short-term human toll, however)",
@@ -48,7 +58,19 @@
                                     "tweetId": "1534025769852149760",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1534025769852149760",
                                     "inReplyToId": "1532743821833953280",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@Hydralisk__ @kms_d4k @dim0kq Also, while I have no idea if the #Starlink terminals use some sort of frequency-hopping system or what their transmit/receive duty cycle is,\n\n… the same characteristics that make a transmission resilient to atmospheric and man-made interference likely makes it harder to track.",
+                                            "rawText": "@Hydralisk__ @kms_d4k @dim0kq Also, while I have no idea if the #Starlink terminals use some sort of frequency-hopping system or what their transmit/receive duty cycle is,\n\n… the same characteristics that make a transmission resilient to atmospheric and man-made interference likely makes it harder to track.",
+                                            "type": "tweet",
+                                            "created": "Tue, 07 Jun 2022 16:29:52 GMT",
+                                            "tweetId": "1534211045929017345",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1534211045929017345",
+                                            "inReplyToId": "1534025769852149760",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@jim_enloe @ArmchairG3neral @OSpurdo @WarObserver14 @kms_d4k @dim0kq The one they were testing in early 2021 (with terminal p/n 00105950-501):\n\nKu-band antenna (012987-501)\n Tx gain: 34.2 dBi\n Beamwidth: 3.5deg. (HPBW)\n\n Tx power: 3.2 W\n Tx ERP: 5.1 kW\n Tx EIRP: 39.1 dBW\n\n14.125 &amp; 14.375 GHz antenna patterns:\n\n<a href=\"https://t.co/AXP5PGj1z6\">[link]</a>",
