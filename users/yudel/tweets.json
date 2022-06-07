@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 07 Jun 2022 03:01:08 GMT"
+            "dateModified": "Tue, 07 Jun 2022 05:34:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,44 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Looks like Hy Eisman is retiring from drawing and writing Popeye, a mere 30 years after turning 65. <a href=\"https://t.co/b57WtRJwNe\">[link]</a>",
+                                    "rawText": "Looks like Hy Eisman is retiring from drawing and writing Popeye, a mere 30 years after turning 65. https://t.co/b57WtRJwNe",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 05:31:10 GMT",
+                                    "tweetId": "1534045280542367744",
+                                    "urltweet": "https://twitter.com/yudel/status/1534045280542367744",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "I had the privilege of meeting him a few years back. <a href=\"https://t.co/Q51El62dTO\">[link]</a>",
+                                            "rawText": "I had the privilege of meeting him a few years back. https://t.co/Q51El62dTO",
+                                            "type": "tweet",
+                                            "created": "Tue, 07 Jun 2022 05:31:39 GMT",
+                                            "tweetId": "1534045400881156096",
+                                            "urltweet": "https://twitter.com/yudel/status/1534045400881156096",
+                                            "inReplyToId": "1534045280542367744",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@teaberryblue @EscapePodComics @PopeyeTweetsk @choochoobear My interview with Hy Eisman a few years back. <a href=\"https://t.co/Q51El62dTO\">[link]</a>",
+                                    "rawText": "@teaberryblue @EscapePodComics @PopeyeTweetsk @choochoobear My interview with Hy Eisman a few years back. https://t.co/Q51El62dTO",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 05:30:03 GMT",
+                                    "tweetId": "1534044998810972161",
+                                    "urltweet": "https://twitter.com/yudel/status/1534044998810972161",
+                                    "inReplyToId": "1532712317808427009",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
