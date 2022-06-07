@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 15:23:38 GMT"
+            "dateModified": "Tue, 07 Jun 2022 17:46:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Gesund. <a href=\"https://t.co/ICXSr7mHuq\">[link]</a>",
+                                    "rawText": "Gesund. https://t.co/ICXSr7mHuq",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 17:41:13 GMT",
+                                    "tweetId": "1534229004064112641",
+                                    "urltweet": "https://twitter.com/Latz/status/1534229004064112641",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
