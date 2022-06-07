@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 09:50:02 GMT"
+            "dateModified": "Tue, 07 Jun 2022 11:34:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Wordle 353 4/6\n\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜🟩🟩🟨\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 353 4/6\n\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜🟩🟩🟨\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 11:23:40 GMT",
+                                    "tweetId": "1534133989405085703",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1534133989405085703",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
