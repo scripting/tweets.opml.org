@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 03:13:51 GMT"
+            "dateModified": "Tue, 07 Jun 2022 04:45:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@b_honacki @ABC Your guess is as good as mine.",
+                                    "rawText": "@b_honacki @ABC Your guess is as good as mine.",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 04:37:29 GMT",
+                                    "tweetId": "1534031768357154816",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1534031768357154816",
+                                    "inReplyToId": "1533776929056296960",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 5",
                             "type": "calendarDay",
