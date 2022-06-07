@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 01 Jun 2022 19:06:21 GMT"
+            "dateModified": "Tue, 07 Jun 2022 12:18:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "WordCamp Europe + Roadmap 6.1 Edition 217 with #WCEU lightning talks by @SeanBlakeley @juanmaguitar @ryanwelcher @imranhsayed @circlecube @paulfhalfpenny and talks by @gziolo @nerrad @iamposti More Gutenberg updates by @matias_ventura @get_dave @wpbuilds <a href=\"https://t.co/4MJN9Ljtmo\">[link]</a>",
+                                    "rawText": "WordCamp Europe + Roadmap 6.1 Edition 217 with #WCEU lightning talks by @SeanBlakeley @juanmaguitar @ryanwelcher @imranhsayed @circlecube @paulfhalfpenny and talks by @gziolo @nerrad @iamposti More Gutenberg updates by @matias_ventura @get_dave @wpbuilds https://t.co/4MJN9Ljtmo",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 12:13:51 GMT",
+                                    "tweetId": "1534146619083571202",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1534146619083571202",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 1",
                             "type": "calendarDay",
