@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 23:06:07 GMT"
+            "dateModified": "Tue, 07 Jun 2022 13:59:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@mariannedh pero ciberautopista de la información es brillante",
+                                    "rawText": "@mariannedh pero ciberautopista de la información es brillante",
+                                    "type": "tweet",
+                                    "created": "Tue, 07 Jun 2022 13:59:10 GMT",
+                                    "tweetId": "1534173120092942336",
+                                    "urltweet": "https://twitter.com/chiguire/status/1534173120092942336",
+                                    "inReplyToId": "1533886880516911105",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
