@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 07 Jun 2022 21:38:05 GMT"
+            "dateModified": "Wed, 08 Jun 2022 11:40:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Matthew McConaughey gets emotional sharing heartbreaking story of 10-year-old Uvalde victim <a href=\"https://t.co/mJsLBV52xZ\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Matthew McConaughey gets emotional sharing heartbreaking story of 10-year-old Uvalde victim https://t.co/mJsLBV52xZ",
+                                    "type": "tweet",
+                                    "created": "Wed, 08 Jun 2022 11:28:19 GMT",
+                                    "tweetId": "1534497545723985920",
+                                    "urltweet": "https://twitter.com/oevl/status/1534497545723985920",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 7",
                             "type": "calendarDay",
