@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/codekulturbonn/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 03 Jun 2022 21:31:07 GMT"
+            "dateModified": "Wed, 08 Jun 2022 02:33:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Kaboom! Dienstags Coden in Javascript: <a href=\"https://t.co/ULRfoqcOkq\">[link]</a>",
+                                    "rawText": "Kaboom! Dienstags Coden in Javascript: https://t.co/ULRfoqcOkq",
+                                    "type": "tweet",
+                                    "created": "Wed, 08 Jun 2022 02:23:42 GMT",
+                                    "tweetId": "1534360488284409856",
+                                    "urltweet": "https://twitter.com/codekulturbonn/status/1534360488284409856",
+                                    "tweetUserName": "codekulturbonn"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 3",
                             "type": "calendarDay",
