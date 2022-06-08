@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 07 Jun 2022 19:55:13 GMT"
+            "dateModified": "Wed, 08 Jun 2022 11:27:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@peternlewis Better yet, it'll finally learn that when Mail cannot connect to GMail, it's not such an urgent emergency that it needs to seize control of the screen and bring itself to the foreground, regardless of what the user is doing.",
+                                    "rawText": "@peternlewis Better yet, it'll finally learn that when Mail cannot connect to GMail, it's not such an urgent emergency that it needs to seize control of the screen and bring itself to the foreground, regardless of what the user is doing.",
+                                    "type": "tweet",
+                                    "created": "Wed, 08 Jun 2022 11:26:33 GMT",
+                                    "tweetId": "1534497102490914816",
+                                    "urltweet": "https://twitter.com/cshotton/status/1534497102490914816",
+                                    "inReplyToId": "1534377058134294530",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 7",
                             "type": "calendarDay",
