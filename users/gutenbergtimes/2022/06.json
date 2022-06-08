@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 07 Jun 2022 12:18:59 GMT"
+            "dateModified": "Wed, 08 Jun 2022 19:14:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "Matias Ventura couldn't make it to Saturday's keynote. He prepared a few cool things, he wanted to show now in this thread. :-) <a href=\"https://t.co/S8E5EOuzi8\">[link]</a>",
+                                    "rawText": "Matias Ventura couldn't make it to Saturday's keynote. He prepared a few cool things, he wanted to show now in this thread. :-) https://t.co/S8E5EOuzi8",
+                                    "type": "tweet",
+                                    "created": "Wed, 08 Jun 2022 19:14:31 GMT",
+                                    "tweetId": "1534614870225657856",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1534614870225657856",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 7",
                             "type": "calendarDay",
