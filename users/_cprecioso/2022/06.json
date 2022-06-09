@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 08 Jun 2022 21:24:00 GMT"
+            "dateModified": "Thu, 09 Jun 2022 12:04:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@oscarblanq React Aria bb",
+                                    "rawText": "@oscarblanq React Aria bb",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 12:00:23 GMT",
+                                    "tweetId": "1534868006022569985",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1534868006022569985",
+                                    "inReplyToId": "1534861983937331200",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@abersta Si quieres mi pase de la segunda semana te lo paso 😂",
+                                    "rawText": "@abersta Si quieres mi pase de la segunda semana te lo paso 😂",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 11:58:19 GMT",
+                                    "tweetId": "1534867485568139264",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1534867485568139264",
+                                    "inReplyToId": "1534863117171281920",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
