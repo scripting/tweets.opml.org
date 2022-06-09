@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 08 Jun 2022 11:25:14 GMT"
+            "dateModified": "Thu, 09 Jun 2022 07:18:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "Karl-Marx-Allee <a href=\"https://t.co/a76Qz6uAQ5\">[link]</a>",
+                                    "rawText": "Karl-Marx-Allee https://t.co/a76Qz6uAQ5",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 07:15:30 GMT",
+                                    "tweetId": "1534796312998289408",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1534796312998289408",
+                                    "tweetUserName": "thedimpause"
+                                },
+                                {
+                                    "text": "Mozart and Beethoven. Haydn is on the far side 🎵 <a href=\"https://t.co/PV3OK2qYkC\">[link]</a>",
+                                    "rawText": "Mozart and Beethoven. Haydn is on the far side 🎵 https://t.co/PV3OK2qYkC",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 07:08:38 GMT",
+                                    "tweetId": "1534794582197772289",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1534794582197772289",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
