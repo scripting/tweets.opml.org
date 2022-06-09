@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 21:05:15 GMT"
+            "dateModified": "Thu, 09 Jun 2022 14:04:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "The real question is not why is there evil, it is, why is there good?",
+                                    "rawText": "The real question is not why is there evil, it is, why is there good?",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 13:57:39 GMT",
+                                    "tweetId": "1534897515950137347",
+                                    "urltweet": "https://twitter.com/frankm/status/1534897515950137347",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
