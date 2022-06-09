@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 08 Jun 2022 23:38:09 GMT"
+            "dateModified": "Thu, 09 Jun 2022 18:34:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@dailysimpsons Was there a phenomenon of any kind localized entirely within their kitchen?",
+                                    "rawText": "@dailysimpsons Was there a phenomenon of any kind localized entirely within their kitchen?",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 18:26:17 GMT",
+                                    "tweetId": "1534965121826553857",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1534965121826553857",
+                                    "inReplyToId": "1534964278503124992",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
