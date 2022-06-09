@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 01:19:00 GMT"
+            "dateModified": "Thu, 09 Jun 2022 17:03:30 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1534704385728598018",
                                     "urltweet": "https://twitter.com/MarkVopat/status/1534704385728598018",
                                     "inReplyToId": "1534681489090043904",
-                                    "tweetUserName": "MarkVopat"
+                                    "tweetUserName": "MarkVopat",
+                                    "subs": [
+                                        {
+                                            "text": "@scaryscarylarry (cue sarcasm emoji 🙃😒🤨)",
+                                            "rawText": "@scaryscarylarry (cue sarcasm emoji 🙃😒🤨)",
+                                            "type": "tweet",
+                                            "created": "Thu, 09 Jun 2022 17:02:23 GMT",
+                                            "tweetId": "1534944006865833984",
+                                            "urltweet": "https://twitter.com/MarkVopat/status/1534944006865833984",
+                                            "inReplyToId": "1534704385728598018",
+                                            "tweetUserName": "MarkVopat"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@bryanbehar Harsh, but true.",
