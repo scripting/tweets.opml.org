@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 04:03:11 GMT"
+            "dateModified": "Thu, 09 Jun 2022 13:24:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@datadivajf Wow.",
+                                    "rawText": "@datadivajf Wow.",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 13:24:09 GMT",
+                                    "tweetId": "1534889084799401984",
+                                    "urltweet": "https://twitter.com/yudel/status/1534889084799401984",
+                                    "inReplyToId": "1534888670783844359",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
