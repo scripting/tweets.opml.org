@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 01:20:00 GMT"
+            "dateModified": "Thu, 09 Jun 2022 04:44:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@JoseGandhy Que bueno que ya te descremaron 😁",
+                                    "rawText": "@JoseGandhy Que bueno que ya te descremaron 😁",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 04:43:26 GMT",
+                                    "tweetId": "1534758042461319168",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1534758042461319168",
+                                    "inReplyToId": "1534740344452943873",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
