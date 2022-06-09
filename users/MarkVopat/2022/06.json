@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 08 Jun 2022 02:52:56 GMT"
+            "dateModified": "Thu, 09 Jun 2022 01:19:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@scaryscarylarry You forget his incredible performance in the 2014 classic “God Is Not Dead”",
+                                    "rawText": "@scaryscarylarry You forget his incredible performance in the 2014 classic “God Is Not Dead”",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 01:10:13 GMT",
+                                    "tweetId": "1534704385728598018",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1534704385728598018",
+                                    "inReplyToId": "1534681489090043904",
+                                    "tweetUserName": "MarkVopat"
+                                },
+                                {
+                                    "text": "@bryanbehar Harsh, but true.",
+                                    "rawText": "@bryanbehar Harsh, but true.",
+                                    "type": "tweet",
+                                    "created": "Thu, 09 Jun 2022 01:06:36 GMT",
+                                    "tweetId": "1534703475644370944",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1534703475644370944",
+                                    "inReplyToId": "1534685113417539584",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 7",
                             "type": "calendarDay",
