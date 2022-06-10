@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 23:42:25 GMT"
+            "dateModified": "Fri, 10 Jun 2022 19:03:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "funny how a right-wing guy starts a war and the right blames the left wing guy for inflation.",
+                                    "rawText": "funny how a right-wing guy starts a war and the right blames the left wing guy for inflation.",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 18:52:31 GMT",
+                                    "tweetId": "1535334109408399361",
+                                    "urltweet": "https://twitter.com/mal/status/1535334109408399361",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
