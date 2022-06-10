@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 03:52:42 GMT"
+            "dateModified": "Fri, 10 Jun 2022 04:05:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "I probably went overboard in my praise of George McGovern back in 72, but to be fair, I was only 8. <a href=\"https://t.co/Juwyb88sai\">[link]</a>",
+                                    "rawText": "I probably went overboard in my praise of George McGovern back in 72, but to be fair, I was only 8. https://t.co/Juwyb88sai",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 04:00:36 GMT",
+                                    "tweetId": "1535109649489399814",
+                                    "urltweet": "https://twitter.com/yudel/status/1535109649489399814",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@jh_swanson I probably went overboard in my praise of George McGovern back in 72, but to be fair, I was only 8.",
+                                    "rawText": "@jh_swanson I probably went overboard in my praise of George McGovern back in 72, but to be fair, I was only 8.",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 04:00:17 GMT",
+                                    "tweetId": "1535109569583714317",
+                                    "urltweet": "https://twitter.com/yudel/status/1535109569583714317",
+                                    "inReplyToId": "1535108838352949271",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
