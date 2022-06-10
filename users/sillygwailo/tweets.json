@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 16:03:14 GMT"
+            "dateModified": "Fri, 10 Jun 2022 16:41:32 GMT"
         },
         "body": {
             "subs": [
@@ -139,7 +139,19 @@
                                     "tweetId": "1534528941544902658",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1534528941544902658",
                                     "inReplyToId": "1531046258688901120",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "The Toronto Blue Jays: The Baseball Team That Won’t Love You Back. #ActiveTO <a href=\"https://t.co/KsdDfTGbdu\">[link]</a>",
+                                            "rawText": "The Toronto Blue Jays: The Baseball Team That Won’t Love You Back. #ActiveTO https://t.co/KsdDfTGbdu",
+                                            "type": "tweet",
+                                            "created": "Fri, 10 Jun 2022 16:31:59 GMT",
+                                            "tweetId": "1535298744798916608",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1535298744798916608",
+                                            "inReplyToId": "1534528941544902658",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
