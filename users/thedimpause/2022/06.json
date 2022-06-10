@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 17:43:33 GMT"
+            "dateModified": "Fri, 10 Jun 2022 06:16:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Roses in Berlin 🌹 <a href=\"https://t.co/1jXUgnosxZ\">[link]</a>",
+                                    "rawText": "Roses in Berlin 🌹 https://t.co/1jXUgnosxZ",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 06:04:48 GMT",
+                                    "tweetId": "1535140906948599808",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1535140906948599808",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
