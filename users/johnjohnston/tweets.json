@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 21:03:31 GMT"
+            "dateModified": "Fri, 10 Jun 2022 07:41:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@mdvfunes @KiwiGrant21 Glow accounts provided via institutions and local authorities, more info:\n\n<a href=\"https://t.co/dxry8k6Tpl\">[link]</a>",
+                                    "rawText": "@mdvfunes @KiwiGrant21 Glow accounts provided via institutions and local authorities, more info:\n\nhttps://t.co/dxry8k6Tpl",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 07:34:52 GMT",
+                                    "tweetId": "1535163574846427137",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1535163574846427137",
+                                    "inReplyToId": "1535144400636059649",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
