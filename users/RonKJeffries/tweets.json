@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 08 Jun 2022 23:43:09 GMT"
+            "dateModified": "Fri, 10 Jun 2022 14:13:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "A good read. tl;dr \"It's complicated.\" <a href=\"https://t.co/oqlzQAFn80\">[link]</a>",
+                                    "rawText": "A good read. tl;dr \"It's complicated.\" https://t.co/oqlzQAFn80",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 14:09:39 GMT",
+                                    "tweetId": "1535262922527584256",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1535262922527584256",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
