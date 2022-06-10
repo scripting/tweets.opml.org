@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 02:45:21 GMT"
+            "dateModified": "Fri, 10 Jun 2022 00:39:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "Publish this list as soon as possible. <a href=\"https://t.co/KMxDwxd83M\">[link]</a>",
+                                    "rawText": "Publish this list as soon as possible. https://t.co/KMxDwxd83M",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 00:36:07 GMT",
+                                    "tweetId": "1535058190202589189",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1535058190202589189",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
