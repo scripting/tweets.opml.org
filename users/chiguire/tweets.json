@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 22:14:35 GMT"
+            "dateModified": "Fri, 10 Jun 2022 10:34:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@dcadenajordan Esto no debería darme tanta risa",
+                                    "rawText": "@dcadenajordan Esto no debería darme tanta risa",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 10:25:38 GMT",
+                                    "tweetId": "1535206547667750914",
+                                    "urltweet": "https://twitter.com/chiguire/status/1535206547667750914",
+                                    "inReplyToId": "1534848816469385217",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
