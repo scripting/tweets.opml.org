@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 02:48:53 GMT"
+            "dateModified": "Fri, 10 Jun 2022 03:01:38 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "09",
                             "subs": [
                                 {
+                                    "text": "@onthemainline Note I didn’t say I was eager to look into the copyright status of his works for possible reprinting.",
+                                    "rawText": "@onthemainline Note I didn’t say I was eager to look into the copyright status of his works for possible reprinting.",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 02:53:20 GMT",
+                                    "tweetId": "1535092725044977671",
+                                    "urltweet": "https://twitter.com/yudel/status/1535092725044977671",
+                                    "inReplyToId": "1535092270684307456",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
                                     "text": "@profmusgrave Very late boomer here. I remember learning about it from an issue of Popular Science my dad brought home when I was in elementary school.",
                                     "rawText": "@profmusgrave Very late boomer here. I remember learning about it from an issue of Popular Science my dad brought home when I was in elementary school.",
                                     "type": "tweet",
@@ -28,7 +38,31 @@
                                     "tweetId": "1535091548672729104",
                                     "urltweet": "https://twitter.com/yudel/status/1535091548672729104",
                                     "inReplyToId": "1535089270213550086",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@profmusgrave I had the privilege of knowing my great grandmother, who died at 103 when I was in high school. She was Berkeley class of 1901. She took courses like physics and geology.",
+                                            "rawText": "@profmusgrave I had the privilege of knowing my great grandmother, who died at 103 when I was in high school. She was Berkeley class of 1901. She took courses like physics and geology.",
+                                            "type": "tweet",
+                                            "created": "Fri, 10 Jun 2022 02:50:51 GMT",
+                                            "tweetId": "1535092096390111269",
+                                            "urltweet": "https://twitter.com/yudel/status/1535092096390111269",
+                                            "inReplyToId": "1535091548672729104",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@profmusgrave It’s really amazing what couldn’t have been in her college textbooks. Not only Relativity, but electrons weren’t discovered until 1897.",
+                                                    "rawText": "@profmusgrave It’s really amazing what couldn’t have been in her college textbooks. Not only Relativity, but electrons weren’t discovered until 1897.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 10 Jun 2022 02:52:02 GMT",
+                                                    "tweetId": "1535092397323034637",
+                                                    "urltweet": "https://twitter.com/yudel/status/1535092397323034637",
+                                                    "inReplyToId": "1535092096390111269",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@onthemainline I am here for the Dr. Maurice Fishberg biopic.",
