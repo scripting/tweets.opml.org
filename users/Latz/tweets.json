@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 17:50:18 GMT"
+            "dateModified": "Fri, 10 Jun 2022 08:18:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "If you're rich enough you can become king with 3000 subjects.\n\n<a href=\"https://t.co/CAwye94C3u\">[link]</a>",
+                                    "rawText": "If you're rich enough you can become king with 3000 subjects.\n\nhttps://t.co/CAwye94C3u",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 08:06:34 GMT",
+                                    "tweetId": "1535171549438803968",
+                                    "urltweet": "https://twitter.com/Latz/status/1535171549438803968",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
