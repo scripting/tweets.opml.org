@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 22:59:23 GMT"
+            "dateModified": "Fri, 10 Jun 2022 14:31:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "i agree with this based on my personal experience. and it's ... not good. <a href=\"https://t.co/OmikXP1ysb\">[link]</a>",
+                                    "rawText": "i agree with this based on my personal experience. and it's ... not good. https://t.co/OmikXP1ysb",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 14:23:43 GMT",
+                                    "tweetId": "1535266465179369472",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1535266465179369472",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
