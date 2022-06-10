@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 05:38:02 GMT"
+            "dateModified": "Fri, 10 Jun 2022 04:36:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Young Love | Google Pixel <a href=\"https://t.co/B6Mc5Q2xH4\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Young Love | Google Pixel https://t.co/B6Mc5Q2xH4",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 04:28:31 GMT",
+                                    "tweetId": "1535116676303310848",
+                                    "urltweet": "https://twitter.com/oevl/status/1535116676303310848",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
