@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 09 Jun 2022 13:39:47 GMT"
+            "dateModified": "Fri, 10 Jun 2022 12:12:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@gtconway3d Another one of Trump's \"only the best people\" appointments.",
+                                    "rawText": "@gtconway3d Another one of Trump's \"only the best people\" appointments.",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 12:10:20 GMT",
+                                    "tweetId": "1535232895555600385",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1535232895555600385",
+                                    "inReplyToId": "1535213694522728448",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
