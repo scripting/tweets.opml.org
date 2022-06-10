@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 15:34:42 GMT"
+            "dateModified": "Fri, 10 Jun 2022 15:47:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@rmneiss @firefox @moamwater Meanwhile, my bank’s bill pay app — running on a sketchily named third party URL, of course — silently fails on Chrome but works on Firefox.",
+                                    "rawText": "@rmneiss @firefox @moamwater Meanwhile, my bank’s bill pay app — running on a sketchily named third party URL, of course — silently fails on Chrome but works on Firefox.",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 15:39:42 GMT",
+                                    "tweetId": "1535285585509855232",
+                                    "urltweet": "https://twitter.com/yudel/status/1535285585509855232",
+                                    "inReplyToId": "1535277667938979842",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "Good rule. <a href=\"https://t.co/NiblCPXcng\">[link]</a>",
                                     "rawText": "Good rule. https://t.co/NiblCPXcng",
