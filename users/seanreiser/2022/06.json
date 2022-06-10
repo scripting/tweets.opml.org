@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "seanreiser tweets",
+            "dateCreated": "Tue, 21 Dec 2021 07:38:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 10 Jun 2022 19:26:27 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@Caissie I think News is an abbreviation. it's information from the North, East, South, and West",
+                                    "rawText": "@Caissie I think News is an abbreviation. it's information from the North, East, South, and West",
+                                    "type": "tweet",
+                                    "created": "Fri, 10 Jun 2022 19:15:08 GMT",
+                                    "tweetId": "1535339801666375681",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1535339801666375681",
+                                    "inReplyToId": "1535339237180026881",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
