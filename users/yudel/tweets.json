@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 00:30:47 GMT"
+            "dateModified": "Sat, 11 Jun 2022 18:48:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@avocados_ai Also, FYI, I wrote about you: <a href=\"https://t.co/VOD1o1ljvU\">[link]</a>",
+                                    "rawText": "@avocados_ai Also, FYI, I wrote about you: https://t.co/VOD1o1ljvU",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 18:41:40 GMT",
+                                    "tweetId": "1535693766912364544",
+                                    "urltweet": "https://twitter.com/yudel/status/1535693766912364544",
+                                    "inReplyToId": "1535199541170946048",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@avocados_ai Jewish child shaking  lulav and avocado as parents watch proudly, Norman Rockwell style",
+                                    "rawText": "@avocados_ai Jewish child shaking  lulav and avocado as parents watch proudly, Norman Rockwell style",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 18:40:51 GMT",
+                                    "tweetId": "1535693561760464898",
+                                    "urltweet": "https://twitter.com/yudel/status/1535693561760464898",
+                                    "inReplyToId": "1535199541170946048",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
