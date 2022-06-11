@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 18:56:25 GMT"
+            "dateModified": "Sat, 11 Jun 2022 19:37:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Wieso sprechen alle von einer \"Ölkrise\"? Es ist doch genug Öl vorhanden, es ist eben nur sehr teuer.",
+                                    "rawText": "Wieso sprechen alle von einer \"Ölkrise\"? Es ist doch genug Öl vorhanden, es ist eben nur sehr teuer.",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 19:29:05 GMT",
+                                    "tweetId": "1535705700386709505",
+                                    "urltweet": "https://twitter.com/Latz/status/1535705700386709505",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
