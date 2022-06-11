@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 03:19:43 GMT"
+            "dateModified": "Sat, 11 Jun 2022 13:45:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "“By then it was too late.” That’s what I’d like to have on my epitaph.",
+                                    "rawText": "“By then it was too late.” That’s what I’d like to have on my epitaph.",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 13:42:36 GMT",
+                                    "tweetId": "1535618502597419008",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1535618502597419008",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
