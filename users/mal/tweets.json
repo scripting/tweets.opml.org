@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 19:03:41 GMT"
+            "dateModified": "Sat, 11 Jun 2022 14:37:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@NathanBrimmer Wife: Can you pick up brand x buns. Husband: forgets what x was.",
+                                    "rawText": "@NathanBrimmer Wife: Can you pick up brand x buns. Husband: forgets what x was.",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 14:28:51 GMT",
+                                    "tweetId": "1535630143007629313",
+                                    "urltweet": "https://twitter.com/mal/status/1535630143007629313",
+                                    "inReplyToId": "1534984473632292869",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
