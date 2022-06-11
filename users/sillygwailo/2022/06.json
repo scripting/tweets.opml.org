@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 00:21:01 GMT"
+            "dateModified": "Sat, 11 Jun 2022 03:19:43 GMT"
         },
         "body": {
             "subs": [
@@ -169,7 +169,19 @@
                                     "tweetId": "1534621650745950208",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1534621650745950208",
                                     "inReplyToId": "1531050035248611328",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Big day tomorrow. <a href=\"https://t.co/cjoY5uE5v5\">[link]</a>",
+                                            "rawText": "Big day tomorrow. https://t.co/cjoY5uE5v5",
+                                            "type": "tweet",
+                                            "created": "Sat, 11 Jun 2022 03:09:30 GMT",
+                                            "tweetId": "1535459180114595840",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1535459180114595840",
+                                            "inReplyToId": "1534621650745950208",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "“No, really, is this a joke?” <a href=\"https://t.co/otdFfmvtzb\">[link]</a>",
