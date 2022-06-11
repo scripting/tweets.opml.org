@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 23:18:42 GMT"
+            "dateModified": "Sat, 11 Jun 2022 11:38:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@RepScottPerry all you have to is publicly swear on a bible in front of a judge to say it is not true",
+                                    "rawText": "@RepScottPerry all you have to is publicly swear on a bible in front of a judge to say it is not true",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 11:35:34 GMT",
+                                    "tweetId": "1535586533314535425",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1535586533314535425",
+                                    "inReplyToId": "1535286403982151681",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
