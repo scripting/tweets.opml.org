@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 14:31:08 GMT"
+            "dateModified": "Sat, 11 Jun 2022 18:35:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Thread <a href=\"https://t.co/V1rWUkRFWD\">[link]</a>",
+                                    "rawText": "Thread https://t.co/V1rWUkRFWD",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 18:25:14 GMT",
+                                    "tweetId": "1535689629269204992",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1535689629269204992",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
