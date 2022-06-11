@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 08 Jun 2022 11:39:45 GMT"
+            "dateModified": "Sat, 11 Jun 2022 18:27:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@peternlewis OMG! That is the ONLY way I can use System Prefs now. This is the user hostility we have to look forward to? What kind of savage doesn't make an alphabetize option?",
+                                    "rawText": "@peternlewis OMG! That is the ONLY way I can use System Prefs now. This is the user hostility we have to look forward to? What kind of savage doesn't make an alphabetize option?",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 18:24:34 GMT",
+                                    "tweetId": "1535689462700773376",
+                                    "urltweet": "https://twitter.com/cshotton/status/1535689462700773376",
+                                    "inReplyToId": "1535426383039860736",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
