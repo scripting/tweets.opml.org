@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 03:50:15 GMT"
+            "dateModified": "Sat, 11 Jun 2022 04:28:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@kimber_fly87 what a lovely image.",
+                                    "rawText": "@kimber_fly87 what a lovely image.",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 04:21:41 GMT",
+                                    "tweetId": "1535477343107502081",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1535477343107502081",
+                                    "inReplyToId": "1535312482444754951",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
