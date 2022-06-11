@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 06:37:25 GMT"
+            "dateModified": "Sat, 11 Jun 2022 06:50:11 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 11 Jun 2022 06:33:25 GMT",
                                     "tweetId": "1535510496341856257",
                                     "urltweet": "https://twitter.com/_cprecioso/status/1535510496341856257",
-                                    "tweetUserName": "_cprecioso"
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "La habían abierto ayer y estaba a punto de caducar 😂 ojalá ser mutante",
+                                            "rawText": "La habían abierto ayer y estaba a punto de caducar 😂 ojalá ser mutante",
+                                            "type": "tweet",
+                                            "created": "Sat, 11 Jun 2022 06:37:50 GMT",
+                                            "tweetId": "1535511609027829760",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1535511609027829760",
+                                            "inReplyToId": "1535510496341856257",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
                                 }
                             ]
                         },
