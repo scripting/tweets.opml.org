@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 01:21:17 GMT"
+            "dateModified": "Sat, 11 Jun 2022 18:11:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Interesting article. <a href=\"https://t.co/nKInT3AKMX\">[link]</a>",
+                                    "rawText": "Interesting article. https://t.co/nKInT3AKMX",
+                                    "type": "tweet",
+                                    "created": "Sat, 11 Jun 2022 18:01:34 GMT",
+                                    "tweetId": "1535683674083139585",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1535683674083139585",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 9",
                             "type": "calendarDay",
