@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 11:47:33 GMT"
+            "dateModified": "Sun, 12 Jun 2022 12:13:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/fFeievh9iZ\">[link]</a>",
+                                    "rawText": "https://t.co/fFeievh9iZ",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 12:09:44 GMT",
+                                    "tweetId": "1535957523420823552",
+                                    "urltweet": "https://twitter.com/davewiner/status/1535957523420823552",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@simnett I agreed with you. That’s what 💯 means. Also I don’t argue on Twitter.",
                                     "rawText": "@simnett I agreed with you. That’s what 💯 means. Also I don’t argue on Twitter.",
