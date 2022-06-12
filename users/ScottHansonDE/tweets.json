@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 16:29:51 GMT"
+            "dateModified": "Sun, 12 Jun 2022 16:42:52 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "12",
                             "subs": [
                                 {
+                                    "text": "@JReggel First time for us, we never imagined there’d be so many people! Da steppt der Bär!",
+                                    "rawText": "@JReggel First time for us, we never imagined there’d be so many people! Da steppt der Bär!",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 16:36:14 GMT",
+                                    "tweetId": "1536024590056665100",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1536024590056665100",
+                                    "inReplyToId": "1535972312952061953",
+                                    "tweetUserName": "ScottHansonDE"
+                                },
+                                {
                                     "text": "Another 45 km biked today (Jork to Stade and back, through the Altes Land where they grow the apples) and we’re pooped! 120 km over 2 days. Now we’re home, so we’ll just get take-out and go to bed before dark. <a href=\"https://t.co/bluMxltQv9\">[link]</a>",
                                     "rawText": "Another 45 km biked today (Jork to Stade and back, through the Altes Land where they grow the apples) and we’re pooped! 120 km over 2 days. Now we’re home, so we’ll just get take-out and go to bed before dark. https://t.co/bluMxltQv9",
                                     "type": "tweet",
                                     "created": "Sun, 12 Jun 2022 16:19:11 GMT",
                                     "tweetId": "1536020296100204544",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1536020296100204544",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "In three pieces because I’m still figuring out @komoot, which gave great audio navigation and visual directions to my watch with the iPhone in offline mode. Wasn’t able to figure out how to bail out of a planned tour on the fly, though. We were tired and hungry! <a href=\"https://t.co/NxdQ3zk2ug\">[link]</a>",
+                                            "rawText": "In three pieces because I’m still figuring out @komoot, which gave great audio navigation and visual directions to my watch with the iPhone in offline mode. Wasn’t able to figure out how to bail out of a planned tour on the fly, though. We were tired and hungry! https://t.co/NxdQ3zk2ug",
+                                            "type": "tweet",
+                                            "created": "Sun, 12 Jun 2022 16:31:46 GMT",
+                                            "tweetId": "1536023462933942274",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1536023462933942274",
+                                            "inReplyToId": "1536020296100204544",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Today‘s Fischbrotchen is at the Lühe ferry dock near Jork <a href=\"https://t.co/OhRew5SPjg\">[link]</a>",
