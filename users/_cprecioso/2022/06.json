@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 17:02:50 GMT"
+            "dateModified": "Sun, 12 Jun 2022 09:12:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@rob_candado Una lloradita y a seguir funcionando",
+                                    "rawText": "@rob_candado Una lloradita y a seguir funcionando",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 09:05:27 GMT",
+                                    "tweetId": "1535911145940336640",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1535911145940336640",
+                                    "inReplyToId": "1535910764279746560",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@rob_candado Que violento te has despertado",
+                                    "rawText": "@rob_candado Que violento te has despertado",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 09:01:01 GMT",
+                                    "tweetId": "1535910029202710528",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1535910029202710528",
+                                    "inReplyToId": "1535899889867038720",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 11",
                             "type": "calendarDay",
