@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 21:54:12 GMT"
+            "dateModified": "Sun, 12 Jun 2022 23:12:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,59 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@jbf1755 I wrote a story about yellowjackets in 1996.\n\n<a href=\"https://t.co/ogZDKoAeLO\">[link]</a>",
+                                    "rawText": "@jbf1755 I wrote a story about yellowjackets in 1996.\n\nhttps://t.co/ogZDKoAeLO",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 23:10:41 GMT",
+                                    "tweetId": "1536123855777013760",
+                                    "urltweet": "https://twitter.com/davewiner/status/1536123855777013760",
+                                    "inReplyToId": "1536122437947072512",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@marshallk I wrote something similar yesterday. <a href=\"https://t.co/C2EVwtFlaG\">[link]</a>",
+                                    "rawText": "@marshallk I wrote something similar yesterday. https://t.co/C2EVwtFlaG",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 23:07:59 GMT",
+                                    "tweetId": "1536123175699881985",
+                                    "urltweet": "https://twitter.com/davewiner/status/1536123175699881985",
+                                    "inReplyToId": "1536116211120934913",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "The 2022 twenty-year review of RSS 2.0 is now officially underway, with the release of the reallysimple package.",
+                                    "rawText": "The 2022 twenty-year review of RSS 2.0 is now officially underway, with the release of the reallysimple package.",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 23:05:57 GMT",
+                                    "tweetId": "1536122665890635778",
+                                    "urltweet": "https://twitter.com/davewiner/status/1536122665890635778",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I know not many people are paying attention yet, but this is the beginning of a new stack of open source feed tools. \n\nBy the time we get to Sept 18, a nice new barn should be raised.",
+                                            "rawText": "I know not many people are paying attention yet, but this is the beginning of a new stack of open source feed tools. \n\nBy the time we get to Sept 18, a nice new barn should be raised.",
+                                            "type": "tweet",
+                                            "created": "Sun, 12 Jun 2022 23:05:58 GMT",
+                                            "tweetId": "1536122667371216896",
+                                            "urltweet": "https://twitter.com/davewiner/status/1536122667371216896",
+                                            "inReplyToId": "1536122665890635778",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "Here's the URL of the reallysimple package repo.\n\n<a href=\"https://t.co/otEAkoqmuI\">[link]</a>",
+                                                    "rawText": "Here's the URL of the reallysimple package repo.\n\nhttps://t.co/otEAkoqmuI",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 12 Jun 2022 23:05:58 GMT",
+                                                    "tweetId": "1536122668776402945",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1536122668776402945",
+                                                    "inReplyToId": "1536122667371216896",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Do you subscribe to The NY Times?",
                                     "rawText": "Do you subscribe to The NY Times?",
