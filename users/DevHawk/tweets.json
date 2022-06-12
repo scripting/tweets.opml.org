@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 08 Jun 2022 18:04:33 GMT"
+            "dateModified": "Sun, 12 Jun 2022 19:21:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "My eldest son Patrick is home from university for the summer, interning as a technician for Tesla. We drove by so he knows where he is going tomorrow. Gonna be nice having him home for a while. <a href=\"https://t.co/4NkbPWI0MQ\">[link]</a>",
+                                    "rawText": "My eldest son Patrick is home from university for the summer, interning as a technician for Tesla. We drove by so he knows where he is going tomorrow. Gonna be nice having him home for a while. https://t.co/4NkbPWI0MQ",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 19:11:15 GMT",
+                                    "tweetId": "1536063601689391104",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1536063601689391104",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 8",
                             "type": "calendarDay",
