@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 17:07:53 GMT"
+            "dateModified": "Sun, 12 Jun 2022 18:25:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "What Happened to RSS? <a href=\"https://t.co/BMQDGuMjpV\">[link]</a>",
+                                    "rawText": "What Happened to RSS? https://t.co/BMQDGuMjpV",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 18:16:56 GMT",
+                                    "tweetId": "1536049928631369729",
+                                    "urltweet": "https://twitter.com/davewiner/status/1536049928631369729",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@donpark Gotta write docs too. 😀",
                                     "rawText": "@donpark Gotta write docs too. 😀",
