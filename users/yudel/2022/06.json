@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 02:53:28 GMT"
+            "dateModified": "Sun, 12 Jun 2022 05:26:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@MisfitTorah @shoshkabob <a href=\"https://t.co/99axmdrRxp\">[link]</a>",
+                                    "rawText": "@MisfitTorah @shoshkabob https://t.co/99axmdrRxp",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 05:14:50 GMT",
+                                    "tweetId": "1535853107623735299",
+                                    "urltweet": "https://twitter.com/yudel/status/1535853107623735299",
+                                    "inReplyToId": "1535849595351273472",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 11",
                             "type": "calendarDay",
