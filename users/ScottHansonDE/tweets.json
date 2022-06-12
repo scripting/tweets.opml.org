@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 18:21:55 GMT"
+            "dateModified": "Sun, 12 Jun 2022 08:24:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@PurlTurtle @ClaireSmith1848 We were once stuck with DJ Ötzi on a cruise ship during a storm in the Mediterranean. Don’t ask.",
+                                    "rawText": "@PurlTurtle @ClaireSmith1848 We were once stuck with DJ Ötzi on a cruise ship during a storm in the Mediterranean. Don’t ask.",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 08:21:22 GMT",
+                                    "tweetId": "1535900052178214913",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1535900052178214913",
+                                    "inReplyToId": "1535876231131963393",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 11",
                             "type": "calendarDay",
