@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 12:58:50 GMT"
+            "dateModified": "Sun, 12 Jun 2022 08:58:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Gutenberg Changelog #68 - WordCamp Europe, Gutenberg 13.4 and WordPress 6.1 - co-hosts Mary Job @maryojob + Birgit Pauli-Haack @bph discuss with Dave Smith @get_dave the latest release, what's to come in WordPres 6.1 and so much more <a href=\"https://t.co/FkhAWKAbwh\">[link]</a>",
+                                    "rawText": "Gutenberg Changelog #68 - WordCamp Europe, Gutenberg 13.4 and WordPress 6.1 - co-hosts Mary Job @maryojob + Birgit Pauli-Haack @bph discuss with Dave Smith @get_dave the latest release, what's to come in WordPres 6.1 and so much more https://t.co/FkhAWKAbwh",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 08:57:41 GMT",
+                                    "tweetId": "1535909188668358656",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1535909188668358656",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 11",
                             "type": "calendarDay",
