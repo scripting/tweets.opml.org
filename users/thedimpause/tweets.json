@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 10:44:38 GMT"
+            "dateModified": "Sun, 12 Jun 2022 07:12:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "♫ My Top #lastfm artist: The Utopia Strong (9) #lastfm via @tweeklyfm",
+                                    "rawText": "♫ My Top #lastfm artist: The Utopia Strong (9) #lastfm via @tweeklyfm",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 07:00:24 GMT",
+                                    "tweetId": "1535879673195900928",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1535879673195900928",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
