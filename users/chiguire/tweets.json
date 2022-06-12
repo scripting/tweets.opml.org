@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 10 Jun 2022 13:33:34 GMT"
+            "dateModified": "Sun, 12 Jun 2022 21:10:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@tef_ebooks @emfcamp Is that 110? It surely takes me back",
+                                    "rawText": "@tef_ebooks @emfcamp Is that 110? It surely takes me back",
+                                    "type": "tweet",
+                                    "created": "Sun, 12 Jun 2022 21:00:15 GMT",
+                                    "tweetId": "1536091029492973568",
+                                    "urltweet": "https://twitter.com/chiguire/status/1536091029492973568",
+                                    "inReplyToId": "1534571500417712128",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 10",
                             "type": "calendarDay",
