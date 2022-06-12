@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 20:15:05 GMT"
+            "dateModified": "Sun, 12 Jun 2022 23:17:17 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,31 @@
                                             "tweetId": "1536065621070340097",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1536065621070340097",
                                             "inReplyToId": "1536059543385427968",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "An hour delay,with the plane stuck at the gate. It’s hard to get mad when there’s so much to do (read a book, watch a movie, try to catch the eye of the ground crew and wave at them).",
+                                                    "rawText": "An hour delay,with the plane stuck at the gate. It’s hard to get mad when there’s so much to do (read a book, watch a movie, try to catch the eye of the ground crew and wave at them).",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 12 Jun 2022 23:12:54 GMT",
+                                                    "tweetId": "1536124410968408065",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1536124410968408065",
+                                                    "inReplyToId": "1536065621070340097",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "I’m in the air now. Long flights are where I try to make a decision or two, deciding being the thing I hate doing the most.",
+                                                            "rawText": "I’m in the air now. Long flights are where I try to make a decision or two, deciding being the thing I hate doing the most.",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 12 Jun 2022 23:12:55 GMT",
+                                                            "tweetId": "1536124415439581184",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1536124415439581184",
+                                                            "inReplyToId": "1536124410968408065",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
