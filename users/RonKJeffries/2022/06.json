@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 02:50:31 GMT"
+            "dateModified": "Mon, 13 Jun 2022 10:26:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@erinbeess @hardmaru you may need to seek police protection.",
+                                    "rawText": "@erinbeess @hardmaru you may need to seek police protection.",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 10:24:36 GMT",
+                                    "tweetId": "1536293450844209153",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1536293450844209153",
+                                    "inReplyToId": "1536274162188263424",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@PhoneArena gmafb",
+                                    "rawText": "@PhoneArena gmafb",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 10:22:07 GMT",
+                                    "tweetId": "1536292825922383873",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1536292825922383873",
+                                    "inReplyToId": "1536291559955648517",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
