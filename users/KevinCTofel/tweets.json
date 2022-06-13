@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 13:51:11 GMT"
+            "dateModified": "Mon, 13 Jun 2022 16:55:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Google is working to bring pinned, floating windows to Chromebooks. Recent code shows that Chrome OS tablets will get resizable windows too. <a href=\"https://t.co/yMZ7CD6ZGu\">[link]</a>",
+                                    "rawText": "Google is working to bring pinned, floating windows to Chromebooks. Recent code shows that Chrome OS tablets will get resizable windows too. https://t.co/yMZ7CD6ZGu",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 16:52:44 GMT",
+                                    "tweetId": "1536391128517419011",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1536391128517419011",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
