@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 16:38:24 GMT"
+            "dateModified": "Mon, 13 Jun 2022 18:35:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "HYFR. <a href=\"https://t.co/6KzdwXXNZY\">[link]</a>",
+                                    "rawText": "HYFR. https://t.co/6KzdwXXNZY",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 18:33:00 GMT",
+                                    "tweetId": "1536416360544161792",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1536416360544161792",
+                                    "inReplyToId": "1516846029462716418",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
