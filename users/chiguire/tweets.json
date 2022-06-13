@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 09:32:27 GMT"
+            "dateModified": "Mon, 13 Jun 2022 09:58:29 GMT"
         },
         "body": {
             "subs": [
@@ -554,7 +554,19 @@
                                     "tweetId": "1532774987379138562",
                                     "urltweet": "https://twitter.com/chiguire/status/1532774987379138562",
                                     "inReplyToId": "1531915055129837568",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "🚘\n#Heardle #108\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\n<a href=\"https://t.co/Z6l3YYHVOw\">[link]</a>",
+                                            "rawText": "🚘\n#Heardle #108\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\nhttps://t.co/Z6l3YYHVOw",
+                                            "type": "tweet",
+                                            "created": "Mon, 13 Jun 2022 09:49:58 GMT",
+                                            "tweetId": "1536284735991066626",
+                                            "urltweet": "https://twitter.com/chiguire/status/1536284735991066626",
+                                            "inReplyToId": "1532774987379138562",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@TheArduinoGuy @emfcamp Or how many were submitted at all, in the first place. If there were too few of them, why? How can EMF and the community reach out to close the gap?",
