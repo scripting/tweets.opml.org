@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 06 Jun 2022 12:55:28 GMT"
+            "dateModified": "Mon, 13 Jun 2022 17:09:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@jr_pritchard Lucky you! I just finished my exams — but I’ve still got project reports to mark.",
+                                    "rawText": "@jr_pritchard Lucky you! I just finished my exams — but I’ve still got project reports to mark.",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 17:09:09 GMT",
+                                    "tweetId": "1536395261253148674",
+                                    "urltweet": "https://twitter.com/defjaf/status/1536395261253148674",
+                                    "inReplyToId": "1536346915435991045",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 6",
                             "type": "calendarDay",
