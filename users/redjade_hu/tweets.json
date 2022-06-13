@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 11:38:59 GMT"
+            "dateModified": "Mon, 13 Jun 2022 17:18:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@neeratanden Neera, you are lying about @Snowden - please stop.",
+                                    "rawText": "@neeratanden Neera, you are lying about @Snowden - please stop.",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 17:16:39 GMT",
+                                    "tweetId": "1536397147918450688",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1536397147918450688",
+                                    "inReplyToId": "1536304134365892613",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 11",
                             "type": "calendarDay",
