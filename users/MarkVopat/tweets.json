@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 17:50:41 GMT"
+            "dateModified": "Mon, 13 Jun 2022 01:52:12 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@adamkotsko Simon and <a href=\"https://t.co/jvdV8Z9oxt\">[link]</a>",
+                                    "rawText": "@adamkotsko Simon and https://t.co/jvdV8Z9oxt",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 01:43:13 GMT",
+                                    "tweetId": "1536162240629510148",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1536162240629510148",
+                                    "inReplyToId": "1536152679407304704",
+                                    "tweetUserName": "MarkVopat"
+                                },
                                 {
                                     "text": "@karenosstf ✋",
                                     "rawText": "@karenosstf ✋",
