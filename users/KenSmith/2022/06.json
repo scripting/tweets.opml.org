@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 13:43:10 GMT"
+            "dateModified": "Mon, 13 Jun 2022 18:05:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Writers often use commonplace books to record quotations that they may want to come back to someday and build on. For writers who don't have much of an audience on Twitter, Twitter itself acts like an easy-to-write-in but not-easy-to-read-later commonplace book. So, not so good.",
+                                    "rawText": "Writers often use commonplace books to record quotations that they may want to come back to someday and build on. For writers who don't have much of an audience on Twitter, Twitter itself acts like an easy-to-write-in but not-easy-to-read-later commonplace book. So, not so good.",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 18:05:04 GMT",
+                                    "tweetId": "1536409331696029699",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1536409331696029699",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
