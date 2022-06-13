@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 18:43:02 GMT"
+            "dateModified": "Mon, 13 Jun 2022 19:09:04 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 13 Jun 2022 18:36:53 GMT",
                                     "tweetId": "1536417340539260935",
                                     "urltweet": "https://twitter.com/Latz/status/1536417340539260935",
-                                    "tweetUserName": "Latz"
+                                    "tweetUserName": "Latz",
+                                    "subs": [
+                                        {
+                                            "text": "Schade, jetzt müsste ich vor dem Ende des Talks los, um mit dem ÖPNV noch nach Hause zu kommen. #wmks",
+                                            "rawText": "Schade, jetzt müsste ich vor dem Ende des Talks los, um mit dem ÖPNV noch nach Hause zu kommen. #wmks",
+                                            "type": "tweet",
+                                            "created": "Mon, 13 Jun 2022 18:56:22 GMT",
+                                            "tweetId": "1536422242745298946",
+                                            "urltweet": "https://twitter.com/Latz/status/1536422242745298946",
+                                            "inReplyToId": "1536417340539260935",
+                                            "tweetUserName": "Latz"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "... und weiter geht's. #wmks <a href=\"https://t.co/g5ZCQRPLst\">[link]</a>",
