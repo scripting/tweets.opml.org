@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 22:05:27 GMT"
+            "dateModified": "Mon, 13 Jun 2022 07:25:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Skopje",
+                                    "rawText": "Skopje",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 07:17:15 GMT",
+                                    "tweetId": "1536246301490282496",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1536246301490282496",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
