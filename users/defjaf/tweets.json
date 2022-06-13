@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 17:09:41 GMT"
+            "dateModified": "Mon, 13 Jun 2022 17:22:42 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1536395261253148674",
                                     "urltweet": "https://twitter.com/defjaf/status/1536395261253148674",
                                     "inReplyToId": "1536346915435991045",
-                                    "tweetUserName": "defjaf"
+                                    "tweetUserName": "defjaf",
+                                    "subs": [
+                                        {
+                                            "text": "@jr_pritchard I also note mild linguistic irony that I wrote “mark” and you wrote “grading”.",
+                                            "rawText": "@jr_pritchard I also note mild linguistic irony that I wrote “mark” and you wrote “grading”.",
+                                            "type": "tweet",
+                                            "created": "Mon, 13 Jun 2022 17:09:44 GMT",
+                                            "tweetId": "1536395405340155904",
+                                            "urltweet": "https://twitter.com/defjaf/status/1536395405340155904",
+                                            "inReplyToId": "1536395261253148674",
+                                            "tweetUserName": "defjaf"
+                                        }
+                                    ]
                                 }
                             ]
                         },
