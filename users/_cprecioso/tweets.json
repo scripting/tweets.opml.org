@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 09:22:11 GMT"
+            "dateModified": "Mon, 13 Jun 2022 09:35:12 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "por cierto quien se viene a berlin conmigo? me sobra una cama",
+                                    "rawText": "por cierto quien se viene a berlin conmigo? me sobra una cama",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 09:31:54 GMT",
+                                    "tweetId": "1536280188056748033",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1536280188056748033",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "esto es 100% real",
+                                            "rawText": "esto es 100% real",
+                                            "type": "tweet",
+                                            "created": "Mon, 13 Jun 2022 09:31:59 GMT",
+                                            "tweetId": "1536280209435000832",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1536280209435000832",
+                                            "inReplyToId": "1536280188056748033",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "chicos el martes en berlin vamos a ver a tiesto o a kitkat?",
                                     "rawText": "chicos el martes en berlin vamos a ver a tiesto o a kitkat?",
