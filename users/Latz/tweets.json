@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 19:37:00 GMT"
+            "dateModified": "Mon, 13 Jun 2022 16:32:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "#wmks <a href=\"https://t.co/wj6jkfjOcj\">[link]</a>",
+                                    "rawText": "#wmks https://t.co/wj6jkfjOcj",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 16:22:12 GMT",
+                                    "tweetId": "1536383446528020481",
+                                    "urltweet": "https://twitter.com/Latz/status/1536383446528020481",
+                                    "tweetUserName": "Latz"
+                                },
+                                {
+                                    "text": "Angekommen. #wmks <a href=\"https://t.co/OEltJCu9br\">[link]</a>",
+                                    "rawText": "Angekommen. #wmks https://t.co/OEltJCu9br",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 16:20:41 GMT",
+                                    "tweetId": "1536383063210479617",
+                                    "urltweet": "https://twitter.com/Latz/status/1536383063210479617",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 11",
                             "type": "calendarDay",
