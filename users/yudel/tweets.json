@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 04:00:35 GMT"
+            "dateModified": "Mon, 13 Jun 2022 04:26:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@shaifranklin Seems like this calls for a Golda simulacrum. <a href=\"https://t.co/56kccaEYmB\">[link]</a>",
+                                    "rawText": "@shaifranklin Seems like this calls for a Golda simulacrum. https://t.co/56kccaEYmB",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 04:15:48 GMT",
+                                    "tweetId": "1536200640988422146",
+                                    "urltweet": "https://twitter.com/yudel/status/1536200640988422146",
+                                    "inReplyToId": "1536200064388976640",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
