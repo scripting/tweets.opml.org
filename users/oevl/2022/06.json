@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 02:35:00 GMT"
+            "dateModified": "Mon, 13 Jun 2022 15:35:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Ted Nelson's Eulogy for Douglas Engelbart <a href=\"https://t.co/UZ5C4Ad0l5\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Ted Nelson's Eulogy for Douglas Engelbart https://t.co/UZ5C4Ad0l5",
+                                    "type": "tweet",
+                                    "created": "Mon, 13 Jun 2022 15:28:19 GMT",
+                                    "tweetId": "1536369883536969729",
+                                    "urltweet": "https://twitter.com/oevl/status/1536369883536969729",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
