@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 02:06:46 GMT"
+            "dateModified": "Tue, 14 Jun 2022 09:29:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Wordle 360 2/6\n\n🟨🟨🟨🟨🟨\n🟩🟩🟩🟩🟩\n\nWell, that was different…",
+                                    "rawText": "Wordle 360 2/6\n\n🟨🟨🟨🟨🟨\n🟩🟩🟩🟩🟩\n\nWell, that was different…",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 09:25:56 GMT",
+                                    "tweetId": "1536641074260611072",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1536641074260611072",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
