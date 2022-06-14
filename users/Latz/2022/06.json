@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 19:09:04 GMT"
+            "dateModified": "Tue, 14 Jun 2022 09:14:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Pflichtgemäßer Wartezimmertweet. <a href=\"https://t.co/yLK9GJRt7E\">[link]</a>",
+                                    "rawText": "Pflichtgemäßer Wartezimmertweet. https://t.co/yLK9GJRt7E",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 09:11:21 GMT",
+                                    "tweetId": "1536637405146529792",
+                                    "urltweet": "https://twitter.com/Latz/status/1536637405146529792",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
