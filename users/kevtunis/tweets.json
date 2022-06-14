@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 18:36:44 GMT"
+            "dateModified": "Tue, 14 Jun 2022 20:55:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@wpcrafter when is SureCart going to launch ?",
+                                    "rawText": "@wpcrafter when is SureCart going to launch ?",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 20:49:05 GMT",
+                                    "tweetId": "1536812995656962058",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1536812995656962058",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
