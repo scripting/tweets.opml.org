@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 04:03:08 GMT"
+            "dateModified": "Tue, 14 Jun 2022 11:51:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Hear Bob Dylan Honor the Grateful Dead With Friend of the Devil. <a href=\"https://t.co/sE7ZBvgXJu\">[link]</a>",
+                                    "rawText": "Hear Bob Dylan Honor the Grateful Dead With Friend of the Devil. https://t.co/sE7ZBvgXJu",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 11:49:12 GMT",
+                                    "tweetId": "1536677131152941056",
+                                    "urltweet": "https://twitter.com/davewiner/status/1536677131152941056",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "What the stock market is saying about the economy. <a href=\"https://t.co/JJdU41G3yn\">[link]</a>",
+                                    "rawText": "What the stock market is saying about the economy. https://t.co/JJdU41G3yn",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 11:44:33 GMT",
+                                    "tweetId": "1536675958152912898",
+                                    "urltweet": "https://twitter.com/davewiner/status/1536675958152912898",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
