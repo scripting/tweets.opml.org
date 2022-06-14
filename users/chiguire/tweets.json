@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 22:59:19 GMT"
+            "dateModified": "Tue, 14 Jun 2022 08:57:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Piñita update 🍍 <a href=\"https://t.co/YY4kuaOUQO\">[link]</a>",
+                                    "rawText": "Piñita update 🍍 https://t.co/YY4kuaOUQO",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 08:50:43 GMT",
+                                    "tweetId": "1536632213277757442",
+                                    "urltweet": "https://twitter.com/chiguire/status/1536632213277757442",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Así llegó a casa <a href=\"https://t.co/LrRpn2k3kp\">[link]</a>",
+                                            "rawText": "Así llegó a casa https://t.co/LrRpn2k3kp",
+                                            "type": "tweet",
+                                            "created": "Tue, 14 Jun 2022 08:51:56 GMT",
+                                            "tweetId": "1536632520070012934",
+                                            "urltweet": "https://twitter.com/chiguire/status/1536632520070012934",
+                                            "inReplyToId": "1536632213277757442",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
