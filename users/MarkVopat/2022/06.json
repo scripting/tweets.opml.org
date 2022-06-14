@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 02:05:13 GMT"
+            "dateModified": "Tue, 14 Jun 2022 00:38:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@OrNistar @adamkotsko That. Is. Fantastic.",
+                                    "rawText": "@OrNistar @adamkotsko That. Is. Fantastic.",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 00:26:32 GMT",
+                                    "tweetId": "1536505331269894144",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1536505331269894144",
+                                    "inReplyToId": "1536339003787591680",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
