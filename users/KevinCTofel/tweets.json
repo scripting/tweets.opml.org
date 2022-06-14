@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 22:07:30 GMT"
+            "dateModified": "Tue, 14 Jun 2022 06:09:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Resizable floating windows coming to Chrome OS tablets <a href=\"https://t.co/yMZ7CD6ZGu\">[link]</a> https://t.co/MoASB22c8m",
+                                    "rawText": "ICYMI: Resizable floating windows coming to Chrome OS tablets https://t.co/yMZ7CD6ZGu https://t.co/MoASB22c8m",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 05:57:02 GMT",
+                                    "tweetId": "1536588502556717056",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1536588502556717056",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
