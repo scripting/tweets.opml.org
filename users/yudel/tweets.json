@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 18:11:03 GMT"
+            "dateModified": "Tue, 14 Jun 2022 19:42:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "Oooh. Interesting symposium tomorrow on new book on important topic. <a href=\"https://t.co/Ib0QtDYBkR\">[link]</a>",
+                                    "rawText": "Oooh. Interesting symposium tomorrow on new book on important topic. https://t.co/Ib0QtDYBkR",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 19:40:09 GMT",
+                                    "tweetId": "1536795649492099073",
+                                    "urltweet": "https://twitter.com/yudel/status/1536795649492099073",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Might interest @froomkin",
+                                            "rawText": "Might interest @froomkin",
+                                            "type": "tweet",
+                                            "created": "Tue, 14 Jun 2022 19:40:28 GMT",
+                                            "tweetId": "1536795726210125829",
+                                            "urltweet": "https://twitter.com/yudel/status/1536795726210125829",
+                                            "inReplyToId": "1536795649492099073",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@dzkalman Real spaces only work as civil environments because of actual or forced group cohesion. Allowing people to check out if the surrounding virtual group gets abusive seems a somewhat reasonable compromise.",
+                                    "rawText": "@dzkalman Real spaces only work as civil environments because of actual or forced group cohesion. Allowing people to check out if the surrounding virtual group gets abusive seems a somewhat reasonable compromise.",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 19:36:01 GMT",
+                                    "tweetId": "1536794607152922624",
+                                    "urltweet": "https://twitter.com/yudel/status/1536794607152922624",
+                                    "inReplyToId": "1536792743200030721",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@SamuelSpinner @DBashIdeas @JewYid I would assume it entered via Yiddish speakers — but Hebrew has a (reportedly nuclear-equipped) navy, so I wouldn’t want to litigate the linguistic status of lashon kodesh.",
                                     "rawText": "@SamuelSpinner @DBashIdeas @JewYid I would assume it entered via Yiddish speakers — but Hebrew has a (reportedly nuclear-equipped) navy, so I wouldn’t want to litigate the linguistic status of lashon kodesh.",
