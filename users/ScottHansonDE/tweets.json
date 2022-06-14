@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 13:19:12 GMT"
+            "dateModified": "Tue, 14 Jun 2022 21:12:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "The dogcow is back! <a href=\"https://t.co/rezDre5kDe\">[link]</a>",
+                                    "rawText": "The dogcow is back! https://t.co/rezDre5kDe",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 21:09:46 GMT",
+                                    "tweetId": "1536818201190973441",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1536818201190973441",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
