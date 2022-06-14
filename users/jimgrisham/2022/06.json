@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 15:15:16 GMT"
+            "dateModified": "Tue, 14 Jun 2022 02:48:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,35 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@JayD_JDee @ComEd The outages appear to be tons of separate small groups, in a swath following the storm’s path from the western / northwest suburbs (as far north as Lake Zurich) into southeastern Chicago.\n\nMost of these outages will have to be investigated and repaired separately.",
+                                    "rawText": "@JayD_JDee @ComEd The outages appear to be tons of separate small groups, in a swath following the storm’s path from the western / northwest suburbs (as far north as Lake Zurich) into southeastern Chicago.\n\nMost of these outages will have to be investigated and repaired separately.",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 02:40:56 GMT",
+                                    "tweetId": "1536539152719675397",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1536539152719675397",
+                                    "inReplyToId": "1536517444352843777",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@JayD_JDee @ComEd Many people should have power back by morning …\n\n… but isolated areas with equipment damage could take quite a bit longer.",
+                                            "rawText": "@JayD_JDee @ComEd Many people should have power back by morning …\n\n… but isolated areas with equipment damage could take quite a bit longer.",
+                                            "type": "tweet",
+                                            "created": "Tue, 14 Jun 2022 02:41:48 GMT",
+                                            "tweetId": "1536539370336964609",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1536539370336964609",
+                                            "inReplyToId": "1536539152719675397",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
