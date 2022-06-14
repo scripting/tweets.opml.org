@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 00:39:55 GMT"
+            "dateModified": "Tue, 14 Jun 2022 06:05:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "This is funny not least because the headline makes it sound like officials not only know which specific beaver did it, but are withholding its name from the public. <a href=\"https://t.co/1a6iv338WG\">[link]</a>",
+                                    "rawText": "This is funny not least because the headline makes it sound like officials not only know which specific beaver did it, but are withholding its name from the public. https://t.co/1a6iv338WG",
+                                    "type": "tweet",
+                                    "created": "Tue, 14 Jun 2022 05:54:19 GMT",
+                                    "tweetId": "1536587820596269057",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1536587820596269057",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
