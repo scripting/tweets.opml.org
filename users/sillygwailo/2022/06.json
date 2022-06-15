@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 07:01:52 GMT"
+            "dateModified": "Wed, 15 Jun 2022 19:23:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Who do I know, or who knows me, that’ll be in Toronto for #CollisionConf next week? I’ll be in town too!",
+                                    "rawText": "Who do I know, or who knows me, that’ll be in Toronto for #CollisionConf next week? I’ll be in town too!",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 19:20:24 GMT",
+                                    "tweetId": "1537153065744158720",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1537153065744158720",
+                                    "inReplyToId": "1529892072634859521",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
