@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 21:12:14 GMT"
+            "dateModified": "Wed, 15 Jun 2022 16:56:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Electron has had so many breaking changes they have an entire webpage devoted to breaking changes! 😂 @davewiner <a href=\"https://t.co/lxkqwyLcRD\">[link]</a>",
+                                    "rawText": "Electron has had so many breaking changes they have an entire webpage devoted to breaking changes! 😂 @davewiner https://t.co/lxkqwyLcRD",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 16:52:14 GMT",
+                                    "tweetId": "1537115777995788291",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1537115777995788291",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
