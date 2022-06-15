@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 09:42:15 GMT"
+            "dateModified": "Wed, 15 Jun 2022 12:22:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "I wonder if Einstein overstated the case here . . . <a href=\"https://t.co/dStOnyPUOc\">[link]</a>",
+                                    "rawText": "I wonder if Einstein overstated the case here . . . https://t.co/dStOnyPUOc",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 12:10:32 GMT",
+                                    "tweetId": "1537044887580749825",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1537044887580749825",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
