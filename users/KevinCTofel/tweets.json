@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 22:25:04 GMT"
+            "dateModified": "Wed, 15 Jun 2022 05:21:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Chrome OS 103 Linux Terminal is prepped for Guest OS installs, aka Bruschetta <a href=\"https://t.co/rQTlNZnG2d\">[link]</a> https://t.co/M19Eqki2UO",
+                                    "rawText": "ICYMI: Chrome OS 103 Linux Terminal is prepped for Guest OS installs, aka Bruschetta https://t.co/rQTlNZnG2d https://t.co/M19Eqki2UO",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 05:09:02 GMT",
+                                    "tweetId": "1536938812001198080",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1536938812001198080",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
