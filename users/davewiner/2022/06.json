@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 19:57:42 GMT"
+            "dateModified": "Wed, 15 Jun 2022 21:02:46 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "I like this image. <a href=\"https://t.co/qBAknBfQ1q\">[link]</a>",
+                                    "rawText": "I like this image. https://t.co/qBAknBfQ1q",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 21:01:57 GMT",
+                                    "tweetId": "1537178623685189632",
+                                    "urltweet": "https://twitter.com/davewiner/status/1537178623685189632",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@corikesler your friends are relieved too. ❤️",
+                                    "rawText": "@corikesler your friends are relieved too. ❤️",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 21:00:51 GMT",
+                                    "tweetId": "1537178343543820290",
+                                    "urltweet": "https://twitter.com/davewiner/status/1537178343543820290",
+                                    "inReplyToId": "1537165530183835649",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Fauci tests positive for COVID. <a href=\"https://t.co/7xCAMPctCy\">[link]</a>",
                                     "rawText": "Fauci tests positive for COVID. https://t.co/7xCAMPctCy",
