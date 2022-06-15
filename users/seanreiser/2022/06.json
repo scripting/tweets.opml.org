@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 11 Jun 2022 20:58:05 GMT"
+            "dateModified": "Wed, 15 Jun 2022 23:16:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@benji17fisher Just finished watching your security talk from DrupalCamp NJ, you confirmed a lot of my practices when it comes to security updates, thank you.  I posted some thoughts on my blog <a href=\"https://t.co/gSyHpomyjC\">[link]</a>\n\nThank you!  #drupal",
+                                    "rawText": "@benji17fisher Just finished watching your security talk from DrupalCamp NJ, you confirmed a lot of my practices when it comes to security updates, thank you.  I posted some thoughts on my blog https://t.co/gSyHpomyjC\n\nThank you!  #drupal",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 23:09:13 GMT",
+                                    "tweetId": "1537210648035303424",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1537210648035303424",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 11",
                             "type": "calendarDay",
