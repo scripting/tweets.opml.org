@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 19:19:17 GMT"
+            "dateModified": "Wed, 15 Jun 2022 16:30:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Looks like a great use of H5P in  #glowblogs <a href=\"https://t.co/YOYUMwQ36K\">[link]</a>",
+                                    "rawText": "Looks like a great use of H5P in  #glowblogs https://t.co/YOYUMwQ36K",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 16:22:39 GMT",
+                                    "tweetId": "1537108334347689985",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1537108334347689985",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
