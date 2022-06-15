@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 02:19:32 GMT"
+            "dateModified": "Wed, 15 Jun 2022 16:03:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "I remember I had tried Typora once as a Markdown editor, and I was impressed even then. I got to know today that it’s available on Linux too. The feature set looks promising. I will give it a try, with Atom no longer an option. <a href=\"https://t.co/TG7S2p1RCv\">[link]</a>",
+                                    "rawText": "I remember I had tried Typora once as a Markdown editor, and I was impressed even then. I got to know today that it’s available on Linux too. The feature set looks promising. I will give it a try, with Atom no longer an option. https://t.co/TG7S2p1RCv",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 15:58:14 GMT",
+                                    "tweetId": "1537102187205124096",
+                                    "urltweet": "https://twitter.com/_am1t/status/1537102187205124096",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
