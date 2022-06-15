@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 13:51:16 GMT"
+            "dateModified": "Wed, 15 Jun 2022 13:55:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/cOqtPLc66p\">[link]</a> Stories via @Steven_Berryman @acloserlisten @aaron_cassidy",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/cOqtPLc66p Stories via @Steven_Berryman @acloserlisten @aaron_cassidy",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 13:47:49 GMT",
+                                    "tweetId": "1537069367057428482",
+                                    "urltweet": "https://twitter.com/aworks/status/1537069367057428482",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
