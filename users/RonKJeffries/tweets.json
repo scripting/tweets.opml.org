@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 02:33:35 GMT"
+            "dateModified": "Wed, 15 Jun 2022 14:03:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@sl007 @evanpro Where can I learn more about the open CMS you are creating? btw, I am @ronkjeffries@mastodon.social but I don't use it faithfully.",
+                                    "rawText": "@sl007 @evanpro Where can I learn more about the open CMS you are creating? btw, I am @ronkjeffries@mastodon.social but I don't use it faithfully.",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 13:58:27 GMT",
+                                    "tweetId": "1537072044017209344",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1537072044017209344",
+                                    "inReplyToId": "1537028802785726465",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
