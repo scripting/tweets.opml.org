@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 18:04:32 GMT"
+            "dateModified": "Wed, 15 Jun 2022 07:44:25 GMT"
         },
         "body": {
             "subs": [
@@ -95,7 +95,31 @@
                                     "tweetId": "1536457486739415041",
                                     "urltweet": "https://twitter.com/chiguire/status/1536457486739415041",
                                     "inReplyToId": "1531915617833349120",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "#earworm <a href=\"https://t.co/puPyKqJIjj\">[link]</a>",
+                                            "rawText": "#earworm https://t.co/puPyKqJIjj",
+                                            "type": "tweet",
+                                            "created": "Wed, 15 Jun 2022 07:31:36 GMT",
+                                            "tweetId": "1536974691277193216",
+                                            "urltweet": "https://twitter.com/chiguire/status/1536974691277193216",
+                                            "inReplyToId": "1536457486739415041",
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/chQWaCPj2N\">[link]</a>",
+                                                    "rawText": "https://t.co/chQWaCPj2N",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 15 Jun 2022 07:35:13 GMT",
+                                                    "tweetId": "1536975599020941313",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1536975599020941313",
+                                                    "inReplyToId": "1536974691277193216",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@saimards <a href=\"https://t.co/avWFoOrRjF\">[link]</a>",
@@ -661,7 +685,19 @@
                                                     "tweetId": "1536670304189259777",
                                                     "urltweet": "https://twitter.com/chiguire/status/1536670304189259777",
                                                     "inReplyToId": "1536284735991066626",
-                                                    "tweetUserName": "chiguire"
+                                                    "tweetUserName": "chiguire",
+                                                    "subs": [
+                                                        {
+                                                            "text": "➡️\n#Heardle #110\n\n🔇⬛️⬛️⬛️⬛️⬛️⬛️\n\n<a href=\"https://t.co/Z6l3YYHnYY\">[link]</a>",
+                                                            "rawText": "➡️\n#Heardle #110\n\n🔇⬛️⬛️⬛️⬛️⬛️⬛️\n\nhttps://t.co/Z6l3YYHnYY",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 15 Jun 2022 07:33:31 GMT",
+                                                            "tweetId": "1536975170996404224",
+                                                            "urltweet": "https://twitter.com/chiguire/status/1536975170996404224",
+                                                            "inReplyToId": "1536670304189259777",
+                                                            "tweetUserName": "chiguire"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
