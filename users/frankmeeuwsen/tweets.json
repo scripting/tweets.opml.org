@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 12:06:09 GMT"
+            "dateModified": "Wed, 15 Jun 2022 06:45:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Hier dan, voor #kinkbandshirtdag op @KINKpuntnl <a href=\"https://t.co/EszAn2byN0\">[link]</a>",
+                                    "rawText": "Hier dan, voor #kinkbandshirtdag op @KINKpuntnl https://t.co/EszAn2byN0",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 06:36:23 GMT",
+                                    "tweetId": "1536960794725949440",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1536960794725949440",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
