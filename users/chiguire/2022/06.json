@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 07:44:25 GMT"
+            "dateModified": "Wed, 15 Jun 2022 13:35:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@chrisspeerez1 <a href=\"https://t.co/XJpVPRom4u\">[link]</a>",
+                                    "rawText": "@chrisspeerez1 https://t.co/XJpVPRom4u",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 13:34:00 GMT",
+                                    "tweetId": "1537065890512084992",
+                                    "urltweet": "https://twitter.com/chiguire/status/1537065890512084992",
+                                    "inReplyToId": "1536800998106210304",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
