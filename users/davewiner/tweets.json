@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 11:56:11 GMT"
+            "dateModified": "Wed, 15 Jun 2022 13:14:16 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "This is a test. <a href=\"https://t.co/ptnizr3baV\">[link]</a>",
+                                    "rawText": "This is a test. https://t.co/ptnizr3baV",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 13:12:22 GMT",
+                                    "tweetId": "1537060447056191489",
+                                    "urltweet": "https://twitter.com/davewiner/status/1537060447056191489",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@jeffjarvis They might as well ask what impact telephones had on journalism. It kind of depends on who you call. ;-)",
+                                    "rawText": "@jeffjarvis They might as well ask what impact telephones had on journalism. It kind of depends on who you call. ;-)",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 13:03:09 GMT",
+                                    "tweetId": "1537058128981856260",
+                                    "urltweet": "https://twitter.com/davewiner/status/1537058128981856260",
+                                    "inReplyToId": "1536820774954323974",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Everything, everywhere, all at once — watched last night, maybe I was too wiped out from a day full of adventure, but I couldn’t stay awake. Not imho a great movie though it received universal acclaim from critics and friends.\n\n<a href=\"https://t.co/phAZiNyUEw\">[link]</a>",
                                     "rawText": "Everything, everywhere, all at once — watched last night, maybe I was too wiped out from a day full of adventure, but I couldn’t stay awake. Not imho a great movie though it received universal acclaim from critics and friends.\n\nhttps://t.co/phAZiNyUEw",
