@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 19:56:55 GMT"
+            "dateModified": "Wed, 15 Jun 2022 23:55:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Wordle 361 3/6\n\n🟨⬜⬜⬜⬜\n⬜🟩🟨⬜⬜\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 361 3/6\n\n🟨⬜⬜⬜⬜\n⬜🟩🟨⬜⬜\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Wed, 15 Jun 2022 23:48:47 GMT",
+                                    "tweetId": "1537220608718688256",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1537220608718688256",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
