@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 02:54:54 GMT"
+            "dateModified": "Thu, 16 Jun 2022 08:33:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@herdyshepherd1 Moving them Missouri-style!",
+                                    "rawText": "@herdyshepherd1 Moving them Missouri-style!",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 08:31:16 GMT",
+                                    "tweetId": "1537352092939079681",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1537352092939079681",
+                                    "inReplyToId": "1537311018455642112",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
