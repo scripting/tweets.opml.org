@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 18:54:08 GMT"
+            "dateModified": "Thu, 16 Jun 2022 05:57:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Waarom zijn er alleen gekleurde opzetborstels voor kinderen?",
+                                    "rawText": "Waarom zijn er alleen gekleurde opzetborstels voor kinderen?",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 05:53:55 GMT",
+                                    "tweetId": "1537312495014141953",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1537312495014141953",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
+                                {
+                                    "text": "@djeekopdicht Hahaha. Ja als jij deze zou missen…",
+                                    "rawText": "@djeekopdicht Hahaha. Ja als jij deze zou missen…",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 05:52:03 GMT",
+                                    "tweetId": "1537312026799767554",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1537312026799767554",
+                                    "inReplyToId": "1537197008905199616",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
