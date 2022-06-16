@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 03:48:12 GMT"
+            "dateModified": "Thu, 16 Jun 2022 13:20:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@datadivajf Looks like a brilliant remake of a lost TOS episode!",
+                                    "rawText": "@datadivajf Looks like a brilliant remake of a lost TOS episode!",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 13:13:09 GMT",
+                                    "tweetId": "1537423030938439681",
+                                    "urltweet": "https://twitter.com/yudel/status/1537423030938439681",
+                                    "inReplyToId": "1537421949240061952",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
