@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 18:17:03 GMT"
+            "dateModified": "Thu, 16 Jun 2022 21:54:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "All aboard the hype train: <a href=\"https://t.co/5RT0AgVEtd\">[link]</a>",
+                                    "rawText": "All aboard the hype train: https://t.co/5RT0AgVEtd",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 21:45:56 GMT",
+                                    "tweetId": "1537552080382091270",
+                                    "urltweet": "https://twitter.com/miljko/status/1537552080382091270",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
