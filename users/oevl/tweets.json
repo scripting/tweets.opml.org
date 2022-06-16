@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 03:40:42 GMT"
+            "dateModified": "Thu, 16 Jun 2022 18:38:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Devin Bagnoli's HELLBENT Part | OJ Wheels <a href=\"https://t.co/11hlIwG1a9\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Devin Bagnoli's HELLBENT Part | OJ Wheels https://t.co/11hlIwG1a9",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 18:28:08 GMT",
+                                    "tweetId": "1537502298905227270",
+                                    "urltweet": "https://twitter.com/oevl/status/1537502298905227270",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
