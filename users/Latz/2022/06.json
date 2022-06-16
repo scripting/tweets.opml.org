@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 18:56:41 GMT"
+            "dateModified": "Thu, 16 Jun 2022 21:19:50 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 16 Jun 2022 18:52:29 GMT",
                                     "tweetId": "1537508428012302337",
                                     "urltweet": "https://twitter.com/Latz/status/1537508428012302337",
-                                    "tweetUserName": "Latz"
+                                    "tweetUserName": "Latz",
+                                    "subs": [
+                                        {
+                                            "text": "Boah, ist das ein wässriges Bier! Brauch ich nicht nochmal.\nDarauf erstmal ein Leffe. <a href=\"https://t.co/PffhHzqyLk\">[link]</a>",
+                                            "rawText": "Boah, ist das ein wässriges Bier! Brauch ich nicht nochmal.\nDarauf erstmal ein Leffe. https://t.co/PffhHzqyLk",
+                                            "type": "tweet",
+                                            "created": "Thu, 16 Jun 2022 21:08:09 GMT",
+                                            "tweetId": "1537542570435350528",
+                                            "urltweet": "https://twitter.com/Latz/status/1537542570435350528",
+                                            "inReplyToId": "1537508428012302337",
+                                            "tweetUserName": "Latz"
+                                        }
+                                    ]
                                 }
                             ]
                         },
