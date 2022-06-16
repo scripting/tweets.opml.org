@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 19:58:42 GMT"
+            "dateModified": "Thu, 16 Jun 2022 07:54:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Just spent 10 minutes trying to reach our payroll company before remembering they’re in NRW and have the day off… #Fronleichnam",
+                                    "rawText": "Just spent 10 minutes trying to reach our payroll company before remembering they’re in NRW and have the day off… #Fronleichnam",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 07:51:18 GMT",
+                                    "tweetId": "1537342036101283840",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1537342036101283840",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
