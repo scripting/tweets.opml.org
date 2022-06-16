@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 23:16:55 GMT"
+            "dateModified": "Thu, 16 Jun 2022 19:14:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@benji17fisher @drupalasheville I got the irony, but unfortunately, I've been asked the question seriously.",
+                                    "rawText": "@benji17fisher @drupalasheville I got the irony, but unfortunately, I've been asked the question seriously.",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 19:09:11 GMT",
+                                    "tweetId": "1537512629295583232",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1537512629295583232",
+                                    "inReplyToId": "1537410503869341696",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
