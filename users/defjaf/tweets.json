@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 17:22:42 GMT"
+            "dateModified": "Thu, 16 Jun 2022 05:01:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@comiXology On the purchasing side, please let us select multiple comics for purchase before completing the sale (I.e., a basket!). And let us stay on exactly the same page after a purchase.",
+                                    "rawText": "@comiXology On the purchasing side, please let us select multiple comics for purchase before completing the sale (I.e., a basket!). And let us stay on exactly the same page after a purchase.",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 04:51:21 GMT",
+                                    "tweetId": "1537296750410596352",
+                                    "urltweet": "https://twitter.com/defjaf/status/1537296750410596352",
+                                    "inReplyToId": "1537114294881591296",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
