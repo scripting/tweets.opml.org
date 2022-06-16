@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 20:44:43 GMT"
+            "dateModified": "Thu, 16 Jun 2022 18:56:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Eigentlich bin ich ja kein Fan der Hütt-Brauerei, aber das documenta-Bier muss ich dann doch Mal probieren. <a href=\"https://t.co/8YmIxLhaYw\">[link]</a>",
+                                    "rawText": "Eigentlich bin ich ja kein Fan der Hütt-Brauerei, aber das documenta-Bier muss ich dann doch Mal probieren. https://t.co/8YmIxLhaYw",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 18:52:29 GMT",
+                                    "tweetId": "1537508428012302337",
+                                    "urltweet": "https://twitter.com/Latz/status/1537508428012302337",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
