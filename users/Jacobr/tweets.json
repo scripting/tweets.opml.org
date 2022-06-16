@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 20:05:58 GMT"
+            "dateModified": "Thu, 16 Jun 2022 17:21:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@JenBlumenthal @BannerHealth @carinalliance @ONC_HealthIT @CMSGov #Following ..",
+                                    "rawText": "@JenBlumenthal @BannerHealth @carinalliance @ONC_HealthIT @CMSGov #Following ..",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 17:17:26 GMT",
+                                    "tweetId": "1537484507716149248",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1537484507716149248",
+                                    "inReplyToId": "1537130403345096704",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
