@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 15:48:41 GMT"
+            "dateModified": "Thu, 16 Jun 2022 09:35:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Mi objetivo en la vida es ser haunting",
+                                    "rawText": "Mi objetivo en la vida es ser haunting",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 09:30:58 GMT",
+                                    "tweetId": "1537367119070904320",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1537367119070904320",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
