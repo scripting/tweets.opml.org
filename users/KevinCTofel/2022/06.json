@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 01:05:47 GMT"
+            "dateModified": "Thu, 16 Jun 2022 11:30:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@RyanLounsbury To answer your question: I do, every day on a 2018 CB with Core i5 and 16 GB of RAM. Even with 8 GB it should be very capable.",
+                                    "rawText": "@RyanLounsbury To answer your question: I do, every day on a 2018 CB with Core i5 and 16 GB of RAM. Even with 8 GB it should be very capable.",
+                                    "type": "tweet",
+                                    "created": "Thu, 16 Jun 2022 11:28:01 GMT",
+                                    "tweetId": "1537396573356929024",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1537396573356929024",
+                                    "inReplyToId": "1537295131807653889",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
