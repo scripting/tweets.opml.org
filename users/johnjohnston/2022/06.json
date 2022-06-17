@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 16:30:44 GMT"
+            "dateModified": "Fri, 17 Jun 2022 07:46:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@JillWoodward20 @NLDigitalSchool Let me know anything that could be fixed, added, improved to any of the #GlowBlogs help. Always happy to talk blogs.",
+                                    "rawText": "@JillWoodward20 @NLDigitalSchool Let me know anything that could be fixed, added, improved to any of the #GlowBlogs help. Always happy to talk blogs.",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 07:35:18 GMT",
+                                    "tweetId": "1537700399523717122",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1537700399523717122",
+                                    "inReplyToId": "1537013231113338880",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
