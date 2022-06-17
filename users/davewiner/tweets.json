@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 13:23:22 GMT"
+            "dateModified": "Fri, 17 Jun 2022 14:02:25 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "@trickjarrett that's smart. i thought yt has rss feeds, but if so probably for mp4?",
+                                    "rawText": "@trickjarrett that's smart. i thought yt has rss feeds, but if so probably for mp4?",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 13:49:45 GMT",
+                                    "tweetId": "1537794631030693889",
+                                    "urltweet": "https://twitter.com/davewiner/status/1537794631030693889",
+                                    "inReplyToId": "1537792439527698432",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@trickjarrett I think it'll probably be something like what happened when Google Reader was shut down. Some people will find new places to do twitter-like things, but most will just do other things with the time they now put into twitter.",
                                     "rawText": "@trickjarrett I think it'll probably be something like what happened when Google Reader was shut down. Some people will find new places to do twitter-like things, but most will just do other things with the time they now put into twitter.",
@@ -181,7 +191,19 @@
                                     "created": "Fri, 17 Jun 2022 00:36:34 GMT",
                                     "tweetId": "1537595018831077379",
                                     "urltweet": "https://twitter.com/davewiner/status/1537595018831077379",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Just took another look at last night's test.\n\nThis time it looks like there's another line. <a href=\"https://t.co/NkHUigAEFe\">[link]</a>",
+                                            "rawText": "Just took another look at last night's test.\n\nThis time it looks like there's another line. https://t.co/NkHUigAEFe",
+                                            "type": "tweet",
+                                            "created": "Fri, 17 Jun 2022 13:50:37 GMT",
+                                            "tweetId": "1537794850761981952",
+                                            "urltweet": "https://twitter.com/davewiner/status/1537794850761981952",
+                                            "inReplyToId": "1537595018831077379",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Maybe twitter’s users should buy Twitter. \n\nWhy don’t we all buy enough to tell Leon Musk to take his white supremacist ass somewhere else.",
