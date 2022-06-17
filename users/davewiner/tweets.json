@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 02:58:42 GMT"
+            "dateModified": "Fri, 17 Jun 2022 07:45:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Facebook looks ready to divorce the news industry. <a href=\"https://t.co/gZS9K049f2\">[link]</a>",
+                                    "rawText": "Facebook looks ready to divorce the news industry. https://t.co/gZS9K049f2",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 07:37:37 GMT",
+                                    "tweetId": "1537700978983682048",
+                                    "urltweet": "https://twitter.com/davewiner/status/1537700978983682048",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
