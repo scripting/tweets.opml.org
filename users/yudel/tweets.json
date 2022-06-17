@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 23:58:31 GMT"
+            "dateModified": "Fri, 17 Jun 2022 05:10:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@lymanstoneky Say more?",
+                                    "rawText": "@lymanstoneky Say more?",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 04:58:54 GMT",
+                                    "tweetId": "1537661039273287681",
+                                    "urltweet": "https://twitter.com/yudel/status/1537661039273287681",
+                                    "inReplyToId": "1537657065006583810",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
