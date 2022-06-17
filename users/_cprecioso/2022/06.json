@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 21:57:38 GMT"
+            "dateModified": "Fri, 17 Jun 2022 12:16:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@lacomefloreros Esto es simplemente name dropping",
+                                    "rawText": "@lacomefloreros Esto es simplemente name dropping",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 12:13:43 GMT",
+                                    "tweetId": "1537770464180830210",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1537770464180830210",
+                                    "inReplyToId": "1537770249747152896",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
