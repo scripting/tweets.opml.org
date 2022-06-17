@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 14 Jun 2022 00:28:25 GMT"
+            "dateModified": "Fri, 17 Jun 2022 10:53:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@thehill oh puke.",
+                                    "rawText": "@thehill oh puke.",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 10:49:54 GMT",
+                                    "tweetId": "1537749369268719618",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1537749369268719618",
+                                    "inReplyToId": "1537577017163628546",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 13",
                             "type": "calendarDay",
