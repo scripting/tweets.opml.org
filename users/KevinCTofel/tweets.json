@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 22:34:10 GMT"
+            "dateModified": "Fri, 17 Jun 2022 10:16:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Ok, this iOS 16 photo “Lift subject from background”feature is pretty nifty. <a href=\"https://t.co/lPp0LHCiwm\">[link]</a>",
+                                    "rawText": "Ok, this iOS 16 photo “Lift subject from background”feature is pretty nifty. https://t.co/lPp0LHCiwm",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 10:04:25 GMT",
+                                    "tweetId": "1537737925596696581",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1537737925596696581",
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "However it looks better in Messages than on Twitter. <a href=\"https://t.co/p88nUbuKwY\">[link]</a>",
+                                            "rawText": "However it looks better in Messages than on Twitter. https://t.co/p88nUbuKwY",
+                                            "type": "tweet",
+                                            "created": "Fri, 17 Jun 2022 10:06:03 GMT",
+                                            "tweetId": "1537738334772023297",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1537738334772023297",
+                                            "inReplyToId": "1537737925596696581",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
