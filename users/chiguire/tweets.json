@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 23:25:58 GMT"
+            "dateModified": "Fri, 17 Jun 2022 10:16:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "La opción predecible <a href=\"https://t.co/VCb3MDGjzG\">[link]</a>",
+                                    "rawText": "La opción predecible https://t.co/VCb3MDGjzG",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 10:14:31 GMT",
+                                    "tweetId": "1537740465201618945",
+                                    "urltweet": "https://twitter.com/chiguire/status/1537740465201618945",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
