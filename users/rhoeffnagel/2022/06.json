@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/rhoeffnagel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 13:16:19 GMT"
+            "dateModified": "Fri, 17 Jun 2022 05:06:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Gartner positioneert Dynatrace als leider in Magic Quadrant APM &amp; Observability - <a href=\"https://t.co/hOkOUEHSsV\">[link]</a>\nDynatrace, specialist in software intelligence, is door Gartner gepositioneerd als leider in het 2022 Magic Quadrant for Application Performance Monitoring (APM) and Obser... https://t.co/MQTyH9fUGz",
+                                    "rawText": "Gartner positioneert Dynatrace als leider in Magic Quadrant APM &amp; Observability - https://t.co/hOkOUEHSsV\nDynatrace, specialist in software intelligence, is door Gartner gepositioneerd als leider in het 2022 Magic Quadrant for Application Performance Monitoring (APM) and Obser... https://t.co/MQTyH9fUGz",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 04:59:21 GMT",
+                                    "tweetId": "1537661152221618182",
+                                    "urltweet": "https://twitter.com/rhoeffnagel/status/1537661152221618182",
+                                    "tweetUserName": "rhoeffnagel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
