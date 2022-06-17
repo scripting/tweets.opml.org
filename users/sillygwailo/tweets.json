@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 17:35:39 GMT"
+            "dateModified": "Fri, 17 Jun 2022 18:01:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "@nealjennings Hiiii, and bye. I’m on my way back to Toronto. Sort of too bad we didn’t meet up, but it wouldn’t have worked out on this trip. Family visits take up all my social bandwidth. Not a complaint, just a thing. Next time we’re in the same town again, let’s try to meet up!",
+                                    "rawText": "@nealjennings Hiiii, and bye. I’m on my way back to Toronto. Sort of too bad we didn’t meet up, but it wouldn’t have worked out on this trip. Family visits take up all my social bandwidth. Not a complaint, just a thing. Next time we’re in the same town again, let’s try to meet up!",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 17:53:49 GMT",
+                                    "tweetId": "1537856052753928195",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1537856052753928195",
+                                    "inReplyToId": "1537851435408187393",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "YYJ ✈️ YYZ",
                                     "rawText": "YYJ ✈️ YYZ",
@@ -91,7 +101,19 @@
                                             "tweetId": "1537591404255252480",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1537591404255252480",
                                             "inReplyToId": "1537583604531744771",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "No trip to British Columbia is compete without a visit to an airport White Spot, which was closed, alas. <a href=\"https://t.co/ctJVAmNPqq\">[link]</a>",
+                                                    "rawText": "No trip to British Columbia is compete without a visit to an airport White Spot, which was closed, alas. https://t.co/ctJVAmNPqq",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 17 Jun 2022 17:56:40 GMT",
+                                                    "tweetId": "1537856770831486976",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1537856770831486976",
+                                                    "inReplyToId": "1537591404255252480",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
