@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 01:19:36 GMT"
+            "dateModified": "Fri, 17 Jun 2022 05:39:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Covie is definitely ovie on Vancouver Island.",
+                                    "rawText": "Covie is definitely ovie on Vancouver Island.",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 05:27:12 GMT",
+                                    "tweetId": "1537668160207212545",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1537668160207212545",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
