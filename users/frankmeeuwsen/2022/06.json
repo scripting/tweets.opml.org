@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 03:13:13 GMT"
+            "dateModified": "Fri, 17 Jun 2022 06:41:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "In de Release Radar vandaag en heerlijk! <a href=\"https://t.co/ct7W8Z6w7c\">[link]</a>",
+                                    "rawText": "In de Release Radar vandaag en heerlijk! https://t.co/ct7W8Z6w7c",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 06:32:49 GMT",
+                                    "tweetId": "1537684671118594048",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1537684671118594048",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
