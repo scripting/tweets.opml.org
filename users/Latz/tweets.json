@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 21:19:50 GMT"
+            "dateModified": "Fri, 17 Jun 2022 18:35:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Auf der Samenpackung stand \"ertragreich\". Was wohl nicht gelogen: <a href=\"https://t.co/zHlXjxUe3X\">[link]</a>",
+                                    "rawText": "Auf der Samenpackung stand \"ertragreich\". Was wohl nicht gelogen: https://t.co/zHlXjxUe3X",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 18:33:02 GMT",
+                                    "tweetId": "1537865922047770625",
+                                    "urltweet": "https://twitter.com/Latz/status/1537865922047770625",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
