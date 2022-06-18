@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 00:58:07 GMT"
+            "dateModified": "Sat, 18 Jun 2022 23:18:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Covie is definitely ovie in Galway-Cavendish and Harvey, Ontario.",
+                                    "rawText": "Covie is definitely ovie in Galway-Cavendish and Harvey, Ontario.",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 23:15:02 GMT",
+                                    "tweetId": "1538299275540631553",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1538299275540631553",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 17",
                             "type": "calendarDay",
