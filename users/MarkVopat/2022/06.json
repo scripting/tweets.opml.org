@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 02:57:54 GMT"
+            "dateModified": "Sat, 18 Jun 2022 01:35:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@HankF330ToGo <a href=\"https://t.co/1cEpPoVQwC\">[link]</a>",
+                                    "rawText": "@HankF330ToGo https://t.co/1cEpPoVQwC",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 01:33:14 GMT",
+                                    "tweetId": "1537971668307521540",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1537971668307521540",
+                                    "inReplyToId": "1537888862189408258",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
