@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 21:39:24 GMT"
+            "dateModified": "Sat, 18 Jun 2022 10:14:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@wsslmn @gvenk De gemeente Utrecht geeft met @GaiyoApp 40 euro tegoed voor deelmobiliteit. Handig voor (bak)fietsen. Omdat we al MyWheels klant zijn kunnen we het niet daar voor gebruiken. Maar goed initiatief.",
+                                    "rawText": "@wsslmn @gvenk De gemeente Utrecht geeft met @GaiyoApp 40 euro tegoed voor deelmobiliteit. Handig voor (bak)fietsen. Omdat we al MyWheels klant zijn kunnen we het niet daar voor gebruiken. Maar goed initiatief.",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 10:07:27 GMT",
+                                    "tweetId": "1538101075445784576",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1538101075445784576",
+                                    "inReplyToId": "1538100283347197952",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 17",
                             "type": "calendarDay",
