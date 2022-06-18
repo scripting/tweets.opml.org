@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 20:05:03 GMT"
+            "dateModified": "Sat, 18 Jun 2022 13:00:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Jugoso y delicioso",
+                                    "rawText": "Jugoso y delicioso",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 12:56:59 GMT",
+                                    "tweetId": "1538143738295373826",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1538143738295373826",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 17",
                             "type": "calendarDay",
