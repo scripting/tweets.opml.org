@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 18:35:12 GMT"
+            "dateModified": "Sat, 18 Jun 2022 18:26:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Auf Spitzbergen sind es im Moment übrigens -1 °C. \n\n9€-Ticket gilt bis dahin leider nicht.",
+                                    "rawText": "Auf Spitzbergen sind es im Moment übrigens -1 °C. \n\n9€-Ticket gilt bis dahin leider nicht.",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 18:21:19 GMT",
+                                    "tweetId": "1538225361212915713",
+                                    "urltweet": "https://twitter.com/Latz/status/1538225361212915713",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 17",
                             "type": "calendarDay",
