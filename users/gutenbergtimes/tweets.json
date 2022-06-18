@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 11:23:00 GMT"
+            "dateModified": "Sat, 18 Jun 2022 11:40:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "84 Block Themes, Reusable Blocks, Create-Block-Theme-Plugin hand-curated by Birgit Pauli-Haack @bph with contributions by @get_dave @matias_ventura @dumitru @karks88 @richard_tabor @extendify @nickmdiego @kathyzant <a href=\"https://t.co/VjxUAtKpbE\">[link]</a>",
+                                    "rawText": "84 Block Themes, Reusable Blocks, Create-Block-Theme-Plugin hand-curated by Birgit Pauli-Haack @bph with contributions by @get_dave @matias_ventura @dumitru @karks88 @richard_tabor @extendify @nickmdiego @kathyzant https://t.co/VjxUAtKpbE",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 11:39:44 GMT",
+                                    "tweetId": "1538124297159557121",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1538124297159557121",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 17",
                             "type": "calendarDay",
