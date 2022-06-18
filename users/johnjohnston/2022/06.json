@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 17 Jun 2022 19:16:00 GMT"
+            "dateModified": "Sat, 18 Jun 2022 13:29:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Had a walk along the canal this morning. <a href=\"https://t.co/5FLUAqgLbE\">[link]</a>",
+                                    "rawText": "Had a walk along the canal this morning. https://t.co/5FLUAqgLbE",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 13:25:16 GMT",
+                                    "tweetId": "1538150856939421696",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1538150856939421696",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 17",
                             "type": "calendarDay",
