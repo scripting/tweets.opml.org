@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 14:13:08 GMT"
+            "dateModified": "Sat, 18 Jun 2022 00:03:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@oshum my fave time of the day &lt;3",
+                                    "rawText": "@oshum my fave time of the day &lt;3",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 23:54:50 GMT",
+                                    "tweetId": "1537946907137388544",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1537946907137388544",
+                                    "inReplyToId": "1537946642912948226",
+                                    "tweetUserName": "moosebegab"
+                                },
+                                {
+                                    "text": "Finally.. I pulled my right front tooth out! 🦷",
+                                    "rawText": "Finally.. I pulled my right front tooth out! 🦷",
+                                    "type": "tweet",
+                                    "created": "Fri, 17 Jun 2022 23:51:34 GMT",
+                                    "tweetId": "1537946081152991234",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1537946081152991234",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
