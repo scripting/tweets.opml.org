@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 19:14:12 GMT"
+            "dateModified": "Sat, 18 Jun 2022 19:23:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@davewiner I had Covid back in March 2020, my better half never got it. Until I started showing symptoms we shared a bed and engaged in the normal range of adult activities. Some people are just immune.",
+                                    "rawText": "@davewiner I had Covid back in March 2020, my better half never got it. Until I started showing symptoms we shared a bed and engaged in the normal range of adult activities. Some people are just immune.",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 19:15:04 GMT",
+                                    "tweetId": "1538238888690458626",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1538238888690458626",
+                                    "inReplyToId": "1538195175893237761",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
