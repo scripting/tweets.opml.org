@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 13 Jun 2022 03:09:47 GMT"
+            "dateModified": "Sat, 18 Jun 2022 16:46:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Today's Workout : 305# squats, 175# bench, 165# barbell rows. 5x5 worksets #stronglifts5x5",
+                                    "rawText": "Today's Workout : 305# squats, 175# bench, 165# barbell rows. 5x5 worksets #stronglifts5x5",
+                                    "type": "tweet",
+                                    "created": "Sat, 18 Jun 2022 16:41:56 GMT",
+                                    "tweetId": "1538200348363411456",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1538200348363411456",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
