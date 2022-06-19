@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 02:15:44 GMT"
+            "dateModified": "Sun, 19 Jun 2022 02:41:46 GMT"
         },
         "body": {
             "subs": [
@@ -207,7 +207,19 @@
                                             "tweetId": "1538200418899091457",
                                             "urltweet": "https://twitter.com/davewiner/status/1538200418899091457",
                                             "inReplyToId": "1538193109775007744",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "If you have any questions, let me know.",
+                                                    "rawText": "If you have any questions, let me know.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 19 Jun 2022 02:40:19 GMT",
+                                                    "tweetId": "1538350936522903552",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1538350936522903552",
+                                                    "inReplyToId": "1538200418899091457",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
