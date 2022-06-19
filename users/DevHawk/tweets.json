@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 16:46:23 GMT"
+            "dateModified": "Sun, 19 Jun 2022 16:50:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@roschler I could bench press Luna's weight - she's under 100#. But I don't think she'd sit still for it if I tried to bench press her",
+                                    "rawText": "@roschler I could bench press Luna's weight - she's under 100#. But I don't think she'd sit still for it if I tried to bench press her",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 16:44:50 GMT",
+                                    "tweetId": "1538563468604821506",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1538563468604821506",
+                                    "inReplyToId": "1538475783970344960",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
