@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 00:53:24 GMT"
+            "dateModified": "Sun, 19 Jun 2022 11:44:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@JohnEDunn @MOTOGUZZl Always for me when on the road! 👍🏼",
+                                    "rawText": "@JohnEDunn @MOTOGUZZl Always for me when on the road! 👍🏼",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 11:38:26 GMT",
+                                    "tweetId": "1538486358569893891",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1538486358569893891",
+                                    "inReplyToId": "1538470227670876160",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
