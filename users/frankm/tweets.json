@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 15:41:03 GMT"
+            "dateModified": "Sun, 19 Jun 2022 16:24:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Finished reading: Reviving Old Scratch by Richard Beck 📚 Another book that opens my eyes. <a href=\"https://t.co/Pq6Jb0ypBj\">[link]</a>",
+                                    "rawText": "Finished reading: Reviving Old Scratch by Richard Beck 📚 Another book that opens my eyes. https://t.co/Pq6Jb0ypBj",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 16:23:40 GMT",
+                                    "tweetId": "1538558139280379905",
+                                    "urltweet": "https://twitter.com/frankm/status/1538558139280379905",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
