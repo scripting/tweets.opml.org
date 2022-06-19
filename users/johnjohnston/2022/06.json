@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 20:12:36 GMT"
+            "dateModified": "Sun, 19 Jun 2022 19:51:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "A father’s day walk in Glen Finlas <a href=\"https://t.co/0o0OK5UXeI\">[link]</a>",
+                                    "rawText": "A father’s day walk in Glen Finlas https://t.co/0o0OK5UXeI",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 19:38:51 GMT",
+                                    "tweetId": "1538607258761936898",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1538607258761936898",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
