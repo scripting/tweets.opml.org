@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 01:21:56 GMT"
+            "dateModified": "Sun, 19 Jun 2022 09:36:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@EliRP95 :S",
+                                    "rawText": "@EliRP95 :S",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 09:28:14 GMT",
+                                    "tweetId": "1538453594575364097",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1538453594575364097",
+                                    "inReplyToId": "1538411975214084096",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
