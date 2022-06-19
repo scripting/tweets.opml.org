@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 20:51:53 GMT"
+            "dateModified": "Sun, 19 Jun 2022 06:37:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@roosvanvugt @marcoderksen @freek_janssen @skoopnl Tijd voor een nieuwe foto na 8 jaar! <a href=\"https://t.co/mHxwyYgdOo\">[link]</a>",
+                                    "rawText": "@roosvanvugt @marcoderksen @freek_janssen @skoopnl Tijd voor een nieuwe foto na 8 jaar! https://t.co/mHxwyYgdOo",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 06:37:13 GMT",
+                                    "tweetId": "1538410555345625090",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1538410555345625090",
+                                    "inReplyToId": "1538400759217369088",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
