@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 15:08:34 GMT"
+            "dateModified": "Sun, 19 Jun 2022 17:44:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "This afternoon. <a href=\"https://t.co/dTUeM5Oxie\">[link]</a>",
+                                    "rawText": "This afternoon. https://t.co/dTUeM5Oxie",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 17:43:12 GMT",
+                                    "tweetId": "1538578156638044161",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1538578156638044161",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
