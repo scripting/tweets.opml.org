@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 17:44:44 GMT"
+            "dateModified": "Sun, 19 Jun 2022 17:57:45 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 19 Jun 2022 17:43:12 GMT",
                                     "tweetId": "1538578156638044161",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1538578156638044161",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Toronto’s most beautiful man is here. I’m using the flyer to cool myself down after every time I look at him.",
+                                            "rawText": "Toronto’s most beautiful man is here. I’m using the flyer to cool myself down after every time I look at him.",
+                                            "type": "tweet",
+                                            "created": "Sun, 19 Jun 2022 17:45:52 GMT",
+                                            "tweetId": "1538578825965182978",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1538578825965182978",
+                                            "inReplyToId": "1538578156638044161",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
