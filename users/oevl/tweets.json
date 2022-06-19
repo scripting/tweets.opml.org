@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 22:29:00 GMT"
+            "dateModified": "Sun, 19 Jun 2022 05:38:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Pink Floyd - Another Brick In The Wall <a href=\"https://t.co/s2Z9z5hmMq\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Pink Floyd - Another Brick In The Wall https://t.co/s2Z9z5hmMq",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 05:28:22 GMT",
+                                    "tweetId": "1538393231133745152",
+                                    "urltweet": "https://twitter.com/oevl/status/1538393231133745152",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
