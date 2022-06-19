@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 02:41:46 GMT"
+            "dateModified": "Sun, 19 Jun 2022 04:38:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Welcome to the Age of Extinction. <a href=\"https://t.co/wRwfyMRiaZ\">[link]</a>",
+                                    "rawText": "Welcome to the Age of Extinction. https://t.co/wRwfyMRiaZ",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 04:27:48 GMT",
+                                    "tweetId": "1538377987439181824",
+                                    "urltweet": "https://twitter.com/davewiner/status/1538377987439181824",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
