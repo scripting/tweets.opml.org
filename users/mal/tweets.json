@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 18:07:20 GMT"
+            "dateModified": "Sun, 19 Jun 2022 06:03:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@GeorgeTakei @RealLyndaCarter",
+                                    "rawText": "@GeorgeTakei @RealLyndaCarter",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 06:02:29 GMT",
+                                    "tweetId": "1538401815091216385",
+                                    "urltweet": "https://twitter.com/mal/status/1538401815091216385",
+                                    "inReplyToId": "1538180484961738752",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
