@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 06:24:58 GMT"
+            "dateModified": "Sun, 19 Jun 2022 14:05:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@thehill #TheFutureIsFemale 🤣",
+                                    "rawText": "@thehill #TheFutureIsFemale 🤣",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 13:55:19 GMT",
+                                    "tweetId": "1538520807323877380",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1538520807323877380",
+                                    "inReplyToId": "1538519229913260033",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
