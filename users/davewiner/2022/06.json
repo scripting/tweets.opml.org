@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 19:49:52 GMT"
+            "dateModified": "Sun, 19 Jun 2022 20:02:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "@donpark @techwraith Very good point!\n\nThere's a biological reason -- when you're angry or scared your body is preparing to run or fight. It isn't time to listen it's time to not-die, hopefully. \n\nYou have to breathe to listen.",
+                                    "rawText": "@donpark @techwraith Very good point!\n\nThere's a biological reason -- when you're angry or scared your body is preparing to run or fight. It isn't time to listen it's time to not-die, hopefully. \n\nYou have to breathe to listen.",
+                                    "type": "tweet",
+                                    "created": "Sun, 19 Jun 2022 19:57:31 GMT",
+                                    "tweetId": "1538611959033221120",
+                                    "urltweet": "https://twitter.com/davewiner/status/1538611959033221120",
+                                    "inReplyToId": "1538610922259742720",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@jevon I don't think it was. My father was writing about outliners, he didn't make an outliner.",
                                     "rawText": "@jevon I don't think it was. My father was writing about outliners, he didn't make an outliner.",
@@ -117,7 +127,31 @@
                                                                                                     "tweetId": "1538603274198294532",
                                                                                                     "urltweet": "https://twitter.com/davewiner/status/1538603274198294532",
                                                                                                     "inReplyToId": "1538603266518417408",
-                                                                                                    "tweetUserName": "davewiner"
+                                                                                                    "tweetUserName": "davewiner",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "My father was a real outliner user. You know them when you see them. They want to make lists and figure stuff out. Very much into concepts. \n\nMy mother on the other hand was a NBB or Natural-Born-Blogger. She always had something on her mind and had to tell the world about it.",
+                                                                                                            "rawText": "My father was a real outliner user. You know them when you see them. They want to make lists and figure stuff out. Very much into concepts. \n\nMy mother on the other hand was a NBB or Natural-Born-Blogger. She always had something on her mind and had to tell the world about it.",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Sun, 19 Jun 2022 19:55:04 GMT",
+                                                                                                            "tweetId": "1538611342982119425",
+                                                                                                            "urltweet": "https://twitter.com/davewiner/status/1538611342982119425",
+                                                                                                            "inReplyToId": "1538603274198294532",
+                                                                                                            "tweetUserName": "davewiner",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "So of course I, their first-born child, wrote outlining and blogging software, all together in one package.\n\nMy mother once said that I was a good investment. She thought that way too. ;-)",
+                                                                                                                    "rawText": "So of course I, their first-born child, wrote outlining and blogging software, all together in one package.\n\nMy mother once said that I was a good investment. She thought that way too. ;-)",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Sun, 19 Jun 2022 19:55:05 GMT",
+                                                                                                                    "tweetId": "1538611344244715521",
+                                                                                                                    "urltweet": "https://twitter.com/davewiner/status/1538611344244715521",
+                                                                                                                    "inReplyToId": "1538611342982119425",
+                                                                                                                    "tweetUserName": "davewiner"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
                                                                                                 }
                                                                                             ]
                                                                                         }
