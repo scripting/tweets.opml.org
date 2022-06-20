@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 20 Jun 2022 20:29:13 GMT"
+            "dateModified": "Mon, 20 Jun 2022 20:42:14 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "20",
                             "subs": [
                                 {
+                                    "text": "@mjgraves Yeah, I'm with you. Personal preference though as some would prefer not to lose brightness with a matte finish.",
+                                    "rawText": "@mjgraves Yeah, I'm with you. Personal preference though as some would prefer not to lose brightness with a matte finish.",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 20:30:25 GMT",
+                                    "tweetId": "1538982627008565253",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1538982627008565253",
+                                    "inReplyToId": "1538981456097288195",
+                                    "tweetUserName": "KevinCTofel"
+                                },
+                                {
                                     "text": "I can’t enable Linux on the HP Elite Dragonfly Chromebook without a Chrome OS update. And there isn’t an update available. Probably a semi-test build; I have a note into HP. 🤷🏼‍♂️ Regardless, I’m outside doing JavaScript coding exercises in a cloud-based IDE. Bright screen is great! <a href=\"https://t.co/pxfkgSzjCt\">[link]</a>",
                                     "rawText": "I can’t enable Linux on the HP Elite Dragonfly Chromebook without a Chrome OS update. And there isn’t an update available. Probably a semi-test build; I have a note into HP. 🤷🏼‍♂️ Regardless, I’m outside doing JavaScript coding exercises in a cloud-based IDE. Bright screen is great! https://t.co/pxfkgSzjCt",
                                     "type": "tweet",
                                     "created": "Mon, 20 Jun 2022 20:24:18 GMT",
                                     "tweetId": "1538981088088948747",
                                     "urltweet": "https://twitter.com/KevinCTofel/status/1538981088088948747",
-                                    "tweetUserName": "KevinCTofel"
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Oh, and I mentioned in my first impressions last week that the camera output looked solid. Here's a quick unedited snapshot, although Norm doesn't seem as impressed as I am. <a href=\"https://t.co/e0U3AMsqNs\">[link]</a>",
+                                            "rawText": "Oh, and I mentioned in my first impressions last week that the camera output looked solid. Here's a quick unedited snapshot, although Norm doesn't seem as impressed as I am. https://t.co/e0U3AMsqNs",
+                                            "type": "tweet",
+                                            "created": "Mon, 20 Jun 2022 20:32:00 GMT",
+                                            "tweetId": "1538983023886184449",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1538983023886184449",
+                                            "inReplyToId": "1538981088088948747",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I took a look at Chrome Journeys on a Chromebook and I see tremendous value. Here’s why and what it looks like in Chrome OS. <a href=\"https://t.co/wSWVeJAkr2\">[link]</a>",
