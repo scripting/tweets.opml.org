@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 19:51:07 GMT"
+            "dateModified": "Mon, 20 Jun 2022 19:55:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Was pleasantly surprised by these guys today. Came up with the idea and carried it out. Lots of problem solving, both physical and digital. <a href=\"https://t.co/ZGyC2Q9hGF\">[link]</a>",
+                                    "rawText": "Was pleasantly surprised by these guys today. Came up with the idea and carried it out. Lots of problem solving, both physical and digital. https://t.co/ZGyC2Q9hGF",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 19:45:07 GMT",
+                                    "tweetId": "1538971226730901507",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1538971226730901507",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 19",
                             "type": "calendarDay",
