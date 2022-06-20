@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 20 Jun 2022 20:46:30 GMT"
+            "dateModified": "Mon, 20 Jun 2022 20:59:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,38 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "@Scobleizer @bbedit hey i'm still alive. so there's that. ;-)",
+                                    "rawText": "@Scobleizer @bbedit hey i'm still alive. so there's that. ;-)",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 20:51:00 GMT",
+                                    "tweetId": "1538987806940340231",
+                                    "urltweet": "https://twitter.com/davewiner/status/1538987806940340231",
+                                    "inReplyToId": "1538987399010603008",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@Scobleizer @bbedit knock wood.",
+                                            "rawText": "@Scobleizer @bbedit knock wood.",
+                                            "type": "tweet",
+                                            "created": "Mon, 20 Jun 2022 20:52:40 GMT",
+                                            "tweetId": "1538988225087275008",
+                                            "urltweet": "https://twitter.com/davewiner/status/1538988225087275008",
+                                            "inReplyToId": "1538987806940340231",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@ScruggsDJ @TaylorLorenz @jeffjarvis @mattyglesias i hate sarcasm",
+                                    "rawText": "@ScruggsDJ @TaylorLorenz @jeffjarvis @mattyglesias i hate sarcasm",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 20:48:09 GMT",
+                                    "tweetId": "1538987089777287170",
+                                    "urltweet": "https://twitter.com/davewiner/status/1538987089777287170",
+                                    "inReplyToId": "1538986981451083776",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@Scobleizer heh that happened with me and steve jobs. ;-)",
                                     "rawText": "@Scobleizer heh that happened with me and steve jobs. ;-)",
@@ -38,7 +70,19 @@
                                             "tweetId": "1538986423323344900",
                                             "urltweet": "https://twitter.com/davewiner/status/1538986423323344900",
                                             "inReplyToId": "1538985713026449409",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@Scobleizer @bbedit what was really weird was the room was full of reporters who didn't follow up on *any* of my questions. they let me do their work for them. and of course they ignored the impact on developers in their stories. it was all about how wonderful uncle steve was.",
+                                                    "rawText": "@Scobleizer @bbedit what was really weird was the room was full of reporters who didn't follow up on *any* of my questions. they let me do their work for them. and of course they ignored the impact on developers in their stories. it was all about how wonderful uncle steve was.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 20 Jun 2022 20:49:39 GMT",
+                                                    "tweetId": "1538987466354466825",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1538987466354466825",
+                                                    "inReplyToId": "1538986423323344900",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
