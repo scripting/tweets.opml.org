@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 20 Jun 2022 21:25:32 GMT"
+            "dateModified": "Mon, 20 Jun 2022 21:38:33 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,35 @@
                             "name": "20",
                             "subs": [
                                 {
+                                    "text": "sarcasm sucks because you'd better be right and more often than not the sarcastichole is wrong.",
+                                    "rawText": "sarcasm sucks because you'd better be right and more often than not the sarcastichole is wrong.",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 21:38:15 GMT",
+                                    "tweetId": "1538999696160657413",
+                                    "urltweet": "https://twitter.com/davewiner/status/1538999696160657413",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@peterdelevett @GwashburnGlobe lebron is probably available.",
+                                    "rawText": "@peterdelevett @GwashburnGlobe lebron is probably available.",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 21:32:47 GMT",
+                                    "tweetId": "1538998321976594433",
+                                    "urltweet": "https://twitter.com/davewiner/status/1538998321976594433",
+                                    "inReplyToId": "1538988557523558400",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@Scobleizer @siegel @bbedit zuck was lucky.",
+                                    "rawText": "@Scobleizer @siegel @bbedit zuck was lucky.",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 21:30:07 GMT",
+                                    "tweetId": "1538997651055714305",
+                                    "urltweet": "https://twitter.com/davewiner/status/1538997651055714305",
+                                    "inReplyToId": "1538996733790724096",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@siegel @Scobleizer @bbedit that's right, nor did he have any idea that webstar or frontier existed. i think he seriously thought he was bringing the mac up to speed in internet stuff. all seat of the pants. bbedit wasn't in the way because there was no unix editor like yours. and good for you bro.",
                                     "rawText": "@siegel @Scobleizer @bbedit that's right, nor did he have any idea that webstar or frontier existed. i think he seriously thought he was bringing the mac up to speed in internet stuff. all seat of the pants. bbedit wasn't in the way because there was no unix editor like yours. and good for you bro.",
                                     "type": "tweet",
@@ -28,7 +57,19 @@
                                     "tweetId": "1538996300238266370",
                                     "urltweet": "https://twitter.com/davewiner/status/1538996300238266370",
                                     "inReplyToId": "1538991067902758919",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@siegel @Scobleizer @bbedit i'm not really complaining (that much). we went on to do all kinds of stuff that he could have benefited from, instead fuck him. 😀",
+                                            "rawText": "@siegel @Scobleizer @bbedit i'm not really complaining (that much). we went on to do all kinds of stuff that he could have benefited from, instead fuck him. 😀",
+                                            "type": "tweet",
+                                            "created": "Mon, 20 Jun 2022 21:25:34 GMT",
+                                            "tweetId": "1538996504043704320",
+                                            "urltweet": "https://twitter.com/davewiner/status/1538996504043704320",
+                                            "inReplyToId": "1538996300238266370",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Scobleizer @bbedit hey i'm still alive. so there's that. ;-)",
