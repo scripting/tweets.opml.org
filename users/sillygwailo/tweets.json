@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 22:18:02 GMT"
+            "dateModified": "Mon, 20 Jun 2022 13:16:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "TIL about @hoopqueens. /cc @wnbatoronto  <a href=\"https://t.co/laJRjk2yqS\">[link]</a>",
+                                    "rawText": "TIL about @hoopqueens. /cc @wnbatoronto  https://t.co/laJRjk2yqS",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 13:15:18 GMT",
+                                    "tweetId": "1538873124615331840",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1538873124615331840",
+                                    "inReplyToId": "1523750523845099520",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 19",
                             "type": "calendarDay",
