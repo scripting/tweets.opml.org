@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 22:15:01 GMT"
+            "dateModified": "Mon, 20 Jun 2022 15:10:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@rmneiss Their insecurity at not being Christian enough for today’s GOP after the rejection of Eric Cantor?",
+                                    "rawText": "@rmneiss Their insecurity at not being Christian enough for today’s GOP after the rejection of Eric Cantor?",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 15:09:24 GMT",
+                                    "tweetId": "1538901839109824512",
+                                    "urltweet": "https://twitter.com/yudel/status/1538901839109824512",
+                                    "inReplyToId": "1538900445367869444",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 19",
                             "type": "calendarDay",
