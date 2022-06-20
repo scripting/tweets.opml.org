@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 05:26:54 GMT"
+            "dateModified": "Mon, 20 Jun 2022 01:54:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Between all the screwed up plans and schedules, Life happens.",
+                                    "rawText": "Between all the screwed up plans and schedules, Life happens.",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 01:44:20 GMT",
+                                    "tweetId": "1538699237080326145",
+                                    "urltweet": "https://twitter.com/_am1t/status/1538699237080326145",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
