@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 18:43:03 GMT"
+            "dateModified": "Mon, 20 Jun 2022 10:33:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Amor entre desarrolladores: <a href=\"https://t.co/fkyqj7h0pF\">[link]</a>",
+                                    "rawText": "Amor entre desarrolladores: https://t.co/fkyqj7h0pF",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 10:28:54 GMT",
+                                    "tweetId": "1538831250315673600",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1538831250315673600",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 19",
                             "type": "calendarDay",
