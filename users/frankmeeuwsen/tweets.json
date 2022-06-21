@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 06:37:31 GMT"
+            "dateModified": "Tue, 21 Jun 2022 05:15:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@ChristaRomp @PearlJam Have fun, groeten aan Tom, Mirella, Dennis, al die anderen die je daar gaat tegenkomen!",
+                                    "rawText": "@ChristaRomp @PearlJam Have fun, groeten aan Tom, Mirella, Dennis, al die anderen die je daar gaat tegenkomen!",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 05:14:32 GMT",
+                                    "tweetId": "1539114525148041217",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1539114525148041217",
+                                    "inReplyToId": "1539085833520783360",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 19",
                             "type": "calendarDay",
