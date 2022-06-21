@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 16 Jun 2022 18:13:23 GMT"
+            "dateModified": "Tue, 21 Jun 2022 14:15:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@jgordonshare Did you have a press conference after the fall?  Are you ok?  Are you ok?  Are you ok?",
+                                    "rawText": "@jgordonshare Did you have a press conference after the fall?  Are you ok?  Are you ok?  Are you ok?",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 14:08:35 GMT",
+                                    "tweetId": "1539248922673266689",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1539248922673266689",
+                                    "inReplyToId": "1539098698269040640",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 16",
                             "type": "calendarDay",
