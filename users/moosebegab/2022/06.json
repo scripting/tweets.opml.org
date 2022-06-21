@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 00:03:18 GMT"
+            "dateModified": "Tue, 21 Jun 2022 02:40:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Dilly likes to share his love 💕 so I have to share my recliner with him.",
+                                    "rawText": "Dilly likes to share his love 💕 so I have to share my recliner with him.",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 02:27:15 GMT",
+                                    "tweetId": "1539072426717368325",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1539072426717368325",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 17",
                             "type": "calendarDay",
