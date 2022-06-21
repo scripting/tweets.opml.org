@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mistersugar/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 23:13:10 GMT"
+            "dateModified": "Tue, 21 Jun 2022 00:01:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Just got a copy of Our Own Worst Enemy by @RadioFreeTom ... and I just booked tickets to take my son to visit family in Jerusalem, RI next week. I'll wear shoes on the flight, read the book on the beach, and wave across the water to Tom.",
+                                    "rawText": "Just got a copy of Our Own Worst Enemy by @RadioFreeTom ... and I just booked tickets to take my son to visit family in Jerusalem, RI next week. I'll wear shoes on the flight, read the book on the beach, and wave across the water to Tom.",
+                                    "type": "tweet",
+                                    "created": "Mon, 20 Jun 2022 23:52:36 GMT",
+                                    "tweetId": "1539033505258250240",
+                                    "urltweet": "https://twitter.com/mistersugar/status/1539033505258250240",
+                                    "tweetUserName": "mistersugar"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 15",
                             "type": "calendarDay",
