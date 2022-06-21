@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 18 Jun 2022 13:13:24 GMT"
+            "dateModified": "Tue, 21 Jun 2022 17:21:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nExperimenting with the universal egg equation (<a href=\"https://t.co/RlNvfQwhet\">[link]</a>)\n\n#XQuery #SVG https://t.co/eOoRMK4uZ2",
+                                    "rawText": "#GenerativeArt interlude\n\nExperimenting with the universal egg equation (https://t.co/RlNvfQwhet)\n\n#XQuery #SVG https://t.co/eOoRMK4uZ2",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 17:10:45 GMT",
+                                    "tweetId": "1539294767317626881",
+                                    "urltweet": "https://twitter.com/mathling/status/1539294767317626881",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Pointier <a href=\"https://t.co/a9sUFrefc9\">[link]</a>",
+                                            "rawText": "Pointier https://t.co/a9sUFrefc9",
+                                            "type": "tweet",
+                                            "created": "Tue, 21 Jun 2022 17:10:49 GMT",
+                                            "tweetId": "1539294781888614400",
+                                            "urltweet": "https://twitter.com/mathling/status/1539294781888614400",
+                                            "inReplyToId": "1539294767317626881",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "Even more pointy <a href=\"https://t.co/9qqQAuE12i\">[link]</a>",
+                                                    "rawText": "Even more pointy https://t.co/9qqQAuE12i",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 21 Jun 2022 17:10:50 GMT",
+                                                    "tweetId": "1539294787102076929",
+                                                    "urltweet": "https://twitter.com/mathling/status/1539294787102076929",
+                                                    "inReplyToId": "1539294781888614400",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 18",
                             "type": "calendarDay",
