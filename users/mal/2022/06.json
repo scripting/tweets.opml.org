@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 13:22:19 GMT"
+            "dateModified": "Tue, 21 Jun 2022 19:13:42 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "@photojoseph @LuriaPetrucci i mean if you're not spending your money on video it's just wasted",
+                                    "rawText": "@photojoseph @LuriaPetrucci i mean if you're not spending your money on video it's just wasted",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 19:03:18 GMT",
+                                    "tweetId": "1539323089468608515",
+                                    "urltweet": "https://twitter.com/mal/status/1539323089468608515",
+                                    "inReplyToId": "1539270012447256578",
+                                    "tweetUserName": "mal",
+                                    "subs": [
+                                        {
+                                            "text": "@photojoseph @LuriaPetrucci unless it's audio",
+                                            "rawText": "@photojoseph @LuriaPetrucci unless it's audio",
+                                            "type": "tweet",
+                                            "created": "Tue, 21 Jun 2022 19:04:28 GMT",
+                                            "tweetId": "1539323382163857408",
+                                            "urltweet": "https://twitter.com/mal/status/1539323382163857408",
+                                            "inReplyToId": "1539323089468608515",
+                                            "tweetUserName": "mal"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@NathanBrimmer Don’t tell Mom the Babysitter’s Dead.",
                                     "rawText": "@NathanBrimmer Don’t tell Mom the Babysitter’s Dead.",
