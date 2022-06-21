@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 19 Jun 2022 17:33:28 GMT"
+            "dateModified": "Tue, 21 Jun 2022 13:22:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@NathanBrimmer Don’t tell Mom the Babysitter’s Dead.",
+                                    "rawText": "@NathanBrimmer Don’t tell Mom the Babysitter’s Dead.",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 13:16:07 GMT",
+                                    "tweetId": "1539235719528341505",
+                                    "urltweet": "https://twitter.com/mal/status/1539235719528341505",
+                                    "inReplyToId": "1536143788950839297",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 19",
                             "type": "calendarDay",
