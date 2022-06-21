@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 20 Jun 2022 00:52:27 GMT"
+            "dateModified": "Tue, 21 Jun 2022 16:21:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "Today's Workout: 315# squats, 110# overhead press, 335# deadlifts. 5x5 work sets (3x5 deadlift work sets) #StrongLifts5x5\n\nAs my friend @YatesHeath said, this is a nice aesthetic <a href=\"https://t.co/gNe7eN3ogv\">[link]</a>",
+                                    "rawText": "Today's Workout: 315# squats, 110# overhead press, 335# deadlifts. 5x5 work sets (3x5 deadlift work sets) #StrongLifts5x5\n\nAs my friend @YatesHeath said, this is a nice aesthetic https://t.co/gNe7eN3ogv",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 16:09:56 GMT",
+                                    "tweetId": "1539279461824090112",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1539279461824090112",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 19",
                             "type": "calendarDay",
