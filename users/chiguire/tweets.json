@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 11:00:55 GMT"
+            "dateModified": "Tue, 21 Jun 2022 11:13:56 GMT"
         },
         "body": {
             "subs": [
@@ -1009,7 +1009,19 @@
                                                                     "tweetId": "1538634734791696384",
                                                                     "urltweet": "https://twitter.com/chiguire/status/1538634734791696384",
                                                                     "inReplyToId": "1536975170996404224",
-                                                                    "tweetUserName": "chiguire"
+                                                                    "tweetUserName": "chiguire",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "#Heardle #116\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\n<a href=\"https://t.co/Z6l3YYHnYY\">[link]</a> https://t.co/7qHfVaNVjs",
+                                                                            "rawText": "#Heardle #116\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\nhttps://t.co/Z6l3YYHnYY https://t.co/7qHfVaNVjs",
+                                                                            "type": "tweet",
+                                                                            "created": "Tue, 21 Jun 2022 11:13:42 GMT",
+                                                                            "tweetId": "1539204912185323522",
+                                                                            "urltweet": "https://twitter.com/chiguire/status/1539204912185323522",
+                                                                            "inReplyToId": "1538634734791696384",
+                                                                            "tweetUserName": "chiguire"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
