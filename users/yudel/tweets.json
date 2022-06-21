@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 02:26:52 GMT"
+            "dateModified": "Tue, 21 Jun 2022 13:43:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@DBashIdeas Worked for Rava and Ravina…..",
+                                    "rawText": "@DBashIdeas Worked for Rava and Ravina…..",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 13:36:48 GMT",
+                                    "tweetId": "1539240925355982858",
+                                    "urltweet": "https://twitter.com/yudel/status/1539240925355982858",
+                                    "inReplyToId": "1539216863720361984",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 20",
                             "type": "calendarDay",
