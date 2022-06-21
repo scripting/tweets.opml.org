@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 20 Jun 2022 02:40:48 GMT"
+            "dateModified": "Tue, 21 Jun 2022 01:40:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Alicia Bridges - I Love The Nightlife (1978) <a href=\"https://t.co/hFUj1MZus3\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Alicia Bridges - I Love The Nightlife (1978) https://t.co/hFUj1MZus3",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 01:28:05 GMT",
+                                    "tweetId": "1539057535067598853",
+                                    "urltweet": "https://twitter.com/oevl/status/1539057535067598853",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: Alicia BRIDGES - Diamond is the Rough [1978] <a href=\"https://t.co/6xtXTrJNMj\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Alicia BRIDGES - Diamond is the Rough [1978] https://t.co/6xtXTrJNMj",
+                                    "type": "tweet",
+                                    "created": "Tue, 21 Jun 2022 01:28:04 GMT",
+                                    "tweetId": "1539057533616328708",
+                                    "urltweet": "https://twitter.com/oevl/status/1539057533616328708",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 19",
                             "type": "calendarDay",
