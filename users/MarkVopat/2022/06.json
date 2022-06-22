@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 16:21:31 GMT"
+            "dateModified": "Wed, 22 Jun 2022 14:54:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Stop teasing me @ulyssesapp <a href=\"https://t.co/dKAElteQ1T\">[link]</a>",
+                                    "rawText": "Stop teasing me @ulyssesapp https://t.co/dKAElteQ1T",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 14:43:59 GMT",
+                                    "tweetId": "1539620218720354306",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1539620218720354306",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
