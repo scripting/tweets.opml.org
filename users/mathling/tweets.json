@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 17:21:20 GMT"
+            "dateModified": "Wed, 22 Jun 2022 20:54:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nCosmic Eggs\n\n#XQuery #SVG <a href=\"https://t.co/y4xCKeQqSS\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nCosmic Eggs\n\n#XQuery #SVG https://t.co/y4xCKeQqSS",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 20:42:39 GMT",
+                                    "tweetId": "1539710481715175424",
+                                    "urltweet": "https://twitter.com/mathling/status/1539710481715175424",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "The spiral jags and dot spirals are an artifact of the way I'm generating the distances; I suppose I could fix it, but I kinda like it <a href=\"https://t.co/KXk3cBU5au\">[link]</a>",
+                                            "rawText": "The spiral jags and dot spirals are an artifact of the way I'm generating the distances; I suppose I could fix it, but I kinda like it https://t.co/KXk3cBU5au",
+                                            "type": "tweet",
+                                            "created": "Wed, 22 Jun 2022 20:42:41 GMT",
+                                            "tweetId": "1539710487029354496",
+                                            "urltweet": "https://twitter.com/mathling/status/1539710487029354496",
+                                            "inReplyToId": "1539710481715175424",
+                                            "tweetUserName": "mathling"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
