@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 16:39:32 GMT"
+            "dateModified": "Wed, 22 Jun 2022 18:41:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@ramfrancisuk @chippy <a href=\"https://t.co/rZIQ3DXE4O\">[link]</a>",
+                                    "rawText": "@ramfrancisuk @chippy https://t.co/rZIQ3DXE4O",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 18:35:03 GMT",
+                                    "tweetId": "1539678368773332994",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1539678368773332994",
+                                    "inReplyToId": "1539674340316397569",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
