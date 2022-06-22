@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 01:35:48 GMT"
+            "dateModified": "Wed, 22 Jun 2022 23:34:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "I just earned the 'To Go Please (Level 23)' badge on @untappd! <a href=\"https://t.co/9JRADEFSm6\">[link]</a>",
+                                    "rawText": "I just earned the 'To Go Please (Level 23)' badge on @untappd! https://t.co/9JRADEFSm6",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 23:22:04 GMT",
+                                    "tweetId": "1539750600145084416",
+                                    "urltweet": "https://twitter.com/frankm/status/1539750600145084416",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 20",
                             "type": "calendarDay",
