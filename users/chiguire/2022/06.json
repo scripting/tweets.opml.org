@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 13:24:05 GMT"
+            "dateModified": "Wed, 22 Jun 2022 07:50:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@migueljga Gracias Eulalio",
+                                    "rawText": "@migueljga Gracias Eulalio",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 07:46:00 GMT",
+                                    "tweetId": "1539515028667351042",
+                                    "urltweet": "https://twitter.com/chiguire/status/1539515028667351042",
+                                    "inReplyToId": "1539295269140979713",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
