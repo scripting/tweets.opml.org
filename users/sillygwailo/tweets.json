@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 03:00:27 GMT"
+            "dateModified": "Wed, 22 Jun 2022 14:04:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "The memeification of a serious topic makes positive change impossible. <a href=\"https://t.co/hhGdklrCWt\">[link]</a>",
+                                    "rawText": "The memeification of a serious topic makes positive change impossible. https://t.co/hhGdklrCWt",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 13:54:05 GMT",
+                                    "tweetId": "1539607661158846464",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1539607661158846464",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
