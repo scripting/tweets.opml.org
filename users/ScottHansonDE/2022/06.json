@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 19:20:57 GMT"
+            "dateModified": "Wed, 22 Jun 2022 06:11:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@bzbear2 I heard on the news last night that on midsummer Hamburg has an hour more daylight than Munich. I didn’t realize the difference was so much.",
+                                    "rawText": "@bzbear2 I heard on the news last night that on midsummer Hamburg has an hour more daylight than Munich. I didn’t realize the difference was so much.",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 06:05:20 GMT",
+                                    "tweetId": "1539489696644055040",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1539489696644055040",
+                                    "inReplyToId": "1539157998668591105",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
