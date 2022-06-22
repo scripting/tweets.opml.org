@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 05:54:35 GMT"
+            "dateModified": "Wed, 22 Jun 2022 10:06:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@martijnaslander \"sort of stay tuned\"... <a href=\"https://t.co/jf2YJZskX9\">[link]</a>",
+                                    "rawText": "@martijnaslander \"sort of stay tuned\"... https://t.co/jf2YJZskX9",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 09:58:07 GMT",
+                                    "tweetId": "1539548276617248768",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1539548276617248768",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
