@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 16:09:18 GMT"
+            "dateModified": "Wed, 22 Jun 2022 16:22:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "@KenSmith yes",
+                                    "rawText": "@KenSmith yes",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 16:10:48 GMT",
+                                    "tweetId": "1539642064690102272",
+                                    "urltweet": "https://twitter.com/davewiner/status/1539642064690102272",
+                                    "inReplyToId": "1539636959085318150",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Mailbox-style readers. <a href=\"https://t.co/NFU8GjV0HC\">[link]</a>",
                                     "rawText": "Mailbox-style readers. https://t.co/NFU8GjV0HC",
