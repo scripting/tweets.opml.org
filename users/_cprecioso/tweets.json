@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 21:28:20 GMT"
+            "dateModified": "Wed, 22 Jun 2022 06:34:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@rafagarces Maratón de HSM porfavor",
+                                    "rawText": "@rafagarces Maratón de HSM porfavor",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 06:32:26 GMT",
+                                    "tweetId": "1539496517530226689",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1539496517530226689",
+                                    "inReplyToId": "1539494745851977730",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
