@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 21:34:40 GMT"
+            "dateModified": "Wed, 22 Jun 2022 23:57:49 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "@adamrg — I can’t respond, but I’d suggest <a href=\"https://t.co/nMPkirypoV\">[link]</a>",
+                                    "rawText": "@adamrg — I can’t respond, but I’d suggest https://t.co/nMPkirypoV",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 23:46:19 GMT",
+                                    "tweetId": "1539756699380228097",
+                                    "urltweet": "https://twitter.com/davewiner/status/1539756699380228097",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@whengoodenough i agree. that's why i want to see a concise fact sheet and get into the api. think about all kinds of writing tools hooking up to twitter. we've never had a system like this.",
                                     "rawText": "@whengoodenough i agree. that's why i want to see a concise fact sheet and get into the api. think about all kinds of writing tools hooking up to twitter. we've never had a system like this.",
