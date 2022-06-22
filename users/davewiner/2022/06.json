@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 13:33:08 GMT"
+            "dateModified": "Wed, 22 Jun 2022 14:38:12 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 22 Jun 2022 13:20:47 GMT",
                                     "tweetId": "1539599278636761088",
                                     "urltweet": "https://twitter.com/davewiner/status/1539599278636761088",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "This was poorly worded. I suppose it's inevitable that at some time some person of color did try to stop a white person from voting. But if you give a snarky answer, that makes you look like an ass -- and I'll just block you instead of trying to prove to you that you're an ass.",
+                                            "rawText": "This was poorly worded. I suppose it's inevitable that at some time some person of color did try to stop a white person from voting. But if you give a snarky answer, that makes you look like an ass -- and I'll just block you instead of trying to prove to you that you're an ass.",
+                                            "type": "tweet",
+                                            "created": "Wed, 22 Jun 2022 14:33:02 GMT",
+                                            "tweetId": "1539617462316056577",
+                                            "urltweet": "https://twitter.com/davewiner/status/1539617462316056577",
+                                            "inReplyToId": "1539599278636761088",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@AdamSinger @SubstackInc @hamishmckenzie @lulumeservey It's easily solved. I did raise the issue, but basically there was no response. They just have to support inbound RSS feeds. I would help them do it.",
