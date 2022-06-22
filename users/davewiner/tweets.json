@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 18:32:28 GMT"
+            "dateModified": "Wed, 22 Jun 2022 19:11:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "Twitter is blowing out the character limit, finally.\n\nI would love to see a spec sheet, and hopefully there’s an API. \n\nShould be an interesting connection for RSS. <a href=\"https://t.co/RpxnJaciwI\">[link]</a>",
+                                    "rawText": "Twitter is blowing out the character limit, finally.\n\nI would love to see a spec sheet, and hopefully there’s an API. \n\nShould be an interesting connection for RSS. https://t.co/RpxnJaciwI",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 19:07:38 GMT",
+                                    "tweetId": "1539686568679677954",
+                                    "urltweet": "https://twitter.com/davewiner/status/1539686568679677954",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@hamishmckenzie @AdamSinger @SubstackInc @lulumeservey to be clear it didn't hold me back, i was able to put together an email distribution system (this was in 2019). but i would be happy to see you allow writers choice of writing tools. we really like what we use, no matter how good your editor is. ;-)",
                                     "rawText": "@hamishmckenzie @AdamSinger @SubstackInc @lulumeservey to be clear it didn't hold me back, i was able to put together an email distribution system (this was in 2019). but i would be happy to see you allow writers choice of writing tools. we really like what we use, no matter how good your editor is. ;-)",
