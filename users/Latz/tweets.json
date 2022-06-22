@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 20:50:33 GMT"
+            "dateModified": "Wed, 22 Jun 2022 08:33:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@TraderCodes @Tabnine_ I know, but I'm coding for fun only. $120/y or $144/y is quite some money in that case.",
+                                    "rawText": "@TraderCodes @Tabnine_ I know, but I'm coding for fun only. $120/y or $144/y is quite some money in that case.",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 08:25:44 GMT",
+                                    "tweetId": "1539525027082780672",
+                                    "urltweet": "https://twitter.com/Latz/status/1539525027082780672",
+                                    "inReplyToId": "1539468830174392320",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
