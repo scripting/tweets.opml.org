@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 03:23:29 GMT"
+            "dateModified": "Wed, 22 Jun 2022 17:03:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,44 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@froomkin @maggieNYT Funny how she has opinions of what’s in a source’s head, but her colleague Peter Baker has no opinions as to which candidate will be best for the country.",
+                                    "rawText": "@froomkin @maggieNYT Funny how she has opinions of what’s in a source’s head, but her colleague Peter Baker has no opinions as to which candidate will be best for the country.",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 16:57:50 GMT",
+                                    "tweetId": "1539653903180271616",
+                                    "urltweet": "https://twitter.com/yudel/status/1539653903180271616",
+                                    "inReplyToId": "1539635676517376008",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "Your reminder that not taking responsibility for one’s inevitable consequences is central to the American legal, economic, and political order. <a href=\"https://t.co/fTfL4T9JJJ\">[link]</a>",
+                                    "rawText": "Your reminder that not taking responsibility for one’s inevitable consequences is central to the American legal, economic, and political order. https://t.co/fTfL4T9JJJ",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 16:54:15 GMT",
+                                    "tweetId": "1539653001727447041",
+                                    "urltweet": "https://twitter.com/yudel/status/1539653001727447041",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "That this is at radical odds with the basic Talmudic principles I learned as a ninth grade yeshiva student explains my ongoing cognitive dissonance.",
+                                            "rawText": "That this is at radical odds with the basic Talmudic principles I learned as a ninth grade yeshiva student explains my ongoing cognitive dissonance.",
+                                            "type": "tweet",
+                                            "created": "Wed, 22 Jun 2022 16:56:21 GMT",
+                                            "tweetId": "1539653531476447233",
+                                            "urltweet": "https://twitter.com/yudel/status/1539653531476447233",
+                                            "inReplyToId": "1539653001727447041",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
