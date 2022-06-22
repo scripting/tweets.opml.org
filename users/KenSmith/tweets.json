@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 15:57:02 GMT"
+            "dateModified": "Wed, 22 Jun 2022 20:30:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Temporary. <a href=\"https://t.co/MUIghfwuGQ\">[link]</a> https://t.co/dlhEuKGuCD",
+                                    "rawText": "Temporary. https://t.co/MUIghfwuGQ https://t.co/dlhEuKGuCD",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 20:20:49 GMT",
+                                    "tweetId": "1539704987269402626",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1539704987269402626",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/9pXz7Aes67\">[link]</a>",
+                                            "rawText": "https://t.co/9pXz7Aes67",
+                                            "type": "tweet",
+                                            "created": "Wed, 22 Jun 2022 20:20:51 GMT",
+                                            "tweetId": "1539704994538086402",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1539704994538086402",
+                                            "inReplyToId": "1539704987269402626",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
