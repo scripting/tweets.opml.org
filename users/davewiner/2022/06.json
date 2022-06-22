@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 02:16:24 GMT"
+            "dateModified": "Wed, 22 Jun 2022 08:59:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Traffic Stop. The most powerful ad. <a href=\"https://t.co/iy1g2Pbxxq\">[link]</a>",
+                                    "rawText": "Traffic Stop. The most powerful ad. https://t.co/iy1g2Pbxxq",
+                                    "type": "tweet",
+                                    "created": "Wed, 22 Jun 2022 08:53:10 GMT",
+                                    "tweetId": "1539531932421210112",
+                                    "urltweet": "https://twitter.com/davewiner/status/1539531932421210112",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
