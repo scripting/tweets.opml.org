@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 20:04:34 GMT"
+            "dateModified": "Thu, 23 Jun 2022 11:02:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@tessaapproves That’s like a flat pie",
+                                    "rawText": "@tessaapproves That’s like a flat pie",
+                                    "type": "tweet",
+                                    "created": "Thu, 23 Jun 2022 11:00:48 GMT",
+                                    "tweetId": "1539926440619155458",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1539926440619155458",
+                                    "inReplyToId": "1539899555612971008",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 22",
                             "type": "calendarDay",
