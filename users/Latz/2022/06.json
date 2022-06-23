@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 21:34:10 GMT"
+            "dateModified": "Thu, 23 Jun 2022 10:08:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Ich fürchte die #documenta wird #Kassel eine frühe neue Corona-Welle bringen.\n\nStraßenbahnen und Busse rappelvoll und die Hälfte der Leute trägt keine Maske, 1/4 nur mediz. Maske.",
+                                    "rawText": "Ich fürchte die #documenta wird #Kassel eine frühe neue Corona-Welle bringen.\n\nStraßenbahnen und Busse rappelvoll und die Hälfte der Leute trägt keine Maske, 1/4 nur mediz. Maske.",
+                                    "type": "tweet",
+                                    "created": "Thu, 23 Jun 2022 10:01:47 GMT",
+                                    "tweetId": "1539911588769038338",
+                                    "urltweet": "https://twitter.com/Latz/status/1539911588769038338",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 22",
                             "type": "calendarDay",
