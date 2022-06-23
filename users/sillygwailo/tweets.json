@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 18:29:01 GMT"
+            "dateModified": "Thu, 23 Jun 2022 23:54:22 GMT"
         },
         "body": {
             "subs": [
@@ -1156,7 +1156,19 @@
                                             "tweetId": "1536966423129427971",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1536966423129427971",
                                             "inReplyToId": "1535661658701447169",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "It’s happening. <a href=\"https://t.co/pRZG9D737w\">[link]</a>",
+                                                    "rawText": "It’s happening. https://t.co/pRZG9D737w",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 23 Jun 2022 23:54:12 GMT",
+                                                    "tweetId": "1540121072976236547",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1540121072976236547",
+                                                    "inReplyToId": "1536966423129427971",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
