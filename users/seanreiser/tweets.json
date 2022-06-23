@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 07:02:10 GMT"
+            "dateModified": "Thu, 23 Jun 2022 06:19:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "2 out of 3 nights.  Yeah for Cloudflare,",
+                                    "rawText": "2 out of 3 nights.  Yeah for Cloudflare,",
+                                    "type": "tweet",
+                                    "created": "Thu, 23 Jun 2022 06:15:38 GMT",
+                                    "tweetId": "1539854674739822597",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1539854674739822597",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 21",
                             "type": "calendarDay",
