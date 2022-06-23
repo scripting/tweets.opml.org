@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 21 Jun 2022 02:40:07 GMT"
+            "dateModified": "Thu, 23 Jun 2022 13:26:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@Mairead_Sayre : ((",
+                                    "rawText": "@Mairead_Sayre : ((",
+                                    "type": "tweet",
+                                    "created": "Thu, 23 Jun 2022 13:21:45 GMT",
+                                    "tweetId": "1539961910514356225",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1539961910514356225",
+                                    "inReplyToId": "1539954860296224769",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 20",
                             "type": "calendarDay",
