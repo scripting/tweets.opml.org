@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 23:38:21 GMT"
+            "dateModified": "Thu, 23 Jun 2022 23:51:21 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 23 Jun 2022 23:38:15 GMT",
                                     "tweetId": "1540117058700156929",
                                     "urltweet": "https://twitter.com/yudel/status/1540117058700156929",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Keeps prices low but occasionally kills customers. Oops!",
+                                            "rawText": "Keeps prices low but occasionally kills customers. Oops!",
+                                            "type": "tweet",
+                                            "created": "Thu, 23 Jun 2022 23:39:03 GMT",
+                                            "tweetId": "1540117260580388864",
+                                            "urltweet": "https://twitter.com/yudel/status/1540117260580388864",
+                                            "inReplyToId": "1540117058700156929",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@theroncouch @KurtBusiek The thing about voting is that, unlike brushing your teeth, you’re only called upon to do it two or three times a year at most.",
