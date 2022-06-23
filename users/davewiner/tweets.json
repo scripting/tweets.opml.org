@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 16:26:53 GMT"
+            "dateModified": "Thu, 23 Jun 2022 16:39:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "@ElieNYC I wish a billionaire would give you and your publisher $5 million so you could forget about selling the book and just upload the audio to YouTube and save the world.",
+                                    "rawText": "@ElieNYC I wish a billionaire would give you and your publisher $5 million so you could forget about selling the book and just upload the audio to YouTube and save the world.",
+                                    "type": "tweet",
+                                    "created": "Thu, 23 Jun 2022 16:38:32 GMT",
+                                    "tweetId": "1540011432175181826",
+                                    "urltweet": "https://twitter.com/davewiner/status/1540011432175181826",
+                                    "inReplyToId": "1539990021150834688",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "A friend asked how to do a thread of tweets in drummer. \n\n1. write the outline of tweets \n\n2. put the cursor on the top item \n\n3. click the Twitter icon in the left sidebar\n\n<a href=\"https://t.co/BjzxcttvZJ\">[link]</a>",
+                                    "rawText": "A friend asked how to do a thread of tweets in drummer. \n\n1. write the outline of tweets \n\n2. put the cursor on the top item \n\n3. click the Twitter icon in the left sidebar\n\nhttps://t.co/BjzxcttvZJ",
+                                    "type": "tweet",
+                                    "created": "Thu, 23 Jun 2022 16:35:43 GMT",
+                                    "tweetId": "1540010723954376704",
+                                    "urltweet": "https://twitter.com/davewiner/status/1540010723954376704",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/jBvvd07MwT\">[link]</a>",
+                                            "rawText": "https://t.co/jBvvd07MwT",
+                                            "type": "tweet",
+                                            "created": "Thu, 23 Jun 2022 16:35:56 GMT",
+                                            "tweetId": "1540010777477775362",
+                                            "urltweet": "https://twitter.com/davewiner/status/1540010777477775362",
+                                            "inReplyToId": "1540010723954376704",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@ashevat It's a good point, but you have to watch out, because something the big company *can* do quickly is announce a product that crushes yours. They don't even have to ship it, and it still can really hurt or put you out of business.",
                                     "rawText": "@ashevat It's a good point, but you have to watch out, because something the big company *can* do quickly is announce a product that crushes yours. They don't even have to ship it, and it still can really hurt or put you out of business.",
