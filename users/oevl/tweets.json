@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 22 Jun 2022 20:37:06 GMT"
+            "dateModified": "Thu, 23 Jun 2022 17:39:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Go Skateboarding Day 2022 with Oakley and Friends <a href=\"https://t.co/vrB29QcKrk\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Go Skateboarding Day 2022 with Oakley and Friends https://t.co/vrB29QcKrk",
+                                    "type": "tweet",
+                                    "created": "Thu, 23 Jun 2022 17:28:33 GMT",
+                                    "tweetId": "1540024018954326017",
+                                    "urltweet": "https://twitter.com/oevl/status/1540024018954326017",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 22",
                             "type": "calendarDay",
