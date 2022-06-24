@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 00:28:24 GMT"
+            "dateModified": "Fri, 24 Jun 2022 00:41:25 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1540129478243917824",
                                     "urltweet": "https://twitter.com/davewiner/status/1540129478243917824",
                                     "inReplyToId": "1540128484743270400",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@GratefulDead It's even worse than it appears. 😁",
+                                            "rawText": "@GratefulDead It's even worse than it appears. 😁",
+                                            "type": "tweet",
+                                            "created": "Fri, 24 Jun 2022 00:31:38 GMT",
+                                            "tweetId": "1540130494473445378",
+                                            "urltweet": "https://twitter.com/davewiner/status/1540130494473445378",
+                                            "inReplyToId": "1540129478243917824",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Siskel &amp; Ebert's Enthusiastic Review for Fargo. <a href=\"https://t.co/25ec38BrdU\">[link]</a>",
