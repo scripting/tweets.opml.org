@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 15:00:20 GMT"
+            "dateModified": "Fri, 24 Jun 2022 16:05:25 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "this is so important. <a href=\"https://t.co/xkT5qbRo51\">[link]</a>",
+                                    "rawText": "this is so important. https://t.co/xkT5qbRo51",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 16:00:30 GMT",
+                                    "tweetId": "1540364250538967045",
+                                    "urltweet": "https://twitter.com/davewiner/status/1540364250538967045",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Politically, tag every Republican candidate for *anything* with this decision. It's a referendum on freedom. The Repubs, each and every one of them, are on the wrong side of this. Make them defend it.",
                                     "rawText": "Politically, tag every Republican candidate for *anything* with this decision. It's a referendum on freedom. The Repubs, each and every one of them, are on the wrong side of this. Make them defend it.",
