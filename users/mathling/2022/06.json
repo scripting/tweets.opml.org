@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 18:22:30 GMT"
+            "dateModified": "Fri, 24 Jun 2022 16:42:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nA distraction from this evil day\n\nThe shape of eggs\n\n<a href=\"https://t.co/zMw1mY6RtL\">[link]</a>\n\n#XQuery #SVG",
+                                    "rawText": "#GenerativeArt interlude\n\nA distraction from this evil day\n\nThe shape of eggs\n\nhttps://t.co/zMw1mY6RtL\n\n#XQuery #SVG",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 16:39:45 GMT",
+                                    "tweetId": "1540374125771821056",
+                                    "urltweet": "https://twitter.com/mathling/status/1540374125771821056",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
