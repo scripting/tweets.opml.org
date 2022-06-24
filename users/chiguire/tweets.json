@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 12:54:09 GMT"
+            "dateModified": "Fri, 24 Jun 2022 09:30:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@Alexformosoc :(",
+                                    "rawText": "@Alexformosoc :(",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 09:28:27 GMT",
+                                    "tweetId": "1540265587569459200",
+                                    "urltweet": "https://twitter.com/chiguire/status/1540265587569459200",
+                                    "inReplyToId": "1540264450770587648",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
