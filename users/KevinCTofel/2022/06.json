@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 01:42:14 GMT"
+            "dateModified": "Fri, 24 Jun 2022 21:39:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Here's the HP Elite Dragonfly Chromebook price by model <a href=\"https://t.co/vuFgh1TvXv\">[link]</a> https://t.co/gdfQBjMFYh",
+                                    "rawText": "ICYMI: Here's the HP Elite Dragonfly Chromebook price by model https://t.co/vuFgh1TvXv https://t.co/gdfQBjMFYh",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 21:26:30 GMT",
+                                    "tweetId": "1540446292710756354",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1540446292710756354",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
