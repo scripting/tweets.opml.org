@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 01:46:29 GMT"
+            "dateModified": "Fri, 24 Jun 2022 07:37:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,41 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "Are there hippies everywhere?",
+                                    "rawText": "Are there hippies everywhere?",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 07:31:37 GMT",
+                                    "tweetId": "1540236186823819264",
+                                    "urltweet": "https://twitter.com/davewiner/status/1540236186823819264",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@brijwhiz 😀",
+                                    "rawText": "@brijwhiz 😀",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 07:31:07 GMT",
+                                    "tweetId": "1540236060936097792",
+                                    "urltweet": "https://twitter.com/davewiner/status/1540236060936097792",
+                                    "inReplyToId": "1540205749175197696",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "What’s wrong with Twitter Knicks fans? We’ve got the best young players in the NBA and so why do we need to draft anyone? Hold tight, hang out and wait till next week when we can sign free agents and trade all the detritus that’s accumulated. we will be OK.",
+                                    "rawText": "What’s wrong with Twitter Knicks fans? We’ve got the best young players in the NBA and so why do we need to draft anyone? Hold tight, hang out and wait till next week when we can sign free agents and trade all the detritus that’s accumulated. we will be OK.",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 07:29:05 GMT",
+                                    "tweetId": "1540235548337623041",
+                                    "urltweet": "https://twitter.com/davewiner/status/1540235548337623041",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
