@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 22:14:48 GMT"
+            "dateModified": "Fri, 24 Jun 2022 23:06:51 GMT"
         },
         "body": {
             "subs": [
@@ -180,7 +180,19 @@
                                     "tweetId": "1539751350321512449",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1539751350321512449",
                                     "inReplyToId": "1227394698412744704",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "See? There’s more than one. Amazing. <a href=\"https://t.co/MxoX8z1qWK\">[link]</a>",
+                                            "rawText": "See? There’s more than one. Amazing. https://t.co/MxoX8z1qWK",
+                                            "type": "tweet",
+                                            "created": "Fri, 24 Jun 2022 23:01:10 GMT",
+                                            "tweetId": "1540470114755149829",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1540470114755149829",
+                                            "inReplyToId": "1539751350321512449",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Minor realization: I’m more worried that something that hasn’t happened to me in 17 years will happen than I am hopeful, because it came as a surprise then, and I hate surprises.",
