@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "Surfy tweets",
+            "dateCreated": "Tue, 25 Jan 2022 19:17:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 24 Jun 2022 22:43:05 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2022",
+                    "type": "calendarMonth",
+                    "name": "june2022",
+                    "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "WeatherLovers Editorial #1:  The California Drought <a href=\"https://t.co/3Luasismzo\">[link]</a>",
+                                    "rawText": "WeatherLovers Editorial #1:  The California Drought https://t.co/3Luasismzo",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 22:40:37 GMT",
+                                    "tweetId": "1540464944117739520",
+                                    "urltweet": "https://twitter.com/Surfy/status/1540464944117739520",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
