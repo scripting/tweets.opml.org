@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 23:30:05 GMT"
+            "dateModified": "Fri, 24 Jun 2022 18:22:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@CongMikeSimpson I guess it shows how desperate the GOP is to literally print voters in red states.",
+                                    "rawText": "@CongMikeSimpson I guess it shows how desperate the GOP is to literally print voters in red states.",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 18:11:58 GMT",
+                                    "tweetId": "1540397333032030210",
+                                    "urltweet": "https://twitter.com/mal/status/1540397333032030210",
+                                    "inReplyToId": "1540396742977265664",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
