@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 12 Jun 2022 19:10:16 GMT"
+            "dateModified": "Fri, 24 Jun 2022 05:32:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@Sally_K You are braver than me.",
+                                    "rawText": "@Sally_K You are braver than me.",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 05:29:00 GMT",
+                                    "tweetId": "1540205326347038721",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1540205326347038721",
+                                    "inReplyToId": "1540023179665502209",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 12",
                             "type": "calendarDay",
