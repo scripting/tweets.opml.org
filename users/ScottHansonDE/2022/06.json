@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 18:29:34 GMT"
+            "dateModified": "Fri, 24 Jun 2022 18:42:35 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,31 @@
                                     "created": "Fri, 24 Jun 2022 17:55:03 GMT",
                                     "tweetId": "1540393076291768320",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1540393076291768320",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "I decided a few years to let that party wander aimlessly without me (but they still have my vote) and joined a German party. I may not be able to vote here yet, but I helped pick party leaders and a Chancellor candidate who’s now in power.",
+                                            "rawText": "I decided a few years to let that party wander aimlessly without me (but they still have my vote) and joined a German party. I may not be able to vote here yet, but I helped pick party leaders and a Chancellor candidate who’s now in power.",
+                                            "type": "tweet",
+                                            "created": "Fri, 24 Jun 2022 18:35:31 GMT",
+                                            "tweetId": "1540403259915096064",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1540403259915096064",
+                                            "inReplyToId": "1540393076291768320",
+                                            "tweetUserName": "ScottHansonDE",
+                                            "subs": [
+                                                {
+                                                    "text": "And is checking off the boxes on their campaign promises, like just today on freedom of information for abortion providers <a href=\"https://t.co/lDiTROwiTX\">[link]</a>",
+                                                    "rawText": "And is checking off the boxes on their campaign promises, like just today on freedom of information for abortion providers https://t.co/lDiTROwiTX",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 24 Jun 2022 18:39:43 GMT",
+                                                    "tweetId": "1540404319098478592",
+                                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1540404319098478592",
+                                                    "inReplyToId": "1540403259915096064",
+                                                    "tweetUserName": "ScottHansonDE"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
