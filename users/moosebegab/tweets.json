@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 13:26:56 GMT"
+            "dateModified": "Fri, 24 Jun 2022 14:36:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "FUCKFUCKFUCK\n#RoeVsWade",
+                                    "rawText": "FUCKFUCKFUCK\n#RoeVsWade",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 14:32:12 GMT",
+                                    "tweetId": "1540342028625743875",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1540342028625743875",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
