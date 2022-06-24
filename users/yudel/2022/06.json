@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 03:06:34 GMT"
+            "dateModified": "Fri, 24 Jun 2022 04:50:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "In which I commision some original artificial Monets. <a href=\"https://t.co/ng83UMuo2m\">[link]</a>",
+                                    "rawText": "In which I commision some original artificial Monets. https://t.co/ng83UMuo2m",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 04:48:37 GMT",
+                                    "tweetId": "1540195164286754817",
+                                    "urltweet": "https://twitter.com/yudel/status/1540195164286754817",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@FelurianFelicis @Dalle2Pics @CursedDalle2 Actually, two tables is a more catlike way to play the game!",
+                                    "rawText": "@FelurianFelicis @Dalle2Pics @CursedDalle2 Actually, two tables is a more catlike way to play the game!",
+                                    "type": "tweet",
+                                    "created": "Fri, 24 Jun 2022 04:44:47 GMT",
+                                    "tweetId": "1540194201387892737",
+                                    "urltweet": "https://twitter.com/yudel/status/1540194201387892737",
+                                    "inReplyToId": "1540193593792552960",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
