@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 19:55:09 GMT"
+            "dateModified": "Sat, 25 Jun 2022 11:06:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Un tuit viral mío terminó en un screenshot compartido en Facebook.\nUn ítem menos del bucket list.",
+                                    "rawText": "Un tuit viral mío terminó en un screenshot compartido en Facebook.\nUn ítem menos del bucket list.",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 11:02:46 GMT",
+                                    "tweetId": "1540651710913183744",
+                                    "urltweet": "https://twitter.com/chiguire/status/1540651710913183744",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
