@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 13:51:49 GMT"
+            "dateModified": "Sat, 25 Jun 2022 14:04:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Same in Canada. <a href=\"https://t.co/2cHbkLvbPN\">[link]</a>",
+                                    "rawText": "Same in Canada. https://t.co/2cHbkLvbPN",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 13:59:01 GMT",
+                                    "tweetId": "1540696064440692736",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1540696064440692736",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
