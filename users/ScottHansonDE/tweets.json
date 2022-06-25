@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 20:26:41 GMT"
+            "dateModified": "Sat, 25 Jun 2022 08:09:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@tehnyit Never heard of these. Is this Australia? Don’t see them on the McD Australia website.",
+                                    "rawText": "@tehnyit Never heard of these. Is this Australia? Don’t see them on the McD Australia website.",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 07:58:36 GMT",
+                                    "tweetId": "1540605363380273153",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1540605363380273153",
+                                    "inReplyToId": "1540576842616389634",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
