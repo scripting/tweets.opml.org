@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 01:51:02 GMT"
+            "dateModified": "Sat, 25 Jun 2022 02:04:03 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "@HopeLoveLaughMA not what i was thinking. someone who inspires the people.",
+                                    "rawText": "@HopeLoveLaughMA not what i was thinking. someone who inspires the people.",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 01:54:16 GMT",
+                                    "tweetId": "1540513676834258944",
+                                    "urltweet": "https://twitter.com/davewiner/status/1540513676834258944",
+                                    "inReplyToId": "1540513465797853184",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I wonder what the federalists plan to do when the dems add four more justices to the supreme court. didn't hear that idea discussed on msnbc tonight.",
                                     "rawText": "I wonder what the federalists plan to do when the dems add four more justices to the supreme court. didn't hear that idea discussed on msnbc tonight.",
@@ -47,7 +57,31 @@
                                                     "tweetId": "1540512632154849282",
                                                     "urltweet": "https://twitter.com/davewiner/status/1540512632154849282",
                                                     "inReplyToId": "1540512359109873664",
-                                                    "tweetUserName": "davewiner"
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "after the november election biden should announce he's not running again, and let the dems start the campaign for 2024 then. someone young and strong, and not the typical wimpy democrat. someone who breathes fire and kicks republican ass.",
+                                                            "rawText": "after the november election biden should announce he's not running again, and let the dems start the campaign for 2024 then. someone young and strong, and not the typical wimpy democrat. someone who breathes fire and kicks republican ass.",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 25 Jun 2022 01:51:41 GMT",
+                                                            "tweetId": "1540513025110822922",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1540513025110822922",
+                                                            "inReplyToId": "1540512632154849282",
+                                                            "tweetUserName": "davewiner",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "i leave you tonight with this ad, which until today was just a cautionary tale but now it is reality in the united states of america. spread it around. this is home.\n\n<a href=\"https://t.co/M4opXIyF7Y\">[link]</a>",
+                                                                    "rawText": "i leave you tonight with this ad, which until today was just a cautionary tale but now it is reality in the united states of america. spread it around. this is home.\n\nhttps://t.co/M4opXIyF7Y",
+                                                                    "type": "tweet",
+                                                                    "created": "Sat, 25 Jun 2022 01:53:16 GMT",
+                                                                    "tweetId": "1540513422953021440",
+                                                                    "urltweet": "https://twitter.com/davewiner/status/1540513422953021440",
+                                                                    "inReplyToId": "1540513025110822922",
+                                                                    "tweetUserName": "davewiner"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
