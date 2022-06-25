@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 15 Jun 2022 02:21:19 GMT"
+            "dateModified": "Sat, 25 Jun 2022 12:26:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/vlKA4f8V8h\">[link]</a>",
+                                    "rawText": "https://t.co/vlKA4f8V8h",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 12:15:28 GMT",
+                                    "tweetId": "1540670005959729160",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1540670005959729160",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 14",
                             "type": "calendarDay",
