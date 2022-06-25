@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 16:26:38 GMT"
+            "dateModified": "Sat, 25 Jun 2022 16:35:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Dorothy and Herman Santana at the dinner party in Columbus on Tuesday <a href=\"https://t.co/EJlUetG8vJ\">[link]</a>",
+                                    "rawText": "Dorothy and Herman Santana at the dinner party in Columbus on Tuesday https://t.co/EJlUetG8vJ",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 16:23:58 GMT",
+                                    "tweetId": "1540732543116476418",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1540732543116476418",
+                                    "tweetUserName": "cluelessnewbie"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
