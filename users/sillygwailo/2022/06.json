@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 01:17:00 GMT"
+            "dateModified": "Sat, 25 Jun 2022 01:43:02 GMT"
         },
         "body": {
             "subs": [
@@ -88,7 +88,19 @@
                                             "tweetId": "1540481835884593152",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1540481835884593152",
                                             "inReplyToId": "1540481834018127872",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "*Owen Wilson Wow* <a href=\"https://t.co/NZHQ4Q00GH\">[link]</a>",
+                                                    "rawText": "*Owen Wilson Wow* https://t.co/NZHQ4Q00GH",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 25 Jun 2022 01:33:46 GMT",
+                                                    "tweetId": "1540508519035797504",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1540508519035797504",
+                                                    "inReplyToId": "1540481835884593152",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
