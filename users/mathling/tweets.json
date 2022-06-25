@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 20:24:11 GMT"
+            "dateModified": "Sat, 25 Jun 2022 19:36:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nBlood and shadows\n\n#XQuery #SVG <a href=\"https://t.co/2sulGefTBf\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nBlood and shadows\n\n#XQuery #SVG https://t.co/2sulGefTBf",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 19:33:57 GMT",
+                                    "tweetId": "1540780355908554752",
+                                    "urltweet": "https://twitter.com/mathling/status/1540780355908554752",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Summer in the city <a href=\"https://t.co/BC0RILsXJu\">[link]</a>",
+                                            "rawText": "Summer in the city https://t.co/BC0RILsXJu",
+                                            "type": "tweet",
+                                            "created": "Sat, 25 Jun 2022 19:33:59 GMT",
+                                            "tweetId": "1540780362153881600",
+                                            "urltweet": "https://twitter.com/mathling/status/1540780362153881600",
+                                            "inReplyToId": "1540780355908554752",
+                                            "tweetUserName": "mathling"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
