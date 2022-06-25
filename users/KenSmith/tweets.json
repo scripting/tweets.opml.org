@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 18:42:20 GMT"
+            "dateModified": "Sat, 25 Jun 2022 18:46:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Democratic Party\n\nToo much Clark Kent, not enough phone booth. <a href=\"https://t.co/QD1QGKWw1h\">[link]</a>",
+                                    "rawText": "Democratic Party\n\nToo much Clark Kent, not enough phone booth. https://t.co/QD1QGKWw1h",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 18:38:56 GMT",
+                                    "tweetId": "1540766508422496256",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1540766508422496256",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
