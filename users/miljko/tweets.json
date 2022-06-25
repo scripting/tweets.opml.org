@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 23:44:21 GMT"
+            "dateModified": "Sat, 25 Jun 2022 14:20:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "More art deco than brutalism? Yes, please. <a href=\"https://t.co/405lnKEdwT\">[link]</a>",
+                                    "rawText": "More art deco than brutalism? Yes, please. https://t.co/405lnKEdwT",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 14:08:25 GMT",
+                                    "tweetId": "1540698432825790464",
+                                    "urltweet": "https://twitter.com/miljko/status/1540698432825790464",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
