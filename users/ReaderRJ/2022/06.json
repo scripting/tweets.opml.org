@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 14:14:32 GMT"
+            "dateModified": "Sat, 25 Jun 2022 08:40:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "I've just signed the @GoodLawProject petition asking the Government to signal to all of the women of the UK that it cares about their right to safe and legal abortions <a href=\"https://t.co/5uhsvgjXk7\">[link]</a>",
+                                    "rawText": "I've just signed the @GoodLawProject petition asking the Government to signal to all of the women of the UK that it cares about their right to safe and legal abortions https://t.co/5uhsvgjXk7",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 08:34:38 GMT",
+                                    "tweetId": "1540614430404272129",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1540614430404272129",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
