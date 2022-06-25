@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 03:45:09 GMT"
+            "dateModified": "Sat, 25 Jun 2022 13:43:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@isabel_cumming Have you considered creating a calendar of your Baltimore images?",
+                                    "rawText": "@isabel_cumming Have you considered creating a calendar of your Baltimore images?",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 13:34:48 GMT",
+                                    "tweetId": "1540689971794759681",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1540689971794759681",
+                                    "inReplyToId": "1540668588402413569",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
