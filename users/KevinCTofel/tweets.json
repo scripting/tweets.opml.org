@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 22:18:33 GMT"
+            "dateModified": "Sat, 25 Jun 2022 19:46:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Ecma International approves ECMAScript 2022: What’s new? #JavaScript  <a href=\"https://t.co/lkXvf5w6Ks\">[link]</a>",
+                                    "rawText": "Ecma International approves ECMAScript 2022: What’s new? #JavaScript  https://t.co/lkXvf5w6Ks",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 19:42:27 GMT",
+                                    "tweetId": "1540782492977745920",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1540782492977745920",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
