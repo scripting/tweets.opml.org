@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 01:03:59 GMT"
+            "dateModified": "Sat, 25 Jun 2022 01:17:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,47 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "There’ve been a few recent tweets that I can’t stop thinking about.",
+                                    "rawText": "There’ve been a few recent tweets that I can’t stop thinking about.",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 01:07:31 GMT",
+                                    "tweetId": "1540501912394629120",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1540501912394629120",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I can’t stop thinking about this tweet. <a href=\"https://t.co/EJcrpKLJq2\">[link]</a>",
+                                            "rawText": "I can’t stop thinking about this tweet. https://t.co/EJcrpKLJq2",
+                                            "type": "tweet",
+                                            "created": "Sat, 25 Jun 2022 01:07:31 GMT",
+                                            "tweetId": "1540501913137025026",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1540501913137025026",
+                                            "inReplyToId": "1540501912394629120",
+                                            "tweetUserName": "sillygwailo"
+                                        },
+                                        {
+                                            "text": "I can’t stop thinking about this tweet. <a href=\"https://t.co/54E47ZCklj\">[link]</a>",
+                                            "rawText": "I can’t stop thinking about this tweet. https://t.co/54E47ZCklj",
+                                            "type": "tweet",
+                                            "created": "Sat, 25 Jun 2022 01:08:29 GMT",
+                                            "tweetId": "1540502155979010049",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1540502155979010049",
+                                            "inReplyToId": "1540501912394629120",
+                                            "tweetUserName": "sillygwailo"
+                                        },
+                                        {
+                                            "text": "I can’t stop thinking about this tweet. <a href=\"https://t.co/klDoV7l4u9\">[link]</a>",
+                                            "rawText": "I can’t stop thinking about this tweet. https://t.co/klDoV7l4u9",
+                                            "type": "tweet",
+                                            "created": "Sat, 25 Jun 2022 01:12:11 GMT",
+                                            "tweetId": "1540503086740955136",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1540503086740955136",
+                                            "inReplyToId": "1540501912394629120",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "The @alltartans account has been really good lately. Even better than usual.",
                                     "rawText": "The @alltartans account has been really good lately. Even better than usual.",
