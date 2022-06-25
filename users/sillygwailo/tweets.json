@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 23:58:55 GMT"
+            "dateModified": "Sat, 25 Jun 2022 00:50:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "The @alltartans account has been really good lately. Even better than usual.",
+                                    "rawText": "The @alltartans account has been really good lately. Even better than usual.",
+                                    "type": "tweet",
+                                    "created": "Sat, 25 Jun 2022 00:48:03 GMT",
+                                    "tweetId": "1540497010763104256",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1540497010763104256",
+                                    "inReplyToId": "1476354231992995844",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "Council should’ve voted for the guy who said he would be a good steward and wanted to gain the experience of being a councillor. <a href=\"https://t.co/X5rushGMAu\">[link]</a>",
                                     "rawText": "Council should’ve voted for the guy who said he would be a good steward and wanted to gain the experience of being a councillor. https://t.co/X5rushGMAu",
@@ -49,7 +59,43 @@
                                     "tweetId": "1540458419034931200",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1540458419034931200",
                                     "inReplyToId": "1478446759680651281",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "For a while I was listening to albums… <a href=\"https://t.co/R8JCwVCfEi\">[link]</a>",
+                                            "rawText": "For a while I was listening to albums… https://t.co/R8JCwVCfEi",
+                                            "type": "tweet",
+                                            "created": "Sat, 25 Jun 2022 00:41:00 GMT",
+                                            "tweetId": "1540495236346138631",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1540495236346138631",
+                                            "inReplyToId": "1540458419034931200",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "…and then I started to listen to an artist’s entire discography, in chronological order if possible (sometimes all of their albums aren’t online, or I can’t wait to listen to a certain album)…",
+                                                    "rawText": "…and then I started to listen to an artist’s entire discography, in chronological order if possible (sometimes all of their albums aren’t online, or I can’t wait to listen to a certain album)…",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 25 Jun 2022 00:41:00 GMT",
+                                                    "tweetId": "1540495238984355842",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1540495238984355842",
+                                                    "inReplyToId": "1540495236346138631",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "…and now I’m more and more listening to playlists, usually shuffled.",
+                                                            "rawText": "…and now I’m more and more listening to playlists, usually shuffled.",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 25 Jun 2022 00:41:00 GMT",
+                                                            "tweetId": "1540495239919673346",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1540495239919673346",
+                                                            "inReplyToId": "1540495238984355842",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "The thought of owning a cowboy shirt again occurred to me other day, and I haven’t been able to shake it since.",
