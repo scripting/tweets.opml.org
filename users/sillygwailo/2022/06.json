@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 15:53:31 GMT"
+            "dateModified": "Sun, 26 Jun 2022 16:06:32 GMT"
         },
         "body": {
             "subs": [
@@ -1384,7 +1384,19 @@
                                                                     "tweetId": "1541086599332728836",
                                                                     "urltweet": "https://twitter.com/sillygwailo/status/1541086599332728836",
                                                                     "inReplyToId": "1536385944386883584",
-                                                                    "tweetUserName": "sillygwailo"
+                                                                    "tweetUserName": "sillygwailo",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Edward Burtynsky himself is here.",
+                                                                            "rawText": "Edward Burtynsky himself is here.",
+                                                                            "type": "tweet",
+                                                                            "created": "Sun, 26 Jun 2022 15:58:49 GMT",
+                                                                            "tweetId": "1541088602830114819",
+                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1541088602830114819",
+                                                                            "inReplyToId": "1541086599332728836",
+                                                                            "tweetUserName": "sillygwailo"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
