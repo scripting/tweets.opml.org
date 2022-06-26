@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 22:48:54 GMT"
+            "dateModified": "Sun, 26 Jun 2022 08:08:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@IsaAmery Sí. Aparentemente no estoy solo, hay gente que se puede dormir en medio de una limpieza dental. Algo que ver con el la vibración del instrumento que usan.",
+                                    "rawText": "@IsaAmery Sí. Aparentemente no estoy solo, hay gente que se puede dormir en medio de una limpieza dental. Algo que ver con el la vibración del instrumento que usan.",
+                                    "type": "tweet",
+                                    "created": "Sun, 26 Jun 2022 07:55:57 GMT",
+                                    "tweetId": "1540967083038498817",
+                                    "urltweet": "https://twitter.com/chiguire/status/1540967083038498817",
+                                    "inReplyToId": "1540941527119286272",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
