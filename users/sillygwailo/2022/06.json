@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 16:58:35 GMT"
+            "dateModified": "Sun, 26 Jun 2022 17:37:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@rtanglao I’m proud of your son for graduating (send him my congratulations!), and proud of your family for including you in the photos that way!",
+                                    "rawText": "@rtanglao I’m proud of your son for graduating (send him my congratulations!), and proud of your family for including you in the photos that way!",
+                                    "type": "tweet",
+                                    "created": "Sun, 26 Jun 2022 17:29:17 GMT",
+                                    "tweetId": "1541111368518098946",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1541111368518098946",
+                                    "inReplyToId": "1541110507922284544",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
