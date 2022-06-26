@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Surfy/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 22:43:05 GMT"
+            "dateModified": "Sun, 26 Jun 2022 13:06:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "6-25-22 Laguna Beach Weather and Crypto News - first weekend of Summer! <a href=\"https://t.co/2iOr8quczx\">[link]</a>",
+                                    "rawText": "6-25-22 Laguna Beach Weather and Crypto News - first weekend of Summer! https://t.co/2iOr8quczx",
+                                    "type": "tweet",
+                                    "created": "Sun, 26 Jun 2022 12:56:38 GMT",
+                                    "tweetId": "1541042752510496768",
+                                    "urltweet": "https://twitter.com/Surfy/status/1541042752510496768",
+                                    "tweetUserName": "Surfy"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
