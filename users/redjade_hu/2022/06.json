@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 11:30:10 GMT"
+            "dateModified": "Sun, 26 Jun 2022 07:27:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@ggreenwald @AOC It seems obvious that @RepMTG didn't actually write these tweets, not her writing style.  GG you should ask her about this and who has control of her twitter and why.",
+                                    "rawText": "@ggreenwald @AOC It seems obvious that @RepMTG didn't actually write these tweets, not her writing style.  GG you should ask her about this and who has control of her twitter and why.",
+                                    "type": "tweet",
+                                    "created": "Sun, 26 Jun 2022 07:21:16 GMT",
+                                    "tweetId": "1540958356118163456",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1540958356118163456",
+                                    "inReplyToId": "1540801617720619008",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
