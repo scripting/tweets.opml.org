@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 02:19:53 GMT"
+            "dateModified": "Sun, 26 Jun 2022 11:26:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Una ralla triste",
+                                    "rawText": "Una ralla triste",
+                                    "type": "tweet",
+                                    "created": "Sun, 26 Jun 2022 11:13:50 GMT",
+                                    "tweetId": "1541016884929257473",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1541016884929257473",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
