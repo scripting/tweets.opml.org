@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 21:39:54 GMT"
+            "dateModified": "Sun, 26 Jun 2022 21:52:55 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "Proud of the Mets. <a href=\"https://t.co/00QvtwSylq\">[link]</a>",
+                                    "rawText": "Proud of the Mets. https://t.co/00QvtwSylq",
+                                    "type": "tweet",
+                                    "created": "Sun, 26 Jun 2022 21:42:42 GMT",
+                                    "tweetId": "1541175144156200961",
+                                    "urltweet": "https://twitter.com/davewiner/status/1541175144156200961",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I actually think this time we’re gonna need to do a general strike for two or three days so that the powers that be get a sense of what America is all about and what it would be like if you didn’t have America on your side that is the Supreme Court.",
                                     "rawText": "I actually think this time we’re gonna need to do a general strike for two or three days so that the powers that be get a sense of what America is all about and what it would be like if you didn’t have America on your side that is the Supreme Court.",
@@ -37,7 +46,19 @@
                                             "tweetId": "1541173815044087809",
                                             "urltweet": "https://twitter.com/davewiner/status/1541173815044087809",
                                             "inReplyToId": "1541173640737263616",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "No ice cream for Judge Aleeto, no air-conditioning either.",
+                                                    "rawText": "No ice cream for Judge Aleeto, no air-conditioning either.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 26 Jun 2022 21:41:38 GMT",
+                                                    "tweetId": "1541174876001779714",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1541174876001779714",
+                                                    "inReplyToId": "1541173815044087809",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
