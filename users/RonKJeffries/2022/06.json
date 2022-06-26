@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 04:28:46 GMT"
+            "dateModified": "Sun, 26 Jun 2022 04:54:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@ShorondaMatt @JamieJirout You go! Congratulations.",
+                                    "rawText": "@ShorondaMatt @JamieJirout You go! Congratulations.",
+                                    "type": "tweet",
+                                    "created": "Sun, 26 Jun 2022 04:44:27 GMT",
+                                    "tweetId": "1540918894323548162",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1540918894323548162",
+                                    "inReplyToId": "1540478452725317632",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
