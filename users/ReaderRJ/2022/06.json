@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 08:40:44 GMT"
+            "dateModified": "Sun, 26 Jun 2022 20:15:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Reduce fuel duty by 50% <a href=\"https://t.co/73tb6upiii\">[link]</a> via @UKChange",
+                                    "rawText": "Reduce fuel duty by 50% https://t.co/73tb6upiii via @UKChange",
+                                    "type": "tweet",
+                                    "created": "Sun, 26 Jun 2022 20:05:36 GMT",
+                                    "tweetId": "1541150705532243969",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1541150705532243969",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
