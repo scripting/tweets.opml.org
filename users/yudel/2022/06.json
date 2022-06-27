@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 19:10:19 GMT"
+            "dateModified": "Mon, 27 Jun 2022 20:28:24 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "Trying to capture an infinite scroll page from <a href=\"https://t.co/wKGR8tFTSA\">[link]</a>, and the resulting PDFs seem to demand an infinite amount of memory (over 16 gig) when opened. Any tips on how to do this?",
+                                    "rawText": "Trying to capture an infinite scroll page from https://t.co/wKGR8tFTSA, and the resulting PDFs seem to demand an infinite amount of memory (over 16 gig) when opened. Any tips on how to do this?",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 20:27:27 GMT",
+                                    "tweetId": "1541518594395308038",
+                                    "urltweet": "https://twitter.com/yudel/status/1541518594395308038",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@YehudahMirsky Thanks for the reminder! Time to buy myself a birthday present.",
                                     "rawText": "@YehudahMirsky Thanks for the reminder! Time to buy myself a birthday present.",
