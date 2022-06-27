@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 13:54:13 GMT"
+            "dateModified": "Mon, 27 Jun 2022 18:53:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/60E6fYoRI9\">[link]</a>",
+                                    "rawText": "https://t.co/60E6fYoRI9",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 18:47:52 GMT",
+                                    "tweetId": "1541493533290422278",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1541493533290422278",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@vicjush Barcelona?",
                                     "rawText": "@vicjush Barcelona?",
