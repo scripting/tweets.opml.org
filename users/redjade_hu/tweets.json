@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 21:20:23 GMT"
+            "dateModified": "Mon, 27 Jun 2022 17:30:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@AP Matthew 6:5-6\n\n<a href=\"https://t.co/sYpBWRsGXx\">[link]</a>",
+                                    "rawText": "@AP Matthew 6:5-6\n\nhttps://t.co/sYpBWRsGXx",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 17:21:40 GMT",
+                                    "tweetId": "1541471839372906496",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1541471839372906496",
+                                    "inReplyToId": "1541425521694752770",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
