@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 11:26:28 GMT"
+            "dateModified": "Mon, 27 Jun 2022 07:36:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "voy tratado de versalles <a href=\"https://t.co/gEwLlNMQcX\">[link]</a>",
+                                    "rawText": "voy tratado de versalles https://t.co/gEwLlNMQcX",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 07:36:12 GMT",
+                                    "tweetId": "1541324503187427329",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1541324503187427329",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
