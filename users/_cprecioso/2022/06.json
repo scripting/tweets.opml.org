@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 10:12:59 GMT"
+            "dateModified": "Mon, 27 Jun 2022 10:26:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "@victorsgap te aúpo?",
+                                    "rawText": "@victorsgap te aúpo?",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 10:22:55 GMT",
+                                    "tweetId": "1541366459343011841",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1541366459343011841",
+                                    "inReplyToId": "1541365900955320320",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "<a href=\"https://t.co/rl8bALhGpT\">[link]</a>",
+                                    "rawText": "https://t.co/rl8bALhGpT",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 10:15:39 GMT",
+                                    "tweetId": "1541364629540323328",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1541364629540323328",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@fresquer Yo me quedo en Carlota y Marcelo, a tanto no llego 😞",
                                     "rawText": "@fresquer Yo me quedo en Carlota y Marcelo, a tanto no llego 😞",
@@ -78,7 +97,19 @@
                                     "tweetId": "1541333797467291648",
                                     "urltweet": "https://twitter.com/_cprecioso/status/1541333797467291648",
                                     "inReplyToId": "1541329029151825921",
-                                    "tweetUserName": "_cprecioso"
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "@fresquer Tu iceberg realmente dijo: gay rights",
+                                            "rawText": "@fresquer Tu iceberg realmente dijo: gay rights",
+                                            "type": "tweet",
+                                            "created": "Mon, 27 Jun 2022 10:13:18 GMT",
+                                            "tweetId": "1541364038638227456",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1541364038638227456",
+                                            "inReplyToId": "1541333797467291648",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Me he quemado el pene, no elaboraré",
