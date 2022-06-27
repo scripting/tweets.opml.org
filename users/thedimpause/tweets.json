@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 07:00:26 GMT"
+            "dateModified": "Mon, 27 Jun 2022 09:02:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "London @ London, Unιted Kingdom <a href=\"https://t.co/JfwHmCrsvF\">[link]</a>",
+                                    "rawText": "London @ London, Unιted Kingdom https://t.co/JfwHmCrsvF",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 08:50:02 GMT",
+                                    "tweetId": "1541343084897718272",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1541343084897718272",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
