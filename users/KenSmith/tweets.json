@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 16:41:19 GMT"
+            "dateModified": "Mon, 27 Jun 2022 17:37:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "\"That would have been a good time for us to take out everything from the Constitution that was put there to protect slavery, and when you look . . what you will see is practically the whole thing is all about slavery and about protecting the rights of people to own other people.\"",
+                                    "rawText": "\"That would have been a good time for us to take out everything from the Constitution that was put there to protect slavery, and when you look . . what you will see is practically the whole thing is all about slavery and about protecting the rights of people to own other people.\"",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 17:29:29 GMT",
+                                    "tweetId": "1541473807315116036",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1541473807315116036",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "That's at 13:05 in the podcast. Link and sources:\n\n<a href=\"https://t.co/BWtDOIm8mb\">[link]</a>",
+                                            "rawText": "That's at 13:05 in the podcast. Link and sources:\n\nhttps://t.co/BWtDOIm8mb",
+                                            "type": "tweet",
+                                            "created": "Mon, 27 Jun 2022 17:29:29 GMT",
+                                            "tweetId": "1541473808581890048",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1541473808581890048",
+                                            "inReplyToId": "1541473807315116036",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
