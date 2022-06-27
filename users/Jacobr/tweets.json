@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 11:48:50 GMT"
+            "dateModified": "Mon, 27 Jun 2022 00:24:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Here's a tattoo I'd get: cuffless BO monitoring!  <a href=\"https://t.co/5GFVF9Yn2P\">[link]</a>",
+                                    "rawText": "Here's a tattoo I'd get: cuffless BO monitoring!  https://t.co/5GFVF9Yn2P",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 00:12:00 GMT",
+                                    "tweetId": "1541212715351511040",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1541212715351511040",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
