@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 17:55:14 GMT"
+            "dateModified": "Mon, 27 Jun 2022 18:34:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "It’s possible I didn’t know that masks are “strongly recommended” in doctors’ offices, and not still required, in Ontario.",
+                                    "rawText": "It’s possible I didn’t know that masks are “strongly recommended” in doctors’ offices, and not still required, in Ontario.",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 18:27:38 GMT",
+                                    "tweetId": "1541488440751149057",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1541488440751149057",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
