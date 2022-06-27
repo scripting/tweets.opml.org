@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 14:52:12 GMT"
+            "dateModified": "Mon, 27 Jun 2022 06:16:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Lenovo Chromebook Duet 3 review: Better than the original\n<a href=\"https://t.co/aRfwiHUy3D\">[link]</a> https://t.co/yjK2lbFXep",
+                                    "rawText": "ICYMI: Lenovo Chromebook Duet 3 review: Better than the original\nhttps://t.co/aRfwiHUy3D https://t.co/yjK2lbFXep",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 06:09:02 GMT",
+                                    "tweetId": "1541302567438802945",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1541302567438802945",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
