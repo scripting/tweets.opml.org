@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 04:04:04 GMT"
+            "dateModified": "Mon, 27 Jun 2022 21:38:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@AlanRMacLeod @quoll Just enlist the “well regulated militias” - you’ll have enough 😂",
+                                    "rawText": "@AlanRMacLeod @quoll Just enlist the “well regulated militias” - you’ll have enough 😂",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 21:34:17 GMT",
+                                    "tweetId": "1541535411368931328",
+                                    "urltweet": "https://twitter.com/mal/status/1541535411368931328",
+                                    "inReplyToId": "1541391141135843328",
+                                    "tweetUserName": "mal"
+                                },
+                                {
+                                    "text": "@clarkcorbin Finally something stopping the Californians from moving here :/",
+                                    "rawText": "@clarkcorbin Finally something stopping the Californians from moving here :/",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 21:30:29 GMT",
+                                    "tweetId": "1541534458108444672",
+                                    "urltweet": "https://twitter.com/mal/status/1541534458108444672",
+                                    "inReplyToId": "1540340367819538432",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
