@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 16:52:16 GMT"
+            "dateModified": "Mon, 27 Jun 2022 03:47:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "TFW you're driving home after a 7pm hockey game and the sun is still up. I love PNW in the summer <a href=\"https://t.co/3ZfepE6nuU\">[link]</a>",
+                                    "rawText": "TFW you're driving home after a 7pm hockey game and the sun is still up. I love PNW in the summer https://t.co/3ZfepE6nuU",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 03:46:19 GMT",
+                                    "tweetId": "1541266650812391424",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1541266650812391424",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
