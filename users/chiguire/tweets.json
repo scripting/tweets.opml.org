@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 22:14:26 GMT"
+            "dateModified": "Mon, 27 Jun 2022 09:57:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@GiovaVivas Feliz cumpleaños!",
+                                    "rawText": "@GiovaVivas Feliz cumpleaños!",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 09:55:30 GMT",
+                                    "tweetId": "1541359557154426880",
+                                    "urltweet": "https://twitter.com/chiguire/status/1541359557154426880",
+                                    "inReplyToId": "1541282692947316738",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
