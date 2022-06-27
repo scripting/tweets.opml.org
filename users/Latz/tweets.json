@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 08:29:25 GMT"
+            "dateModified": "Mon, 27 Jun 2022 09:09:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "\"Radverkehr als Randerscheinung in Kassel\" (hessenschau)\n\n<a href=\"https://t.co/PAybFMCfcc\">[link]</a>\n\n#kassel",
+                                    "rawText": "\"Radverkehr als Randerscheinung in Kassel\" (hessenschau)\n\nhttps://t.co/PAybFMCfcc\n\n#kassel",
+                                    "type": "tweet",
+                                    "created": "Mon, 27 Jun 2022 09:08:27 GMT",
+                                    "tweetId": "1541347719675105284",
+                                    "urltweet": "https://twitter.com/Latz/status/1541347719675105284",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
