@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 23 Jun 2022 04:34:37 GMT"
+            "dateModified": "Tue, 28 Jun 2022 18:11:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@DavidrByrnes @NPR The official YouTube livestream has an ASL interpreter in an overlay window:\n\n<a href=\"https://t.co/LghGwi9udW\">[link]</a>\n\n(The TV network streams may have captions enabled.)",
+                                    "rawText": "@DavidrByrnes @NPR The official YouTube livestream has an ASL interpreter in an overlay window:\n\nhttps://t.co/LghGwi9udW\n\n(The TV network streams may have captions enabled.)",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 18:09:29 GMT",
+                                    "tweetId": "1541846262961410049",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1541846262961410049",
+                                    "inReplyToId": "1541830577606762497",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 23",
                             "type": "calendarDay",
