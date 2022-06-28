@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 22:36:37 GMT"
+            "dateModified": "Tue, 28 Jun 2022 22:49:38 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Tue, 28 Jun 2022 22:35:50 GMT",
                                     "tweetId": "1541913290972045312",
                                     "urltweet": "https://twitter.com/chiguire/status/1541913290972045312",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Nota aparte: más nunca salgo a un concierto sin tapones para los oídos",
+                                            "rawText": "Nota aparte: más nunca salgo a un concierto sin tapones para los oídos",
+                                            "type": "tweet",
+                                            "created": "Tue, 28 Jun 2022 22:37:57 GMT",
+                                            "tweetId": "1541913823464095744",
+                                            "urltweet": "https://twitter.com/chiguire/status/1541913823464095744",
+                                            "inReplyToId": "1541913290972045312",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "La gente definiendo la web3 como sea cuanto tenemos una definición desde hace más de dos décadas <a href=\"https://t.co/dOVcGWyypS\">[link]</a>",
