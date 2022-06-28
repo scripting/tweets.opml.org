@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 02:32:48 GMT"
+            "dateModified": "Tue, 28 Jun 2022 05:48:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@jholbo1 The problem is that Alito explicitly wants to bring back the rotten borough system used to uphold Jim Crow before being banned under the one man one vote rulings of the mid 60s.",
+                                    "rawText": "@jholbo1 The problem is that Alito explicitly wants to bring back the rotten borough system used to uphold Jim Crow before being banned under the one man one vote rulings of the mid 60s.",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 05:47:07 GMT",
+                                    "tweetId": "1541659439253671938",
+                                    "urltweet": "https://twitter.com/yudel/status/1541659439253671938",
+                                    "inReplyToId": "1541658110871252993",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
