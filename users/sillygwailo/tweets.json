@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 02:35:48 GMT"
+            "dateModified": "Tue, 28 Jun 2022 19:30:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "I’ll be in Roncesvalles tonight.",
+                                    "rawText": "I’ll be in Roncesvalles tonight.",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 19:20:21 GMT",
+                                    "tweetId": "1541864095342895104",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1541864095342895104",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
