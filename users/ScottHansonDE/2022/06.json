@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 17:12:12 GMT"
+            "dateModified": "Tue, 28 Jun 2022 06:13:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@Chillmost @HejM0 Good move! Unfortunately our airline (KLM) doesn’t offer it.",
+                                    "rawText": "@Chillmost @HejM0 Good move! Unfortunately our airline (KLM) doesn’t offer it.",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 06:08:29 GMT",
+                                    "tweetId": "1541664814715617280",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1541664814715617280",
+                                    "inReplyToId": "1541218965464178690",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
