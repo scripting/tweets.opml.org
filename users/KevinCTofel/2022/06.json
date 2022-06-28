@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 16:40:55 GMT"
+            "dateModified": "Tue, 28 Jun 2022 16:32:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "New Chrome OS 103 features are available in the Stable Channel. After you upgrade your Chromebook, here’s what you get. <a href=\"https://t.co/mAk5U6jueG\">[link]</a>",
+                                    "rawText": "New Chrome OS 103 features are available in the Stable Channel. After you upgrade your Chromebook, here’s what you get. https://t.co/mAk5U6jueG",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 16:32:08 GMT",
+                                    "tweetId": "1541821762769395713",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1541821762769395713",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
