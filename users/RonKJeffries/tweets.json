@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 00:30:40 GMT"
+            "dateModified": "Tue, 28 Jun 2022 13:05:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@davidfoxio @logseq How about on a iPhone?",
+                                    "rawText": "@davidfoxio @logseq How about on a iPhone?",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 13:03:01 GMT",
+                                    "tweetId": "1541769137277378561",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1541769137277378561",
+                                    "inReplyToId": "1541768574980734976",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@davidfoxio @logseq How well does it work on e.g. an Android phone? My impression is most of these are desktop centric. But I am only a casual observer.",
+                                    "rawText": "@davidfoxio @logseq How well does it work on e.g. an Android phone? My impression is most of these are desktop centric. But I am only a casual observer.",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 12:53:42 GMT",
+                                    "tweetId": "1541766793152368646",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1541766793152368646",
+                                    "inReplyToId": "1541681420162289664",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
