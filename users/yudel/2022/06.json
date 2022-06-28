@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 20:46:00 GMT"
+            "dateModified": "Tue, 28 Jun 2022 22:04:05 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "This looks cool. <a href=\"https://t.co/x7dYnVD5nJ\">[link]</a>",
+                                    "rawText": "This looks cool. https://t.co/x7dYnVD5nJ",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 21:57:38 GMT",
+                                    "tweetId": "1541903675546894336",
+                                    "urltweet": "https://twitter.com/yudel/status/1541903675546894336",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@OboistaAlli @BudaZsofia @DavidRSelis @TheJohnRylands Here’s the correct link: <a href=\"https://t.co/x7dYnVD5nJ\">[link]</a>",
+                                    "rawText": "@OboistaAlli @BudaZsofia @DavidRSelis @TheJohnRylands Here’s the correct link: https://t.co/x7dYnVD5nJ",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 21:55:52 GMT",
+                                    "tweetId": "1541903231839866880",
+                                    "urltweet": "https://twitter.com/yudel/status/1541903231839866880",
+                                    "inReplyToId": "1541897324070375430",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@Atrios Which makes the editor’s malfeasance more egregious.",
                                     "rawText": "@Atrios Which makes the editor’s malfeasance more egregious.",
