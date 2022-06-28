@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 20:44:00 GMT"
+            "dateModified": "Tue, 28 Jun 2022 22:41:07 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,15 @@
                             "name": "28",
                             "subs": [
                                 {
+                                    "text": "bingo <a href=\"https://t.co/7Y9d5sMVqg\">[link]</a>",
+                                    "rawText": "bingo https://t.co/7Y9d5sMVqg",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 22:29:24 GMT",
+                                    "tweetId": "1541911673505734656",
+                                    "urltweet": "https://twitter.com/davewiner/status/1541911673505734656",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@bretfausett I’ll send a DM.",
                                     "rawText": "@bretfausett I’ll send a DM.",
                                     "type": "tweet",
@@ -28,7 +37,19 @@
                                     "tweetId": "1541883291443265545",
                                     "urltweet": "https://twitter.com/davewiner/status/1541883291443265545",
                                     "inReplyToId": "1541882011488399361",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@bretfausett actually so many qualified people responded, i'd better do it publicly. stay tuned.",
+                                            "rawText": "@bretfausett actually so many qualified people responded, i'd better do it publicly. stay tuned.",
+                                            "type": "tweet",
+                                            "created": "Tue, 28 Jun 2022 22:31:08 GMT",
+                                            "tweetId": "1541912109621051392",
+                                            "urltweet": "https://twitter.com/davewiner/status/1541912109621051392",
+                                            "inReplyToId": "1541883291443265545",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@bretfausett Why don’t I ask you my questions?",
