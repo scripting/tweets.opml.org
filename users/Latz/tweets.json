@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 20:38:55 GMT"
+            "dateModified": "Tue, 28 Jun 2022 20:17:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@500SongsPodcast Four hours? You're crazy, my friend!",
+                                    "rawText": "@500SongsPodcast Four hours? You're crazy, my friend!",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 20:09:21 GMT",
+                                    "tweetId": "1541876425220833280",
+                                    "urltweet": "https://twitter.com/Latz/status/1541876425220833280",
+                                    "inReplyToId": "1541060417534959618",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
