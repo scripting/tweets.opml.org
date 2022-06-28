@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 19:30:55 GMT"
+            "dateModified": "Tue, 28 Jun 2022 21:15:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "*Owen Wilson Wow* <a href=\"https://t.co/Tjsr609jtq\">[link]</a>",
+                                    "rawText": "*Owen Wilson Wow* https://t.co/Tjsr609jtq",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 21:08:02 GMT",
+                                    "tweetId": "1541891195110137858",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1541891195110137858",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I will not accept the nomination as leader of the BC NDP (and therefore premier-designate), and will not serve if elected.",
+                                            "rawText": "I will not accept the nomination as leader of the BC NDP (and therefore premier-designate), and will not serve if elected.",
+                                            "type": "tweet",
+                                            "created": "Tue, 28 Jun 2022 21:12:41 GMT",
+                                            "tweetId": "1541892366226886657",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1541892366226886657",
+                                            "inReplyToId": "1541891195110137858",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "I’ll be in Roncesvalles tonight.",
                                     "rawText": "I’ll be in Roncesvalles tonight.",
