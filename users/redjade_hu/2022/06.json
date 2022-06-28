@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 20:32:55 GMT"
+            "dateModified": "Tue, 28 Jun 2022 12:35:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@KyungLahCNN what is he thinking when she says 'ejaculate' ? <a href=\"https://t.co/y6j5LXeYQk\">[link]</a>",
+                                    "rawText": "@KyungLahCNN what is he thinking when she says 'ejaculate' ? https://t.co/y6j5LXeYQk",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 12:29:07 GMT",
+                                    "tweetId": "1541760604079366144",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1541760604079366144",
+                                    "inReplyToId": "1540573568089702404",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
