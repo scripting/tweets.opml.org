@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 09:53:17 GMT"
+            "dateModified": "Tue, 28 Jun 2022 10:06:18 GMT"
         },
         "body": {
             "subs": [
@@ -130,7 +130,19 @@
                                     "created": "Tue, 28 Jun 2022 01:23:28 GMT",
                                     "tweetId": "1541593087750840320",
                                     "urltweet": "https://twitter.com/davewiner/status/1541593087750840320",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Seriously I bet it’s one of trumps kids.",
+                                            "rawText": "Seriously I bet it’s one of trumps kids.",
+                                            "type": "tweet",
+                                            "created": "Tue, 28 Jun 2022 09:55:13 GMT",
+                                            "tweetId": "1541721873095991296",
+                                            "urltweet": "https://twitter.com/davewiner/status/1541721873095991296",
+                                            "inReplyToId": "1541593087750840320",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@RunnerBliss Oh man I forgot him.",
