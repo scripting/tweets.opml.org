@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 00:39:06 GMT"
+            "dateModified": "Tue, 28 Jun 2022 00:30:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@StevenBeschloss Praying in the middle of the football field in front of a big football crowd is NOT a private act.",
+                                    "rawText": "@StevenBeschloss Praying in the middle of the football field in front of a big football crowd is NOT a private act.",
+                                    "type": "tweet",
+                                    "created": "Tue, 28 Jun 2022 00:21:09 GMT",
+                                    "tweetId": "1541577406896492544",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1541577406896492544",
+                                    "inReplyToId": "1541474965140213760",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
