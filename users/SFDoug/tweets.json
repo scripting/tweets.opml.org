@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 24 Jun 2022 05:32:58 GMT"
+            "dateModified": "Wed, 29 Jun 2022 06:34:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@Sally_K @WordPress You should be able to automate that. Let me know if you want some specific suggestions.",
+                                    "rawText": "@Sally_K @WordPress You should be able to automate that. Let me know if you want some specific suggestions.",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 06:27:48 GMT",
+                                    "tweetId": "1542032065004154880",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1542032065004154880",
+                                    "inReplyToId": "1541809540298969089",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 24",
                             "type": "calendarDay",
