@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 18:15:55 GMT"
+            "dateModified": "Wed, 29 Jun 2022 18:28:55 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "@AnneMWolke @MaggieBlackhawk This time, the Court even provided Congress with sample language to use in amending Public Law 280: <a href=\"https://t.co/5W2f3gtAps\">[link]</a>",
+                                    "rawText": "@AnneMWolke @MaggieBlackhawk This time, the Court even provided Congress with sample language to use in amending Public Law 280: https://t.co/5W2f3gtAps",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 18:22:52 GMT",
+                                    "tweetId": "1542212016328192000",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1542212016328192000",
+                                    "inReplyToId": "1542165354171883521",
+                                    "tweetUserName": "jimgrisham"
+                                },
                                 {
                                     "text": "@capannemazing @MaggieBlackhawk “A State lacks criminal jurisdiction over crimes by or against Indians in Indian Country, unless the State complies with the procedures to obtain tribal consent outlined in 25 U.S.C. § 1321, and, where necessary, amends its constitution or statutes pursuant to 25 U.S.C. § 1324.”",
                                     "rawText": "@capannemazing @MaggieBlackhawk “A State lacks criminal jurisdiction over crimes by or against Indians in Indian Country, unless the State complies with the procedures to obtain tribal consent outlined in 25 U.S.C. § 1321, and, where necessary, amends its constitution or statutes pursuant to 25 U.S.C. § 1324.”",
@@ -48,7 +58,19 @@
                                                     "tweetId": "1542208776647806976",
                                                     "urltweet": "https://twitter.com/jimgrisham/status/1542208776647806976",
                                                     "inReplyToId": "1542208039020687360",
-                                                    "tweetUserName": "jimgrisham"
+                                                    "tweetUserName": "jimgrisham",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@capannemazing @MaggieBlackhawk <a href=\"https://t.co/sbO7SNTcNq\">[link]</a>",
+                                                            "rawText": "@capannemazing @MaggieBlackhawk https://t.co/sbO7SNTcNq",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 29 Jun 2022 18:16:38 GMT",
+                                                            "tweetId": "1542210449407475713",
+                                                            "urltweet": "https://twitter.com/jimgrisham/status/1542210449407475713",
+                                                            "inReplyToId": "1542208776647806976",
+                                                            "tweetUserName": "jimgrisham"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
