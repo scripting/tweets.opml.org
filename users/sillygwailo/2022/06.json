@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 21:15:02 GMT"
+            "dateModified": "Wed, 29 Jun 2022 01:09:17 GMT"
         },
         "body": {
             "subs": [
@@ -48,7 +48,19 @@
                                     "created": "Tue, 28 Jun 2022 19:20:21 GMT",
                                     "tweetId": "1541864095342895104",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1541864095342895104",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I was in Roncesvalles for a movie, but I decided not to watch it, so I’m not in Roncesvalles anymore.",
+                                            "rawText": "I was in Roncesvalles for a movie, but I decided not to watch it, so I’m not in Roncesvalles anymore.",
+                                            "type": "tweet",
+                                            "created": "Wed, 29 Jun 2022 01:09:13 GMT",
+                                            "tweetId": "1541951892418355200",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1541951892418355200",
+                                            "inReplyToId": "1541864095342895104",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
