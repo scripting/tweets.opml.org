@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 03:47:33 GMT"
+            "dateModified": "Wed, 29 Jun 2022 22:22:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,106 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "This week, we've shipped updates to the #NeoBlockchainToolkit. This brings the toolkit up to date with @Neo_Blockchain v3.3.1 which is running on MainNet today.\n\nThere are a few new features that I want to point out:",
+                                    "rawText": "This week, we've shipped updates to the #NeoBlockchainToolkit. This brings the toolkit up to date with @Neo_Blockchain v3.3.1 which is running on MainNet today.\n\nThere are a few new features that I want to point out:",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 22:18:05 GMT",
+                                    "tweetId": "1542271212595818496",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1542271212595818496",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "NeoExpress adds a couple new commands: `show notification` and `contract download`.\n\nshow notification is pretty straightforward - show notifications records for a given time frame or contract. Basically, fills a gap for command line tracker operations in NeoExpress",
+                                            "rawText": "NeoExpress adds a couple new commands: `show notification` and `contract download`.\n\nshow notification is pretty straightforward - show notifications records for a given time frame or contract. Basically, fills a gap for command line tracker operations in NeoExpress",
+                                            "type": "tweet",
+                                            "created": "Wed, 29 Jun 2022 22:18:06 GMT",
+                                            "tweetId": "1542271214009192448",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1542271214009192448",
+                                            "inReplyToId": "1542271212595818496",
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "Contract Download is much more involved - it downloads a contract + its associated storage records from a public network (i.e. MainNet) and adds them to your local Express chain.\n\nMajor thanks to ixje from @coz_official for the contribution!",
+                                                    "rawText": "Contract Download is much more involved - it downloads a contract + its associated storage records from a public network (i.e. MainNet) and adds them to your local Express chain.\n\nMajor thanks to ixje from @coz_official for the contribution!",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 29 Jun 2022 22:18:06 GMT",
+                                                    "tweetId": "1542271215238119424",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1542271215238119424",
+                                                    "inReplyToId": "1542271214009192448",
+                                                    "tweetUserName": "DevHawk",
+                                                    "subs": [
+                                                        {
+                                                            "text": "This release also sees a significant update to Neo.BuildTools. We've added new tasks to automatically run the Neo C# compiler and NeoExpress batch files during the build process. \n\nDramatically simplifies the project files for C# contract developers: <a href=\"https://t.co/uaWQrcrjo7\">[link]</a>",
+                                                            "rawText": "This release also sees a significant update to Neo.BuildTools. We've added new tasks to automatically run the Neo C# compiler and NeoExpress batch files during the build process. \n\nDramatically simplifies the project files for C# contract developers: https://t.co/uaWQrcrjo7",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 29 Jun 2022 22:18:06 GMT",
+                                                            "tweetId": "1542271216378970112",
+                                                            "urltweet": "https://twitter.com/DevHawk/status/1542271216378970112",
+                                                            "inReplyToId": "1542271215238119424",
+                                                            "tweetUserName": "DevHawk",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "No new major features in the Neo Contract debugger for this release. Storage Schema (announced in this thread: <a href=\"https://t.co/SnqmZ0i6fo\">[link]</a>) is still in preview. v3.3 compatible versions of both production and preview debuggers are available from the @code marketplace",
+                                                                    "rawText": "No new major features in the Neo Contract debugger for this release. Storage Schema (announced in this thread: https://t.co/SnqmZ0i6fo) is still in preview. v3.3 compatible versions of both production and preview debuggers are available from the @code marketplace",
+                                                                    "type": "tweet",
+                                                                    "created": "Wed, 29 Jun 2022 22:18:06 GMT",
+                                                                    "tweetId": "1542271217784090625",
+                                                                    "urltweet": "https://twitter.com/DevHawk/status/1542271217784090625",
+                                                                    "inReplyToId": "1542271216378970112",
+                                                                    "tweetUserName": "DevHawk",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "The NGD Enterprise sample contracts Registrar (<a href=\"https://t.co/Xeyt3IrpnO\">[link]</a>) and NFT (https://t.co/ZnRiYKB8a0) have been updated to the latest Neo + Toolkit bits - including the updated build tools - so you can easily experiment with how these tools work.",
+                                                                            "rawText": "The NGD Enterprise sample contracts Registrar (https://t.co/Xeyt3IrpnO) and NFT (https://t.co/ZnRiYKB8a0) have been updated to the latest Neo + Toolkit bits - including the updated build tools - so you can easily experiment with how these tools work.",
+                                                                            "type": "tweet",
+                                                                            "created": "Wed, 29 Jun 2022 22:18:07 GMT",
+                                                                            "tweetId": "1542271219352752128",
+                                                                            "urltweet": "https://twitter.com/DevHawk/status/1542271219352752128",
+                                                                            "inReplyToId": "1542271217784090625",
+                                                                            "tweetUserName": "DevHawk",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "Neo Visual DevTracker's C# contract template has also been updated with the new build tools, so creating a new contract will be correctly configured from the get-go.",
+                                                                                    "rawText": "Neo Visual DevTracker's C# contract template has also been updated with the new build tools, so creating a new contract will be correctly configured from the get-go.",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Wed, 29 Jun 2022 22:18:07 GMT",
+                                                                                    "tweetId": "1542271220636209152",
+                                                                                    "urltweet": "https://twitter.com/DevHawk/status/1542271220636209152",
+                                                                                    "inReplyToId": "1542271219352752128",
+                                                                                    "tweetUserName": "DevHawk",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "As usual, I'm around to answer questions about @Neo_Blockchain development both here on Twitter and on the Neo Discord (<a href=\"https://t.co/SYrmRzIa17\">[link]</a>)",
+                                                                                            "rawText": "As usual, I'm around to answer questions about @Neo_Blockchain development both here on Twitter and on the Neo Discord (https://t.co/SYrmRzIa17)",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Wed, 29 Jun 2022 22:18:07 GMT",
+                                                                                            "tweetId": "1542271221877788673",
+                                                                                            "urltweet": "https://twitter.com/DevHawk/status/1542271221877788673",
+                                                                                            "inReplyToId": "1542271220636209152",
+                                                                                            "tweetUserName": "DevHawk"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "June 26",
                             "type": "calendarDay",
