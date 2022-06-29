@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 22:43:18 GMT"
+            "dateModified": "Wed, 29 Jun 2022 14:24:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@BigMeanInternet They got like a subscription or something?",
+                                    "rawText": "@BigMeanInternet They got like a subscription or something?",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 14:21:43 GMT",
+                                    "tweetId": "1542151328226574340",
+                                    "urltweet": "https://twitter.com/mal/status/1542151328226574340",
+                                    "inReplyToId": "1540719252910620673",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
