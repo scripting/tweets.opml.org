@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 17:33:22 GMT"
+            "dateModified": "Wed, 29 Jun 2022 19:04:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/jh7mTc0lxh\">[link]</a>",
+                                    "rawText": "https://t.co/jh7mTc0lxh",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 19:00:10 GMT",
+                                    "tweetId": "1542221405953163264",
+                                    "urltweet": "https://twitter.com/davewiner/status/1542221405953163264",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@dbfarber savagery and depravity even.",
                                     "rawText": "@dbfarber savagery and depravity even.",
