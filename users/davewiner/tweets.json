@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 11:41:58 GMT"
+            "dateModified": "Wed, 29 Jun 2022 11:55:00 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                             "tweetId": "1542110577237032960",
                                             "urltweet": "https://twitter.com/davewiner/status/1542110577237032960",
                                             "inReplyToId": "1542109312109215746",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "Getting rid of the electoral college is the weakest of the options. Very rarely does the president get elected without having a majority of the voters. And it only applies to the president. Congress will still be completely dysfunctional.",
+                                                    "rawText": "Getting rid of the electoral college is the weakest of the options. Very rarely does the president get elected without having a majority of the voters. And it only applies to the president. Congress will still be completely dysfunctional.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 29 Jun 2022 11:51:32 GMT",
+                                                    "tweetId": "1542113534074667009",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1542113534074667009",
+                                                    "inReplyToId": "1542110577237032960",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
