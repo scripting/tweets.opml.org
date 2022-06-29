@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 03:40:27 GMT"
+            "dateModified": "Wed, 29 Jun 2022 08:13:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "Desperate mom brings daughter to CTrain station to buy drugs; here's what she learned. <a href=\"https://t.co/OeDBWWtGXj\">[link]</a>",
+                                    "rawText": "Desperate mom brings daughter to CTrain station to buy drugs; here's what she learned. https://t.co/OeDBWWtGXj",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 08:06:30 GMT",
+                                    "tweetId": "1542056901915074561",
+                                    "urltweet": "https://twitter.com/davewiner/status/1542056901915074561",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 28",
                             "type": "calendarDay",
