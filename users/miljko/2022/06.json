@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 20:12:58 GMT"
+            "dateModified": "Wed, 29 Jun 2022 17:54:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@Peperom36001888 🎯",
+                                    "rawText": "@Peperom36001888 🎯",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 17:51:48 GMT",
+                                    "tweetId": "1542204198623797249",
+                                    "urltweet": "https://twitter.com/miljko/status/1542204198623797249",
+                                    "inReplyToId": "1542020350690598912",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 28",
                             "type": "calendarDay",
