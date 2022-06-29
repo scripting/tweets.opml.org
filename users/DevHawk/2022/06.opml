@@ -6,12 +6,45 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Mon, 27 Jun 2022 03:47:33 GMT</dateModified>
+		<dateModified>Wed, 29 Jun 2022 22:22:56 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2022" type="calendarMonth" name="june2022" >
+			<outline text="June 29" type="calendarDay" name="29" >
+				<outline text="This week, we've shipped updates to the #NeoBlockchainToolkit. This brings the toolkit up to date with @Neo_Blockchain v3.3.1 which is running on MainNet today.
+
+There are a few new features that I want to point out:" rawText="This week, we've shipped updates to the #NeoBlockchainToolkit. This brings the toolkit up to date with @Neo_Blockchain v3.3.1 which is running on MainNet today.
+
+There are a few new features that I want to point out:" type="tweet" created="Wed, 29 Jun 2022 22:18:05 GMT" tweetId="1542271212595818496" urltweet="https://twitter.com/DevHawk/status/1542271212595818496" inReplyToId="" tweetUserName="DevHawk" >
+					<outline text="NeoExpress adds a couple new commands: `show notification` and `contract download`.
+
+show notification is pretty straightforward - show notifications records for a given time frame or contract. Basically, fills a gap for command line tracker operations in NeoExpress" rawText="NeoExpress adds a couple new commands: `show notification` and `contract download`.
+
+show notification is pretty straightforward - show notifications records for a given time frame or contract. Basically, fills a gap for command line tracker operations in NeoExpress" type="tweet" created="Wed, 29 Jun 2022 22:18:06 GMT" tweetId="1542271214009192448" urltweet="https://twitter.com/DevHawk/status/1542271214009192448" inReplyToId="1542271212595818496" tweetUserName="DevHawk" >
+						<outline text="Contract Download is much more involved - it downloads a contract + its associated storage records from a public network (i.e. MainNet) and adds them to your local Express chain.
+
+Major thanks to ixje from @coz_official for the contribution!" rawText="Contract Download is much more involved - it downloads a contract + its associated storage records from a public network (i.e. MainNet) and adds them to your local Express chain.
+
+Major thanks to ixje from @coz_official for the contribution!" type="tweet" created="Wed, 29 Jun 2022 22:18:06 GMT" tweetId="1542271215238119424" urltweet="https://twitter.com/DevHawk/status/1542271215238119424" inReplyToId="1542271214009192448" tweetUserName="DevHawk" >
+							<outline text="This release also sees a significant update to Neo.BuildTools. We've added new tasks to automatically run the Neo C# compiler and NeoExpress batch files during the build process. 
+
+Dramatically simplifies the project files for C# contract developers: &lt;a href=&quot;https://t.co/uaWQrcrjo7&quot;&gt;[link]&lt;/a&gt;" rawText="This release also sees a significant update to Neo.BuildTools. We've added new tasks to automatically run the Neo C# compiler and NeoExpress batch files during the build process. 
+
+Dramatically simplifies the project files for C# contract developers: https://t.co/uaWQrcrjo7" type="tweet" created="Wed, 29 Jun 2022 22:18:06 GMT" tweetId="1542271216378970112" urltweet="https://twitter.com/DevHawk/status/1542271216378970112" inReplyToId="1542271215238119424" tweetUserName="DevHawk" >
+								<outline text="No new major features in the Neo Contract debugger for this release. Storage Schema (announced in this thread: &lt;a href=&quot;https://t.co/SnqmZ0i6fo&quot;&gt;[link]&lt;/a&gt;) is still in preview. v3.3 compatible versions of both production and preview debuggers are available from the @code marketplace" rawText="No new major features in the Neo Contract debugger for this release. Storage Schema (announced in this thread: https://t.co/SnqmZ0i6fo) is still in preview. v3.3 compatible versions of both production and preview debuggers are available from the @code marketplace" type="tweet" created="Wed, 29 Jun 2022 22:18:06 GMT" tweetId="1542271217784090625" urltweet="https://twitter.com/DevHawk/status/1542271217784090625" inReplyToId="1542271216378970112" tweetUserName="DevHawk" >
+									<outline text="The NGD Enterprise sample contracts Registrar (&lt;a href=&quot;https://t.co/Xeyt3IrpnO&quot;&gt;[link]&lt;/a&gt;) and NFT (https://t.co/ZnRiYKB8a0) have been updated to the latest Neo + Toolkit bits - including the updated build tools - so you can easily experiment with how these tools work." rawText="The NGD Enterprise sample contracts Registrar (https://t.co/Xeyt3IrpnO) and NFT (https://t.co/ZnRiYKB8a0) have been updated to the latest Neo + Toolkit bits - including the updated build tools - so you can easily experiment with how these tools work." type="tweet" created="Wed, 29 Jun 2022 22:18:07 GMT" tweetId="1542271219352752128" urltweet="https://twitter.com/DevHawk/status/1542271219352752128" inReplyToId="1542271217784090625" tweetUserName="DevHawk" >
+										<outline text="Neo Visual DevTracker's C# contract template has also been updated with the new build tools, so creating a new contract will be correctly configured from the get-go." rawText="Neo Visual DevTracker's C# contract template has also been updated with the new build tools, so creating a new contract will be correctly configured from the get-go." type="tweet" created="Wed, 29 Jun 2022 22:18:07 GMT" tweetId="1542271220636209152" urltweet="https://twitter.com/DevHawk/status/1542271220636209152" inReplyToId="1542271219352752128" tweetUserName="DevHawk" >
+											<outline text="As usual, I'm around to answer questions about @Neo_Blockchain development both here on Twitter and on the Neo Discord (&lt;a href=&quot;https://t.co/SYrmRzIa17&quot;&gt;[link]&lt;/a&gt;)" rawText="As usual, I'm around to answer questions about @Neo_Blockchain development both here on Twitter and on the Neo Discord (https://t.co/SYrmRzIa17)" type="tweet" created="Wed, 29 Jun 2022 22:18:07 GMT" tweetId="1542271221877788673" urltweet="https://twitter.com/DevHawk/status/1542271221877788673" inReplyToId="1542271220636209152" tweetUserName="DevHawk" />
+											</outline>
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="June 26" type="calendarDay" name="26" >
-				<outline text="TFW you're driving home after a 7pm hockey game and the sun is still up. I love PNW in the summer &lt;a href=&quot;https://t.co/3ZfepE6nuU&quot;&gt;[link]&lt;/a&gt;" rawText="TFW you're driving home after a 7pm hockey game and the sun is still up. I love PNW in the summer https://t.co/3ZfepE6nuU" type="tweet" created="Mon, 27 Jun 2022 03:46:19 GMT" tweetId="1541266650812391424" urltweet="https://twitter.com/DevHawk/status/1541266650812391424" inReplyToId="" tweetUserName="DevHawk" />
+				<outline text="TFW you're driving home after a 7pm hockey game and the sun is still up. I love PNW in the summer &lt;a href=&quot;https://t.co/3ZfepE6nuU&quot;&gt;[link]&lt;/a&gt;" rawText="TFW you're driving home after a 7pm hockey game and the sun is still up. I love PNW in the summer https://t.co/3ZfepE6nuU" type="tweet" created="Mon, 27 Jun 2022 03:46:19 GMT" tweetId="1541266650812391424" urltweet="https://twitter.com/DevHawk/status/1541266650812391424" tweetUserName="DevHawk" />
 				</outline>
 			<outline text="June 25" type="calendarDay" name="25" >
 				<outline text="Today's Workout : 325# squats, 115# overhead press, 345# deadlift. 5x5 work sets (3x5 work sets for deadlift) #StrongLifts5x5" rawText="Today's Workout : 325# squats, 115# overhead press, 345# deadlift. 5x5 work sets (3x5 work sets for deadlift) #StrongLifts5x5" type="tweet" created="Sat, 25 Jun 2022 16:48:03 GMT" tweetId="1540738606502883328" urltweet="https://twitter.com/DevHawk/status/1540738606502883328" tweetUserName="DevHawk" />
