@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 08:45:27 GMT"
+            "dateModified": "Wed, 29 Jun 2022 10:21:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "“Proforma” does not mean “blank form for you to fill in”, even in the UK, right?",
+                                    "rawText": "“Proforma” does not mean “blank form for you to fill in”, even in the UK, right?",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 10:20:33 GMT",
+                                    "tweetId": "1542090637188763648",
+                                    "urltweet": "https://twitter.com/defjaf/status/1542090637188763648",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 28",
                             "type": "calendarDay",
