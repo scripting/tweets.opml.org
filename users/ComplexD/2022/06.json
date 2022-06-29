@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ComplexD/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 12:46:58 GMT"
+            "dateModified": "Wed, 29 Jun 2022 11:20:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "Delaware vs Estonia: where to start your company? Read the complete article at <a href=\"https://t.co/I8bQuTDycx\">[link]</a>. #Business #eDiscovery @e_Residents https://t.co/hvqG0UE5Yv",
+                                    "rawText": "Delaware vs Estonia: where to start your company? Read the complete article at https://t.co/I8bQuTDycx. #Business #eDiscovery @e_Residents https://t.co/hvqG0UE5Yv",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 11:12:05 GMT",
+                                    "tweetId": "1542103606006059009",
+                                    "urltweet": "https://twitter.com/ComplexD/status/1542103606006059009",
+                                    "tweetUserName": "ComplexD"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 28",
                             "type": "calendarDay",
