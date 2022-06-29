@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 22:49:53 GMT"
+            "dateModified": "Wed, 29 Jun 2022 06:51:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Chromebooks get these 7 new Chrome OS 103 features <a href=\"https://t.co/mAk5U6jueG\">[link]</a> https://t.co/5OHO7t5S5f",
+                                    "rawText": "ICYMI: Chromebooks get these 7 new Chrome OS 103 features https://t.co/mAk5U6jueG https://t.co/5OHO7t5S5f",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 06:41:02 GMT",
+                                    "tweetId": "1542035394593710082",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1542035394593710082",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 28",
                             "type": "calendarDay",
