@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 28 Jun 2022 19:00:53 GMT"
+            "dateModified": "Wed, 29 Jun 2022 14:06:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "Something came up and I had to rebook my flight to MN to be this Friday instead of next. Wife will join me next week. Hoping that no checked luggage and my new Gold status will help me through the European airport chaos.",
+                                    "rawText": "Something came up and I had to rebook my flight to MN to be this Friday instead of next. Wife will join me next week. Hoping that no checked luggage and my new Gold status will help me through the European airport chaos.",
+                                    "type": "tweet",
+                                    "created": "Wed, 29 Jun 2022 14:02:01 GMT",
+                                    "tweetId": "1542146371897155584",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1542146371897155584",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 28",
                             "type": "calendarDay",
