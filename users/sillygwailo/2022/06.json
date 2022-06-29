@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 19:35:30 GMT"
+            "dateModified": "Wed, 29 Jun 2022 20:01:31 GMT"
         },
         "body": {
             "subs": [
@@ -95,7 +95,19 @@
                                     "tweetId": "1542127772247678976",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1542127772247678976",
                                     "inReplyToId": "1031979839975174144",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "So satisfying. <a href=\"https://t.co/1slgFzkVYh\">[link]</a>",
+                                            "rawText": "So satisfying. https://t.co/1slgFzkVYh",
+                                            "type": "tweet",
+                                            "created": "Wed, 29 Jun 2022 19:56:09 GMT",
+                                            "tweetId": "1542235492548313088",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1542235492548313088",
+                                            "inReplyToId": "1542127772247678976",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
