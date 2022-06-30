@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 21:48:38 GMT"
+            "dateModified": "Thu, 30 Jun 2022 11:15:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "📚 Re-reading Taleb’s Fooled by Randomness for the first time since covid hit. From the preface, on intellectual immodesty. There is a direct line from this to the catastrophic early response to the pandemic.\n\nBTW, our company is called Cartesian but we are Montaignes at heart. <a href=\"https://t.co/suQppCwmwm\">[link]</a>",
+                                    "rawText": "📚 Re-reading Taleb’s Fooled by Randomness for the first time since covid hit. From the preface, on intellectual immodesty. There is a direct line from this to the catastrophic early response to the pandemic.\n\nBTW, our company is called Cartesian but we are Montaignes at heart. https://t.co/suQppCwmwm",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 11:11:51 GMT",
+                                    "tweetId": "1542465938284548096",
+                                    "urltweet": "https://twitter.com/miljko/status/1542465938284548096",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
