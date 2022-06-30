@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 30 Jun 2022 11:21:31 GMT"
+            "dateModified": "Thu, 30 Jun 2022 12:52:37 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 30 Jun 2022 11:13:36 GMT",
                                     "tweetId": "1542466376648081408",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1542466376648081408",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "I got to be in both pictures 😃 <a href=\"https://t.co/Fhkq8XKc8f\">[link]</a>",
+                                            "rawText": "I got to be in both pictures 😃 https://t.co/Fhkq8XKc8f",
+                                            "type": "tweet",
+                                            "created": "Thu, 30 Jun 2022 12:41:15 GMT",
+                                            "tweetId": "1542488433980997633",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1542488433980997633",
+                                            "inReplyToId": "1542466376648081408",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 }
                             ]
                         },
