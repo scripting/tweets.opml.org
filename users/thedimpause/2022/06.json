@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 12:00:30 GMT"
+            "dateModified": "Thu, 30 Jun 2022 19:01:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "I've just signed @Humanists_UK petition to take abortion out of the Criminal Code in the UK. Please sign too and enshrine bodily rights in law.\n <a href=\"https://t.co/8hyHGcSclo\">[link]</a>",
+                                    "rawText": "I've just signed @Humanists_UK petition to take abortion out of the Criminal Code in the UK. Please sign too and enshrine bodily rights in law.\n https://t.co/8hyHGcSclo",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 18:50:43 GMT",
+                                    "tweetId": "1542581412230045699",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1542581412230045699",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
