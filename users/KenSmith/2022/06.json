@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 30 Jun 2022 00:43:35 GMT"
+            "dateModified": "Thu, 30 Jun 2022 11:21:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "More regional coverage of this week's disruption by Proud Boys of an event at Tutt Library in South Bend. <a href=\"https://t.co/HIUTLY2gjm\">[link]</a>",
+                                    "rawText": "More regional coverage of this week's disruption by Proud Boys of an event at Tutt Library in South Bend. https://t.co/HIUTLY2gjm",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 11:18:46 GMT",
+                                    "tweetId": "1542467675229675520",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1542467675229675520",
+                                    "tweetUserName": "KenSmith"
+                                },
+                                {
+                                    "text": "More regional reporting about a group of \"Proud Boys\" disrupting an event at South Bend's Tutt Library. <a href=\"https://t.co/wemNb5Iu2g\">[link]</a>",
+                                    "rawText": "More regional reporting about a group of \"Proud Boys\" disrupting an event at South Bend's Tutt Library. https://t.co/wemNb5Iu2g",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 11:16:29 GMT",
+                                    "tweetId": "1542467101063102465",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1542467101063102465",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
