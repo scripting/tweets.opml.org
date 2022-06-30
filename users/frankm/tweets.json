@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 17:49:23 GMT"
+            "dateModified": "Thu, 30 Jun 2022 13:33:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Do you remember Frontpage? Here is a site I built and maintained in the late 90s using it. <a href=\"https://t.co/HFHoH40EfU\">[link]</a>",
+                                    "rawText": "Do you remember Frontpage? Here is a site I built and maintained in the late 90s using it. https://t.co/HFHoH40EfU",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 13:21:49 GMT",
+                                    "tweetId": "1542498642506006528",
+                                    "urltweet": "https://twitter.com/frankm/status/1542498642506006528",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
