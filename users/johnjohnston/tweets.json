@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 20:10:47 GMT"
+            "dateModified": "Thu, 30 Jun 2022 10:03:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@ds106dc #tdc3822  #myFest22\nEvery day we wake in our cells, check our tin helmet for damage and sacrifice a cabbage at the shrine of #DS106 <a href=\"https://t.co/UnewaBdlPI\">[link]</a>",
+                                    "rawText": "@ds106dc #tdc3822  #myFest22\nEvery day we wake in our cells, check our tin helmet for damage and sacrifice a cabbage at the shrine of #DS106 https://t.co/UnewaBdlPI",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 09:54:02 GMT",
+                                    "tweetId": "1542446354735177731",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1542446354735177731",
+                                    "inReplyToId": "1542441828653203460",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
