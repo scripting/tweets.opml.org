@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 30 Jun 2022 16:58:24 GMT"
+            "dateModified": "Thu, 30 Jun 2022 20:52:39 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 30 Jun 2022 16:50:50 GMT",
                                     "tweetId": "1542551242911760384",
                                     "urltweet": "https://twitter.com/Latz/status/1542551242911760384",
-                                    "tweetUserName": "Latz"
+                                    "tweetUserName": "Latz",
+                                    "subs": [
+                                        {
+                                            "text": "BTW, thanks to the @phpstorm code checker for indicating that error.",
+                                            "rawText": "BTW, thanks to the @phpstorm code checker for indicating that error.",
+                                            "type": "tweet",
+                                            "created": "Thu, 30 Jun 2022 20:44:17 GMT",
+                                            "tweetId": "1542609992938913797",
+                                            "urltweet": "https://twitter.com/Latz/status/1542609992938913797",
+                                            "inReplyToId": "1542551242911760384",
+                                            "tweetUserName": "Latz"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Trying to apply a security patch to a 6 year old plugin (pagebar). \n\na) It does not work with WP6.0 and/or PHP 8\n\nb) Wow, I had a completely different programming style\n\nc)  I have only 4 weeks before wordpress closes the plugin for good.",
