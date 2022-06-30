@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 19:39:15 GMT"
+            "dateModified": "Thu, 30 Jun 2022 19:04:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Chrome OS 105 adds Ansible to Linux on Chromebooks <a href=\"https://t.co/GE0ScLRUWg\">[link]</a>",
+                                    "rawText": "Chrome OS 105 adds Ansible to Linux on Chromebooks https://t.co/GE0ScLRUWg",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 18:57:19 GMT",
+                                    "tweetId": "1542583075896545282",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1542583075896545282",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
