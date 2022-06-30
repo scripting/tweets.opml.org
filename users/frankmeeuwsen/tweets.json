@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 15:11:42 GMT"
+            "dateModified": "Thu, 30 Jun 2022 18:18:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Beste soundtrack. <a href=\"https://t.co/RP75M0hZUD\">[link]</a>",
+                                    "rawText": "Beste soundtrack. https://t.co/RP75M0hZUD",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 18:11:39 GMT",
+                                    "tweetId": "1542571582136123392",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1542571582136123392",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
