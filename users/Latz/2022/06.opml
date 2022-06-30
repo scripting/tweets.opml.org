@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/Latz/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 30 Jun 2022 16:58:24 GMT</dateModified>
+		<dateModified>Thu, 30 Jun 2022 20:52:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="June 2022" type="calendarMonth" name="june2022" >
@@ -15,7 +15,9 @@
 
 I'm totally unaware of current #PHP programming." rawText="The problemthat I used  an &quot;old style constructur&quot; and not &quot;__construct&quot;.
 
-I'm totally unaware of current #PHP programming." type="tweet" created="Thu, 30 Jun 2022 16:50:50 GMT" tweetId="1542551242911760384" urltweet="https://twitter.com/Latz/status/1542551242911760384" inReplyToId="" tweetUserName="Latz" />
+I'm totally unaware of current #PHP programming." type="tweet" created="Thu, 30 Jun 2022 16:50:50 GMT" tweetId="1542551242911760384" urltweet="https://twitter.com/Latz/status/1542551242911760384" tweetUserName="Latz" >
+					<outline text="BTW, thanks to the @phpstorm code checker for indicating that error." rawText="BTW, thanks to the @phpstorm code checker for indicating that error." type="tweet" created="Thu, 30 Jun 2022 20:44:17 GMT" tweetId="1542609992938913797" urltweet="https://twitter.com/Latz/status/1542609992938913797" inReplyToId="1542551242911760384" tweetUserName="Latz" />
+					</outline>
 				<outline text="Trying to apply a security patch to a 6 year old plugin (pagebar). 
 
 a) It does not work with WP6.0 and/or PHP 8
