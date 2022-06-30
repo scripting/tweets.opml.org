@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 23:22:59 GMT"
+            "dateModified": "Thu, 30 Jun 2022 06:45:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Sámbame con todo tu cuerpo",
+                                    "rawText": "Sámbame con todo tu cuerpo",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 06:36:16 GMT",
+                                    "tweetId": "1542396585027452928",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1542396585027452928",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
