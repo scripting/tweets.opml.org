@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 30 Jun 2022 16:08:50 GMT"
+            "dateModified": "Thu, 30 Jun 2022 16:47:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "Today in Dylanology. <a href=\"https://t.co/Kssys6LWVz\">[link]</a>",
+                                    "rawText": "Today in Dylanology. https://t.co/Kssys6LWVz",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 16:36:07 GMT",
+                                    "tweetId": "1542547542600290309",
+                                    "urltweet": "https://twitter.com/yudel/status/1542547542600290309",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@kavvanah Yes. Particularly since a local high school uses Tikvah for curriculum.",
                                     "rawText": "@kavvanah Yes. Particularly since a local high school uses Tikvah for curriculum.",
