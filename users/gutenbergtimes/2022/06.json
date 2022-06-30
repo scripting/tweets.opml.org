@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 25 Jun 2022 22:37:08 GMT"
+            "dateModified": "Thu, 30 Jun 2022 18:52:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Learn more about the new \"Create Block Theme\" plugin by the WordPress Themes team Ben Dwyer @scruffian wrote on who it is for, how it works and why it's not part of the Gutenberg repo  \n<a href=\"https://t.co/Fzjr1DLs6c\">[link]</a> via @WordPress",
+                                    "rawText": "Learn more about the new \"Create Block Theme\" plugin by the WordPress Themes team Ben Dwyer @scruffian wrote on who it is for, how it works and why it's not part of the Gutenberg repo  \nhttps://t.co/Fzjr1DLs6c via @WordPress",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 18:43:38 GMT",
+                                    "tweetId": "1542579630699384834",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1542579630699384834",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
