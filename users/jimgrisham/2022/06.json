@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 29 Jun 2022 18:28:55 GMT"
+            "dateModified": "Thu, 30 Jun 2022 05:45:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@tsxrunner @YellowAfterlife @JuliaDavisNews That is intriguing - thank you for sharing it!",
+                                    "rawText": "@tsxrunner @YellowAfterlife @JuliaDavisNews That is intriguing - thank you for sharing it!",
+                                    "type": "tweet",
+                                    "created": "Thu, 30 Jun 2022 05:35:13 GMT",
+                                    "tweetId": "1542381219962183680",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1542381219962183680",
+                                    "inReplyToId": "1542314563496022017",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 29",
                             "type": "calendarDay",
