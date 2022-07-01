@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "frankmeeuwsen tweets",
+            "dateCreated": "Sat, 18 Dec 2021 16:25:34 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 07:45:22 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "OK... #StrangerThings4 episode 9 is 150 minuten...Dat is een flinke zit! <a href=\"https://t.co/eK761MK9mM\">[link]</a>",
+                                    "rawText": "OK... #StrangerThings4 episode 9 is 150 minuten...Dat is een flinke zit! https://t.co/eK761MK9mM",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 07:44:43 GMT",
+                                    "tweetId": "1542776196013981696",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1542776196013981696",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
