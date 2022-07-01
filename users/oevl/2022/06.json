@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 26 Jun 2022 03:34:12 GMT"
+            "dateModified": "Fri, 01 Jul 2022 03:31:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Turns abandoned cargo boat into modern home gem (before/after) <a href=\"https://t.co/hJqD3RmPyE\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Turns abandoned cargo boat into modern home gem (before/after) https://t.co/hJqD3RmPyE",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 03:28:46 GMT",
+                                    "tweetId": "1542711784057995265",
+                                    "urltweet": "https://twitter.com/oevl/status/1542711784057995265",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 25",
                             "type": "calendarDay",
