@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "Latz tweets",
+            "dateCreated": "Thu, 05 May 2022 12:41:11 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 08:48:26 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "\"Tausende haben an Automaten in Berlin trotz des 9-Euro-Tickets teure Monatskarten gekauft.\" (<a href=\"https://t.co/eeeVCY7x3X\">[link]</a>)\n\nWie uninteressiert an der Welt um sich herum kann man sein?",
+                                    "rawText": "\"Tausende haben an Automaten in Berlin trotz des 9-Euro-Tickets teure Monatskarten gekauft.\" (https://t.co/eeeVCY7x3X)\n\nWie uninteressiert an der Welt um sich herum kann man sein?",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 08:41:29 GMT",
+                                    "tweetId": "1542790483004514304",
+                                    "urltweet": "https://twitter.com/Latz/status/1542790483004514304",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
