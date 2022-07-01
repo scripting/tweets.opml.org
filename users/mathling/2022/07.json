@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "mathling tweets",
+            "dateCreated": "Sun, 12 Jun 2022 16:14:12 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 19:38:08 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@ArjanBytez Really like these",
+                                    "rawText": "@ArjanBytez Really like these",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 19:36:10 GMT",
+                                    "tweetId": "1542955238138646528",
+                                    "urltweet": "https://twitter.com/mathling/status/1542955238138646528",
+                                    "inReplyToId": "1542892273389772800",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
