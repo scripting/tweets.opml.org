@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "davewiner tweets",
+            "dateCreated": "Sat, 18 Dec 2021 15:51:38 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 08:09:53 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@dsearls Why do you think they’re closed?",
+                                    "rawText": "@dsearls Why do you think they’re closed?",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 07:59:46 GMT",
+                                    "tweetId": "1542779984594485250",
+                                    "urltweet": "https://twitter.com/davewiner/status/1542779984594485250",
+                                    "inReplyToId": "1542732403424169984",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
