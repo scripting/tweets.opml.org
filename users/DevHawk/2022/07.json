@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "DevHawk tweets",
+            "dateCreated": "Mon, 20 Dec 2021 21:35:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 16:27:40 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Today's workout: 315# squats, 120# overhead press, 355# deadlift. 5x5 squat + overhead work sets (3x5 deadlift work sets) #strongLifts5x5",
+                                    "rawText": "Today's workout: 315# squats, 120# overhead press, 355# deadlift. 5x5 squat + overhead work sets (3x5 deadlift work sets) #strongLifts5x5",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 16:17:59 GMT",
+                                    "tweetId": "1542905366933131264",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1542905366933131264",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
