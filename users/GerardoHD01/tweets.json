@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 27 Jun 2022 17:02:56 GMT"
+            "dateModified": "Fri, 01 Jul 2022 03:02:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "june2022",
                     "subs": [
+                        {
+                            "text": "June 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@JoseGandhy ...Hasta que quede satisfecha y dormida 😏",
+                                    "rawText": "@JoseGandhy ...Hasta que quede satisfecha y dormida 😏",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 02:59:16 GMT",
+                                    "tweetId": "1542704362660630528",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1542704362660630528",
+                                    "inReplyToId": "1542652834537250818",
+                                    "tweetUserName": "GerardoHD01"
+                                },
+                                {
+                                    "text": "@CrisAntuan Uff, puedo oler? 🤤",
+                                    "rawText": "@CrisAntuan Uff, puedo oler? 🤤",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 02:55:56 GMT",
+                                    "tweetId": "1542703523690958848",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1542703523690958848",
+                                    "inReplyToId": "1542702955438145537",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "June 27",
                             "type": "calendarDay",
