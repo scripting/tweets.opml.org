@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "Jacobr tweets",
+            "dateCreated": "Sun, 30 Jan 2022 14:59:22 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 14:35:33 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@mreider Priority = 99. Gotta leave them in the backlog or they'll come back again and you'll go through the effort again.",
+                                    "rawText": "@mreider Priority = 99. Gotta leave them in the backlog or they'll come back again and you'll go through the effort again.",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 14:34:04 GMT",
+                                    "tweetId": "1542879213094682627",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1542879213094682627",
+                                    "inReplyToId": "1542841267264131073",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
