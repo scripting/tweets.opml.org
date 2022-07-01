@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 17:42:30 GMT"
+            "dateModified": "Fri, 01 Jul 2022 17:55:31 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "Joe Biden's failure. <a href=\"https://t.co/EEGG5ATDOE\">[link]</a>",
+                                    "rawText": "Joe Biden's failure. https://t.co/EEGG5ATDOE",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 17:52:59 GMT",
+                                    "tweetId": "1542929274570686472",
+                                    "urltweet": "https://twitter.com/davewiner/status/1542929274570686472",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@ElieNYC \"forced-birth\" is good. \n\ni had not heard that before.\n\nmuch better than \"pro-life\".",
                                     "rawText": "@ElieNYC \"forced-birth\" is good. \n\ni had not heard that before.\n\nmuch better than \"pro-life\".",
@@ -196,7 +205,31 @@
                                     "created": "Fri, 01 Jul 2022 11:03:01 GMT",
                                     "tweetId": "1542826102728581120",
                                     "urltweet": "https://twitter.com/davewiner/status/1542826102728581120",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "FYI this wasn't intended as a joke. I really would like to know, and I hope some journalists are looking into this.",
+                                            "rawText": "FYI this wasn't intended as a joke. I really would like to know, and I hope some journalists are looking into this.",
+                                            "type": "tweet",
+                                            "created": "Fri, 01 Jul 2022 17:54:49 GMT",
+                                            "tweetId": "1542929734207668225",
+                                            "urltweet": "https://twitter.com/davewiner/status/1542929734207668225",
+                                            "inReplyToId": "1542826102728581120",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "So far it's weird that the Jan 6 committee is getting all the scoops. Don't any of them have sources?",
+                                                    "rawText": "So far it's weird that the Jan 6 committee is getting all the scoops. Don't any of them have sources?",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 01 Jul 2022 17:55:13 GMT",
+                                                    "tweetId": "1542929832824168449",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1542929832824168449",
+                                                    "inReplyToId": "1542929734207668225",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Wordle 377 3/6\n\n🟩⬜🟩🟨⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩🟩🟩",
