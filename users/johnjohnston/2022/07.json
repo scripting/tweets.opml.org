@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "johnjohnston tweets",
+            "dateCreated": "Thu, 16 Dec 2021 20:50:27 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 19:27:52 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Glen Douglas Walkcast 2: <a href=\"https://t.co/ixKXKato1S\">[link]</a>",
+                                    "rawText": "Glen Douglas Walkcast 2: https://t.co/ixKXKato1S",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 19:24:02 GMT",
+                                    "tweetId": "1542952186954616833",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1542952186954616833",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
