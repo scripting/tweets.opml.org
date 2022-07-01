@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "frankm tweets",
+            "dateCreated": "Mon, 20 Dec 2021 13:57:48 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 14:04:16 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "I believe this will be a growing sentiment about Christianity, and it will be deserved. We are doing things very wrong. <a href=\"https://t.co/VwKKCIldKd\">[link]</a>",
+                                    "rawText": "I believe this will be a growing sentiment about Christianity, and it will be deserved. We are doing things very wrong. https://t.co/VwKKCIldKd",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 13:56:11 GMT",
+                                    "tweetId": "1542869680880291840",
+                                    "urltweet": "https://twitter.com/frankm/status/1542869680880291840",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
