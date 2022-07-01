@@ -1,0 +1,60 @@
+{
+    "opml": {
+        "head": {
+            "title": "mal tweets",
+            "dateCreated": "Mon, 24 Jan 2022 16:52:26 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 21:30:30 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@davewiner blather on for hours... is my first guess",
+                                    "rawText": "@davewiner blather on for hours... is my first guess",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 21:24:49 GMT",
+                                    "tweetId": "1542982584296034304",
+                                    "urltweet": "https://twitter.com/mal/status/1542982584296034304",
+                                    "inReplyToId": "1542826102728581120",
+                                    "tweetUserName": "mal"
+                                },
+                                {
+                                    "text": "@yatesco @brandymedia ClojureScript... you had one job!",
+                                    "rawText": "@yatesco @brandymedia ClojureScript... you had one job!",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 21:23:53 GMT",
+                                    "tweetId": "1542982346353217536",
+                                    "urltweet": "https://twitter.com/mal/status/1542982346353217536",
+                                    "inReplyToId": "1542807012853022720",
+                                    "tweetUserName": "mal"
+                                },
+                                {
+                                    "text": "@dabeaz I mean, wake me till more algorithms come out. In the mean time these bash scripts are still using using my I.",
+                                    "rawText": "@dabeaz I mean, wake me till more algorithms come out. In the mean time these bash scripts are still using using my I.",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 21:21:08 GMT",
+                                    "tweetId": "1542981654481801216",
+                                    "urltweet": "https://twitter.com/mal/status/1542981654481801216",
+                                    "inReplyToId": "1542873929882259457",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
