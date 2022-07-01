@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "oevl tweets",
+            "dateCreated": "Wed, 26 Jan 2022 20:26:12 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 01 Jul 2022 16:31:56 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Raw Session | Extra Long Surfboard <a href=\"https://t.co/Tw81XTfoat\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Raw Session | Extra Long Surfboard https://t.co/Tw81XTfoat",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 16:28:31 GMT",
+                                    "tweetId": "1542908014541393920",
+                                    "urltweet": "https://twitter.com/oevl/status/1542908014541393920",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
