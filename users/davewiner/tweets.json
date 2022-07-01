@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 17:16:29 GMT"
+            "dateModified": "Fri, 01 Jul 2022 17:29:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "Why didn't Biden act in advance of the Dobbs decision?",
+                                    "rawText": "Why didn't Biden act in advance of the Dobbs decision?",
+                                    "type": "tweet",
+                                    "created": "Fri, 01 Jul 2022 17:20:34 GMT",
+                                    "tweetId": "1542921114741100546",
+                                    "urltweet": "https://twitter.com/davewiner/status/1542921114741100546",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "This West Wing scene applies to Biden, who is played by Josh.\n\n<a href=\"https://t.co/68CNQuOEwj\">[link]</a>\n\nCJ: You're worried you might drown.\n\nCJ: It's the fall that's gonna kill you.\n\nAdding more justices won't hurt because the presidency is already dead. \n\nIt just hasn't hit them yet.",
                                     "rawText": "This West Wing scene applies to Biden, who is played by Josh.\n\nhttps://t.co/68CNQuOEwj\n\nCJ: You're worried you might drown.\n\nCJ: It's the fall that's gonna kill you.\n\nAdding more justices won't hurt because the presidency is already dead. \n\nIt just hasn't hit them yet.",
@@ -68,7 +77,19 @@
                                     "tweetId": "1542914243770589184",
                                     "urltweet": "https://twitter.com/davewiner/status/1542914243770589184",
                                     "inReplyToId": "1542896570563264516",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@Jermolene @warianoguerra If you're interested -- \n\nI think the best way to interop is via OPML.\n\nThe dream would be to edit a TW page in Drummer.\n\n<a href=\"https://t.co/jBvvd07MwT\">[link]</a>",
+                                            "rawText": "@Jermolene @warianoguerra If you're interested -- \n\nI think the best way to interop is via OPML.\n\nThe dream would be to edit a TW page in Drummer.\n\nhttps://t.co/jBvvd07MwT",
+                                            "type": "tweet",
+                                            "created": "Fri, 01 Jul 2022 17:17:26 GMT",
+                                            "tweetId": "1542920324869677058",
+                                            "urltweet": "https://twitter.com/davewiner/status/1542920324869677058",
+                                            "inReplyToId": "1542914243770589184",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Jermolene @warianoguerra Nice to meet you. People love your product. :-)\n\nOutlining is more than just hierarchies though -- the editing features, the flow of the tool.\n\nI should do a video of how I write code in my outliner..",
