@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 08:48:26 GMT"
+            "dateModified": "Sat, 02 Jul 2022 18:12:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Der Bösewicht meiner Jugend:\n(via <a href=\"https://t.co/gLDozBwNN1\">[link]</a>) https://t.co/YHgMruRTel",
+                                    "rawText": "Der Bösewicht meiner Jugend:\n(via https://t.co/gLDozBwNN1) https://t.co/YHgMruRTel",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 18:11:51 GMT",
+                                    "tweetId": "1543296408874323969",
+                                    "urltweet": "https://twitter.com/Latz/status/1543296408874323969",
+                                    "tweetUserName": "Latz"
+                                },
+                                {
+                                    "text": "Das nicht zustellbare Paket wurde in eine Packstation gebracht.\n\nIst das jetzt neu bei #DHL?",
+                                    "rawText": "Das nicht zustellbare Paket wurde in eine Packstation gebracht.\n\nIst das jetzt neu bei #DHL?",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 18:00:08 GMT",
+                                    "tweetId": "1543293461645910016",
+                                    "urltweet": "https://twitter.com/Latz/status/1543293461645910016",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
