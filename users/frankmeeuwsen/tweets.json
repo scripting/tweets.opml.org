@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 17:17:59 GMT"
+            "dateModified": "Sat, 02 Jul 2022 14:59:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@Nalden Cool! Where’s the RSS feed? 😉",
+                                    "rawText": "@Nalden Cool! Where’s the RSS feed? 😉",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 14:58:42 GMT",
+                                    "tweetId": "1543247802255409152",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1543247802255409152",
+                                    "inReplyToId": "1541400619491229698",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
