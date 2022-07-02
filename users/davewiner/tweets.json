@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 21:02:17 GMT"
+            "dateModified": "Sat, 02 Jul 2022 22:20:22 GMT"
         },
         "body": {
             "subs": [
@@ -189,7 +189,19 @@
                                     "created": "Sat, 02 Jul 2022 14:10:56 GMT",
                                     "tweetId": "1543235781023735808",
                                     "urltweet": "https://twitter.com/davewiner/status/1543235781023735808",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "BTW, you die in the surgery to remove your kidney, too bad, that’s the way it goes.",
+                                            "rawText": "BTW, you die in the surgery to remove your kidney, too bad, that’s the way it goes.",
+                                            "type": "tweet",
+                                            "created": "Sat, 02 Jul 2022 22:19:54 GMT",
+                                            "tweetId": "1543358833883578382",
+                                            "urltweet": "https://twitter.com/davewiner/status/1543358833883578382",
+                                            "inReplyToId": "1543235781023735808",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Does the Supreme Court make you angry?\n\nIf so, hold on to that, and channel it into action.\n\nAnd remember this country was founded in revolution, against tyranny like this.",
