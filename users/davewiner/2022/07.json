@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 02:10:03 GMT"
+            "dateModified": "Sat, 02 Jul 2022 09:06:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "The stock market had its worst first half since 1970. <a href=\"https://t.co/wiqL0GDYGO\">[link]</a>",
+                                    "rawText": "The stock market had its worst first half since 1970. https://t.co/wiqL0GDYGO",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 08:55:19 GMT",
+                                    "tweetId": "1543156352972881920",
+                                    "urltweet": "https://twitter.com/davewiner/status/1543156352972881920",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
