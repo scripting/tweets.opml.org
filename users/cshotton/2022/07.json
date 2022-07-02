@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "cshotton tweets",
+            "dateCreated": "Mon, 24 Jan 2022 19:51:26 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sat, 02 Jul 2022 17:28:03 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@cstross That's exactly what A/UX was on 68k Macs in 1988.",
+                                    "rawText": "@cstross That's exactly what A/UX was on 68k Macs in 1988.",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 17:23:02 GMT",
+                                    "tweetId": "1543284125364256771",
+                                    "urltweet": "https://twitter.com/cshotton/status/1543284125364256771",
+                                    "inReplyToId": "1543195616523833344",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
