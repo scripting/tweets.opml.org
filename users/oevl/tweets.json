@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 16:31:56 GMT"
+            "dateModified": "Sat, 02 Jul 2022 05:32:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Mystal: I'm Sad Biden ‘Won’t Stand With His People’ And ‘Take Power Back’ From SCOTUS <a href=\"https://t.co/JxMWLU1wHH\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Mystal: I'm Sad Biden ‘Won’t Stand With His People’ And ‘Take Power Back’ From SCOTUS https://t.co/JxMWLU1wHH",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 05:28:12 GMT",
+                                    "tweetId": "1543104231338541056",
+                                    "urltweet": "https://twitter.com/oevl/status/1543104231338541056",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
