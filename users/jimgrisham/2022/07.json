@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 16:14:55 GMT"
+            "dateModified": "Sat, 02 Jul 2022 18:03:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,45 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@DaisyDermont @Lift_Our_Voice <a href=\"https://t.co/d7cQg5JK0y\">[link]</a>",
+                                    "rawText": "@DaisyDermont @Lift_Our_Voice https://t.co/d7cQg5JK0y",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 18:02:51 GMT",
+                                    "tweetId": "1543294143727734789",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1543294143727734789",
+                                    "inReplyToId": "1543203718937694210",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@DaisyDermont @Lift_Our_Voice <a href=\"https://t.co/mBzegqZBqC\">[link]</a>",
+                                            "rawText": "@DaisyDermont @Lift_Our_Voice https://t.co/mBzegqZBqC",
+                                            "type": "tweet",
+                                            "created": "Sat, 02 Jul 2022 18:03:04 GMT",
+                                            "tweetId": "1543294198006235138",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1543294198006235138",
+                                            "inReplyToId": "1543294143727734789",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@Lift_Our_Voice For _each_ citizen that moves to a new state/area: perhaps they can befriend and convince, on average, _at least_ one new non-voting neighbor to actually vote within the first few months.\n\n(The DoD would call this a #ForceMultiplier tactic.)",
+                                    "rawText": "@Lift_Our_Voice For _each_ citizen that moves to a new state/area: perhaps they can befriend and convince, on average, _at least_ one new non-voting neighbor to actually vote within the first few months.\n\n(The DoD would call this a #ForceMultiplier tactic.)",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 17:57:22 GMT",
+                                    "tweetId": "1543292764065918976",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1543292764065918976",
+                                    "inReplyToId": "1540585707282247681",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
