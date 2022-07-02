@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 15:08:09 GMT"
+            "dateModified": "Sat, 02 Jul 2022 16:00:12 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1543247097532743680",
                                     "urltweet": "https://twitter.com/defjaf/status/1543247097532743680",
                                     "inReplyToId": "1543240998515613698",
-                                    "tweetUserName": "defjaf"
+                                    "tweetUserName": "defjaf",
+                                    "subs": [
+                                        {
+                                            "text": "@skdh @WKCosmo I guess you then need an epistemic/Bayesian updating step to non-mysteriously convert (not “collapse”) your description of the state to the actual observed case.",
+                                            "rawText": "@skdh @WKCosmo I guess you then need an epistemic/Bayesian updating step to non-mysteriously convert (not “collapse”) your description of the state to the actual observed case.",
+                                            "type": "tweet",
+                                            "created": "Sat, 02 Jul 2022 15:49:20 GMT",
+                                            "tweetId": "1543260544836276225",
+                                            "urltweet": "https://twitter.com/defjaf/status/1543260544836276225",
+                                            "inReplyToId": "1543247097532743680",
+                                            "tweetUserName": "defjaf"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@WKCosmo @skdh “Everything is quantum mechanical, all of the time” is a good slogan, but what does it mean? Decoherence drives systems to near classicality, but off-diagonal terms in the density matrix are still non-zero.",
