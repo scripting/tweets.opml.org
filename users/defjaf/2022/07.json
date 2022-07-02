@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "defjaf tweets",
+            "dateCreated": "Fri, 11 Feb 2022 15:36:38 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sat, 02 Jul 2022 10:21:51 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@WKCosmo @skdh “Everything is quantum mechanical, all of the time” is a good slogan, but what does it mean? Decoherence drives systems to near classicality, but off-diagonal terms in the density matrix are still non-zero.",
+                                    "rawText": "@WKCosmo @skdh “Everything is quantum mechanical, all of the time” is a good slogan, but what does it mean? Decoherence drives systems to near classicality, but off-diagonal terms in the density matrix are still non-zero.",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 10:16:43 GMT",
+                                    "tweetId": "1543176836938665986",
+                                    "urltweet": "https://twitter.com/defjaf/status/1543176836938665986",
+                                    "inReplyToId": "1543134949028528128",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
