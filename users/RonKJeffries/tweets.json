@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 01:01:59 GMT"
+            "dateModified": "Sat, 02 Jul 2022 04:30:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@rohmaniahutami @nopeifyaltalt @elonmusk @Pontifex photoshop maybe??",
+                                    "rawText": "@rohmaniahutami @nopeifyaltalt @elonmusk @Pontifex photoshop maybe??",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 04:23:59 GMT",
+                                    "tweetId": "1543088068197986310",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1543088068197986310",
+                                    "inReplyToId": "1543068345519419394",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
