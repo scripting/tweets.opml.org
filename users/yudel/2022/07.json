@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 02:12:04 GMT"
+            "dateModified": "Sat, 02 Jul 2022 19:46:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@MsEntropy True of North Korea too. I don’t understand why people say it as if it’s a good thing.",
+                                    "rawText": "@MsEntropy True of North Korea too. I don’t understand why people say it as if it’s a good thing.",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 19:36:25 GMT",
+                                    "tweetId": "1543317691582357505",
+                                    "urltweet": "https://twitter.com/yudel/status/1543317691582357505",
+                                    "inReplyToId": "1543313073477279744",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
