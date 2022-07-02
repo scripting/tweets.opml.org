@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 22:50:05 GMT"
+            "dateModified": "Sat, 02 Jul 2022 22:41:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@Kamali_Thompson Only $5?",
+                                    "rawText": "@Kamali_Thompson Only $5?",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 22:34:40 GMT",
+                                    "tweetId": "1543362549558972417",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1543362549558972417",
+                                    "inReplyToId": "1543241168334602241",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
