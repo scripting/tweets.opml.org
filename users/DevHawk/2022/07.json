@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 02:13:19 GMT"
+            "dateModified": "Sat, 02 Jul 2022 18:16:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Mystery bridge, wiped out by landslide right before pandemic <a href=\"https://t.co/XMjlaMbfII\">[link]</a>",
+                                    "rawText": "Mystery bridge, wiped out by landslide right before pandemic https://t.co/XMjlaMbfII",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 18:09:12 GMT",
+                                    "tweetId": "1543295743305342976",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1543295743305342976",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
