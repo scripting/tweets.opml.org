@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 23:10:22 GMT"
+            "dateModified": "Sat, 02 Jul 2022 13:55:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/X1CEhgAtio\">[link]</a> Stories via @vanderaanet @rowanhull @MusicalAmerica",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/X1CEhgAtio Stories via @vanderaanet @rowanhull @MusicalAmerica",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 13:47:49 GMT",
+                                    "tweetId": "1543229961405857792",
+                                    "urltweet": "https://twitter.com/aworks/status/1543229961405857792",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
