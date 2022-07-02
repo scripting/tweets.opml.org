@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 00:51:58 GMT"
+            "dateModified": "Sat, 02 Jul 2022 01:04:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@ElieNYC — brilliant",
+                                    "rawText": "@ElieNYC — brilliant",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 01:00:47 GMT",
+                                    "tweetId": "1543036933986738176",
+                                    "urltweet": "https://twitter.com/davewiner/status/1543036933986738176",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "You nailed it.",
+                                            "rawText": "You nailed it.",
+                                            "type": "tweet",
+                                            "created": "Sat, 02 Jul 2022 01:01:03 GMT",
+                                            "tweetId": "1543037000009261056",
+                                            "urltweet": "https://twitter.com/davewiner/status/1543037000009261056",
+                                            "inReplyToId": "1543036933986738176",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@jeffjarvis I heard from a airline rep that no one ever cancels because they tested positive.",
                                     "rawText": "@jeffjarvis I heard from a airline rep that no one ever cancels because they tested positive.",
