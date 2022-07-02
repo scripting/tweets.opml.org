@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 11:13:54 GMT"
+            "dateModified": "Sat, 02 Jul 2022 11:26:55 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,19 @@
                                             "tweetId": "1543190925786157057",
                                             "urltweet": "https://twitter.com/defjaf/status/1543190925786157057",
                                             "inReplyToId": "1543176836938665986",
-                                            "tweetUserName": "defjaf"
+                                            "tweetUserName": "defjaf",
+                                            "subs": [
+                                                {
+                                                    "text": "@WKCosmo @skdh What’s “it”? What is the prediction?",
+                                                    "rawText": "@WKCosmo @skdh What’s “it”? What is the prediction?",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 02 Jul 2022 11:18:20 GMT",
+                                                    "tweetId": "1543192344840880129",
+                                                    "urltweet": "https://twitter.com/defjaf/status/1543192344840880129",
+                                                    "inReplyToId": "1543190925786157057",
+                                                    "tweetUserName": "defjaf"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
