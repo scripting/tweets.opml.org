@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 03:59:11 GMT"
+            "dateModified": "Sat, 02 Jul 2022 04:12:11 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 02 Jul 2022 03:46:31 GMT",
                                     "tweetId": "1543078641583759363",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1543078641583759363",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I would have wasted the time anyway.",
+                                            "rawText": "I would have wasted the time anyway.",
+                                            "type": "tweet",
+                                            "created": "Sat, 02 Jul 2022 04:02:50 GMT",
+                                            "tweetId": "1543082744812535810",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1543082744812535810",
+                                            "inReplyToId": "1543078641583759363",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Toronto’s Department of Sunsets really came through for the Canada Day long weekend. <a href=\"https://t.co/BJ9dllydxo\">[link]</a>",
