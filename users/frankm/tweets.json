@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 17:06:28 GMT"
+            "dateModified": "Sat, 02 Jul 2022 14:47:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "The holiday weekend has begun with beautiful weather. On days like this I am grateful to live in Michigan. <a href=\"https://t.co/vMe9AfC537\">[link]</a>",
+                                    "rawText": "The holiday weekend has begun with beautiful weather. On days like this I am grateful to live in Michigan. https://t.co/vMe9AfC537",
+                                    "type": "tweet",
+                                    "created": "Sat, 02 Jul 2022 14:35:39 GMT",
+                                    "tweetId": "1543241998240546816",
+                                    "urltweet": "https://twitter.com/frankm/status/1543241998240546816",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
