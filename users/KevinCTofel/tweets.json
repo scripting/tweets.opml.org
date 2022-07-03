@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 18:21:52 GMT"
+            "dateModified": "Sun, 03 Jul 2022 06:17:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: HP Elite Dragonfly Chromebook sale: Base model is $979.99 <a href=\"https://t.co/IwQdTAOIJW\">[link]</a> https://t.co/v3eIEWjHGc",
+                                    "rawText": "ICYMI: HP Elite Dragonfly Chromebook sale: Base model is $979.99 https://t.co/IwQdTAOIJW https://t.co/v3eIEWjHGc",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 06:12:03 GMT",
+                                    "tweetId": "1543477651100340224",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1543477651100340224",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
