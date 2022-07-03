@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 18:06:39 GMT"
+            "dateModified": "Sun, 03 Jul 2022 18:19:40 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1543657348123824128",
                                     "urltweet": "https://twitter.com/yudel/status/1543657348123824128",
                                     "inReplyToId": "1543656529676492800",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@EladNehorai My kid loved it at about that age.",
+                                            "rawText": "@EladNehorai My kid loved it at about that age.",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Jul 2022 18:06:39 GMT",
+                                            "tweetId": "1543657487999664130",
+                                            "urltweet": "https://twitter.com/yudel/status/1543657487999664130",
+                                            "inReplyToId": "1543657348123824128",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@DavidBrin More galaxies — but they’re small enough to not impact the estimated number of stars out there.",
