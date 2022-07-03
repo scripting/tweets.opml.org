@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "KenSmith tweets",
+            "dateCreated": "Wed, 15 Dec 2021 02:53:23 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 03 Jul 2022 13:32:06 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "A neighbor says, roughly, that\nhaving a rape/incest exception\nmeans that\n\n\"The only time you can allow women\nto make up their own mind\nabout their bodies and their lives\nis when someone has\ntreated them with great brutality.\"",
+                                    "rawText": "A neighbor says, roughly, that\nhaving a rape/incest exception\nmeans that\n\n\"The only time you can allow women\nto make up their own mind\nabout their bodies and their lives\nis when someone has\ntreated them with great brutality.\"",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 13:28:22 GMT",
+                                    "tweetId": "1543587456590684160",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1543587456590684160",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
