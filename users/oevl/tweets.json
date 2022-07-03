@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 23:32:56 GMT"
+            "dateModified": "Sun, 03 Jul 2022 16:28:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: What I mean when I say never work for money <a href=\"https://t.co/9hwTpBALwS\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: What I mean when I say never work for money https://t.co/9hwTpBALwS",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 16:28:01 GMT",
+                                    "tweetId": "1543632667316523012",
+                                    "urltweet": "https://twitter.com/oevl/status/1543632667316523012",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
