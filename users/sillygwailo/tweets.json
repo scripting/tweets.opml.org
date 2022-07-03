@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 02:58:40 GMT"
+            "dateModified": "Sun, 03 Jul 2022 04:03:44 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,31 @@
                                     "tweetId": "1543424091629277184",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1543424091629277184",
                                     "inReplyToId": "1000227473588740096",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Siansfuckingpheric. <a href=\"https://t.co/Qd42P8qAO5\">[link]</a>",
+                                            "rawText": "Siansfuckingpheric. https://t.co/Qd42P8qAO5",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Jul 2022 03:55:57 GMT",
+                                            "tweetId": "1543443402880155649",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1543443402880155649",
+                                            "inReplyToId": "1543424091629277184",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "One of the band members has an Aphex Twin sticker on his guitar. That’s how I can tell he’s cool.",
+                                                    "rawText": "One of the band members has an Aphex Twin sticker on his guitar. That’s how I can tell he’s cool.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 03 Jul 2022 03:55:58 GMT",
+                                                    "tweetId": "1543443406474694657",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1543443406474694657",
+                                                    "inReplyToId": "1543443402880155649",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Briefly: Yes it is.",
