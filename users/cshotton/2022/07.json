@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 17:28:03 GMT"
+            "dateModified": "Sun, 03 Jul 2022 23:50:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@rudytheelder \"Software\" singularly responsible for my less-than-stellar final exam grade in multivariable calculus at W&amp;M. And on the plus side, a LOT my career afterwards. Thanks for writing such an awesome epic!",
+                                    "rawText": "@rudytheelder \"Software\" singularly responsible for my less-than-stellar final exam grade in multivariable calculus at W&amp;M. And on the plus side, a LOT my career afterwards. Thanks for writing such an awesome epic!",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 23:38:46 GMT",
+                                    "tweetId": "1543741069023756290",
+                                    "urltweet": "https://twitter.com/cshotton/status/1543741069023756290",
+                                    "inReplyToId": "1543694394993172480",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
