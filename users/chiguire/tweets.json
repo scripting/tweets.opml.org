@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 11:51:11 GMT"
+            "dateModified": "Sun, 03 Jul 2022 13:52:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Yo en Port Isaac, en Cornwall <a href=\"https://t.co/0NZUL47NOu\">[link]</a>",
+                                    "rawText": "Yo en Port Isaac, en Cornwall https://t.co/0NZUL47NOu",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 13:45:55 GMT",
+                                    "tweetId": "1543591871464759296",
+                                    "urltweet": "https://twitter.com/chiguire/status/1543591871464759296",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
