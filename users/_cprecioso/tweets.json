@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 22:57:39 GMT"
+            "dateModified": "Sun, 03 Jul 2022 08:43:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@lacomefloreros I have one it’s not worth it",
+                                    "rawText": "@lacomefloreros I have one it’s not worth it",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 08:41:13 GMT",
+                                    "tweetId": "1543515190620291078",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1543515190620291078",
+                                    "inReplyToId": "1543436585135480833",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@Hyperpollo El cerebro es un músculo bro",
+                                    "rawText": "@Hyperpollo El cerebro es un músculo bro",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 08:34:09 GMT",
+                                    "tweetId": "1543513413304913922",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1543513413304913922",
+                                    "inReplyToId": "1543510654853812226",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
