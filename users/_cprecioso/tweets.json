@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 18:28:55 GMT"
+            "dateModified": "Sun, 03 Jul 2022 19:07:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/YCKnmWC29q\">[link]</a>",
+                                    "rawText": "https://t.co/YCKnmWC29q",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 19:03:09 GMT",
+                                    "tweetId": "1543671706740559872",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1543671706740559872",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@abersta Yo soy las hormonas",
                                     "rawText": "@abersta Yo soy las hormonas",
