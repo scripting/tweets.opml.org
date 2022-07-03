@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 23:51:28 GMT"
+            "dateModified": "Sun, 03 Jul 2022 05:55:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "My Life as a Rolling Stone. <a href=\"https://t.co/qCjj4iNNXV\">[link]</a>",
+                                    "rawText": "My Life as a Rolling Stone. https://t.co/qCjj4iNNXV",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 05:46:35 GMT",
+                                    "tweetId": "1543471241771745283",
+                                    "urltweet": "https://twitter.com/davewiner/status/1543471241771745283",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@BBCRadio2 @RollingStones @BBCiPlayer Can’t you hear me knocking \n\nUndercover of the night\n\nGimme shelter\n\nAnd all the rest…",
+                                    "rawText": "@BBCRadio2 @RollingStones @BBCiPlayer Can’t you hear me knocking \n\nUndercover of the night\n\nGimme shelter\n\nAnd all the rest…",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 05:45:41 GMT",
+                                    "tweetId": "1543471018118942720",
+                                    "urltweet": "https://twitter.com/davewiner/status/1543471018118942720",
+                                    "inReplyToId": "1543187537132486656",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
