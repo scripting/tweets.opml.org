@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 19:30:41 GMT"
+            "dateModified": "Sun, 03 Jul 2022 12:51:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Brutal Berlin: Warum Fahrradfahrer viel aggressiver sind als Autofahrer\n\n(<a href=\"https://t.co/LaaofBmfHy\">[link]</a>)",
+                                    "rawText": "Brutal Berlin: Warum Fahrradfahrer viel aggressiver sind als Autofahrer\n\n(https://t.co/LaaofBmfHy)",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 12:44:06 GMT",
+                                    "tweetId": "1543576313717526528",
+                                    "urltweet": "https://twitter.com/Latz/status/1543576313717526528",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
