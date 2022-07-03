@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 18:17:39 GMT"
+            "dateModified": "Sun, 03 Jul 2022 19:35:45 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "@flodegg probably transitive. it's been a while. ;-)",
+                                    "rawText": "@flodegg probably transitive. it's been a while. ;-)",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 19:29:49 GMT",
+                                    "tweetId": "1543678417891115008",
+                                    "urltweet": "https://twitter.com/davewiner/status/1543678417891115008",
+                                    "inReplyToId": "1543678199380467712",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@flodegg yeah this sounds better.\n\n<a href=\"https://t.co/cmTlnMYJbv\">[link]</a>",
+                                            "rawText": "@flodegg yeah this sounds better.\n\nhttps://t.co/cmTlnMYJbv",
+                                            "type": "tweet",
+                                            "created": "Sun, 03 Jul 2022 19:32:06 GMT",
+                                            "tweetId": "1543678990979850240",
+                                            "urltweet": "https://twitter.com/davewiner/status/1543678990979850240",
+                                            "inReplyToId": "1543678417891115008",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "The commutative axiom of trolls. \n\nPeople who RT trolls are themselves trolls.",
+                                    "rawText": "The commutative axiom of trolls. \n\nPeople who RT trolls are themselves trolls.",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 19:28:14 GMT",
+                                    "tweetId": "1543678016802406402",
+                                    "urltweet": "https://twitter.com/davewiner/status/1543678016802406402",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@jerryharrison <a href=\"https://t.co/RzDwv0zh2P\">[link]</a>",
                                     "rawText": "@jerryharrison https://t.co/RzDwv0zh2P",
