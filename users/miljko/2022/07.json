@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 18:16:33 GMT"
+            "dateModified": "Sun, 03 Jul 2022 14:57:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "📚 Taleb the prophet, writing about cryptobros and the summer of 2022 back in the early 2000s.\n\nFinancial instruments come and go but human stupidity and greed are forever. <a href=\"https://t.co/17Qmi2OcV8\">[link]</a>",
+                                    "rawText": "📚 Taleb the prophet, writing about cryptobros and the summer of 2022 back in the early 2000s.\n\nFinancial instruments come and go but human stupidity and greed are forever. https://t.co/17Qmi2OcV8",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 14:51:57 GMT",
+                                    "tweetId": "1543608490563969024",
+                                    "urltweet": "https://twitter.com/miljko/status/1543608490563969024",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
