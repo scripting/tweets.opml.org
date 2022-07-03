@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 16:00:12 GMT"
+            "dateModified": "Sun, 03 Jul 2022 17:35:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Sunday focaccia project. <a href=\"https://t.co/tqlMbOGppx\">[link]</a>",
+                                    "rawText": "Sunday focaccia project. https://t.co/tqlMbOGppx",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 17:28:48 GMT",
+                                    "tweetId": "1543647962848702464",
+                                    "urltweet": "https://twitter.com/defjaf/status/1543647962848702464",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
