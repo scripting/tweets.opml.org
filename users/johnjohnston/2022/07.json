@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 01 Jul 2022 19:27:52 GMT"
+            "dateModified": "Sun, 03 Jul 2022 15:55:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Saw this guy at Ardinning this afternoon. Given his tail might be regrown I wonder if it the one I saw 3 years ago in the same place. <a href=\"https://t.co/0HQccCE7bF\">[link]</a> https://t.co/O3TapHG3Kc",
+                                    "rawText": "Saw this guy at Ardinning this afternoon. Given his tail might be regrown I wonder if it the one I saw 3 years ago in the same place. https://t.co/0HQccCE7bF https://t.co/O3TapHG3Kc",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 15:43:16 GMT",
+                                    "tweetId": "1543621405345988611",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1543621405345988611",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 1",
                             "type": "calendarDay",
