@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 15:20:55 GMT"
+            "dateModified": "Sun, 03 Jul 2022 13:41:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@mobilemandan But does it support bands used by US carriers? If not, not relevant to me.",
+                                    "rawText": "@mobilemandan But does it support bands used by US carriers? If not, not relevant to me.",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 13:30:12 GMT",
+                                    "tweetId": "1543587917594914818",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1543587917594914818",
+                                    "inReplyToId": "1543582558839099392",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
