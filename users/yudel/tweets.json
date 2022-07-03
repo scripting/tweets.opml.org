@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 01:24:34 GMT"
+            "dateModified": "Sun, 03 Jul 2022 17:53:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@DavidBrin More galaxies — but they’re small enough to not impact the estimated number of stars out there.",
+                                    "rawText": "@DavidBrin More galaxies — but they’re small enough to not impact the estimated number of stars out there.",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 17:41:16 GMT",
+                                    "tweetId": "1543651100087164931",
+                                    "urltweet": "https://twitter.com/yudel/status/1543651100087164931",
+                                    "inReplyToId": "1543637576434585600",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
