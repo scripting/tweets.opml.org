@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "thedimpause tweets",
+            "dateCreated": "Mon, 24 Jan 2022 07:53:23 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 03 Jul 2022 12:44:48 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "More orchids every year we leave the lawn unmown 🌸 @ Aberdare, Rhondda Cynon Taff <a href=\"https://t.co/mg0WSq7xHU\">[link]</a>",
+                                    "rawText": "More orchids every year we leave the lawn unmown 🌸 @ Aberdare, Rhondda Cynon Taff https://t.co/mg0WSq7xHU",
+                                    "type": "tweet",
+                                    "created": "Sun, 03 Jul 2022 12:34:15 GMT",
+                                    "tweetId": "1543573835831721985",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1543573835831721985",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
