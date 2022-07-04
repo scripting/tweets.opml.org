@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "elroyjetson tweets",
+            "dateCreated": "Sat, 16 Apr 2022 01:00:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/elroyjetson/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 04 Jul 2022 14:39:59 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@wincent I often try to migrate to Apple Numbers, which is a really nice application when you understand it, but the features of Google Sheets just keep me going back. The ability to work on it from any platform and share it with anyone is too compelling.",
+                                    "rawText": "@wincent I often try to migrate to Apple Numbers, which is a really nice application when you understand it, but the features of Google Sheets just keep me going back. The ability to work on it from any platform and share it with anyone is too compelling.",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 14:38:19 GMT",
+                                    "tweetId": "1543967448088674305",
+                                    "urltweet": "https://twitter.com/elroyjetson/status/1543967448088674305",
+                                    "inReplyToId": "1543956390598803456",
+                                    "tweetUserName": "elroyjetson"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
