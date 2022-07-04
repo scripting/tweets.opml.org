@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 03:00:14 GMT"
+            "dateModified": "Mon, 04 Jul 2022 04:31:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@datadivajf Which episode?",
+                                    "rawText": "@datadivajf Which episode?",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 04:25:27 GMT",
+                                    "tweetId": "1543813214563074049",
+                                    "urltweet": "https://twitter.com/yudel/status/1543813214563074049",
+                                    "inReplyToId": "1543809259334402048",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
