@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 13:52:52 GMT"
+            "dateModified": "Mon, 04 Jul 2022 08:32:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Sí es gracioso ver a los italianos hacer la mano italiana 🤌",
+                                    "rawText": "Sí es gracioso ver a los italianos hacer la mano italiana 🤌",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 08:24:57 GMT",
+                                    "tweetId": "1543873484299829250",
+                                    "urltweet": "https://twitter.com/chiguire/status/1543873484299829250",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
