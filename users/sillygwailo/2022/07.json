@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 00:14:03 GMT"
+            "dateModified": "Mon, 04 Jul 2022 12:09:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@Stv <a href=\"https://t.co/7NX92StonW\">[link]</a>",
+                                    "rawText": "@Stv https://t.co/7NX92StonW",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 11:59:20 GMT",
+                                    "tweetId": "1543927439209992192",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1543927439209992192",
+                                    "inReplyToId": "1543840660150571009",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
