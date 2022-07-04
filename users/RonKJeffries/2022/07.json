@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 13:41:21 GMT"
+            "dateModified": "Mon, 04 Jul 2022 14:51:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@MaxWinebach Look forward to learning the quality of captured still images. How will they handle a range of focal lengths? A huge constraint of phone vs. a dedicated camera is phones must be very thin, making it very challenging for telephoto use case. Need space for optics.",
+                                    "rawText": "@MaxWinebach Look forward to learning the quality of captured still images. How will they handle a range of focal lengths? A huge constraint of phone vs. a dedicated camera is phones must be very thin, making it very challenging for telephoto use case. Need space for optics.",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 14:42:17 GMT",
+                                    "tweetId": "1543968442943819776",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1543968442943819776",
+                                    "inReplyToId": "1543966133908299776",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
