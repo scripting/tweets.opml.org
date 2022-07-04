@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 16:16:58 GMT"
+            "dateModified": "Mon, 04 Jul 2022 12:31:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "The good news: my brother is out of the hospital and I’m home with my mother. The bad news: today it will be 95°F (35°C) with humidity to match (95%). <a href=\"https://t.co/HbvG5CjcU4\">[link]</a>",
+                                    "rawText": "The good news: my brother is out of the hospital and I’m home with my mother. The bad news: today it will be 95°F (35°C) with humidity to match (95%). https://t.co/HbvG5CjcU4",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 12:29:46 GMT",
+                                    "tweetId": "1543935096436269057",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1543935096436269057",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
