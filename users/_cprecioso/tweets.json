@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 06:11:41 GMT"
+            "dateModified": "Mon, 04 Jul 2022 07:29:46 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "incluso más <a href=\"https://t.co/W6TCCJ6Rh3\">[link]</a>",
+                                    "rawText": "incluso más https://t.co/W6TCCJ6Rh3",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 07:27:13 GMT",
+                                    "tweetId": "1543858955725725696",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1543858955725725696",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@seikv Yo un poco webOS",
                                     "rawText": "@seikv Yo un poco webOS",
