@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oschettler/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 08:49:44 GMT"
+            "dateModified": "Mon, 04 Jul 2022 08:06:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Ich habe ein Café in der Bonner Altstadt eröffnet. Klein und virtuell ☕️  🏝 <a href=\"https://t.co/bH5Pd0q8mM\">[link]</a>",
+                                    "rawText": "Ich habe ein Café in der Bonner Altstadt eröffnet. Klein und virtuell ☕️  🏝 https://t.co/bH5Pd0q8mM",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 07:57:51 GMT",
+                                    "tweetId": "1543866665506668544",
+                                    "urltweet": "https://twitter.com/oschettler/status/1543866665506668544",
+                                    "tweetUserName": "oschettler"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
