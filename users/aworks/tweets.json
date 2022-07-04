@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 13:59:53 GMT"
+            "dateModified": "Mon, 04 Jul 2022 13:51:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/9BfUTX425U\">[link]</a> Stories via @petgigs @boulezian @CincySymphony",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/9BfUTX425U Stories via @petgigs @boulezian @CincySymphony",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 13:47:49 GMT",
+                                    "tweetId": "1543954735979528192",
+                                    "urltweet": "https://twitter.com/aworks/status/1543954735979528192",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
