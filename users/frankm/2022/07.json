@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 14:47:53 GMT"
+            "dateModified": "Mon, 04 Jul 2022 13:12:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Happy Fourth of July! <a href=\"https://t.co/br9kmAaV8s\">[link]</a>",
+                                    "rawText": "Happy Fourth of July! https://t.co/br9kmAaV8s",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 13:12:17 GMT",
+                                    "tweetId": "1543945794662928385",
+                                    "urltweet": "https://twitter.com/frankm/status/1543945794662928385",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
