@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 16:14:28 GMT"
+            "dateModified": "Mon, 04 Jul 2022 13:34:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "The problem with valorizing \"efficiency\" over resilience <a href=\"https://t.co/j8DNGLL3BF\">[link]</a>",
+                                    "rawText": "The problem with valorizing \"efficiency\" over resilience https://t.co/j8DNGLL3BF",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 13:32:49 GMT",
+                                    "tweetId": "1543950964108845056",
+                                    "urltweet": "https://twitter.com/mathling/status/1543950964108845056",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
