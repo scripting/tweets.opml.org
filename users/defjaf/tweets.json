@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 17:35:52 GMT"
+            "dateModified": "Mon, 04 Jul 2022 10:30:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@atpfm A “golden age” and a “gilded age” are very different (and only one is good, unless you’re a robber-baron).",
+                                    "rawText": "@atpfm A “golden age” and a “gilded age” are very different (and only one is good, unless you’re a robber-baron).",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 10:26:03 GMT",
+                                    "tweetId": "1543903959970095104",
+                                    "urltweet": "https://twitter.com/defjaf/status/1543903959970095104",
+                                    "inReplyToId": "1542534455293878272",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
