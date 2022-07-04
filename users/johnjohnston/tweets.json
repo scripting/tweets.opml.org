@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 20:03:01 GMT"
+            "dateModified": "Mon, 04 Jul 2022 10:21:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Liked Jonomancer — Don't Lie To Me About Web 2.0\n<a href=\"https://t.co/geHInZrVVH\">[link]</a>",
+                                    "rawText": "Liked Jonomancer — Don't Lie To Me About Web 2.0\nhttps://t.co/geHInZrVVH",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 10:09:49 GMT",
+                                    "tweetId": "1543899876190199808",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1543899876190199808",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
