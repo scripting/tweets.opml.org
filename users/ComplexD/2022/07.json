@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ComplexD/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 02:10:40 GMT"
+            "dateModified": "Mon, 04 Jul 2022 22:20:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Downshift Time? eDiscovery Operational Metrics in the Summer of 2022 - Read the complete update at <a href=\"https://t.co/vSOen1vMMv\">[link]</a>. #Business #eDiscovery #LegalTech https://t.co/3XKSgJtVng",
+                                    "rawText": "Downshift Time? eDiscovery Operational Metrics in the Summer of 2022 - Read the complete update at https://t.co/vSOen1vMMv. #Business #eDiscovery #LegalTech https://t.co/3XKSgJtVng",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 22:08:22 GMT",
+                                    "tweetId": "1544080707395493888",
+                                    "urltweet": "https://twitter.com/ComplexD/status/1544080707395493888",
+                                    "tweetUserName": "ComplexD"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
