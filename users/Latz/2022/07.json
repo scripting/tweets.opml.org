@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 12:51:48 GMT"
+            "dateModified": "Mon, 04 Jul 2022 14:27:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Zahnarztwartezimmertweet <a href=\"https://t.co/SSUyff4KUL\">[link]</a>",
+                                    "rawText": "Zahnarztwartezimmertweet https://t.co/SSUyff4KUL",
+                                    "type": "tweet",
+                                    "created": "Mon, 04 Jul 2022 14:17:32 GMT",
+                                    "tweetId": "1543962215597867009",
+                                    "urltweet": "https://twitter.com/Latz/status/1543962215597867009",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
