@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 13:04:53 GMT"
+            "dateModified": "Mon, 04 Jul 2022 13:17:53 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                     "created": "Mon, 04 Jul 2022 12:11:37 GMT",
                                     "tweetId": "1543930528969154560",
                                     "urltweet": "https://twitter.com/miljko/status/1543930528969154560",
-                                    "tweetUserName": "miljko"
+                                    "tweetUserName": "miljko",
+                                    "subs": [
+                                        {
+                                            "text": "The excerpt is from Fooled by Randomness by Nassim Taleb, paperback edition (2005).",
+                                            "rawText": "The excerpt is from Fooled by Randomness by Nassim Taleb, paperback edition (2005).",
+                                            "type": "tweet",
+                                            "created": "Mon, 04 Jul 2022 13:05:36 GMT",
+                                            "tweetId": "1543944112398819328",
+                                            "urltweet": "https://twitter.com/miljko/status/1543944112398819328",
+                                            "inReplyToId": "1543930528969154560",
+                                            "tweetUserName": "miljko"
+                                        }
+                                    ]
                                 }
                             ]
                         },
