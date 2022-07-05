@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 18:23:44 GMT"
+            "dateModified": "Tue, 05 Jul 2022 20:51:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@boerdeboer Ben je bij AH Reijgerstraat geweest? De verse groente bulkt over de schappen. Alle rekken vol.",
+                                    "rawText": "@boerdeboer Ben je bij AH Reijgerstraat geweest? De verse groente bulkt over de schappen. Alle rekken vol.",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 20:39:18 GMT",
+                                    "tweetId": "1544420677830279170",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1544420677830279170",
+                                    "inReplyToId": "1544418694679388167",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
