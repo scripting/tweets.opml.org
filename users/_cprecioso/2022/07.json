@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 14:04:46 GMT"
+            "dateModified": "Tue, 05 Jul 2022 14:17:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "ME HE COMPRADO UNA GORRA NUEVA AHORA TENDRÉ MÁS DE UNA",
+                                    "rawText": "ME HE COMPRADO UNA GORRA NUEVA AHORA TENDRÉ MÁS DE UNA",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 14:12:39 GMT",
+                                    "tweetId": "1544323375937486849",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1544323375937486849",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Bueno tengo otra más pero @pplaza_ aún no me la ha devuelto 😡😡",
+                                            "rawText": "Bueno tengo otra más pero @pplaza_ aún no me la ha devuelto 😡😡",
+                                            "type": "tweet",
+                                            "created": "Tue, 05 Jul 2022 14:12:40 GMT",
+                                            "tweetId": "1544323377745338370",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1544323377745338370",
+                                            "inReplyToId": "1544323375937486849",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "ME LO DICES O ME LO CUENTAS <a href=\"https://t.co/zOLse8NrWb\">[link]</a>",
                                     "rawText": "ME LO DICES O ME LO CUENTAS https://t.co/zOLse8NrWb",
