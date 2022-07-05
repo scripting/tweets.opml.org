@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 19:05:51 GMT"
+            "dateModified": "Tue, 05 Jul 2022 22:34:04 GMT"
         },
         "body": {
             "subs": [
@@ -36,7 +36,19 @@
                                     "created": "Tue, 05 Jul 2022 18:53:07 GMT",
                                     "tweetId": "1544393955114115086",
                                     "urltweet": "https://twitter.com/davewiner/status/1544393955114115086",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/mSHUXHoB1u\">[link]</a>",
+                                            "rawText": "https://t.co/mSHUXHoB1u",
+                                            "type": "tweet",
+                                            "created": "Tue, 05 Jul 2022 22:28:04 GMT",
+                                            "tweetId": "1544448051212861441",
+                                            "urltweet": "https://twitter.com/davewiner/status/1544448051212861441",
+                                            "inReplyToId": "1544393955114115086",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "if someone replies to something you wrote with a personal comment -- no matter how \"right\" everything else they say is, they're a troll. block them.",
