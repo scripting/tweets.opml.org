@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 02:23:45 GMT"
+            "dateModified": "Tue, 05 Jul 2022 07:36:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@TaylorLorenz @erinbiba Fantastic article. Thanks for the link.",
+                                    "rawText": "@TaylorLorenz @erinbiba Fantastic article. Thanks for the link.",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 07:27:38 GMT",
+                                    "tweetId": "1544221449212334081",
+                                    "urltweet": "https://twitter.com/davewiner/status/1544221449212334081",
+                                    "inReplyToId": "1544166089533300736",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Get Ready for the Forever Plague. <a href=\"https://t.co/Myc2T7n7wx\">[link]</a>",
+                                    "rawText": "Get Ready for the Forever Plague. https://t.co/Myc2T7n7wx",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 07:26:44 GMT",
+                                    "tweetId": "1544221221738381314",
+                                    "urltweet": "https://twitter.com/davewiner/status/1544221221738381314",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
