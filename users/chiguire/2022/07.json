@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 22:51:01 GMT"
+            "dateModified": "Tue, 05 Jul 2022 07:57:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "La inflación pega 😔 a la derecha el menú de hace 3 años <a href=\"https://t.co/E4ufVwF7Le\">[link]</a>",
+                                    "rawText": "La inflación pega 😔 a la derecha el menú de hace 3 años https://t.co/E4ufVwF7Le",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 07:51:51 GMT",
+                                    "tweetId": "1544227545679273984",
+                                    "urltweet": "https://twitter.com/chiguire/status/1544227545679273984",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
