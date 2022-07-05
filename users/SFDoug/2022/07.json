@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 22:34:45 GMT"
+            "dateModified": "Tue, 05 Jul 2022 14:11:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@ALorkowski @prjctfish @JeromeAdamsMD @GOP @USSupremeCourt @mtg @GovRonDeSantis Nor do you gain the right to impose your religion on others.",
+                                    "rawText": "@ALorkowski @prjctfish @JeromeAdamsMD @GOP @USSupremeCourt @mtg @GovRonDeSantis Nor do you gain the right to impose your religion on others.",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 14:00:41 GMT",
+                                    "tweetId": "1544320363009654785",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1544320363009654785",
+                                    "inReplyToId": "1544097056377212928",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
