@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 03:43:50 GMT"
+            "dateModified": "Tue, 05 Jul 2022 04:35:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@DavidRSelis We have one. It’s just been developed by the worst, most Republican-adjacent rabbis.",
+                                    "rawText": "@DavidRSelis We have one. It’s just been developed by the worst, most Republican-adjacent rabbis.",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 04:25:22 GMT",
+                                    "tweetId": "1544175582170185728",
+                                    "urltweet": "https://twitter.com/yudel/status/1544175582170185728",
+                                    "inReplyToId": "1544173333134323712",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
