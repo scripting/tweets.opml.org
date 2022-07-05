@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 13:11:35 GMT"
+            "dateModified": "Tue, 05 Jul 2022 13:07:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Sorry to break it to you, Dominic Raab – but Boris Johnson is NOT your friend <a href=\"https://t.co/4f3toMGf5N\">[link]</a>",
+                                    "rawText": "Sorry to break it to you, Dominic Raab – but Boris Johnson is NOT your friend https://t.co/4f3toMGf5N",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 12:58:55 GMT",
+                                    "tweetId": "1544304820361871360",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1544304820361871360",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
