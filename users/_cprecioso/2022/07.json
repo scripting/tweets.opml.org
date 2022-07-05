@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 06:42:17 GMT"
+            "dateModified": "Tue, 05 Jul 2022 07:47:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,49 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "Gente dejad de opinar",
+                                    "rawText": "Gente dejad de opinar",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 07:39:21 GMT",
+                                    "tweetId": "1544224398684692480",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1544224398684692480",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "No opinéis",
+                                            "rawText": "No opinéis",
+                                            "type": "tweet",
+                                            "created": "Tue, 05 Jul 2022 07:39:22 GMT",
+                                            "tweetId": "1544224401251618818",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1544224401251618818",
+                                            "inReplyToId": "1544224398684692480",
+                                            "tweetUserName": "_cprecioso",
+                                            "subs": [
+                                                {
+                                                    "text": "Parad",
+                                                    "rawText": "Parad",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 05 Jul 2022 07:39:22 GMT",
+                                                    "tweetId": "1544224403361304577",
+                                                    "urltweet": "https://twitter.com/_cprecioso/status/1544224403361304577",
+                                                    "inReplyToId": "1544224401251618818",
+                                                    "tweetUserName": "_cprecioso"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@Davigi @lanadelrave_ Ni yo!",
+                                    "rawText": "@Davigi @lanadelrave_ Ni yo!",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 07:38:37 GMT",
+                                    "tweetId": "1544224214353338369",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1544224214353338369",
+                                    "inReplyToId": "1544220889968943107",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "Me he despertado con mi padre escuchando Taylor Swift a todo volumen",
                                     "rawText": "Me he despertado con mi padre escuchando Taylor Swift a todo volumen",
