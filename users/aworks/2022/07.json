@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 15:09:31 GMT"
+            "dateModified": "Tue, 05 Jul 2022 13:56:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/SjCBJmyMQF\">[link]</a> Stories via @avantmusicnews @113_collective @CantaloupeNY",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/SjCBJmyMQF Stories via @avantmusicnews @113_collective @CantaloupeNY",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 13:47:49 GMT",
+                                    "tweetId": "1544317125522759680",
+                                    "urltweet": "https://twitter.com/aworks/status/1544317125522759680",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
