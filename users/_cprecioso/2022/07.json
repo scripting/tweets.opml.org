@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 18:33:29 GMT"
+            "dateModified": "Tue, 05 Jul 2022 06:42:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Me he despertado con mi padre escuchando Taylor Swift a todo volumen",
+                                    "rawText": "Me he despertado con mi padre escuchando Taylor Swift a todo volumen",
+                                    "type": "tweet",
+                                    "created": "Tue, 05 Jul 2022 06:37:03 GMT",
+                                    "tweetId": "1544208720460222465",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1544208720460222465",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
