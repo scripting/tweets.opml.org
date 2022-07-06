@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 12:44:48 GMT"
+            "dateModified": "Wed, 06 Jul 2022 19:02:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Heading for Thasos 🇬🇷 – <a href=\"https://t.co/gdD3xTxv9s\">[link]</a> @ Thásos https://t.co/YC7YJfW6JU",
+                                    "rawText": "Heading for Thasos 🇬🇷 – https://t.co/gdD3xTxv9s @ Thásos https://t.co/YC7YJfW6JU",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 18:57:02 GMT",
+                                    "tweetId": "1544757329773891584",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1544757329773891584",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 3",
                             "type": "calendarDay",
