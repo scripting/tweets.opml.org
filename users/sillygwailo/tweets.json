@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 03:25:23 GMT"
+            "dateModified": "Wed, 06 Jul 2022 04:17:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "So far, 2022 is flying by. <a href=\"https://t.co/tUSj2nBZgj\">[link]</a>",
+                                    "rawText": "So far, 2022 is flying by. https://t.co/tUSj2nBZgj",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 04:04:40 GMT",
+                                    "tweetId": "1544532759078658049",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1544532759078658049",
+                                    "inReplyToId": "1520723694842224640",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 5",
                             "type": "calendarDay",
