@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 10:28:06 GMT"
+            "dateModified": "Wed, 06 Jul 2022 13:30:18 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "La mejor si es <a href=\"https://t.co/8bQMYUH3E8\">[link]</a>",
+                                    "rawText": "La mejor si es https://t.co/8bQMYUH3E8",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 13:20:13 GMT",
+                                    "tweetId": "1544672569500000258",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1544672569500000258",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "Cuál será la Net Promoter Score de mi p*lla?",
                                     "rawText": "Cuál será la Net Promoter Score de mi p*lla?",
