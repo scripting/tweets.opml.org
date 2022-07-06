@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 22:42:50 GMT"
+            "dateModified": "Wed, 06 Jul 2022 06:05:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: This new Chrome OS 105 feature could boost Chromebook battery life <a href=\"https://t.co/rnhexWp1Ug\">[link]</a> https://t.co/solq2x7ioU",
+                                    "rawText": "ICYMI: This new Chrome OS 105 feature could boost Chromebook battery life https://t.co/rnhexWp1Ug https://t.co/solq2x7ioU",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 05:57:03 GMT",
+                                    "tweetId": "1544561040171622401",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1544561040171622401",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 5",
                             "type": "calendarDay",
