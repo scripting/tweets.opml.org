@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 04:17:26 GMT"
+            "dateModified": "Wed, 06 Jul 2022 05:09:30 GMT"
         },
         "body": {
             "subs": [
@@ -45,7 +45,31 @@
                                     "tweetId": "1544521633377013767",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1544521633377013767",
                                     "inReplyToId": "1511529379016421379",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "🍿 <a href=\"https://t.co/OLGj03BehB\">[link]</a>",
+                                            "rawText": "🍿 https://t.co/OLGj03BehB",
+                                            "type": "tweet",
+                                            "created": "Wed, 06 Jul 2022 04:58:37 GMT",
+                                            "tweetId": "1544546334815969281",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1544546334815969281",
+                                            "inReplyToId": "1544521633377013767",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "🍿 <a href=\"https://t.co/ZiVHkDtuwA\">[link]</a>",
+                                                    "rawText": "🍿 https://t.co/ZiVHkDtuwA",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 06 Jul 2022 05:00:21 GMT",
+                                                    "tweetId": "1544546771355029505",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1544546771355029505",
+                                                    "inReplyToId": "1544546334815969281",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I could still use more specific dates on when not to tell my crushes I’m in love with them, but this at least gives me some idea of how to plan that. <a href=\"https://t.co/TtaBgEvfVU\">[link]</a>",
