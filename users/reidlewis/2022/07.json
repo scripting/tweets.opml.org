@@ -1,0 +1,51 @@
+{
+    "opml": {
+        "head": {
+            "title": "reidlewis tweets",
+            "dateCreated": "Mon, 24 Jan 2022 12:39:55 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/reidlewis/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 06 Jul 2022 10:35:36 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "July 2022",
+                    "type": "calendarMonth",
+                    "name": "july2022",
+                    "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Who can tell me why the #helicopter has been hovering for 15 minutes over #bethesda near #woodacres #md #bethesdamd #md ?",
+                                    "rawText": "Who can tell me why the #helicopter has been hovering for 15 minutes over #bethesda near #woodacres #md #bethesdamd #md ?",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 10:28:55 GMT",
+                                    "tweetId": "1544629459172589569",
+                                    "urltweet": "https://twitter.com/reidlewis/status/1544629459172589569",
+                                    "tweetUserName": "reidlewis",
+                                    "subs": [
+                                        {
+                                            "text": "@flightradar24 tells me that it’s a Robinson 64 Turbine tail # N111TV which took off from Fort Meade 35 minutes ago <a href=\"https://t.co/KuFx6ruY86\">[link]</a>",
+                                            "rawText": "@flightradar24 tells me that it’s a Robinson 64 Turbine tail # N111TV which took off from Fort Meade 35 minutes ago https://t.co/KuFx6ruY86",
+                                            "type": "tweet",
+                                            "created": "Wed, 06 Jul 2022 10:34:12 GMT",
+                                            "tweetId": "1544630786636365825",
+                                            "urltweet": "https://twitter.com/reidlewis/status/1544630786636365825",
+                                            "inReplyToId": "1544629459172589569",
+                                            "tweetUserName": "reidlewis"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
