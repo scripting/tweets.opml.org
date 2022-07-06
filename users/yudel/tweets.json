@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 23:54:09 GMT"
+            "dateModified": "Wed, 06 Jul 2022 10:05:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@schraubd @rmneiss Alas poor Avi, the man who said non-Orthodox Jewish clergy should be hated “like vermin” cast into the “enemy” box.",
+                                    "rawText": "@schraubd @rmneiss Alas poor Avi, the man who said non-Orthodox Jewish clergy should be hated “like vermin” cast into the “enemy” box.",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 09:53:35 GMT",
+                                    "tweetId": "1544620565448753152",
+                                    "urltweet": "https://twitter.com/yudel/status/1544620565448753152",
+                                    "inReplyToId": "1544587067203588097",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 5",
                             "type": "calendarDay",
