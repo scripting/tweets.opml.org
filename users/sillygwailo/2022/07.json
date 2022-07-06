@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 14:03:05 GMT"
+            "dateModified": "Wed, 06 Jul 2022 14:29:07 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,43 @@
                                     "created": "Wed, 06 Jul 2022 13:51:45 GMT",
                                     "tweetId": "1544680501801271301",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1544680501801271301",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "A quick mockup. <a href=\"https://t.co/105d4VLEu8\">[link]</a>",
+                                            "rawText": "A quick mockup. https://t.co/105d4VLEu8",
+                                            "type": "tweet",
+                                            "created": "Wed, 06 Jul 2022 14:21:04 GMT",
+                                            "tweetId": "1544687879741390851",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1544687879741390851",
+                                            "inReplyToId": "1544680501801271301",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "A better mockup would have a basketball hoop icon for the “View current dunks” option.",
+                                                    "rawText": "A better mockup would have a basketball hoop icon for the “View current dunks” option.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 06 Jul 2022 14:24:17 GMT",
+                                                    "tweetId": "1544688691951681537",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1544688691951681537",
+                                                    "inReplyToId": "1544687879741390851",
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "A more serious way that Twitter could do it is to alter the Quote Tweet function so that it notes how many quote tweets already exist, and offer people the option to look at them first and just retweet one of those.",
+                                                            "rawText": "A more serious way that Twitter could do it is to alter the Quote Tweet function so that it notes how many quote tweets already exist, and offer people the option to look at them first and just retweet one of those.",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 06 Jul 2022 14:24:18 GMT",
+                                                            "tweetId": "1544688693641990144",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1544688693641990144",
+                                                            "inReplyToId": "1544688691951681537",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@CatherineOmega Do we have someone to name this law of headlines after? You know what happens if we don’t, right?",
