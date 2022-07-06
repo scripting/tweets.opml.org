@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 16:25:10 GMT"
+            "dateModified": "Wed, 06 Jul 2022 11:04:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@Hoeyboey Forbidden Path is so much better than what appeared in the trailer",
+                                    "rawText": "@Hoeyboey Forbidden Path is so much better than what appeared in the trailer",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 11:02:40 GMT",
+                                    "tweetId": "1544637954001457152",
+                                    "urltweet": "https://twitter.com/chiguire/status/1544637954001457152",
+                                    "inReplyToId": "1544637374461890560",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 5",
                             "type": "calendarDay",
