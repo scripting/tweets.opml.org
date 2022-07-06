@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 23:28:23 GMT"
+            "dateModified": "Wed, 06 Jul 2022 14:52:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Strut by Adam Lambert <a href=\"https://t.co/NTQFAQ5tCO\">[link]</a>",
+                                    "rawText": "Strut by Adam Lambert https://t.co/NTQFAQ5tCO",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 14:49:13 GMT",
+                                    "tweetId": "1544694964331991043",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1544694964331991043",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 5",
                             "type": "calendarDay",
