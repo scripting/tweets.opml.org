@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 02 Jul 2022 11:14:24 GMT"
+            "dateModified": "Wed, 06 Jul 2022 21:05:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Greer SC <a href=\"https://t.co/CjONYrAZ7S\">[link]</a>",
+                                    "rawText": "Greer SC https://t.co/CjONYrAZ7S",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 20:55:00 GMT",
+                                    "tweetId": "1544787016365244416",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1544787016365244416",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
