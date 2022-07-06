@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 16:41:07 GMT"
+            "dateModified": "Wed, 06 Jul 2022 13:48:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "A Hello page sounds to me to be like the Home page of years ago. <a href=\"https://t.co/kxWXVVGqDb\">[link]</a>",
+                                    "rawText": "A Hello page sounds to me to be like the Home page of years ago. https://t.co/kxWXVVGqDb",
+                                    "type": "tweet",
+                                    "created": "Wed, 06 Jul 2022 13:36:56 GMT",
+                                    "tweetId": "1544676776894406657",
+                                    "urltweet": "https://twitter.com/frankm/status/1544676776894406657",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
