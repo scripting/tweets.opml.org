@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 19:02:55 GMT"
+            "dateModified": "Thu, 07 Jul 2022 07:50:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Morning coffee at Limenaria harbour ☕️ @ Limenaria Thassos <a href=\"https://t.co/6ong7Vx8Bn\">[link]</a>",
+                                    "rawText": "Morning coffee at Limenaria harbour ☕️ @ Limenaria Thassos https://t.co/6ong7Vx8Bn",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 07:41:55 GMT",
+                                    "tweetId": "1544949821668315136",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1544949821668315136",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 6",
                             "type": "calendarDay",
