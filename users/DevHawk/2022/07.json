@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 18:30:03 GMT"
+            "dateModified": "Thu, 07 Jul 2022 01:18:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "We just shipped the latest #NeoBlockchainToolkit for @Neo_Blockchain v3.3.1 last week. Unfortunately, we had to update the Neo.BuildTasks package to address a Neo C# compiler issue.\n\n<a href=\"https://t.co/Od0nMhPy2L\">[link]</a>",
+                                    "rawText": "We just shipped the latest #NeoBlockchainToolkit for @Neo_Blockchain v3.3.1 last week. Unfortunately, we had to update the Neo.BuildTasks package to address a Neo C# compiler issue.\n\nhttps://t.co/Od0nMhPy2L",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 01:10:42 GMT",
+                                    "tweetId": "1544851368321527809",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1544851368321527809",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "Neo.BuildTasks v3.3.23 addresses the issue, fixes a couple bugs, adds new tests and adds a new ContractNameOverride attribute to give developers more control over the generated test code.\n\n<a href=\"https://t.co/maszyFKvJ3\">[link]</a>",
+                                            "rawText": "Neo.BuildTasks v3.3.23 addresses the issue, fixes a couple bugs, adds new tests and adds a new ContractNameOverride attribute to give developers more control over the generated test code.\n\nhttps://t.co/maszyFKvJ3",
+                                            "type": "tweet",
+                                            "created": "Thu, 07 Jul 2022 01:10:43 GMT",
+                                            "tweetId": "1544851370838302720",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1544851370838302720",
+                                            "inReplyToId": "1544851368321527809",
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "There's also a new doc that describes the various MSBuild properties and items that Neo.BuildTasks uses and provides guidance for upgrading your v3.1 project to v3.3 (mostly removing stuff that's no longer needed)\n\n<a href=\"https://t.co/5WrvYbypLS\">[link]</a>",
+                                                    "rawText": "There's also a new doc that describes the various MSBuild properties and items that Neo.BuildTasks uses and provides guidance for upgrading your v3.1 project to v3.3 (mostly removing stuff that's no longer needed)\n\nhttps://t.co/5WrvYbypLS",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 07 Jul 2022 01:10:43 GMT",
+                                                    "tweetId": "1544851372264214529",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1544851372264214529",
+                                                    "inReplyToId": "1544851370838302720",
+                                                    "tweetUserName": "DevHawk"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 5",
                             "type": "calendarDay",
