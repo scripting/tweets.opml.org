@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 17:59:50 GMT"
+            "dateModified": "Thu, 07 Jul 2022 18:30:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Panamá el país que menos invierte en cualquier categoría | Radiografía <a href=\"https://t.co/19Ys3Lz9MK\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Panamá el país que menos invierte en cualquier categoría | Radiografía https://t.co/19Ys3Lz9MK",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 18:28:25 GMT",
+                                    "tweetId": "1545112517449359362",
+                                    "urltweet": "https://twitter.com/oevl/status/1545112517449359362",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 6",
                             "type": "calendarDay",
