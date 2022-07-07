@@ -6,16 +6,23 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 07 Jul 2022 01:18:04 GMT</dateModified>
+		<dateModified>Thu, 07 Jul 2022 19:31:16 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2022" type="calendarMonth" name="july2022" >
+			<outline text="July 7" type="calendarDay" name="07" >
+				<outline text="Minor @Neo_Blockchain tool news: Neo 3.3.1 compatible version of my DumpNEF tool is now available. Minor update to generated comments + Neo version bump 
+
+&lt;a href=&quot;https://t.co/wTChpq5q8d&quot;&gt;[link]&lt;/a&gt;" rawText="Minor @Neo_Blockchain tool news: Neo 3.3.1 compatible version of my DumpNEF tool is now available. Minor update to generated comments + Neo version bump 
+
+https://t.co/wTChpq5q8d" type="tweet" created="Thu, 07 Jul 2022 19:27:43 GMT" tweetId="1545127438698438657" urltweet="https://twitter.com/DevHawk/status/1545127438698438657" inReplyToId="" tweetUserName="DevHawk" />
+				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
 				<outline text="We just shipped the latest #NeoBlockchainToolkit for @Neo_Blockchain v3.3.1 last week. Unfortunately, we had to update the Neo.BuildTasks package to address a Neo C# compiler issue.
 
 &lt;a href=&quot;https://t.co/Od0nMhPy2L&quot;&gt;[link]&lt;/a&gt;" rawText="We just shipped the latest #NeoBlockchainToolkit for @Neo_Blockchain v3.3.1 last week. Unfortunately, we had to update the Neo.BuildTasks package to address a Neo C# compiler issue.
 
-https://t.co/Od0nMhPy2L" type="tweet" created="Thu, 07 Jul 2022 01:10:42 GMT" tweetId="1544851368321527809" urltweet="https://twitter.com/DevHawk/status/1544851368321527809" inReplyToId="" tweetUserName="DevHawk" >
+https://t.co/Od0nMhPy2L" type="tweet" created="Thu, 07 Jul 2022 01:10:42 GMT" tweetId="1544851368321527809" urltweet="https://twitter.com/DevHawk/status/1544851368321527809" tweetUserName="DevHawk" >
 					<outline text="Neo.BuildTasks v3.3.23 addresses the issue, fixes a couple bugs, adds new tests and adds a new ContractNameOverride attribute to give developers more control over the generated test code.
 
 &lt;a href=&quot;https://t.co/maszyFKvJ3&quot;&gt;[link]&lt;/a&gt;" rawText="Neo.BuildTasks v3.3.23 addresses the issue, fixes a couple bugs, adds new tests and adds a new ContractNameOverride attribute to give developers more control over the generated test code.
