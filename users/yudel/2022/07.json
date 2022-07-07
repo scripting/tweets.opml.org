@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 08:39:18 GMT"
+            "dateModified": "Thu, 07 Jul 2022 08:52:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "@trekonomics Presumably with Van Morrison and Eric Clapton.",
+                                    "rawText": "@trekonomics Presumably with Van Morrison and Eric Clapton.",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 08:47:37 GMT",
+                                    "tweetId": "1544966352527564800",
+                                    "urltweet": "https://twitter.com/yudel/status/1544966352527564800",
+                                    "inReplyToId": "1544959956222259200",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@joshtpm In 77, Rabin stayed on as PM of his caretaker government even after bowing out of the election because of his bank account scandal. Of course, that didn’t work out well for his party.",
+                                    "rawText": "@joshtpm In 77, Rabin stayed on as PM of his caretaker government even after bowing out of the election because of his bank account scandal. Of course, that didn’t work out well for his party.",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 08:45:00 GMT",
+                                    "tweetId": "1544965693673771009",
+                                    "urltweet": "https://twitter.com/yudel/status/1544965693673771009",
+                                    "inReplyToId": "1544964040358764544",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "If I remember correctly, Rabin’s first government fell in the wake of an education minister’s resignation. This led to the election of Menachem Begin.",
                                     "rawText": "If I remember correctly, Rabin’s first government fell in the wake of an education minister’s resignation. This led to the election of Menachem Begin.",
@@ -37,7 +57,19 @@
                                             "tweetId": "1544961442365022210",
                                             "urltweet": "https://twitter.com/yudel/status/1544961442365022210",
                                             "inReplyToId": "1544961221841096704",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "I remembered wrong. Zevulun Hammer resigned as Welfare Minister. He became Education Minister under Begin as a reward. <a href=\"https://t.co/ZP7K204U9b\">[link]</a>",
+                                                    "rawText": "I remembered wrong. Zevulun Hammer resigned as Welfare Minister. He became Education Minister under Begin as a reward. https://t.co/ZP7K204U9b",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 07 Jul 2022 08:40:00 GMT",
+                                                    "tweetId": "1544964435932053505",
+                                                    "urltweet": "https://twitter.com/yudel/status/1544964435932053505",
+                                                    "inReplyToId": "1544961442365022210",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
