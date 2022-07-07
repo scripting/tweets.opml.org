@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 08:35:33 GMT"
+            "dateModified": "Thu, 07 Jul 2022 10:45:41 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/7idoc1iWnM\">[link]</a>",
+                                    "rawText": "https://t.co/7idoc1iWnM",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 10:37:49 GMT",
+                                    "tweetId": "1544994085152382976",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1544994085152382976",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "@rafagarces @txarly @buenapava trES",
                                     "rawText": "@rafagarces @txarly @buenapava trES",
