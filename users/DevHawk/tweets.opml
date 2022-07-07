@@ -6,10 +6,29 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 05 Jul 2022 18:30:03 GMT</dateModified>
+		<dateModified>Thu, 07 Jul 2022 01:18:04 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2022" type="calendarMonth" name="july2022" >
+			<outline text="July 6" type="calendarDay" name="06" >
+				<outline text="We just shipped the latest #NeoBlockchainToolkit for @Neo_Blockchain v3.3.1 last week. Unfortunately, we had to update the Neo.BuildTasks package to address a Neo C# compiler issue.
+
+&lt;a href=&quot;https://t.co/Od0nMhPy2L&quot;&gt;[link]&lt;/a&gt;" rawText="We just shipped the latest #NeoBlockchainToolkit for @Neo_Blockchain v3.3.1 last week. Unfortunately, we had to update the Neo.BuildTasks package to address a Neo C# compiler issue.
+
+https://t.co/Od0nMhPy2L" type="tweet" created="Thu, 07 Jul 2022 01:10:42 GMT" tweetId="1544851368321527809" urltweet="https://twitter.com/DevHawk/status/1544851368321527809" inReplyToId="" tweetUserName="DevHawk" >
+					<outline text="Neo.BuildTasks v3.3.23 addresses the issue, fixes a couple bugs, adds new tests and adds a new ContractNameOverride attribute to give developers more control over the generated test code.
+
+&lt;a href=&quot;https://t.co/maszyFKvJ3&quot;&gt;[link]&lt;/a&gt;" rawText="Neo.BuildTasks v3.3.23 addresses the issue, fixes a couple bugs, adds new tests and adds a new ContractNameOverride attribute to give developers more control over the generated test code.
+
+https://t.co/maszyFKvJ3" type="tweet" created="Thu, 07 Jul 2022 01:10:43 GMT" tweetId="1544851370838302720" urltweet="https://twitter.com/DevHawk/status/1544851370838302720" inReplyToId="1544851368321527809" tweetUserName="DevHawk" >
+						<outline text="There's also a new doc that describes the various MSBuild properties and items that Neo.BuildTasks uses and provides guidance for upgrading your v3.1 project to v3.3 (mostly removing stuff that's no longer needed)
+
+&lt;a href=&quot;https://t.co/5WrvYbypLS&quot;&gt;[link]&lt;/a&gt;" rawText="There's also a new doc that describes the various MSBuild properties and items that Neo.BuildTasks uses and provides guidance for upgrading your v3.1 project to v3.3 (mostly removing stuff that's no longer needed)
+
+https://t.co/5WrvYbypLS" type="tweet" created="Thu, 07 Jul 2022 01:10:43 GMT" tweetId="1544851372264214529" urltweet="https://twitter.com/DevHawk/status/1544851372264214529" inReplyToId="1544851370838302720" tweetUserName="DevHawk" />
+						</outline>
+					</outline>
+				</outline>
 			<outline text="July 5" type="calendarDay" name="05" >
 				<outline text="@patrickallmond &lt;a href=&quot;https://t.co/iFDaqEjEXh&quot;&gt;[link]&lt;/a&gt;" rawText="@patrickallmond https://t.co/iFDaqEjEXh" type="tweet" created="Tue, 05 Jul 2022 18:18:52 GMT" tweetId="1544385335928295424" urltweet="https://twitter.com/DevHawk/status/1544385335928295424" inReplyToId="1544376339716882434" tweetUserName="DevHawk" />
 				<outline text="@patrickallmond I did 330# squat Tuesday last week, but tweaked my neck. I cycled back to 315# for Friday and 325# on Sunday before taking another run at 330# today. Felt good.
