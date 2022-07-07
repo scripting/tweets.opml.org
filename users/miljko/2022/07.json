@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 21:41:35 GMT"
+            "dateModified": "Thu, 07 Jul 2022 11:47:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "📚 Catching up with John, the busted high-yield trader in Fooled by Randomness.\n\nIf you are talking about a 10 sigma event you should have thought in alphas, not sigmas. There may be early hints that the data is not Gaussian but people call them outliers and brush them away. <a href=\"https://t.co/9dS3tchf95\">[link]</a>",
+                                    "rawText": "📚 Catching up with John, the busted high-yield trader in Fooled by Randomness.\n\nIf you are talking about a 10 sigma event you should have thought in alphas, not sigmas. There may be early hints that the data is not Gaussian but people call them outliers and brush them away. https://t.co/9dS3tchf95",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 11:45:00 GMT",
+                                    "tweetId": "1545010995009044480",
+                                    "urltweet": "https://twitter.com/miljko/status/1545010995009044480",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 6",
                             "type": "calendarDay",
