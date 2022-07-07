@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 12:44:34 GMT"
+            "dateModified": "Thu, 07 Jul 2022 14:15:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,60 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "BTW -- to @twitterdev -- is there an API for Notes? This is a crucial question. If yes, then devs will be able to hook great editorial tools to Twitter in ways no one has been able to do before. It will open so many doors not just for Twitter, but for the entire net.",
+                                    "rawText": "BTW -- to @twitterdev -- is there an API for Notes? This is a crucial question. If yes, then devs will be able to hook great editorial tools to Twitter in ways no one has been able to do before. It will open so many doors not just for Twitter, but for the entire net.",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 14:12:40 GMT",
+                                    "tweetId": "1545048155707740161",
+                                    "urltweet": "https://twitter.com/davewiner/status/1545048155707740161",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "My writeup of Twitter Notes, based on seeing one in the wild. \n\n<a href=\"https://t.co/Nn8chXmoV6\">[link]</a>",
+                                            "rawText": "My writeup of Twitter Notes, based on seeing one in the wild. \n\nhttps://t.co/Nn8chXmoV6",
+                                            "type": "tweet",
+                                            "created": "Thu, 07 Jul 2022 14:13:42 GMT",
+                                            "tweetId": "1545048415783960583",
+                                            "urltweet": "https://twitter.com/davewiner/status/1545048415783960583",
+                                            "inReplyToId": "1545048155707740161",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "I have finally seen a Twitter Note in the wild. I like everything I see, but how it presents in the Twitter timeline. \n\nI suggest that presenting notes as they present an image or video -- inline. \n\nI did a mockup of how this would work... \n\n<a href=\"https://t.co/g7spyCtQ4P\">[link]</a>",
+                                    "rawText": "I have finally seen a Twitter Note in the wild. I like everything I see, but how it presents in the Twitter timeline. \n\nI suggest that presenting notes as they present an image or video -- inline. \n\nI did a mockup of how this would work... \n\nhttps://t.co/g7spyCtQ4P",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 14:07:52 GMT",
+                                    "tweetId": "1545046949329440768",
+                                    "urltweet": "https://twitter.com/davewiner/status/1545046949329440768",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "The way they present it now, i think most users will see the links to notes as they see all other links, not worth the trouble. By putting it inline, they start reading, and when they want more, they just click the more link.",
+                                            "rawText": "The way they present it now, i think most users will see the links to notes as they see all other links, not worth the trouble. By putting it inline, they start reading, and when they want more, they just click the more link.",
+                                            "type": "tweet",
+                                            "created": "Thu, 07 Jul 2022 14:07:53 GMT",
+                                            "tweetId": "1545046951355305985",
+                                            "urltweet": "https://twitter.com/davewiner/status/1545046951355305985",
+                                            "inReplyToId": "1545046949329440768",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "There's great prior art for this -- Facebook. It works there, it would work great on Twitter. \n\nI would use the feature and provide the highest quality technical feedback. I have decades of experience at this, esp in this area, having written the first blogging tools.",
+                                                    "rawText": "There's great prior art for this -- Facebook. It works there, it would work great on Twitter. \n\nI would use the feature and provide the highest quality technical feedback. I have decades of experience at this, esp in this area, having written the first blogging tools.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 07 Jul 2022 14:07:53 GMT",
+                                                    "tweetId": "1545046953318178816",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1545046953318178816",
+                                                    "inReplyToId": "1545046951355305985",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "The end of Netflix’s culture of feedback. <a href=\"https://t.co/DSmws7GqvN\">[link]</a>",
                                     "rawText": "The end of Netflix’s culture of feedback. https://t.co/DSmws7GqvN",
