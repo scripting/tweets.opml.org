@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 14:11:46 GMT"
+            "dateModified": "Thu, 07 Jul 2022 04:35:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@yaelbt I’m cat sitting for a week and learning similar lessons. Stocked up on Band-Aids, too.",
+                                    "rawText": "@yaelbt I’m cat sitting for a week and learning similar lessons. Stocked up on Band-Aids, too.",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 04:29:00 GMT",
+                                    "tweetId": "1544901271261392896",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1544901271261392896",
+                                    "inReplyToId": "1544853171171954691",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 5",
                             "type": "calendarDay",
