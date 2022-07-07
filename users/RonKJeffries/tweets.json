@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 01:11:49 GMT"
+            "dateModified": "Thu, 07 Jul 2022 07:29:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@mims When will the NFT be available?",
+                                    "rawText": "@mims When will the NFT be available?",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 07:25:57 GMT",
+                                    "tweetId": "1544945802774077440",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1544945802774077440",
+                                    "inReplyToId": "1544745542269517827",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 6",
                             "type": "calendarDay",
