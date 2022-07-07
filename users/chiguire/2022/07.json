@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 21:42:05 GMT"
+            "dateModified": "Thu, 07 Jul 2022 08:45:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,42 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@namshubofenki Business is booming",
+                                    "rawText": "@namshubofenki Business is booming",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 08:40:27 GMT",
+                                    "tweetId": "1544964551573217281",
+                                    "urltweet": "https://twitter.com/chiguire/status/1544964551573217281",
+                                    "inReplyToId": "1544964378558189568",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "Did you know that Sir Manuel’s Store has absolutely cheap prices?",
+                                    "rawText": "Did you know that Sir Manuel’s Store has absolutely cheap prices?",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 08:38:20 GMT",
+                                    "tweetId": "1544964017726410752",
+                                    "urltweet": "https://twitter.com/chiguire/status/1544964017726410752",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@binauralfusion Oh no",
+                                    "rawText": "@binauralfusion Oh no",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 08:36:15 GMT",
+                                    "tweetId": "1544963495380537344",
+                                    "urltweet": "https://twitter.com/chiguire/status/1544963495380537344",
+                                    "inReplyToId": "1544963105360412672",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 6",
                             "type": "calendarDay",
