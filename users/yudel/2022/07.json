@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 06:55:11 GMT"
+            "dateModified": "Thu, 07 Jul 2022 08:39:18 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "07",
                             "subs": [
+                                {
+                                    "text": "If I remember correctly, Rabin’s first government fell in the wake of an education minister’s resignation. This led to the election of Menachem Begin.",
+                                    "rawText": "If I remember correctly, Rabin’s first government fell in the wake of an education minister’s resignation. This led to the election of Menachem Begin.",
+                                    "type": "tweet",
+                                    "created": "Thu, 07 Jul 2022 08:27:13 GMT",
+                                    "tweetId": "1544961221841096704",
+                                    "urltweet": "https://twitter.com/yudel/status/1544961221841096704",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Who despite campaigning as a Remainer was responsible for — how do you say it — Sexit.",
+                                            "rawText": "Who despite campaigning as a Remainer was responsible for — how do you say it — Sexit.",
+                                            "type": "tweet",
+                                            "created": "Thu, 07 Jul 2022 08:28:06 GMT",
+                                            "tweetId": "1544961442365022210",
+                                            "urltweet": "https://twitter.com/yudel/status/1544961442365022210",
+                                            "inReplyToId": "1544961221841096704",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@acandidworld @schraubd I still haven’t heard a compelling explanation of why AIPAC decided this was the election cycle to start funding candidates.",
                                     "rawText": "@acandidworld @schraubd I still haven’t heard a compelling explanation of why AIPAC decided this was the election cycle to start funding candidates.",
