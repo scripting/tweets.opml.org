@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 06 Jul 2022 19:00:54 GMT"
+            "dateModified": "Fri, 08 Jul 2022 16:20:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,44 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@schneierblog <a href=\"https://t.co/6WjLH0zRsf\">[link]</a>",
+                                    "rawText": "@schneierblog https://t.co/6WjLH0zRsf",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 16:17:21 GMT",
+                                    "tweetId": "1545441922738577408",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1545441922738577408",
+                                    "inReplyToId": "1545437564009451520",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
+                                    "text": "@TwitterSupport \n\nA #FeatureRequest for your iOS app: allow pasting Twitter share URLs (e.g. copies from the web or a note document) into the #SearchBox inside the app.\n\nCurrent outcome: “No results found”\n\nExpected outcome: the linked Tweet is shown in the app\n\nExample link: <a href=\"https://t.co/6WjLH0zRsf\">[link]</a>",
+                                    "rawText": "@TwitterSupport \n\nA #FeatureRequest for your iOS app: allow pasting Twitter share URLs (e.g. copies from the web or a note document) into the #SearchBox inside the app.\n\nCurrent outcome: “No results found”\n\nExpected outcome: the linked Tweet is shown in the app\n\nExample link: https://t.co/6WjLH0zRsf",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 16:09:38 GMT",
+                                    "tweetId": "1545439977445609473",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1545439977445609473",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "(The Twitter username and ‘tweet serial number/UID’(?) are right there in the URL, as seen below; \n\nno lookups or backend changes should be required to implement this, just a tiny bit of string #parsing within the app itself.) <a href=\"https://t.co/5Jg7thsRfx\">[link]</a>",
+                                            "rawText": "(The Twitter username and ‘tweet serial number/UID’(?) are right there in the URL, as seen below; \n\nno lookups or backend changes should be required to implement this, just a tiny bit of string #parsing within the app itself.) https://t.co/5Jg7thsRfx",
+                                            "type": "tweet",
+                                            "created": "Fri, 08 Jul 2022 16:16:25 GMT",
+                                            "tweetId": "1545441685005430784",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1545441685005430784",
+                                            "inReplyToId": "1545439977445609473",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 6",
                             "type": "calendarDay",
