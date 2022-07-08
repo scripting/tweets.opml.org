@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 15:34:05 GMT"
+            "dateModified": "Fri, 08 Jul 2022 20:20:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "Early days but the performance gains are impressive! <a href=\"https://t.co/RBUbOKnB6b\">[link]</a>",
+                                    "rawText": "Early days but the performance gains are impressive! https://t.co/RBUbOKnB6b",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 20:09:05 GMT",
+                                    "tweetId": "1545500240043806721",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1545500240043806721",
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Some context and examples in this video: <a href=\"https://t.co/wYJ0ayi5wh\">[link]</a>",
+                                            "rawText": "Some context and examples in this video: https://t.co/wYJ0ayi5wh",
+                                            "type": "tweet",
+                                            "created": "Fri, 08 Jul 2022 20:10:01 GMT",
+                                            "tweetId": "1545500473108713472",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1545500473108713472",
+                                            "inReplyToId": "1545500240043806721",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "From a pure “Chromebook value” standpoint, I think this is the best one on the market at this price right now. <a href=\"https://t.co/EIjz2WFvSJ\">[link]</a>",
                                     "rawText": "From a pure “Chromebook value” standpoint, I think this is the best one on the market at this price right now. https://t.co/EIjz2WFvSJ",
