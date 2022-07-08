@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 02:29:28 GMT"
+            "dateModified": "Fri, 08 Jul 2022 02:42:29 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1545233478261809153",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1545233478261809153",
                                             "inReplyToId": "1545233476017950723",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "How many of these bars survived the pandemic? <a href=\"https://t.co/l73DaQx21H\">[link]</a>",
+                                                    "rawText": "How many of these bars survived the pandemic? https://t.co/l73DaQx21H",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 08 Jul 2022 02:29:52 GMT",
+                                                    "tweetId": "1545233676027535361",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1545233676027535361",
+                                                    "inReplyToId": "1545233478261809153",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
