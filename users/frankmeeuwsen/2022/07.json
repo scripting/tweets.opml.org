@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 19:29:31 GMT"
+            "dateModified": "Fri, 08 Jul 2022 07:38:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@marcoderksen Als ik dit zie kan ik niet wachten tot we zelf gaan in augustus!",
+                                    "rawText": "@marcoderksen Als ik dit zie kan ik niet wachten tot we zelf gaan in augustus!",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 07:29:09 GMT",
+                                    "tweetId": "1545308994641821696",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1545308994641821696",
+                                    "inReplyToId": "1545276551796854784",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
