@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 16:28:04 GMT"
+            "dateModified": "Fri, 08 Jul 2022 16:58:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "CANT GET PRINTER TO PRINT ((SCREAMS))",
+                                    "rawText": "CANT GET PRINTER TO PRINT ((SCREAMS))",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 16:54:02 GMT",
+                                    "tweetId": "1545451152988332032",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1545451152988332032",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
