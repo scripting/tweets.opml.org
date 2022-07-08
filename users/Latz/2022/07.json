@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 10:46:56 GMT"
+            "dateModified": "Fri, 08 Jul 2022 12:09:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "Habe heute 1 Liter regionale Bio-Milch für 70ct statt für 1,69€ gekauft.\n\nWas ist das los? Angebot und Nachfrage? Irgendeine Spekulationsblase explodiert?",
+                                    "rawText": "Habe heute 1 Liter regionale Bio-Milch für 70ct statt für 1,69€ gekauft.\n\nWas ist das los? Angebot und Nachfrage? Irgendeine Spekulationsblase explodiert?",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 12:07:58 GMT",
+                                    "tweetId": "1545379161048588288",
+                                    "urltweet": "https://twitter.com/Latz/status/1545379161048588288",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
