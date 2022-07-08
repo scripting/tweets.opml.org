@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 15:35:00 GMT"
+            "dateModified": "Fri, 08 Jul 2022 10:27:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "A tiny thought on the current uk news. It worries me they way politicians use Twitter to post letters of resignation &amp; the like. Trusting Twitter with something so important seems like a mistake. Surly they should post somewhere they control &amp; forward to Twitter #indieweb",
+                                    "rawText": "A tiny thought on the current uk news. It worries me they way politicians use Twitter to post letters of resignation &amp; the like. Trusting Twitter with something so important seems like a mistake. Surly they should post somewhere they control &amp; forward to Twitter #indieweb",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 10:16:53 GMT",
+                                    "tweetId": "1545351206628954114",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1545351206628954114",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
