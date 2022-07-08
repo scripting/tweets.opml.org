@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 12:28:07 GMT"
+            "dateModified": "Fri, 08 Jul 2022 12:41:08 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,41 @@
                                     "created": "Fri, 08 Jul 2022 12:27:28 GMT",
                                     "tweetId": "1545384067654455298",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1545384067654455298",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Pet peeve: When people write words like “anxiousness” and “briefness” when there’s beautiful words like “anxiety” and “brevity” just looking at them like in the distracted boyfriend meme.",
+                                            "rawText": "Pet peeve: When people write words like “anxiousness” and “briefness” when there’s beautiful words like “anxiety” and “brevity” just looking at them like in the distracted boyfriend meme.",
+                                            "type": "tweet",
+                                            "created": "Fri, 08 Jul 2022 12:31:03 GMT",
+                                            "tweetId": "1545384970025402370",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1545384970025402370",
+                                            "inReplyToId": "1545384067654455298",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Saying them out loud, fine, I’ll give you a pass. But when writing them out you have a chance to press the backspace key.",
+                                                    "rawText": "Saying them out loud, fine, I’ll give you a pass. But when writing them out you have a chance to press the backspace key.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 08 Jul 2022 12:31:03 GMT",
+                                                    "tweetId": "1545384971019354113",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1545384971019354113",
+                                                    "inReplyToId": "1545384970025402370",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Pet peeve: People talking while I’m walking in front of them. I don’t have an explanation for it, it just gets on my nerves. I let people pass me when that happens.",
+                                            "rawText": "Pet peeve: People talking while I’m walking in front of them. I don’t have an explanation for it, it just gets on my nerves. I let people pass me when that happens.",
+                                            "type": "tweet",
+                                            "created": "Fri, 08 Jul 2022 12:32:26 GMT",
+                                            "tweetId": "1545385319691960320",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1545385319691960320",
+                                            "inReplyToId": "1545384067654455298",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
