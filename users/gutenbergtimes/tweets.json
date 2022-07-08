@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 21:08:52 GMT"
+            "dateModified": "Fri, 08 Jul 2022 18:11:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@therepositorywp @wpbeginner @_MasterWP @pewresearch @briancoords Thank you for sharing the upcoming Live Q &amp; A  🎉🤗",
+                                    "rawText": "@therepositorywp @wpbeginner @_MasterWP @pewresearch @briancoords Thank you for sharing the upcoming Live Q &amp; A  🎉🤗",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 18:01:03 GMT",
+                                    "tweetId": "1545468019492651008",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1545468019492651008",
+                                    "inReplyToId": "1545377161875431426",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
