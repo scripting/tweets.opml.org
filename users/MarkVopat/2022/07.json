@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 05 Jul 2022 22:24:48 GMT"
+            "dateModified": "Fri, 08 Jul 2022 13:31:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "This should be concerning to the religious and non-religious alike. <a href=\"https://t.co/qcyqRKXlVd\">[link]</a>",
+                                    "rawText": "This should be concerning to the religious and non-religious alike. https://t.co/qcyqRKXlVd",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 13:23:09 GMT",
+                                    "tweetId": "1545398082120073216",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1545398082120073216",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 5",
                             "type": "calendarDay",
