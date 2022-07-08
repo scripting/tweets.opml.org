@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 08:11:20 GMT"
+            "dateModified": "Fri, 08 Jul 2022 09:03:24 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/uNLKCZtAhP\">[link]</a>",
+                                    "rawText": "https://t.co/uNLKCZtAhP",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 08:51:50 GMT",
+                                    "tweetId": "1545329804853055488",
+                                    "urltweet": "https://twitter.com/chiguire/status/1545329804853055488",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@oriana_banana <a href=\"https://t.co/5CBKP6O29c\">[link]</a>",
                                     "rawText": "@oriana_banana https://t.co/5CBKP6O29c",
