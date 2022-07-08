@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 21:00:07 GMT"
+            "dateModified": "Fri, 08 Jul 2022 18:41:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "No entry. Absolutely no entry. <a href=\"https://t.co/6obqLENtPu\">[link]</a>",
+                                    "rawText": "No entry. Absolutely no entry. https://t.co/6obqLENtPu",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 18:32:35 GMT",
+                                    "tweetId": "1545475954453135361",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1545475954453135361",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
