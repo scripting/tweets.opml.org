@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 18:24:31 GMT"
+            "dateModified": "Fri, 08 Jul 2022 19:29:35 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "@mims <a href=\"https://t.co/t95wVaBlkV\">[link]</a>",
+                                    "rawText": "@mims https://t.co/t95wVaBlkV",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 19:22:43 GMT",
+                                    "tweetId": "1545488571926077440",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1545488571926077440",
+                                    "tweetUserName": "RonKJeffries"
+                                },
                                 {
                                     "text": "@Neil_Sarg but not available in USA",
                                     "rawText": "@Neil_Sarg but not available in USA",
