@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 01:47:25 GMT"
+            "dateModified": "Fri, 08 Jul 2022 13:56:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@FeldheimRejects I think this premise works better as a movie.",
+                                    "rawText": "@FeldheimRejects I think this premise works better as a movie.",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 13:50:28 GMT",
+                                    "tweetId": "1545404955577696256",
+                                    "urltweet": "https://twitter.com/yudel/status/1545404955577696256",
+                                    "inReplyToId": "1545392929950388224",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
