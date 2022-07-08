@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 12:41:08 GMT"
+            "dateModified": "Fri, 08 Jul 2022 13:59:13 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/BuPNCh60lV\">[link]</a>",
+                                    "rawText": "https://t.co/BuPNCh60lV",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 13:52:29 GMT",
+                                    "tweetId": "1545405463764008960",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1545405463764008960",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "New series: My Pet Peeves.",
                                     "rawText": "New series: My Pet Peeves.",
