@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 23:07:30 GMT"
+            "dateModified": "Fri, 08 Jul 2022 07:09:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@zzRto Dime que no es cierto",
+                                    "rawText": "@zzRto Dime que no es cierto",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 07:02:34 GMT",
+                                    "tweetId": "1545302303720218624",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1545302303720218624",
+                                    "inReplyToId": "1545298520101584896",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
