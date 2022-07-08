@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 01:39:55 GMT"
+            "dateModified": "Fri, 08 Jul 2022 15:32:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: MacintoshPi - Mac OS 7/8/9 + Commodore for Raspberry Pi [ full ] <a href=\"https://t.co/6osBV1UsTl\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: MacintoshPi - Mac OS 7/8/9 + Commodore for Raspberry Pi [ full ] https://t.co/6osBV1UsTl",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 15:28:18 GMT",
+                                    "tweetId": "1545429576561704960",
+                                    "urltweet": "https://twitter.com/oevl/status/1545429576561704960",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
