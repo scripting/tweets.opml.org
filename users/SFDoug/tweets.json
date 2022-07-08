@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 04:35:17 GMT"
+            "dateModified": "Fri, 08 Jul 2022 05:57:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@Sally_K Oh no. I’m so sorry. This has been a rough year.",
+                                    "rawText": "@Sally_K Oh no. I’m so sorry. This has been a rough year.",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 05:51:47 GMT",
+                                    "tweetId": "1545284489877696512",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1545284489877696512",
+                                    "inReplyToId": "1545228588491821056",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
