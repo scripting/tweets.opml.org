@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 03 Jul 2022 03:49:43 GMT"
+            "dateModified": "Fri, 08 Jul 2022 16:47:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "I've been using dictation on my Mac more and more, saving my carpal tunnel ridden hands for coding.  I was writing something about Star Trek: Strange New Worlds and I found it funny that no matter...  - <a href=\"https://t.co/SPqLjrRYfZ\">[link]</a>  via @seanreiser https://t.co/IEfldRMvA9",
+                                    "rawText": "I've been using dictation on my Mac more and more, saving my carpal tunnel ridden hands for coding.  I was writing something about Star Trek: Strange New Worlds and I found it funny that no matter...  - https://t.co/SPqLjrRYfZ  via @seanreiser https://t.co/IEfldRMvA9",
+                                    "type": "tweet",
+                                    "created": "Fri, 08 Jul 2022 16:37:21 GMT",
+                                    "tweetId": "1545446954959884289",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1545446954959884289",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 2",
                             "type": "calendarDay",
