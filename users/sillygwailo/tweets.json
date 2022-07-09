@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 02:08:00 GMT"
+            "dateModified": "Sat, 09 Jul 2022 16:52:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "This wouldn’t work for most cities, but Toronto (Canada’s largest, and therefore best, city) could use something like the @OurCommons website, and especially something like @openparlca. <a href=\"https://t.co/k9qbc27bUK\">[link]</a>",
+                                    "rawText": "This wouldn’t work for most cities, but Toronto (Canada’s largest, and therefore best, city) could use something like the @OurCommons website, and especially something like @openparlca. https://t.co/k9qbc27bUK",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Jul 2022 16:52:49 GMT",
+                                    "tweetId": "1545813235068174339",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1545813235068174339",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
