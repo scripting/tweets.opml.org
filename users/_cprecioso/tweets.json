@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 21:01:56 GMT"
+            "dateModified": "Sat, 09 Jul 2022 08:18:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "Los nombres de usuario de Recon son UNA COSA <a href=\"https://t.co/xikECYq09T\">[link]</a>",
+                                    "rawText": "Los nombres de usuario de Recon son UNA COSA https://t.co/xikECYq09T",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Jul 2022 08:15:54 GMT",
+                                    "tweetId": "1545683146158514177",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1545683146158514177",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
