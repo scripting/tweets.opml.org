@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 18:41:32 GMT"
+            "dateModified": "Sat, 09 Jul 2022 11:36:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,35 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@jrsofty @40PercentGerman Seriously, why not Turkish?",
+                                    "rawText": "@jrsofty @40PercentGerman Seriously, why not Turkish?",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Jul 2022 11:26:11 GMT",
+                                    "tweetId": "1545731035052183557",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1545731035052183557",
+                                    "inReplyToId": "1545699961580535820",
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "@jrsofty @40PercentGerman Of our employees from outside Germany, those with some college speak English, but most of them don’t.",
+                                            "rawText": "@jrsofty @40PercentGerman Of our employees from outside Germany, those with some college speak English, but most of them don’t.",
+                                            "type": "tweet",
+                                            "created": "Sat, 09 Jul 2022 11:34:07 GMT",
+                                            "tweetId": "1545733031712894976",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1545733031712894976",
+                                            "inReplyToId": "1545731035052183557",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
