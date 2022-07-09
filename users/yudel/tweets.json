@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 00:20:53 GMT"
+            "dateModified": "Sat, 09 Jul 2022 00:33:54 GMT"
         },
         "body": {
             "subs": [
@@ -48,7 +48,31 @@
                                                     "tweetId": "1545563454358052866",
                                                     "urltweet": "https://twitter.com/yudel/status/1545563454358052866",
                                                     "inReplyToId": "1545562794396991490",
-                                                    "tweetUserName": "yudel"
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@trekonomics Settle by the end of December you get this year’s tax write off. And deduct $200m for legal fees if it were to drag out for a decade.",
+                                                            "rawText": "@trekonomics Settle by the end of December you get this year’s tax write off. And deduct $200m for legal fees if it were to drag out for a decade.",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 09 Jul 2022 00:21:19 GMT",
+                                                            "tweetId": "1545563714828619778",
+                                                            "urltweet": "https://twitter.com/yudel/status/1545563714828619778",
+                                                            "inReplyToId": "1545563454358052866",
+                                                            "tweetUserName": "yudel",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "@trekonomics Which gives him more time to spend with Herschel Walker’s children.",
+                                                                    "rawText": "@trekonomics Which gives him more time to spend with Herschel Walker’s children.",
+                                                                    "type": "tweet",
+                                                                    "created": "Sat, 09 Jul 2022 00:24:31 GMT",
+                                                                    "tweetId": "1545564520889851907",
+                                                                    "urltweet": "https://twitter.com/yudel/status/1545564520889851907",
+                                                                    "inReplyToId": "1545563714828619778",
+                                                                    "tweetUserName": "yudel"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
