@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 13:34:25 GMT"
+            "dateModified": "Sat, 09 Jul 2022 15:02:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@DrMRFrancis @IBJIYONGI JWST pronounced \"juiced\" (or... maybe \"joust\" or... \"just\")\n\n\"This image,  from the juiced telescope...\"",
+                                    "rawText": "@DrMRFrancis @IBJIYONGI JWST pronounced \"juiced\" (or... maybe \"joust\" or... \"just\")\n\n\"This image,  from the juiced telescope...\"",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Jul 2022 14:50:44 GMT",
+                                    "tweetId": "1545782509471797249",
+                                    "urltweet": "https://twitter.com/mathling/status/1545782509471797249",
+                                    "inReplyToId": "1545775306195230721",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
