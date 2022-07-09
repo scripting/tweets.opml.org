@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 13:21:44 GMT"
+            "dateModified": "Sat, 09 Jul 2022 14:26:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@theREALMikeDunn @joshtpm I think he has a legit claim that he has so sabotaged his reputation since April that he can no longer get financing.",
+                                    "rawText": "@theREALMikeDunn @joshtpm I think he has a legit claim that he has so sabotaged his reputation since April that he can no longer get financing.",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Jul 2022 14:23:24 GMT",
+                                    "tweetId": "1545775632977723392",
+                                    "urltweet": "https://twitter.com/yudel/status/1545775632977723392",
+                                    "inReplyToId": "1545774912018726914",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
