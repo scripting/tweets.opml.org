@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 08:18:39 GMT"
+            "dateModified": "Sat, 09 Jul 2022 08:31:40 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 09 Jul 2022 08:15:54 GMT",
                                     "tweetId": "1545683146158514177",
                                     "urltweet": "https://twitter.com/_cprecioso/status/1545683146158514177",
-                                    "tweetUserName": "_cprecioso"
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Bueno y la descripción no la pongo aquí porque menuda vaina",
+                                            "rawText": "Bueno y la descripción no la pongo aquí porque menuda vaina",
+                                            "type": "tweet",
+                                            "created": "Sat, 09 Jul 2022 08:28:15 GMT",
+                                            "tweetId": "1545686256427868165",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1545686256427868165",
+                                            "inReplyToId": "1545683146158514177",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
                                 }
                             ]
                         },
