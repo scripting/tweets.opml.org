@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 19:28:05 GMT"
+            "dateModified": "Sat, 09 Jul 2022 13:02:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "Tanto descongelar comida la noche anterior para al final dar cabida a los impulsos y pedir delivery",
+                                    "rawText": "Tanto descongelar comida la noche anterior para al final dar cabida a los impulsos y pedir delivery",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Jul 2022 12:57:02 GMT",
+                                    "tweetId": "1545753895892385794",
+                                    "urltweet": "https://twitter.com/chiguire/status/1545753895892385794",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
