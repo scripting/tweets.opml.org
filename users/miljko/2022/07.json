@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 14:15:14 GMT"
+            "dateModified": "Sat, 09 Jul 2022 12:22:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "📚 Halfway through Fooled by Randomness, the seeds of Antifragile. It’s all one work, all that’s missing is cross-references from earlier to latter written parts. <a href=\"https://t.co/Jb3LJe6H9K\">[link]</a>",
+                                    "rawText": "📚 Halfway through Fooled by Randomness, the seeds of Antifragile. It’s all one work, all that’s missing is cross-references from earlier to latter written parts. https://t.co/Jb3LJe6H9K",
+                                    "type": "tweet",
+                                    "created": "Sat, 09 Jul 2022 12:12:08 GMT",
+                                    "tweetId": "1545742597754322945",
+                                    "urltweet": "https://twitter.com/miljko/status/1545742597754322945",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
