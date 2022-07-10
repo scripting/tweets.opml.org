@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 15:28:19 GMT"
+            "dateModified": "Sun, 10 Jul 2022 14:58:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "As I sit out here on the patio, all sorts of wild life passes by. <a href=\"https://t.co/tLmrGXLt7e\">[link]</a>",
+                                    "rawText": "As I sit out here on the patio, all sorts of wild life passes by. https://t.co/tLmrGXLt7e",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 14:56:47 GMT",
+                                    "tweetId": "1546146421237317633",
+                                    "urltweet": "https://twitter.com/frankm/status/1546146421237317633",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
