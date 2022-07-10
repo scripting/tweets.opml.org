@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 13:48:16 GMT"
+            "dateModified": "Sun, 10 Jul 2022 13:52:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/FXIHx3boZF\">[link]</a> Stories via @nightafternight @vwagnerpianiste @violinscigars",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/FXIHx3boZF Stories via @nightafternight @vwagnerpianiste @violinscigars",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 13:47:49 GMT",
+                                    "tweetId": "1546129063898714112",
+                                    "urltweet": "https://twitter.com/aworks/status/1546129063898714112",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
