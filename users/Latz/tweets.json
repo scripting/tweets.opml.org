@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 19:58:07 GMT"
+            "dateModified": "Sun, 10 Jul 2022 20:59:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "TIL... that there's a remake of the bike messenger movie \"Quicksilver\" (1986) called \"Premium Rush\" (2012).\n\n<a href=\"https://t.co/f8vtl9GK4p\">[link]</a>\n\n#todayilearned",
+                                    "rawText": "TIL... that there's a remake of the bike messenger movie \"Quicksilver\" (1986) called \"Premium Rush\" (2012).\n\nhttps://t.co/f8vtl9GK4p\n\n#todayilearned",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 20:48:11 GMT",
+                                    "tweetId": "1546234855784054784",
+                                    "urltweet": "https://twitter.com/Latz/status/1546234855784054784",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
