@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 16:51:28 GMT"
+            "dateModified": "Sun, 10 Jul 2022 02:37:06 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,38 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "@dabrams2021 @noclador Something like: the US version uses some near-NATO-standard(?) encrypted comm links, which are incompatible with the data systems that Ukraine uses.",
+                                    "rawText": "@dabrams2021 @noclador Something like: the US version uses some near-NATO-standard(?) encrypted comm links, which are incompatible with the data systems that Ukraine uses.",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 02:27:03 GMT",
+                                    "tweetId": "1545957745332875265",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1545957745332875265",
+                                    "inReplyToId": "1545956861437960193",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
+                                    "text": "@jtasakorn @noclador Probably the modular PGK(?) fuzes, which screw on in place of regular fuzes and which have internal electronics and tiny nose fins for course corrections.",
+                                    "rawText": "@jtasakorn @noclador Probably the modular PGK(?) fuzes, which screw on in place of regular fuzes and which have internal electronics and tiny nose fins for course corrections.",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 02:24:07 GMT",
+                                    "tweetId": "1545957004618870785",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1545957004618870785",
+                                    "inReplyToId": "1545948919334866944",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@jtasakorn @noclador <a href=\"https://t.co/G0EIkCMidg\">[link]</a>",
+                                            "rawText": "@jtasakorn @noclador https://t.co/G0EIkCMidg",
+                                            "type": "tweet",
+                                            "created": "Sun, 10 Jul 2022 02:28:02 GMT",
+                                            "tweetId": "1545957992662634496",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1545957992662634496",
+                                            "inReplyToId": "1545957004618870785",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@AansPaa @PinheiroFilJoa @OScottson @IAPonomarenko Explosives-laden rail boxcar.\n\nTrigger using any combination of barometric pressure / time / accelerometer triggers (since the altitude profile of the route can be easily calculated from publicly available data).",
                                     "rawText": "@AansPaa @PinheiroFilJoa @OScottson @IAPonomarenko Explosives-laden rail boxcar.\n\nTrigger using any combination of barometric pressure / time / accelerometer triggers (since the altitude profile of the route can be easily calculated from publicly available data).",
