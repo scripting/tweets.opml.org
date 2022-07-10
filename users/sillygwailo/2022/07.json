@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 03:17:38 GMT"
+            "dateModified": "Sun, 10 Jul 2022 19:59:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "TIL about @torontolibrary’s online title recommendation form, which limits releases only to less than 2 years old and one purchase request per calendar month. What can I, personally, do to get the library to change its policy lift those limits? <a href=\"https://t.co/03xesNzKfV\">[link]</a>",
+                                    "rawText": "TIL about @torontolibrary’s online title recommendation form, which limits releases only to less than 2 years old and one purchase request per calendar month. What can I, personally, do to get the library to change its policy lift those limits? https://t.co/03xesNzKfV",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 19:52:33 GMT",
+                                    "tweetId": "1546220853557436418",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1546220853557436418",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
