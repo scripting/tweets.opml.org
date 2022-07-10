@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 03:25:39 GMT"
+            "dateModified": "Sun, 10 Jul 2022 09:17:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Baidu's self-driving taxis now a common sight in Beijing. <a href=\"https://t.co/Jw5EaYEx6p\">[link]</a>",
+                                    "rawText": "Baidu's self-driving taxis now a common sight in Beijing. https://t.co/Jw5EaYEx6p",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 09:06:03 GMT",
+                                    "tweetId": "1546058156740059137",
+                                    "urltweet": "https://twitter.com/davewiner/status/1546058156740059137",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
