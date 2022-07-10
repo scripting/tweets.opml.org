@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 16:39:31 GMT"
+            "dateModified": "Sun, 10 Jul 2022 17:05:32 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "comet it makes your mouth turn green\ncomet it tastes like gasoline\ncomet will make you vomit\nso buy some comet and vomit today",
+                                    "rawText": "comet it makes your mouth turn green\ncomet it tastes like gasoline\ncomet will make you vomit\nso buy some comet and vomit today",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 16:53:39 GMT",
+                                    "tweetId": "1546175830371467269",
+                                    "urltweet": "https://twitter.com/davewiner/status/1546175830371467269",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "this is a real song, we used to sing it when i was a kid.\n\n<a href=\"https://t.co/GmbJ8lA9kw\">[link]</a>",
+                                            "rawText": "this is a real song, we used to sing it when i was a kid.\n\nhttps://t.co/GmbJ8lA9kw",
+                                            "type": "tweet",
+                                            "created": "Sun, 10 Jul 2022 16:59:00 GMT",
+                                            "tweetId": "1546177179121336320",
+                                            "urltweet": "https://twitter.com/davewiner/status/1546177179121336320",
+                                            "inReplyToId": "1546175830371467269",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@mignano wow you're the head of podcasts at spotify. oy. you guys are the worst. \n\nstop calling your things podcasts. \n\nand step back into the shadows. you are not working with anyone in podcasts, you are the enemy of podcasts. \n\nwow this chutzpah is breath-taking.",
                                     "rawText": "@mignano wow you're the head of podcasts at spotify. oy. you guys are the worst. \n\nstop calling your things podcasts. \n\nand step back into the shadows. you are not working with anyone in podcasts, you are the enemy of podcasts. \n\nwow this chutzpah is breath-taking.",
