@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 15:51:12 GMT"
+            "dateModified": "Sun, 10 Jul 2022 19:58:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/NLeknkJLKB\">[link]</a>",
+                                    "rawText": "https://t.co/NLeknkJLKB",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 19:55:18 GMT",
+                                    "tweetId": "1546221543801454592",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1546221543801454592",
+                                    "tweetUserName": "MarkVopat"
+                                },
                                 {
                                     "text": "As BA.5 variant spreads, risk of covid reinfection grows - The Washington Post <a href=\"https://t.co/MHWwOIgskh\">[link]</a>",
                                     "rawText": "As BA.5 variant spreads, risk of covid reinfection grows - The Washington Post https://t.co/MHWwOIgskh",
