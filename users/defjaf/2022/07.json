@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 04 Jul 2022 10:30:58 GMT"
+            "dateModified": "Sun, 10 Jul 2022 15:31:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Off to my first in-person scientific meeting in 2 1/2 years — and my first flight without my family in about 7 years.  @SimonsObs here I come! <a href=\"https://t.co/knOosfKCEC\">[link]</a>",
+                                    "rawText": "Off to my first in-person scientific meeting in 2 1/2 years — and my first flight without my family in about 7 years.  @SimonsObs here I come! https://t.co/knOosfKCEC",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 15:18:47 GMT",
+                                    "tweetId": "1546151957907243008",
+                                    "urltweet": "https://twitter.com/defjaf/status/1546151957907243008",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 4",
                             "type": "calendarDay",
