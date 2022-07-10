@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 03:27:39 GMT"
+            "dateModified": "Sun, 10 Jul 2022 09:06:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,35 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@trekonomics The problem is the demand he’s filling. CEOs who don’t trust themselves or their staff to predict the future.",
+                                    "rawText": "@trekonomics The problem is the demand he’s filling. CEOs who don’t trust themselves or their staff to predict the future.",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 08:56:53 GMT",
+                                    "tweetId": "1546055848203534336",
+                                    "urltweet": "https://twitter.com/yudel/status/1546055848203534336",
+                                    "inReplyToId": "1546038942260088833",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@trekonomics Ultimately, these are the same people who keep looking to Kissinger for advice. Harari may be facile, but at least he’s not a big time war criminal.",
+                                            "rawText": "@trekonomics Ultimately, these are the same people who keep looking to Kissinger for advice. Harari may be facile, but at least he’s not a big time war criminal.",
+                                            "type": "tweet",
+                                            "created": "Sun, 10 Jul 2022 08:58:11 GMT",
+                                            "tweetId": "1546056175384465410",
+                                            "urltweet": "https://twitter.com/yudel/status/1546056175384465410",
+                                            "inReplyToId": "1546055848203534336",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
