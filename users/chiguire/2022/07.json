@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 22:47:51 GMT"
+            "dateModified": "Sun, 10 Jul 2022 08:59:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Coronó <a href=\"https://t.co/HrXyhBfBdY\">[link]</a>",
+                                    "rawText": "Coronó https://t.co/HrXyhBfBdY",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 08:53:55 GMT",
+                                    "tweetId": "1546055103152521219",
+                                    "urltweet": "https://twitter.com/chiguire/status/1546055103152521219",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
