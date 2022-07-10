@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 02:37:06 GMT"
+            "dateModified": "Sun, 10 Jul 2022 17:09:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@PeterHall51 @itscollmc @Strandjunker Sadly, the capital markets tend to show quite little concern towards ‘long-term’ anything.",
+                                    "rawText": "@PeterHall51 @itscollmc @Strandjunker Sadly, the capital markets tend to show quite little concern towards ‘long-term’ anything.",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 16:59:44 GMT",
+                                    "tweetId": "1546177362601005058",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1546177362601005058",
+                                    "inReplyToId": "1546166500150558720",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
