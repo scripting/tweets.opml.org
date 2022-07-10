@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 19:04:40 GMT"
+            "dateModified": "Sun, 10 Jul 2022 23:24:57 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "The secret is out. <a href=\"https://t.co/rg9sLZcrWn\">[link]</a>",
+                                    "rawText": "The secret is out. https://t.co/rg9sLZcrWn",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 23:17:56 GMT",
+                                    "tweetId": "1546272539122565122",
+                                    "urltweet": "https://twitter.com/yudel/status/1546272539122565122",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "\"Why do people hate conservative Christians?\" <a href=\"https://t.co/h5aoxumsDV\">[link]</a>",
                                     "rawText": "\"Why do people hate conservative Christians?\" https://t.co/h5aoxumsDV",
