@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 04:42:55 GMT"
+            "dateModified": "Sun, 10 Jul 2022 14:46:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/hGgBy1HGcQ\">[link]</a> https://t.co/AlrxKho9KM",
+                                    "rawText": "https://t.co/hGgBy1HGcQ https://t.co/AlrxKho9KM",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 14:40:32 GMT",
+                                    "tweetId": "1546142333565026304",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1546142333565026304",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
