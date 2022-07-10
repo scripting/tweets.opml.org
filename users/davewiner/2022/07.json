@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 14:42:23 GMT"
+            "dateModified": "Sun, 10 Jul 2022 14:55:24 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,39 @@
                             "name": "10",
                             "subs": [
                                 {
+                                    "text": "the problem in tech is there is very little effective communication, esp ironic given all the bits that go over the wire.",
+                                    "rawText": "the problem in tech is there is very little effective communication, esp ironic given all the bits that go over the wire.",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 14:44:43 GMT",
+                                    "tweetId": "1546143384741548033",
+                                    "urltweet": "https://twitter.com/davewiner/status/1546143384741548033",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "i'm spending this year re-learning what i know about RSS and feed tech. the more i view the landscape the more i see a tragedy that no one listened to each other, no one worked together.",
+                                            "rawText": "i'm spending this year re-learning what i know about RSS and feed tech. the more i view the landscape the more i see a tragedy that no one listened to each other, no one worked together.",
+                                            "type": "tweet",
+                                            "created": "Sun, 10 Jul 2022 14:44:43 GMT",
+                                            "tweetId": "1546143385790062592",
+                                            "urltweet": "https://twitter.com/davewiner/status/1546143385790062592",
+                                            "inReplyToId": "1546143384741548033",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "working together is failure of humanity, i know that sounds grandiose, but it's also true.",
+                                                    "rawText": "working together is failure of humanity, i know that sounds grandiose, but it's also true.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 10 Jul 2022 14:44:44 GMT",
+                                                    "tweetId": "1546143386863915008",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1546143386863915008",
+                                                    "inReplyToId": "1546143385790062592",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
                                     "text": "@dsearls actually that's not true. i just saw a thing (i'll look for it) that explained what StackExchange's server setup looks like. this is a very highly used site among developers, immersive as you say -- and it runs on a handful of machines.",
                                     "rawText": "@dsearls actually that's not true. i just saw a thing (i'll look for it) that explained what StackExchange's server setup looks like. this is a very highly used site among developers, immersive as you say -- and it runs on a handful of machines.",
                                     "type": "tweet",
@@ -28,7 +61,19 @@
                                     "tweetId": "1546142772612284416",
                                     "urltweet": "https://twitter.com/davewiner/status/1546142772612284416",
                                     "inReplyToId": "1546140204129550342",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@dsearls the technology has moved forward making some old ideas obsolete.",
+                                            "rawText": "@dsearls the technology has moved forward making some old ideas obsolete.",
+                                            "type": "tweet",
+                                            "created": "Sun, 10 Jul 2022 14:42:27 GMT",
+                                            "tweetId": "1546142812843950080",
+                                            "urltweet": "https://twitter.com/davewiner/status/1546142812843950080",
+                                            "inReplyToId": "1546142772612284416",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@chasporter I only lived in cowtown for three years but it's in my blood.",
