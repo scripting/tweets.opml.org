@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 01:13:45 GMT"
+            "dateModified": "Sun, 10 Jul 2022 09:54:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@r_p_pp_ Ay mira, yo igual",
+                                    "rawText": "@r_p_pp_ Ay mira, yo igual",
+                                    "type": "tweet",
+                                    "created": "Sun, 10 Jul 2022 09:43:14 GMT",
+                                    "tweetId": "1546067511803781120",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1546067511803781120",
+                                    "inReplyToId": "1546065793741426690",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
