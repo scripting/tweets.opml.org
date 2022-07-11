@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 21:52:10 GMT"
+            "dateModified": "Mon, 11 Jul 2022 22:05:11 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/fb6sK5M9II\">[link]</a>",
+                                    "rawText": "https://t.co/fb6sK5M9II",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 22:03:18 GMT",
+                                    "tweetId": "1546616145083596803",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1546616145083596803",
+                                    "tweetUserName": "KevinCTofel"
+                                },
+                                {
+                                    "text": "@j_whistler @NASA @NASAWebb I got an advance look and see why we have the delay. 😱 <a href=\"https://t.co/Cem2mcONOD\">[link]</a>",
+                                    "rawText": "@j_whistler @NASA @NASAWebb I got an advance look and see why we have the delay. 😱 https://t.co/Cem2mcONOD",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 21:58:01 GMT",
+                                    "tweetId": "1546614815346524161",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1546614815346524161",
+                                    "inReplyToId": "1546613462431895554",
+                                    "tweetUserName": "KevinCTofel"
+                                },
                                 {
                                     "text": "ICYMI: Chrome OS 105 partial split windows and multitasking button details <a href=\"https://t.co/Cfh4PVKtia\">[link]</a>",
                                     "rawText": "ICYMI: Chrome OS 105 partial split windows and multitasking button details https://t.co/Cfh4PVKtia",
