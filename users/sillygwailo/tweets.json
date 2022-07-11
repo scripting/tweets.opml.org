@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 22:14:27 GMT"
+            "dateModified": "Mon, 11 Jul 2022 22:53:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "This looks similar to Toronto’s Queens Quay which, I contend, is a mess in a few places. <a href=\"https://t.co/b0TIZFpVGk\">[link]</a>",
+                                    "rawText": "This looks similar to Toronto’s Queens Quay which, I contend, is a mess in a few places. https://t.co/b0TIZFpVGk",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 22:41:30 GMT",
+                                    "tweetId": "1546625760848404481",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1546625760848404481",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "You know what I did see at Queens Quay that I don’t see anywhere else in Toronto? A City employee picking up litter.",
+                                            "rawText": "You know what I did see at Queens Quay that I don’t see anywhere else in Toronto? A City employee picking up litter.",
+                                            "type": "tweet",
+                                            "created": "Mon, 11 Jul 2022 22:41:31 GMT",
+                                            "tweetId": "1546625762064728064",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1546625762064728064",
+                                            "inReplyToId": "1546625760848404481",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "“Those are balls.” <a href=\"https://t.co/lpfAo8e4DK\">[link]</a>",
                                     "rawText": "“Those are balls.” https://t.co/lpfAo8e4DK",
