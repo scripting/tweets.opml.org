@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 22:55:10 GMT"
+            "dateModified": "Mon, 11 Jul 2022 11:30:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@lanadelrave_ Equipo de investigación, o equipo de la mierda?",
+                                    "rawText": "@lanadelrave_ Equipo de investigación, o equipo de la mierda?",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 11:20:41 GMT",
+                                    "tweetId": "1546454425417486336",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1546454425417486336",
+                                    "inReplyToId": "1546448625290575872",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 10",
                             "type": "calendarDay",
