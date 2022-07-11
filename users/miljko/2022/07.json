@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 19:58:10 GMT"
+            "dateModified": "Mon, 11 Jul 2022 01:02:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@trishankkarthik @nntaleb They wine and dine, sustaining a few less than mediocre (but ridiculously expensive) DC restaurants.",
+                                    "rawText": "@trishankkarthik @nntaleb They wine and dine, sustaining a few less than mediocre (but ridiculously expensive) DC restaurants.",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 00:55:07 GMT",
+                                    "tweetId": "1546296998411780096",
+                                    "urltweet": "https://twitter.com/miljko/status/1546296998411780096",
+                                    "inReplyToId": "1546277443782189057",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
