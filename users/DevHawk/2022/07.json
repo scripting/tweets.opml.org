@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 07 Jul 2022 19:31:16 GMT"
+            "dateModified": "Mon, 11 Jul 2022 18:31:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Just pushed out a minor update to the @Neo_Blockchain  tookit.\n\nNeo-Express v3.3.27 enables the new RpcServer Traverse Iterators feature by default. This feature enables JSON-RPC clients to fully enumerate iterators returned from contract operations\n\n<a href=\"https://t.co/6UDf855SUv\">[link]</a>",
+                                    "rawText": "Just pushed out a minor update to the @Neo_Blockchain  tookit.\n\nNeo-Express v3.3.27 enables the new RpcServer Traverse Iterators feature by default. This feature enables JSON-RPC clients to fully enumerate iterators returned from contract operations\n\nhttps://t.co/6UDf855SUv",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 18:25:35 GMT",
+                                    "tweetId": "1546561354349158400",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1546561354349158400",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "If you want to see Traverse Iterators in action, the Neo Contributor NFT sample client application has been updated to use them to enumerate the available NFTs.\n\n<a href=\"https://t.co/PFB3vo9awu\">[link]</a>",
+                                            "rawText": "If you want to see Traverse Iterators in action, the Neo Contributor NFT sample client application has been updated to use them to enumerate the available NFTs.\n\nhttps://t.co/PFB3vo9awu",
+                                            "type": "tweet",
+                                            "created": "Mon, 11 Jul 2022 18:25:35 GMT",
+                                            "tweetId": "1546561355964002304",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1546561355964002304",
+                                            "inReplyToId": "1546561354349158400",
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "Neo-Express 3.3.27 also fixes a couple of issues with command line processing for the new contract download command. These fixes make contract download a little easier to execute and makes the argument usage consistent between direct and batch mode.",
+                                                    "rawText": "Neo-Express 3.3.27 also fixes a couple of issues with command line processing for the new contract download command. These fixes make contract download a little easier to execute and makes the argument usage consistent between direct and batch mode.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 11 Jul 2022 18:25:36 GMT",
+                                                    "tweetId": "1546561357679456256",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1546561357679456256",
+                                                    "inReplyToId": "1546561355964002304",
+                                                    "tweetUserName": "DevHawk"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 7",
                             "type": "calendarDay",
