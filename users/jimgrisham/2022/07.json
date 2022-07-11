@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 15:55:32 GMT"
+            "dateModified": "Mon, 11 Jul 2022 16:08:33 GMT"
         },
         "body": {
             "subs": [
@@ -50,7 +50,31 @@
                                     "tweetId": "1546518679667388417",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1546518679667388417",
                                     "inReplyToId": "1546442125448978433",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@Dennis_Ramen @FemiYahtzee To be clear, that wasn’t meant to excuse anyone… rather:\n\n  The first step in conquering many problems, much like when defeating witches, is naming them.",
+                                            "rawText": "@Dennis_Ramen @FemiYahtzee To be clear, that wasn’t meant to excuse anyone… rather:\n\n  The first step in conquering many problems, much like when defeating witches, is naming them.",
+                                            "type": "tweet",
+                                            "created": "Mon, 11 Jul 2022 15:57:10 GMT",
+                                            "tweetId": "1546524005108133888",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1546524005108133888",
+                                            "inReplyToId": "1546518679667388417",
+                                            "tweetUserName": "jimgrisham",
+                                            "subs": [
+                                                {
+                                                    "text": "@Dennis_Ramen @FemiYahtzee #NotAllWitches",
+                                                    "rawText": "@Dennis_Ramen @FemiYahtzee #NotAllWitches",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 11 Jul 2022 15:58:02 GMT",
+                                                    "tweetId": "1546524223748747264",
+                                                    "urltweet": "https://twitter.com/jimgrisham/status/1546524223748747264",
+                                                    "inReplyToId": "1546524005108133888",
+                                                    "tweetUserName": "jimgrisham"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@dima7b @compodeth @Osinttechnical The profits from them also are likely helping fund the invasion?",
