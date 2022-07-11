@@ -6,16 +6,35 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 07 Jul 2022 19:31:16 GMT</dateModified>
+		<dateModified>Mon, 11 Jul 2022 18:31:27 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2022" type="calendarMonth" name="july2022" >
+			<outline text="July 11" type="calendarDay" name="11" >
+				<outline text="Just pushed out a minor update to the @Neo_Blockchain  tookit.
+
+Neo-Express v3.3.27 enables the new RpcServer Traverse Iterators feature by default. This feature enables JSON-RPC clients to fully enumerate iterators returned from contract operations
+
+&lt;a href=&quot;https://t.co/6UDf855SUv&quot;&gt;[link]&lt;/a&gt;" rawText="Just pushed out a minor update to the @Neo_Blockchain  tookit.
+
+Neo-Express v3.3.27 enables the new RpcServer Traverse Iterators feature by default. This feature enables JSON-RPC clients to fully enumerate iterators returned from contract operations
+
+https://t.co/6UDf855SUv" type="tweet" created="Mon, 11 Jul 2022 18:25:35 GMT" tweetId="1546561354349158400" urltweet="https://twitter.com/DevHawk/status/1546561354349158400" inReplyToId="" tweetUserName="DevHawk" >
+					<outline text="If you want to see Traverse Iterators in action, the Neo Contributor NFT sample client application has been updated to use them to enumerate the available NFTs.
+
+&lt;a href=&quot;https://t.co/PFB3vo9awu&quot;&gt;[link]&lt;/a&gt;" rawText="If you want to see Traverse Iterators in action, the Neo Contributor NFT sample client application has been updated to use them to enumerate the available NFTs.
+
+https://t.co/PFB3vo9awu" type="tweet" created="Mon, 11 Jul 2022 18:25:35 GMT" tweetId="1546561355964002304" urltweet="https://twitter.com/DevHawk/status/1546561355964002304" inReplyToId="1546561354349158400" tweetUserName="DevHawk" >
+						<outline text="Neo-Express 3.3.27 also fixes a couple of issues with command line processing for the new contract download command. These fixes make contract download a little easier to execute and makes the argument usage consistent between direct and batch mode." rawText="Neo-Express 3.3.27 also fixes a couple of issues with command line processing for the new contract download command. These fixes make contract download a little easier to execute and makes the argument usage consistent between direct and batch mode." type="tweet" created="Mon, 11 Jul 2022 18:25:36 GMT" tweetId="1546561357679456256" urltweet="https://twitter.com/DevHawk/status/1546561357679456256" inReplyToId="1546561355964002304" tweetUserName="DevHawk" />
+						</outline>
+					</outline>
+				</outline>
 			<outline text="July 7" type="calendarDay" name="07" >
 				<outline text="Minor @Neo_Blockchain tool news: Neo 3.3.1 compatible version of my DumpNEF tool is now available. Minor update to generated comments + Neo version bump 
 
 &lt;a href=&quot;https://t.co/wTChpq5q8d&quot;&gt;[link]&lt;/a&gt;" rawText="Minor @Neo_Blockchain tool news: Neo 3.3.1 compatible version of my DumpNEF tool is now available. Minor update to generated comments + Neo version bump 
 
-https://t.co/wTChpq5q8d" type="tweet" created="Thu, 07 Jul 2022 19:27:43 GMT" tweetId="1545127438698438657" urltweet="https://twitter.com/DevHawk/status/1545127438698438657" inReplyToId="" tweetUserName="DevHawk" />
+https://t.co/wTChpq5q8d" type="tweet" created="Thu, 07 Jul 2022 19:27:43 GMT" tweetId="1545127438698438657" urltweet="https://twitter.com/DevHawk/status/1545127438698438657" tweetUserName="DevHawk" />
 				</outline>
 			<outline text="July 6" type="calendarDay" name="06" >
 				<outline text="We just shipped the latest #NeoBlockchainToolkit for @Neo_Blockchain v3.3.1 last week. Unfortunately, we had to update the Neo.BuildTasks package to address a Neo C# compiler issue.
