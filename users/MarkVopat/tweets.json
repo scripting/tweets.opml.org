@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 00:57:48 GMT"
+            "dateModified": "Mon, 11 Jul 2022 20:42:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "So this makes me feel really good: <a href=\"https://t.co/Hj6Sk4BGQ2\">[link]</a> https://t.co/lWEYiD5tCb",
+                                    "rawText": "So this makes me feel really good: https://t.co/Hj6Sk4BGQ2 https://t.co/lWEYiD5tCb",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 20:36:24 GMT",
+                                    "tweetId": "1546594275814670336",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1546594275814670336",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 10",
                             "type": "calendarDay",
