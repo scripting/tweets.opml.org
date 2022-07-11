@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 22:00:37 GMT"
+            "dateModified": "Mon, 11 Jul 2022 14:03:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Some AMD-powered Chromebooks can now dual-boot Windows 11 <a href=\"https://t.co/MMLDF9MNPn\">[link]</a>",
+                                    "rawText": "Some AMD-powered Chromebooks can now dual-boot Windows 11 https://t.co/MMLDF9MNPn",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 13:53:53 GMT",
+                                    "tweetId": "1546492979505930240",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1546492979505930240",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 10",
                             "type": "calendarDay",
