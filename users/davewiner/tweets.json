@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 16:57:06 GMT"
+            "dateModified": "Mon, 11 Jul 2022 17:49:10 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "Wordle 387 5/6\n\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n🟩🟩⬜⬜⬜\n🟩🟩⬜🟨🟨\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 387 5/6\n\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n🟩🟩⬜⬜⬜\n🟩🟩⬜🟨🟨\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 17:44:50 GMT",
+                                    "tweetId": "1546551100706377735",
+                                    "urltweet": "https://twitter.com/davewiner/status/1546551100706377735",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "2016: Two ways 2016 is like 1968. <a href=\"https://t.co/Q1RpHVnrRM\">[link]</a>",
                                     "rawText": "2016: Two ways 2016 is like 1968. https://t.co/Q1RpHVnrRM",
@@ -195,7 +204,19 @@
                                     "created": "Sun, 10 Jul 2022 21:49:58 GMT",
                                     "tweetId": "1546250403402203137",
                                     "urltweet": "https://twitter.com/davewiner/status/1546250403402203137",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Open standards with traction are unicorns.",
+                                            "rawText": "Open standards with traction are unicorns.",
+                                            "type": "tweet",
+                                            "created": "Mon, 11 Jul 2022 17:46:07 GMT",
+                                            "tweetId": "1546551424724733954",
+                                            "urltweet": "https://twitter.com/davewiner/status/1546551424724733954",
+                                            "inReplyToId": "1546250403402203137",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Elon Musk and Twitter lawyer up ahead of a legal battle in Delaware. <a href=\"https://t.co/gaqfZVQ0MW\">[link]</a>",
