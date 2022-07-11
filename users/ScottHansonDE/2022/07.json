@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 02:21:35 GMT"
+            "dateModified": "Mon, 11 Jul 2022 14:21:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@davewiner German girlfriend wanted us to hitchhike from Des Moines to Minneapolis, since she hitchhiked all the time at home. Ended up with a creepy driver just out of prison. Never did it again.",
+                                    "rawText": "@davewiner German girlfriend wanted us to hitchhike from Des Moines to Minneapolis, since she hitchhiked all the time at home. Ended up with a creepy driver just out of prison. Never did it again.",
+                                    "type": "tweet",
+                                    "created": "Mon, 11 Jul 2022 14:13:20 GMT",
+                                    "tweetId": "1546497875672043521",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1546497875672043521",
+                                    "inReplyToId": "1546475921422655490",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
