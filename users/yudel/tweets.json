@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 02:31:43 GMT"
+            "dateModified": "Tue, 12 Jul 2022 05:59:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Future Media Short Story Review: Theodore Sturgeon’s “And Now the News…” (1956) | Science Fiction and Other Suspect Ruminations <a href=\"https://t.co/MzwHXGadZL\">[link]</a>",
+                                    "rawText": "Future Media Short Story Review: Theodore Sturgeon’s “And Now the News…” (1956) | Science Fiction and Other Suspect Ruminations https://t.co/MzwHXGadZL",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 05:55:15 GMT",
+                                    "tweetId": "1546734914481135616",
+                                    "urltweet": "https://twitter.com/yudel/status/1546734914481135616",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 11",
                             "type": "calendarDay",
