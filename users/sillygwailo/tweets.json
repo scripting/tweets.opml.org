@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 02:34:44 GMT"
+            "dateModified": "Tue, 12 Jul 2022 02:47:45 GMT"
         },
         "body": {
             "subs": [
@@ -359,7 +359,19 @@
                                                             "tweetId": "1546683734480633856",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1546683734480633856",
                                                             "inReplyToId": "1546662847765159938",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "How many times have I watched that video? <a href=\"https://t.co/THgau0Khg4\">[link]</a>",
+                                                                    "rawText": "How many times have I watched that video? https://t.co/THgau0Khg4",
+                                                                    "type": "tweet",
+                                                                    "created": "Tue, 12 Jul 2022 02:35:35 GMT",
+                                                                    "tweetId": "1546684668858306560",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1546684668858306560",
+                                                                    "inReplyToId": "1546683734480633856",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
