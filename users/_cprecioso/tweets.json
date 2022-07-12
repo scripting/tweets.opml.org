@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 23:12:46 GMT"
+            "dateModified": "Tue, 12 Jul 2022 08:32:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@candad0deolga Oye pues lo han retrasado mucho. Otra victoria mas para el colectivo.",
+                                    "rawText": "@candad0deolga Oye pues lo han retrasado mucho. Otra victoria mas para el colectivo.",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 08:28:21 GMT",
+                                    "tweetId": "1546773443366031360",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1546773443366031360",
+                                    "inReplyToId": "1546767615946784768",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 11",
                             "type": "calendarDay",
