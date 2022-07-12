@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 12:04:21 GMT"
+            "dateModified": "Tue, 12 Jul 2022 12:17:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@SFRuminations <a href=\"https://t.co/bnuL9Rrwbv\">[link]</a>",
+                                    "rawText": "@SFRuminations https://t.co/bnuL9Rrwbv",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 12:10:26 GMT",
+                                    "tweetId": "1546829331858694145",
+                                    "urltweet": "https://twitter.com/yudel/status/1546829331858694145",
+                                    "inReplyToId": "1546825952117886978",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "Relevant to the article in the Post yesterday about news avoidance. <a href=\"https://t.co/xYrus7jzq2\">[link]</a>",
                                     "rawText": "Relevant to the article in the Post yesterday about news avoidance. https://t.co/xYrus7jzq2",
