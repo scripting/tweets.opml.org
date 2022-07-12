@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 10 Jul 2022 14:58:24 GMT"
+            "dateModified": "Tue, 12 Jul 2022 15:33:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Five things to knew about the new James Web Telescope images. Each speck is a galaxy, far, far, away. <a href=\"https://t.co/O1zM5tTLll\">[link]</a>",
+                                    "rawText": "Five things to knew about the new James Web Telescope images. Each speck is a galaxy, far, far, away. https://t.co/O1zM5tTLll",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 15:31:59 GMT",
+                                    "tweetId": "1546880055468589056",
+                                    "urltweet": "https://twitter.com/frankm/status/1546880055468589056",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 10",
                             "type": "calendarDay",
