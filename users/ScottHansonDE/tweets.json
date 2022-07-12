@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 20:39:21 GMT"
+            "dateModified": "Tue, 12 Jul 2022 18:07:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@HonourableHusba @jrsofty Our local Halal butcher has wonderful marinated skin-on boneless chicken thighs. He calls them “chicken steaks”.",
+                                    "rawText": "@HonourableHusba @jrsofty Our local Halal butcher has wonderful marinated skin-on boneless chicken thighs. He calls them “chicken steaks”.",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 17:55:25 GMT",
+                                    "tweetId": "1546916151531393024",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1546916151531393024",
+                                    "inReplyToId": "1546914823174344705",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 11",
                             "type": "calendarDay",
