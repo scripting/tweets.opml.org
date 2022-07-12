@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 17:31:38 GMT"
+            "dateModified": "Tue, 12 Jul 2022 07:50:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Bus factor <a href=\"https://t.co/3cDMzhOgL0\">[link]</a>",
+                                    "rawText": "Bus factor https://t.co/3cDMzhOgL0",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 07:49:47 GMT",
+                                    "tweetId": "1546763738535137280",
+                                    "urltweet": "https://twitter.com/chiguire/status/1546763738535137280",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 11",
                             "type": "calendarDay",
