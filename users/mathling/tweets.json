@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 22:20:57 GMT"
+            "dateModified": "Tue, 12 Jul 2022 18:05:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,58 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nFun with the Wave Function Collapse algorithm (cf <a href=\"https://t.co/WwfX4DRhC0\">[link]</a>)\n\n#XQuery #SVG https://t.co/Qmy6rvJC6U",
+                                    "rawText": "#GenerativeArt interlude\n\nFun with the Wave Function Collapse algorithm (cf https://t.co/WwfX4DRhC0)\n\n#XQuery #SVG https://t.co/Qmy6rvJC6U",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 18:04:43 GMT",
+                                    "tweetId": "1546918492321898499",
+                                    "urltweet": "https://twitter.com/mathling/status/1546918492321898499",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "This is the simple tiling variation, where you define some base tiles, their symmetries, and some L to R adjacency rules <a href=\"https://t.co/sSMBoK5VmM\">[link]</a>",
+                                            "rawText": "This is the simple tiling variation, where you define some base tiles, their symmetries, and some L to R adjacency rules https://t.co/sSMBoK5VmM",
+                                            "type": "tweet",
+                                            "created": "Tue, 12 Jul 2022 18:04:45 GMT",
+                                            "tweetId": "1546918498344914944",
+                                            "urltweet": "https://twitter.com/mathling/status/1546918498344914944",
+                                            "inReplyToId": "1546918492321898499",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "For the gradient tiling I needed to extend the ported algorithm to introduce a couple of new symmetry types\n\nYou can get very different looks depending on whether the gradient is sequential, circular, divergent, random, or split <a href=\"https://t.co/hXrDV9R1KI\">[link]</a>",
+                                                    "rawText": "For the gradient tiling I needed to extend the ported algorithm to introduce a couple of new symmetry types\n\nYou can get very different looks depending on whether the gradient is sequential, circular, divergent, random, or split https://t.co/hXrDV9R1KI",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 12 Jul 2022 18:04:46 GMT",
+                                                    "tweetId": "1546918504489574401",
+                                                    "urltweet": "https://twitter.com/mathling/status/1546918504489574401",
+                                                    "inReplyToId": "1546918498344914944",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "A random gradient <a href=\"https://t.co/9XGAtrUK4k\">[link]</a>",
+                                                            "rawText": "A random gradient https://t.co/9XGAtrUK4k",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 12 Jul 2022 18:04:48 GMT",
+                                                            "tweetId": "1546918511326310400",
+                                                            "urltweet": "https://twitter.com/mathling/status/1546918511326310400",
+                                                            "inReplyToId": "1546918504489574401",
+                                                            "tweetUserName": "mathling"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 11",
                             "type": "calendarDay",
