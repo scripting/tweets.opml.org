@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 20:22:20 GMT"
+            "dateModified": "Tue, 12 Jul 2022 15:40:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Wow. Such words. <a href=\"https://t.co/njNrqjpnTC\">[link]</a>",
+                                    "rawText": "Wow. Such words. https://t.co/njNrqjpnTC",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 15:40:21 GMT",
+                                    "tweetId": "1546882159075479552",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1546882159075479552",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@russellholly I feel deeply humble, and also super excited for this stunning human achievement in engineering (amazing that #JWST actually works...) and science.",
+                                    "rawText": "@russellholly I feel deeply humble, and also super excited for this stunning human achievement in engineering (amazing that #JWST actually works...) and science.",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 15:37:23 GMT",
+                                    "tweetId": "1546881412703215616",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1546881412703215616",
+                                    "inReplyToId": "1546880583971835904",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 11",
                             "type": "calendarDay",
