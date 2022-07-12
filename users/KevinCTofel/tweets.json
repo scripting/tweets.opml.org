@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 22:31:13 GMT"
+            "dateModified": "Tue, 12 Jul 2022 05:53:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Chrome OS 105 partial split windows and multitasking button details <a href=\"https://t.co/Cfh4PVKtia\">[link]</a> https://t.co/cPOAIiQCAK",
+                                    "rawText": "ICYMI: Chrome OS 105 partial split windows and multitasking button details https://t.co/Cfh4PVKtia https://t.co/cPOAIiQCAK",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 05:47:03 GMT",
+                                    "tweetId": "1546732852489879558",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1546732852489879558",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 11",
                             "type": "calendarDay",
