@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 15:17:33 GMT"
+            "dateModified": "Tue, 12 Jul 2022 17:14:41 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,106 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "Patsy Baloney!",
+                                    "rawText": "Patsy Baloney!",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 17:06:55 GMT",
+                                    "tweetId": "1546903944584208385",
+                                    "urltweet": "https://twitter.com/davewiner/status/1546903944584208385",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "The NASA people need a Liz Cheney.",
+                                            "rawText": "The NASA people need a Liz Cheney.",
+                                            "type": "tweet",
+                                            "created": "Tue, 12 Jul 2022 17:07:20 GMT",
+                                            "tweetId": "1546904051803213824",
+                                            "urltweet": "https://twitter.com/davewiner/status/1546904051803213824",
+                                            "inReplyToId": "1546903944584208385",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@jeffjarvis watch the hearing jeff.",
+                                    "rawText": "@jeffjarvis watch the hearing jeff.",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 17:05:58 GMT",
+                                    "tweetId": "1546903707316617216",
+                                    "urltweet": "https://twitter.com/davewiner/status/1546903707316617216",
+                                    "inReplyToId": "1546888161791561728",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "1/6 I'm thinking a lot about RSS this year.",
+                                    "rawText": "1/6 I'm thinking a lot about RSS this year.",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 17:01:57 GMT",
+                                    "tweetId": "1546902697382641664",
+                                    "urltweet": "https://twitter.com/davewiner/status/1546902697382641664",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "2/6 As a reader, I have no problem with a publishing site like Substack only doing outbound RSS. All my reading tools can hook into their authors' writing. It's good.",
+                                            "rawText": "2/6 As a reader, I have no problem with a publishing site like Substack only doing outbound RSS. All my reading tools can hook into their authors' writing. It's good.",
+                                            "type": "tweet",
+                                            "created": "Tue, 12 Jul 2022 17:01:58 GMT",
+                                            "tweetId": "1546902701195288577",
+                                            "urltweet": "https://twitter.com/davewiner/status/1546902701195288577",
+                                            "inReplyToId": "1546902697382641664",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "3/6 But as a writer, I can't use a system that doesn't do inbound RSS. It's the inverse of the silo problem.",
+                                                    "rawText": "3/6 But as a writer, I can't use a system that doesn't do inbound RSS. It's the inverse of the silo problem.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 12 Jul 2022 17:01:59 GMT",
+                                                    "tweetId": "1546902705418997760",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1546902705418997760",
+                                                    "inReplyToId": "1546902701195288577",
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "4/6 Such a site insists that I do all my writing on there. That's a deal-stopper because I already have my best writing tool and I do all my serious writing in that tool. It's as if a radio station insisted that I use their guitar to play music.",
+                                                            "rawText": "4/6 Such a site insists that I do all my writing on there. That's a deal-stopper because I already have my best writing tool and I do all my serious writing in that tool. It's as if a radio station insisted that I use their guitar to play music.",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 12 Jul 2022 17:02:00 GMT",
+                                                            "tweetId": "1546902709533659137",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1546902709533659137",
+                                                            "inReplyToId": "1546902705418997760",
+                                                            "tweetUserName": "davewiner",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "5/6 Someday we'll look back on this practice and think how could we have missed something so obvious.",
+                                                                    "rawText": "5/6 Someday we'll look back on this practice and think how could we have missed something so obvious.",
+                                                                    "type": "tweet",
+                                                                    "created": "Tue, 12 Jul 2022 17:02:01 GMT",
+                                                                    "tweetId": "1546902713799217152",
+                                                                    "urltweet": "https://twitter.com/davewiner/status/1546902713799217152",
+                                                                    "inReplyToId": "1546902709533659137",
+                                                                    "tweetUserName": "davewiner",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "6/6 I've asked writers who use Substack how they feel about this, with mixed results. None of the writers are thinking about it very much, apparently.",
+                                                                            "rawText": "6/6 I've asked writers who use Substack how they feel about this, with mixed results. None of the writers are thinking about it very much, apparently.",
+                                                                            "type": "tweet",
+                                                                            "created": "Tue, 12 Jul 2022 17:02:02 GMT",
+                                                                            "tweetId": "1546902717993549825",
+                                                                            "urltweet": "https://twitter.com/davewiner/status/1546902717993549825",
+                                                                            "inReplyToId": "1546902713799217152",
+                                                                            "tweetUserName": "davewiner"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "imagine a person in a boat on the niagara river about to go over the falls. a reporter wants to cover both sides. \n\nthe problem that needs solving is pretty clear, there aren't sides. \n\nwhen it gets that simple (like now) there's nothing left to debate. <a href=\"https://t.co/I34vgDeIle\">[link]</a>",
                                     "rawText": "imagine a person in a boat on the niagara river about to go over the falls. a reporter wants to cover both sides. \n\nthe problem that needs solving is pretty clear, there aren't sides. \n\nwhen it gets that simple (like now) there's nothing left to debate. https://t.co/I34vgDeIle",
