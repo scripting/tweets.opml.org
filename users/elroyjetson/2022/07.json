@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/elroyjetson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 13:31:45 GMT"
+            "dateModified": "Tue, 12 Jul 2022 14:11:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Spent two days on a coding issue...solution, use the right user name and password. Gah!!! <a href=\"https://t.co/fdICfN00EX\">[link]</a>",
+                                    "rawText": "Spent two days on a coding issue...solution, use the right user name and password. Gah!!! https://t.co/fdICfN00EX",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 14:10:26 GMT",
+                                    "tweetId": "1546859534630604805",
+                                    "urltweet": "https://twitter.com/elroyjetson/status/1546859534630604805",
+                                    "tweetUserName": "elroyjetson"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
