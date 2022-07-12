@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 00:24:35 GMT"
+            "dateModified": "Tue, 12 Jul 2022 01:16:39 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@normsworld I want it read out to me by Leonard Nimoy. (RIP.)",
+                                    "rawText": "@normsworld I want it read out to me by Leonard Nimoy. (RIP.)",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 01:11:03 GMT",
+                                    "tweetId": "1546663393570000897",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1546663393570000897",
+                                    "inReplyToId": "1546663134525521922",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
+                                    "text": "Does anybody know what the big news story will be tomorrow?",
+                                    "rawText": "Does anybody know what the big news story will be tomorrow?",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 01:09:28 GMT",
+                                    "tweetId": "1546662996881072128",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1546662996881072128",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@davewiner My last memory of hitchhiking was when a buddy of mine and I needed a ride into town from his house (we were teens and almost the legal age to drive). The guy who picked us up talked about the pie he baked for a lady friend of his, in the hopes that he’d get some pie in return.",
                                     "rawText": "@davewiner My last memory of hitchhiking was when a buddy of mine and I needed a ride into town from his house (we were teens and almost the legal age to drive). The guy who picked us up talked about the pie he baked for a lady friend of his, in the hopes that he’d get some pie in return.",
@@ -246,7 +265,31 @@
                                     "created": "Sun, 10 Jul 2022 23:35:31 GMT",
                                     "tweetId": "1546276965187035137",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1546276965187035137",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "This is today’s big news story. <a href=\"https://t.co/h6EHMbdNy6\">[link]</a>",
+                                            "rawText": "This is today’s big news story. https://t.co/h6EHMbdNy6",
+                                            "type": "tweet",
+                                            "created": "Tue, 12 Jul 2022 01:08:41 GMT",
+                                            "tweetId": "1546662799983738880",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1546662799983738880",
+                                            "inReplyToId": "1546276965187035137",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Read the alt text.",
+                                                    "rawText": "Read the alt text.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 12 Jul 2022 01:08:53 GMT",
+                                                    "tweetId": "1546662847765159938",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1546662847765159938",
+                                                    "inReplyToId": "1546662799983738880",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Carlos Santana is ridiculous.",
