@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 23:24:05 GMT"
+            "dateModified": "Tue, 12 Jul 2022 23:37:06 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                                     "tweetId": "1546998857380290561",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1546998857380290561",
                                                     "inReplyToId": "1546992547502907393",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "🎶 “I feel good, sometimes I don’t, aay!” 🎶 <a href=\"https://t.co/0nVG5lXma0\">[link]</a>",
+                                                            "rawText": "🎶 “I feel good, sometimes I don’t, aay!” 🎶 https://t.co/0nVG5lXma0",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 12 Jul 2022 23:30:14 GMT",
+                                                            "tweetId": "1547000410694623232",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1547000410694623232",
+                                                            "inReplyToId": "1546998857380290561",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
