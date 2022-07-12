@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 02:08:42 GMT"
+            "dateModified": "Tue, 12 Jul 2022 02:34:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@toddsieling I thought about this tweet all day.",
+                                    "rawText": "@toddsieling I thought about this tweet all day.",
+                                    "type": "tweet",
+                                    "created": "Tue, 12 Jul 2022 02:24:10 GMT",
+                                    "tweetId": "1546681796489891841",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1546681796489891841",
+                                    "inReplyToId": "1546501865466101761",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@Planta <a href=\"https://t.co/g3uaU0IsCl\">[link]</a>",
                                     "rawText": "@Planta https://t.co/g3uaU0IsCl",
@@ -339,7 +349,19 @@
                                                     "tweetId": "1546662847765159938",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1546662847765159938",
                                                     "inReplyToId": "1546662799983738880",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "And watch this video. <a href=\"https://t.co/yzgDRveQVS\">[link]</a>",
+                                                            "rawText": "And watch this video. https://t.co/yzgDRveQVS",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 12 Jul 2022 02:31:52 GMT",
+                                                            "tweetId": "1546683734480633856",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1546683734480633856",
+                                                            "inReplyToId": "1546662847765159938",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
