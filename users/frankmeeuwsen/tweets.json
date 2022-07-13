@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 20:05:22 GMT"
+            "dateModified": "Wed, 13 Jul 2022 05:11:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@PJMirella @Popmartijn Hail hail the lucky ones!",
+                                    "rawText": "@PJMirella @Popmartijn Hail hail the lucky ones!",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 05:01:24 GMT",
+                                    "tweetId": "1547083751087374336",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1547083751087374336",
+                                    "inReplyToId": "1547021734292987905",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
