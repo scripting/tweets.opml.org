@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 23:45:07 GMT"
+            "dateModified": "Wed, 13 Jul 2022 02:21:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@StarrburyMike The Departed",
+                                    "rawText": "@StarrburyMike The Departed",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 02:20:29 GMT",
+                                    "tweetId": "1547043256877420544",
+                                    "urltweet": "https://twitter.com/davewiner/status/1547043256877420544",
+                                    "inReplyToId": "1547008623582257153",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@TwitterDev @suhemparack FYI -- <a href=\"https://t.co/6KvbweWbgl\">[link]</a>",
+                                    "rawText": "@TwitterDev @suhemparack FYI -- https://t.co/6KvbweWbgl",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 02:11:46 GMT",
+                                    "tweetId": "1547041061494718474",
+                                    "urltweet": "https://twitter.com/davewiner/status/1547041061494718474",
+                                    "inReplyToId": "1546615344780914688",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I noticed that Twitter promotes a Python toolkit for API support. I have one for Node.js, and it does a lot of extra stuff, like stuff with Twitter threads. I also have Twitter support in the scripting language in Drummer and that's even easier. Links in the next tweet.",
                                     "rawText": "I noticed that Twitter promotes a Python toolkit for API support. I have one for Node.js, and it does a lot of extra stuff, like stuff with Twitter threads. I also have Twitter support in the scripting language in Drummer and that's even easier. Links in the next tweet.",
