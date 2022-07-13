@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 22:05:35 GMT"
+            "dateModified": "Wed, 13 Jul 2022 22:18:36 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,40 @@
                             "name": "13",
                             "subs": [
                                 {
+                                    "text": "@davekarpf RSS 2.0 came out on Sept 18, 2002.",
+                                    "rawText": "@davekarpf RSS 2.0 came out on Sept 18, 2002.",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 22:06:33 GMT",
+                                    "tweetId": "1547341740666912769",
+                                    "urltweet": "https://twitter.com/davewiner/status/1547341740666912769",
+                                    "inReplyToId": "1547302732880662528",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@davekarpf The first podcasts, 2003-2004.",
+                                            "rawText": "@davekarpf The first podcasts, 2003-2004.",
+                                            "type": "tweet",
+                                            "created": "Wed, 13 Jul 2022 22:07:00 GMT",
+                                            "tweetId": "1547341852910800896",
+                                            "urltweet": "https://twitter.com/davewiner/status/1547341852910800896",
+                                            "inReplyToId": "1547341740666912769",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@davekarpf Edit This Page, 1999.\n\n<a href=\"https://t.co/a4GR8VaviE\">[link]</a>",
+                                                    "rawText": "@davekarpf Edit This Page, 1999.\n\nhttps://t.co/a4GR8VaviE",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 13 Jul 2022 22:07:54 GMT",
+                                                    "tweetId": "1547342080506208260",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1547342080506208260",
+                                                    "inReplyToId": "1547341852910800896",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
                                     "text": "@davekarpf I started my blog on Oct 10, 1994.",
                                     "rawText": "@davekarpf I started my blog on Oct 10, 1994.",
                                     "type": "tweet",
@@ -28,7 +62,41 @@
                                     "tweetId": "1547341422524776455",
                                     "urltweet": "https://twitter.com/davewiner/status/1547341422524776455",
                                     "inReplyToId": "1547302732880662528",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@davekarpf I think twitter became the blogosphere.\n\nKind of like the way birds are dinosaurs.",
+                                            "rawText": "@davekarpf I think twitter became the blogosphere.\n\nKind of like the way birds are dinosaurs.",
+                                            "type": "tweet",
+                                            "created": "Wed, 13 Jul 2022 22:10:14 GMT",
+                                            "tweetId": "1547342665758478336",
+                                            "urltweet": "https://twitter.com/davewiner/status/1547342665758478336",
+                                            "inReplyToId": "1547341422524776455",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@davekarpf More accurately the blogosphere became twitter.",
+                                                    "rawText": "@davekarpf More accurately the blogosphere became twitter.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 13 Jul 2022 22:10:35 GMT",
+                                                    "tweetId": "1547342755122266117",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1547342755122266117",
+                                                    "inReplyToId": "1547342665758478336",
+                                                    "tweetUserName": "davewiner"
+                                                },
+                                                {
+                                                    "text": "@davekarpf The blogosphere was squeezed by the combination of Google Reader and Twitter. \n\nGoogle Reader said items must have titles.\n\nTwitter said items can't have titles. \n\nSo either you write all long form stuff (ugh) or are limited to 140 chars.",
+                                                    "rawText": "@davekarpf The blogosphere was squeezed by the combination of Google Reader and Twitter. \n\nGoogle Reader said items must have titles.\n\nTwitter said items can't have titles. \n\nSo either you write all long form stuff (ugh) or are limited to 140 chars.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 13 Jul 2022 22:13:13 GMT",
+                                                    "tweetId": "1547343414827556864",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1547343414827556864",
+                                                    "inReplyToId": "1547342665758478336",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "It just occurred to me that the way I collect domains is like an NFT, and wondered if the markets they use for NFTs would work better for buying and selling domains.",
