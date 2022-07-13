@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 02:34:18 GMT"
+            "dateModified": "Wed, 13 Jul 2022 11:01:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@AdamSinger What did they do to your account?",
+                                    "rawText": "@AdamSinger What did they do to your account?",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 10:58:57 GMT",
+                                    "tweetId": "1547173734011789313",
+                                    "urltweet": "https://twitter.com/davewiner/status/1547173734011789313",
+                                    "inReplyToId": "1547173199837790210",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@AdamSinger What was the penalty?",
+                                    "rawText": "@AdamSinger What was the penalty?",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 10:55:58 GMT",
+                                    "tweetId": "1547172982384123904",
+                                    "urltweet": "https://twitter.com/davewiner/status/1547172982384123904",
+                                    "inReplyToId": "1547171040517832708",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
