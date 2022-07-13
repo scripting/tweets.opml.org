@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 08 Jul 2022 17:26:27 GMT"
+            "dateModified": "Wed, 13 Jul 2022 18:28:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "A local Popeye's has one of those Coca-Cola Freestyle machines. It was a little unusual because it didn't have a touchscreen, instead you join their WiFi network, scan the QR code with your phone...  - <a href=\"https://t.co/iQohWGeMr5\">[link]</a>  via @seanreiser",
+                                    "rawText": "A local Popeye's has one of those Coca-Cola Freestyle machines. It was a little unusual because it didn't have a touchscreen, instead you join their WiFi network, scan the QR code with your phone...  - https://t.co/iQohWGeMr5  via @seanreiser",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 18:16:55 GMT",
+                                    "tweetId": "1547283950271340544",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1547283950271340544",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 8",
                             "type": "calendarDay",
