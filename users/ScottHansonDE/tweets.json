@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 22:15:01 GMT"
+            "dateModified": "Wed, 13 Jul 2022 14:44:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@RealMarkDziak @jenrazzle We recently ate at a restaurant that was not only cash-only but gave us a hand-written receipt from a blank memo pad. Imagine the Finanzamt will be paying them a visit sooner or later.",
+                                    "rawText": "@RealMarkDziak @jenrazzle We recently ate at a restaurant that was not only cash-only but gave us a hand-written receipt from a blank memo pad. Imagine the Finanzamt will be paying them a visit sooner or later.",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 14:40:23 GMT",
+                                    "tweetId": "1547229456569274373",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1547229456569274373",
+                                    "inReplyToId": "1547227278295310336",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
