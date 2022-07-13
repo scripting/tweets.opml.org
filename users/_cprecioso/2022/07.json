@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 15:41:50 GMT"
+            "dateModified": "Wed, 13 Jul 2022 06:13:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "👀 <a href=\"https://t.co/CPyqow74wt\">[link]</a>",
+                                    "rawText": "👀 https://t.co/CPyqow74wt",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 06:01:52 GMT",
+                                    "tweetId": "1547098969603555330",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1547098969603555330",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
