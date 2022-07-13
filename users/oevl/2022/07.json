@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 03:33:52 GMT"
+            "dateModified": "Wed, 13 Jul 2022 14:37:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Delayed orders are finally arriving, forcing retailers to offer sales <a href=\"https://t.co/sILPLUETHc\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Delayed orders are finally arriving, forcing retailers to offer sales https://t.co/sILPLUETHc",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 14:28:35 GMT",
+                                    "tweetId": "1547226488902221824",
+                                    "urltweet": "https://twitter.com/oevl/status/1547226488902221824",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: 1980: THE CLASH on tour | Nationwide | Classic BBC Music | BBC Archive <a href=\"https://t.co/ekTk2owiSJ\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: 1980: THE CLASH on tour | Nationwide | Classic BBC Music | BBC Archive https://t.co/ekTk2owiSJ",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 14:28:34 GMT",
+                                    "tweetId": "1547226485911691266",
+                                    "urltweet": "https://twitter.com/oevl/status/1547226485911691266",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
