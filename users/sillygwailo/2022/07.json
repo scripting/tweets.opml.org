@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 14:48:06 GMT"
+            "dateModified": "Wed, 13 Jul 2022 16:45:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "*Owen Wilson Wow* <a href=\"https://t.co/fH9CbuXayj\">[link]</a>",
+                                    "rawText": "*Owen Wilson Wow* https://t.co/fH9CbuXayj",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 16:33:41 GMT",
+                                    "tweetId": "1547257970672779265",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1547257970672779265",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
