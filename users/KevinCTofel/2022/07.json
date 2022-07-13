@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 20:51:40 GMT"
+            "dateModified": "Wed, 13 Jul 2022 05:32:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Chromebook battery saver in the works that will change your display refresh rate based on power status.  <a href=\"https://t.co/JEOKoecucO\">[link]</a>",
+                                    "rawText": "ICYMI: Chromebook battery saver in the works that will change your display refresh rate based on power status.  https://t.co/JEOKoecucO",
+                                    "type": "tweet",
+                                    "created": "Wed, 13 Jul 2022 05:20:07 GMT",
+                                    "tweetId": "1547088463442448386",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1547088463442448386",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
