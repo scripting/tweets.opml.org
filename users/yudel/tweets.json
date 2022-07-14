@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 01:22:48 GMT"
+            "dateModified": "Thu, 14 Jul 2022 01:35:49 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "13",
                             "subs": [
                                 {
+                                    "text": "@AtlanticCanuck @philmac773 @AOC Times.",
+                                    "rawText": "@AtlanticCanuck @philmac773 @AOC Times.",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 01:28:19 GMT",
+                                    "tweetId": "1547392516856619010",
+                                    "urltweet": "https://twitter.com/yudel/status/1547392516856619010",
+                                    "inReplyToId": "1547370897505505290",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
                                     "text": "@BenYehudaPress Plus one where one of the hinges seems to be his never coming to power in the first place.",
                                     "rawText": "@BenYehudaPress Plus one where one of the hinges seems to be his never coming to power in the first place.",
                                     "type": "tweet",
@@ -28,7 +38,31 @@
                                     "tweetId": "1547390977068916736",
                                     "urltweet": "https://twitter.com/yudel/status/1547390977068916736",
                                     "inReplyToId": "1547384071759839232",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@BenYehudaPress In a field where Hitler related pivots have long played an outsized role — Man in the High Castle, The Plot Against America — it’s interesting to see Stalin getting his historical due.",
+                                            "rawText": "@BenYehudaPress In a field where Hitler related pivots have long played an outsized role — Man in the High Castle, The Plot Against America — it’s interesting to see Stalin getting his historical due.",
+                                            "type": "tweet",
+                                            "created": "Thu, 14 Jul 2022 01:23:30 GMT",
+                                            "tweetId": "1547391302354051072",
+                                            "urltweet": "https://twitter.com/yudel/status/1547391302354051072",
+                                            "inReplyToId": "1547390977068916736",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@BenYehudaPress I counted four Hitler-related stories.",
+                                                    "rawText": "@BenYehudaPress I counted four Hitler-related stories.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 14 Jul 2022 01:24:04 GMT",
+                                                    "tweetId": "1547391444717125632",
+                                                    "urltweet": "https://twitter.com/yudel/status/1547391444717125632",
+                                                    "inReplyToId": "1547391302354051072",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "My allegiance may be to Dylan, but I’m not ashamed to use a King Crimson song title for a headline when I must. <a href=\"https://t.co/uaLQPPX600\">[link]</a>",
