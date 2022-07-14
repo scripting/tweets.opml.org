@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 19:04:53 GMT"
+            "dateModified": "Thu, 14 Jul 2022 05:16:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "AR, Mari Kondo style. <a href=\"https://t.co/Ajrn822qZi\">[link]</a>",
+                                    "rawText": "AR, Mari Kondo style. https://t.co/Ajrn822qZi",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 05:04:16 GMT",
+                                    "tweetId": "1547446859735744512",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1547446859735744512",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
