@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 22:31:37 GMT"
+            "dateModified": "Thu, 14 Jul 2022 09:48:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Readybot: automatic Discord RSS &amp; news bot. #twowayRSS <a href=\"https://t.co/nl7GaojYeP\">[link]</a>",
+                                    "rawText": "Readybot: automatic Discord RSS &amp; news bot. #twowayRSS https://t.co/nl7GaojYeP",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 09:40:40 GMT",
+                                    "tweetId": "1547516419620978690",
+                                    "urltweet": "https://twitter.com/davewiner/status/1547516419620978690",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
