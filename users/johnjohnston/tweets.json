@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 13:26:16 GMT"
+            "dateModified": "Thu, 14 Jul 2022 15:27:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Spot the fox\nAlong the Forth &amp; Clyde Canal. <a href=\"https://t.co/xe9adDQ1H9\">[link]</a>",
+                                    "rawText": "Spot the fox\nAlong the Forth &amp; Clyde Canal. https://t.co/xe9adDQ1H9",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 15:19:14 GMT",
+                                    "tweetId": "1547601623270117376",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1547601623270117376",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
