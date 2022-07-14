@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 00:14:09 GMT"
+            "dateModified": "Thu, 14 Jul 2022 00:44:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "I just earned the 'Untappd at Home (Level 24)' badge on @untappd! <a href=\"https://t.co/zv0gf3u47v\">[link]</a>",
+                                    "rawText": "I just earned the 'Untappd at Home (Level 24)' badge on @untappd! https://t.co/zv0gf3u47v",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 00:33:01 GMT",
+                                    "tweetId": "1547378597350019075",
+                                    "urltweet": "https://twitter.com/frankm/status/1547378597350019075",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
