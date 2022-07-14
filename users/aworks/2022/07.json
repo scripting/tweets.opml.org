@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 13:53:33 GMT"
+            "dateModified": "Thu, 14 Jul 2022 13:58:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/gKkHE15CZk\">[link]</a> Stories via @avantmusicnews @kenjikojimacom @ELHopkins",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/gKkHE15CZk Stories via @avantmusicnews @kenjikojimacom @ELHopkins",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 13:47:49 GMT",
+                                    "tweetId": "1547578615088353281",
+                                    "urltweet": "https://twitter.com/aworks/status/1547578615088353281",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
