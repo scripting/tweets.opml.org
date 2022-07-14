@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 16:32:43 GMT"
+            "dateModified": "Thu, 14 Jul 2022 17:03:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Mount Athos from Limenaria, just before sunset <a href=\"https://t.co/s4IAORMSk2\">[link]</a>",
+                                    "rawText": "Mount Athos from Limenaria, just before sunset https://t.co/s4IAORMSk2",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 17:02:35 GMT",
+                                    "tweetId": "1547627632551858176",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1547627632551858176",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
