@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 12 Jul 2022 17:35:43 GMT"
+            "dateModified": "Thu, 14 Jul 2022 16:26:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Hypothesis: the ability for patients to freely communicate with their physicians via an EMR messaging system is a scam perpetrated upon both, one that leads to physician burnout and, ultimately, less satisfied patients.",
+                                    "rawText": "Hypothesis: the ability for patients to freely communicate with their physicians via an EMR messaging system is a scam perpetrated upon both, one that leads to physician burnout and, ultimately, less satisfied patients.",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 16:18:01 GMT",
+                                    "tweetId": "1547616416664129539",
+                                    "urltweet": "https://twitter.com/miljko/status/1547616416664129539",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 12",
                             "type": "calendarDay",
