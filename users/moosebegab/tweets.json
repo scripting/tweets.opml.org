@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 19:18:39 GMT"
+            "dateModified": "Thu, 14 Jul 2022 16:21:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@THEMASTER1961 <a href=\"https://t.co/xxP5NcBvYg\">[link]</a>",
+                                    "rawText": "@THEMASTER1961 https://t.co/xxP5NcBvYg",
+                                    "type": "tweet",
+                                    "created": "Thu, 14 Jul 2022 16:17:51 GMT",
+                                    "tweetId": "1547616372774936578",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1547616372774936578",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
