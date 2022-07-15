@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 00:44:45 GMT"
+            "dateModified": "Fri, 15 Jul 2022 22:05:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "At one of my favorite parks on the shore of Green Bay (Lake Michigan) <a href=\"https://t.co/SE4Z8JBco2\">[link]</a>",
+                                    "rawText": "At one of my favorite parks on the shore of Green Bay (Lake Michigan) https://t.co/SE4Z8JBco2",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 21:56:10 GMT",
+                                    "tweetId": "1548063899794096130",
+                                    "urltweet": "https://twitter.com/frankm/status/1548063899794096130",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
