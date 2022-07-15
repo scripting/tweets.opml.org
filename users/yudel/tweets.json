@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 03:24:30 GMT"
+            "dateModified": "Fri, 15 Jul 2022 05:21:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@TomPaineToday To quote the Wall St Journal, it would be irresponsible not to speculate.",
+                                    "rawText": "@TomPaineToday To quote the Wall St Journal, it would be irresponsible not to speculate.",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 05:20:09 GMT",
+                                    "tweetId": "1547813246756737024",
+                                    "urltweet": "https://twitter.com/yudel/status/1547813246756737024",
+                                    "inReplyToId": "1547812142027419651",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
