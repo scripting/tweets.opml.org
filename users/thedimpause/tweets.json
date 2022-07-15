@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 17:03:19 GMT"
+            "dateModified": "Fri, 15 Jul 2022 06:30:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Linkblog 🔗: Oldest house in Wales found in Cardiff\n\n<a href=\"https://t.co/ySN49YClX7\">[link]</a>",
+                                    "rawText": "Linkblog 🔗: Oldest house in Wales found in Cardiff\n\nhttps://t.co/ySN49YClX7",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 06:19:12 GMT",
+                                    "tweetId": "1547828105301045249",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1547828105301045249",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
