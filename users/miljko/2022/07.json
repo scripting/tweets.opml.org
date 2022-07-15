@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 22:57:12 GMT"
+            "dateModified": "Fri, 15 Jul 2022 14:47:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Of course, this wouldn’t be that big of an issue if we could reliably tell /which/ 25% were “real” #RWRI17 <a href=\"https://t.co/Uwz66DPYFH\">[link]</a>",
+                                    "rawText": "Of course, this wouldn’t be that big of an issue if we could reliably tell /which/ 25% were “real” #RWRI17 https://t.co/Uwz66DPYFH",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 14:42:28 GMT",
+                                    "tweetId": "1547954759780352009",
+                                    "urltweet": "https://twitter.com/miljko/status/1547954759780352009",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
