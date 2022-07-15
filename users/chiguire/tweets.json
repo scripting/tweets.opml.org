@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 12:11:34 GMT"
+            "dateModified": "Fri, 15 Jul 2022 15:39:47 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,31 @@
                                     "created": "Fri, 15 Jul 2022 06:47:38 GMT",
                                     "tweetId": "1547835262952034306",
                                     "urltweet": "https://twitter.com/chiguire/status/1547835262952034306",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Siete horas de viaje después, en Rainford <a href=\"https://t.co/9VrWfHxPUz\">[link]</a>",
+                                            "rawText": "Siete horas de viaje después, en Rainford https://t.co/9VrWfHxPUz",
+                                            "type": "tweet",
+                                            "created": "Fri, 15 Jul 2022 15:29:28 GMT",
+                                            "tweetId": "1547966584760676352",
+                                            "urltweet": "https://twitter.com/chiguire/status/1547966584760676352",
+                                            "inReplyToId": "1547835262952034306",
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/kpbPJgH2Xl\">[link]</a>",
+                                                    "rawText": "https://t.co/kpbPJgH2Xl",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 15 Jul 2022 15:29:54 GMT",
+                                                    "tweetId": "1547966692680093700",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1547966692680093700",
+                                                    "inReplyToId": "1547966584760676352",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
