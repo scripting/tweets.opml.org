@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 06:07:10 GMT"
+            "dateModified": "Fri, 15 Jul 2022 06:59:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Este fin de semana, otro road trip <a href=\"https://t.co/yxwmsldir0\">[link]</a>",
+                                    "rawText": "Este fin de semana, otro road trip https://t.co/yxwmsldir0",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 06:47:38 GMT",
+                                    "tweetId": "1547835262952034306",
+                                    "urltweet": "https://twitter.com/chiguire/status/1547835262952034306",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
