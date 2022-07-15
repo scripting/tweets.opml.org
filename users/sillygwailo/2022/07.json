@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 00:38:19 GMT"
+            "dateModified": "Fri, 15 Jul 2022 02:35:26 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Fri, 15 Jul 2022 00:34:34 GMT",
                                     "tweetId": "1547741377512951809",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1547741377512951809",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "The more I thought about it, the less sense it maid. I undid the redirect. Hopefully search engines catch on that it’s not redirecting anymore and index the page properly again.",
+                                            "rawText": "The more I thought about it, the less sense it maid. I undid the redirect. Hopefully search engines catch on that it’s not redirecting anymore and index the page properly again.",
+                                            "type": "tweet",
+                                            "created": "Fri, 15 Jul 2022 02:22:32 GMT",
+                                            "tweetId": "1547768549216702465",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1547768549216702465",
+                                            "inReplyToId": "1547741377512951809",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I’ve gotten 76 claps on this Medium post I wrote last year. <a href=\"https://t.co/gBG9nxlBPv\">[link]</a>",
