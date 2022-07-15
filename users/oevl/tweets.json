@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 02:33:23 GMT"
+            "dateModified": "Fri, 15 Jul 2022 00:40:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Jan. 6 Hearing Tied Trump to “America’s Biggest Threat:” the White Power Mvmt | Amanpour and Company <a href=\"https://t.co/ilgDaNVGuC\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Jan. 6 Hearing Tied Trump to “America’s Biggest Threat:” the White Power Mvmt | Amanpour and Company https://t.co/ilgDaNVGuC",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 00:28:31 GMT",
+                                    "tweetId": "1547739854540120064",
+                                    "urltweet": "https://twitter.com/oevl/status/1547739854540120064",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
