@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 21:31:29 GMT"
+            "dateModified": "Fri, 15 Jul 2022 22:10:31 GMT"
         },
         "body": {
             "subs": [
@@ -97,7 +97,19 @@
                                                                     "tweetId": "1548055660775936000",
                                                                     "urltweet": "https://twitter.com/chiguire/status/1548055660775936000",
                                                                     "inReplyToId": "1547995732874895363",
-                                                                    "tweetUserName": "chiguire"
+                                                                    "tweetUserName": "chiguire",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Menos mal traje abrigo <a href=\"https://t.co/l63XfhCi0N\">[link]</a>",
+                                                                            "rawText": "Menos mal traje abrigo https://t.co/l63XfhCi0N",
+                                                                            "type": "tweet",
+                                                                            "created": "Fri, 15 Jul 2022 21:58:47 GMT",
+                                                                            "tweetId": "1548064560807956483",
+                                                                            "urltweet": "https://twitter.com/chiguire/status/1548064560807956483",
+                                                                            "inReplyToId": "1548055660775936000",
+                                                                            "tweetUserName": "chiguire"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
