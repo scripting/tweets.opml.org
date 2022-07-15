@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 20:43:19 GMT"
+            "dateModified": "Fri, 15 Jul 2022 13:51:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@cjconnor24 @1Password Is that on non-Windows computers? Doesn't seem to work on my Win10 comp.",
+                                    "rawText": "@cjconnor24 @1Password Is that on non-Windows computers? Doesn't seem to work on my Win10 comp.",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 13:44:45 GMT",
+                                    "tweetId": "1547940231675924487",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1547940231675924487",
+                                    "inReplyToId": "1547671089647460353",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
