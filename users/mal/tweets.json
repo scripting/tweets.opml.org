@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 04:16:44 GMT"
+            "dateModified": "Fri, 15 Jul 2022 21:03:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@JeffBezos I have had nothing but problems with @PillPack, check my account, it's a minefield of missed shipments, delays and slow transfers to other pharmacies so they can get me Rx's.",
+                                    "rawText": "@JeffBezos I have had nothing but problems with @PillPack, check my account, it's a minefield of missed shipments, delays and slow transfers to other pharmacies so they can get me Rx's.",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 20:59:22 GMT",
+                                    "tweetId": "1548049608542023681",
+                                    "urltweet": "https://twitter.com/mal/status/1548049608542023681",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
