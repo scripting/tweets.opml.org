@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 03:40:30 GMT"
+            "dateModified": "Fri, 15 Jul 2022 05:24:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@uncleweed Thanks Dave. Current plans have me in British Columbia that week, and that has always been pleasant.",
+                                    "rawText": "@uncleweed Thanks Dave. Current plans have me in British Columbia that week, and that has always been pleasant.",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 05:23:06 GMT",
+                                    "tweetId": "1547813987894538241",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1547813987894538241",
+                                    "inReplyToId": "1547812042660548609",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
