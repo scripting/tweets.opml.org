@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 22:05:39 GMT"
+            "dateModified": "Fri, 15 Jul 2022 06:07:10 GMT"
         },
         "body": {
             "subs": [
@@ -36,7 +36,19 @@
                                     "created": "Thu, 14 Jul 2022 21:12:51 GMT",
                                     "tweetId": "1547690610995302404",
                                     "urltweet": "https://twitter.com/chiguire/status/1547690610995302404",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "This tweet was brought to you by Mei’s notebook. I wonder how much fun the team had with coming up with this. Sorry, Devon. <a href=\"https://t.co/pW8fTJcoXv\">[link]</a>",
+                                            "rawText": "This tweet was brought to you by Mei’s notebook. I wonder how much fun the team had with coming up with this. Sorry, Devon. https://t.co/pW8fTJcoXv",
+                                            "type": "tweet",
+                                            "created": "Fri, 15 Jul 2022 05:59:52 GMT",
+                                            "tweetId": "1547823242844389376",
+                                            "urltweet": "https://twitter.com/chiguire/status/1547823242844389376",
+                                            "inReplyToId": "1547690610995302404",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@aledominique_ Desbloqueaste una memoria de un primer parcial de mate donde a un chamo le sonó el celular, lo respondió estresado y gritó: “mamá, no me llames que estoy en examen” y colgó con todos cagados de la risa",
