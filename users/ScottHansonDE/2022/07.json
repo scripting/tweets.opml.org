@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 23:16:14 GMT"
+            "dateModified": "Fri, 15 Jul 2022 18:47:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Our nearly empty tavern of the day.  Sorry @Heather_inDE, no exotic drink recipes on the wall. <a href=\"https://t.co/MJbtMBXetX\">[link]</a>",
+                                    "rawText": "Our nearly empty tavern of the day.  Sorry @Heather_inDE, no exotic drink recipes on the wall. https://t.co/MJbtMBXetX",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 18:35:29 GMT",
+                                    "tweetId": "1548013399543463938",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1548013399543463938",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
