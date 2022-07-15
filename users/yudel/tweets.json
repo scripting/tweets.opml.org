@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 03:11:29 GMT"
+            "dateModified": "Fri, 15 Jul 2022 03:24:30 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "TIL that Woody Guthrie had a song about Lindbergh and his American First movement. <a href=\"https://t.co/0uKcaOgt6E\">[link]</a>",
+                                    "rawText": "TIL that Woody Guthrie had a song about Lindbergh and his American First movement. https://t.co/0uKcaOgt6E",
+                                    "type": "tweet",
+                                    "created": "Fri, 15 Jul 2022 03:16:38 GMT",
+                                    "tweetId": "1547782162765664257",
+                                    "urltweet": "https://twitter.com/yudel/status/1547782162765664257",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Lyrics and YouTube video here. <a href=\"https://t.co/0BT6YTVv6w\">[link]</a>",
+                                            "rawText": "Lyrics and YouTube video here. https://t.co/0BT6YTVv6w",
+                                            "type": "tweet",
+                                            "created": "Fri, 15 Jul 2022 03:17:54 GMT",
+                                            "tweetId": "1547782479204847617",
+                                            "urltweet": "https://twitter.com/yudel/status/1547782479204847617",
+                                            "inReplyToId": "1547782162765664257",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "Concludes with a line that is still timely: They say \"America First,\" but they mean \"America Next!\"",
+                                                    "rawText": "Concludes with a line that is still timely: They say \"America First,\" but they mean \"America Next!\"",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 15 Jul 2022 03:18:36 GMT",
+                                                    "tweetId": "1547782657106268160",
+                                                    "urltweet": "https://twitter.com/yudel/status/1547782657106268160",
+                                                    "inReplyToId": "1547782479204847617",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Again, where are the “moderate” Republicans condemning this crap? <a href=\"https://t.co/6eh51PNfsI\">[link]</a>",
                                     "rawText": "Again, where are the “moderate” Republicans condemning this crap? https://t.co/6eh51PNfsI",
