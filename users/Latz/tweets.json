@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 20:30:10 GMT"
+            "dateModified": "Sat, 16 Jul 2022 19:42:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Habe ein neues IPA bei tegut gefunden: <a href=\"https://t.co/cQ5Nh7magw\">[link]</a>",
+                                    "rawText": "Habe ein neues IPA bei tegut gefunden: https://t.co/cQ5Nh7magw",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 19:38:46 GMT",
+                                    "tweetId": "1548391711373606913",
+                                    "urltweet": "https://twitter.com/Latz/status/1548391711373606913",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
