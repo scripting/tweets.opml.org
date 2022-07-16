@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 19:09:28 GMT"
+            "dateModified": "Sat, 16 Jul 2022 18:26:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@boerdeboer jij een idee wat er in de buurt gaande is met die muziek?",
+                                    "rawText": "@boerdeboer jij een idee wat er in de buurt gaande is met die muziek?",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 18:18:55 GMT",
+                                    "tweetId": "1548371616848965632",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1548371616848965632",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
