@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 17:25:16 GMT"
+            "dateModified": "Sat, 16 Jul 2022 17:51:18 GMT"
         },
         "body": {
             "subs": [
@@ -2024,7 +2024,31 @@
                                     "tweetId": "1542936792608948228",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1542936792608948228",
                                     "inReplyToId": "1540121072976236547",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "This afternoon. 💐 <a href=\"https://t.co/B0tt5rJM0T\">[link]</a>",
+                                            "rawText": "This afternoon. 💐 https://t.co/B0tt5rJM0T",
+                                            "type": "tweet",
+                                            "created": "Sat, 16 Jul 2022 17:39:39 GMT",
+                                            "tweetId": "1548361733802078209",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1548361733802078209",
+                                            "inReplyToId": "1542936792608948228",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "The Toronto Flower Market is decadent and depraved.",
+                                                    "rawText": "The Toronto Flower Market is decadent and depraved.",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 16 Jul 2022 17:47:27 GMT",
+                                                    "tweetId": "1548363697097097218",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1548363697097097218",
+                                                    "inReplyToId": "1548361733802078209",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "I always want to feel the way @atmosblaq’s “Te Amo” makes me feel. <a href=\"https://t.co/8IOcVdVnAr\">[link]</a>",
