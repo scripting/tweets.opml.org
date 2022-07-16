@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 18:47:48 GMT"
+            "dateModified": "Sat, 16 Jul 2022 14:19:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Watching the Wild Farmers playoff game this morning at the lake. Wasn’t their day in Regensburg today, though. <a href=\"https://t.co/r3oqSqMbJT\">[link]</a>",
+                                    "rawText": "Watching the Wild Farmers playoff game this morning at the lake. Wasn’t their day in Regensburg today, though. https://t.co/r3oqSqMbJT",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 14:18:37 GMT",
+                                    "tweetId": "1548311142916771840",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1548311142916771840",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
