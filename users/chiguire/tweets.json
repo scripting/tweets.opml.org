@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 09:01:14 GMT"
+            "dateModified": "Sat, 16 Jul 2022 15:57:41 GMT"
         },
         "body": {
             "subs": [
@@ -127,7 +127,19 @@
                                                                                     "tweetId": "1548229066897051648",
                                                                                     "urltweet": "https://twitter.com/chiguire/status/1548229066897051648",
                                                                                     "inReplyToId": "1548064560807956483",
-                                                                                    "tweetUserName": "chiguire"
+                                                                                    "tweetUserName": "chiguire",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "<a href=\"https://t.co/oaHjk6rtBp\">[link]</a>",
+                                                                                            "rawText": "https://t.co/oaHjk6rtBp",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Sat, 16 Jul 2022 15:50:35 GMT",
+                                                                                            "tweetId": "1548334288310898689",
+                                                                                            "urltweet": "https://twitter.com/chiguire/status/1548334288310898689",
+                                                                                            "inReplyToId": "1548229066897051648",
+                                                                                            "tweetUserName": "chiguire"
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
