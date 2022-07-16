@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 17:23:43 GMT"
+            "dateModified": "Sat, 16 Jul 2022 14:52:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@nntaleb @GGCanto Yep, bike lanes are still key, with or without pedal assist. DC has smartly put them in quieter side streets. That way you only need to worry about drunk restaurant patrons, not so much cars. <a href=\"https://t.co/EcIFZ86LbF\">[link]</a>",
+                                    "rawText": "@nntaleb @GGCanto Yep, bike lanes are still key, with or without pedal assist. DC has smartly put them in quieter side streets. That way you only need to worry about drunk restaurant patrons, not so much cars. https://t.co/EcIFZ86LbF",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 14:51:00 GMT",
+                                    "tweetId": "1548319294412312577",
+                                    "urltweet": "https://twitter.com/miljko/status/1548319294412312577",
+                                    "inReplyToId": "1548312676312395777",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
