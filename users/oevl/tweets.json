@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 03:34:52 GMT"
+            "dateModified": "Sat, 16 Jul 2022 04:39:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Finca de regadío | <a href=\"https://t.co/rYg6y3r2ww\">[link]</a> https://t.co/r7Rag10Xg2",
+                                    "rawText": "👍 on @YouTube: Finca de regadío | https://t.co/rYg6y3r2ww https://t.co/r7Rag10Xg2",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 04:28:25 GMT",
+                                    "tweetId": "1548162614840045570",
+                                    "urltweet": "https://twitter.com/oevl/status/1548162614840045570",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: La crisis climática pasa factura a los agricultores y ganaderos dependientes del río Po <a href=\"https://t.co/VyCjnvPQ0Y\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: La crisis climática pasa factura a los agricultores y ganaderos dependientes del río Po https://t.co/VyCjnvPQ0Y",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 04:28:24 GMT",
+                                    "tweetId": "1548162611677523974",
+                                    "urltweet": "https://twitter.com/oevl/status/1548162611677523974",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
