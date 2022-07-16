@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 18:30:51 GMT"
+            "dateModified": "Sat, 16 Jul 2022 09:51:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@ggreenwald Facebook imposed a limit of how where i can post this image",
+                                    "rawText": "@ggreenwald Facebook imposed a limit of how where i can post this image",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 09:49:59 GMT",
+                                    "tweetId": "1548243538176983040",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1548243538176983040",
+                                    "inReplyToId": "1548043044556984323",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
