@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 04:11:25 GMT"
+            "dateModified": "Sat, 16 Jul 2022 13:44:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "I don’t want to alarm you, but I’m in Yorkville right now, and I don’t hate it.",
+                                    "rawText": "I don’t want to alarm you, but I’m in Yorkville right now, and I don’t hate it.",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 13:35:25 GMT",
+                                    "tweetId": "1548300273096937472",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1548300273096937472",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "This superior being visited me this morning, but I didn’t have anything for it. <a href=\"https://t.co/ZF43ptYjcE\">[link]</a>",
+                                            "rawText": "This superior being visited me this morning, but I didn’t have anything for it. https://t.co/ZF43ptYjcE",
+                                            "type": "tweet",
+                                            "created": "Sat, 16 Jul 2022 13:36:55 GMT",
+                                            "tweetId": "1548300650986946560",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1548300650986946560",
+                                            "inReplyToId": "1548300273096937472",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
