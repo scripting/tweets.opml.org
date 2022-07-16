@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 23:18:21 GMT"
+            "dateModified": "Sat, 16 Jul 2022 09:03:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@wongmjane If you’re `import()`-ing them, you can add some of the Webpack magic comments to preload them? <a href=\"https://t.co/uYP0cTYmXQ\">[link]</a>",
+                                    "rawText": "@wongmjane If you’re `import()`-ing them, you can add some of the Webpack magic comments to preload them? https://t.co/uYP0cTYmXQ",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 08:56:56 GMT",
+                                    "tweetId": "1548230187627659270",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1548230187627659270",
+                                    "inReplyToId": "1548202050148012033",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
