@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 20:27:28 GMT"
+            "dateModified": "Sat, 16 Jul 2022 21:45:34 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "Ce soir. <a href=\"https://t.co/mxXkWAXwMl\">[link]</a>",
+                                    "rawText": "Ce soir. https://t.co/mxXkWAXwMl",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 21:40:53 GMT",
+                                    "tweetId": "1548422445412954112",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1548422445412954112",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Les sacs fourre-tout sont réels, et ils sont spectaculaires. <a href=\"https://t.co/IgDDvdwxVS\">[link]</a> https://t.co/V4BbQWHsvL",
+                                            "rawText": "Les sacs fourre-tout sont réels, et ils sont spectaculaires. https://t.co/IgDDvdwxVS https://t.co/V4BbQWHsvL",
+                                            "type": "tweet",
+                                            "created": "Sat, 16 Jul 2022 21:40:57 GMT",
+                                            "tweetId": "1548422459698753545",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1548422459698753545",
+                                            "inReplyToId": "1548422445412954112",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Whenever Frank Ocean’s “Nights” comes on the playlist. <a href=\"https://t.co/0LoAewWAnX\">[link]</a>",
                                     "rawText": "Whenever Frank Ocean’s “Nights” comes on the playlist. https://t.co/0LoAewWAnX",
