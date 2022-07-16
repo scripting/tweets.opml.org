@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 15:15:08 GMT"
+            "dateModified": "Sat, 16 Jul 2022 15:28:09 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,19 @@
                                             "tweetId": "1548324075461718020",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1548324075461718020",
                                             "inReplyToId": "1548303085193154561",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "We’ll miss the Cumberland Terrace food court when it’s gone. <a href=\"https://t.co/yIYMZ6UN7v\">[link]</a>",
+                                                    "rawText": "We’ll miss the Cumberland Terrace food court when it’s gone. https://t.co/yIYMZ6UN7v",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 16 Jul 2022 15:27:50 GMT",
+                                                    "tweetId": "1548328564516278273",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1548328564516278273",
+                                                    "inReplyToId": "1548324075461718020",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
