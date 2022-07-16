@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 03:14:21 GMT"
+            "dateModified": "Sat, 16 Jul 2022 03:27:22 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,24 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "The Dems are the problem now. <a href=\"https://t.co/URTlI3Esfj\">[link]</a>",
+                                    "rawText": "The Dems are the problem now. https://t.co/URTlI3Esfj",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 03:24:11 GMT",
+                                    "tweetId": "1548146451351363588",
+                                    "urltweet": "https://twitter.com/davewiner/status/1548146451351363588",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "Postlight's Mercury Parser extracts the bits that humans care about from any URL you give it. That includes article content, titles, authors, published dates, excerpts, lead images, and more. <a href=\"https://t.co/ZMGu8oeDUJ\">[link]</a>",
+                                    "rawText": "Postlight's Mercury Parser extracts the bits that humans care about from any URL you give it. That includes article content, titles, authors, published dates, excerpts, lead images, and more. https://t.co/ZMGu8oeDUJ",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 03:14:45 GMT",
+                                    "tweetId": "1548144077786361856",
+                                    "urltweet": "https://twitter.com/davewiner/status/1548144077786361856",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@gruber that looks really useful. i like that it runs in node.js, which is where all my stuff runs too. ;-)",
                                     "rawText": "@gruber that looks really useful. i like that it runs in node.js, which is where all my stuff runs too. ;-)",
