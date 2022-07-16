@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 23:41:37 GMT"
+            "dateModified": "Sat, 16 Jul 2022 09:01:14 GMT"
         },
         "body": {
             "subs": [
@@ -117,7 +117,19 @@
                                                                             "tweetId": "1548064560807956483",
                                                                             "urltweet": "https://twitter.com/chiguire/status/1548064560807956483",
                                                                             "inReplyToId": "1548055660775936000",
-                                                                            "tweetUserName": "chiguire"
+                                                                            "tweetUserName": "chiguire",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "My neighbourhood <a href=\"https://t.co/sDE4BPGDpN\">[link]</a>",
+                                                                                    "rawText": "My neighbourhood https://t.co/sDE4BPGDpN",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Sat, 16 Jul 2022 08:52:28 GMT",
+                                                                                    "tweetId": "1548229066897051648",
+                                                                                    "urltweet": "https://twitter.com/chiguire/status/1548229066897051648",
+                                                                                    "inReplyToId": "1548064560807956483",
+                                                                                    "tweetUserName": "chiguire"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     ]
                                                                 }
