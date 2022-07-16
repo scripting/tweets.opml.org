@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 14 Jul 2022 04:21:30 GMT"
+            "dateModified": "Sat, 16 Jul 2022 20:21:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nMazes\n\nMore fun with the Wave Function Collapse algorithm\n\n#XQuery #SVG <a href=\"https://t.co/E9UbqlWP5E\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nMazes\n\nMore fun with the Wave Function Collapse algorithm\n\n#XQuery #SVG https://t.co/E9UbqlWP5E",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 20:18:10 GMT",
+                                    "tweetId": "1548401626402017281",
+                                    "urltweet": "https://twitter.com/mathling/status/1548401626402017281",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "I run the algorithm in a way that the individual tiles are drawn as geometric objects that I can manipulate in various ways with my libraries before rendering out as SVG. \n\nWarped <a href=\"https://t.co/y5lXu1C8pd\">[link]</a>",
+                                            "rawText": "I run the algorithm in a way that the individual tiles are drawn as geometric objects that I can manipulate in various ways with my libraries before rendering out as SVG. \n\nWarped https://t.co/y5lXu1C8pd",
+                                            "type": "tweet",
+                                            "created": "Sat, 16 Jul 2022 20:18:11 GMT",
+                                            "tweetId": "1548401629732282368",
+                                            "urltweet": "https://twitter.com/mathling/status/1548401629732282368",
+                                            "inReplyToId": "1548401626402017281",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "The chalice <a href=\"https://t.co/2OqG2qTXQy\">[link]</a>",
+                                                    "rawText": "The chalice https://t.co/2OqG2qTXQy",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 16 Jul 2022 20:18:11 GMT",
+                                                    "tweetId": "1548401632735465472",
+                                                    "urltweet": "https://twitter.com/mathling/status/1548401632735465472",
+                                                    "inReplyToId": "1548401629732282368",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 14",
                             "type": "calendarDay",
