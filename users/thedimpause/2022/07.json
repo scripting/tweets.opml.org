@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 06:30:11 GMT"
+            "dateModified": "Sat, 16 Jul 2022 05:16:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/cLCTKpyOwU\">[link]</a>",
+                                    "rawText": "https://t.co/cLCTKpyOwU",
+                                    "type": "tweet",
+                                    "created": "Sat, 16 Jul 2022 05:16:48 GMT",
+                                    "tweetId": "1548174792322211840",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1548174792322211840",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
