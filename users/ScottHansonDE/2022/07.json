@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 16:42:14 GMT"
+            "dateModified": "Sun, 17 Jul 2022 13:57:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Lake coffee: espresso for us, drip for my mom <a href=\"https://t.co/FBf1GkHSrG\">[link]</a>",
+                                    "rawText": "Lake coffee: espresso for us, drip for my mom https://t.co/FBf1GkHSrG",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 13:56:21 GMT",
+                                    "tweetId": "1548667929239048193",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1548667929239048193",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 16",
                             "type": "calendarDay",
