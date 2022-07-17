@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 16:06:30 GMT"
+            "dateModified": "Sun, 17 Jul 2022 16:19:31 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,96 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "States",
+                                    "rawText": "States",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 16:15:19 GMT",
+                                    "tweetId": "1548702900985233410",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1548702900985233410",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "Ohio",
+                                            "rawText": "Ohio",
+                                            "type": "tweet",
+                                            "created": "Sun, 17 Jul 2022 16:15:20 GMT",
+                                            "tweetId": "1548702902495154176",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1548702902495154176",
+                                            "inReplyToId": "1548702900985233410",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "Oregon",
+                                                    "rawText": "Oregon",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 17 Jul 2022 16:15:20 GMT",
+                                                    "tweetId": "1548702903887695874",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1548702903887695874",
+                                                    "inReplyToId": "1548702902495154176",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Oklahoma",
+                                                            "rawText": "Oklahoma",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 17 Jul 2022 16:15:20 GMT",
+                                                            "tweetId": "1548702905246650369",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1548702905246650369",
+                                                            "inReplyToId": "1548702903887695874",
+                                                            "tweetUserName": "cluelessnewbie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "This is a thread",
+                                    "rawText": "This is a thread",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 16:12:14 GMT",
+                                    "tweetId": "1548702122837004289",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1548702122837004289",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "One",
+                                            "rawText": "One",
+                                            "type": "tweet",
+                                            "created": "Sun, 17 Jul 2022 16:12:14 GMT",
+                                            "tweetId": "1548702124279832578",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1548702124279832578",
+                                            "inReplyToId": "1548702122837004289",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "Two",
+                                                    "rawText": "Two",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 17 Jul 2022 16:12:14 GMT",
+                                                    "tweetId": "1548702125680640002",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1548702125680640002",
+                                                    "inReplyToId": "1548702124279832578",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Three",
+                                                            "rawText": "Three",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 17 Jul 2022 16:12:15 GMT",
+                                                            "tweetId": "1548702127123582977",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1548702127123582977",
+                                                            "inReplyToId": "1548702125680640002",
+                                                            "tweetUserName": "cluelessnewbie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Songs",
                                     "rawText": "Songs",
