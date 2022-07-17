@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 03:37:22 GMT"
+            "dateModified": "Sun, 17 Jul 2022 03:28:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@RonJeffries OK. ;)",
+                                    "rawText": "@RonJeffries OK. ;)",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 03:23:46 GMT",
+                                    "tweetId": "1548508731230396416",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1548508731230396416",
+                                    "inReplyToId": "1548505964973674497",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@Grady_Booch DALL-E output is impressive. ;)",
+                                    "rawText": "@Grady_Booch DALL-E output is impressive. ;)",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 03:22:21 GMT",
+                                    "tweetId": "1548508375717072896",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1548508375717072896",
+                                    "inReplyToId": "1548506518697390087",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
