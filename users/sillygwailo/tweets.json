@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 16:24:47 GMT"
+            "dateModified": "Sun, 17 Jul 2022 20:06:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "3 people named Camille crossed my consciousness in the last 2 days. Does that constitute a Camille Cluster Phenomenon?",
+                                    "rawText": "3 people named Camille crossed my consciousness in the last 2 days. Does that constitute a Camille Cluster Phenomenon?",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 19:57:10 GMT",
+                                    "tweetId": "1548758728370970624",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1548758728370970624",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@chenoehart I can’t find a shirt that I love, and it has gone through … enough repairs. I’ve asked a tailor to copy it, and he obliged. He took measurements of the shirt, sent them overseas (I have no idea where), and I’ll I see the results next month. If it works, I’ll buy 5 more.",
                                     "rawText": "@chenoehart I can’t find a shirt that I love, and it has gone through … enough repairs. I’ve asked a tailor to copy it, and he obliged. He took measurements of the shirt, sent them overseas (I have no idea where), and I’ll I see the results next month. If it works, I’ll buy 5 more.",
@@ -300,7 +309,19 @@
                                     "created": "Sat, 16 Jul 2022 18:55:12 GMT",
                                     "tweetId": "1548380747869745152",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1548380747869745152",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "This afternoon. <a href=\"https://t.co/h5D1Isw3gp\">[link]</a>",
+                                            "rawText": "This afternoon. https://t.co/h5D1Isw3gp",
+                                            "type": "tweet",
+                                            "created": "Sun, 17 Jul 2022 20:05:32 GMT",
+                                            "tweetId": "1548760836251992064",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1548760836251992064",
+                                            "inReplyToId": "1548380747869745152",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Do you think people who are carrying a camera on a strap are aching for someone to take a photo of them, with them holding their camera?",
