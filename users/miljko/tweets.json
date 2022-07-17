@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 20:04:27 GMT"
+            "dateModified": "Sun, 17 Jul 2022 13:51:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@ArieHaziza @nntaleb True! And we are surrounded by wall-to-wall BS, no matter your profession, no matter where you live. Once you see it you can't unsee it.",
+                                    "rawText": "@ArieHaziza @nntaleb True! And we are surrounded by wall-to-wall BS, no matter your profession, no matter where you live. Once you see it you can't unsee it.",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 13:46:31 GMT",
+                                    "tweetId": "1548665451500158976",
+                                    "urltweet": "https://twitter.com/miljko/status/1548665451500158976",
+                                    "inReplyToId": "1548662975401263104",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 16",
                             "type": "calendarDay",
