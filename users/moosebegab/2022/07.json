@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 01:11:02 GMT"
+            "dateModified": "Sun, 17 Jul 2022 13:58:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "daddy starts sneezing and Dilly heads for the crate..lol",
+                                    "rawText": "daddy starts sneezing and Dilly heads for the crate..lol",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 13:49:48 GMT",
+                                    "tweetId": "1548666278650548224",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1548666278650548224",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 16",
                             "type": "calendarDay",
