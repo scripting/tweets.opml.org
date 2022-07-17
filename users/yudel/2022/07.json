@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 15 Jul 2022 23:22:06 GMT"
+            "dateModified": "Sun, 17 Jul 2022 00:18:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@spooknine @trekonomics <a href=\"https://t.co/jmcyuSqgeL\">[link]</a>",
+                                    "rawText": "@spooknine @trekonomics https://t.co/jmcyuSqgeL",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 00:18:33 GMT",
+                                    "tweetId": "1548462121666486280",
+                                    "urltweet": "https://twitter.com/yudel/status/1548462121666486280",
+                                    "inReplyToId": "1548461496287432704",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 15",
                             "type": "calendarDay",
