@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 17:07:19 GMT"
+            "dateModified": "Sun, 17 Jul 2022 22:06:39 GMT"
         },
         "body": {
             "subs": [
@@ -184,7 +184,19 @@
                                                                                                                     "tweetId": "1548715141256069121",
                                                                                                                     "urltweet": "https://twitter.com/chiguire/status/1548715141256069121",
                                                                                                                     "inReplyToId": "1548681372511965184",
-                                                                                                                    "tweetUserName": "chiguire"
+                                                                                                                    "tweetUserName": "chiguire",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "Gente buena <a href=\"https://t.co/tKuOWs7Oqs\">[link]</a>",
+                                                                                                                            "rawText": "Gente buena https://t.co/tKuOWs7Oqs",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Sun, 17 Jul 2022 21:57:36 GMT",
+                                                                                                                            "tweetId": "1548789036730523648",
+                                                                                                                            "urltweet": "https://twitter.com/chiguire/status/1548789036730523648",
+                                                                                                                            "inReplyToId": "1548715141256069121",
+                                                                                                                            "tweetUserName": "chiguire"
+                                                                                                                        }
+                                                                                                                    ]
                                                                                                                 }
                                                                                                             ]
                                                                                                         }
