@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 14:57:11 GMT"
+            "dateModified": "Sun, 17 Jul 2022 17:07:19 GMT"
         },
         "body": {
             "subs": [
@@ -174,7 +174,19 @@
                                                                                                             "tweetId": "1548681372511965184",
                                                                                                             "urltweet": "https://twitter.com/chiguire/status/1548681372511965184",
                                                                                                             "inReplyToId": "1548602356409008129",
-                                                                                                            "tweetUserName": "chiguire"
+                                                                                                            "tweetUserName": "chiguire",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "Hoy fue el día que un cover en ukulele y acordeón me pegó <a href=\"https://t.co/LeGTB8Ft8p\">[link]</a>",
+                                                                                                                    "rawText": "Hoy fue el día que un cover en ukulele y acordeón me pegó https://t.co/LeGTB8Ft8p",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Sun, 17 Jul 2022 17:03:58 GMT",
+                                                                                                                    "tweetId": "1548715141256069121",
+                                                                                                                    "urltweet": "https://twitter.com/chiguire/status/1548715141256069121",
+                                                                                                                    "inReplyToId": "1548681372511965184",
+                                                                                                                    "tweetUserName": "chiguire"
+                                                                                                                }
+                                                                                                            ]
                                                                                                         }
                                                                                                     ]
                                                                                                 }
