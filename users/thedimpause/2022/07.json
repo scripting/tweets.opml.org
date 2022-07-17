@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 05:16:59 GMT"
+            "dateModified": "Sun, 17 Jul 2022 07:18:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "♫ My Top 5 #lastfm artists: The Doors (23), Kevin Morby (12), Ryley Walker (10), James Rhodes (9) &amp; Maurizio Pollini (6) via @tweeklyfm",
+                                    "rawText": "♫ My Top 5 #lastfm artists: The Doors (23), Kevin Morby (12), Ryley Walker (10), James Rhodes (9) &amp; Maurizio Pollini (6) via @tweeklyfm",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 07:06:43 GMT",
+                                    "tweetId": "1548564841861787650",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1548564841861787650",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 16",
                             "type": "calendarDay",
