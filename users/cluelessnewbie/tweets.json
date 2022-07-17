@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 16:19:31 GMT"
+            "dateModified": "Sun, 17 Jul 2022 16:32:32 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,31 @@
                                                             "tweetId": "1548702905246650369",
                                                             "urltweet": "https://twitter.com/cluelessnewbie/status/1548702905246650369",
                                                             "inReplyToId": "1548702903887695874",
-                                                            "tweetUserName": "cluelessnewbie"
+                                                            "tweetUserName": "cluelessnewbie",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "New York",
+                                                                    "rawText": "New York",
+                                                                    "type": "tweet",
+                                                                    "created": "Sun, 17 Jul 2022 16:22:29 GMT",
+                                                                    "tweetId": "1548704702698852359",
+                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1548704702698852359",
+                                                                    "inReplyToId": "1548702905246650369",
+                                                                    "tweetUserName": "cluelessnewbie",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Mississippi",
+                                                                            "rawText": "Mississippi",
+                                                                            "type": "tweet",
+                                                                            "created": "Sun, 17 Jul 2022 16:31:19 GMT",
+                                                                            "tweetId": "1548706926971785216",
+                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1548706926971785216",
+                                                                            "inReplyToId": "1548704702698852359",
+                                                                            "tweetUserName": "cluelessnewbie"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
