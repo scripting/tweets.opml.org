@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 00:41:00 GMT"
+            "dateModified": "Sun, 17 Jul 2022 12:23:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Que habrá sido de este niño? <a href=\"https://t.co/WQRew7NQ77\">[link]</a>",
+                                    "rawText": "Que habrá sido de este niño? https://t.co/WQRew7NQ77",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 12:14:53 GMT",
+                                    "tweetId": "1548642392194121728",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1548642392194121728",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 16",
                             "type": "calendarDay",
