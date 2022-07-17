@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 14:40:40 GMT"
+            "dateModified": "Sun, 17 Jul 2022 16:24:47 GMT"
         },
         "body": {
             "subs": [
@@ -497,7 +497,19 @@
                                     "tweetId": "1547990126864637952",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1547990126864637952",
                                     "inReplyToId": "969291871280291840",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "The Twitter Developer Portal seems broken and unusable in multiple ways.",
+                                            "rawText": "The Twitter Developer Portal seems broken and unusable in multiple ways.",
+                                            "type": "tweet",
+                                            "created": "Sun, 17 Jul 2022 16:20:41 GMT",
+                                            "tweetId": "1548704250015932416",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1548704250015932416",
+                                            "inReplyToId": "1547990126864637952",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Could this also happen to Collective Arts? <a href=\"https://t.co/2tfWydVxRa\">[link]</a>",
