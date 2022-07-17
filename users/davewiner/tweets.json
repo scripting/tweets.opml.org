@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 18:16:54 GMT"
+            "dateModified": "Sun, 17 Jul 2022 19:08:57 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "Tucker Carlson is a Nazi. <a href=\"https://t.co/63zUbJGGKo\">[link]</a>",
+                                    "rawText": "Tucker Carlson is a Nazi. https://t.co/63zUbJGGKo",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 18:59:34 GMT",
+                                    "tweetId": "1548744232923533313",
+                                    "urltweet": "https://twitter.com/davewiner/status/1548744232923533313",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Would Tucker Carlson make a good President?",
+                                            "rawText": "Would Tucker Carlson make a good President?",
+                                            "type": "tweet",
+                                            "created": "Sun, 17 Jul 2022 19:01:35 GMT",
+                                            "tweetId": "1548744743659651072",
+                                            "urltweet": "https://twitter.com/davewiner/status/1548744743659651072",
+                                            "inReplyToId": "1548744232923533313",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "And Dems are weak and scared and losing us our country. <a href=\"https://t.co/6BpcVGQLiQ\">[link]</a>",
                                     "rawText": "And Dems are weak and scared and losing us our country. https://t.co/6BpcVGQLiQ",
