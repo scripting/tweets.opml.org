@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 20:27:02 GMT"
+            "dateModified": "Sun, 17 Jul 2022 20:40:03 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 17 Jul 2022 20:26:52 GMT",
                                     "tweetId": "1548766202780073985",
                                     "urltweet": "https://twitter.com/davewiner/status/1548766202780073985",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Comes to Republican corruption.",
+                                            "rawText": "Comes to Republican corruption.",
+                                            "type": "tweet",
+                                            "created": "Sun, 17 Jul 2022 20:27:16 GMT",
+                                            "tweetId": "1548766303229550594",
+                                            "urltweet": "https://twitter.com/davewiner/status/1548766303229550594",
+                                            "inReplyToId": "1548766202780073985",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@sixteenthknick me too. i like the team we have.",
