@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 13:43:36 GMT"
+            "dateModified": "Sun, 17 Jul 2022 14:48:40 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Sun, 17 Jul 2022 13:36:32 GMT",
                                     "tweetId": "1548662941012090881",
                                     "urltweet": "https://twitter.com/davewiner/status/1548662941012090881",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "A country isn't great because it says it's great. \n\nA great country does what the Bill of Rights says, but for every citizen, and not for fictitious citizens like corporations.",
+                                            "rawText": "A country isn't great because it says it's great. \n\nA great country does what the Bill of Rights says, but for every citizen, and not for fictitious citizens like corporations.",
+                                            "type": "tweet",
+                                            "created": "Sun, 17 Jul 2022 14:39:30 GMT",
+                                            "tweetId": "1548678785683292161",
+                                            "urltweet": "https://twitter.com/davewiner/status/1548678785683292161",
+                                            "inReplyToId": "1548662941012090881",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "And the people who make the rules have to be great too, net-net. Not everyone is great, of course, but the checks and balances apply and the system is set up so that it lives up to the rules in the Bill of Rights.",
+                                                    "rawText": "And the people who make the rules have to be great too, net-net. Not everyone is great, of course, but the checks and balances apply and the system is set up so that it lives up to the rules in the Bill of Rights.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 17 Jul 2022 14:39:30 GMT",
+                                                    "tweetId": "1548678786689925120",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1548678786689925120",
+                                                    "inReplyToId": "1548678785683292161",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "NPR this morning did the ultimate unforgivable \"both sides\" horse-race-manship -- they labeled people who support Roe v Wade as extremists and wondered if such extremism will cause the Democrats to lose in November. The reporter and interviewer was a young black woman.",
