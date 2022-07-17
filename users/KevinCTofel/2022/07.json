@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 00:38:30 GMT"
+            "dateModified": "Sun, 17 Jul 2022 07:34:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: 12th gen Intel Chromebook spec showdown <a href=\"https://t.co/7bLcIuKj7E\">[link]</a> https://t.co/zKqEMTo9hZ",
+                                    "rawText": "ICYMI: 12th gen Intel Chromebook spec showdown https://t.co/7bLcIuKj7E https://t.co/zKqEMTo9hZ",
+                                    "type": "tweet",
+                                    "created": "Sun, 17 Jul 2022 07:29:03 GMT",
+                                    "tweetId": "1548570460970967041",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1548570460970967041",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 16",
                             "type": "calendarDay",
