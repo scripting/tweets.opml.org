@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 00:21:44 GMT"
+            "dateModified": "Sun, 17 Jul 2022 00:47:45 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,19 @@
                                             "tweetId": "1548461933078073344",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1548461933078073344",
                                             "inReplyToId": "1548451391894482946",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Amazing backdrop for an Ultimate game. <a href=\"https://t.co/eRLaQmFwtG\">[link]</a>",
+                                                    "rawText": "Amazing backdrop for an Ultimate game. https://t.co/eRLaQmFwtG",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 17 Jul 2022 00:43:09 GMT",
+                                                    "tweetId": "1548468311897231360",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1548468311897231360",
+                                                    "inReplyToId": "1548461933078073344",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
