@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 14:53:01 GMT"
+            "dateModified": "Mon, 18 Jul 2022 15:19:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,51 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "# Colors",
+                                    "rawText": "# Colors",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 15:17:58 GMT",
+                                    "tweetId": "1549050857106325504",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549050857106325504",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "Red",
+                                            "rawText": "Red",
+                                            "type": "tweet",
+                                            "created": "Mon, 18 Jul 2022 15:17:59 GMT",
+                                            "tweetId": "1549050858058416129",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549050858058416129",
+                                            "inReplyToId": "1549050857106325504",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "Green",
+                                                    "rawText": "Green",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 18 Jul 2022 15:17:59 GMT",
+                                                    "tweetId": "1549050859031384064",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549050859031384064",
+                                                    "inReplyToId": "1549050858058416129",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Blue",
+                                                            "rawText": "Blue",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 18 Jul 2022 15:17:59 GMT",
+                                                            "tweetId": "1549050860063318017",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549050860063318017",
+                                                            "inReplyToId": "1549050859031384064",
+                                                            "tweetUserName": "cluelessnewbie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# A thread",
                                     "rawText": "# A thread",
