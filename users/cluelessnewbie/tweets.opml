@@ -6,12 +6,41 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Mon, 18 Jul 2022 16:24:07 GMT</dateModified>
+		<dateModified>Mon, 18 Jul 2022 16:37:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2022" type="calendarMonth" name="july2022" >
 			<outline text="July 18" type="calendarDay" name="18" >
-				<outline text="# I have a nice story for you..." rawText="# I have a nice story for you..." type="tweet" created="Mon, 18 Jul 2022 16:13:18 GMT" tweetId="1549064778429018115" urltweet="https://twitter.com/cluelessnewbie/status/1549064778429018115" inReplyToId="" tweetUserName="cluelessnewbie" >
+				<outline text="# A bunch of Markdown" rawText="# A bunch of Markdown" type="tweet" created="Mon, 18 Jul 2022 16:29:12 GMT" tweetId="1549068783066791937" urltweet="https://twitter.com/cluelessnewbie/status/1549068783066791937" inReplyToId="" tweetUserName="cluelessnewbie" >
+					<outline text="Here's a numbered list" rawText="Here's a numbered list" type="tweet" created="Mon, 18 Jul 2022 16:29:13 GMT" tweetId="1549068784077377539" urltweet="https://twitter.com/cluelessnewbie/status/1549068784077377539" inReplyToId="1549068783066791937" tweetUserName="cluelessnewbie" >
+						<outline text="1. red" rawText="1. red" type="tweet" created="Mon, 18 Jul 2022 16:29:13 GMT" tweetId="1549068785038069761" urltweet="https://twitter.com/cluelessnewbie/status/1549068785038069761" inReplyToId="1549068784077377539" tweetUserName="cluelessnewbie" >
+							<outline text="2. green" rawText="2. green" type="tweet" created="Mon, 18 Jul 2022 16:29:13 GMT" tweetId="1549068785998434305" urltweet="https://twitter.com/cluelessnewbie/status/1549068785998434305" inReplyToId="1549068785038069761" tweetUserName="cluelessnewbie" >
+								<outline text="3. blue" rawText="3. blue" type="tweet" created="Mon, 18 Jul 2022 16:29:13 GMT" tweetId="1549068787168583680" urltweet="https://twitter.com/cluelessnewbie/status/1549068787168583680" inReplyToId="1549068785998434305" tweetUserName="cluelessnewbie" >
+									<outline text="Here's a bulleted list" rawText="Here's a bulleted list" type="tweet" created="Mon, 18 Jul 2022 16:29:14 GMT" tweetId="1549068788292673536" urltweet="https://twitter.com/cluelessnewbie/status/1549068788292673536" inReplyToId="1549068787168583680" tweetUserName="cluelessnewbie" >
+										<outline text="* Oregon" rawText="* Oregon" type="tweet" created="Mon, 18 Jul 2022 16:29:14 GMT" tweetId="1549068789513277441" urltweet="https://twitter.com/cluelessnewbie/status/1549068789513277441" inReplyToId="1549068788292673536" tweetUserName="cluelessnewbie" >
+											<outline text="* Philadelphia" rawText="* Philadelphia" type="tweet" created="Mon, 18 Jul 2022 16:29:14 GMT" tweetId="1549068790524252160" urltweet="https://twitter.com/cluelessnewbie/status/1549068790524252160" inReplyToId="1549068789513277441" tweetUserName="cluelessnewbie" >
+												<outline text="* Maine" rawText="* Maine" type="tweet" created="Mon, 18 Jul 2022 16:29:14 GMT" tweetId="1549068791522283521" urltweet="https://twitter.com/cluelessnewbie/status/1549068791522283521" inReplyToId="1549068790524252160" tweetUserName="cluelessnewbie" >
+													<outline text="I'd now like to put a [link]([title](&lt;a href=&quot;https://t.co/qOFdQu5tUP&quot;&gt;[link]&lt;/a&gt;)) in a tweet using Markdown." rawText="I'd now like to put a [link]([title](https://t.co/qOFdQu5tUP)) in a tweet using Markdown." type="tweet" created="Mon, 18 Jul 2022 16:29:15 GMT" tweetId="1549068792646406145" urltweet="https://twitter.com/cluelessnewbie/status/1549068792646406145" inReplyToId="1549068791522283521" tweetUserName="cluelessnewbie" >
+														<outline text="**Sorry!**" rawText="**Sorry!**" type="tweet" created="Mon, 18 Jul 2022 16:29:15 GMT" tweetId="1549068793908846592" urltweet="https://twitter.com/cluelessnewbie/status/1549068793908846592" inReplyToId="1549068792646406145" tweetUserName="cluelessnewbie" >
+															<outline text="One thing I expect a Markdown processor to do for me is to evaluate emoji short codes." rawText="One thing I expect a Markdown processor to do for me is to evaluate emoji short codes." type="tweet" created="Mon, 18 Jul 2022 16:29:15 GMT" tweetId="1549068794999410688" urltweet="https://twitter.com/cluelessnewbie/status/1549068794999410688" inReplyToId="1549068793908846592" tweetUserName="cluelessnewbie" >
+																<outline text="Things like :hello: -- like this -- :satisfied: :purple_heart: :sparkling_heart: :point_up: :trollface:" rawText="Things like :hello: -- like this -- :satisfied: :purple_heart: :sparkling_heart: :point_up: :trollface:" type="tweet" created="Mon, 18 Jul 2022 16:29:15 GMT" tweetId="1549068796127633409" urltweet="https://twitter.com/cluelessnewbie/status/1549068796127633409" inReplyToId="1549068794999410688" tweetUserName="cluelessnewbie" >
+																	<outline text="Observation -- it's weird to type Markdown knowing you will not be able to edit the result, because tweets are not editable." rawText="Observation -- it's weird to type Markdown knowing you will not be able to edit the result, because tweets are not editable." type="tweet" created="Mon, 18 Jul 2022 16:29:16 GMT" tweetId="1549068797331378176" urltweet="https://twitter.com/cluelessnewbie/status/1549068797331378176" inReplyToId="1549068796127633409" tweetUserName="cluelessnewbie" >
+																		<outline text="But I do think this is interesting. The idea of writing a thread in Twitter that can then be read in a nice format in a feed reader. That's the point. :smile:" rawText="But I do think this is interesting. The idea of writing a thread in Twitter that can then be read in a nice format in a feed reader. That's the point. :smile:" type="tweet" created="Mon, 18 Jul 2022 16:29:16 GMT" tweetId="1549068798509993984" urltweet="https://twitter.com/cluelessnewbie/status/1549068798509993984" inReplyToId="1549068797331378176" tweetUserName="cluelessnewbie" />
+																		</outline>
+																	</outline>
+																</outline>
+															</outline>
+														</outline>
+													</outline>
+												</outline>
+											</outline>
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				<outline text="# I have a nice story for you..." rawText="# I have a nice story for you..." type="tweet" created="Mon, 18 Jul 2022 16:13:18 GMT" tweetId="1549064778429018115" urltweet="https://twitter.com/cluelessnewbie/status/1549064778429018115" tweetUserName="cluelessnewbie" >
 					<outline text="Let me explain something." rawText="Let me explain something." type="tweet" created="Mon, 18 Jul 2022 16:13:18 GMT" tweetId="1549064779590840321" urltweet="https://twitter.com/cluelessnewbie/status/1549064779590840321" inReplyToId="1549064778429018115" tweetUserName="cluelessnewbie" >
 						<outline text="This should be in its own paragraph." rawText="This should be in its own paragraph." type="tweet" created="Mon, 18 Jul 2022 16:13:18 GMT" tweetId="1549064780706508800" urltweet="https://twitter.com/cluelessnewbie/status/1549064780706508800" inReplyToId="1549064779590840321" tweetUserName="cluelessnewbie" >
 							<outline text="That is if things are working properly." rawText="That is if things are working properly." type="tweet" created="Mon, 18 Jul 2022 16:13:18 GMT" tweetId="1549064781847375872" urltweet="https://twitter.com/cluelessnewbie/status/1549064781847375872" inReplyToId="1549064780706508800" tweetUserName="cluelessnewbie" >
