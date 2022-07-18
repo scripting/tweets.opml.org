@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 07:18:41 GMT"
+            "dateModified": "Mon, 18 Jul 2022 16:55:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Tripiti Cave – <a href=\"https://t.co/WNkWaeuPH3\">[link]</a> https://t.co/AMwhxTXeyI",
+                                    "rawText": "Tripiti Cave – https://t.co/WNkWaeuPH3 https://t.co/AMwhxTXeyI",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 16:44:16 GMT",
+                                    "tweetId": "1549072573618483200",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1549072573618483200",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
