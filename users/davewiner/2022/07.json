@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 21:45:07 GMT"
+            "dateModified": "Mon, 18 Jul 2022 12:04:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "“I love programming but hate the industry. Can anyone relate?” <a href=\"https://t.co/fUPawlx8fX\">[link]</a>",
+                                    "rawText": "“I love programming but hate the industry. Can anyone relate?” https://t.co/fUPawlx8fX",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 12:02:03 GMT",
+                                    "tweetId": "1549001551867518976",
+                                    "urltweet": "https://twitter.com/davewiner/status/1549001551867518976",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
