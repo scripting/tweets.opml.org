@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 02:32:26 GMT"
+            "dateModified": "Mon, 18 Jul 2022 11:39:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Hamburg on Wednesday will be hotter than Minnesota today, except that Minnesota has infrastructure for the heat <a href=\"https://t.co/NignARptzk\">[link]</a>",
+                                    "rawText": "Hamburg on Wednesday will be hotter than Minnesota today, except that Minnesota has infrastructure for the heat https://t.co/NignARptzk",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 11:31:49 GMT",
+                                    "tweetId": "1548993943655723008",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1548993943655723008",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
