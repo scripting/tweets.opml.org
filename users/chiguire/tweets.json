@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 22:06:39 GMT"
+            "dateModified": "Mon, 18 Jul 2022 06:21:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "&gt; If you can’t see my mirrors I can’t see you\n\n&gt; No te pegues que no es bolero",
+                                    "rawText": "&gt; If you can’t see my mirrors I can’t see you\n\n&gt; No te pegues que no es bolero",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 06:17:16 GMT",
+                                    "tweetId": "1548914783486885888",
+                                    "urltweet": "https://twitter.com/chiguire/status/1548914783486885888",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 16",
                             "type": "calendarDay",
