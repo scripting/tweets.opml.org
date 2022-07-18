@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 16:24:07 GMT"
+            "dateModified": "Mon, 18 Jul 2022 16:37:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,183 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "# A bunch of Markdown",
+                                    "rawText": "# A bunch of Markdown",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 16:29:12 GMT",
+                                    "tweetId": "1549068783066791937",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549068783066791937",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "Here's a numbered list",
+                                            "rawText": "Here's a numbered list",
+                                            "type": "tweet",
+                                            "created": "Mon, 18 Jul 2022 16:29:13 GMT",
+                                            "tweetId": "1549068784077377539",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549068784077377539",
+                                            "inReplyToId": "1549068783066791937",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "1. red",
+                                                    "rawText": "1. red",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 18 Jul 2022 16:29:13 GMT",
+                                                    "tweetId": "1549068785038069761",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549068785038069761",
+                                                    "inReplyToId": "1549068784077377539",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "2. green",
+                                                            "rawText": "2. green",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 18 Jul 2022 16:29:13 GMT",
+                                                            "tweetId": "1549068785998434305",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549068785998434305",
+                                                            "inReplyToId": "1549068785038069761",
+                                                            "tweetUserName": "cluelessnewbie",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "3. blue",
+                                                                    "rawText": "3. blue",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 18 Jul 2022 16:29:13 GMT",
+                                                                    "tweetId": "1549068787168583680",
+                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549068787168583680",
+                                                                    "inReplyToId": "1549068785998434305",
+                                                                    "tweetUserName": "cluelessnewbie",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Here's a bulleted list",
+                                                                            "rawText": "Here's a bulleted list",
+                                                                            "type": "tweet",
+                                                                            "created": "Mon, 18 Jul 2022 16:29:14 GMT",
+                                                                            "tweetId": "1549068788292673536",
+                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549068788292673536",
+                                                                            "inReplyToId": "1549068787168583680",
+                                                                            "tweetUserName": "cluelessnewbie",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "* Oregon",
+                                                                                    "rawText": "* Oregon",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Mon, 18 Jul 2022 16:29:14 GMT",
+                                                                                    "tweetId": "1549068789513277441",
+                                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549068789513277441",
+                                                                                    "inReplyToId": "1549068788292673536",
+                                                                                    "tweetUserName": "cluelessnewbie",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "* Philadelphia",
+                                                                                            "rawText": "* Philadelphia",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Mon, 18 Jul 2022 16:29:14 GMT",
+                                                                                            "tweetId": "1549068790524252160",
+                                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549068790524252160",
+                                                                                            "inReplyToId": "1549068789513277441",
+                                                                                            "tweetUserName": "cluelessnewbie",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "* Maine",
+                                                                                                    "rawText": "* Maine",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Mon, 18 Jul 2022 16:29:14 GMT",
+                                                                                                    "tweetId": "1549068791522283521",
+                                                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549068791522283521",
+                                                                                                    "inReplyToId": "1549068790524252160",
+                                                                                                    "tweetUserName": "cluelessnewbie",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "I'd now like to put a [link]([title](<a href=\"https://t.co/qOFdQu5tUP\">[link]</a>)) in a tweet using Markdown.",
+                                                                                                            "rawText": "I'd now like to put a [link]([title](https://t.co/qOFdQu5tUP)) in a tweet using Markdown.",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Mon, 18 Jul 2022 16:29:15 GMT",
+                                                                                                            "tweetId": "1549068792646406145",
+                                                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549068792646406145",
+                                                                                                            "inReplyToId": "1549068791522283521",
+                                                                                                            "tweetUserName": "cluelessnewbie",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "**Sorry!**",
+                                                                                                                    "rawText": "**Sorry!**",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Mon, 18 Jul 2022 16:29:15 GMT",
+                                                                                                                    "tweetId": "1549068793908846592",
+                                                                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549068793908846592",
+                                                                                                                    "inReplyToId": "1549068792646406145",
+                                                                                                                    "tweetUserName": "cluelessnewbie",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "One thing I expect a Markdown processor to do for me is to evaluate emoji short codes.",
+                                                                                                                            "rawText": "One thing I expect a Markdown processor to do for me is to evaluate emoji short codes.",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Mon, 18 Jul 2022 16:29:15 GMT",
+                                                                                                                            "tweetId": "1549068794999410688",
+                                                                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549068794999410688",
+                                                                                                                            "inReplyToId": "1549068793908846592",
+                                                                                                                            "tweetUserName": "cluelessnewbie",
+                                                                                                                            "subs": [
+                                                                                                                                {
+                                                                                                                                    "text": "Things like :hello: -- like this -- :satisfied: :purple_heart: :sparkling_heart: :point_up: :trollface:",
+                                                                                                                                    "rawText": "Things like :hello: -- like this -- :satisfied: :purple_heart: :sparkling_heart: :point_up: :trollface:",
+                                                                                                                                    "type": "tweet",
+                                                                                                                                    "created": "Mon, 18 Jul 2022 16:29:15 GMT",
+                                                                                                                                    "tweetId": "1549068796127633409",
+                                                                                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549068796127633409",
+                                                                                                                                    "inReplyToId": "1549068794999410688",
+                                                                                                                                    "tweetUserName": "cluelessnewbie",
+                                                                                                                                    "subs": [
+                                                                                                                                        {
+                                                                                                                                            "text": "Observation -- it's weird to type Markdown knowing you will not be able to edit the result, because tweets are not editable.",
+                                                                                                                                            "rawText": "Observation -- it's weird to type Markdown knowing you will not be able to edit the result, because tweets are not editable.",
+                                                                                                                                            "type": "tweet",
+                                                                                                                                            "created": "Mon, 18 Jul 2022 16:29:16 GMT",
+                                                                                                                                            "tweetId": "1549068797331378176",
+                                                                                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549068797331378176",
+                                                                                                                                            "inReplyToId": "1549068796127633409",
+                                                                                                                                            "tweetUserName": "cluelessnewbie",
+                                                                                                                                            "subs": [
+                                                                                                                                                {
+                                                                                                                                                    "text": "But I do think this is interesting. The idea of writing a thread in Twitter that can then be read in a nice format in a feed reader. That's the point. :smile:",
+                                                                                                                                                    "rawText": "But I do think this is interesting. The idea of writing a thread in Twitter that can then be read in a nice format in a feed reader. That's the point. :smile:",
+                                                                                                                                                    "type": "tweet",
+                                                                                                                                                    "created": "Mon, 18 Jul 2022 16:29:16 GMT",
+                                                                                                                                                    "tweetId": "1549068798509993984",
+                                                                                                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549068798509993984",
+                                                                                                                                                    "inReplyToId": "1549068797331378176",
+                                                                                                                                                    "tweetUserName": "cluelessnewbie"
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# I have a nice story for you...",
                                     "rawText": "# I have a nice story for you...",
