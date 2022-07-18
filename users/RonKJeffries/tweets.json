@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 03:59:32 GMT"
+            "dateModified": "Mon, 18 Jul 2022 14:11:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@UniverseIce Night mode is not something I care about. They all look somewhat fake because they involve so much processing.",
+                                    "rawText": "@UniverseIce Night mode is not something I care about. They all look somewhat fake because they involve so much processing.",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 14:07:08 GMT",
+                                    "tweetId": "1549033028885786632",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1549033028885786632",
+                                    "inReplyToId": "1549030796471992320",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
