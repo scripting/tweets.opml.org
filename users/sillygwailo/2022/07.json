@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 01:31:22 GMT"
+            "dateModified": "Mon, 18 Jul 2022 18:26:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "One of the best experiences I’ve ever had playing video games was playing Overcooked via couch co-op. <a href=\"https://t.co/MN1sV5dzLp\">[link]</a>",
+                                    "rawText": "One of the best experiences I’ve ever had playing video games was playing Overcooked via couch co-op. https://t.co/MN1sV5dzLp",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 18:21:34 GMT",
+                                    "tweetId": "1549097060003188738",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1549097060003188738",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "That experience informed what I was truly looking for in a romantic partner, like, y’know, whatever.",
+                                            "rawText": "That experience informed what I was truly looking for in a romantic partner, like, y’know, whatever.",
+                                            "type": "tweet",
+                                            "created": "Mon, 18 Jul 2022 18:21:35 GMT",
+                                            "tweetId": "1549097062024740865",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1549097062024740865",
+                                            "inReplyToId": "1549097060003188738",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
