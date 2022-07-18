@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 18:23:30 GMT"
+            "dateModified": "Mon, 18 Jul 2022 20:20:37 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "Evergreen tweet. <a href=\"https://t.co/onP7Fob4Fq\">[link]</a>",
+                                    "rawText": "Evergreen tweet. https://t.co/onP7Fob4Fq",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 20:16:46 GMT",
+                                    "tweetId": "1549126049933533185",
+                                    "urltweet": "https://twitter.com/yudel/status/1549126049933533185",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@Lexaphus Okay. I’ll try to dig it up. Really, @sefaria should host and index it for easily retrieval by topic.",
                                     "rawText": "@Lexaphus Okay. I’ll try to dig it up. Really, @sefaria should host and index it for easily retrieval by topic.",
