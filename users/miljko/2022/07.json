@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 18:24:54 GMT"
+            "dateModified": "Mon, 18 Jul 2022 18:03:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Survey, you say? I have a better one for you <a href=\"https://t.co/uWOZsi7Yh4\">[link]</a> https://t.co/JIXrt3jaLW https://t.co/l46VuXNeMt",
+                                    "rawText": "Survey, you say? I have a better one for you https://t.co/uWOZsi7Yh4 https://t.co/JIXrt3jaLW https://t.co/l46VuXNeMt",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 17:58:50 GMT",
+                                    "tweetId": "1549091340130177024",
+                                    "urltweet": "https://twitter.com/miljko/status/1549091340130177024",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
