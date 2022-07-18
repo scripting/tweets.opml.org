@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 12:30:06 GMT"
+            "dateModified": "Mon, 18 Jul 2022 12:43:07 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "A Tale of Two Pools. <a href=\"https://t.co/rqcE37KfCI\">[link]</a>",
+                                    "rawText": "A Tale of Two Pools. https://t.co/rqcE37KfCI",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 12:32:28 GMT",
+                                    "tweetId": "1549009206136774656",
+                                    "urltweet": "https://twitter.com/davewiner/status/1549009206136774656",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@zeldman — The first and last time I went to Disney World we got stuck on the “it’s a small world” ride for a couple of hours. And they didn’t turn off the damn dolls singing the damn song.",
+                                            "rawText": "@zeldman — The first and last time I went to Disney World we got stuck on the “it’s a small world” ride for a couple of hours. And they didn’t turn off the damn dolls singing the damn song.",
+                                            "type": "tweet",
+                                            "created": "Mon, 18 Jul 2022 12:34:13 GMT",
+                                            "tweetId": "1549009647193018370",
+                                            "urltweet": "https://twitter.com/davewiner/status/1549009647193018370",
+                                            "inReplyToId": "1549009206136774656",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "They said they were sorry and they gave us a full day pass to all the rides we wanted, but that was like more torture than we could deal with.",
+                                                    "rawText": "They said they were sorry and they gave us a full day pass to all the rides we wanted, but that was like more torture than we could deal with.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 18 Jul 2022 12:34:14 GMT",
+                                                    "tweetId": "1549009648690274304",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1549009648690274304",
+                                                    "inReplyToId": "1549009647193018370",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@RepJeffries What specifically will you do?",
                                     "rawText": "@RepJeffries What specifically will you do?",
