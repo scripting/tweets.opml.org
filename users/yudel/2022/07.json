@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 03:38:31 GMT"
+            "dateModified": "Mon, 18 Jul 2022 05:22:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,35 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@joshtpm To quote @bobdylan: “Gonna raise me an army, some tough sons of bitches /\n I'll recruit my army from the orphanages.” <a href=\"https://t.co/nuatGJUzJj\">[link]</a>",
+                                    "rawText": "@joshtpm To quote @bobdylan: “Gonna raise me an army, some tough sons of bitches /\n I'll recruit my army from the orphanages.” https://t.co/nuatGJUzJj",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 05:15:53 GMT",
+                                    "tweetId": "1548899336125386752",
+                                    "urltweet": "https://twitter.com/yudel/status/1548899336125386752",
+                                    "inReplyToId": "1548897084153241600",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@joshtpm @bobdylan Never saw that video before. Classic Dylan footage from all the eras artfully recut in sync with the music.",
+                                            "rawText": "@joshtpm @bobdylan Never saw that video before. Classic Dylan footage from all the eras artfully recut in sync with the music.",
+                                            "type": "tweet",
+                                            "created": "Mon, 18 Jul 2022 05:20:49 GMT",
+                                            "tweetId": "1548900577731543041",
+                                            "urltweet": "https://twitter.com/yudel/status/1548900577731543041",
+                                            "inReplyToId": "1548899336125386752",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
