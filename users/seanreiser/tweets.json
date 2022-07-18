@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 13 Jul 2022 18:28:21 GMT"
+            "dateModified": "Mon, 18 Jul 2022 01:04:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "An Open Letter to Congresswoman  Ocasio-Cortez -  <a href=\"https://t.co/658njdlx8b\">[link]</a>   cc:@AOC  @RepAOC",
+                                    "rawText": "An Open Letter to Congresswoman  Ocasio-Cortez -  https://t.co/658njdlx8b   cc:@AOC  @RepAOC",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 00:58:22 GMT",
+                                    "tweetId": "1548834529183518731",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1548834529183518731",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 13",
                             "type": "calendarDay",
