@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 22:09:24 GMT"
+            "dateModified": "Mon, 18 Jul 2022 09:52:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "En mi empresa me han dicho que me pagan trabajar en otro país de la UE durante 12 semanas (3 semanas en 4 países o 4 semanas en 3 países). A dónde voy?",
+                                    "rawText": "En mi empresa me han dicho que me pagan trabajar en otro país de la UE durante 12 semanas (3 semanas en 4 países o 4 semanas en 3 países). A dónde voy?",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 09:50:06 GMT",
+                                    "tweetId": "1548968342928621570",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1548968342928621570",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
