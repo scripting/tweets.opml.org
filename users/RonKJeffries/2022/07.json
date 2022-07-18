@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 03:46:31 GMT"
+            "dateModified": "Mon, 18 Jul 2022 03:59:32 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "The Starbucks at Grand &amp; Elm in Arroyo Grande, CA needs attention, broken door/windows for WEEKS. \n<a href=\"https://t.co/yCckUEpOl8\">[link]</a>\nhttps://t.co/CcXxylhvoD\n@Starbucks",
+                                    "rawText": "The Starbucks at Grand &amp; Elm in Arroyo Grande, CA needs attention, broken door/windows for WEEKS. \nhttps://t.co/yCckUEpOl8\nhttps://t.co/CcXxylhvoD\n@Starbucks",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 03:55:16 GMT",
+                                    "tweetId": "1548879047957983233",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1548879047957983233",
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "Howard Schultz must be very proud. For the win, the trash can was overflowing when I visited.",
+                                            "rawText": "Howard Schultz must be very proud. For the win, the trash can was overflowing when I visited.",
+                                            "type": "tweet",
+                                            "created": "Mon, 18 Jul 2022 03:57:36 GMT",
+                                            "tweetId": "1548879637236748288",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1548879637236748288",
+                                            "inReplyToId": "1548879047957983233",
+                                            "tweetUserName": "RonKJeffries"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Today I learned. <a href=\"https://t.co/ErmDPFMM9G\">[link]</a>",
                                     "rawText": "Today I learned. https://t.co/ErmDPFMM9G",
