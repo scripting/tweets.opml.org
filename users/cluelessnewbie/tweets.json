@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 16:11:06 GMT"
+            "dateModified": "Mon, 18 Jul 2022 16:24:07 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,75 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "# I have a nice story for you...",
+                                    "rawText": "# I have a nice story for you...",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 16:13:18 GMT",
+                                    "tweetId": "1549064778429018115",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549064778429018115",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "Let me explain something.",
+                                            "rawText": "Let me explain something.",
+                                            "type": "tweet",
+                                            "created": "Mon, 18 Jul 2022 16:13:18 GMT",
+                                            "tweetId": "1549064779590840321",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549064779590840321",
+                                            "inReplyToId": "1549064778429018115",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "This should be in its own paragraph.",
+                                                    "rawText": "This should be in its own paragraph.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 18 Jul 2022 16:13:18 GMT",
+                                                    "tweetId": "1549064780706508800",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549064780706508800",
+                                                    "inReplyToId": "1549064779590840321",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "That is if things are working properly.",
+                                                            "rawText": "That is if things are working properly.",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 18 Jul 2022 16:13:18 GMT",
+                                                            "tweetId": "1549064781847375872",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549064781847375872",
+                                                            "inReplyToId": "1549064780706508800",
+                                                            "tweetUserName": "cluelessnewbie",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "If not, I must have missed something obvious.",
+                                                                    "rawText": "If not, I must have missed something obvious.",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 18 Jul 2022 16:13:19 GMT",
+                                                                    "tweetId": "1549064782845730816",
+                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549064782845730816",
+                                                                    "inReplyToId": "1549064781847375872",
+                                                                    "tweetUserName": "cluelessnewbie",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": ":smile:",
+                                                                            "rawText": ":smile:",
+                                                                            "type": "tweet",
+                                                                            "created": "Mon, 18 Jul 2022 16:13:19 GMT",
+                                                                            "tweetId": "1549064783902560256",
+                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549064783902560256",
+                                                                            "inReplyToId": "1549064782845730816",
+                                                                            "tweetUserName": "cluelessnewbie"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Waiting for other people to",
                                     "rawText": "Waiting for other people to",
