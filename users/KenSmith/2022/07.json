@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 23:16:58 GMT"
+            "dateModified": "Mon, 18 Jul 2022 22:01:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Crop dusters are out today in west-central Indiana. <a href=\"https://t.co/3XdSeSsgnd\">[link]</a>",
+                                    "rawText": "Crop dusters are out today in west-central Indiana. https://t.co/3XdSeSsgnd",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 21:51:20 GMT",
+                                    "tweetId": "1549149848712216576",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1549149848712216576",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
