@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 17:04:24 GMT"
+            "dateModified": "Mon, 18 Jul 2022 17:43:27 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,31 @@
                                             "tweetId": "1549074992259686403",
                                             "urltweet": "https://twitter.com/ScottHansonDE/status/1549074992259686403",
                                             "inReplyToId": "1549056372070707200",
-                                            "tweetUserName": "ScottHansonDE"
+                                            "tweetUserName": "ScottHansonDE",
+                                            "subs": [
+                                                {
+                                                    "text": "Second leg (28/36 km): town lakeshore, away from the lake for some prairie, then smoothies <a href=\"https://t.co/0gtfKiedHS\">[link]</a>",
+                                                    "rawText": "Second leg (28/36 km): town lakeshore, away from the lake for some prairie, then smoothies https://t.co/0gtfKiedHS",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 18 Jul 2022 17:34:27 GMT",
+                                                    "tweetId": "1549085203766730752",
+                                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1549085203766730752",
+                                                    "inReplyToId": "1549074992259686403",
+                                                    "tweetUserName": "ScottHansonDE",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Final leg (36/36 km): beach, cornfields, country Swedish cemetery, and home <a href=\"https://t.co/DhG4N3dtjU\">[link]</a>",
+                                                            "rawText": "Final leg (36/36 km): beach, cornfields, country Swedish cemetery, and home https://t.co/DhG4N3dtjU",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 18 Jul 2022 17:41:06 GMT",
+                                                            "tweetId": "1549086876702687233",
+                                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1549086876702687233",
+                                                            "inReplyToId": "1549085203766730752",
+                                                            "tweetUserName": "ScottHansonDE"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
