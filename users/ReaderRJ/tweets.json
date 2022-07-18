@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 09 Jul 2022 16:28:11 GMT"
+            "dateModified": "Mon, 18 Jul 2022 22:07:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": ". @Tesco Stop Replacing People by Machines #BringBackTescoStaff - Sign the Petition! <a href=\"https://t.co/eSfqfF5bV9\">[link]</a> via @UKChange",
+                                    "rawText": ". @Tesco Stop Replacing People by Machines #BringBackTescoStaff - Sign the Petition! https://t.co/eSfqfF5bV9 via @UKChange",
+                                    "type": "tweet",
+                                    "created": "Mon, 18 Jul 2022 21:55:43 GMT",
+                                    "tweetId": "1549150951327555596",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1549150951327555596",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 9",
                             "type": "calendarDay",
