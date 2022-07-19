@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 00:04:35 GMT"
+            "dateModified": "Tue, 19 Jul 2022 10:16:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Save School Librarians - Sign the Petition! <a href=\"https://t.co/T3pbxzvGuf\">[link]</a> via @UKChange",
+                                    "rawText": "Save School Librarians - Sign the Petition! https://t.co/T3pbxzvGuf via @UKChange",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Jul 2022 10:13:08 GMT",
+                                    "tweetId": "1549336528652042241",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1549336528652042241",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 18",
                             "type": "calendarDay",
