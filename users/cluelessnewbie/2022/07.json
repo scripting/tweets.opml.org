@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 17:06:12 GMT"
+            "dateModified": "Tue, 19 Jul 2022 17:29:49 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,63 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "# Places to eat",
+                                    "rawText": "# Places to eat",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Jul 2022 17:22:11 GMT",
+                                    "tweetId": "1549444501571338240",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549444501571338240",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "Museum",
+                                            "rawText": "Museum",
+                                            "type": "tweet",
+                                            "created": "Tue, 19 Jul 2022 17:22:11 GMT",
+                                            "tweetId": "1549444502410219523",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549444502410219523",
+                                            "inReplyToId": "1549444501571338240",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "Baseball game",
+                                                    "rawText": "Baseball game",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 19 Jul 2022 17:22:11 GMT",
+                                                    "tweetId": "1549444503286816768",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549444503286816768",
+                                                    "inReplyToId": "1549444502410219523",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Wedding",
+                                                            "rawText": "Wedding",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 19 Jul 2022 17:22:11 GMT",
+                                                            "tweetId": "1549444504163336192",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549444504163336192",
+                                                            "inReplyToId": "1549444503286816768",
+                                                            "tweetUserName": "cluelessnewbie",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Cafeteria",
+                                                                    "rawText": "Cafeteria",
+                                                                    "type": "tweet",
+                                                                    "created": "Tue, 19 Jul 2022 17:22:11 GMT",
+                                                                    "tweetId": "1549444505031548933",
+                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549444505031548933",
+                                                                    "inReplyToId": "1549444504163336192",
+                                                                    "tweetUserName": "cluelessnewbie"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@jeffmilner what app are you reading it in?",
                                     "rawText": "@jeffmilner what app are you reading it in?",
