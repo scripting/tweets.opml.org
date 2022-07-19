@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 15:14:47 GMT"
+            "dateModified": "Tue, 19 Jul 2022 06:24:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@Foone @MakeItAQuote but death generator 😍",
+                                    "rawText": "@Foone @MakeItAQuote but death generator 😍",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Jul 2022 06:23:41 GMT",
+                                    "tweetId": "1549278784448303105",
+                                    "urltweet": "https://twitter.com/chiguire/status/1549278784448303105",
+                                    "inReplyToId": "1549275970850340864",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 18",
                             "type": "calendarDay",
