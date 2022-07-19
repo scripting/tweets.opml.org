@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 23:15:02 GMT"
+            "dateModified": "Tue, 19 Jul 2022 06:11:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: This ChromeOS tool tests Chromebook privacy from snoopers behind you <a href=\"https://t.co/iBMiAffsd6\">[link]</a> https://t.co/ITsJZcmasP",
+                                    "rawText": "ICYMI: This ChromeOS tool tests Chromebook privacy from snoopers behind you https://t.co/iBMiAffsd6 https://t.co/ITsJZcmasP",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Jul 2022 06:03:02 GMT",
+                                    "tweetId": "1549273589811118080",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1549273589811118080",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 18",
                             "type": "calendarDay",
