@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 23:19:27 GMT"
+            "dateModified": "Tue, 19 Jul 2022 23:32:28 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1549531957947670528",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1549531957947670528",
                                             "inReplyToId": "1549531134702264322",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Tonight. <a href=\"https://t.co/L8eJ6aG8BA\">[link]</a>",
+                                                    "rawText": "Tonight. https://t.co/L8eJ6aG8BA",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 19 Jul 2022 23:30:59 GMT",
+                                                    "tweetId": "1549537313260183555",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1549537313260183555",
+                                                    "inReplyToId": "1549531957947670528",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
