@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 08:26:38 GMT"
+            "dateModified": "Tue, 19 Jul 2022 12:59:56 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "Teaching students to use links back in the 2000s. <a href=\"https://t.co/zfqSrH8MrM\">[link]</a>",
+                                    "rawText": "Teaching students to use links back in the 2000s. https://t.co/zfqSrH8MrM",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Jul 2022 12:54:55 GMT",
+                                    "tweetId": "1549377242660327424",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1549377242660327424",
+                                    "tweetUserName": "KenSmith"
+                                },
                                 {
                                     "text": "In 1973, I spent 50¢ for an old used guidebook to Alaska. I found it for sale on a table of culled books in the entry at the public library. The chapters on southeastern Alaska recommended one remote town’s forest boardwalk.",
                                     "rawText": "In 1973, I spent 50¢ for an old used guidebook to Alaska. I found it for sale on a table of culled books in the entry at the public library. The chapters on southeastern Alaska recommended one remote town’s forest boardwalk.",
