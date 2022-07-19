@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 17 Jul 2022 14:06:53 GMT"
+            "dateModified": "Tue, 19 Jul 2022 05:59:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@WKCosmo And yet truth and popularity are remarkably well correlated.",
+                                    "rawText": "@WKCosmo And yet truth and popularity are remarkably well correlated.",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Jul 2022 05:48:49 GMT",
+                                    "tweetId": "1549270012099166209",
+                                    "urltweet": "https://twitter.com/defjaf/status/1549270012099166209",
+                                    "inReplyToId": "1548634510987755520",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
