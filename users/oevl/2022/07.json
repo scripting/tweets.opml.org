@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 21:31:12 GMT"
+            "dateModified": "Tue, 19 Jul 2022 04:39:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Stranger Things 4 | Eddie, This Is For You | Netflix <a href=\"https://t.co/QIaogdNnTq\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Stranger Things 4 | Eddie, This Is For You | Netflix https://t.co/QIaogdNnTq",
+                                    "type": "tweet",
+                                    "created": "Tue, 19 Jul 2022 04:28:24 GMT",
+                                    "tweetId": "1549249774993510404",
+                                    "urltweet": "https://twitter.com/oevl/status/1549249774993510404",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 18",
                             "type": "calendarDay",
