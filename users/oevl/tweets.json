@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 04:39:08 GMT"
+            "dateModified": "Wed, 20 Jul 2022 05:39:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: A HYPED swell that actually produced PUMPING WAVES! <a href=\"https://t.co/2MmRTCaVGz\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: A HYPED swell that actually produced PUMPING WAVES! https://t.co/2MmRTCaVGz",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 05:28:18 GMT",
+                                    "tweetId": "1549627236705247233",
+                                    "urltweet": "https://twitter.com/oevl/status/1549627236705247233",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 19",
                             "type": "calendarDay",
