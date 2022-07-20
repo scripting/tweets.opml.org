@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 18:45:29 GMT"
+            "dateModified": "Wed, 20 Jul 2022 22:01:56 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,75 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "# Pets",
+                                    "rawText": "# Pets",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 21:52:13 GMT",
+                                    "tweetId": "1549874848062734336",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549874848062734336",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "* Dogs",
+                                            "rawText": "* Dogs",
+                                            "type": "tweet",
+                                            "created": "Wed, 20 Jul 2022 21:52:13 GMT",
+                                            "tweetId": "1549874848943448064",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549874848943448064",
+                                            "inReplyToId": "1549874848062734336",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "* Cats",
+                                                    "rawText": "* Cats",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 20 Jul 2022 21:52:14 GMT",
+                                                    "tweetId": "1549874849845317637",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549874849845317637",
+                                                    "inReplyToId": "1549874848943448064",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "* Rabbits",
+                                                            "rawText": "* Rabbits",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 20 Jul 2022 21:52:14 GMT",
+                                                            "tweetId": "1549874850881159168",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549874850881159168",
+                                                            "inReplyToId": "1549874849845317637",
+                                                            "tweetUserName": "cluelessnewbie",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "* Hamsters",
+                                                                    "rawText": "* Hamsters",
+                                                                    "type": "tweet",
+                                                                    "created": "Wed, 20 Jul 2022 21:52:14 GMT",
+                                                                    "tweetId": "1549874852051521542",
+                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549874852051521542",
+                                                                    "inReplyToId": "1549874850881159168",
+                                                                    "tweetUserName": "cluelessnewbie",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "* Turtles",
+                                                                            "rawText": "* Turtles",
+                                                                            "type": "tweet",
+                                                                            "created": "Wed, 20 Jul 2022 21:52:14 GMT",
+                                                                            "tweetId": "1549874852907073537",
+                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549874852907073537",
+                                                                            "inReplyToId": "1549874852051521542",
+                                                                            "tweetUserName": "cluelessnewbie"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# Soups",
                                     "rawText": "# Soups",
