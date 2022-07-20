@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 18:45:44 GMT"
+            "dateModified": "Wed, 20 Jul 2022 18:58:45 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "@waded It was on the blog yesterday.\n\n<a href=\"https://t.co/aoxSG80eXT\">[link]</a>",
+                                    "rawText": "@waded It was on the blog yesterday.\n\nhttps://t.co/aoxSG80eXT",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 18:55:07 GMT",
+                                    "tweetId": "1549830277974958084",
+                                    "urltweet": "https://twitter.com/davewiner/status/1549830277974958084",
+                                    "inReplyToId": "1549829990178439168",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "# The default place-of-record for writers\n\nI would love to see a university-based open source project to create a Medium-like service, run as a non-profit, written and maintained by students, with the help of teachers of course, funded by foundations and contributors.",
                                     "rawText": "# The default place-of-record for writers\n\nI would love to see a university-based open source project to create a Medium-like service, run as a non-profit, written and maintained by students, with the help of teachers of course, funded by foundations and contributors.",
