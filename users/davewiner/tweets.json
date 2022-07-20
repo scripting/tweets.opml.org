@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 22:41:15 GMT"
+            "dateModified": "Wed, 20 Jul 2022 23:07:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "This is the best song for bike workouts. <a href=\"https://t.co/Iloe3piwSX\">[link]</a>",
+                                    "rawText": "This is the best song for bike workouts. https://t.co/Iloe3piwSX",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 23:04:19 GMT",
+                                    "tweetId": "1549892991560687616",
+                                    "urltweet": "https://twitter.com/davewiner/status/1549892991560687616",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Tesla has cashed out most of its bad bitcoin bet. <a href=\"https://t.co/xEJmTc1b6a\">[link]</a>",
                                     "rawText": "Tesla has cashed out most of its bad bitcoin bet. https://t.co/xEJmTc1b6a",
