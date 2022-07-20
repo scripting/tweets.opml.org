@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 16:45:41 GMT"
+            "dateModified": "Wed, 20 Jul 2022 11:02:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Makes me think of Sam McCloud. Well done, @NYPDnews <a href=\"https://t.co/dQ4TWENUtE\">[link]</a>",
+                                    "rawText": "Makes me think of Sam McCloud. Well done, @NYPDnews https://t.co/dQ4TWENUtE",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 10:50:02 GMT",
+                                    "tweetId": "1549708204367421440",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1549708204367421440",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 19",
                             "type": "calendarDay",
