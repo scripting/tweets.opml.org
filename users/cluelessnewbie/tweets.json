@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 18:08:53 GMT"
+            "dateModified": "Wed, 20 Jul 2022 01:37:21 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "19",
                             "subs": [
+                                {
+                                    "text": "# Baseball teams the Mets like",
+                                    "rawText": "# Baseball teams the Mets like",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 01:30:48 GMT",
+                                    "tweetId": "1549567469085409282",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549567469085409282",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "* Chicago Cubs -- so we have someone to beat in the regular season",
+                                            "rawText": "* Chicago Cubs -- so we have someone to beat in the regular season",
+                                            "type": "tweet",
+                                            "created": "Wed, 20 Jul 2022 01:30:49 GMT",
+                                            "tweetId": "1549567469966299137",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1549567469966299137",
+                                            "inReplyToId": "1549567469085409282",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "* Boston Red Sox -- so we have someone to beat in the World Series",
+                                                    "rawText": "* Boston Red Sox -- so we have someone to beat in the World Series",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 20 Jul 2022 01:30:49 GMT",
+                                                    "tweetId": "1549567470775812096",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1549567470775812096",
+                                                    "inReplyToId": "1549567469966299137",
+                                                    "tweetUserName": "cluelessnewbie"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@jeffmilner yes. they apparently block apps that try to deref the <a href=\"https://t.co/1x46aC1C9q\">[link]</a> links.",
                                     "rawText": "@jeffmilner yes. they apparently block apps that try to deref the https://t.co/1x46aC1C9q links.",
