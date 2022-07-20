@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 09:21:37 GMT"
+            "dateModified": "Wed, 20 Jul 2022 11:05:44 GMT"
         },
         "body": {
             "subs": [
@@ -1078,7 +1078,19 @@
                                     "tweetId": "1545372394738548738",
                                     "urltweet": "https://twitter.com/chiguire/status/1545372394738548738",
                                     "inReplyToId": "1536974691277193216",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "#earworm <a href=\"https://t.co/nhsqJZUbmE\">[link]</a>",
+                                            "rawText": "#earworm https://t.co/nhsqJZUbmE",
+                                            "type": "tweet",
+                                            "created": "Wed, 20 Jul 2022 11:00:03 GMT",
+                                            "tweetId": "1549710725874155521",
+                                            "urltweet": "https://twitter.com/chiguire/status/1549710725874155521",
+                                            "inReplyToId": "1545372394738548738",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@africabytotobot Someone dragged you away eventually, right?",
