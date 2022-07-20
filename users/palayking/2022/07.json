@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/palayking/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 03:25:03 GMT"
+            "dateModified": "Wed, 20 Jul 2022 03:20:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Just posted a photo <a href=\"https://t.co/RQ9HgUnZJK\">[link]</a>",
+                                    "rawText": "Just posted a photo https://t.co/RQ9HgUnZJK",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 03:14:45 GMT",
+                                    "tweetId": "1549593626400940035",
+                                    "urltweet": "https://twitter.com/palayking/status/1549593626400940035",
+                                    "tweetUserName": "palayking"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 18",
                             "type": "calendarDay",
