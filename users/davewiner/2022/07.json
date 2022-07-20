@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 14:12:26 GMT"
+            "dateModified": "Wed, 20 Jul 2022 14:51:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "Now there's a way to say an RSS item was written in Markdown, and to include the Markdown source text. \n\nWhich raises the obvious question... 😀",
+                                    "rawText": "Now there's a way to say an RSS item was written in Markdown, and to include the Markdown source text. \n\nWhich raises the obvious question... 😀",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 14:49:33 GMT",
+                                    "tweetId": "1549768478994874370",
+                                    "urltweet": "https://twitter.com/davewiner/status/1549768478994874370",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Which Markdown?\n\n<a href=\"https://t.co/pvkvE8a7CG\">[link]</a>",
+                                            "rawText": "Which Markdown?\n\nhttps://t.co/pvkvE8a7CG",
+                                            "type": "tweet",
+                                            "created": "Wed, 20 Jul 2022 14:50:06 GMT",
+                                            "tweetId": "1549768619525120002",
+                                            "urltweet": "https://twitter.com/davewiner/status/1549768619525120002",
+                                            "inReplyToId": "1549768478994874370",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Bearsville is the new, very popular, Woodstock music venue. As you can see they are deadheads. 🐻 <a href=\"https://t.co/fdTjVdjhvd\">[link]</a>",
                                     "rawText": "Bearsville is the new, very popular, Woodstock music venue. As you can see they are deadheads. 🐻 https://t.co/fdTjVdjhvd",
