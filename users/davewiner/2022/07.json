@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 22:02:12 GMT"
+            "dateModified": "Wed, 20 Jul 2022 22:41:15 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "20",
                             "subs": [
+                                {
+                                    "text": "Tesla has cashed out most of its bad bitcoin bet. <a href=\"https://t.co/xEJmTc1b6a\">[link]</a>",
+                                    "rawText": "Tesla has cashed out most of its bad bitcoin bet. https://t.co/xEJmTc1b6a",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 22:41:01 GMT",
+                                    "tweetId": "1549887127789371395",
+                                    "urltweet": "https://twitter.com/davewiner/status/1549887127789371395",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Thanks to the @twitterdev people for helping out with a problem with one of my domains. I have to say the new style of developer relations at Twitter, whoever is responsible for it, is really refreshing. ;-)",
                                     "rawText": "Thanks to the @twitterdev people for helping out with a problem with one of my domains. I have to say the new style of developer relations at Twitter, whoever is responsible for it, is really refreshing. ;-)",
