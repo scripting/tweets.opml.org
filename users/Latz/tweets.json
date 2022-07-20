@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 09:30:12 GMT"
+            "dateModified": "Wed, 20 Jul 2022 09:25:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Ab jetzt hoste ich meine eigene Meta-Suchmaschine: SearxNG. Mal sehen, ob das was taugt.\n\n<a href=\"https://t.co/toUtvqJb8H\">[link]</a>",
+                                    "rawText": "Ab jetzt hoste ich meine eigene Meta-Suchmaschine: SearxNG. Mal sehen, ob das was taugt.\n\nhttps://t.co/toUtvqJb8H",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 09:23:34 GMT",
+                                    "tweetId": "1549686444373024769",
+                                    "urltweet": "https://twitter.com/Latz/status/1549686444373024769",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 19",
                             "type": "calendarDay",
