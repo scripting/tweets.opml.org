@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 20:49:32 GMT"
+            "dateModified": "Wed, 20 Jul 2022 09:11:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "@AitorHalliwell EMPAPAME ASIIII",
+                                    "rawText": "@AitorHalliwell EMPAPAME ASIIII",
+                                    "type": "tweet",
+                                    "created": "Wed, 20 Jul 2022 09:07:29 GMT",
+                                    "tweetId": "1549682394168426496",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1549682394168426496",
+                                    "inReplyToId": "1549678445864665091",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 19",
                             "type": "calendarDay",
