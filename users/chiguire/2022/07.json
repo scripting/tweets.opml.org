@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 19:44:07 GMT"
+            "dateModified": "Thu, 21 Jul 2022 20:10:09 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "21",
                             "subs": [
                                 {
+                                    "text": "<a href=\"https://t.co/JNXEyHH4Bo\">[link]</a>",
+                                    "rawText": "https://t.co/JNXEyHH4Bo",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 20:02:53 GMT",
+                                    "tweetId": "1550209720383832069",
+                                    "urltweet": "https://twitter.com/chiguire/status/1550209720383832069",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
                                     "text": "Fatboy Slim está tocando hoy en Brighton y desde acá puedo escuchar el rumbón",
                                     "rawText": "Fatboy Slim está tocando hoy en Brighton y desde acá puedo escuchar el rumbón",
                                     "type": "tweet",
                                     "created": "Thu, 21 Jul 2022 19:34:20 GMT",
                                     "tweetId": "1550202534274400259",
                                     "urltweet": "https://twitter.com/chiguire/status/1550202534274400259",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/GtSl0MPa0O\">[link]</a>",
+                                            "rawText": "https://t.co/GtSl0MPa0O",
+                                            "type": "tweet",
+                                            "created": "Thu, 21 Jul 2022 20:02:31 GMT",
+                                            "tweetId": "1550209626104381440",
+                                            "urltweet": "https://twitter.com/chiguire/status/1550209626104381440",
+                                            "inReplyToId": "1550202534274400259",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@SoyNorge <a href=\"https://t.co/9Y5axlc0ql\">[link]</a>",
