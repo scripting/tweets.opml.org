@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 22:34:29 GMT"
+            "dateModified": "Thu, 21 Jul 2022 22:18:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "Guest post by Joanna Hardy-Susskind: Attrition <a href=\"https://t.co/hqYMfR6tOV\">[link]</a>",
+                                    "rawText": "Guest post by Joanna Hardy-Susskind: Attrition https://t.co/hqYMfR6tOV",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 22:14:49 GMT",
+                                    "tweetId": "1550242921819115526",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1550242921819115526",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 20",
                             "type": "calendarDay",
