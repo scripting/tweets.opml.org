@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 11:33:31 GMT"
+            "dateModified": "Thu, 21 Jul 2022 08:11:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@FiveThirtyEight Aren’t the recession poll results *entirely* due to respondents conflating “recession” with “bad economy” in general, and inflation being a very clear sign of a bad economy?",
+                                    "rawText": "@FiveThirtyEight Aren’t the recession poll results *entirely* due to respondents conflating “recession” with “bad economy” in general, and inflation being a very clear sign of a bad economy?",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 08:06:43 GMT",
+                                    "tweetId": "1550029490717335552",
+                                    "urltweet": "https://twitter.com/defjaf/status/1550029490717335552",
+                                    "inReplyToId": "1549446234699694082",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 20",
                             "type": "calendarDay",
