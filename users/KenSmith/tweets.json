@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 12:21:54 GMT"
+            "dateModified": "Thu, 21 Jul 2022 13:26:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "Gary Gulman likes “‘Likes don’t save lives.’ —@GaryGulman’ \n\nbut he might more than like folks passing around\nthe new national Suicide Prevention Hotline number,\nwhich is 988 (call or text). <a href=\"https://t.co/QYk6iim6wz\">[link]</a> https://t.co/1ChovXG0TU",
+                                    "rawText": "Gary Gulman likes “‘Likes don’t save lives.’ —@GaryGulman’ \n\nbut he might more than like folks passing around\nthe new national Suicide Prevention Hotline number,\nwhich is 988 (call or text). https://t.co/QYk6iim6wz https://t.co/1ChovXG0TU",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 13:25:57 GMT",
+                                    "tweetId": "1550109827174653952",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1550109827174653952",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "The new number is 988. <a href=\"https://t.co/GNc4ew5BRY\">[link]</a>",
+                                            "rawText": "The new number is 988. https://t.co/GNc4ew5BRY",
+                                            "type": "tweet",
+                                            "created": "Thu, 21 Jul 2022 13:25:58 GMT",
+                                            "tweetId": "1550109832971276290",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1550109832971276290",
+                                            "inReplyToId": "1550109827174653952",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Hemingway made a similar claim about writing. <a href=\"https://t.co/khtkDhpzQo\">[link]</a>",
                                     "rawText": "Hemingway made a similar claim about writing. https://t.co/khtkDhpzQo",
