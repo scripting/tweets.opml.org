@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 09:38:23 GMT"
+            "dateModified": "Thu, 21 Jul 2022 12:07:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@obstschale Ich bin mir nicht ganz sicher, aber \"Grav\" sollte so funktionieren. Ich habe beim Überfliegen nichts von \"Build\" gelesen.\n\n<a href=\"https://t.co/GajQcUgvJO\">[link]</a>",
+                                    "rawText": "@obstschale Ich bin mir nicht ganz sicher, aber \"Grav\" sollte so funktionieren. Ich habe beim Überfliegen nichts von \"Build\" gelesen.\n\nhttps://t.co/GajQcUgvJO",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 11:55:29 GMT",
+                                    "tweetId": "1550087064246525958",
+                                    "urltweet": "https://twitter.com/Latz/status/1550087064246525958",
+                                    "inReplyToId": "1550085995734990849",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 20",
                             "type": "calendarDay",
