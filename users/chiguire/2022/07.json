@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 19:59:19 GMT"
+            "dateModified": "Thu, 21 Jul 2022 09:40:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@darokun @Pin0ir_ Yo con Sonic Pi :(",
+                                    "rawText": "@darokun @Pin0ir_ Yo con Sonic Pi :(",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 09:35:39 GMT",
+                                    "tweetId": "1550051872991580160",
+                                    "urltweet": "https://twitter.com/chiguire/status/1550051872991580160",
+                                    "inReplyToId": "1550051357318684673",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 20",
                             "type": "calendarDay",
