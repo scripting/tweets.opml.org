@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 03:15:18 GMT"
+            "dateModified": "Thu, 21 Jul 2022 11:16:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@gizellie And . . . <a href=\"https://t.co/J09ZqysHtC\">[link]</a>",
+                                    "rawText": "@gizellie And . . . https://t.co/J09ZqysHtC",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 11:05:41 GMT",
+                                    "tweetId": "1550074531225767937",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1550074531225767937",
+                                    "inReplyToId": "1549919809353179138",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 20",
                             "type": "calendarDay",
