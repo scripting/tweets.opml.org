@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 19 Jul 2022 16:26:54 GMT"
+            "dateModified": "Thu, 21 Jul 2022 17:24:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "Red-tailed hawk sitting high in the redwood, calling and calling for his mate, who lies dead at the bottom of the powerpole 😢",
+                                    "rawText": "Red-tailed hawk sitting high in the redwood, calling and calling for his mate, who lies dead at the bottom of the powerpole 😢",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 17:23:16 GMT",
+                                    "tweetId": "1550169550640992256",
+                                    "urltweet": "https://twitter.com/mathling/status/1550169550640992256",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 19",
                             "type": "calendarDay",
