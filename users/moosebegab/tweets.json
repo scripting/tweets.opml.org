@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 01:32:41 GMT"
+            "dateModified": "Thu, 21 Jul 2022 16:22:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@SaltySaidit <a href=\"https://t.co/POuVmnyjei\">[link]</a>",
+                                    "rawText": "@SaltySaidit https://t.co/POuVmnyjei",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 16:15:26 GMT",
+                                    "tweetId": "1550152478737539072",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1550152478737539072",
+                                    "inReplyToId": "1550149949714751492",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 20",
                             "type": "calendarDay",
