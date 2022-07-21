@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 21:17:39 GMT"
+            "dateModified": "Thu, 21 Jul 2022 10:19:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Google's upcoming password strength indicator will boost ChromeOS and Chrome online security <a href=\"https://t.co/tTDdAAkBPB\">[link]</a>",
+                                    "rawText": "ICYMI: Google's upcoming password strength indicator will boost ChromeOS and Chrome online security https://t.co/tTDdAAkBPB",
+                                    "type": "tweet",
+                                    "created": "Thu, 21 Jul 2022 10:16:11 GMT",
+                                    "tweetId": "1550062074419634176",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1550062074419634176",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 20",
                             "type": "calendarDay",
