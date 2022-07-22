@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 00:56:41 GMT"
+            "dateModified": "Fri, 22 Jul 2022 19:28:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Recently, I’ve been more productive on an iPad than on my Chromebook due to Focus Modes. I wish ChromeOS Focus Modes existed like on iOS.\n <a href=\"https://t.co/shIPwOBqC0\">[link]</a>",
+                                    "rawText": "Recently, I’ve been more productive on an iPad than on my Chromebook due to Focus Modes. I wish ChromeOS Focus Modes existed like on iOS.\n https://t.co/shIPwOBqC0",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 19:28:31 GMT",
+                                    "tweetId": "1550563458923520000",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1550563458923520000",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
