@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 04:03:36 GMT"
+            "dateModified": "Fri, 22 Jul 2022 13:45:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "A list of podcasts. Looks interesting. <a href=\"https://t.co/jzaIMa2TpR\">[link]</a>  Found via https://t.co/6jW1nicdoW",
+                                    "rawText": "A list of podcasts. Looks interesting. https://t.co/jzaIMa2TpR  Found via https://t.co/6jW1nicdoW",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 13:36:18 GMT",
+                                    "tweetId": "1550474820516581376",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1550474820516581376",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
