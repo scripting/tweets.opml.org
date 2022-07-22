@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 20:37:33 GMT"
+            "dateModified": "Fri, 22 Jul 2022 20:50:34 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "Twitter API playground.\n\n<a href=\"https://t.co/C23faILh63\">[link]</a>",
+                                    "rawText": "Twitter API playground.\n\nhttps://t.co/C23faILh63",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 20:38:45 GMT",
+                                    "tweetId": "1550581134064582657",
+                                    "urltweet": "https://twitter.com/Latz/status/1550581134064582657",
+                                    "tweetUserName": "Latz"
+                                },
                                 {
                                     "text": "Online Scrabble is somewhat addictive.\n\n<a href=\"https://t.co/PbkkyLwARL\">[link]</a>",
                                     "rawText": "Online Scrabble is somewhat addictive.\n\nhttps://t.co/PbkkyLwARL",
