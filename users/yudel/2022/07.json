@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 02:21:02 GMT"
+            "dateModified": "Fri, 22 Jul 2022 05:49:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@ErinPLeft @EladNehorai I have never heard the term. What does it mean?",
+                                    "rawText": "@ErinPLeft @EladNehorai I have never heard the term. What does it mean?",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 05:40:20 GMT",
+                                    "tweetId": "1550355040744906752",
+                                    "urltweet": "https://twitter.com/yudel/status/1550355040744906752",
+                                    "inReplyToId": "1550348106587410432",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
