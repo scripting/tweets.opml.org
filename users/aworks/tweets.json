@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 13:54:44 GMT"
+            "dateModified": "Fri, 22 Jul 2022 13:51:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/Vjiw3kL5aG\">[link]</a> Stories via @boulezian @Basify @ELHopkins",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/Vjiw3kL5aG Stories via @boulezian @Basify @ELHopkins",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 13:47:49 GMT",
+                                    "tweetId": "1550477717644222465",
+                                    "urltweet": "https://twitter.com/aworks/status/1550477717644222465",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
