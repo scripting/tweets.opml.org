@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 00:50:56 GMT"
+            "dateModified": "Fri, 22 Jul 2022 14:56:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "If Only One Actually Followed Jesus: <a href=\"https://t.co/DAkNE1Q6o3\">[link]</a>",
+                                    "rawText": "If Only One Actually Followed Jesus: https://t.co/DAkNE1Q6o3",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 14:53:53 GMT",
+                                    "tweetId": "1550494346377584642",
+                                    "urltweet": "https://twitter.com/frankm/status/1550494346377584642",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
