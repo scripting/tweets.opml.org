@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 16:26:05 GMT"
+            "dateModified": "Fri, 22 Jul 2022 18:44:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@RonWaxman @The_Mal_Gallery Extended version:\n\n<a href=\"https://t.co/7gzlbV8B8G\">[link]</a>",
+                                    "rawText": "@RonWaxman @The_Mal_Gallery Extended version:\n\nhttps://t.co/7gzlbV8B8G",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 18:41:08 GMT",
+                                    "tweetId": "1550551536731729920",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1550551536731729920",
+                                    "inReplyToId": "1550294143078993921",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 20",
                             "type": "calendarDay",
