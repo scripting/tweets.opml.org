@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 03:03:04 GMT"
+            "dateModified": "Fri, 22 Jul 2022 03:29:06 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Fri, 22 Jul 2022 03:02:04 GMT",
                                     "tweetId": "1550315209289515010",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1550315209289515010",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I might have yelled out “YOUR ANGER IS A GIFT!!” louder than I thought I would.",
+                                            "rawText": "I might have yelled out “YOUR ANGER IS A GIFT!!” louder than I thought I would.",
+                                            "type": "tweet",
+                                            "created": "Fri, 22 Jul 2022 03:27:59 GMT",
+                                            "tweetId": "1550321732749299713",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1550321732749299713",
+                                            "inReplyToId": "1550315209289515010",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Zack whispers it on the recording, but pierces it into one’s soul live.",
+                                                    "rawText": "Zack whispers it on the recording, but pierces it into one’s soul live.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 22 Jul 2022 03:27:59 GMT",
+                                                    "tweetId": "1550321733818875904",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1550321733818875904",
+                                                    "inReplyToId": "1550321732749299713",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@daringfireball <a href=\"https://t.co/Sf1oUuJ8W1\">[link]</a>",
