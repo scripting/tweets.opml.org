@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 04:34:10 GMT"
+            "dateModified": "Fri, 22 Jul 2022 13:53:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "I’ve decided not to run in the Toronto Carnival Run tomorrow. I could transfer my bib to someone. Who would like it? #TOCarnivalRun #TOCarnivalRun2022",
+                                    "rawText": "I’ve decided not to run in the Toronto Carnival Run tomorrow. I could transfer my bib to someone. Who would like it? #TOCarnivalRun #TOCarnivalRun2022",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 13:45:51 GMT",
+                                    "tweetId": "1550477224188559360",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1550477224188559360",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
