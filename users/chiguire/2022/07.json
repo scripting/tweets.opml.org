@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 23:38:21 GMT"
+            "dateModified": "Fri, 22 Jul 2022 08:31:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Este hilo me trae memorias de OpenEnglish. <a href=\"https://t.co/uoOeA1ExVj\">[link]</a>",
+                                    "rawText": "Este hilo me trae memorias de OpenEnglish. https://t.co/uoOeA1ExVj",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 08:29:04 GMT",
+                                    "tweetId": "1550397501915779073",
+                                    "urltweet": "https://twitter.com/chiguire/status/1550397501915779073",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
