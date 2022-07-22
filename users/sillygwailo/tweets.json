@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 23:06:27 GMT"
+            "dateModified": "Fri, 22 Jul 2022 23:58:31 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Fri, 22 Jul 2022 23:06:18 GMT",
                                     "tweetId": "1550618268590907392",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1550618268590907392",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Tonight. <a href=\"https://t.co/ujB3FsO8mo\">[link]</a>",
+                                            "rawText": "Tonight. https://t.co/ujB3FsO8mo",
+                                            "type": "tweet",
+                                            "created": "Fri, 22 Jul 2022 23:57:23 GMT",
+                                            "tweetId": "1550631120093544449",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1550631120093544449",
+                                            "inReplyToId": "1550618268590907392",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Behind me, while looking at this tree in High Park North, is a microconfluence. <a href=\"https://t.co/PnLcrGuUna\">[link]</a>",
