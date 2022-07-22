@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 21:43:59 GMT"
+            "dateModified": "Fri, 22 Jul 2022 08:21:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@lanadelrave_ <a href=\"https://t.co/4UUHdqBk9s\">[link]</a>",
+                                    "rawText": "@lanadelrave_ https://t.co/4UUHdqBk9s",
+                                    "type": "tweet",
+                                    "created": "Fri, 22 Jul 2022 08:19:33 GMT",
+                                    "tweetId": "1550395109665013760",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1550395109665013760",
+                                    "inReplyToId": "1550393199281184768",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
