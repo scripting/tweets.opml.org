@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 22:31:58 GMT"
+            "dateModified": "Sat, 23 Jul 2022 23:24:02 GMT"
         },
         "body": {
             "subs": [
@@ -67,7 +67,31 @@
                                                             "tweetId": "1550971463334711296",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1550971463334711296",
                                                             "inReplyToId": "1550954967577645056",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Lindy was great, and even covered a song from Wings! <a href=\"https://t.co/27D7InPpKO\">[link]</a>",
+                                                                    "rawText": "Lindy was great, and even covered a song from Wings! https://t.co/27D7InPpKO",
+                                                                    "type": "tweet",
+                                                                    "created": "Sat, 23 Jul 2022 23:20:32 GMT",
+                                                                    "tweetId": "1550984235372187650",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1550984235372187650",
+                                                                    "inReplyToId": "1550971463334711296",
+                                                                    "tweetUserName": "sillygwailo",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Tonight. <a href=\"https://t.co/F8iwDzPn0y\">[link]</a>",
+                                                                            "rawText": "Tonight. https://t.co/F8iwDzPn0y",
+                                                                            "type": "tweet",
+                                                                            "created": "Sat, 23 Jul 2022 23:21:57 GMT",
+                                                                            "tweetId": "1550984594794708993",
+                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1550984594794708993",
+                                                                            "inReplyToId": "1550984235372187650",
+                                                                            "tweetUserName": "sillygwailo"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
