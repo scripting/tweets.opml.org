@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 18:28:55 GMT"
+            "dateModified": "Sat, 23 Jul 2022 07:03:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "“They like our silence, \n  when they can get it.” \n\n   (old bumper sticker)",
+                                    "rawText": "“They like our silence, \n  when they can get it.” \n\n   (old bumper sticker)",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 06:57:58 GMT",
+                                    "tweetId": "1550736966571986945",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1550736966571986945",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
