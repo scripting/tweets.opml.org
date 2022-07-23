@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 14:37:49 GMT"
+            "dateModified": "Sat, 23 Jul 2022 14:09:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@mims @BriannaWu Agree. and am baffled about why.",
+                                    "rawText": "@mims @BriannaWu Agree. and am baffled about why.",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 14:04:30 GMT",
+                                    "tweetId": "1550844306256080896",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1550844306256080896",
+                                    "inReplyToId": "1550844075485630465",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
