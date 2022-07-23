@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/DevHawk/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Mon, 11 Jul 2022 18:31:27 GMT</dateModified>
+		<dateModified>Sat, 23 Jul 2022 17:04:52 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="July 2022" type="calendarMonth" name="july2022" >
+			<outline text="July 23" type="calendarDay" name="23" >
+				<outline text="Today's Workout :335# squat, 125# overhead press, 375# deadlift. 5x5 worksets (3x5 deadlift worksets) #StrongLifts5x5" rawText="Today's Workout :335# squat, 125# overhead press, 375# deadlift. 5x5 worksets (3x5 deadlift worksets) #StrongLifts5x5" type="tweet" created="Sat, 23 Jul 2022 17:01:03 GMT" tweetId="1550888737847930880" urltweet="https://twitter.com/DevHawk/status/1550888737847930880" inReplyToId="" tweetUserName="DevHawk" />
+				</outline>
 			<outline text="July 11" type="calendarDay" name="11" >
 				<outline text="Just pushed out a minor update to the @Neo_Blockchain  tookit.
 
@@ -19,7 +22,7 @@ Neo-Express v3.3.27 enables the new RpcServer Traverse Iterators feature by defa
 
 Neo-Express v3.3.27 enables the new RpcServer Traverse Iterators feature by default. This feature enables JSON-RPC clients to fully enumerate iterators returned from contract operations
 
-https://t.co/6UDf855SUv" type="tweet" created="Mon, 11 Jul 2022 18:25:35 GMT" tweetId="1546561354349158400" urltweet="https://twitter.com/DevHawk/status/1546561354349158400" inReplyToId="" tweetUserName="DevHawk" >
+https://t.co/6UDf855SUv" type="tweet" created="Mon, 11 Jul 2022 18:25:35 GMT" tweetId="1546561354349158400" urltweet="https://twitter.com/DevHawk/status/1546561354349158400" tweetUserName="DevHawk" >
 					<outline text="If you want to see Traverse Iterators in action, the Neo Contributor NFT sample client application has been updated to use them to enumerate the available NFTs.
 
 &lt;a href=&quot;https://t.co/PFB3vo9awu&quot;&gt;[link]&lt;/a&gt;" rawText="If you want to see Traverse Iterators in action, the Neo Contributor NFT sample client application has been updated to use them to enumerate the available NFTs.
