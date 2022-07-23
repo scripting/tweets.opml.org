@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 03:52:46 GMT"
+            "dateModified": "Sat, 23 Jul 2022 13:51:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Today would have been a good day to open up the Lakeshore Boulevard Activeway. #ActiveTO",
+                                    "rawText": "Today would have been a good day to open up the Lakeshore Boulevard Activeway. #ActiveTO",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 13:41:22 GMT",
+                                    "tweetId": "1550838485808029696",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1550838485808029696",
+                                    "inReplyToId": "1535298744798916608",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
