@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 19:57:30 GMT"
+            "dateModified": "Sat, 23 Jul 2022 09:11:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@rafagarces Yo lo hago contigo",
+                                    "rawText": "@rafagarces Yo lo hago contigo",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 09:09:05 GMT",
+                                    "tweetId": "1550769962582769664",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1550769962582769664",
+                                    "inReplyToId": "1550757605378822145",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
