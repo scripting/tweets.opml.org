@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 21:00:04 GMT"
+            "dateModified": "Sat, 23 Jul 2022 05:53:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Do cats and dogs remember their past? <a href=\"https://t.co/PThMm3BzwQ\">[link]</a>",
+                                    "rawText": "Do cats and dogs remember their past? https://t.co/PThMm3BzwQ",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 05:51:35 GMT",
+                                    "tweetId": "1550720259707076610",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1550720259707076610",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
