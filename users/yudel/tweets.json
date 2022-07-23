@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 21:06:20 GMT"
+            "dateModified": "Sat, 23 Jul 2022 22:41:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@wychstreet Sir, I think it’s time you loudly rise to Dr Oz’s defense as a fellow North Jersey Republican.",
+                                    "rawText": "@wychstreet Sir, I think it’s time you loudly rise to Dr Oz’s defense as a fellow North Jersey Republican.",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 22:41:39 GMT",
+                                    "tweetId": "1550974450421620736",
+                                    "urltweet": "https://twitter.com/yudel/status/1550974450421620736",
+                                    "inReplyToId": "1550969539076280325",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
