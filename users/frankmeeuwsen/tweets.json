@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 12:45:12 GMT"
+            "dateModified": "Sat, 23 Jul 2022 12:42:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Sun Puddle op @grungepoprecord doet maar een klein beetje aan dat andere bandje uit de jaren 90 denken... <a href=\"https://t.co/3eXdb4DBo4\">[link]</a>",
+                                    "rawText": "Sun Puddle op @grungepoprecord doet maar een klein beetje aan dat andere bandje uit de jaren 90 denken... https://t.co/3eXdb4DBo4",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 12:36:07 GMT",
+                                    "tweetId": "1550822061509169152",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1550822061509169152",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
