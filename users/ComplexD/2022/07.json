@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ComplexD/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 11:43:08 GMT"
+            "dateModified": "Sat, 23 Jul 2022 14:55:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Five Great Reads on Cyber, Data, and Legal Discovery for July 2022 - Read the complete newsletter at <a href=\"https://t.co/uvnju1ndZk\">[link]</a>. #eDiscovery #LegalTech #LegalOps https://t.co/KraAeGKEEU",
+                                    "rawText": "Five Great Reads on Cyber, Data, and Legal Discovery for July 2022 - Read the complete newsletter at https://t.co/uvnju1ndZk. #eDiscovery #LegalTech #LegalOps https://t.co/KraAeGKEEU",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 14:45:39 GMT",
+                                    "tweetId": "1550854660436672513",
+                                    "urltweet": "https://twitter.com/ComplexD/status/1550854660436672513",
+                                    "tweetUserName": "ComplexD"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
