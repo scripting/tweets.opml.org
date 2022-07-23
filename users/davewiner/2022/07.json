@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 02:07:00 GMT"
+            "dateModified": "Sat, 23 Jul 2022 08:45:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "The problem with our culture is that most of us, given the chance, would choose self-enrichment over working together.",
+                                    "rawText": "The problem with our culture is that most of us, given the chance, would choose self-enrichment over working together.",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 08:44:42 GMT",
+                                    "tweetId": "1550763825615568896",
+                                    "urltweet": "https://twitter.com/davewiner/status/1550763825615568896",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
