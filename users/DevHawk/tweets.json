@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 11 Jul 2022 18:31:27 GMT"
+            "dateModified": "Sat, 23 Jul 2022 17:04:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Today's Workout :335# squat, 125# overhead press, 375# deadlift. 5x5 worksets (3x5 deadlift worksets) #StrongLifts5x5",
+                                    "rawText": "Today's Workout :335# squat, 125# overhead press, 375# deadlift. 5x5 worksets (3x5 deadlift worksets) #StrongLifts5x5",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 17:01:03 GMT",
+                                    "tweetId": "1550888737847930880",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1550888737847930880",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 11",
                             "type": "calendarDay",
