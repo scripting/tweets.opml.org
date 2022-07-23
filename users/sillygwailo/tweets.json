@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 23:24:02 GMT"
+            "dateModified": "Sat, 23 Jul 2022 23:50:03 GMT"
         },
         "body": {
             "subs": [
@@ -87,7 +87,19 @@
                                                                             "tweetId": "1550984594794708993",
                                                                             "urltweet": "https://twitter.com/sillygwailo/status/1550984594794708993",
                                                                             "inReplyToId": "1550984235372187650",
-                                                                            "tweetUserName": "sillygwailo"
+                                                                            "tweetUserName": "sillygwailo",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "My view of Vōk from The Slip. <a href=\"https://t.co/vc6JjU5PmS\">[link]</a>",
+                                                                                    "rawText": "My view of Vōk from The Slip. https://t.co/vc6JjU5PmS",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Sat, 23 Jul 2022 23:44:25 GMT",
+                                                                                    "tweetId": "1550990245184913408",
+                                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1550990245184913408",
+                                                                                    "inReplyToId": "1550984594794708993",
+                                                                                    "tweetUserName": "sillygwailo"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     ]
                                                                 }
