@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 22:56:57 GMT"
+            "dateModified": "Sat, 23 Jul 2022 11:31:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "La camisa perfecta no exis… <a href=\"https://t.co/iL4vWWfVWj\">[link]</a>",
+                                    "rawText": "La camisa perfecta no exis… https://t.co/iL4vWWfVWj",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 11:30:48 GMT",
+                                    "tweetId": "1550805628095979528",
+                                    "urltweet": "https://twitter.com/chiguire/status/1550805628095979528",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "Programa de protección de identidad para aquellos que hayan partido la jarra de la licuadora de mamá",
+                                    "rawText": "Programa de protección de identidad para aquellos que hayan partido la jarra de la licuadora de mamá",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 11:28:13 GMT",
+                                    "tweetId": "1550804974589952001",
+                                    "urltweet": "https://twitter.com/chiguire/status/1550804974589952001",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
