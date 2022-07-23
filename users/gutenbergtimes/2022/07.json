@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 16 Jul 2022 17:17:01 GMT"
+            "dateModified": "Sat, 23 Jul 2022 18:03:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Juan Hernandez, co-organizer of WordCamp Europe shares his three lessons learned from the first in-person WCEU since 2019.   <a href=\"https://t.co/xugcHTNe0S\">[link]</a>",
+                                    "rawText": "Juan Hernandez, co-organizer of WordCamp Europe shares his three lessons learned from the first in-person WCEU since 2019.   https://t.co/xugcHTNe0S",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 17:54:39 GMT",
+                                    "tweetId": "1550902224095789056",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1550902224095789056",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 16",
                             "type": "calendarDay",
