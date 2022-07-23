@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 17:28:00 GMT"
+            "dateModified": "Sat, 23 Jul 2022 17:29:00 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 23 Jul 2022 17:27:47 GMT",
                                     "tweetId": "1550895462307307520",
                                     "urltweet": "https://twitter.com/davewiner/status/1550895462307307520",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Here's my profile page, what I like and don't like. \n\n<a href=\"https://t.co/ahAP2rJHG8\">[link]</a>",
+                                            "rawText": "Here's my profile page, what I like and don't like. \n\nhttps://t.co/ahAP2rJHG8",
+                                            "type": "tweet",
+                                            "created": "Sat, 23 Jul 2022 17:28:41 GMT",
+                                            "tweetId": "1550895691370844162",
+                                            "urltweet": "https://twitter.com/davewiner/status/1550895691370844162",
+                                            "inReplyToId": "1550895462307307520",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "The future of TV is chaos and confusion. <a href=\"https://t.co/vOsDaORzzp\">[link]</a>",
