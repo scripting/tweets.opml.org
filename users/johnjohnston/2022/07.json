@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 14:06:30 GMT"
+            "dateModified": "Sat, 23 Jul 2022 12:42:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@ds106dc #tdc3845 #ds106 #myFest22  Not sure if this song is about food, but I like it &amp;  it has food in the title:\n<a href=\"https://t.co/mq5ypU3Z5v\">[link]</a>",
+                                    "rawText": "@ds106dc #tdc3845 #ds106 #myFest22  Not sure if this song is about food, but I like it &amp;  it has food in the title:\nhttps://t.co/mq5ypU3Z5v",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 12:41:57 GMT",
+                                    "tweetId": "1550823532807979008",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1550823532807979008",
+                                    "inReplyToId": "1550800652246208513",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
