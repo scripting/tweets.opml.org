@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 07:24:45 GMT"
+            "dateModified": "Sat, 23 Jul 2022 11:58:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "Woke up at 4am (not a rare occurrence these days) and decided to look deeper at #PopOS. My Dell XPS 15 has two NVME slots, so I threw a spare 256 GB SSD in there; no need to partition the Windows 11 drive. Pop is quite nice and approachable: *love* the auto-tiling feature. <a href=\"https://t.co/ejxhoyfps3\">[link]</a>",
+                                    "rawText": "Woke up at 4am (not a rare occurrence these days) and decided to look deeper at #PopOS. My Dell XPS 15 has two NVME slots, so I threw a spare 256 GB SSD in there; no need to partition the Windows 11 drive. Pop is quite nice and approachable: *love* the auto-tiling feature. https://t.co/ejxhoyfps3",
+                                    "type": "tweet",
+                                    "created": "Sat, 23 Jul 2022 11:46:00 GMT",
+                                    "tweetId": "1550809451455778817",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1550809451455778817",
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Different apps can be tabs within the same window too. Very nice!",
+                                            "rawText": "Different apps can be tabs within the same window too. Very nice!",
+                                            "type": "tweet",
+                                            "created": "Sat, 23 Jul 2022 11:55:47 GMT",
+                                            "tweetId": "1550811912203632641",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1550811912203632641",
+                                            "inReplyToId": "1550809451455778817",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Don’t like hearing a digital cricket that stunned itself after flying into a wall every time you send a Tweet? Settings &gt; Accessibility &gt; Display and sound &gt; Sound effects OFF. <a href=\"https://t.co/ClBv1VPASY\">[link]</a>",
                                     "rawText": "Don’t like hearing a digital cricket that stunned itself after flying into a wall every time you send a Tweet? Settings &gt; Accessibility &gt; Display and sound &gt; Sound effects OFF. https://t.co/ClBv1VPASY",
