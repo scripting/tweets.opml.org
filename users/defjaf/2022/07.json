@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 21 Jul 2022 13:10:27 GMT"
+            "dateModified": "Sun, 24 Jul 2022 17:46:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "This is great, but a thread this long (87!) makes me miss blogs. <a href=\"https://t.co/EwAFNHeLFK\">[link]</a>",
+                                    "rawText": "This is great, but a thread this long (87!) makes me miss blogs. https://t.co/EwAFNHeLFK",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 17:45:49 GMT",
+                                    "tweetId": "1551262388216893440",
+                                    "urltweet": "https://twitter.com/defjaf/status/1551262388216893440",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 21",
                             "type": "calendarDay",
