@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 21:29:24 GMT"
+            "dateModified": "Sun, 24 Jul 2022 19:41:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Miley Cyrus: Tiny Desk (Home) Concert <a href=\"https://t.co/DgXWFvHv4C\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Miley Cyrus: Tiny Desk (Home) Concert https://t.co/DgXWFvHv4C",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 19:28:49 GMT",
+                                    "tweetId": "1551288310584205317",
+                                    "urltweet": "https://twitter.com/oevl/status/1551288310584205317",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: Miley Cyrus performs The Doors Roadhouse Blues at the Sunset Marquis Hotel <a href=\"https://t.co/ujehPURvfz\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Miley Cyrus performs The Doors Roadhouse Blues at the Sunset Marquis Hotel https://t.co/ujehPURvfz",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 19:28:48 GMT",
+                                    "tweetId": "1551288307472076800",
+                                    "urltweet": "https://twitter.com/oevl/status/1551288307472076800",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
