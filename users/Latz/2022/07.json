@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 15:55:48 GMT"
+            "dateModified": "Sun, 24 Jul 2022 22:35:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "TIL... that Hans Zimmer (the famous composer) briefly appeard in the video of \"Video killed the radio star\" by The Buggles.\n\n#todayilearned #til\n\n<a href=\"https://t.co/f8vtl9GK4p\">[link]</a>",
+                                    "rawText": "TIL... that Hans Zimmer (the famous composer) briefly appeard in the video of \"Video killed the radio star\" by The Buggles.\n\n#todayilearned #til\n\nhttps://t.co/f8vtl9GK4p",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 22:30:44 GMT",
+                                    "tweetId": "1551334092561682432",
+                                    "urltweet": "https://twitter.com/Latz/status/1551334092561682432",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
