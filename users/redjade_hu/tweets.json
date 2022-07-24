@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 16:03:03 GMT"
+            "dateModified": "Sun, 24 Jul 2022 15:59:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@RealBurnyHansen @ggreenwald parenthood during the covid era",
+                                    "rawText": "@RealBurnyHansen @ggreenwald parenthood during the covid era",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 15:48:23 GMT",
+                                    "tweetId": "1551232835108966400",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1551232835108966400",
+                                    "inReplyToId": "1551228372361117698",
+                                    "tweetUserName": "redjade_hu"
+                                },
+                                {
+                                    "text": "@ggreenwald I'm not sure why Tulsi Gabbard is your Go To person in this issue.",
+                                    "rawText": "@ggreenwald I'm not sure why Tulsi Gabbard is your Go To person in this issue.",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 15:27:31 GMT",
+                                    "tweetId": "1551227586956632064",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1551227586956632064",
+                                    "inReplyToId": "1551226204702793731",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
