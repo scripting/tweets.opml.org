@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 05:58:24 GMT"
+            "dateModified": "Sun, 24 Jul 2022 08:13:05 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "Setting up Chrome OS Flex. Fingers crossed!",
+                                    "rawText": "Setting up Chrome OS Flex. Fingers crossed!",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 08:07:26 GMT",
+                                    "tweetId": "1551116836888285184",
+                                    "urltweet": "https://twitter.com/_am1t/status/1551116836888285184",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
