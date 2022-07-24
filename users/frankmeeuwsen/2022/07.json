@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 16:46:05 GMT"
+            "dateModified": "Sun, 24 Jul 2022 17:25:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "@kangarules @erwblo @boerdeboer @roosvanvugt Klopt. Teveel belangen, verzekeringskwesties en dat soort zaken. Ik reken er niet op, kan het alleen maar meevallen.",
+                                    "rawText": "@kangarules @erwblo @boerdeboer @roosvanvugt Klopt. Teveel belangen, verzekeringskwesties en dat soort zaken. Ik reken er niet op, kan het alleen maar meevallen.",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 17:15:39 GMT",
+                                    "tweetId": "1551254799521386498",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1551254799521386498",
+                                    "inReplyToId": "1551249199991242755",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
                                 {
                                     "text": "@erwblo @boerdeboer @kangarules @roosvanvugt Maar goed, morgen weer een kans op last-minute teleurstellingen. Ik kan niet wachten!",
                                     "rawText": "@erwblo @boerdeboer @kangarules @roosvanvugt Maar goed, morgen weer een kans op last-minute teleurstellingen. Ik kan niet wachten!",
@@ -67,7 +77,19 @@
                                             "tweetId": "1551227546557202433",
                                             "urltweet": "https://twitter.com/frankmeeuwsen/status/1551227546557202433",
                                             "inReplyToId": "1551222966620508161",
-                                            "tweetUserName": "frankmeeuwsen"
+                                            "tweetUserName": "frankmeeuwsen",
+                                            "subs": [
+                                                {
+                                                    "text": "OK dit is dan wel grappig. <a href=\"https://t.co/zf9JcfMUqH\">[link]</a>",
+                                                    "rawText": "OK dit is dan wel grappig. https://t.co/zf9JcfMUqH",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 24 Jul 2022 17:16:58 GMT",
+                                                    "tweetId": "1551255130699350016",
+                                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1551255130699350016",
+                                                    "inReplyToId": "1551227546557202433",
+                                                    "tweetUserName": "frankmeeuwsen"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
