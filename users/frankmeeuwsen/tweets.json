@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 15:10:32 GMT"
+            "dateModified": "Sun, 24 Jul 2022 15:36:34 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 24 Jul 2022 15:09:10 GMT",
                                     "tweetId": "1551222966620508161",
                                     "urltweet": "https://twitter.com/frankmeeuwsen/status/1551222966620508161",
-                                    "tweetUserName": "frankmeeuwsen"
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "IK GA WEL NAAR FRANS BAUER DE VOLGENDE KEER! #pearljam <a href=\"https://t.co/f6mZNyZaYQ\">[link]</a>",
+                                            "rawText": "IK GA WEL NAAR FRANS BAUER DE VOLGENDE KEER! #pearljam https://t.co/f6mZNyZaYQ",
+                                            "type": "tweet",
+                                            "created": "Sun, 24 Jul 2022 15:27:22 GMT",
+                                            "tweetId": "1551227546557202433",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1551227546557202433",
+                                            "inReplyToId": "1551222966620508161",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@kangarules Jij kan rustig met je prive bar in de VIP sectie afwachten! 😉",
