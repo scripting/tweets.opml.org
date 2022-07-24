@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 19:05:01 GMT"
+            "dateModified": "Sun, 24 Jul 2022 19:06:00 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1551282254160318465",
                                     "urltweet": "https://twitter.com/davewiner/status/1551282254160318465",
                                     "inReplyToId": "1551281999855452163",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@XavierOnassis1 Which borough has the best bagels?",
+                                            "rawText": "@XavierOnassis1 Which borough has the best bagels?",
+                                            "type": "tweet",
+                                            "created": "Sun, 24 Jul 2022 19:05:52 GMT",
+                                            "tweetId": "1551282534587285506",
+                                            "urltweet": "https://twitter.com/davewiner/status/1551282534587285506",
+                                            "inReplyToId": "1551282254160318465",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@michaelpinto well thank you michael. what a nice thought. ;-)",
