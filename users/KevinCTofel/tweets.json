@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 21:04:38 GMT"
+            "dateModified": "Sun, 24 Jul 2022 14:38:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@Elrancher0 @kevwright @Motorsportsfan @stevelitchfield @tedsalmonuk ☝🏼",
+                                    "rawText": "@Elrancher0 @kevwright @Motorsportsfan @stevelitchfield @tedsalmonuk ☝🏼",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 14:25:45 GMT",
+                                    "tweetId": "1551212040529874945",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1551212040529874945",
+                                    "inReplyToId": "1551184658401923073",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
