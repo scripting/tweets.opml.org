@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/palayking/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 20 Jul 2022 03:20:13 GMT"
+            "dateModified": "Sun, 24 Jul 2022 06:13:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "Do you remember when you joined Twitter? I do! #MyTwitterAnniversary <a href=\"https://t.co/MPBuaXaNR5\">[link]</a>",
+                                    "rawText": "Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/MPBuaXaNR5",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 06:07:33 GMT",
+                                    "tweetId": "1551086665606860800",
+                                    "urltweet": "https://twitter.com/palayking/status/1551086665606860800",
+                                    "tweetUserName": "palayking"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 19",
                             "type": "calendarDay",
