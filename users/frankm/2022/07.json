@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 19:23:13 GMT"
+            "dateModified": "Sun, 24 Jul 2022 01:19:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "I just earned the 'Verified Adventure (Level 36)' badge on @untappd! <a href=\"https://t.co/7LgWtW7l4F\">[link]</a>",
+                                    "rawText": "I just earned the 'Verified Adventure (Level 36)' badge on @untappd! https://t.co/7LgWtW7l4F",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 01:07:05 GMT",
+                                    "tweetId": "1551011052116115458",
+                                    "urltweet": "https://twitter.com/frankm/status/1551011052116115458",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
