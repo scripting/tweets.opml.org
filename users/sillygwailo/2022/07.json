@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 03:44:18 GMT"
+            "dateModified": "Sun, 24 Jul 2022 04:23:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@joshtpm I suspect I had it in November 2021, but at the time I didn’t think the cold I couldn’t shake for a couple of weeks was serious enough to get a test. If I indeed never got it, it was because I stayed at home and only ever ventured out for necessities for over a year.",
+                                    "rawText": "@joshtpm I suspect I had it in November 2021, but at the time I didn’t think the cold I couldn’t shake for a couple of weeks was serious enough to get a test. If I indeed never got it, it was because I stayed at home and only ever ventured out for necessities for over a year.",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 04:22:18 GMT",
+                                    "tweetId": "1551060178392457218",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1551060178392457218",
+                                    "inReplyToId": "1550914419680575489",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
