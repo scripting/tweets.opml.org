@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 04:36:21 GMT"
+            "dateModified": "Sun, 24 Jul 2022 13:42:57 GMT"
         },
         "body": {
             "subs": [
@@ -462,7 +462,19 @@
                                                             "tweetId": "1550330219961237504",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1550330219961237504",
                                                             "inReplyToId": "1550321733818875904",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "I didn’t go to the second RATM show in Toronto, but if I had, I would have seen this: <a href=\"https://t.co/fLoJkmY5CM\">[link]</a>",
+                                                                    "rawText": "I didn’t go to the second RATM show in Toronto, but if I had, I would have seen this: https://t.co/fLoJkmY5CM",
+                                                                    "type": "tweet",
+                                                                    "created": "Sun, 24 Jul 2022 13:41:50 GMT",
+                                                                    "tweetId": "1551200991487352832",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1551200991487352832",
+                                                                    "inReplyToId": "1550330219961237504",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
