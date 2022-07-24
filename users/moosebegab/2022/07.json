@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 17:29:54 GMT"
+            "dateModified": "Sun, 24 Jul 2022 14:58:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@RPMirabella feel better.",
+                                    "rawText": "@RPMirabella feel better.",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 14:51:29 GMT",
+                                    "tweetId": "1551218518208684032",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1551218518208684032",
+                                    "inReplyToId": "1551214778294706176",
+                                    "tweetUserName": "moosebegab"
+                                },
+                                {
+                                    "text": "@sandyshores27 @ReciteSocial might be this... <a href=\"https://t.co/EH6VsMvqZZ\">[link]</a>",
+                                    "rawText": "@sandyshores27 @ReciteSocial might be this... https://t.co/EH6VsMvqZZ",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 14:45:22 GMT",
+                                    "tweetId": "1551216979884785668",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1551216979884785668",
+                                    "inReplyToId": "1551208098697596928",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
