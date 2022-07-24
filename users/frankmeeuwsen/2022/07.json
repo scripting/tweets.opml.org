@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 19:52:18 GMT"
+            "dateModified": "Sun, 24 Jul 2022 07:22:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@sdebakker @roosvanvugt @PearlJam @ChristaRomp Het lijkt er vooralsnog op dat alles door gaat. Maar goed, niets is zeker deze dagen.",
+                                    "rawText": "@sdebakker @roosvanvugt @PearlJam @ChristaRomp Het lijkt er vooralsnog op dat alles door gaat. Maar goed, niets is zeker deze dagen.",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 07:21:15 GMT",
+                                    "tweetId": "1551105213049749506",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1551105213049749506",
+                                    "inReplyToId": "1551100260415672328",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
