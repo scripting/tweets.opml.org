@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 07:22:02 GMT"
+            "dateModified": "Sun, 24 Jul 2022 08:27:06 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1551105213049749506",
                                     "urltweet": "https://twitter.com/frankmeeuwsen/status/1551105213049749506",
                                     "inReplyToId": "1551100260415672328",
-                                    "tweetUserName": "frankmeeuwsen"
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "@sdebakker @roosvanvugt @PearlJam @ChristaRomp <a href=\"https://t.co/Nk3xXE0C6n\">[link]</a>",
+                                            "rawText": "@sdebakker @roosvanvugt @PearlJam @ChristaRomp https://t.co/Nk3xXE0C6n",
+                                            "type": "tweet",
+                                            "created": "Sun, 24 Jul 2022 08:27:05 GMT",
+                                            "tweetId": "1551121778512216071",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1551121778512216071",
+                                            "inReplyToId": "1551105213049749506",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
                                 }
                             ]
                         },
