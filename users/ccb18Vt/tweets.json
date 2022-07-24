@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ccb18Vt/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 22 Jul 2022 20:55:34 GMT"
+            "dateModified": "Sun, 24 Jul 2022 10:13:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "Wordle 400 6/6\n\n⬜🟨⬜⬜⬜\n⬜⬜🟨⬜🟨\n⬜⬜⬜🟩🟨\n⬜🟩⬜🟩🟩\n⬜🟩⬜🟩🟩\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 400 6/6\n\n⬜🟨⬜⬜⬜\n⬜⬜🟨⬜🟨\n⬜⬜⬜🟩🟨\n⬜🟩⬜🟩🟩\n⬜🟩⬜🟩🟩\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 10:11:39 GMT",
+                                    "tweetId": "1551148093327941637",
+                                    "urltweet": "https://twitter.com/ccb18Vt/status/1551148093327941637",
+                                    "tweetUserName": "ccb18Vt"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 22",
                             "type": "calendarDay",
