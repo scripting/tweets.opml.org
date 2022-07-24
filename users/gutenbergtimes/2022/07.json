@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 21:31:39 GMT"
+            "dateModified": "Sun, 24 Jul 2022 12:42:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "New episode: Gutenberg Changelog #70 Birgit Pauli-Haack @bph &amp; Mary Job @maryojob + special guest @RyanWelcher discuss Gutenberg release 13.7, block themes in Woo Commerce marketplace,\nmore examples code for data module, and more. <a href=\"https://t.co/D01TiofNjM\">[link]</a>",
+                                    "rawText": "New episode: Gutenberg Changelog #70 Birgit Pauli-Haack @bph &amp; Mary Job @maryojob + special guest @RyanWelcher discuss Gutenberg release 13.7, block themes in Woo Commerce marketplace,\nmore examples code for data module, and more. https://t.co/D01TiofNjM",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 12:38:56 GMT",
+                                    "tweetId": "1551185159944290306",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1551185159944290306",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
