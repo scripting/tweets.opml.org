@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 18:15:12 GMT"
+            "dateModified": "Sun, 24 Jul 2022 13:46:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@SirEelBiscuits Oh no",
+                                    "rawText": "@SirEelBiscuits Oh no",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 13:34:49 GMT",
+                                    "tweetId": "1551199222762020872",
+                                    "urltweet": "https://twitter.com/chiguire/status/1551199222762020872",
+                                    "inReplyToId": "1551198238966939649",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
