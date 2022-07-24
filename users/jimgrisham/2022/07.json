@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 23 Jul 2022 18:49:14 GMT"
+            "dateModified": "Sun, 24 Jul 2022 19:24:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,35 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@smallsoulbites @ericgarland If anyone is honestly interested in that:\n\n<a href=\"https://t.co/ODENXDgKhj\">[link]</a> https://t.co/kAwEyeTWte",
+                                    "rawText": "@smallsoulbites @ericgarland If anyone is honestly interested in that:\n\nhttps://t.co/ODENXDgKhj https://t.co/kAwEyeTWte",
+                                    "type": "tweet",
+                                    "created": "Sun, 24 Jul 2022 19:20:43 GMT",
+                                    "tweetId": "1551286271430909953",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1551286271430909953",
+                                    "inReplyToId": "1551282789802180610",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@smallsoulbites @ericgarland (Follow @TwitterSafety for more useful tips.)",
+                                            "rawText": "@smallsoulbites @ericgarland (Follow @TwitterSafety for more useful tips.)",
+                                            "type": "tweet",
+                                            "created": "Sun, 24 Jul 2022 19:21:58 GMT",
+                                            "tweetId": "1551286586049908736",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1551286586049908736",
+                                            "inReplyToId": "1551286271430909953",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 23",
                             "type": "calendarDay",
