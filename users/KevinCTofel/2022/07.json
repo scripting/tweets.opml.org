@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 01:20:53 GMT"
+            "dateModified": "Mon, 25 Jul 2022 13:55:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "\"The robot broke the child's finger,\" Sergey Lazarev, Moscow Chess Federation President, told Tass news agency. \"This is of course bad.\" (Narrator: *dramatic pause*….. Ya think?!?) <a href=\"https://t.co/3PJfE6812X\">[link]</a>",
+                                    "rawText": "\"The robot broke the child's finger,\" Sergey Lazarev, Moscow Chess Federation President, told Tass news agency. \"This is of course bad.\" (Narrator: *dramatic pause*….. Ya think?!?) https://t.co/3PJfE6812X",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Jul 2022 13:47:35 GMT",
+                                    "tweetId": "1551564824118714376",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1551564824118714376",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
