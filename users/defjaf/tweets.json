@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 17:46:54 GMT"
+            "dateModified": "Mon, 25 Jul 2022 14:10:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Of the 5 (of ~100 who took the exam) students to give “free text comments” on our astrophysics course this year, one was very positive, two were equivocal, one complained about our email response times, and one was “delete this module”.",
+                                    "rawText": "Of the 5 (of ~100 who took the exam) students to give “free text comments” on our astrophysics course this year, one was very positive, two were equivocal, one complained about our email response times, and one was “delete this module”.",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Jul 2022 14:02:52 GMT",
+                                    "tweetId": "1551568670513664001",
+                                    "urltweet": "https://twitter.com/defjaf/status/1551568670513664001",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
