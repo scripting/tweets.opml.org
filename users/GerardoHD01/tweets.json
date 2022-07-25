@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 15:09:47 GMT"
+            "dateModified": "Mon, 25 Jul 2022 15:22:48 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "25",
                             "subs": [
                                 {
+                                    "text": "@gonzaicasuriaga yo entre ese par me acabo la lengua! 😍😋😋😋",
+                                    "rawText": "@gonzaicasuriaga yo entre ese par me acabo la lengua! 😍😋😋😋",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Jul 2022 15:16:53 GMT",
+                                    "tweetId": "1551587298596249600",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1551587298596249600",
+                                    "inReplyToId": "1551575532600528898",
+                                    "tweetUserName": "GerardoHD01"
+                                },
+                                {
                                     "text": "Por estupideces como ésta detesto tener que usar #Windows #MicrosoftES <a href=\"https://t.co/QRsZ807Tjm\">[link]</a>",
                                     "rawText": "Por estupideces como ésta detesto tener que usar #Windows #MicrosoftES https://t.co/QRsZ807Tjm",
                                     "type": "tweet",
                                     "created": "Mon, 25 Jul 2022 15:06:19 GMT",
                                     "tweetId": "1551584640405626881",
                                     "urltweet": "https://twitter.com/GerardoHD01/status/1551584640405626881",
-                                    "tweetUserName": "GerardoHD01"
+                                    "tweetUserName": "GerardoHD01",
+                                    "subs": [
+                                        {
+                                            "text": "En #Fedora  #Linux no se ponen con moños 🥰🥰 <a href=\"https://t.co/J7yN7Uvqoa\">[link]</a>",
+                                            "rawText": "En #Fedora  #Linux no se ponen con moños 🥰🥰 https://t.co/J7yN7Uvqoa",
+                                            "type": "tweet",
+                                            "created": "Mon, 25 Jul 2022 15:20:22 GMT",
+                                            "tweetId": "1551588174123700224",
+                                            "urltweet": "https://twitter.com/GerardoHD01/status/1551588174123700224",
+                                            "inReplyToId": "1551584640405626881",
+                                            "tweetUserName": "GerardoHD01"
+                                        }
+                                    ]
                                 }
                             ]
                         },
