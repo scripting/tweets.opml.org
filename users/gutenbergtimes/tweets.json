@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 12:42:38 GMT"
+            "dateModified": "Mon, 25 Jul 2022 13:30:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Video of last week's Live Q &amp; A: Block-First Approach at Pew Research Center with @mpiccorossi @sethrubenstein co-hosted by @bph is now available. <a href=\"https://t.co/Sx2lPN27TD\">[link]</a>",
+                                    "rawText": "Video of last week's Live Q &amp; A: Block-First Approach at Pew Research Center with @mpiccorossi @sethrubenstein co-hosted by @bph is now available. https://t.co/Sx2lPN27TD",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Jul 2022 13:18:51 GMT",
+                                    "tweetId": "1551557592937373696",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1551557592937373696",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
