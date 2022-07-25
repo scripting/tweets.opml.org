@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 14:29:30 GMT"
+            "dateModified": "Mon, 25 Jul 2022 15:30:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,70 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nA little application of Snell's Law (n1 sin(θ1)=n2 sin(θ2)) against a grid of materials using Cauchy refraction modeling (n(λ) = A + B/λ²)\n\nMapping various gradients to λ; it doesn't have to be a rainbow\n\n#XQuery #SVG \n\nLightning strikes <a href=\"https://t.co/wA7yoz40RK\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nA little application of Snell's Law (n1 sin(θ1)=n2 sin(θ2)) against a grid of materials using Cauchy refraction modeling (n(λ) = A + B/λ²)\n\nMapping various gradients to λ; it doesn't have to be a rainbow\n\n#XQuery #SVG \n\nLightning strikes https://t.co/wA7yoz40RK",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Jul 2022 15:23:36 GMT",
+                                    "tweetId": "1551588987571056641",
+                                    "urltweet": "https://twitter.com/mathling/status/1551588987571056641",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Fractures in the ice <a href=\"https://t.co/KjMrn3Kg6E\">[link]</a>",
+                                            "rawText": "Fractures in the ice https://t.co/KjMrn3Kg6E",
+                                            "type": "tweet",
+                                            "created": "Mon, 25 Jul 2022 15:23:37 GMT",
+                                            "tweetId": "1551588993459900417",
+                                            "urltweet": "https://twitter.com/mathling/status/1551588993459900417",
+                                            "inReplyToId": "1551588987571056641",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "The arrangement of materials in the grid doesn't need to be random. Here alternation in columns can channel beams coming from certain angles.\n\nThe light trap <a href=\"https://t.co/onUFnRyksK\">[link]</a>",
+                                                    "rawText": "The arrangement of materials in the grid doesn't need to be random. Here alternation in columns can channel beams coming from certain angles.\n\nThe light trap https://t.co/onUFnRyksK",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 25 Jul 2022 15:23:39 GMT",
+                                                    "tweetId": "1551588998925012993",
+                                                    "urltweet": "https://twitter.com/mathling/status/1551588998925012993",
+                                                    "inReplyToId": "1551588993459900417",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "These aren't particularly realistic materials: I have the dispersion cranked to 11, as it were, and there no absorbance is modeled. \n\nShimmer <a href=\"https://t.co/pBcPFb2T7F\">[link]</a>",
+                                                            "rawText": "These aren't particularly realistic materials: I have the dispersion cranked to 11, as it were, and there no absorbance is modeled. \n\nShimmer https://t.co/pBcPFb2T7F",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 25 Jul 2022 15:23:40 GMT",
+                                                            "tweetId": "1551589004893491202",
+                                                            "urltweet": "https://twitter.com/mathling/status/1551589004893491202",
+                                                            "inReplyToId": "1551588998925012993",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Sometimes the light gets trapped in a loop, so I had to add an iteration limit. \n\nFive beams enter: four escape (you just have to trust me on that: the splitting hides the fact)\n\nLight trying to escape from the sun <a href=\"https://t.co/v61HAumQbx\">[link]</a>",
+                                                                    "rawText": "Sometimes the light gets trapped in a loop, so I had to add an iteration limit. \n\nFive beams enter: four escape (you just have to trust me on that: the splitting hides the fact)\n\nLight trying to escape from the sun https://t.co/v61HAumQbx",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 25 Jul 2022 15:23:41 GMT",
+                                                                    "tweetId": "1551589010702602240",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1551589010702602240",
+                                                                    "inReplyToId": "1551589004893491202",
+                                                                    "tweetUserName": "mathling"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
