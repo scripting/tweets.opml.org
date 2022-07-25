@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 00:08:04 GMT"
+            "dateModified": "Mon, 25 Jul 2022 16:50:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@cliff1976 @swaggoner But can you do the 30€ steak? 🤔",
+                                    "rawText": "@cliff1976 @swaggoner But can you do the 30€ steak? 🤔",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Jul 2022 16:39:55 GMT",
+                                    "tweetId": "1551608191842414592",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1551608191842414592",
+                                    "inReplyToId": "1551587321480462337",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
