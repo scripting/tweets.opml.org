@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 21:29:09 GMT"
+            "dateModified": "Mon, 25 Jul 2022 10:16:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@rafagarces Mírate la propiedad Rollup",
+                                    "rawText": "@rafagarces Mírate la propiedad Rollup",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Jul 2022 10:09:49 GMT",
+                                    "tweetId": "1551510021153980417",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1551510021153980417",
+                                    "inReplyToId": "1551504973380591616",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
