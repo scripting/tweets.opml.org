@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 02:06:26 GMT"
+            "dateModified": "Mon, 25 Jul 2022 14:41:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "i've got a few hard sudoku under my belt. when i get to end of book, i'll go back and do the (many) hard ones I skipped..lol",
+                                    "rawText": "i've got a few hard sudoku under my belt. when i get to end of book, i'll go back and do the (many) hard ones I skipped..lol",
+                                    "type": "tweet",
+                                    "created": "Mon, 25 Jul 2022 14:39:37 GMT",
+                                    "tweetId": "1551577920627408897",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1551577920627408897",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
