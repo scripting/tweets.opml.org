@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 14:15:00 GMT"
+            "dateModified": "Mon, 25 Jul 2022 14:16:00 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1551571682351058946",
                                     "urltweet": "https://twitter.com/davewiner/status/1551571682351058946",
                                     "inReplyToId": "1551558184929837056",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@TaylorLorenz it seems to me the washington post should be covering this. in the past news orgs would go on civic-minded campaigns like this, if i recall correctly (might've just been in the movies though).",
+                                            "rawText": "@TaylorLorenz it seems to me the washington post should be covering this. in the past news orgs would go on civic-minded campaigns like this, if i recall correctly (might've just been in the movies though).",
+                                            "type": "tweet",
+                                            "created": "Mon, 25 Jul 2022 14:15:40 GMT",
+                                            "tweetId": "1551571892632518656",
+                                            "urltweet": "https://twitter.com/davewiner/status/1551571892632518656",
+                                            "inReplyToId": "1551571682351058946",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@fredwilson @phkeane Charlie Hustle.",
