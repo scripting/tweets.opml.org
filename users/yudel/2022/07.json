@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 01:57:43 GMT"
+            "dateModified": "Tue, 26 Jul 2022 03:41:49 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "Short, worthwhile thread <a href=\"https://t.co/xMhz29NcKu\">[link]</a>",
+                                    "rawText": "Short, worthwhile thread https://t.co/xMhz29NcKu",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Jul 2022 03:31:58 GMT",
+                                    "tweetId": "1551772289053630464",
+                                    "urltweet": "https://twitter.com/yudel/status/1551772289053630464",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@HareianiBlog @JudaismUnbound certainly.",
                                     "rawText": "@HareianiBlog @JudaismUnbound certainly.",
