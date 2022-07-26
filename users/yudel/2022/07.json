@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 19:18:49 GMT"
+            "dateModified": "Tue, 26 Jul 2022 19:31:50 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@MotyRavenChabin @MisfitTorah @Adderabbi <a href=\"https://t.co/NfGYgv7EIa\">[link]</a>",
+                                    "rawText": "@MotyRavenChabin @MisfitTorah @Adderabbi https://t.co/NfGYgv7EIa",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Jul 2022 19:28:46 GMT",
+                                    "tweetId": "1552013073682206721",
+                                    "urltweet": "https://twitter.com/yudel/status/1552013073682206721",
+                                    "inReplyToId": "1552012465231331329",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@MotyRavenChabin @MisfitTorah @Adderabbi That’s the lime jello reference, which I first learned from The Big Book of Jewish Humor. <a href=\"https://t.co/4lXtXtCeR8\">[link]</a>",
+                                            "rawText": "@MotyRavenChabin @MisfitTorah @Adderabbi That’s the lime jello reference, which I first learned from The Big Book of Jewish Humor. https://t.co/4lXtXtCeR8",
+                                            "type": "tweet",
+                                            "created": "Tue, 26 Jul 2022 19:30:42 GMT",
+                                            "tweetId": "1552013562184433666",
+                                            "urltweet": "https://twitter.com/yudel/status/1552013562184433666",
+                                            "inReplyToId": "1552013073682206721",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@MisfitTorah @Adderabbi Let me know how many sfaradim are convinced by his argument.",
                                     "rawText": "@MisfitTorah @Adderabbi Let me know how many sfaradim are convinced by his argument.",
@@ -68,7 +90,19 @@
                                                                     "tweetId": "1552009845578076160",
                                                                     "urltweet": "https://twitter.com/yudel/status/1552009845578076160",
                                                                     "inReplyToId": "1552009334569279488",
-                                                                    "tweetUserName": "yudel"
+                                                                    "tweetUserName": "yudel",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "@MisfitTorah @Adderabbi But it’s ultimately epistemological. How do we know (we should do) this?",
+                                                                            "rawText": "@MisfitTorah @Adderabbi But it’s ultimately epistemological. How do we know (we should do) this?",
+                                                                            "type": "tweet",
+                                                                            "created": "Tue, 26 Jul 2022 19:21:42 GMT",
+                                                                            "tweetId": "1552011297021202432",
+                                                                            "urltweet": "https://twitter.com/yudel/status/1552011297021202432",
+                                                                            "inReplyToId": "1552009845578076160",
+                                                                            "tweetUserName": "yudel"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
