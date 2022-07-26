@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 02:00:43 GMT"
+            "dateModified": "Tue, 26 Jul 2022 13:30:27 GMT"
         },
         "body": {
             "subs": [
@@ -3049,7 +3049,19 @@
                                     "created": "Wed, 06 Jul 2022 14:40:36 GMT",
                                     "tweetId": "1544692797176938499",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1544692797176938499",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Uh oh. <a href=\"https://t.co/LWb7GyITeA\">[link]</a>",
+                                            "rawText": "Uh oh. https://t.co/LWb7GyITeA",
+                                            "type": "tweet",
+                                            "created": "Tue, 26 Jul 2022 13:23:31 GMT",
+                                            "tweetId": "1551921155631681537",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1551921155631681537",
+                                            "inReplyToId": "1544692797176938499",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Twitter needs a “This tweet has been dunked on enough already!” warning label.",
