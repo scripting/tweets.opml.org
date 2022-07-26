@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 00:26:07 GMT"
+            "dateModified": "Tue, 26 Jul 2022 05:38:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@nicoline Leukste feestje ever-ooit van de hele wereld!",
+                                    "rawText": "@nicoline Leukste feestje ever-ooit van de hele wereld!",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Jul 2022 05:37:34 GMT",
+                                    "tweetId": "1551803897370517504",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1551803897370517504",
+                                    "inReplyToId": "1551775036691959809",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 25",
                             "type": "calendarDay",
