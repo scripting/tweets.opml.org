@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/seanreiser/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 01:04:21 GMT"
+            "dateModified": "Tue, 26 Jul 2022 00:54:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "As I say, in tech 53 is the new 85 - <a href=\"https://t.co/aIls76LRqK\">[link]</a>  via @seanreiser",
+                                    "rawText": "As I say, in tech 53 is the new 85 - https://t.co/aIls76LRqK  via @seanreiser",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Jul 2022 00:54:24 GMT",
+                                    "tweetId": "1551732632379072512",
+                                    "urltweet": "https://twitter.com/seanreiser/status/1551732632379072512",
+                                    "tweetUserName": "seanreiser"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
