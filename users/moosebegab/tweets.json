@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 21:11:40 GMT"
+            "dateModified": "Tue, 26 Jul 2022 20:50:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "I really like this cover. <a href=\"https://t.co/Y51dlLY04l\">[link]</a>",
+                                    "rawText": "I really like this cover. https://t.co/Y51dlLY04l",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Jul 2022 20:42:28 GMT",
+                                    "tweetId": "1552031620915412995",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1552031620915412995",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 25",
                             "type": "calendarDay",
