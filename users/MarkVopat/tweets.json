@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 01:54:56 GMT"
+            "dateModified": "Tue, 26 Jul 2022 21:04:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Wordle 402 3/6\n\n⬜⬜⬜🟩⬜\n🟩⬜🟨🟩⬜\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 402 3/6\n\n⬜⬜⬜🟩⬜\n🟩⬜🟨🟩⬜\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Jul 2022 20:54:13 GMT",
+                                    "tweetId": "1552034579330043905",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1552034579330043905",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
