@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 13:30:27 GMT"
+            "dateModified": "Tue, 26 Jul 2022 13:56:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@gruber I use tab groups to name the task I’m working on that requires switching between tabs. That’s as a way to keep my focus on the task and, if I get distracted, I know what those tabs were for. As soon as the task is done, I ruthlessly close the tab group.",
+                                    "rawText": "@gruber I use tab groups to name the task I’m working on that requires switching between tabs. That’s as a way to keep my focus on the task and, if I get distracted, I know what those tabs were for. As soon as the task is done, I ruthlessly close the tab group.",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Jul 2022 13:56:18 GMT",
+                                    "tweetId": "1551929404175142912",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1551929404175142912",
+                                    "inReplyToId": "1551567386553319425",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 25",
                             "type": "calendarDay",
