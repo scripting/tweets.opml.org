@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 20:54:39 GMT"
+            "dateModified": "Tue, 26 Jul 2022 08:50:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@pplaza_ Baia",
+                                    "rawText": "@pplaza_ Baia",
+                                    "type": "tweet",
+                                    "created": "Tue, 26 Jul 2022 08:43:08 GMT",
+                                    "tweetId": "1551850593387528192",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1551850593387528192",
+                                    "inReplyToId": "1551849823762272262",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 25",
                             "type": "calendarDay",
