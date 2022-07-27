@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 12:33:25 GMT"
+            "dateModified": "Wed, 27 Jul 2022 13:25:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "Piñita update 🍍: se desprendió antes de tiempo :( pero por otro lado… <a href=\"https://t.co/cPKjYl5gSh\">[link]</a>",
+                                    "rawText": "Piñita update 🍍: se desprendió antes de tiempo :( pero por otro lado… https://t.co/cPKjYl5gSh",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 13:23:56 GMT",
+                                    "tweetId": "1552283649718063104",
+                                    "urltweet": "https://twitter.com/chiguire/status/1552283649718063104",
+                                    "inReplyToId": "1536632520070012934",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@cris7ian <a href=\"https://t.co/TlXjnIF0HG\">[link]</a>",
                                     "rawText": "@cris7ian https://t.co/TlXjnIF0HG",
@@ -97,7 +107,19 @@
                                             "tweetId": "1552197285274157057",
                                             "urltweet": "https://twitter.com/chiguire/status/1552197285274157057",
                                             "inReplyToId": "1552196873276080128",
-                                            "tweetUserName": "chiguire"
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/pGnElmezkr\">[link]</a>",
+                                                    "rawText": "https://t.co/pGnElmezkr",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 27 Jul 2022 13:19:09 GMT",
+                                                    "tweetId": "1552282444941991936",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1552282444941991936",
+                                                    "inReplyToId": "1552197285274157057",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
