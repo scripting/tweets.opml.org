@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 14:33:17 GMT"
+            "dateModified": "Wed, 27 Jul 2022 16:17:24 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "Vale, ya <a href=\"https://t.co/4O0QVxdYpC\">[link]</a>",
+                                    "rawText": "Vale, ya https://t.co/4O0QVxdYpC",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 16:10:31 GMT",
+                                    "tweetId": "1552325568745639937",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1552325568745639937",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "Ayer ligué (un chico me hizo un bizum)",
                                     "rawText": "Ayer ligué (un chico me hizo un bizum)",
