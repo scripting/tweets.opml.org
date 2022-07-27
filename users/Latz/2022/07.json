@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 18:58:31 GMT"
+            "dateModified": "Wed, 27 Jul 2022 08:03:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Stadt Kassel eröffnet am Bahnhof Wilhelmshöhe erste Schließanlage für Fahrräder (<a href=\"https://t.co/6Hiu44Znd4\">[link]</a>)",
+                                    "rawText": "Stadt Kassel eröffnet am Bahnhof Wilhelmshöhe erste Schließanlage für Fahrräder (https://t.co/6Hiu44Znd4)",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 07:55:15 GMT",
+                                    "tweetId": "1552200931810344961",
+                                    "urltweet": "https://twitter.com/Latz/status/1552200931810344961",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 25",
                             "type": "calendarDay",
