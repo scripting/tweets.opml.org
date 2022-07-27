@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 24 Jul 2022 07:13:01 GMT"
+            "dateModified": "Wed, 27 Jul 2022 09:54:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Published 1 more photos on my Flickr account: <a href=\"https://t.co/xHZ63C1Vvz\">[link]</a> 📷 🏷️ https://t.co/RcRzxB1N88",
+                                    "rawText": "Published 1 more photos on my Flickr account: https://t.co/xHZ63C1Vvz 📷 🏷️ https://t.co/RcRzxB1N88",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 09:44:43 GMT",
+                                    "tweetId": "1552228482494746625",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1552228482494746625",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 24",
                             "type": "calendarDay",
