@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 18 Jul 2022 03:04:13 GMT"
+            "dateModified": "Wed, 27 Jul 2022 18:10:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@tacanderson @djjohnrichards @kexp nah, plus i was in college in seattle so natural harmonic",
+                                    "rawText": "@tacanderson @djjohnrichards @kexp nah, plus i was in college in seattle so natural harmonic",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 17:59:12 GMT",
+                                    "tweetId": "1552352920892428288",
+                                    "urltweet": "https://twitter.com/mal/status/1552352920892428288",
+                                    "inReplyToId": "1552329931777929216",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 17",
                             "type": "calendarDay",
