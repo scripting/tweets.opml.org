@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 19:24:20 GMT"
+            "dateModified": "Wed, 27 Jul 2022 14:29:32 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Beyond books: The 21st century public library <a href=\"https://t.co/oQZUt5HXMB\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Beyond books: The 21st century public library https://t.co/oQZUt5HXMB",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 14:28:25 GMT",
+                                    "tweetId": "1552299875739602944",
+                                    "urltweet": "https://twitter.com/oevl/status/1552299875739602944",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 26",
                             "type": "calendarDay",
