@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 13:37:58 GMT"
+            "dateModified": "Wed, 27 Jul 2022 22:23:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,106 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt  interlude\n\nBaravelle spirals: a stupidly simple system\n\nAlso: a demonstration of convergent sums\n\n#XQuery #SVG \n\nBlue vortex <a href=\"https://t.co/KiDarYjVzD\">[link]</a>",
+                                    "rawText": "#GenerativeArt  interlude\n\nBaravelle spirals: a stupidly simple system\n\nAlso: a demonstration of convergent sums\n\n#XQuery #SVG \n\nBlue vortex https://t.co/KiDarYjVzD",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 22:15:27 GMT",
+                                    "tweetId": "1552417408022827008",
+                                    "urltweet": "https://twitter.com/mathling/status/1552417408022827008",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Take a regular n-gon. Connect up edge midpoints to get a new, smaller n-gon plus a set of n triangles. Iterate. Order things so that new triangles follow old ones, ending with the last n-gon. Colour mod n, you get spirals. Or: colour sequentially.\n\nTriangle rose <a href=\"https://t.co/cg6Cgof8xN\">[link]</a>",
+                                            "rawText": "Take a regular n-gon. Connect up edge midpoints to get a new, smaller n-gon plus a set of n triangles. Iterate. Order things so that new triangles follow old ones, ending with the last n-gon. Colour mod n, you get spirals. Or: colour sequentially.\n\nTriangle rose https://t.co/cg6Cgof8xN",
+                                            "type": "tweet",
+                                            "created": "Wed, 27 Jul 2022 22:15:28 GMT",
+                                            "tweetId": "1552417413865431040",
+                                            "urltweet": "https://twitter.com/mathling/status/1552417413865431040",
+                                            "inReplyToId": "1552417408022827008",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "You don't actually need to use the midpoints. You could instead always use a point x% from the edge start.\n\nFalling into the tornado <a href=\"https://t.co/VjbFOmxdJJ\">[link]</a>",
+                                                    "rawText": "You don't actually need to use the midpoints. You could instead always use a point x% from the edge start.\n\nFalling into the tornado https://t.co/VjbFOmxdJJ",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 27 Jul 2022 22:15:29 GMT",
+                                                    "tweetId": "1552417418995441664",
+                                                    "urltweet": "https://twitter.com/mathling/status/1552417418995441664",
+                                                    "inReplyToId": "1552417413865431040",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "You don't actually even need to use regular polygons.\n\nCurling wave <a href=\"https://t.co/LuHdFtHFl6\">[link]</a>",
+                                                            "rawText": "You don't actually even need to use regular polygons.\n\nCurling wave https://t.co/LuHdFtHFl6",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 27 Jul 2022 22:15:31 GMT",
+                                                            "tweetId": "1552417424254705665",
+                                                            "urltweet": "https://twitter.com/mathling/status/1552417424254705665",
+                                                            "inReplyToId": "1552417418995441664",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "What other fun can we have with this simple system?\nWell, we can choose to subdivide the triangles as well. (Random colouring scheme.) <a href=\"https://t.co/FjNSryzzSH\">[link]</a>",
+                                                                    "rawText": "What other fun can we have with this simple system?\nWell, we can choose to subdivide the triangles as well. (Random colouring scheme.) https://t.co/FjNSryzzSH",
+                                                                    "type": "tweet",
+                                                                    "created": "Wed, 27 Jul 2022 22:15:32 GMT",
+                                                                    "tweetId": "1552417430550753280",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1552417430550753280",
+                                                                    "inReplyToId": "1552417424254705665",
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Dialing up the subdivision to 11 <a href=\"https://t.co/5caC1B7KWh\">[link]</a>",
+                                                                            "rawText": "Dialing up the subdivision to 11 https://t.co/5caC1B7KWh",
+                                                                            "type": "tweet",
+                                                                            "created": "Wed, 27 Jul 2022 22:15:34 GMT",
+                                                                            "tweetId": "1552417436657283072",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1552417436657283072",
+                                                                            "inReplyToId": "1552417430550753280",
+                                                                            "tweetUserName": "mathling",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "Finally, we can take the output and warp it in some way.\n\nThe twisted glass <a href=\"https://t.co/50V1zOGU6D\">[link]</a>",
+                                                                                    "rawText": "Finally, we can take the output and warp it in some way.\n\nThe twisted glass https://t.co/50V1zOGU6D",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Wed, 27 Jul 2022 22:15:35 GMT",
+                                                                                    "tweetId": "1552417442361937920",
+                                                                                    "urltweet": "https://twitter.com/mathling/status/1552417442361937920",
+                                                                                    "inReplyToId": "1552417436657283072",
+                                                                                    "tweetUserName": "mathling",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "Last one: a less extreme warp.\n\nThe alien pinecone <a href=\"https://t.co/Gbk8cuxJXo\">[link]</a>",
+                                                                                            "rawText": "Last one: a less extreme warp.\n\nThe alien pinecone https://t.co/Gbk8cuxJXo",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Wed, 27 Jul 2022 22:15:36 GMT",
+                                                                                            "tweetId": "1552417448338800640",
+                                                                                            "urltweet": "https://twitter.com/mathling/status/1552417448338800640",
+                                                                                            "inReplyToId": "1552417442361937920",
+                                                                                            "tweetUserName": "mathling"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 26",
                             "type": "calendarDay",
