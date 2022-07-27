@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 20:17:00 GMT"
+            "dateModified": "Wed, 27 Jul 2022 20:21:00 GMT"
         },
         "body": {
             "subs": [
@@ -133,7 +133,19 @@
                                                     "tweetId": "1552386409251627008",
                                                     "urltweet": "https://twitter.com/davewiner/status/1552386409251627008",
                                                     "inReplyToId": "1552386148059717632",
-                                                    "tweetUserName": "davewiner"
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "This could be where all the reader apps get together. I wonder how much they share info with each other. I have no idea because literally none of them talk to me.",
+                                                            "rawText": "This could be where all the reader apps get together. I wonder how much they share info with each other. I have no idea because literally none of them talk to me.",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 27 Jul 2022 20:20:28 GMT",
+                                                            "tweetId": "1552388470936592388",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1552388470936592388",
+                                                            "inReplyToId": "1552386409251627008",
+                                                            "tweetUserName": "davewiner"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
