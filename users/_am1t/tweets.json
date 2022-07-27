@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 13:47:27 GMT"
+            "dateModified": "Wed, 27 Jul 2022 13:04:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "I have been under the weather for the last few days. I rested for the first couple of days and got much-needed sleep at unusual times. But the recovery period gave me a chance to read a few books after a long time. I slept and I read. A nice break I must say.",
+                                    "rawText": "I have been under the weather for the last few days. I rested for the first couple of days and got much-needed sleep at unusual times. But the recovery period gave me a chance to read a few books after a long time. I slept and I read. A nice break I must say.",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 13:02:57 GMT",
+                                    "tweetId": "1552278368384696321",
+                                    "urltweet": "https://twitter.com/_am1t/status/1552278368384696321",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 25",
                             "type": "calendarDay",
