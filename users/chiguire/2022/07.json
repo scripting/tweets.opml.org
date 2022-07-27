@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 07:34:06 GMT"
+            "dateModified": "Wed, 27 Jul 2022 07:47:07 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "No entiendo el meme de breakdancing cat, pero lo tripeo inmensamente <a href=\"https://t.co/NseDHYLOfw\">[link]</a>",
+                                    "rawText": "No entiendo el meme de breakdancing cat, pero lo tripeo inmensamente https://t.co/NseDHYLOfw",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 07:39:07 GMT",
+                                    "tweetId": "1552196873276080128",
+                                    "urltweet": "https://twitter.com/chiguire/status/1552196873276080128",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Y sí, claro que sí <a href=\"https://t.co/VVedO0AxWH\">[link]</a>",
+                                            "rawText": "Y sí, claro que sí https://t.co/VVedO0AxWH",
+                                            "type": "tweet",
+                                            "created": "Wed, 27 Jul 2022 07:40:45 GMT",
+                                            "tweetId": "1552197285274157057",
+                                            "urltweet": "https://twitter.com/chiguire/status/1552197285274157057",
+                                            "inReplyToId": "1552196873276080128",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@nkizz11 @olafurw Help\nHelp",
                                     "rawText": "@nkizz11 @olafurw Help\nHelp",
