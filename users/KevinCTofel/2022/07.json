@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 01:42:59 GMT"
+            "dateModified": "Wed, 27 Jul 2022 12:59:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@mellowrich Hmm… ChromeOS Flex doesn’t support or include the Play Store. Are you sure it was there after installation?",
+                                    "rawText": "@mellowrich Hmm… ChromeOS Flex doesn’t support or include the Play Store. Are you sure it was there after installation?",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 12:49:12 GMT",
+                                    "tweetId": "1552274909400809472",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1552274909400809472",
+                                    "inReplyToId": "1552189819744395265",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 26",
                             "type": "calendarDay",
