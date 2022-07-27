@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 23:08:04 GMT"
+            "dateModified": "Wed, 27 Jul 2022 14:19:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "This looks  interesting. <a href=\"https://t.co/VpPhNx1NOO\">[link]</a> @evanpro @marccanter4real https://t.co/rovk7HMfRH",
+                                    "rawText": "This looks  interesting. https://t.co/VpPhNx1NOO @evanpro @marccanter4real https://t.co/rovk7HMfRH",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 14:12:26 GMT",
+                                    "tweetId": "1552295852932079616",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1552295852932079616",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 26",
                             "type": "calendarDay",
