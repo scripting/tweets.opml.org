@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 25 Jul 2022 13:30:40 GMT"
+            "dateModified": "Wed, 27 Jul 2022 08:14:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "For Theme developers:\nConditionally Registering Patterns in Themes with Third-Party Blocks by @justintadlock #WordPress <a href=\"https://t.co/zBpr9IzM84\">[link]</a>",
+                                    "rawText": "For Theme developers:\nConditionally Registering Patterns in Themes with Third-Party Blocks by @justintadlock #WordPress https://t.co/zBpr9IzM84",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 08:01:31 GMT",
+                                    "tweetId": "1552202508470169600",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1552202508470169600",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 25",
                             "type": "calendarDay",
