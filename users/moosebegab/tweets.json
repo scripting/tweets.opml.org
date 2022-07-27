@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 02:28:32 GMT"
+            "dateModified": "Wed, 27 Jul 2022 14:11:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "great thread <a href=\"https://t.co/LD8MnzIgSw\">[link]</a>",
+                                    "rawText": "great thread https://t.co/LD8MnzIgSw",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 14:06:40 GMT",
+                                    "tweetId": "1552294402080514048",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1552294402080514048",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 26",
                             "type": "calendarDay",
