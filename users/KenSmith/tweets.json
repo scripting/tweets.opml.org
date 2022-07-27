@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 01:34:58 GMT"
+            "dateModified": "Wed, 27 Jul 2022 08:18:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Not yet. <a href=\"https://t.co/5X2BnhpeWd\">[link]</a>",
+                                    "rawText": "Not yet. https://t.co/5X2BnhpeWd",
+                                    "type": "tweet",
+                                    "created": "Wed, 27 Jul 2022 08:09:02 GMT",
+                                    "tweetId": "1552204399333806080",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1552204399333806080",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 26",
                             "type": "calendarDay",
