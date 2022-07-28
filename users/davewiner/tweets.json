@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 13:19:00 GMT"
+            "dateModified": "Thu, 28 Jul 2022 13:30:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "@beet_keeper we considered that possibility, I did a curl request from the command line on the server, and it returned English text.\n\nthe server is in NY, at Digital Ocean.",
+                                    "rawText": "@beet_keeper we considered that possibility, I did a curl request from the command line on the server, and it returned English text.\n\nthe server is in NY, at Digital Ocean.",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 13:29:39 GMT",
+                                    "tweetId": "1552647474896052224",
+                                    "urltweet": "https://twitter.com/davewiner/status/1552647474896052224",
+                                    "inReplyToId": "1552646125210914817",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "A problem reading Etsy feeds, it's unclear why they translate feeds to German when my app reads them? We've never seen this behavior before.  <a href=\"https://t.co/0eeqEQd1VA\">[link]</a>",
                                     "rawText": "A problem reading Etsy feeds, it's unclear why they translate feeds to German when my app reads them? We've never seen this behavior before.  https://t.co/0eeqEQd1VA",
