@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 22:23:02 GMT"
+            "dateModified": "Thu, 28 Jul 2022 14:00:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "I'd love love love to see charts like these for real in scientific publications <a href=\"https://t.co/7PxCV0Jha3\">[link]</a>",
+                                    "rawText": "I'd love love love to see charts like these for real in scientific publications https://t.co/7PxCV0Jha3",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 13:56:03 GMT",
+                                    "tweetId": "1552654120594464771",
+                                    "urltweet": "https://twitter.com/mathling/status/1552654120594464771",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
