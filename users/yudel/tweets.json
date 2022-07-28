@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 03:37:52 GMT"
+            "dateModified": "Thu, 28 Jul 2022 12:05:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Tired: Kids eating Bamba.  Wired: Kids eating caffeinated Bamba. <a href=\"https://t.co/enTtXLbp3f\">[link]</a>",
+                                    "rawText": "Tired: Kids eating Bamba.  Wired: Kids eating caffeinated Bamba. https://t.co/enTtXLbp3f",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 12:05:18 GMT",
+                                    "tweetId": "1552626247313899520",
+                                    "urltweet": "https://twitter.com/yudel/status/1552626247313899520",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@MmichaelLlucy @bruces I’m with you. Except: Much of contemporary “machine learning” is just simple linear algebra on a hundred thousand 700-dimensional matrices.",
+                                    "rawText": "@MmichaelLlucy @bruces I’m with you. Except: Much of contemporary “machine learning” is just simple linear algebra on a hundred thousand 700-dimensional matrices.",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 11:59:32 GMT",
+                                    "tweetId": "1552624798467063808",
+                                    "urltweet": "https://twitter.com/yudel/status/1552624798467063808",
+                                    "inReplyToId": "1552569447772487685",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
