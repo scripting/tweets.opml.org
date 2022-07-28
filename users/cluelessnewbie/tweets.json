@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 15:32:01 GMT"
+            "dateModified": "Thu, 28 Jul 2022 15:33:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,63 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "# Pubs",
+                                    "rawText": "# Pubs",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 15:32:22 GMT",
+                                    "tweetId": "1552678357292179458",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1552678357292179458",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "The Nation",
+                                            "rawText": "The Nation",
+                                            "type": "tweet",
+                                            "created": "Thu, 28 Jul 2022 15:32:22 GMT",
+                                            "tweetId": "1552678358240137216",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1552678358240137216",
+                                            "inReplyToId": "1552678357292179458",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "The Atlantic",
+                                                    "rawText": "The Atlantic",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 28 Jul 2022 15:32:22 GMT",
+                                                    "tweetId": "1552678359108358144",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1552678359108358144",
+                                                    "inReplyToId": "1552678358240137216",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "The New Yorker",
+                                                            "rawText": "The New Yorker",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 28 Jul 2022 15:32:23 GMT",
+                                                            "tweetId": "1552678360018468865",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1552678360018468865",
+                                                            "inReplyToId": "1552678359108358144",
+                                                            "tweetUserName": "cluelessnewbie",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "The New York Times",
+                                                                    "rawText": "The New York Times",
+                                                                    "type": "tweet",
+                                                                    "created": "Thu, 28 Jul 2022 15:32:23 GMT",
+                                                                    "tweetId": "1552678360974868481",
+                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1552678360974868481",
+                                                                    "inReplyToId": "1552678360018468865",
+                                                                    "tweetUserName": "cluelessnewbie"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# States",
                                     "rawText": "# States",
