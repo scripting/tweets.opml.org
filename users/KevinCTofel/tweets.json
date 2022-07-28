@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 00:16:24 GMT"
+            "dateModified": "Thu, 28 Jul 2022 06:33:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: ChromeOS adding video editing on Chromebooks in Google Photos <a href=\"https://t.co/fyTXODzL5n\">[link]</a> https://t.co/jxT03euqgQ",
+                                    "rawText": "ICYMI: ChromeOS adding video editing on Chromebooks in Google Photos https://t.co/fyTXODzL5n https://t.co/jxT03euqgQ",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 06:26:02 GMT",
+                                    "tweetId": "1552540870355947524",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1552540870355947524",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
