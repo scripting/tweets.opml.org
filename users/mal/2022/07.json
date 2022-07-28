@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 18:10:01 GMT"
+            "dateModified": "Thu, 28 Jul 2022 13:02:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@Sc_Meerkat @housecor Ya but builders aren’t minding their own business all the time when they have to learn an entirely new paradigm/language  to get the same job they used to do done in an entirely new day every three years while upgrading the whole thing continually to squash CVEs or change clouds.",
+                                    "rawText": "@Sc_Meerkat @housecor Ya but builders aren’t minding their own business all the time when they have to learn an entirely new paradigm/language  to get the same job they used to do done in an entirely new day every three years while upgrading the whole thing continually to squash CVEs or change clouds.",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 12:54:40 GMT",
+                                    "tweetId": "1552638669457985536",
+                                    "urltweet": "https://twitter.com/mal/status/1552638669457985536",
+                                    "inReplyToId": "1552343604546371585",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
