@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 01:43:45 GMT"
+            "dateModified": "Thu, 28 Jul 2022 14:44:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "HYFR. <a href=\"https://t.co/WR9dyrc8PB\">[link]</a>",
+                                    "rawText": "HYFR. https://t.co/WR9dyrc8PB",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 14:38:13 GMT",
+                                    "tweetId": "1552664731281985540",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1552664731281985540",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
