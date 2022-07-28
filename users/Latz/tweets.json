@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 19:59:38 GMT"
+            "dateModified": "Thu, 28 Jul 2022 07:29:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Heutiges Ziel: Programmatisch WordPress-Blocks erstellen.",
+                                    "rawText": "Heutiges Ziel: Programmatisch WordPress-Blocks erstellen.",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 07:25:41 GMT",
+                                    "tweetId": "1552555881442775041",
+                                    "urltweet": "https://twitter.com/Latz/status/1552555881442775041",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
