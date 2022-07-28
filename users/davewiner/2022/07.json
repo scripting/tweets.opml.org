@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 16:59:00 GMT"
+            "dateModified": "Thu, 28 Jul 2022 17:00:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "i noticed yesterday that <a href=\"https://t.co/llz8NQ0W22\">[link]</a> site has gone offline. \n\nhttps://t.co/J8QcQpcJlk",
+                                    "rawText": "i noticed yesterday that https://t.co/llz8NQ0W22 site has gone offline. \n\nhttps://t.co/J8QcQpcJlk",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 16:59:04 GMT",
+                                    "tweetId": "1552700178326503425",
+                                    "urltweet": "https://twitter.com/davewiner/status/1552700178326503425",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@thesupermikey right. there's some sense that if you call yourself a validator, you are the authority. but it's just a piece of software, and it can have bugs, go out of date, or just plain break.",
                                     "rawText": "@thesupermikey right. there's some sense that if you call yourself a validator, you are the authority. but it's just a piece of software, and it can have bugs, go out of date, or just plain break.",
