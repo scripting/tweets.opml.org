@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 15:22:00 GMT"
+            "dateModified": "Thu, 28 Jul 2022 15:32:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "# States",
+                                    "rawText": "# States",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 15:31:40 GMT",
+                                    "tweetId": "1552678182934945792",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1552678182934945792",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "Wyoming",
+                                            "rawText": "Wyoming",
+                                            "type": "tweet",
+                                            "created": "Thu, 28 Jul 2022 15:31:41 GMT",
+                                            "tweetId": "1552678183820034049",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1552678183820034049",
+                                            "inReplyToId": "1552678182934945792",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "West Virginia",
+                                                    "rawText": "West Virginia",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 28 Jul 2022 15:31:41 GMT",
+                                                    "tweetId": "1552678184679837697",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1552678184679837697",
+                                                    "inReplyToId": "1552678183820034049",
+                                                    "tweetUserName": "cluelessnewbie"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# Seasons",
                                     "rawText": "# Seasons",
