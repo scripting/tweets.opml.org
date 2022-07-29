@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 20:00:25 GMT"
+            "dateModified": "Fri, 29 Jul 2022 07:43:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "No, no quiero que sufran como yo <a href=\"https://t.co/W1n9jhoZIi\">[link]</a>",
+                                    "rawText": "No, no quiero que sufran como yo https://t.co/W1n9jhoZIi",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 07:37:58 GMT",
+                                    "tweetId": "1552921357641568256",
+                                    "urltweet": "https://twitter.com/chiguire/status/1552921357641568256",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
