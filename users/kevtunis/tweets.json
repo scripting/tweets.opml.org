@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 21:59:47 GMT"
+            "dateModified": "Fri, 29 Jul 2022 10:21:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@WPManageNinja Thank you",
+                                    "rawText": "@WPManageNinja Thank you",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 10:19:12 GMT",
+                                    "tweetId": "1552961935871582209",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1552961935871582209",
+                                    "inReplyToId": "1552886486818758657",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
