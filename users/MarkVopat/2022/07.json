@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 23:10:52 GMT"
+            "dateModified": "Fri, 29 Jul 2022 23:28:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "Well this is discouraging… <a href=\"https://t.co/nkh8LmNr78\">[link]</a>",
+                                    "rawText": "Well this is discouraging… https://t.co/nkh8LmNr78",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 23:26:53 GMT",
+                                    "tweetId": "1553160162327891968",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1553160162327891968",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
