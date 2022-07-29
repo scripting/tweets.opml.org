@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 20:42:12 GMT"
+            "dateModified": "Fri, 29 Jul 2022 13:24:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@nilcaste Yo la tengo y parece una versión final, no hay tanto cambio en el día a día",
+                                    "rawText": "@nilcaste Yo la tengo y parece una versión final, no hay tanto cambio en el día a día",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 13:22:20 GMT",
+                                    "tweetId": "1553008021378408453",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1553008021378408453",
+                                    "inReplyToId": "1552990621014659077",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
