@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 18:20:03 GMT"
+            "dateModified": "Fri, 29 Jul 2022 07:46:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "Markus Barth in Hochform: Das 9-Euro-Ticket bleibt! <a href=\"https://t.co/lkk21nt83o\">[link]</a>",
+                                    "rawText": "Markus Barth in Hochform: Das 9-Euro-Ticket bleibt! https://t.co/lkk21nt83o",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 07:43:29 GMT",
+                                    "tweetId": "1552922746203553792",
+                                    "urltweet": "https://twitter.com/Latz/status/1552922746203553792",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
