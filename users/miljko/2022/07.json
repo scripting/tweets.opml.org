@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 26 Jul 2022 17:40:43 GMT"
+            "dateModified": "Fri, 29 Jul 2022 16:10:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@MihailoCvijetic @prikljucenija1 Heh, da, uticajna knjiga! Ovo je Penrose?",
+                                    "rawText": "@MihailoCvijetic @prikljucenija1 Heh, da, uticajna knjiga! Ovo je Penrose?",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 16:08:02 GMT",
+                                    "tweetId": "1553049721924640768",
+                                    "urltweet": "https://twitter.com/miljko/status/1553049721924640768",
+                                    "inReplyToId": "1552453086102392832",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 26",
                             "type": "calendarDay",
