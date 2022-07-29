@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 21:41:15 GMT"
+            "dateModified": "Fri, 29 Jul 2022 21:11:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "“WordPress Is A Design System. Really?” Webinar by Bud Kraus @joyofWP \n<a href=\"https://t.co/ABvLBPDDIX\">[link]</a> via GoDaddyPro",
+                                    "rawText": "“WordPress Is A Design System. Really?” Webinar by Bud Kraus @joyofWP \nhttps://t.co/ABvLBPDDIX via GoDaddyPro",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 21:02:45 GMT",
+                                    "tweetId": "1553123891131957252",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1553123891131957252",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
