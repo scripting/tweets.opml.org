@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Jul 2022 02:53:21 GMT"
+            "dateModified": "Fri, 29 Jul 2022 04:24:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "I live in a constitutional monarchy, but Beyoncé is the only queen I will bow to. <a href=\"https://t.co/bJ15DURc8t\">[link]</a>",
+                                    "rawText": "I live in a constitutional monarchy, but Beyoncé is the only queen I will bow to. https://t.co/bJ15DURc8t",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 04:17:19 GMT",
+                                    "tweetId": "1552870864886157318",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1552870864886157318",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
+                                    "text": "@skinnylatte Yeah. You put into words what I was getting at with this tweet: <a href=\"https://t.co/iSAZNSJ8tF\">[link]</a>",
+                                    "rawText": "@skinnylatte Yeah. You put into words what I was getting at with this tweet: https://t.co/iSAZNSJ8tF",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 04:13:30 GMT",
+                                    "tweetId": "1552869901416779776",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1552869901416779776",
+                                    "inReplyToId": "1552865383698247680",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
