@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 02:53:49 GMT"
+            "dateModified": "Fri, 29 Jul 2022 14:15:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,39 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@brandontoner I'm experimenting with <a href=\"https://t.co/v1quwwX9CI\">[link]</a> a federated service primarily for sharing photography.",
+                                    "rawText": "@brandontoner I'm experimenting with https://t.co/v1quwwX9CI a federated service primarily for sharing photography.",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 14:07:24 GMT",
+                                    "tweetId": "1553019363724103681",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1553019363724103681",
+                                    "inReplyToId": "1553015384135057408",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "July 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "New to me. @lasersailor @russsharer @MikyDe <a href=\"https://t.co/WnHNlxzDHV\">[link]</a>",
+                                    "rawText": "New to me. @lasersailor @russsharer @MikyDe https://t.co/WnHNlxzDHV",
+                                    "type": "tweet",
+                                    "created": "Thu, 28 Jul 2022 15:11:37 GMT",
+                                    "tweetId": "1552673136084021253",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1552673136084021253",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
