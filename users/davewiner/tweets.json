@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Jul 2022 14:51:01 GMT"
+            "dateModified": "Fri, 29 Jul 2022 15:11:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "@om So many huge silos are only necessary because users don't have an easy place to store their own stuff in the cloud where apps can use the data.\n\nThe web is almost a full computer, but it still doesn't have an external disk. I can buy one for my desk, but not in the cloud.",
+                                    "rawText": "@om So many huge silos are only necessary because users don't have an easy place to store their own stuff in the cloud where apps can use the data.\n\nThe web is almost a full computer, but it still doesn't have an external disk. I can buy one for my desk, but not in the cloud.",
+                                    "type": "tweet",
+                                    "created": "Fri, 29 Jul 2022 15:10:40 GMT",
+                                    "tweetId": "1553035283247112193",
+                                    "urltweet": "https://twitter.com/davewiner/status/1553035283247112193",
+                                    "inReplyToId": "1553030491699236864",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@om Last time I checked Amazon Drive wasn't in any way connected to S3 which is an amazing omission.\n\nImagine a user-accessible storage system that apps could access. The power is enormous.\n\nNo one has done this yet. It has to be done by a company of Amazon's size.",
                                     "rawText": "@om Last time I checked Amazon Drive wasn't in any way connected to S3 which is an amazing omission.\n\nImagine a user-accessible storage system that apps could access. The power is enormous.\n\nNo one has done this yet. It has to be done by a company of Amazon's size.",
