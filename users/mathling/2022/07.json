@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 14:00:02 GMT"
+            "dateModified": "Sat, 30 Jul 2022 14:35:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "This thread takes a hell of a turn <a href=\"https://t.co/TjUBcoIOns\">[link]</a>",
+                                    "rawText": "This thread takes a hell of a turn https://t.co/TjUBcoIOns",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 14:34:36 GMT",
+                                    "tweetId": "1553388595020304384",
+                                    "urltweet": "https://twitter.com/mathling/status/1553388595020304384",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
