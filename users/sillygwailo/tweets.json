@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 02:18:50 GMT"
+            "dateModified": "Sat, 30 Jul 2022 03:23:54 GMT"
         },
         "body": {
             "subs": [
@@ -681,7 +681,19 @@
                                                                     "tweetId": "1553202308426727424",
                                                                     "urltweet": "https://twitter.com/sillygwailo/status/1553202308426727424",
                                                                     "inReplyToId": "1551342639299305472",
-                                                                    "tweetUserName": "sillygwailo"
+                                                                    "tweetUserName": "sillygwailo",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "In the end, it doesn’t matter what I do.",
+                                                                            "rawText": "In the end, it doesn’t matter what I do.",
+                                                                            "type": "tweet",
+                                                                            "created": "Sat, 30 Jul 2022 03:21:10 GMT",
+                                                                            "tweetId": "1553219122619621376",
+                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1553219122619621376",
+                                                                            "inReplyToId": "1553202308426727424",
+                                                                            "tweetUserName": "sillygwailo"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
