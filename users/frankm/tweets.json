@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Jul 2022 20:38:29 GMT"
+            "dateModified": "Sat, 30 Jul 2022 15:04:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "It’s another beautiful morning in Michigan, and perfect weather to be outside drinking coffee and reading. <a href=\"https://t.co/6ojNNh9BLe\">[link]</a>",
+                                    "rawText": "It’s another beautiful morning in Michigan, and perfect weather to be outside drinking coffee and reading. https://t.co/6ojNNh9BLe",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 14:59:02 GMT",
+                                    "tweetId": "1553394745845727234",
+                                    "urltweet": "https://twitter.com/frankm/status/1553394745845727234",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
