@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 00:23:13 GMT"
+            "dateModified": "Sat, 30 Jul 2022 07:45:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@Drackala @zei_squirrel thx!",
+                                    "rawText": "@Drackala @zei_squirrel thx!",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 07:41:48 GMT",
+                                    "tweetId": "1553284709739814912",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1553284709739814912",
+                                    "inReplyToId": "1553210120519225344",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
