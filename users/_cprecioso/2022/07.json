@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Jul 2022 22:56:52 GMT"
+            "dateModified": "Sat, 30 Jul 2022 09:08:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@pplaza_ No sabes cuanto",
+                                    "rawText": "@pplaza_ No sabes cuanto",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 09:04:16 GMT",
+                                    "tweetId": "1553305463546171397",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1553305463546171397",
+                                    "inReplyToId": "1553189619788816384",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
