@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 08:34:43 GMT"
+            "dateModified": "Sat, 30 Jul 2022 08:47:44 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1553297922975862784",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1553297922975862784",
                                     "inReplyToId": "1553293739799416833",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@ReceiptsIn @ChrisO_wiki @mem_error @maryjo_miles @zahed If only someone would have warned us… <a href=\"https://t.co/w9vHK05nPl\">[link]</a>",
+                                            "rawText": "@ReceiptsIn @ChrisO_wiki @mem_error @maryjo_miles @zahed If only someone would have warned us… https://t.co/w9vHK05nPl",
+                                            "type": "tweet",
+                                            "created": "Sat, 30 Jul 2022 08:40:32 GMT",
+                                            "tweetId": "1553299493696593921",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1553299493696593921",
+                                            "inReplyToId": "1553297922975862784",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@ChrisO_wiki @mem_error @maryjo_miles @zahed Yup.\n\nThat’s one very good reason you don’t see many battleships out there anymore!\n\n(but when they existed, especially the late-model battleships, they sure were marvels of engineering beauty)",
