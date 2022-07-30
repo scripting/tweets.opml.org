@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 06:42:51 GMT"
+            "dateModified": "Sat, 30 Jul 2022 06:55:52 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "ICYMI: The ChromeOS Channel on a Chromebook will soon be easier to see <a href=\"https://t.co/NK8F0PN472\">[link]</a> https://t.co/2xlUi8WAoM",
+                                    "rawText": "ICYMI: The ChromeOS Channel on a Chromebook will soon be easier to see https://t.co/NK8F0PN472 https://t.co/2xlUi8WAoM",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 06:55:01 GMT",
+                                    "tweetId": "1553272936899006471",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1553272936899006471",
+                                    "tweetUserName": "KevinCTofel"
+                                },
                                 {
                                     "text": "@iC True. Moving forward in version is fast and keeps local data. Backwards takes a little longer and wipes local data. I never keep any data local on a Chromebook that isn’t available somewhere else.",
                                     "rawText": "@iC True. Moving forward in version is fast and keeps local data. Backwards takes a little longer and wipes local data. I never keep any data local on a Chromebook that isn’t available somewhere else.",
