@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Jul 2022 16:53:29 GMT"
+            "dateModified": "Sat, 30 Jul 2022 20:13:12 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Heute mal ein \"edles\" Weizen: <a href=\"https://t.co/jwDztMhF1Y\">[link]</a>",
+                                    "rawText": "Heute mal ein \"edles\" Weizen: https://t.co/jwDztMhF1Y",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 20:01:29 GMT",
+                                    "tweetId": "1553470860010348545",
+                                    "urltweet": "https://twitter.com/Latz/status/1553470860010348545",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
