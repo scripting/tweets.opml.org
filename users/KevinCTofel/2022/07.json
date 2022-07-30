@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 01:04:30 GMT"
+            "dateModified": "Sat, 30 Jul 2022 05:50:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@jamesmcp Great point! There are configuration options for the Eve Motion to adjust for the use case. <a href=\"https://t.co/KaiIulKidR\">[link]</a>",
+                                    "rawText": "@jamesmcp Great point! There are configuration options for the Eve Motion to adjust for the use case. https://t.co/KaiIulKidR",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 05:47:01 GMT",
+                                    "tweetId": "1553255826751721472",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1553255826751721472",
+                                    "inReplyToId": "1553191390548578310",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
