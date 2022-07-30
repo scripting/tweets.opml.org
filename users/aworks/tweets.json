@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Jul 2022 13:54:33 GMT"
+            "dateModified": "Sat, 30 Jul 2022 13:59:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/YXYWm5uXiw\">[link]</a> Stories via @reaktorplayer @acloserlisten @SunRaUniverse",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/YXYWm5uXiw Stories via @reaktorplayer @acloserlisten @SunRaUniverse",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 13:47:49 GMT",
+                                    "tweetId": "1553376821047173121",
+                                    "urltweet": "https://twitter.com/aworks/status/1553376821047173121",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
