@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 15:21:00 GMT"
+            "dateModified": "Sat, 30 Jul 2022 16:19:01 GMT"
         },
         "body": {
             "subs": [
@@ -112,7 +112,19 @@
                                     "created": "Sat, 30 Jul 2022 00:42:57 GMT",
                                     "tweetId": "1553179303831019522",
                                     "urltweet": "https://twitter.com/davewiner/status/1553179303831019522",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "BTW, since it's my poll I don't get a vote, but I watch HBO Max the most, then Apple TV.",
+                                            "rawText": "BTW, since it's my poll I don't get a vote, but I watch HBO Max the most, then Apple TV.",
+                                            "type": "tweet",
+                                            "created": "Sat, 30 Jul 2022 16:18:17 GMT",
+                                            "tweetId": "1553414689337622530",
+                                            "urltweet": "https://twitter.com/davewiner/status/1553414689337622530",
+                                            "inReplyToId": "1553179303831019522",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Fox News Is Ignoring Donald Trump. <a href=\"https://t.co/ZAF8js97U1\">[link]</a>",
