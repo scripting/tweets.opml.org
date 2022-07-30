@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 09:05:45 GMT"
+            "dateModified": "Sat, 30 Jul 2022 13:52:03 GMT"
         },
         "body": {
             "subs": [
@@ -72,7 +72,31 @@
                                     "created": "Fri, 29 Jul 2022 20:34:57 GMT",
                                     "tweetId": "1553116894374363136",
                                     "urltweet": "https://twitter.com/chiguire/status/1553116894374363136",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/RE2hFXI1yz\">[link]</a>",
+                                            "rawText": "https://t.co/RE2hFXI1yz",
+                                            "type": "tweet",
+                                            "created": "Sat, 30 Jul 2022 13:39:23 GMT",
+                                            "tweetId": "1553374698205061122",
+                                            "urltweet": "https://twitter.com/chiguire/status/1553374698205061122",
+                                            "inReplyToId": "1553116894374363136",
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/eYEhY0OjKr\">[link]</a>",
+                                                    "rawText": "https://t.co/eYEhY0OjKr",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 30 Jul 2022 13:41:12 GMT",
+                                                    "tweetId": "1553375157347033090",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1553375157347033090",
+                                                    "inReplyToId": "1553374698205061122",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@jorge_codes Contemplate como me pasan por encima en Rocket League cada dos por tres",
