@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 00:34:43 GMT"
+            "dateModified": "Sat, 30 Jul 2022 02:18:50 GMT"
         },
         "body": {
             "subs": [
@@ -671,7 +671,19 @@
                                                             "tweetId": "1551342639299305472",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1551342639299305472",
                                                             "inReplyToId": "1550854378050961411",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "I’m leaning towards getting a physical trainer.",
+                                                                    "rawText": "I’m leaning towards getting a physical trainer.",
+                                                                    "type": "tweet",
+                                                                    "created": "Sat, 30 Jul 2022 02:14:22 GMT",
+                                                                    "tweetId": "1553202308426727424",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1553202308426727424",
+                                                                    "inReplyToId": "1551342639299305472",
+                                                                    "tweetUserName": "sillygwailo"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
