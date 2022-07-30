@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 03:41:55 GMT"
+            "dateModified": "Sat, 30 Jul 2022 14:06:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Today I learned, <a href=\"https://t.co/2r3RajwTZy\">[link]</a>",
+                                    "rawText": "Today I learned, https://t.co/2r3RajwTZy",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 14:03:03 GMT",
+                                    "tweetId": "1553380654053613568",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1553380654053613568",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "Fascinating use of tech. Pricey, but that will change when there's serious competition. <a href=\"https://t.co/7OhrsDWFQX\">[link]</a>",
+                                    "rawText": "Fascinating use of tech. Pricey, but that will change when there's serious competition. https://t.co/7OhrsDWFQX",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 13:57:04 GMT",
+                                    "tweetId": "1553379152392122368",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1553379152392122368",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
