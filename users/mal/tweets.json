@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 13:02:13 GMT"
+            "dateModified": "Sat, 30 Jul 2022 13:37:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@JaniceMcGeachin Enough with the Trump propaganda. He’d have been hung for treason in an earlier age.",
+                                    "rawText": "@JaniceMcGeachin Enough with the Trump propaganda. He’d have been hung for treason in an earlier age.",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 13:36:55 GMT",
+                                    "tweetId": "1553374078269960193",
+                                    "urltweet": "https://twitter.com/mal/status/1553374078269960193",
+                                    "inReplyToId": "1553083912032686080",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
