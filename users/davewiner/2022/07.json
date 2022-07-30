@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 13:37:00 GMT"
+            "dateModified": "Sat, 30 Jul 2022 13:39:00 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 30 Jul 2022 13:36:53 GMT",
                                     "tweetId": "1553374069374033920",
                                     "urltweet": "https://twitter.com/davewiner/status/1553374069374033920",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I paid a lot of money for these tickets and after 1/2 hour of screwing with their site, I still don't have anything I can use.",
+                                            "rawText": "I paid a lot of money for these tickets and after 1/2 hour of screwing with their site, I still don't have anything I can use.",
+                                            "type": "tweet",
+                                            "created": "Sat, 30 Jul 2022 13:38:25 GMT",
+                                            "tweetId": "1553374458877968388",
+                                            "urltweet": "https://twitter.com/davewiner/status/1553374458877968388",
+                                            "inReplyToId": "1553374069374033920",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Fetterman harnesses power of social media in Senate campaign. <a href=\"https://t.co/nKtAcnwWTd\">[link]</a>",
