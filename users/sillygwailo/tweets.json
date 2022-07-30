@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 03:36:54 GMT"
+            "dateModified": "Sat, 30 Jul 2022 21:50:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@seanorr Is that this jersey? <a href=\"https://t.co/jGDwL6ynyP\">[link]</a>",
+                                    "rawText": "@seanorr Is that this jersey? https://t.co/jGDwL6ynyP",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 21:50:00 GMT",
+                                    "tweetId": "1553498168393977856",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1553498168393977856",
+                                    "inReplyToId": "1553494057665511424",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
