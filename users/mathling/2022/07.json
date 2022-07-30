@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 14:35:06 GMT"
+            "dateModified": "Sat, 30 Jul 2022 15:14:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nFake Feynman diagrams: a study in graph layout and connection rules.\n\n#XQuery #SVG <a href=\"https://t.co/mLABJAtq6y\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nFake Feynman diagrams: a study in graph layout and connection rules.\n\n#XQuery #SVG https://t.co/mLABJAtq6y",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 15:01:38 GMT",
+                                    "tweetId": "1553395400496652288",
+                                    "urltweet": "https://twitter.com/mathling/status/1553395400496652288",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Quantum foam <a href=\"https://t.co/2nk48oxVO1\">[link]</a>",
+                                            "rawText": "Quantum foam https://t.co/2nk48oxVO1",
+                                            "type": "tweet",
+                                            "created": "Sat, 30 Jul 2022 15:01:40 GMT",
+                                            "tweetId": "1553395406431588354",
+                                            "urltweet": "https://twitter.com/mathling/status/1553395406431588354",
+                                            "inReplyToId": "1553395400496652288",
+                                            "tweetUserName": "mathling"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "This thread takes a hell of a turn <a href=\"https://t.co/TjUBcoIOns\">[link]</a>",
                                     "rawText": "This thread takes a hell of a turn https://t.co/TjUBcoIOns",
