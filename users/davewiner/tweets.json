@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 03:21:00 GMT"
+            "dateModified": "Sat, 30 Jul 2022 09:31:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@wrychrd @rtanglao This is how we develop human-oriented user interface.",
+                                    "rawText": "@wrychrd @rtanglao This is how we develop human-oriented user interface.",
+                                    "type": "tweet",
+                                    "created": "Sat, 30 Jul 2022 09:30:52 GMT",
+                                    "tweetId": "1553312161019092992",
+                                    "urltweet": "https://twitter.com/davewiner/status/1553312161019092992",
+                                    "inReplyToId": "1553250782941552640",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
