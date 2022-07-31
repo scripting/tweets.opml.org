@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Jul 2022 23:00:37 GMT"
+            "dateModified": "Sun, 31 Jul 2022 01:54:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Trying to decide whether this is preferable to my apartment which never get below 78 degrees in the heating season. <a href=\"https://t.co/tlCdo1NwL6\">[link]</a>",
+                                    "rawText": "Trying to decide whether this is preferable to my apartment which never get below 78 degrees in the heating season. https://t.co/tlCdo1NwL6",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 01:51:43 GMT",
+                                    "tweetId": "1553558999030710272",
+                                    "urltweet": "https://twitter.com/yudel/status/1553558999030710272",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
