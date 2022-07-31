@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 31 Jul 2022 14:59:00 GMT"
+            "dateModified": "Sun, 31 Jul 2022 15:22:00 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,31 @@
                                             "tweetId": "1553754935082336258",
                                             "urltweet": "https://twitter.com/davewiner/status/1553754935082336258",
                                             "inReplyToId": "1553754418239217668",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "This is something people really don't understand, a story no news org covered. Google Reader was a popular product when Google shut it down. It was an internally-driven decision. The top guys at Google felt they had too many products, and wanted to prove they could shut one down.",
+                                                    "rawText": "This is something people really don't understand, a story no news org covered. Google Reader was a popular product when Google shut it down. It was an internally-driven decision. The top guys at Google felt they had too many products, and wanted to prove they could shut one down.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 31 Jul 2022 15:21:54 GMT",
+                                                    "tweetId": "1553762888162197507",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1553762888162197507",
+                                                    "inReplyToId": "1553754935082336258",
+                                                    "tweetUserName": "davewiner",
+                                                    "subs": [
+                                                        {
+                                                            "text": "It was a very Let Them Eat Cake type decision. Who cares what the Little People want. That's why we (the Little People) should never trust huge companies with market dominance in any product category, esp not one based on an open technology.",
+                                                            "rawText": "It was a very Let Them Eat Cake type decision. Who cares what the Little People want. That's why we (the Little People) should never trust huge companies with market dominance in any product category, esp not one based on an open technology.",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 31 Jul 2022 15:21:54 GMT",
+                                                            "tweetId": "1553762889202286593",
+                                                            "urltweet": "https://twitter.com/davewiner/status/1553762889202286593",
+                                                            "inReplyToId": "1553762888162197507",
+                                                            "tweetUserName": "davewiner"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
