@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 15:34:10 GMT"
+            "dateModified": "Sun, 31 Jul 2022 17:09:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@lavern_spicer <a href=\"https://t.co/qNBybYIOKU\">[link]</a>",
+                                    "rawText": "@lavern_spicer https://t.co/qNBybYIOKU",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 17:09:42 GMT",
+                                    "tweetId": "1553790017570488320",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1553790017570488320",
+                                    "inReplyToId": "1552008907454914561",
+                                    "tweetUserName": "redjade_hu"
+                                },
+                                {
+                                    "text": "<a href=\"https://t.co/sXPMNAP4qV\">[link]</a> https://t.co/QjfY66LYlT",
+                                    "rawText": "https://t.co/sXPMNAP4qV https://t.co/QjfY66LYlT",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 17:09:29 GMT",
+                                    "tweetId": "1553789963212390401",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1553789963212390401",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
