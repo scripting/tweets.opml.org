@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/kevtunis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 29 Jul 2022 10:21:34 GMT"
+            "dateModified": "Sun, 31 Jul 2022 17:40:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "This was shot in Kansas a few years ago <a href=\"https://t.co/peQipsHHC7\">[link]</a>",
+                                    "rawText": "This was shot in Kansas a few years ago https://t.co/peQipsHHC7",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 17:36:56 GMT",
+                                    "tweetId": "1553796868907433985",
+                                    "urltweet": "https://twitter.com/kevtunis/status/1553796868907433985",
+                                    "tweetUserName": "kevtunis"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
