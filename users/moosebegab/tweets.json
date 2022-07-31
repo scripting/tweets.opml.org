@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 18:32:06 GMT"
+            "dateModified": "Sun, 31 Jul 2022 14:55:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "My MIL is reunited with my FIL now along with all their pets. In a blink of an eye, I'll be there to make Mom her beloved coconut cake. Rest well, Mom and Dad. xoxo",
+                                    "rawText": "My MIL is reunited with my FIL now along with all their pets. In a blink of an eye, I'll be there to make Mom her beloved coconut cake. Rest well, Mom and Dad. xoxo",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 14:43:23 GMT",
+                                    "tweetId": "1553753193766584322",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1553753193766584322",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
