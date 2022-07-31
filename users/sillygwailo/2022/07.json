@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 31 Jul 2022 05:12:31 GMT"
+            "dateModified": "Sun, 31 Jul 2022 05:25:32 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 31 Jul 2022 05:12:07 GMT",
                                     "tweetId": "1553609428330504193",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1553609428330504193",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "That would be the same year, well, whatever.",
+                                            "rawText": "That would be the same year, well, whatever.",
+                                            "type": "tweet",
+                                            "created": "Sun, 31 Jul 2022 05:24:56 GMT",
+                                            "tweetId": "1553612655834832898",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1553612655834832898",
+                                            "inReplyToId": "1553609428330504193",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
