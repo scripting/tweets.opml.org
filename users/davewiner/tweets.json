@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 31 Jul 2022 02:29:00 GMT"
+            "dateModified": "Sun, 31 Jul 2022 09:59:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Just read yet another article about RSS being D**D and wanting to know why, and thinking browsers and big companies should help.\n\n1. YOU can help by not writing articles like this.\n\n2. Browsers and big companies were the problem.",
+                                    "rawText": "Just read yet another article about RSS being D**D and wanting to know why, and thinking browsers and big companies should help.\n\n1. YOU can help by not writing articles like this.\n\n2. Browsers and big companies were the problem.",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 09:58:00 GMT",
+                                    "tweetId": "1553681374422384640",
+                                    "urltweet": "https://twitter.com/davewiner/status/1553681374422384640",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "3. Feeds should look like feeds, not web pages. Imagine if you lifted the hood on your car and saw a car interior in there. How confusing would that be. \n\n4. Watch out for new interesting feeds and spread the news.\n\n5. Same for new software for reading feeds. Spread the news.",
+                                            "rawText": "3. Feeds should look like feeds, not web pages. Imagine if you lifted the hood on your car and saw a car interior in there. How confusing would that be. \n\n4. Watch out for new interesting feeds and spread the news.\n\n5. Same for new software for reading feeds. Spread the news.",
+                                            "type": "tweet",
+                                            "created": "Sun, 31 Jul 2022 09:58:00 GMT",
+                                            "tweetId": "1553681375974277121",
+                                            "urltweet": "https://twitter.com/davewiner/status/1553681375974277121",
+                                            "inReplyToId": "1553681374422384640",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "6. Help devs make easier products.\n\n7. No more articles with the d-word.\n\n8. <a href=\"https://t.co/7J9UM5z2Yh\">[link]</a>",
+                                                    "rawText": "6. Help devs make easier products.\n\n7. No more articles with the d-word.\n\n8. https://t.co/7J9UM5z2Yh",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 31 Jul 2022 09:58:01 GMT",
+                                                    "tweetId": "1553681377379459080",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1553681377379459080",
+                                                    "inReplyToId": "1553681375974277121",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
