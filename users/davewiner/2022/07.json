@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 31 Jul 2022 20:42:01 GMT"
+            "dateModified": "Sun, 31 Jul 2022 21:08:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "31",
                             "subs": [
+                                {
+                                    "text": "@jrnoded I did that, didn’t fix the problem.",
+                                    "rawText": "@jrnoded I did that, didn’t fix the problem.",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 21:07:51 GMT",
+                                    "tweetId": "1553849949963657223",
+                                    "urltweet": "https://twitter.com/davewiner/status/1553849949963657223",
+                                    "inReplyToId": "1553842524648767490",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@jedlin if i could -- i'd stop feedly from showing my feeds. :-)",
                                     "rawText": "@jedlin if i could -- i'd stop feedly from showing my feeds. :-)",
