@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 23:24:54 GMT"
+            "dateModified": "Sun, 31 Jul 2022 08:18:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "“If you’ve been following browser and JavaScript development closely, then you may know about Igalia. Chances are though, you’ve never heard of them. Yet you’re almost certainly using something that Igalia helped build.” <a href=\"https://t.co/EhyaJnETId\">[link]</a>",
+                                    "rawText": "“If you’ve been following browser and JavaScript development closely, then you may know about Igalia. Chances are though, you’ve never heard of them. Yet you’re almost certainly using something that Igalia helped build.” https://t.co/EhyaJnETId",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 08:16:25 GMT",
+                                    "tweetId": "1553655809346834433",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1553655809346834433",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
