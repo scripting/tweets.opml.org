@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 02:32:03 GMT"
+            "dateModified": "Sun, 31 Jul 2022 10:08:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Meadow Brown on Thyme, Barassie beach on Friday. A lot of butterflies in the grass between beach &amp; golf course. <a href=\"https://t.co/pcxdV22ncW\">[link]</a>",
+                                    "rawText": "Meadow Brown on Thyme, Barassie beach on Friday. A lot of butterflies in the grass between beach &amp; golf course. https://t.co/pcxdV22ncW",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 09:56:00 GMT",
+                                    "tweetId": "1553680871328210946",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1553680871328210946",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
