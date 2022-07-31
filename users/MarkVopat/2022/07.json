@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 00:20:27 GMT"
+            "dateModified": "Sun, 31 Jul 2022 21:14:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Not that many people care: <a href=\"https://t.co/SZjcdxnZsI\">[link]</a>",
+                                    "rawText": "Not that many people care: https://t.co/SZjcdxnZsI",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 21:12:03 GMT",
+                                    "tweetId": "1553851004755533824",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1553851004755533824",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 29",
                             "type": "calendarDay",
