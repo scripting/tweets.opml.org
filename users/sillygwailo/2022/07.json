@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 21:50:04 GMT"
+            "dateModified": "Sun, 31 Jul 2022 05:12:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "The thought occurred to me that I drove the last car I’ll ever have driven in 2019.",
+                                    "rawText": "The thought occurred to me that I drove the last car I’ll ever have driven in 2019.",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 05:12:07 GMT",
+                                    "tweetId": "1553609428330504193",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1553609428330504193",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
