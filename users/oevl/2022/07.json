@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 31 Jul 2022 03:30:55 GMT"
+            "dateModified": "Sun, 31 Jul 2022 04:35:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Horacio Estribi, economista: Mirador Económico en la Mañana Ancón por Radio Ancón 92.1 FM 29.7.22 <a href=\"https://t.co/oy2gY0TEqk\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Horacio Estribi, economista: Mirador Económico en la Mañana Ancón por Radio Ancón 92.1 FM 29.7.22 https://t.co/oy2gY0TEqk",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 04:28:08 GMT",
+                                    "tweetId": "1553598362649346048",
+                                    "urltweet": "https://twitter.com/oevl/status/1553598362649346048",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
