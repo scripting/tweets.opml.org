@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 27 Jul 2022 16:25:25 GMT"
+            "dateModified": "Sun, 31 Jul 2022 14:33:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "I just signed the petition on @organisehq to protect our right to strike. Will you add your name? <a href=\"https://t.co/pUA7PvEPEb\">[link]</a>",
+                                    "rawText": "I just signed the petition on @organisehq to protect our right to strike. Will you add your name? https://t.co/pUA7PvEPEb",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 14:29:03 GMT",
+                                    "tweetId": "1553749585486819329",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1553749585486819329",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 27",
                             "type": "calendarDay",
