@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 18:15:05 GMT"
+            "dateModified": "Sun, 31 Jul 2022 11:23:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "El objetivo de mi domingo: no conseguir absolutamente nada",
+                                    "rawText": "El objetivo de mi domingo: no conseguir absolutamente nada",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 11:12:19 GMT",
+                                    "tweetId": "1553700079155945473",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1553700079155945473",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Y aquí estoy, consiguiendo cosas",
+                                            "rawText": "Y aquí estoy, consiguiendo cosas",
+                                            "type": "tweet",
+                                            "created": "Sun, 31 Jul 2022 11:12:32 GMT",
+                                            "tweetId": "1553700132662673409",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1553700132662673409",
+                                            "inReplyToId": "1553700079155945473",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
