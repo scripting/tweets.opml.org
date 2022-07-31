@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 30 Jul 2022 16:09:42 GMT"
+            "dateModified": "Sun, 31 Jul 2022 04:18:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "I just earned the '2022: International Year of Glass' badge on @untappd! <a href=\"https://t.co/eXJeHfLxuZ\">[link]</a> #ChooseGlass #TeamGlass #IYOG2022",
+                                    "rawText": "I just earned the '2022: International Year of Glass' badge on @untappd! https://t.co/eXJeHfLxuZ #ChooseGlass #TeamGlass #IYOG2022",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 04:18:05 GMT",
+                                    "tweetId": "1553595830610919424",
+                                    "urltweet": "https://twitter.com/frankm/status/1553595830610919424",
+                                    "tweetUserName": "frankm"
+                                },
+                                {
+                                    "text": "I just earned the '99 Bottles (Level 24)' badge on @untappd! <a href=\"https://t.co/HSbqkFJcDr\">[link]</a>",
+                                    "rawText": "I just earned the '99 Bottles (Level 24)' badge on @untappd! https://t.co/HSbqkFJcDr",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 04:18:02 GMT",
+                                    "tweetId": "1553595821551226883",
+                                    "urltweet": "https://twitter.com/frankm/status/1553595821551226883",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
