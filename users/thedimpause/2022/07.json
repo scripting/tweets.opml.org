@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 28 Jul 2022 20:23:26 GMT"
+            "dateModified": "Sun, 31 Jul 2022 07:10:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "♫ My Top 5 #lastfm artists: Kirill Kozlovski (32), Jack White (24), Sleaford Mods (24), Nigel Kennedy, BPO (18) &amp; First Aid Kit (10) #lastfm via @tweeklyfm",
+                                    "rawText": "♫ My Top 5 #lastfm artists: Kirill Kozlovski (32), Jack White (24), Sleaford Mods (24), Nigel Kennedy, BPO (18) &amp; First Aid Kit (10) #lastfm via @tweeklyfm",
+                                    "type": "tweet",
+                                    "created": "Sun, 31 Jul 2022 07:00:22 GMT",
+                                    "tweetId": "1553636673396695040",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1553636673396695040",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 28",
                             "type": "calendarDay",
