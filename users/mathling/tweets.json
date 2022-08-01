@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 18:25:22 GMT"
+            "dateModified": "Mon, 01 Aug 2022 18:38:23 GMT"
         },
         "body": {
             "subs": [
@@ -127,7 +127,55 @@
                                                                                                                     "tweetId": "1554171369117478913",
                                                                                                                     "urltweet": "https://twitter.com/mathling/status/1554171369117478913",
                                                                                                                     "inReplyToId": "1554170607016652800",
-                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                    "tweetUserName": "mathling",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "JT: Filters and controls generated during indexing; can be used to build the search page\n#balisage2022",
+                                                                                                                            "rawText": "JT: Filters and controls generated during indexing; can be used to build the search page\n#balisage2022",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Mon, 01 Aug 2022 18:27:58 GMT",
+                                                                                                                            "tweetId": "1554172101556260864",
+                                                                                                                            "urltweet": "https://twitter.com/mathling/status/1554172101556260864",
+                                                                                                                            "inReplyToId": "1554171369117478913",
+                                                                                                                            "tweetUserName": "mathling",
+                                                                                                                            "subs": [
+                                                                                                                                {
+                                                                                                                                    "text": "JT: Considerations\nLimiting factor is titles (e.g. 170K pages project =&gt; 15MB titles file)\nNo easy way to show matches in document\nContext-specific searches, no conditional logic for filters\n#balisage2022",
+                                                                                                                                    "rawText": "JT: Considerations\nLimiting factor is titles (e.g. 170K pages project =&gt; 15MB titles file)\nNo easy way to show matches in document\nContext-specific searches, no conditional logic for filters\n#balisage2022",
+                                                                                                                                    "type": "tweet",
+                                                                                                                                    "created": "Mon, 01 Aug 2022 18:31:42 GMT",
+                                                                                                                                    "tweetId": "1554173040769916929",
+                                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554173040769916929",
+                                                                                                                                    "inReplyToId": "1554172101556260864",
+                                                                                                                                    "tweetUserName": "mathling",
+                                                                                                                                    "subs": [
+                                                                                                                                        {
+                                                                                                                                            "text": "JT: Solution for context-specific search is separate search pages over different parts (plus more generic for whole site)\n#balisage2022",
+                                                                                                                                            "rawText": "JT: Solution for context-specific search is separate search pages over different parts (plus more generic for whole site)\n#balisage2022",
+                                                                                                                                            "type": "tweet",
+                                                                                                                                            "created": "Mon, 01 Aug 2022 18:34:26 GMT",
+                                                                                                                                            "tweetId": "1554173729579487234",
+                                                                                                                                            "urltweet": "https://twitter.com/mathling/status/1554173729579487234",
+                                                                                                                                            "inReplyToId": "1554173040769916929",
+                                                                                                                                            "tweetUserName": "mathling",
+                                                                                                                                            "subs": [
+                                                                                                                                                {
+                                                                                                                                                    "text": "JT: Lots of stem files feels wrong, but seems to work OK\n#balisage2022",
+                                                                                                                                                    "rawText": "JT: Lots of stem files feels wrong, but seems to work OK\n#balisage2022",
+                                                                                                                                                    "type": "tweet",
+                                                                                                                                                    "created": "Mon, 01 Aug 2022 18:34:27 GMT",
+                                                                                                                                                    "tweetId": "1554173731466907650",
+                                                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554173731466907650",
+                                                                                                                                                    "inReplyToId": "1554173729579487234",
+                                                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
                                                                                                                 }
                                                                                                             ]
                                                                                                         }
