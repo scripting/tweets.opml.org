@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "chiguire tweets",
+            "dateCreated": "Thu, 10 Feb 2022 23:35:37 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 07:04:39 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@cube_drone <a href=\"https://t.co/CfsEevMwuM\">[link]</a>",
+                                    "rawText": "@cube_drone https://t.co/CfsEevMwuM",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 06:53:12 GMT",
+                                    "tweetId": "1553997257837613057",
+                                    "urltweet": "https://twitter.com/chiguire/status/1553997257837613057",
+                                    "inReplyToId": "1553991028297805824",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
