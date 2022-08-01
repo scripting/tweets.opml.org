@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "yudel tweets",
+            "dateCreated": "Sat, 18 Dec 2021 19:03:53 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 05:27:03 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "About the Pact act and Republican lies <a href=\"https://t.co/mL5t3b0PP3\">[link]</a>",
+                                    "rawText": "About the Pact act and Republican lies https://t.co/mL5t3b0PP3",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 05:16:20 GMT",
+                                    "tweetId": "1553972878646951936",
+                                    "urltweet": "https://twitter.com/yudel/status/1553972878646951936",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
