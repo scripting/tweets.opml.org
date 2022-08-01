@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 31 Jul 2022 01:54:19 GMT"
+            "dateModified": "Mon, 01 Aug 2022 00:27:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "july2022",
                     "subs": [
+                        {
+                            "text": "July 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@bogiperson Really? I’d  like to think that @BenYehudaPress books kill fascists. Or at least saddens them.",
+                                    "rawText": "@bogiperson Really? I’d  like to think that @BenYehudaPress books kill fascists. Or at least saddens them.",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 00:23:25 GMT",
+                                    "tweetId": "1553899162445414402",
+                                    "urltweet": "https://twitter.com/yudel/status/1553899162445414402",
+                                    "inReplyToId": "1553897248207036421",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "July 30",
                             "type": "calendarDay",
