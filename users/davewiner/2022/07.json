@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 31 Jul 2022 21:08:00 GMT"
+            "dateModified": "Mon, 01 Aug 2022 03:05:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "31",
                             "subs": [
+                                {
+                                    "text": "@KenSmith it's just twitter. i knew what you meant. ;-)",
+                                    "rawText": "@KenSmith it's just twitter. i knew what you meant. ;-)",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 03:04:05 GMT",
+                                    "tweetId": "1553939596072869888",
+                                    "urltweet": "https://twitter.com/davewiner/status/1553939596072869888",
+                                    "inReplyToId": "1553914267442741249",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@jrnoded I did that, didn’t fix the problem.",
                                     "rawText": "@jrnoded I did that, didn’t fix the problem.",
