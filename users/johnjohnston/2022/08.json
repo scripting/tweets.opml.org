@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "johnjohnston tweets",
+            "dateCreated": "Thu, 16 Dec 2021 20:50:27 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 08:28:29 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@grammasheri @everythingabili Well that takes me back. Installed Java, ran a couple of commands and I've got HC, running. I've not figured out how to save but... <a href=\"https://t.co/8Mpa1GAsbu\">[link]</a>",
+                                    "rawText": "@grammasheri @everythingabili Well that takes me back. Installed Java, ran a couple of commands and I've got HC, running. I've not figured out how to save but... https://t.co/8Mpa1GAsbu",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 08:27:50 GMT",
+                                    "tweetId": "1554021072508534786",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1554021072508534786",
+                                    "inReplyToId": "1553827065027145733",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
