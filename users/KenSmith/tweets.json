@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 00:52:30 GMT"
+            "dateModified": "Mon, 01 Aug 2022 01:31:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "31",
                             "subs": [
+                                {
+                                    "text": "NPR is far too deep into horse-race and gotcha-style thinking... <a href=\"https://t.co/sF3dzkXTw5\">[link]</a>",
+                                    "rawText": "NPR is far too deep into horse-race and gotcha-style thinking... https://t.co/sF3dzkXTw5",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 01:23:52 GMT",
+                                    "tweetId": "1553914377539129346",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1553914377539129346",
+                                    "tweetUserName": "KenSmith"
+                                },
                                 {
                                     "text": "Reciprocal Admissions Program – more than 345 botanical gardens in North America have decided it's worth their while to honor each other's membership cards. <a href=\"https://t.co/SRwDg5OuYg\">[link]</a>",
                                     "rawText": "Reciprocal Admissions Program – more than 345 botanical gardens in North America have decided it's worth their while to honor each other's membership cards. https://t.co/SRwDg5OuYg",
@@ -46,7 +55,19 @@
                                     "tweetId": "1553898806181351426",
                                     "urltweet": "https://twitter.com/KenSmith/status/1553898806181351426",
                                     "inReplyToId": "1553746866478751746",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "@davewiner …proofread, dammit…",
+                                            "rawText": "@davewiner …proofread, dammit…",
+                                            "type": "tweet",
+                                            "created": "Mon, 01 Aug 2022 01:23:26 GMT",
+                                            "tweetId": "1553914267442741249",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1553914267442741249",
+                                            "inReplyToId": "1553898806181351426",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Our eldest, as the youngest person in the audience, leaned against the stage to Colin’s left wearing blood-stained white crane’s wings, enjoying a first or second Chicago concert by @TheDecemberists. As parent-chauffeur-big fan I have seen the band a half-dozen times now myself. <a href=\"https://t.co/bNoTUTies4\">[link]</a>",
