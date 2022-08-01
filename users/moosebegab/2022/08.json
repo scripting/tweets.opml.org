@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "moosebegab tweets",
+            "dateCreated": "Sun, 19 Dec 2021 16:38:45 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 14:59:54 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "goblin watched this with dad the other night. told me that I'm marvin..lol <a href=\"https://t.co/eSy85wRGa2\">[link]</a>",
+                                    "rawText": "goblin watched this with dad the other night. told me that I'm marvin..lol https://t.co/eSy85wRGa2",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 14:48:30 GMT",
+                                    "tweetId": "1554116868969009153",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1554116868969009153",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
