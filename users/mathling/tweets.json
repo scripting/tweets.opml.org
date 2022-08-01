@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 17:59:20 GMT"
+            "dateModified": "Mon, 01 Aug 2022 18:12:21 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,55 @@
                                     "created": "Mon, 01 Aug 2022 17:58:39 GMT",
                                     "tweetId": "1554164722668187653",
                                     "urltweet": "https://twitter.com/mathling/status/1554164722668187653",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "JT: The Endings project: collaboration to figure out how to ensure long-term survival of projects\n#balisage2022",
+                                            "rawText": "JT: The Endings project: collaboration to figure out how to ensure long-term survival of projects\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Mon, 01 Aug 2022 18:08:03 GMT",
+                                            "tweetId": "1554167089388064768",
+                                            "urltweet": "https://twitter.com/mathling/status/1554167089388064768",
+                                            "inReplyToId": "1554164722668187653",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "JT: Most sustainable, archivable: static websites (HTML, CSS, JavaScript, minimal dependencies)\n#balisage2022",
+                                                    "rawText": "JT: Most sustainable, archivable: static websites (HTML, CSS, JavaScript, minimal dependencies)\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 01 Aug 2022 18:08:04 GMT",
+                                                    "tweetId": "1554167090986119168",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554167090986119168",
+                                                    "inReplyToId": "1554167089388064768",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "JT: Problem: How to add search to static websites?\n#balisage2022",
+                                                            "rawText": "JT: Problem: How to add search to static websites?\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 01 Aug 2022 18:08:51 GMT",
+                                                            "tweetId": "1554167291171917824",
+                                                            "urltweet": "https://twitter.com/mathling/status/1554167291171917824",
+                                                            "inReplyToId": "1554167090986119168",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "JT: Client side libraries? Have to be in memory; doesn't scale to large websites. Google? elasticsearch? Other issues. Decided to build our own: staticSearch, client side website search\n#balisage2022",
+                                                                    "rawText": "JT: Client side libraries? Have to be in memory; doesn't scale to large websites. Google? elasticsearch? Other issues. Decided to build our own: staticSearch, client side website search\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 01 Aug 2022 18:10:42 GMT",
+                                                                    "tweetId": "1554167756295049216",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1554167756295049216",
+                                                                    "inReplyToId": "1554167291171917824",
+                                                                    "tweetUserName": "mathling"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "#GenerativeArt interlude\n\nNew release of my #XQuery libraries, special for  #balisage2022\n\nNew: implementation of Wave Function Collapse tiling algorithm; various improvements/bug fixes/examples for geometric code\n\n<a href=\"https://t.co/SDwwbxgp8q\">[link]</a>",
