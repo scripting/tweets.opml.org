@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "redjade_hu tweets",
+            "dateCreated": "Mon, 24 Jan 2022 16:21:42 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 12:41:00 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "what is uploaded to the web is 4evar!!!  😆 <a href=\"https://t.co/y7Ixo9HYw9\">[link]</a>",
+                                    "rawText": "what is uploaded to the web is 4evar!!!  😆 https://t.co/y7Ixo9HYw9",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 12:35:38 GMT",
+                                    "tweetId": "1554083433911140358",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1554083433911140358",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
