@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 18:12:21 GMT"
+            "dateModified": "Mon, 01 Aug 2022 18:25:22 GMT"
         },
         "body": {
             "subs": [
@@ -67,7 +67,79 @@
                                                                     "tweetId": "1554167756295049216",
                                                                     "urltweet": "https://twitter.com/mathling/status/1554167756295049216",
                                                                     "inReplyToId": "1554167291171917824",
-                                                                    "tweetUserName": "mathling"
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "JT: staticSearch XSLT/Ant process to generated inverted index of JSON files\n\nHas stemming in multiple languages, wildcards, exact phrases, boolean, configurable filters, contextual...\n\nEvery search is bookmarkable URL\n\n#balisage2022",
+                                                                            "rawText": "JT: staticSearch XSLT/Ant process to generated inverted index of JSON files\n\nHas stemming in multiple languages, wildcards, exact phrases, boolean, configurable filters, contextual...\n\nEvery search is bookmarkable URL\n\n#balisage2022",
+                                                                            "type": "tweet",
+                                                                            "created": "Mon, 01 Aug 2022 18:12:30 GMT",
+                                                                            "tweetId": "1554168209510567936",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1554168209510567936",
+                                                                            "inReplyToId": "1554167756295049216",
+                                                                            "tweetUserName": "mathling",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "JT: \nInput: collection of WF HTML5 in XHTML namespace\nPlus: configuration file\n#balisage2022",
+                                                                                    "rawText": "JT: \nInput: collection of WF HTML5 in XHTML namespace\nPlus: configuration file\n#balisage2022",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Mon, 01 Aug 2022 18:15:41 GMT",
+                                                                                    "tweetId": "1554169009460822018",
+                                                                                    "urltweet": "https://twitter.com/mathling/status/1554169009460822018",
+                                                                                    "inReplyToId": "1554168209510567936",
+                                                                                    "tweetUserName": "mathling",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "JT: rules tell you what to exclude (default is index everything), contexts to give labels (use match patterns)\n#balisage2022",
+                                                                                            "rawText": "JT: rules tell you what to exclude (default is index everything), contexts to give labels (use match patterns)\n#balisage2022",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Mon, 01 Aug 2022 18:17:36 GMT",
+                                                                                            "tweetId": "1554169489700184064",
+                                                                                            "urltweet": "https://twitter.com/mathling/status/1554169489700184064",
+                                                                                            "inReplyToId": "1554169009460822018",
+                                                                                            "tweetUserName": "mathling",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "JT: Stemming using own implementation of Porter2 plus \"diacritic\" stemmer and \"identity\" stemmer, can also use your own (XSLT + JavaScript); in config\n#balisage2022",
+                                                                                                    "rawText": "JT: Stemming using own implementation of Porter2 plus \"diacritic\" stemmer and \"identity\" stemmer, can also use your own (XSLT + JavaScript); in config\n#balisage2022",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Mon, 01 Aug 2022 18:19:06 GMT",
+                                                                                                    "tweetId": "1554169868781436928",
+                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554169868781436928",
+                                                                                                    "inReplyToId": "1554169489700184064",
+                                                                                                    "tweetUserName": "mathling",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "JT: Create \"inverted index\" JSON files, per stem gets instances; fetched one by one by JavaScript in search\n#balisage2022",
+                                                                                                            "rawText": "JT: Create \"inverted index\" JSON files, per stem gets instances; fetched one by one by JavaScript in search\n#balisage2022",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Mon, 01 Aug 2022 18:22:02 GMT",
+                                                                                                            "tweetId": "1554170607016652800",
+                                                                                                            "urltweet": "https://twitter.com/mathling/status/1554170607016652800",
+                                                                                                            "inReplyToId": "1554169868781436928",
+                                                                                                            "tweetUserName": "mathling",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "JT: Create other additional information during indexing: list of titles, list of all (unstemmed) words (used for wildcarding via regex)\n#ballisage2022",
+                                                                                                                    "rawText": "JT: Create other additional information during indexing: list of titles, list of all (unstemmed) words (used for wildcarding via regex)\n#ballisage2022",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Mon, 01 Aug 2022 18:25:04 GMT",
+                                                                                                                    "tweetId": "1554171369117478913",
+                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554171369117478913",
+                                                                                                                    "inReplyToId": "1554170607016652800",
+                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
