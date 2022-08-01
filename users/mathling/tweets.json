@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 14:05:05 GMT"
+            "dateModified": "Mon, 01 Aug 2022 14:18:06 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 01 Aug 2022 14:04:32 GMT",
                                     "tweetId": "1554105805355380736",
                                     "urltweet": "https://twitter.com/mathling/status/1554105805355380736",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "\"Balisage is not television\" #balisage2022",
+                                            "rawText": "\"Balisage is not television\" #balisage2022",
+                                            "type": "tweet",
+                                            "created": "Mon, 01 Aug 2022 14:08:39 GMT",
+                                            "tweetId": "1554106842577416192",
+                                            "urltweet": "https://twitter.com/mathling/status/1554106842577416192",
+                                            "inReplyToId": "1554105805355380736",
+                                            "tweetUserName": "mathling"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Minutes away from the start of  #balisage2022 !",
