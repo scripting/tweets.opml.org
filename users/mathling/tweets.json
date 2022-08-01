@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 14:18:06 GMT"
+            "dateModified": "Mon, 01 Aug 2022 14:31:07 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,31 @@
                                             "tweetId": "1554106842577416192",
                                             "urltweet": "https://twitter.com/mathling/status/1554106842577416192",
                                             "inReplyToId": "1554105805355380736",
-                                            "tweetUserName": "mathling"
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "Usdin: \"We will see slides with pointy brackets on them: they won't poke us and we won't bleed\" #balisage2022",
+                                                    "rawText": "Usdin: \"We will see slides with pointy brackets on them: they won't poke us and we won't bleed\" #balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 01 Aug 2022 14:19:38 GMT",
+                                                    "tweetId": "1554109606451748864",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554109606451748864",
+                                                    "inReplyToId": "1554106842577416192",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Usdin: The world is not consisent, and we need to make markup conform to the world as it is...\n#balisage2022",
+                                                            "rawText": "Usdin: The world is not consisent, and we need to make markup conform to the world as it is...\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 01 Aug 2022 14:27:58 GMT",
+                                                            "tweetId": "1554111703297638400",
+                                                            "urltweet": "https://twitter.com/mathling/status/1554111703297638400",
+                                                            "inReplyToId": "1554109606451748864",
+                                                            "tweetUserName": "mathling"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
