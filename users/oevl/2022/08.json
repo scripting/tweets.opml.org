@@ -1,0 +1,48 @@
+{
+    "opml": {
+        "head": {
+            "title": "oevl tweets",
+            "dateCreated": "Wed, 26 Jan 2022 20:26:12 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 04:40:29 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Star Trek Icon Nichelle Nichols Passes Away From Natural Causes <a href=\"https://t.co/cWVZcIXev9\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Star Trek Icon Nichelle Nichols Passes Away From Natural Causes https://t.co/cWVZcIXev9",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 04:28:05 GMT",
+                                    "tweetId": "1553960734756929538",
+                                    "urltweet": "https://twitter.com/oevl/status/1553960734756929538",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: Nichelle Nichols, trailblazing 'Star Trek' actress, dies at 89 <a href=\"https://t.co/cCDv83GUzV\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Nichelle Nichols, trailblazing 'Star Trek' actress, dies at 89 https://t.co/cCDv83GUzV",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 04:28:04 GMT",
+                                    "tweetId": "1553960733624369153",
+                                    "urltweet": "https://twitter.com/oevl/status/1553960733624369153",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
