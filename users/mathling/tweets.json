@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 16:15:14 GMT"
+            "dateModified": "Mon, 01 Aug 2022 16:28:15 GMT"
         },
         "body": {
             "subs": [
@@ -87,7 +87,43 @@
                                                                                     "tweetId": "1554138307042324481",
                                                                                     "urltweet": "https://twitter.com/mathling/status/1554138307042324481",
                                                                                     "inReplyToId": "1554137541476884480",
-                                                                                    "tweetUserName": "mathling"
+                                                                                    "tweetUserName": "mathling",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "SB: ixampl implementation\nOriginally built as test bed for language concepts; designed to be flexible rather than fast\nHas a bootstrap parser\nWeb app or command line, written in ABC\n#balisage2022",
+                                                                                            "rawText": "SB: ixampl implementation\nOriginally built as test bed for language concepts; designed to be flexible rather than fast\nHas a bootstrap parser\nWeb app or command line, written in ABC\n#balisage2022",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Mon, 01 Aug 2022 16:15:58 GMT",
+                                                                                            "tweetId": "1554138879715815424",
+                                                                                            "urltweet": "https://twitter.com/mathling/status/1554138879715815424",
+                                                                                            "inReplyToId": "1554138307042324481",
+                                                                                            "tweetUserName": "mathling",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "JL: jwiXML implementation\nJavaScript library + SaxonJS/XSLT API to run in browser\nBrowser-based interactive workbench\n(Demo)\n#balisage2022",
+                                                                                                    "rawText": "JL: jwiXML implementation\nJavaScript library + SaxonJS/XSLT API to run in browser\nBrowser-based interactive workbench\n(Demo)\n#balisage2022",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Mon, 01 Aug 2022 16:19:03 GMT",
+                                                                                                    "tweetId": "1554139658853814272",
+                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554139658853814272",
+                                                                                                    "inReplyToId": "1554138879715815424",
+                                                                                                    "tweetUserName": "mathling",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "JL: Demo of XPath grammar minimization to get nice tree without all kinds of deep extraneous junk\n#balisage2022\n\nLove it!",
+                                                                                                            "rawText": "JL: Demo of XPath grammar minimization to get nice tree without all kinds of deep extraneous junk\n#balisage2022\n\nLove it!",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Mon, 01 Aug 2022 16:25:41 GMT",
+                                                                                                            "tweetId": "1554141326605553665",
+                                                                                                            "urltweet": "https://twitter.com/mathling/status/1554141326605553665",
+                                                                                                            "inReplyToId": "1554139658853814272",
+                                                                                                            "tweetUserName": "mathling"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
