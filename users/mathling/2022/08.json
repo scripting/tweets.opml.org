@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 17:46:20 GMT"
+            "dateModified": "Mon, 01 Aug 2022 17:59:20 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "Serverless Searching with XSLT and JavaScript\nJoey Takeda, Martin Holmes\n #balisage2022",
+                                    "rawText": "Serverless Searching with XSLT and JavaScript\nJoey Takeda, Martin Holmes\n #balisage2022",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 17:58:39 GMT",
+                                    "tweetId": "1554164722668187653",
+                                    "urltweet": "https://twitter.com/mathling/status/1554164722668187653",
+                                    "tweetUserName": "mathling"
+                                },
                                 {
                                     "text": "#GenerativeArt interlude\n\nNew release of my #XQuery libraries, special for  #balisage2022\n\nNew: implementation of Wave Function Collapse tiling algorithm; various improvements/bug fixes/examples for geometric code\n\n<a href=\"https://t.co/SDwwbxgp8q\">[link]</a>",
                                     "rawText": "#GenerativeArt interlude\n\nNew release of my #XQuery libraries, special for  #balisage2022\n\nNew: implementation of Wave Function Collapse tiling algorithm; various improvements/bug fixes/examples for geometric code\n\nhttps://t.co/SDwwbxgp8q",
