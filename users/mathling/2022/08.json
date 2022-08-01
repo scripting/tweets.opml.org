@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 16:02:13 GMT"
+            "dateModified": "Mon, 01 Aug 2022 16:15:14 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,79 @@
                                     "created": "Mon, 01 Aug 2022 15:51:25 GMT",
                                     "tweetId": "1554132704647471104",
                                     "urltweet": "https://twitter.com/mathling/status/1554132704647471104",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "BTW: iXML 1.0\nWhat's it for? \n\"What if you could see everything as XML?\"\nRecognizing abstractions: these things are \"the same\"\n#balisage2022",
+                                            "rawText": "BTW: iXML 1.0\nWhat's it for? \n\"What if you could see everything as XML?\"\nRecognizing abstractions: these things are \"the same\"\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Mon, 01 Aug 2022 16:04:43 GMT",
+                                            "tweetId": "1554136049638449153",
+                                            "urltweet": "https://twitter.com/mathling/status/1554136049638449153",
+                                            "inReplyToId": "1554132704647471104",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "BTW: But also need to understand abstractions in context, which changes their interpretation\nAbstractions in context = seeing things as XML\nMake this visible to the computer\n#balisage2022",
+                                                    "rawText": "BTW: But also need to understand abstractions in context, which changes their interpretation\nAbstractions in context = seeing things as XML\nMake this visible to the computer\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 01 Aug 2022 16:06:38 GMT",
+                                                    "tweetId": "1554136531832487938",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554136531832487938",
+                                                    "inReplyToId": "1554136049638449153",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "BTW: How does iXML work?\niXML grammar =&gt; parse input stream =&gt; XML\n#balisage2022",
+                                                            "rawText": "BTW: How does iXML work?\niXML grammar =&gt; parse input stream =&gt; XML\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 01 Aug 2022 16:07:56 GMT",
+                                                            "tweetId": "1554136860758159361",
+                                                            "urltweet": "https://twitter.com/mathling/status/1554136860758159361",
+                                                            "inReplyToId": "1554136531832487938",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "BTW: What's new?\nSpec: iXML 1.0\nCommunity group\nProcessor behaviour defined\nInfrastructure: tests, sample grammars, implementations\n#balisage2022",
+                                                                    "rawText": "BTW: What's new?\nSpec: iXML 1.0\nCommunity group\nProcessor behaviour defined\nInfrastructure: tests, sample grammars, implementations\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 01 Aug 2022 16:09:38 GMT",
+                                                                    "tweetId": "1554137289172717568",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1554137289172717568",
+                                                                    "inReplyToId": "1554136860758159361",
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "MSM: Speaking of Aparecium implementation\nImplemented in XQuery\nTrying to make loading non-XML resources as easy as loading them as text or XML as XML\n(Demo)\n#balisage2022",
+                                                                            "rawText": "MSM: Speaking of Aparecium implementation\nImplemented in XQuery\nTrying to make loading non-XML resources as easy as loading them as text or XML as XML\n(Demo)\n#balisage2022",
+                                                                            "type": "tweet",
+                                                                            "created": "Mon, 01 Aug 2022 16:10:39 GMT",
+                                                                            "tweetId": "1554137541476884480",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1554137541476884480",
+                                                                            "inReplyToId": "1554137289172717568",
+                                                                            "tweetUserName": "mathling",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "MSM: Biggest issue right now: too slow for production use\n#balisage2022",
+                                                                                    "rawText": "MSM: Biggest issue right now: too slow for production use\n#balisage2022",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Mon, 01 Aug 2022 16:13:41 GMT",
+                                                                                    "tweetId": "1554138307042324481",
+                                                                                    "urltweet": "https://twitter.com/mathling/status/1554138307042324481",
+                                                                                    "inReplyToId": "1554137541476884480",
+                                                                                    "tweetUserName": "mathling"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Correcting Collation Problems with XSLT\nElisa E. Beshero-Bondar\n\n #balisage2022",
