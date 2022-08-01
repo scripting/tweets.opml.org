@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "RonKJeffries tweets",
+            "dateCreated": "Fri, 11 Feb 2022 13:43:39 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 15:33:41 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@JohnAllenPaulos @f2harrell I appreciate your transparency.",
+                                    "rawText": "@JohnAllenPaulos @f2harrell I appreciate your transparency.",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 15:21:15 GMT",
+                                    "tweetId": "1554125112005144576",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1554125112005144576",
+                                    "inReplyToId": "1554110318657167360",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
