@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 14:57:09 GMT"
+            "dateModified": "Mon, 01 Aug 2022 15:10:10 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 01 Aug 2022 14:49:46 GMT",
                                     "tweetId": "1554117186804801537",
                                     "urltweet": "https://twitter.com/mathling/status/1554117186804801537",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "EBB: Machine-assisted collation; here the various publications of Mary Shelley's Frankenstein\n#balisage2022",
+                                            "rawText": "EBB: Machine-assisted collation; here the various publications of Mary Shelley's Frankenstein\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Mon, 01 Aug 2022 15:04:35 GMT",
+                                            "tweetId": "1554120917361369090",
+                                            "urltweet": "https://twitter.com/mathling/status/1554120917361369090",
+                                            "inReplyToId": "1554117186804801537",
+                                            "tweetUserName": "mathling"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "It begins!\n\nTommie Usdin \"Destructive Consistency\" #balisage2022",
