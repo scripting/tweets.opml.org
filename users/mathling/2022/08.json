@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 15:10:10 GMT"
+            "dateModified": "Mon, 01 Aug 2022 15:23:10 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1554120917361369090",
                                             "urltweet": "https://twitter.com/mathling/status/1554120917361369090",
                                             "inReplyToId": "1554117186804801537",
-                                            "tweetUserName": "mathling"
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "EBB: Gothenburg model of computer-aided collation\n1. Tokenization (Smallest unit of comparison)\n2. Normalization (e.g. &amp; = and)\n3. Alignment (chunking, identifiable start/end pts)]\n4. Analysis\n5. Visualization\nIterate\n#balisage2022",
+                                                    "rawText": "EBB: Gothenburg model of computer-aided collation\n1. Tokenization (Smallest unit of comparison)\n2. Normalization (e.g. &amp; = and)\n3. Alignment (chunking, identifiable start/end pts)]\n4. Analysis\n5. Visualization\nIterate\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 01 Aug 2022 15:21:30 GMT",
+                                                    "tweetId": "1554125173472669696",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554125173472669696",
+                                                    "inReplyToId": "1554120917361369090",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
