@@ -1,0 +1,50 @@
+{
+    "opml": {
+        "head": {
+            "title": "_cprecioso tweets",
+            "dateCreated": "Wed, 23 Mar 2022 16:08:24 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 07:46:26 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "@r_p_pp_ Vamos a noticia por cada 6h, o como va esto?",
+                                    "rawText": "@r_p_pp_ Vamos a noticia por cada 6h, o como va esto?",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 07:34:29 GMT",
+                                    "tweetId": "1554007647418023936",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1554007647418023936",
+                                    "inReplyToId": "1554001595276447751",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@leivax_ Emmmm …si???",
+                                    "rawText": "@leivax_ Emmmm …si???",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 07:33:53 GMT",
+                                    "tweetId": "1554007493155618817",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1554007493155618817",
+                                    "inReplyToId": "1554003049907109888",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
