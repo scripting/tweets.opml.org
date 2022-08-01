@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "palayking tweets",
+            "dateCreated": "Sun, 03 Apr 2022 14:10:13 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/palayking/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Mon, 01 Aug 2022 18:24:22 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "Just posted a photo @ Nellai Computers <a href=\"https://t.co/FpcjBi1MFB\">[link]</a>",
+                                    "rawText": "Just posted a photo @ Nellai Computers https://t.co/FpcjBi1MFB",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 18:21:56 GMT",
+                                    "tweetId": "1554170582790508545",
+                                    "urltweet": "https://twitter.com/palayking/status/1554170582790508545",
+                                    "tweetUserName": "palayking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
