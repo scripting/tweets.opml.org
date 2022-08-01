@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 15:36:11 GMT"
+            "dateModified": "Mon, 01 Aug 2022 15:49:12 GMT"
         },
         "body": {
             "subs": [
@@ -97,7 +97,31 @@
                                                                                             "tweetId": "1554128761594867713",
                                                                                             "urltweet": "https://twitter.com/mathling/status/1554128761594867713",
                                                                                             "inReplyToId": "1554128321838850049",
-                                                                                            "tweetUserName": "mathling"
+                                                                                            "tweetUserName": "mathling",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "EBB: Machine-assisted processes need a lot of documentation\n#balisage2022",
+                                                                                                    "rawText": "EBB: Machine-assisted processes need a lot of documentation\n#balisage2022",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Mon, 01 Aug 2022 15:36:34 GMT",
+                                                                                                    "tweetId": "1554128967140909056",
+                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554128967140909056",
+                                                                                                    "inReplyToId": "1554128761594867713",
+                                                                                                    "tweetUserName": "mathling",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "Excuse for shout-out to my talk later in the week (Metadata for Creators), which is all about instrumentation of processes subject to a lot of cyclical tweakage\n#balisage2022",
+                                                                                                            "rawText": "Excuse for shout-out to my talk later in the week (Metadata for Creators), which is all about instrumentation of processes subject to a lot of cyclical tweakage\n#balisage2022",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Mon, 01 Aug 2022 15:38:13 GMT",
+                                                                                                            "tweetId": "1554129380225429505",
+                                                                                                            "urltweet": "https://twitter.com/mathling/status/1554129380225429505",
+                                                                                                            "inReplyToId": "1554128967140909056",
+                                                                                                            "tweetUserName": "mathling"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
                                                                                         }
                                                                                     ]
                                                                                 }
