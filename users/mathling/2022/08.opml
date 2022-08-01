@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Mon, 01 Aug 2022 18:12:21 GMT</dateModified>
+		<dateModified>Mon, 01 Aug 2022 18:25:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -27,7 +27,45 @@ Joey Takeda, Martin Holmes
 #balisage2022" type="tweet" created="Mon, 01 Aug 2022 18:08:51 GMT" tweetId="1554167291171917824" urltweet="https://twitter.com/mathling/status/1554167291171917824" inReplyToId="1554167090986119168" tweetUserName="mathling" >
 								<outline text="JT: Client side libraries? Have to be in memory; doesn't scale to large websites. Google? elasticsearch? Other issues. Decided to build our own: staticSearch, client side website search
 #balisage2022" rawText="JT: Client side libraries? Have to be in memory; doesn't scale to large websites. Google? elasticsearch? Other issues. Decided to build our own: staticSearch, client side website search
-#balisage2022" type="tweet" created="Mon, 01 Aug 2022 18:10:42 GMT" tweetId="1554167756295049216" urltweet="https://twitter.com/mathling/status/1554167756295049216" inReplyToId="1554167291171917824" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Mon, 01 Aug 2022 18:10:42 GMT" tweetId="1554167756295049216" urltweet="https://twitter.com/mathling/status/1554167756295049216" inReplyToId="1554167291171917824" tweetUserName="mathling" >
+									<outline text="JT: staticSearch XSLT/Ant process to generated inverted index of JSON files
+
+Has stemming in multiple languages, wildcards, exact phrases, boolean, configurable filters, contextual...
+
+Every search is bookmarkable URL
+
+#balisage2022" rawText="JT: staticSearch XSLT/Ant process to generated inverted index of JSON files
+
+Has stemming in multiple languages, wildcards, exact phrases, boolean, configurable filters, contextual...
+
+Every search is bookmarkable URL
+
+#balisage2022" type="tweet" created="Mon, 01 Aug 2022 18:12:30 GMT" tweetId="1554168209510567936" urltweet="https://twitter.com/mathling/status/1554168209510567936" inReplyToId="1554167756295049216" tweetUserName="mathling" >
+										<outline text="JT: 
+Input: collection of WF HTML5 in XHTML namespace
+Plus: configuration file
+#balisage2022" rawText="JT: 
+Input: collection of WF HTML5 in XHTML namespace
+Plus: configuration file
+#balisage2022" type="tweet" created="Mon, 01 Aug 2022 18:15:41 GMT" tweetId="1554169009460822018" urltweet="https://twitter.com/mathling/status/1554169009460822018" inReplyToId="1554168209510567936" tweetUserName="mathling" >
+											<outline text="JT: rules tell you what to exclude (default is index everything), contexts to give labels (use match patterns)
+#balisage2022" rawText="JT: rules tell you what to exclude (default is index everything), contexts to give labels (use match patterns)
+#balisage2022" type="tweet" created="Mon, 01 Aug 2022 18:17:36 GMT" tweetId="1554169489700184064" urltweet="https://twitter.com/mathling/status/1554169489700184064" inReplyToId="1554169009460822018" tweetUserName="mathling" >
+												<outline text="JT: Stemming using own implementation of Porter2 plus &quot;diacritic&quot; stemmer and &quot;identity&quot; stemmer, can also use your own (XSLT + JavaScript); in config
+#balisage2022" rawText="JT: Stemming using own implementation of Porter2 plus &quot;diacritic&quot; stemmer and &quot;identity&quot; stemmer, can also use your own (XSLT + JavaScript); in config
+#balisage2022" type="tweet" created="Mon, 01 Aug 2022 18:19:06 GMT" tweetId="1554169868781436928" urltweet="https://twitter.com/mathling/status/1554169868781436928" inReplyToId="1554169489700184064" tweetUserName="mathling" >
+													<outline text="JT: Create &quot;inverted index&quot; JSON files, per stem gets instances; fetched one by one by JavaScript in search
+#balisage2022" rawText="JT: Create &quot;inverted index&quot; JSON files, per stem gets instances; fetched one by one by JavaScript in search
+#balisage2022" type="tweet" created="Mon, 01 Aug 2022 18:22:02 GMT" tweetId="1554170607016652800" urltweet="https://twitter.com/mathling/status/1554170607016652800" inReplyToId="1554169868781436928" tweetUserName="mathling" >
+														<outline text="JT: Create other additional information during indexing: list of titles, list of all (unstemmed) words (used for wildcarding via regex)
+#ballisage2022" rawText="JT: Create other additional information during indexing: list of titles, list of all (unstemmed) words (used for wildcarding via regex)
+#ballisage2022" type="tweet" created="Mon, 01 Aug 2022 18:25:04 GMT" tweetId="1554171369117478913" urltweet="https://twitter.com/mathling/status/1554171369117478913" inReplyToId="1554170607016652800" tweetUserName="mathling" />
+														</outline>
+													</outline>
+												</outline>
+											</outline>
+										</outline>
+									</outline>
 								</outline>
 							</outline>
 						</outline>
