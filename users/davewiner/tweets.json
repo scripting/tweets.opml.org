@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 16:38:00 GMT"
+            "dateModified": "Mon, 01 Aug 2022 16:53:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@mterenzio <a href=\"https://t.co/QQkWium0QJ\">[link]</a>",
+                                    "rawText": "@mterenzio https://t.co/QQkWium0QJ",
+                                    "type": "tweet",
+                                    "created": "Mon, 01 Aug 2022 16:52:52 GMT",
+                                    "tweetId": "1554148168174010369",
+                                    "urltweet": "https://twitter.com/davewiner/status/1554148168174010369",
+                                    "inReplyToId": "1554125435642036228",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Does Murdoch make the political weather or follow it? Yes. <a href=\"https://t.co/0Q1nwkoDVD\">[link]</a>",
                                     "rawText": "Does Murdoch make the political weather or follow it? Yes. https://t.co/0Q1nwkoDVD",
