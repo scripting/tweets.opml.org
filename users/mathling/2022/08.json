@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 14:31:07 GMT"
+            "dateModified": "Mon, 01 Aug 2022 14:44:08 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,19 @@
                                                             "tweetId": "1554111703297638400",
                                                             "urltweet": "https://twitter.com/mathling/status/1554111703297638400",
                                                             "inReplyToId": "1554109606451748864",
-                                                            "tweetUserName": "mathling"
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Usdin: I believe in general consistency is desirable, except when it would be surprising.\n#balisage2022",
+                                                                    "rawText": "Usdin: I believe in general consistency is desirable, except when it would be surprising.\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 01 Aug 2022 14:34:56 GMT",
+                                                                    "tweetId": "1554113454708969472",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1554113454708969472",
+                                                                    "inReplyToId": "1554111703297638400",
+                                                                    "tweetUserName": "mathling"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
