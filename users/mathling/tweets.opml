@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 02 Aug 2022 16:19:45 GMT</dateModified>
+		<dateModified>Tue, 02 Aug 2022 18:03:51 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="Updates on Active Markup-Related Specifications
+Patrick Durusau, David Maus, Steven Pemberton, Norm Tovey-Walsh, Robert Wheeler 
+#balisage2022" rawText="Updates on Active Markup-Related Specifications
+Patrick Durusau, David Maus, Steven Pemberton, Norm Tovey-Walsh, Robert Wheeler 
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 18:03:11 GMT" tweetId="1554528250734444545" urltweet="https://twitter.com/mathling/status/1554528250734444545" inReplyToId="" tweetUserName="mathling" />
 				<outline text="Designing for Change: Pragmas as an Extensibility Mechanism for Invisible XML
 Tomos Hillman, C. M. Sperberg-McQueen, Bethan Tovey-Walsh, Norm Tovey-Walsh 
 #balisage2022" rawText="Designing for Change: Pragmas as an Extensibility Mechanism for Invisible XML
@@ -59,7 +64,61 @@ Special reserved pragma: {[+pragma myPragma &quot;&lt;a href=&quot;https://t.co/
 #balisage2022" rawText="NTW: Naming
 Special reserved pragma: {[+pragma myPragma &quot;https://t.co/C6tzMGlzma&quot;]} sets the name to namespace association
 
-#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:14:32 GMT" tweetId="1554500906648870913" urltweet="https://twitter.com/mathling/status/1554500906648870913" inReplyToId="1554500569481355264" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:14:32 GMT" tweetId="1554500906648870913" urltweet="https://twitter.com/mathling/status/1554500906648870913" inReplyToId="1554500569481355264" tweetUserName="mathling" >
+											<outline text="NTW: Various examples: renaming, make this a token, resolving ambiguity
+
+#balisage2022" rawText="NTW: Various examples: renaming, make this a token, resolving ambiguity
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:21:36 GMT" tweetId="1554502688435363840" urltweet="https://twitter.com/mathling/status/1554502688435363840" inReplyToId="1554500906648870913" tweetUserName="mathling" >
+												<outline text="NTW: Experimental pragma that became part of the language: insertions
+One goal is to provide mechanism to experiment with things to see how they work
+#balisage2022" rawText="NTW: Experimental pragma that became part of the language: insertions
+One goal is to provide mechanism to experiment with things to see how they work
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:23:24 GMT" tweetId="1554503140392591360" urltweet="https://twitter.com/mathling/status/1554503140392591360" inReplyToId="1554502688435363840" tweetUserName="mathling" >
+													<outline text="NTW: Several implementors are working on this; mine implements several. Next step is to turn paper into spec
+#balisage2022" rawText="NTW: Several implementors are working on this; mine implements several. Next step is to turn paper into spec
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:24:25 GMT" tweetId="1554503395251081216" urltweet="https://twitter.com/mathling/status/1554503395251081216" inReplyToId="1554503140392591360" tweetUserName="mathling" >
+														<outline text="Q: iXML spec has several extra-grammatical constraints
+Would these be good candidates for pragmatization?
+A: Yes, possibly, not sure of details
+#balisage2022" rawText="Q: iXML spec has several extra-grammatical constraints
+Would these be good candidates for pragmatization?
+A: Yes, possibly, not sure of details
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:25:45 GMT" tweetId="1554503732099817472" urltweet="https://twitter.com/mathling/status/1554503732099817472" inReplyToId="1554503395251081216" tweetUserName="mathling" >
+															<outline text="Q: Fan of extensibility, but worried about interoperability. By definition not interoperable. Don't see advantage of adding this to language.
+A: There are things that shouldn't be part of language, e.g. ambiguity. Things making sense to particular processors...
+#balisage2022" rawText="Q: Fan of extensibility, but worried about interoperability. By definition not interoperable. Don't see advantage of adding this to language.
+A: There are things that shouldn't be part of language, e.g. ambiguity. Things making sense to particular processors...
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:29:42 GMT" tweetId="1554504723901739009" urltweet="https://twitter.com/mathling/status/1554504723901739009" inReplyToId="1554503732099817472" tweetUserName="mathling" >
+																<outline text="... Also, if there need to be ways to communicate things to processor, better to have one way than multiple ways.
+Believe there are those cases,there are limits to what iXML can express and may WANT different behaviours
+[[a debate that will continue; good points on both sides]]" rawText="... Also, if there need to be ways to communicate things to processor, better to have one way than multiple ways.
+Believe there are those cases,there are limits to what iXML can express and may WANT different behaviours
+[[a debate that will continue; good points on both sides]]" type="tweet" created="Tue, 02 Aug 2022 16:31:26 GMT" tweetId="1554505161715752961" urltweet="https://twitter.com/mathling/status/1554505161715752961" inReplyToId="1554504723901739009" tweetUserName="mathling" >
+																	<outline text="MSM A: Why not bring use cases not pragma? Because most such proposals cannot be implemented. Having a proof-of-implementation short-circuits those debates.
+
+#balisage2022" rawText="MSM A: Why not bring use cases not pragma? Because most such proposals cannot be implemented. Having a proof-of-implementation short-circuits those debates.
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:33:07 GMT" tweetId="1554505586795941889" urltweet="https://twitter.com/mathling/status/1554505586795941889" inReplyToId="1554505161715752961" tweetUserName="mathling" >
+																		<outline text="MSM continues: analogy with Private Use areas in Unicode
+
+#balisage2022" rawText="MSM continues: analogy with Private Use areas in Unicode
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:34:19 GMT" tweetId="1554505886084648961" urltweet="https://twitter.com/mathling/status/1554505886084648961" inReplyToId="1554505586795941889" tweetUserName="mathling" >
+																			<outline text="JL: Another use, for annotating grammar for when you project it into a different kind of grammar. That's what I've been using it for.
+A: I have notion of using annotation to add DC metadata to grammar
+#balisage2022" rawText="JL: Another use, for annotating grammar for when you project it into a different kind of grammar. That's what I've been using it for.
+A: I have notion of using annotation to add DC metadata to grammar
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:38:58 GMT" tweetId="1554507058820485120" urltweet="https://twitter.com/mathling/status/1554507058820485120" inReplyToId="1554505886084648961" tweetUserName="mathling" />
+																			</outline>
+																		</outline>
+																	</outline>
+																</outline>
+															</outline>
+														</outline>
+													</outline>
+												</outline>
+											</outline>
 										</outline>
 									</outline>
 								</outline>
