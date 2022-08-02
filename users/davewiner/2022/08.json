@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 03:19:00 GMT"
+            "dateModified": "Tue, 02 Aug 2022 08:41:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "After the pain of the Sonics’ exit, when will Seattle be an NBA city again? <a href=\"https://t.co/lwnU3U01AW\">[link]</a>",
+                                    "rawText": "After the pain of the Sonics’ exit, when will Seattle be an NBA city again? https://t.co/lwnU3U01AW",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 08:40:22 GMT",
+                                    "tweetId": "1554386614100574208",
+                                    "urltweet": "https://twitter.com/davewiner/status/1554386614100574208",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
