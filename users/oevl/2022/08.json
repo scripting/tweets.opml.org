@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 22:40:38 GMT"
+            "dateModified": "Tue, 02 Aug 2022 14:04:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@cuandoerapavo Cuando manejo, surfeando frecuencias",
+                                    "rawText": "@cuandoerapavo Cuando manejo, surfeando frecuencias",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 14:03:20 GMT",
+                                    "tweetId": "1554467893143900160",
+                                    "urltweet": "https://twitter.com/oevl/status/1554467893143900160",
+                                    "inReplyToId": "1554309673519419393",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
