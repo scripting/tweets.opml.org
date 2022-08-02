@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 02 Aug 2022 16:06:44 GMT</dateModified>
+		<dateModified>Tue, 02 Aug 2022 16:19:45 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -15,7 +15,7 @@
 Tomos Hillman, C. M. Sperberg-McQueen, Bethan Tovey-Walsh, Norm Tovey-Walsh 
 #balisage2022" rawText="Designing for Change: Pragmas as an Extensibility Mechanism for Invisible XML
 Tomos Hillman, C. M. Sperberg-McQueen, Bethan Tovey-Walsh, Norm Tovey-Walsh 
-#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:01:13 GMT" tweetId="1554497557300056064" urltweet="https://twitter.com/mathling/status/1554497557300056064" inReplyToId="" tweetUserName="mathling" >
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:01:13 GMT" tweetId="1554497557300056064" urltweet="https://twitter.com/mathling/status/1554497557300056064" tweetUserName="mathling" >
 					<outline text="BTW: Two precepts
 1. There are rules for a reason
 2. Question authority
@@ -24,7 +24,47 @@ Tomos Hillman, C. M. Sperberg-McQueen, Bethan Tovey-Walsh, Norm Tovey-Walsh
 1. There are rules for a reason
 2. Question authority
 
-#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:06:40 GMT" tweetId="1554498929638535168" urltweet="https://twitter.com/mathling/status/1554498929638535168" inReplyToId="1554497557300056064" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:06:40 GMT" tweetId="1554498929638535168" urltweet="https://twitter.com/mathling/status/1554498929638535168" inReplyToId="1554497557300056064" tweetUserName="mathling" >
+						<outline text="BTW: Want a way to break the rules without imposing our mistakes on the world, a way to innovate but still maintain the standard
+
+#balisage2022" rawText="BTW: Want a way to break the rules without imposing our mistakes on the world, a way to innovate but still maintain the standard
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:07:21 GMT" tweetId="1554499102284492801" urltweet="https://twitter.com/mathling/status/1554499102284492801" inReplyToId="1554498929638535168" tweetUserName="mathling" >
+							<outline text="Pragmas: give instructions to processor, generally out of scope of language semantics
+
+#balisage2022" rawText="Pragmas: give instructions to processor, generally out of scope of language semantics
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:08:47 GMT" tweetId="1554499462520745984" urltweet="https://twitter.com/mathling/status/1554499462520745984" inReplyToId="1554499102284492801" tweetUserName="mathling" >
+								<outline text="BTW: Our proposal for iXML pragmas is NOT official at this point
+
+Pragmas will be ignored by pragma-unaware processors; will be understood by processor that understands that particular pragma
+
+#balisage2022" rawText="BTW: Our proposal for iXML pragmas is NOT official at this point
+
+Pragmas will be ignored by pragma-unaware processors; will be understood by processor that understands that particular pragma
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:12:15 GMT" tweetId="1554500332830412801" urltweet="https://twitter.com/mathling/status/1554500332830412801" inReplyToId="1554499462520745984" tweetUserName="mathling" >
+									<outline text="NTW: Example
+Pragma is specially structured comment
+{[pragma]} vs {normal comment}
+
+#balisage2022" rawText="NTW: Example
+Pragma is specially structured comment
+{[pragma]} vs {normal comment}
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:13:11 GMT" tweetId="1554500569481355264" urltweet="https://twitter.com/mathling/status/1554500569481355264" inReplyToId="1554500332830412801" tweetUserName="mathling" >
+										<outline text="NTW: Naming
+Special reserved pragma: {[+pragma myPragma &quot;&lt;a href=&quot;https://t.co/C6tzMGlzma&quot;&gt;[link]&lt;/a&gt;&quot;]} sets the name to namespace association
+
+#balisage2022" rawText="NTW: Naming
+Special reserved pragma: {[+pragma myPragma &quot;https://t.co/C6tzMGlzma&quot;]} sets the name to namespace association
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 16:14:32 GMT" tweetId="1554500906648870913" urltweet="https://twitter.com/mathling/status/1554500906648870913" inReplyToId="1554500569481355264" tweetUserName="mathling" />
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
 					</outline>
 				<outline text="BITS for Government Information?
 Ravit H. David 
