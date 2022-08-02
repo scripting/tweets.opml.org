@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 14:09:37 GMT"
+            "dateModified": "Tue, 02 Aug 2022 14:22:38 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,53 @@
                                     "created": "Tue, 02 Aug 2022 14:02:38 GMT",
                                     "tweetId": "1554467714311536642",
                                     "urltweet": "https://twitter.com/mathling/status/1554467714311536642",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "XProc: XSLX =&gt; XSLT =&gt; CALS, SVG \n\n(Demo)\n#balisage2022",
+                                            "rawText": "XProc: XSLX =&gt; XSLT =&gt; CALS, SVG \n\n(Demo)\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Tue, 02 Aug 2022 14:11:09 GMT",
+                                            "tweetId": "1554469859656081409",
+                                            "urltweet": "https://twitter.com/mathling/status/1554469859656081409",
+                                            "inReplyToId": "1554467714311536642",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "Input parameters to identify sheet name and cell range\nUse XSLT 3.0 xsl:iterate to calculate total width\n\n#balisage2022",
+                                                    "rawText": "Input parameters to identify sheet name and cell range\nUse XSLT 3.0 xsl:iterate to calculate total width\n\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 02 Aug 2022 14:13:09 GMT",
+                                                    "tweetId": "1554470362741899265",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554470362741899265",
+                                                    "inReplyToId": "1554469859656081409",
+                                                    "tweetUserName": "mathling"
+                                                },
+                                                {
+                                                    "text": "GU: Complications\nFormatting, hidden cells, orientation, conditional formatting, date/time formatting,...\n\n#balisage2022",
+                                                    "rawText": "GU: Complications\nFormatting, hidden cells, orientation, conditional formatting, date/time formatting,...\n\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 02 Aug 2022 14:17:36 GMT",
+                                                    "tweetId": "1554471481014644736",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554471481014644736",
+                                                    "inReplyToId": "1554469859656081409",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "GU: Lots of indirection: cell references font id 1, which is elsewhere in structure\n#balisage2022",
+                                                            "rawText": "GU: Lots of indirection: cell references font id 1, which is elsewhere in structure\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 02 Aug 2022 14:18:46 GMT",
+                                                            "tweetId": "1554471776251682821",
+                                                            "urltweet": "https://twitter.com/mathling/status/1554471776251682821",
+                                                            "inReplyToId": "1554471481014644736",
+                                                            "tweetUserName": "mathling"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
