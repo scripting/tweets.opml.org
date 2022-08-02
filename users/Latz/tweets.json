@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 18:51:09 GMT"
+            "dateModified": "Tue, 02 Aug 2022 16:06:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/Ym2JqnB7Fz\">[link]</a>",
+                                    "rawText": "https://t.co/Ym2JqnB7Fz",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 16:03:34 GMT",
+                                    "tweetId": "1554498148860657664",
+                                    "urltweet": "https://twitter.com/Latz/status/1554498148860657664",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
