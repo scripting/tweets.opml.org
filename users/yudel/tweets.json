@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 02:16:22 GMT"
+            "dateModified": "Tue, 02 Aug 2022 03:47:28 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@DavidBrin Time frame?",
+                                    "rawText": "@DavidBrin Time frame?",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 03:43:50 GMT",
+                                    "tweetId": "1554311988485947392",
+                                    "urltweet": "https://twitter.com/yudel/status/1554311988485947392",
+                                    "inReplyToId": "1554309797960228867",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@EladNehorai Too bad it’s been canonized.",
                                     "rawText": "@EladNehorai Too bad it’s been canonized.",
