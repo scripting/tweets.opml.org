@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 02 Aug 2022 18:16:52 GMT</dateModified>
+		<dateModified>Tue, 02 Aug 2022 18:29:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -33,7 +33,44 @@ Plus wisdom on &quot;referential backwards compatibility&quot; [shudder]
 
 3rd edition ISO standard added XSLT 3/XPath 3 in 2020, but no longer freely available [thanks for nothing ISO] and no longer a working group there
 
-#balisage2022" type="tweet" created="Tue, 02 Aug 2022 18:13:53 GMT" tweetId="1554530945276882949" urltweet="https://twitter.com/mathling/status/1554530945276882949" inReplyToId="1554529290686906368" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 18:13:53 GMT" tweetId="1554530945276882949" urltweet="https://twitter.com/mathling/status/1554530945276882949" inReplyToId="1554529290686906368" tweetUserName="mathling" >
+							<outline text="SP: Update on XForms
+Living standard, active group; many small tweaks to make life easier
+Now unbound from XPath version
+Embedded controls work like normal controls
+#balisage2020" rawText="SP: Update on XForms
+Living standard, active group; many small tweaks to make life easier
+Now unbound from XPath version
+Embedded controls work like normal controls
+#balisage2020" type="tweet" created="Tue, 02 Aug 2022 18:19:05 GMT" tweetId="1554532250892455936" urltweet="https://twitter.com/mathling/status/1554532250892455936" inReplyToId="1554530945276882949" tweetUserName="mathling" >
+								<outline text="NTW: XSLT 4.0 (+XPath/XQuery/F&amp;amp;O)
+Various new things 
+New defaults, records, simpler named templates, switch instruction, mode improvements, syntax tweaks, functions, etc.
+Long list of suggestions
+Call to action: rekicking community group
+#balisage2022" rawText="NTW: XSLT 4.0 (+XPath/XQuery/F&amp;amp;O)
+Various new things 
+New defaults, records, simpler named templates, switch instruction, mode improvements, syntax tweaks, functions, etc.
+Long list of suggestions
+Call to action: rekicking community group
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 18:24:43 GMT" tweetId="1554533669246685184" urltweet="https://twitter.com/mathling/status/1554533669246685184" inReplyToId="1554532250892455936" tweetUserName="mathling" >
+									<outline text="RW: NISO STS Update
+
+STS=XML format for standards documents, based on JATS + ISOSTS 1.1
+
+#balisage2022" rawText="RW: NISO STS Update
+
+STS=XML format for standards documents, based on JATS + ISOSTS 1.1
+
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 18:27:16 GMT" tweetId="1554534313542070272" urltweet="https://twitter.com/mathling/status/1554534313542070272" inReplyToId="1554533669246685184" tweetUserName="mathling" />
+									</outline>
+								<outline text="Up #balisage2022 that is
+
+Sorry for the fat finger typos" rawText="Up #balisage2022 that is
+
+Sorry for the fat finger typos" type="tweet" created="Tue, 02 Aug 2022 18:27:53 GMT" tweetId="1554534469163372544" urltweet="https://twitter.com/mathling/status/1554534469163372544" inReplyToId="1554532250892455936" tweetUserName="mathling" />
+								</outline>
+							</outline>
 						</outline>
 					</outline>
 				<outline text="Designing for Change: Pragmas as an Extensibility Mechanism for Invisible XML
