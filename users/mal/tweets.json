@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 17:27:33 GMT"
+            "dateModified": "Tue, 02 Aug 2022 19:55:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@Ana__George Iced? Cold brew?",
+                                    "rawText": "@Ana__George Iced? Cold brew?",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 19:44:05 GMT",
+                                    "tweetId": "1554553645085011969",
+                                    "urltweet": "https://twitter.com/mal/status/1554553645085011969",
+                                    "inReplyToId": "1554553225814089732",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
