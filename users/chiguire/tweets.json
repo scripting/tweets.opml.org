@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 22:15:37 GMT"
+            "dateModified": "Tue, 02 Aug 2022 09:58:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@zamuro Gran historia",
+                                    "rawText": "@zamuro Gran historia",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 09:51:36 GMT",
+                                    "tweetId": "1554404538920083458",
+                                    "urltweet": "https://twitter.com/chiguire/status/1554404538920083458",
+                                    "inReplyToId": "1554352998322769926",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
