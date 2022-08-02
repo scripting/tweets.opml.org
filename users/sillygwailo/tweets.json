@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 06:09:05 GMT"
+            "dateModified": "Tue, 02 Aug 2022 16:51:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "I agree 100%! /cc @wnbatoronto <a href=\"https://t.co/D3yiVifsYd\">[link]</a>",
+                                    "rawText": "I agree 100%! /cc @wnbatoronto https://t.co/D3yiVifsYd",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 16:49:48 GMT",
+                                    "tweetId": "1554509784849809416",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1554509784849809416",
+                                    "inReplyToId": "1538873124615331840",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
