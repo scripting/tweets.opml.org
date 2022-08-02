@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 02:24:23 GMT"
+            "dateModified": "Tue, 02 Aug 2022 04:34:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "ASUS Zenphone 9 looks great. Seriously good battery life in a compact phone. One miss: no wireless charging. <a href=\"https://t.co/rmnC5MOLAG\">[link]</a>",
+                                    "rawText": "ASUS Zenphone 9 looks great. Seriously good battery life in a compact phone. One miss: no wireless charging. https://t.co/rmnC5MOLAG",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 04:24:00 GMT",
+                                    "tweetId": "1554322097249234944",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1554322097249234944",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
