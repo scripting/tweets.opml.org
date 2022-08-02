@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 02:42:01 GMT"
+            "dateModified": "Tue, 02 Aug 2022 02:46:00 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Tue, 02 Aug 2022 02:41:08 GMT",
                                     "tweetId": "1554296208960659456",
                                     "urltweet": "https://twitter.com/davewiner/status/1554296208960659456",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "See also --\n\n<a href=\"https://t.co/wSyHtvXvEc\">[link]</a>",
+                                            "rawText": "See also --\n\nhttps://t.co/wSyHtvXvEc",
+                                            "type": "tweet",
+                                            "created": "Tue, 02 Aug 2022 02:45:48 GMT",
+                                            "tweetId": "1554297383877492737",
+                                            "urltweet": "https://twitter.com/davewiner/status/1554297383877492737",
+                                            "inReplyToId": "1554296208960659456",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "This can't be right. <a href=\"https://t.co/Oi3E6YJ26R\">[link]</a>",
