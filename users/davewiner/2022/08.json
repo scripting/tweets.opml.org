@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 02:53:00 GMT"
+            "dateModified": "Tue, 02 Aug 2022 02:55:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "How bout those Mets! <a href=\"https://t.co/w4g2MOxNJm\">[link]</a>",
+                                    "rawText": "How bout those Mets! https://t.co/w4g2MOxNJm",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 02:54:37 GMT",
+                                    "tweetId": "1554299602815303682",
+                                    "urltweet": "https://twitter.com/davewiner/status/1554299602815303682",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Software is like a building. <a href=\"https://t.co/25fUyqJ8FY\">[link]</a>",
                                     "rawText": "Software is like a building. https://t.co/25fUyqJ8FY",
