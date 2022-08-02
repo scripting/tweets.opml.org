@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 16:51:17 GMT"
+            "dateModified": "Tue, 02 Aug 2022 21:50:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "02",
                             "subs": [
+                                {
+                                    "text": "The Amber Alert system can, and should, be improved.",
+                                    "rawText": "The Amber Alert system can, and should, be improved.",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 21:41:15 GMT",
+                                    "tweetId": "1554583128945135616",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1554583128945135616",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "For instance, when linking to a website in an Amber Alert, the website should be able to withstand a large and sudden traffic spike.",
+                                            "rawText": "For instance, when linking to a website in an Amber Alert, the website should be able to withstand a large and sudden traffic spike.",
+                                            "type": "tweet",
+                                            "created": "Tue, 02 Aug 2022 21:41:15 GMT",
+                                            "tweetId": "1554583130354454530",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1554583130354454530",
+                                            "inReplyToId": "1554583128945135616",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "When the website does work, it shouldn’t show that there are no active alerts when there is an active alert. <a href=\"https://t.co/BlST6Vay8Y\">[link]</a>",
+                                                    "rawText": "When the website does work, it shouldn’t show that there are no active alerts when there is an active alert. https://t.co/BlST6Vay8Y",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 02 Aug 2022 21:43:45 GMT",
+                                                    "tweetId": "1554583757520338945",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1554583757520338945",
+                                                    "inReplyToId": "1554583130354454530",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "I agree 100%! /cc @wnbatoronto <a href=\"https://t.co/D3yiVifsYd\">[link]</a>",
                                     "rawText": "I agree 100%! /cc @wnbatoronto https://t.co/D3yiVifsYd",
