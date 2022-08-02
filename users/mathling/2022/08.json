@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 19:08:55 GMT"
+            "dateModified": "Tue, 02 Aug 2022 19:21:56 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,31 @@
                                             "tweetId": "1554544665268957184",
                                             "urltweet": "https://twitter.com/mathling/status/1554544665268957184",
                                             "inReplyToId": "1554542743841517568",
-                                            "tweetUserName": "mathling"
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "EL: Some C++ devs switching to AsciiDoc\nHow to get the nice styling?\n#balisage2022",
+                                                    "rawText": "EL: Some C++ devs switching to AsciiDoc\nHow to get the nice styling?\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 02 Aug 2022 19:15:10 GMT",
+                                                    "tweetId": "1554546367401324544",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554546367401324544",
+                                                    "inReplyToId": "1554544665268957184",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "EL: Found tool Antora, which runs on Node.js\nHas been some desire to remove Java from toolchain, let's use SaxonJS to make the AsciiDoc to fees to Antora\n#balisage2022",
+                                                            "rawText": "EL: Found tool Antora, which runs on Node.js\nHas been some desire to remove Java from toolchain, let's use SaxonJS to make the AsciiDoc to fees to Antora\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Tue, 02 Aug 2022 19:17:13 GMT",
+                                                            "tweetId": "1554546881212006400",
+                                                            "urltweet": "https://twitter.com/mathling/status/1554546881212006400",
+                                                            "inReplyToId": "1554546367401324544",
+                                                            "tweetUserName": "mathling"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
