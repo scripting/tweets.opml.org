@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 21:36:49 GMT"
+            "dateModified": "Tue, 02 Aug 2022 13:26:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Tons of great historical background on Windows along with the WSL feature from ⁦@shanselman⁩ here. 👏🏼👏🏼👏🏼 <a href=\"https://t.co/2Zv6IeplzX\">[link]</a>",
+                                    "rawText": "Tons of great historical background on Windows along with the WSL feature from ⁦@shanselman⁩ here. 👏🏼👏🏼👏🏼 https://t.co/2Zv6IeplzX",
+                                    "type": "tweet",
+                                    "created": "Tue, 02 Aug 2022 13:17:15 GMT",
+                                    "tweetId": "1554456295851393026",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1554456295851393026",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
