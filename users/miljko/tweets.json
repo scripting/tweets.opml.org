@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 21:14:33 GMT"
+            "dateModified": "Wed, 03 Aug 2022 16:06:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@pauld198 Faces of scientism",
+                                    "rawText": "@pauld198 Faces of scientism",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 15:56:16 GMT",
+                                    "tweetId": "1554858700397023236",
+                                    "urltweet": "https://twitter.com/miljko/status/1554858700397023236",
+                                    "inReplyToId": "1554851906127687680",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
