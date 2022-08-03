@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 01 Aug 2022 08:28:29 GMT"
+            "dateModified": "Wed, 03 Aug 2022 09:16:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@mhawksey Never heard of this attribute either, is it naive to worry about privacy &amp; tracking?",
+                                    "rawText": "@mhawksey Never heard of this attribute either, is it naive to worry about privacy &amp; tracking?",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 09:06:26 GMT",
+                                    "tweetId": "1554755562499448837",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1554755562499448837",
+                                    "inReplyToId": "1554577270836269058",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 1",
                             "type": "calendarDay",
