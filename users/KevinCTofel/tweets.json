@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 00:56:33 GMT"
+            "dateModified": "Wed, 03 Aug 2022 05:42:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Why I use a Chromebook <a href=\"https://t.co/BjgyYNj4P9\">[link]</a> https://t.co/sBsxKWwIKd",
+                                    "rawText": "ICYMI: Why I use a Chromebook https://t.co/BjgyYNj4P9 https://t.co/sBsxKWwIKd",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 05:41:02 GMT",
+                                    "tweetId": "1554703870798008320",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1554703870798008320",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
