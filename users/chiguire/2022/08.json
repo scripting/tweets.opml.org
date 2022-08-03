@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 02:27:23 GMT"
+            "dateModified": "Wed, 03 Aug 2022 12:13:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Esta semana aprendí <a href=\"https://t.co/A6pSa12gag\">[link]</a> https://t.co/XpfoBfdz1G",
+                                    "rawText": "Esta semana aprendí https://t.co/A6pSa12gag https://t.co/XpfoBfdz1G",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 12:12:32 GMT",
+                                    "tweetId": "1554802393635749889",
+                                    "urltweet": "https://twitter.com/chiguire/status/1554802393635749889",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
