@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Wed, 03 Aug 2022 14:01:07 GMT</dateModified>
+		<dateModified>Wed, 03 Aug 2022 14:14:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -18,7 +18,61 @@ Ari Nordström, Jean Kaplansky
  #balisage2022" rawText="Migrating DocBook to Uncharted Waters
 Ari Nordström, Jean Kaplansky
 
- #balisage2022" type="tweet" created="Wed, 03 Aug 2022 13:58:31 GMT" tweetId="1554829067676831746" urltweet="https://twitter.com/mathling/status/1554829067676831746" inReplyToId="" tweetUserName="mathling" />
+ #balisage2022" type="tweet" created="Wed, 03 Aug 2022 13:58:31 GMT" tweetId="1554829067676831746" urltweet="https://twitter.com/mathling/status/1554829067676831746" tweetUserName="mathling" >
+					<outline text="JK: The quest
+Migrate 50GB of MathML heavy DocBook, update, normalize, move to LMS, ...
+
+on a short time frame
+
+#balisage2022" rawText="JK: The quest
+Migrate 50GB of MathML heavy DocBook, update, normalize, move to LMS, ...
+
+on a short time frame
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:04:08 GMT" tweetId="1554830480553299974" urltweet="https://twitter.com/mathling/status/1554830480553299974" inReplyToId="1554829067676831746" tweetUserName="mathling" >
+						<outline text="JK: XIncludes, weird Arbortext PIs, MathML, entities upon top of entities
+
+#balisage2022" rawText="JK: XIncludes, weird Arbortext PIs, MathML, entities upon top of entities
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:06:46 GMT" tweetId="1554831144549359616" urltweet="https://twitter.com/mathling/status/1554831144549359616" inReplyToId="1554830480553299974" tweetUserName="mathling" >
+							<outline text="[A case study in technological archaeology]" rawText="[A case study in technological archaeology]" type="tweet" created="Wed, 03 Aug 2022 14:07:17 GMT" tweetId="1554831272735698944" urltweet="https://twitter.com/mathling/status/1554831272735698944" inReplyToId="1554831144549359616" tweetUserName="mathling" >
+								<outline text="JK: Problem finding someone to help take on this quest
+
+Eventually got to Ari
+
+#balisage2022" rawText="JK: Problem finding someone to help take on this quest
+
+Eventually got to Ari
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:08:05 GMT" tweetId="1554831475882594308" urltweet="https://twitter.com/mathling/status/1554831475882594308" inReplyToId="1554831272735698944" tweetUserName="mathling" >
+									<outline text="AN: &quot;This should be easy&quot;
+DocBook 4.0 =&amp;gt; 4.3 =&amp;gt; XHTML 
+&quot;Pipelines!&quot;
+
+#balisage2022" rawText="AN: &quot;This should be easy&quot;
+DocBook 4.0 =&amp;gt; 4.3 =&amp;gt; XHTML 
+&quot;Pipelines!&quot;
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:09:18 GMT" tweetId="1554831780737269763" urltweet="https://twitter.com/mathling/status/1554831780737269763" inReplyToId="1554831475882594308" tweetUserName="mathling" >
+										<outline text="AN: Let's talk about clean up
+
+Normalize
+Tweak
+Encode (=&amp;gt;UTF8)
+
+#balisage2022" rawText="AN: Let's talk about clean up
+
+Normalize
+Tweak
+Encode (=&amp;gt;UTF8)
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:11:42 GMT" tweetId="1554832384494710787" urltweet="https://twitter.com/mathling/status/1554832384494710787" inReplyToId="1554831780737269763" tweetUserName="mathling" />
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				</outline>
 			<outline text="August 2" type="calendarDay" name="02" >
 				<outline text="XML in an AsciiDoc World: SaxonJS to the Rescue (LB) 
