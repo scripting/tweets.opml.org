@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "Jacobr tweets",
+            "dateCreated": "Sun, 30 Jan 2022 14:59:22 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Wed, 03 Aug 2022 06:08:22 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "It's my #Twitterversary! I have been on Twitter for 16 years, since 17 Jul 2006 (via @twi_age).",
+                                    "rawText": "It's my #Twitterversary! I have been on Twitter for 16 years, since 17 Jul 2006 (via @twi_age).",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 06:00:50 GMT",
+                                    "tweetId": "1554708854562119680",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1554708854562119680",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
