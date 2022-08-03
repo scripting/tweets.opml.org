@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 14:14:08 GMT"
+            "dateModified": "Wed, 03 Aug 2022 14:27:08 GMT"
         },
         "body": {
             "subs": [
@@ -97,7 +97,79 @@
                                                                                     "tweetId": "1554832384494710787",
                                                                                     "urltweet": "https://twitter.com/mathling/status/1554832384494710787",
                                                                                     "inReplyToId": "1554831780737269763",
-                                                                                    "tweetUserName": "mathling"
+                                                                                    "tweetUserName": "mathling",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "AN: Normalization\nPull in XInclude links, add targets to xproc filter to skip the included links\nEasy, right?\n\nUm... source has its own file protocol URIs\nWith lots of extra characters \n\nSo... file renaming step which also needs to fix the refs\n#balisage2022",
+                                                                                            "rawText": "AN: Normalization\nPull in XInclude links, add targets to xproc filter to skip the included links\nEasy, right?\n\nUm... source has its own file protocol URIs\nWith lots of extra characters \n\nSo... file renaming step which also needs to fix the refs\n#balisage2022",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Wed, 03 Aug 2022 14:14:53 GMT",
+                                                                                            "tweetId": "1554833187267719169",
+                                                                                            "urltweet": "https://twitter.com/mathling/status/1554833187267719169",
+                                                                                            "inReplyToId": "1554832384494710787",
+                                                                                            "tweetUserName": "mathling",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "AN: Encoding\nJust serialize XML in UTF-8\n\nUh: XIncluded bits included decades of character entities, but with DOCTYPEs that defined them commented out and the commented out things had wrong names...\n\nSo: Use TagSoup to add in right DOCTYPEs\n\n#balisage2022",
+                                                                                                    "rawText": "AN: Encoding\nJust serialize XML in UTF-8\n\nUh: XIncluded bits included decades of character entities, but with DOCTYPEs that defined them commented out and the commented out things had wrong names...\n\nSo: Use TagSoup to add in right DOCTYPEs\n\n#balisage2022",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Wed, 03 Aug 2022 14:17:43 GMT",
+                                                                                                    "tweetId": "1554833898709741572",
+                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554833898709741572",
+                                                                                                    "inReplyToId": "1554833187267719169",
+                                                                                                    "tweetUserName": "mathling",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "AN: New issues with those fragments where things depended on context, so needed more complicated plan\n\n#balisage2022",
+                                                                                                            "rawText": "AN: New issues with those fragments where things depended on context, so needed more complicated plan\n\n#balisage2022",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Wed, 03 Aug 2022 14:21:43 GMT",
+                                                                                                            "tweetId": "1554834906022174722",
+                                                                                                            "urltweet": "https://twitter.com/mathling/status/1554834906022174722",
+                                                                                                            "inReplyToId": "1554833898709741572",
+                                                                                                            "tweetUserName": "mathling",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "AN: Complications on top of complications\n\n[Isn't it ever thus? Everything is always more complicated than you can possibly imagine.]\n\n#balisage2022",
+                                                                                                                    "rawText": "AN: Complications on top of complications\n\n[Isn't it ever thus? Everything is always more complicated than you can possibly imagine.]\n\n#balisage2022",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Wed, 03 Aug 2022 14:23:58 GMT",
+                                                                                                                    "tweetId": "1554835469875044354",
+                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554835469875044354",
+                                                                                                                    "inReplyToId": "1554834906022174722",
+                                                                                                                    "tweetUserName": "mathling",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "AN: Ended up doing a lot of pre-conversion as part of fix-ups, ended up with a lot of keep=true to keep DocBook stylesheets from messing with them in weird ways\n\n#balisage2022",
+                                                                                                                            "rawText": "AN: Ended up doing a lot of pre-conversion as part of fix-ups, ended up with a lot of keep=true to keep DocBook stylesheets from messing with them in weird ways\n\n#balisage2022",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Wed, 03 Aug 2022 14:25:49 GMT",
+                                                                                                                            "tweetId": "1554835938936705024",
+                                                                                                                            "urltweet": "https://twitter.com/mathling/status/1554835938936705024",
+                                                                                                                            "inReplyToId": "1554835469875044354",
+                                                                                                                            "tweetUserName": "mathling",
+                                                                                                                            "subs": [
+                                                                                                                                {
+                                                                                                                                    "text": "AN: \"There were namespace issues\"\n\n#balisage2022\n\n[Evergreen tweet]",
+                                                                                                                                    "rawText": "AN: \"There were namespace issues\"\n\n#balisage2022\n\n[Evergreen tweet]",
+                                                                                                                                    "type": "tweet",
+                                                                                                                                    "created": "Wed, 03 Aug 2022 14:26:27 GMT",
+                                                                                                                                    "tweetId": "1554836097749831680",
+                                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1554836097749831680",
+                                                                                                                                    "inReplyToId": "1554835938936705024",
+                                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
