@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 20:39:46 GMT"
+            "dateModified": "Wed, 03 Aug 2022 08:09:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Paris Bike Ride with Stein van Oosteren <a href=\"https://t.co/OA2Izee6wg\">[link]</a>",
+                                    "rawText": "Paris Bike Ride with Stein van Oosteren https://t.co/OA2Izee6wg",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 08:02:43 GMT",
+                                    "tweetId": "1554739525758455810",
+                                    "urltweet": "https://twitter.com/Latz/status/1554739525758455810",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
