@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 03:41:58 GMT"
+            "dateModified": "Wed, 03 Aug 2022 04:08:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@BlueJays @Dodgers <a href=\"https://t.co/q71Pmtw9EN\">[link]</a>",
+                                    "rawText": "@BlueJays @Dodgers https://t.co/q71Pmtw9EN",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 04:01:10 GMT",
+                                    "tweetId": "1554678739497324545",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1554678739497324545",
+                                    "inReplyToId": "1554676751565000704",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
@@ -27,7 +44,31 @@
                                     "created": "Wed, 03 Aug 2022 03:41:31 GMT",
                                     "tweetId": "1554673795708993537",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1554673795708993537",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Vin Scully was someone we gained, not someone we lost.",
+                                            "rawText": "Vin Scully was someone we gained, not someone we lost.",
+                                            "type": "tweet",
+                                            "created": "Wed, 03 Aug 2022 03:55:49 GMT",
+                                            "tweetId": "1554677393352163328",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1554677393352163328",
+                                            "inReplyToId": "1554673795708993537",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "My favourite Vin Scully quote isn’t even a real Vin Scully quote. <a href=\"https://t.co/Vg2E8Wwhx3\">[link]</a>",
+                                                    "rawText": "My favourite Vin Scully quote isn’t even a real Vin Scully quote. https://t.co/Vg2E8Wwhx3",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 03 Aug 2022 03:58:15 GMT",
+                                                    "tweetId": "1554678003606720512",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1554678003606720512",
+                                                    "inReplyToId": "1554677393352163328",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Toronto hasn’t changed one bit since then! <a href=\"https://t.co/G4xo9zjCqH\">[link]</a>",
