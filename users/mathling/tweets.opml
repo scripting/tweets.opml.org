@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Wed, 03 Aug 2022 14:14:08 GMT</dateModified>
+		<dateModified>Wed, 03 Aug 2022 14:27:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -66,7 +66,73 @@ Normalize
 Tweak
 Encode (=&amp;gt;UTF8)
 
-#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:11:42 GMT" tweetId="1554832384494710787" urltweet="https://twitter.com/mathling/status/1554832384494710787" inReplyToId="1554831780737269763" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:11:42 GMT" tweetId="1554832384494710787" urltweet="https://twitter.com/mathling/status/1554832384494710787" inReplyToId="1554831780737269763" tweetUserName="mathling" >
+											<outline text="AN: Normalization
+Pull in XInclude links, add targets to xproc filter to skip the included links
+Easy, right?
+
+Um... source has its own file protocol URIs
+With lots of extra characters 
+
+So... file renaming step which also needs to fix the refs
+#balisage2022" rawText="AN: Normalization
+Pull in XInclude links, add targets to xproc filter to skip the included links
+Easy, right?
+
+Um... source has its own file protocol URIs
+With lots of extra characters 
+
+So... file renaming step which also needs to fix the refs
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:14:53 GMT" tweetId="1554833187267719169" urltweet="https://twitter.com/mathling/status/1554833187267719169" inReplyToId="1554832384494710787" tweetUserName="mathling" >
+												<outline text="AN: Encoding
+Just serialize XML in UTF-8
+
+Uh: XIncluded bits included decades of character entities, but with DOCTYPEs that defined them commented out and the commented out things had wrong names...
+
+So: Use TagSoup to add in right DOCTYPEs
+
+#balisage2022" rawText="AN: Encoding
+Just serialize XML in UTF-8
+
+Uh: XIncluded bits included decades of character entities, but with DOCTYPEs that defined them commented out and the commented out things had wrong names...
+
+So: Use TagSoup to add in right DOCTYPEs
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:17:43 GMT" tweetId="1554833898709741572" urltweet="https://twitter.com/mathling/status/1554833898709741572" inReplyToId="1554833187267719169" tweetUserName="mathling" >
+													<outline text="AN: New issues with those fragments where things depended on context, so needed more complicated plan
+
+#balisage2022" rawText="AN: New issues with those fragments where things depended on context, so needed more complicated plan
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:21:43 GMT" tweetId="1554834906022174722" urltweet="https://twitter.com/mathling/status/1554834906022174722" inReplyToId="1554833898709741572" tweetUserName="mathling" >
+														<outline text="AN: Complications on top of complications
+
+[Isn't it ever thus? Everything is always more complicated than you can possibly imagine.]
+
+#balisage2022" rawText="AN: Complications on top of complications
+
+[Isn't it ever thus? Everything is always more complicated than you can possibly imagine.]
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:23:58 GMT" tweetId="1554835469875044354" urltweet="https://twitter.com/mathling/status/1554835469875044354" inReplyToId="1554834906022174722" tweetUserName="mathling" >
+															<outline text="AN: Ended up doing a lot of pre-conversion as part of fix-ups, ended up with a lot of keep=true to keep DocBook stylesheets from messing with them in weird ways
+
+#balisage2022" rawText="AN: Ended up doing a lot of pre-conversion as part of fix-ups, ended up with a lot of keep=true to keep DocBook stylesheets from messing with them in weird ways
+
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 14:25:49 GMT" tweetId="1554835938936705024" urltweet="https://twitter.com/mathling/status/1554835938936705024" inReplyToId="1554835469875044354" tweetUserName="mathling" >
+																<outline text="AN: &quot;There were namespace issues&quot;
+
+#balisage2022
+
+[Evergreen tweet]" rawText="AN: &quot;There were namespace issues&quot;
+
+#balisage2022
+
+[Evergreen tweet]" type="tweet" created="Wed, 03 Aug 2022 14:26:27 GMT" tweetId="1554836097749831680" urltweet="https://twitter.com/mathling/status/1554836097749831680" inReplyToId="1554835938936705024" tweetUserName="mathling" />
+																</outline>
+															</outline>
+														</outline>
+													</outline>
+												</outline>
+											</outline>
 										</outline>
 									</outline>
 								</outline>
