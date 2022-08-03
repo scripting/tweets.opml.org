@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 21:10:34 GMT"
+            "dateModified": "Wed, 03 Aug 2022 21:23:35 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nExperiments in #SVG abuse\n\nThe waterlogged map book\n\n#XQuery <a href=\"https://t.co/H2x8wzzxUw\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nExperiments in #SVG abuse\n\nThe waterlogged map book\n\n#XQuery https://t.co/H2x8wzzxUw",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 21:15:03 GMT",
+                                    "tweetId": "1554938926057394176",
+                                    "urltweet": "https://twitter.com/mathling/status/1554938926057394176",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Damaged rectangles <a href=\"https://t.co/PG0gtpj1zd\">[link]</a>",
+                                            "rawText": "Damaged rectangles https://t.co/PG0gtpj1zd",
+                                            "type": "tweet",
+                                            "created": "Wed, 03 Aug 2022 21:15:05 GMT",
+                                            "tweetId": "1554938932822847488",
+                                            "urltweet": "https://twitter.com/mathling/status/1554938932822847488",
+                                            "inReplyToId": "1554938926057394176",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "I'm creating vast point clouds of dots, exponentially biased toward the region boundaries, with colour choices driven by FBM noise.\n\nVast = millions",
+                                                    "rawText": "I'm creating vast point clouds of dots, exponentially biased toward the region boundaries, with colour choices driven by FBM noise.\n\nVast = millions",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 03 Aug 2022 21:17:16 GMT",
+                                                    "tweetId": "1554939480175288320",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554939480175288320",
+                                                    "inReplyToId": "1554938932822847488",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "TFW you come back to the experimental render you kicked off in the morning with (you thought) 10 different outputs to see that you somehow typed 1110\n\nFriends, it was not finished",
                                     "rawText": "TFW you come back to the experimental render you kicked off in the morning with (you thought) 10 different outputs to see that you somehow typed 1110\n\nFriends, it was not finished",
