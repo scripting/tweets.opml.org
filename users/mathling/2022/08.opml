@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Wed, 03 Aug 2022 18:21:23 GMT</dateModified>
+		<dateModified>Wed, 03 Aug 2022 18:34:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -36,7 +36,34 @@ Thinking now about human readability: how do we define that?
 Analogy to sentences, words, syllables?
 #balisage2022" rawText="MG: Take this idea and apply to data formats? How?
 Analogy to sentences, words, syllables?
-#balisage2022" type="tweet" created="Wed, 03 Aug 2022 18:18:48 GMT" tweetId="1554894570147573762" urltweet="https://twitter.com/mathling/status/1554894570147573762" inReplyToId="1554894142194339841" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 18:18:48 GMT" tweetId="1554894570147573762" urltweet="https://twitter.com/mathling/status/1554894570147573762" inReplyToId="1554894142194339841" tweetUserName="mathling" >
+										<outline text="MG: In STAR: names/identifiers, data values, comments, syntactical constructs
+What to count? Identifiers: more is better?
+#balisage2022" rawText="MG: In STAR: names/identifiers, data values, comments, syntactical constructs
+What to count? Identifiers: more is better?
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 18:22:05 GMT" tweetId="1554895394106068992" urltweet="https://twitter.com/mathling/status/1554895394106068992" inReplyToId="1554894570147573762" tweetUserName="mathling" >
+											<outline text="MG: For syntax elements, seems less is better
+#balisage2022" rawText="MG: For syntax elements, seems less is better
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 18:22:50 GMT" tweetId="1554895582342176768" urltweet="https://twitter.com/mathling/status/1554895582342176768" inReplyToId="1554895394106068992" tweetUserName="mathling" >
+												<outline text="MG: characters in data names + value divided by total characters (minus whitespace and comments)
+#balisage2022" rawText="MG: characters in data names + value divided by total characters (minus whitespace and comments)
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 18:24:30 GMT" tweetId="1554896005593571328" urltweet="https://twitter.com/mathling/status/1554896005593571328" inReplyToId="1554895582342176768" tweetUserName="mathling" >
+													<outline text="MG: Tricky areas
+comments, white space
+#balisage2022" rawText="MG: Tricky areas
+comments, white space
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 18:29:47 GMT" tweetId="1554897331387961344" urltweet="https://twitter.com/mathling/status/1554897331387961344" inReplyToId="1554896005593571328" tweetUserName="mathling" />
+													</outline>
+												<outline text="MG: Issues/pain points
+Comments: ignore because JSON has no comments, so made it not comparable
+Commented-out code wrt readability?
+#balisage2022" rawText="MG: Issues/pain points
+Comments: ignore because JSON has no comments, so made it not comparable
+Commented-out code wrt readability?
+#balisage2022" type="tweet" created="Wed, 03 Aug 2022 18:27:20 GMT" tweetId="1554896714611363840" urltweet="https://twitter.com/mathling/status/1554896714611363840" inReplyToId="1554895582342176768" tweetUserName="mathling" />
+												</outline>
+											</outline>
+										</outline>
 									</outline>
 								</outline>
 							</outline>
