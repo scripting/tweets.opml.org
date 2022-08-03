@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 15:42:42 GMT"
+            "dateModified": "Wed, 03 Aug 2022 11:52:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Zo’n dag… <a href=\"https://t.co/Abc1YVN7cf\">[link]</a> https://t.co/cEAnKPof9M",
+                                    "rawText": "Zo’n dag… https://t.co/Abc1YVN7cf https://t.co/cEAnKPof9M",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 11:52:11 GMT",
+                                    "tweetId": "1554797274840055808",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1554797274840055808",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
