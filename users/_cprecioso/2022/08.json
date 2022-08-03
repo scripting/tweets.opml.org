@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 08:30:01 GMT"
+            "dateModified": "Wed, 03 Aug 2022 09:39:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Pero que no pongan el aire a 25° eh <a href=\"https://t.co/JMkaLTirv9\">[link]</a>",
+                                    "rawText": "Pero que no pongan el aire a 25° eh https://t.co/JMkaLTirv9",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 09:30:13 GMT",
+                                    "tweetId": "1554761548132134912",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1554761548132134912",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@rafagarces Storybook tiene una recopilación de varios sistemas tochos  <a href=\"https://t.co/v76mk4eJyN\">[link]</a>",
+                                    "rawText": "@rafagarces Storybook tiene una recopilación de varios sistemas tochos  https://t.co/v76mk4eJyN",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 09:27:43 GMT",
+                                    "tweetId": "1554760916671107072",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1554760916671107072",
+                                    "inReplyToId": "1554437138716000257",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
