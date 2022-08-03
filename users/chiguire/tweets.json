@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 23:51:13 GMT"
+            "dateModified": "Wed, 03 Aug 2022 00:04:14 GMT"
         },
         "body": {
             "subs": [
@@ -57,7 +57,19 @@
                                     "created": "Tue, 02 Aug 2022 17:11:58 GMT",
                                     "tweetId": "1554515361759895552",
                                     "urltweet": "https://twitter.com/chiguire/status/1554515361759895552",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/HhEKCjXHLn\">[link]</a>",
+                                            "rawText": "https://t.co/HhEKCjXHLn",
+                                            "type": "tweet",
+                                            "created": "Tue, 02 Aug 2022 23:52:53 GMT",
+                                            "tweetId": "1554616255071637507",
+                                            "urltweet": "https://twitter.com/chiguire/status/1554616255071637507",
+                                            "inReplyToId": "1554515361759895552",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@zamuro Gran historia",
