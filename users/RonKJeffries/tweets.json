@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 04:34:31 GMT"
+            "dateModified": "Wed, 03 Aug 2022 05:18:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "@mwichary Nice!",
+                                    "rawText": "@mwichary Nice!",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 05:16:39 GMT",
+                                    "tweetId": "1554697734204010503",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1554697734204010503",
+                                    "inReplyToId": "1554693903156072453",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
