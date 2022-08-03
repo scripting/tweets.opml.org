@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 18:08:22 GMT"
+            "dateModified": "Wed, 03 Aug 2022 18:21:23 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,67 @@
                                     "created": "Wed, 03 Aug 2022 17:58:20 GMT",
                                     "tweetId": "1554889417600315393",
                                     "urltweet": "https://twitter.com/mathling/status/1554889417600315393",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "MG: Recap of STAR format\nThinking now about human readability: how do we define that?\n#balisage2022",
+                                            "rawText": "MG: Recap of STAR format\nThinking now about human readability: how do we define that?\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Wed, 03 Aug 2022 18:09:03 GMT",
+                                            "tweetId": "1554892116374892545",
+                                            "urltweet": "https://twitter.com/mathling/status/1554892116374892545",
+                                            "inReplyToId": "1554889417600315393",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "MG: Shows various examples of formats called \"human readable\" sans definitions\n#balisage2022",
+                                                    "rawText": "MG: Shows various examples of formats called \"human readable\" sans definitions\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 03 Aug 2022 18:12:47 GMT",
+                                                    "tweetId": "1554893054045069312",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554893054045069312",
+                                                    "inReplyToId": "1554892116374892545",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "MG: Look at readability in the context of human texts, e.g.Flesch metric based on average sentent length, number of affixes, number of references to people\n#balisage2022",
+                                                            "rawText": "MG: Look at readability in the context of human texts, e.g.Flesch metric based on average sentent length, number of affixes, number of references to people\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 03 Aug 2022 18:15:37 GMT",
+                                                            "tweetId": "1554893766963580928",
+                                                            "urltweet": "https://twitter.com/mathling/status/1554893766963580928",
+                                                            "inReplyToId": "1554893054045069312",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "MG: Developed to \"reading ease\" based on average words per sentence, average syllables per word\n#balisage2022",
+                                                                    "rawText": "MG: Developed to \"reading ease\" based on average words per sentence, average syllables per word\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Wed, 03 Aug 2022 18:17:06 GMT",
+                                                                    "tweetId": "1554894142194339841",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1554894142194339841",
+                                                                    "inReplyToId": "1554893766963580928",
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "MG: Take this idea and apply to data formats? How?\nAnalogy to sentences, words, syllables?\n#balisage2022",
+                                                                            "rawText": "MG: Take this idea and apply to data formats? How?\nAnalogy to sentences, words, syllables?\n#balisage2022",
+                                                                            "type": "tweet",
+                                                                            "created": "Wed, 03 Aug 2022 18:18:48 GMT",
+                                                                            "tweetId": "1554894570147573762",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1554894570147573762",
+                                                                            "inReplyToId": "1554894142194339841",
+                                                                            "tweetUserName": "mathling"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@divclassbutton <a href=\"https://t.co/yO5Xc6dRlV\">[link]</a>",
