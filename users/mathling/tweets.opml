@@ -6,11 +6,46 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 02 Aug 2022 18:29:53 GMT</dateModified>
+		<dateModified>Wed, 03 Aug 2022 14:01:07 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
+			<outline text="August 3" type="calendarDay" name="03" >
+				<outline text="@divclassbutton &lt;a href=&quot;https://t.co/yO5Xc6dRlV&quot;&gt;[link]&lt;/a&gt;" rawText="@divclassbutton https://t.co/yO5Xc6dRlV" type="tweet" created="Wed, 03 Aug 2022 14:00:45 GMT" tweetId="1554829629281615872" urltweet="https://twitter.com/mathling/status/1554829629281615872" inReplyToId="1554826600012664837" tweetUserName="mathling" />
+				<outline text="Migrating DocBook to Uncharted Waters
+Ari Nordström, Jean Kaplansky
+
+ #balisage2022" rawText="Migrating DocBook to Uncharted Waters
+Ari Nordström, Jean Kaplansky
+
+ #balisage2022" type="tweet" created="Wed, 03 Aug 2022 13:58:31 GMT" tweetId="1554829067676831746" urltweet="https://twitter.com/mathling/status/1554829067676831746" inReplyToId="" tweetUserName="mathling" />
+				</outline>
 			<outline text="August 2" type="calendarDay" name="02" >
+				<outline text="XML in an AsciiDoc World: SaxonJS to the Rescue (LB) 
+Evan Lenz
+ #balisage2022" rawText="XML in an AsciiDoc World: SaxonJS to the Rescue (LB) 
+Evan Lenz
+ #balisage2022" type="tweet" created="Tue, 02 Aug 2022 19:00:46 GMT" tweetId="1554542743841517568" urltweet="https://twitter.com/mathling/status/1554542743841517568" tweetUserName="mathling" >
+					<outline text="EL: Boost documentation.
+Toolchain: Doxygen + bjam + docca 
+Final output is Quickbook (markdown-type language) =&amp;gt; BoostBook =&amp;gt; DocBook =&amp;gt; XSLT (via XSLT 1.0 + xsltproc)
+#balisage2022" rawText="EL: Boost documentation.
+Toolchain: Doxygen + bjam + docca 
+Final output is Quickbook (markdown-type language) =&amp;gt; BoostBook =&amp;gt; DocBook =&amp;gt; XSLT (via XSLT 1.0 + xsltproc)
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 19:08:24 GMT" tweetId="1554544665268957184" urltweet="https://twitter.com/mathling/status/1554544665268957184" inReplyToId="1554542743841517568" tweetUserName="mathling" >
+						<outline text="EL: Some C++ devs switching to AsciiDoc
+How to get the nice styling?
+#balisage2022" rawText="EL: Some C++ devs switching to AsciiDoc
+How to get the nice styling?
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 19:15:10 GMT" tweetId="1554546367401324544" urltweet="https://twitter.com/mathling/status/1554546367401324544" inReplyToId="1554544665268957184" tweetUserName="mathling" >
+							<outline text="EL: Found tool Antora, which runs on Node.js
+Has been some desire to remove Java from toolchain, let's use SaxonJS to make the AsciiDoc to fees to Antora
+#balisage2022" rawText="EL: Found tool Antora, which runs on Node.js
+Has been some desire to remove Java from toolchain, let's use SaxonJS to make the AsciiDoc to fees to Antora
+#balisage2022" type="tweet" created="Tue, 02 Aug 2022 19:17:13 GMT" tweetId="1554546881212006400" urltweet="https://twitter.com/mathling/status/1554546881212006400" inReplyToId="1554546367401324544" tweetUserName="mathling" />
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Updates on Active Markup-Related Specifications
 Patrick Durusau, David Maus, Steven Pemberton, Norm Tovey-Walsh, Robert Wheeler 
 #balisage2022" rawText="Updates on Active Markup-Related Specifications
