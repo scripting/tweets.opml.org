@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 22:34:09 GMT"
+            "dateModified": "Wed, 03 Aug 2022 23:13:12 GMT"
         },
         "body": {
             "subs": [
@@ -105,7 +105,19 @@
                                     "tweetId": "1554859133337321472",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1554859133337321472",
                                     "inReplyToId": "1379477676822528003",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/AZhdsiLSHH\">[link]</a> https://t.co/4snTeb5Roq",
+                                            "rawText": "https://t.co/AZhdsiLSHH https://t.co/4snTeb5Roq",
+                                            "type": "tweet",
+                                            "created": "Wed, 03 Aug 2022 23:05:29 GMT",
+                                            "tweetId": "1554966714412142594",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1554966714412142594",
+                                            "inReplyToId": "1554859133337321472",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Trees on sidewalks are bad anyway. <a href=\"https://t.co/JTJqDydD35\">[link]</a>",
