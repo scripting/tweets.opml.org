@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 02 Aug 2022 20:54:32 GMT"
+            "dateModified": "Wed, 03 Aug 2022 09:55:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "Didn’t know a static site could break even if nothing changes, but sure enough, it did. 🤷‍♂️",
+                                    "rawText": "Didn’t know a static site could break even if nothing changes, but sure enough, it did. 🤷‍♂️",
+                                    "type": "tweet",
+                                    "created": "Wed, 03 Aug 2022 09:49:02 GMT",
+                                    "tweetId": "1554766282112876544",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1554766282112876544",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 2",
                             "type": "calendarDay",
