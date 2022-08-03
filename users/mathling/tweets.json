@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 19:00:26 GMT"
+            "dateModified": "Wed, 03 Aug 2022 19:13:26 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Wed, 03 Aug 2022 18:56:17 GMT",
                                     "tweetId": "1554904002898276352",
                                     "urltweet": "https://twitter.com/mathling/status/1554904002898276352",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "AR: Interested in how markup terminology has evolved and how that reflects changes in practice and attitudes\n#balisage2022",
+                                            "rawText": "AR: Interested in how markup terminology has evolved and how that reflects changes in practice and attitudes\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Wed, 03 Aug 2022 19:05:55 GMT",
+                                            "tweetId": "1554906424840372224",
+                                            "urltweet": "https://twitter.com/mathling/status/1554906424840372224",
+                                            "inReplyToId": "1554904002898276352",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "AR: Terms of particular interest (roughly synonymous*)\ndescriptive markup / procedural markup\nsemantic  markup / presentational markup\nlogical / physical\nstructural, declarative, logical, content, conceptual, generic,...\n#balisage2022",
+                                                    "rawText": "AR: Terms of particular interest (roughly synonymous*)\ndescriptive markup / procedural markup\nsemantic  markup / presentational markup\nlogical / physical\nstructural, declarative, logical, content, conceptual, generic,...\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 03 Aug 2022 19:12:44 GMT",
+                                                    "tweetId": "1554908142986596352",
+                                                    "urltweet": "https://twitter.com/mathling/status/1554908142986596352",
+                                                    "inReplyToId": "1554906424840372224",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Human Readability of Data Files\nMichael Robert Gryk\n\n #balisage2022",
