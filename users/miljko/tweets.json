@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 23:42:13 GMT"
+            "dateModified": "Thu, 04 Aug 2022 11:11:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@scmarco69 @nntaleb @JordanHedberg @NachoOliveras @EconTalker It’s not the validity of reports that is the issue with VAERS, it is the post hoc ergo propter hoc fallacy. VAERS may be useful for picking up on unique side effects, but for common things like death it is worse than useless.",
+                                    "rawText": "@scmarco69 @nntaleb @JordanHedberg @NachoOliveras @EconTalker It’s not the validity of reports that is the issue with VAERS, it is the post hoc ergo propter hoc fallacy. VAERS may be useful for picking up on unique side effects, but for common things like death it is worse than useless.",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 11:07:54 GMT",
+                                    "tweetId": "1555148517227773952",
+                                    "urltweet": "https://twitter.com/miljko/status/1555148517227773952",
+                                    "inReplyToId": "1555147216238542855",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
