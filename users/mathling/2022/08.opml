@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 04 Aug 2022 14:18:39 GMT</dateModified>
+		<dateModified>Thu, 04 Aug 2022 14:31:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -53,7 +53,33 @@ Map construction not aligned with map deconstruction
 No ancestor access in JSON tree
 Poor support types/patterns matching maps/arrays (JSON maps don't have names)
 No suitable built-in template rules
-#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:15:19 GMT" tweetId="1555195683896193029" urltweet="https://twitter.com/mathling/status/1555195683896193029" inReplyToId="1555194477958295560" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:15:19 GMT" tweetId="1555195683896193029" urltweet="https://twitter.com/mathling/status/1555195683896193029" inReplyToId="1555194477958295560" tweetUserName="mathling" >
+											<outline text="MK: (Shows solutions to two use cases, using various proposed mechanisms, to be looked at in a bit)
+#balisage2022" rawText="MK: (Shows solutions to two use cases, using various proposed mechanisms, to be looked at in a bit)
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:19:59 GMT" tweetId="1555196856724226048" urltweet="https://twitter.com/mathling/status/1555196856724226048" inReplyToId="1555195683896193029" tweetUserName="mathling" >
+												<outline text="MK: Record types
+New way of describing maps, both ItemType and Pattern
+List keys in map, can put * at end to make extensible, can make keys optional, can provide types, keys have to be strings but don't have to be NCNames, can define as recursive w/ 'as ..'
+#balisage2022" rawText="MK: Record types
+New way of describing maps, both ItemType and Pattern
+List keys in map, can put * at end to make extensible, can make keys optional, can provide types, keys have to be strings but don't have to be NCNames, can define as recursive w/ 'as ..'
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:24:26 GMT" tweetId="1555197976104300545" urltweet="https://twitter.com/mathling/status/1555197976104300545" inReplyToId="1555196856724226048" tweetUserName="mathling" >
+													<outline text="MK: Constructing/deconstructing maps and arrays
+Existing languages is sequence-focused, so want ways of decomposing array/map into sequence of pieces, and then reassemble
+map pieces are entries (key-value pairs)
+array pieces are parcels= item wraps sequence
+#balisage2022" rawText="MK: Constructing/deconstructing maps and arrays
+Existing languages is sequence-focused, so want ways of decomposing array/map into sequence of pieces, and then reassemble
+map pieces are entries (key-value pairs)
+array pieces are parcels= item wraps sequence
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:28:02 GMT" tweetId="1555198884028514305" urltweet="https://twitter.com/mathling/status/1555198884028514305" inReplyToId="1555197976104300545" tweetUserName="mathling" >
+														<outline text="MK: via() function to give access to apply-templates stack (replacement for ancestor)
+#balisage2022" rawText="MK: via() function to give access to apply-templates stack (replacement for ancestor)
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:30:37 GMT" tweetId="1555199531318648836" urltweet="https://twitter.com/mathling/status/1555199531318648836" inReplyToId="1555198884028514305" tweetUserName="mathling" />
+														</outline>
+													</outline>
+												</outline>
+											</outline>
 										</outline>
 									</outline>
 								</outline>
