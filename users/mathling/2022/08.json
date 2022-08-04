@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 14:05:38 GMT"
+            "dateModified": "Thu, 04 Aug 2022 14:18:39 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,67 @@
                                             "tweetId": "1555192828028141568",
                                             "urltweet": "https://twitter.com/mathling/status/1555192828028141568",
                                             "inReplyToId": "1555191336768532483",
-                                            "tweetUserName": "mathling"
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "MK: What's in XSLT 3.0?\nSome JSON-specific things (parse/serialize/convert functions), some applicable to data model behind JSON (maps and arrays, various functions, esp. maps)\n#balisage2020",
+                                                    "rawText": "MK: What's in XSLT 3.0?\nSome JSON-specific things (parse/serialize/convert functions), some applicable to data model behind JSON (maps and arrays, various functions, esp. maps)\n#balisage2020",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 04 Aug 2022 14:06:02 GMT",
+                                                    "tweetId": "1555193345013850112",
+                                                    "urltweet": "https://twitter.com/mathling/status/1555193345013850112",
+                                                    "inReplyToId": "1555192828028141568",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "#balisage2022\nMary timetravels again",
+                                                            "rawText": "#balisage2022\nMary timetravels again",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 04 Aug 2022 14:06:24 GMT",
+                                                            "tweetId": "1555193437808631809",
+                                                            "urltweet": "https://twitter.com/mathling/status/1555193437808631809",
+                                                            "inReplyToId": "1555193345013850112",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "MK: Prague paper 2016 looked at JSON transformation and best way was JSON =&gt; XML =&gt; JSON \nWhich is... disappointing\nCan we do better? Transform natively?\n#balisage2022",
+                                                                    "rawText": "MK: Prague paper 2016 looked at JSON transformation and best way was JSON =&gt; XML =&gt; JSON \nWhich is... disappointing\nCan we do better? Transform natively?\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Thu, 04 Aug 2022 14:08:44 GMT",
+                                                                    "tweetId": "1555194026579873798",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1555194026579873798",
+                                                                    "inReplyToId": "1555193437808631809",
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "MK: Consider two use cases\n1. Leave everything except change one thing\n2. Hierarchical inversion\n#balisage2022",
+                                                                            "rawText": "MK: Consider two use cases\n1. Leave everything except change one thing\n2. Hierarchical inversion\n#balisage2022",
+                                                                            "type": "tweet",
+                                                                            "created": "Thu, 04 Aug 2022 14:10:32 GMT",
+                                                                            "tweetId": "1555194477958295560",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1555194477958295560",
+                                                                            "inReplyToId": "1555194026579873798",
+                                                                            "tweetUserName": "mathling",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "MK: Issues\nNo array constructor\nMap construction not aligned with map deconstruction\nNo ancestor access in JSON tree\nPoor support types/patterns matching maps/arrays (JSON maps don't have names)\nNo suitable built-in template rules\n#balisage2022",
+                                                                                    "rawText": "MK: Issues\nNo array constructor\nMap construction not aligned with map deconstruction\nNo ancestor access in JSON tree\nPoor support types/patterns matching maps/arrays (JSON maps don't have names)\nNo suitable built-in template rules\n#balisage2022",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Thu, 04 Aug 2022 14:15:19 GMT",
+                                                                                    "tweetId": "1555195683896193029",
+                                                                                    "urltweet": "https://twitter.com/mathling/status/1555195683896193029",
+                                                                                    "inReplyToId": "1555194477958295560",
+                                                                                    "tweetUserName": "mathling"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
