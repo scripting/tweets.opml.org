@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 00:40:00 GMT"
+            "dateModified": "Thu, 04 Aug 2022 08:21:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "80 Books Every Man Should Read. <a href=\"https://t.co/HRgUYKROy7\">[link]</a>",
+                                    "rawText": "80 Books Every Man Should Read. https://t.co/HRgUYKROy7",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 08:20:24 GMT",
+                                    "tweetId": "1555106363419901953",
+                                    "urltweet": "https://twitter.com/davewiner/status/1555106363419901953",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
