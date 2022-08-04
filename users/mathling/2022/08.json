@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 14:57:41 GMT"
+            "dateModified": "Thu, 04 Aug 2022 15:10:42 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,43 @@
                                     "created": "Thu, 04 Aug 2022 14:56:23 GMT",
                                     "tweetId": "1555206016639193088",
                                     "urltweet": "https://twitter.com/mathling/status/1555206016639193088",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "EK: Lot of content, lot of churn\nAuthored in DITA XML, 200 writers around the globe\nOxygenXML desktop, GitHub enterprise storage, CI job to build\n#balisage2022",
+                                            "rawText": "EK: Lot of content, lot of churn\nAuthored in DITA XML, 200 writers around the globe\nOxygenXML desktop, GitHub enterprise storage, CI job to build\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Thu, 04 Aug 2022 15:07:28 GMT",
+                                            "tweetId": "1555208806593810434",
+                                            "urltweet": "https://twitter.com/mathling/status/1555208806593810434",
+                                            "inReplyToId": "1555206016639193088",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "EK: \"A lot of content, not a lot of management\"\n#balisage2022",
+                                                    "rawText": "EK: \"A lot of content, not a lot of management\"\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 04 Aug 2022 15:08:06 GMT",
+                                                    "tweetId": "1555208965536903168",
+                                                    "urltweet": "https://twitter.com/mathling/status/1555208965536903168",
+                                                    "inReplyToId": "1555208806593810434",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "EK: Project Mirabel\nGoal: R/O access to information about content\nMetrics, dashboards, trends, content details, reports\n\nProvide data to make data-driven decisions\n#balisage2022",
+                                                            "rawText": "EK: Project Mirabel\nGoal: R/O access to information about content\nMetrics, dashboards, trends, content details, reports\n\nProvide data to make data-driven decisions\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 04 Aug 2022 15:10:02 GMT",
+                                                            "tweetId": "1555209451061198848",
+                                                            "urltweet": "https://twitter.com/mathling/status/1555209451061198848",
+                                                            "inReplyToId": "1555208965536903168",
+                                                            "tweetUserName": "mathling"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "XSLT Extensions for JSON Processing\nMichael Kay \n#balisage2022",
