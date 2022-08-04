@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 02:56:56 GMT"
+            "dateModified": "Thu, 04 Aug 2022 17:30:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Real Estate Tech: A Crumbling House of Cards <a href=\"https://t.co/HsCbL9uhE6\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Real Estate Tech: A Crumbling House of Cards https://t.co/HsCbL9uhE6",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 17:28:57 GMT",
+                                    "tweetId": "1555244410148978689",
+                                    "urltweet": "https://twitter.com/oevl/status/1555244410148978689",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: Dr. Suess' La Jolla Home Up For Sale <a href=\"https://t.co/HiqZwTdgFE\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Dr. Suess' La Jolla Home Up For Sale https://t.co/HiqZwTdgFE",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 17:28:56 GMT",
+                                    "tweetId": "1555244406860648451",
+                                    "urltweet": "https://twitter.com/oevl/status/1555244406860648451",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
