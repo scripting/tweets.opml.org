@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 04 Aug 2022 14:05:38 GMT</dateModified>
+		<dateModified>Thu, 04 Aug 2022 14:18:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -15,10 +15,50 @@
 Michael Kay 
 #balisage2022" rawText="XSLT Extensions for JSON Processing
 Michael Kay 
-#balisage2022" type="tweet" created="Thu, 04 Aug 2022 13:58:03 GMT" tweetId="1555191336768532483" urltweet="https://twitter.com/mathling/status/1555191336768532483" inReplyToId="" tweetUserName="mathling" >
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 13:58:03 GMT" tweetId="1555191336768532483" urltweet="https://twitter.com/mathling/status/1555191336768532483" tweetUserName="mathling" >
 					<outline text="MK: Talk = Mix of ideas wrt JSON in XSLT; some cooked, some more half-baked
 #balisage2022" rawText="MK: Talk = Mix of ideas wrt JSON in XSLT; some cooked, some more half-baked
-#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:03:58 GMT" tweetId="1555192828028141568" urltweet="https://twitter.com/mathling/status/1555192828028141568" inReplyToId="1555191336768532483" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:03:58 GMT" tweetId="1555192828028141568" urltweet="https://twitter.com/mathling/status/1555192828028141568" inReplyToId="1555191336768532483" tweetUserName="mathling" >
+						<outline text="MK: What's in XSLT 3.0?
+Some JSON-specific things (parse/serialize/convert functions), some applicable to data model behind JSON (maps and arrays, various functions, esp. maps)
+#balisage2020" rawText="MK: What's in XSLT 3.0?
+Some JSON-specific things (parse/serialize/convert functions), some applicable to data model behind JSON (maps and arrays, various functions, esp. maps)
+#balisage2020" type="tweet" created="Thu, 04 Aug 2022 14:06:02 GMT" tweetId="1555193345013850112" urltweet="https://twitter.com/mathling/status/1555193345013850112" inReplyToId="1555192828028141568" tweetUserName="mathling" >
+							<outline text="#balisage2022
+Mary timetravels again" rawText="#balisage2022
+Mary timetravels again" type="tweet" created="Thu, 04 Aug 2022 14:06:24 GMT" tweetId="1555193437808631809" urltweet="https://twitter.com/mathling/status/1555193437808631809" inReplyToId="1555193345013850112" tweetUserName="mathling" >
+								<outline text="MK: Prague paper 2016 looked at JSON transformation and best way was JSON =&amp;gt; XML =&amp;gt; JSON 
+Which is... disappointing
+Can we do better? Transform natively?
+#balisage2022" rawText="MK: Prague paper 2016 looked at JSON transformation and best way was JSON =&amp;gt; XML =&amp;gt; JSON 
+Which is... disappointing
+Can we do better? Transform natively?
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:08:44 GMT" tweetId="1555194026579873798" urltweet="https://twitter.com/mathling/status/1555194026579873798" inReplyToId="1555193437808631809" tweetUserName="mathling" >
+									<outline text="MK: Consider two use cases
+1. Leave everything except change one thing
+2. Hierarchical inversion
+#balisage2022" rawText="MK: Consider two use cases
+1. Leave everything except change one thing
+2. Hierarchical inversion
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:10:32 GMT" tweetId="1555194477958295560" urltweet="https://twitter.com/mathling/status/1555194477958295560" inReplyToId="1555194026579873798" tweetUserName="mathling" >
+										<outline text="MK: Issues
+No array constructor
+Map construction not aligned with map deconstruction
+No ancestor access in JSON tree
+Poor support types/patterns matching maps/arrays (JSON maps don't have names)
+No suitable built-in template rules
+#balisage2022" rawText="MK: Issues
+No array constructor
+Map construction not aligned with map deconstruction
+No ancestor access in JSON tree
+Poor support types/patterns matching maps/arrays (JSON maps don't have names)
+No suitable built-in template rules
+#balisage2022" type="tweet" created="Thu, 04 Aug 2022 14:15:19 GMT" tweetId="1555195683896193029" urltweet="https://twitter.com/mathling/status/1555195683896193029" inReplyToId="1555194477958295560" tweetUserName="mathling" />
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
 					</outline>
 				</outline>
 			<outline text="August 3" type="calendarDay" name="03" >
