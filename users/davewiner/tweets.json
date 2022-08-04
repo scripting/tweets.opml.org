@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 14:57:00 GMT"
+            "dateModified": "Thu, 04 Aug 2022 14:58:00 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1555206145249316865",
                                     "urltweet": "https://twitter.com/davewiner/status/1555206145249316865",
                                     "inReplyToId": "1555205813299462144",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@dweinberger But I agree -- when I hear Ranked Choice Voting my eyes glaze over, and I think I must've missed that day in math class.",
+                                            "rawText": "@dweinberger But I agree -- when I hear Ranked Choice Voting my eyes glaze over, and I think I must've missed that day in math class.",
+                                            "type": "tweet",
+                                            "created": "Thu, 04 Aug 2022 14:57:34 GMT",
+                                            "tweetId": "1555206316322324485",
+                                            "urltweet": "https://twitter.com/davewiner/status/1555206316322324485",
+                                            "inReplyToId": "1555206145249316865",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "2014: Civilization is made of interop. <a href=\"https://t.co/f9KayvGiY1\">[link]</a>",
