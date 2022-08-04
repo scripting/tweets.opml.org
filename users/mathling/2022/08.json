@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 21:23:35 GMT"
+            "dateModified": "Thu, 04 Aug 2022 14:05:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "XSLT Extensions for JSON Processing\nMichael Kay \n#balisage2022",
+                                    "rawText": "XSLT Extensions for JSON Processing\nMichael Kay \n#balisage2022",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 13:58:03 GMT",
+                                    "tweetId": "1555191336768532483",
+                                    "urltweet": "https://twitter.com/mathling/status/1555191336768532483",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "MK: Talk = Mix of ideas wrt JSON in XSLT; some cooked, some more half-baked\n#balisage2022",
+                                            "rawText": "MK: Talk = Mix of ideas wrt JSON in XSLT; some cooked, some more half-baked\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Thu, 04 Aug 2022 14:03:58 GMT",
+                                            "tweetId": "1555192828028141568",
+                                            "urltweet": "https://twitter.com/mathling/status/1555192828028141568",
+                                            "inReplyToId": "1555191336768532483",
+                                            "tweetUserName": "mathling"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
