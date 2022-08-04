@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 18:28:10 GMT"
+            "dateModified": "Thu, 04 Aug 2022 18:41:25 GMT"
         },
         "body": {
             "subs": [
@@ -127,7 +127,31 @@
                                                                                                                     "tweetId": "1555259087637454854",
                                                                                                                     "urltweet": "https://twitter.com/mathling/status/1555259087637454854",
                                                                                                                     "inReplyToId": "1555258388270837760",
-                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                    "tweetUserName": "mathling",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "HC: Problems and areas for improvements\n\nKeep tweaking things, hard to get to stable release\n\nWhat does it mean to translate an example? What are you translating? Will translation change import of example? \n\n#balisage2022",
+                                                                                                                            "rawText": "HC: Problems and areas for improvements\n\nKeep tweaking things, hard to get to stable release\n\nWhat does it mean to translate an example? What are you translating? Will translation change import of example? \n\n#balisage2022",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Thu, 04 Aug 2022 18:29:48 GMT",
+                                                                                                                            "tweetId": "1555259726580969472",
+                                                                                                                            "urltweet": "https://twitter.com/mathling/status/1555259726580969472",
+                                                                                                                            "inReplyToId": "1555259087637454854",
+                                                                                                                            "tweetUserName": "mathling",
+                                                                                                                            "subs": [
+                                                                                                                                {
+                                                                                                                                    "text": "HC: The problem of meaning\n\n\"What even does that mean in English?!\"\n\n#balisage2022",
+                                                                                                                                    "rawText": "HC: The problem of meaning\n\n\"What even does that mean in English?!\"\n\n#balisage2022",
+                                                                                                                                    "type": "tweet",
+                                                                                                                                    "created": "Thu, 04 Aug 2022 18:31:07 GMT",
+                                                                                                                                    "tweetId": "1555260058434277376",
+                                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1555260058434277376",
+                                                                                                                                    "inReplyToId": "1555259726580969472",
+                                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
                                                                                                                 }
                                                                                                             ]
                                                                                                         }
