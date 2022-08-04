@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 18:14:54 GMT"
+            "dateModified": "Thu, 04 Aug 2022 18:28:10 GMT"
         },
         "body": {
             "subs": [
@@ -87,7 +87,55 @@
                                                                                     "tweetId": "1555255829753839616",
                                                                                     "urltweet": "https://twitter.com/mathling/status/1555255829753839616",
                                                                                     "inReplyToId": "1555255427339673600",
-                                                                                    "tweetUserName": "mathling"
+                                                                                    "tweetUserName": "mathling",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "TC: (Demo)\n#balisage2022",
+                                                                                            "rawText": "TC: (Demo)\n#balisage2022",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Thu, 04 Aug 2022 18:17:36 GMT",
+                                                                                            "tweetId": "1555256657013182464",
+                                                                                            "urltweet": "https://twitter.com/mathling/status/1555256657013182464",
+                                                                                            "inReplyToId": "1555255829753839616",
+                                                                                            "tweetUserName": "mathling",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "TC: Browser-based as much as possible\nIssue: authenticating to GitHub, so little bit of OAUTH sign-in handled server-side\n#balisage2022",
+                                                                                                    "rawText": "TC: Browser-based as much as possible\nIssue: authenticating to GitHub, so little bit of OAUTH sign-in handled server-side\n#balisage2022",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Thu, 04 Aug 2022 18:23:20 GMT",
+                                                                                                    "tweetId": "1555258097785921538",
+                                                                                                    "urltweet": "https://twitter.com/mathling/status/1555258097785921538",
+                                                                                                    "inReplyToId": "1555256657013182464",
+                                                                                                    "tweetUserName": "mathling",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "TC: Display is via Ceteicean\n#balisage2022",
+                                                                                                            "rawText": "TC: Display is via Ceteicean\n#balisage2022",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Thu, 04 Aug 2022 18:24:29 GMT",
+                                                                                                            "tweetId": "1555258388270837760",
+                                                                                                            "urltweet": "https://twitter.com/mathling/status/1555258388270837760",
+                                                                                                            "inReplyToId": "1555258097785921538",
+                                                                                                            "tweetUserName": "mathling",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "[Crickey, all those TC's should be HC's, sorry about that]\n#balisage2022",
+                                                                                                                    "rawText": "[Crickey, all those TC's should be HC's, sorry about that]\n#balisage2022",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Thu, 04 Aug 2022 18:27:16 GMT",
+                                                                                                                    "tweetId": "1555259087637454854",
+                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1555259087637454854",
+                                                                                                                    "inReplyToId": "1555258388270837760",
+                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
