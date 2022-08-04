@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 09:55:21 GMT"
+            "dateModified": "Thu, 04 Aug 2022 07:49:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@borismagocsi Recipe I found said 24 hours. We’ll see!",
+                                    "rawText": "@borismagocsi Recipe I found said 24 hours. We’ll see!",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 07:46:19 GMT",
+                                    "tweetId": "1555097785862692864",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1555097785862692864",
+                                    "inReplyToId": "1555096901288173571",
+                                    "tweetUserName": "ScottHansonDE"
+                                },
+                                {
+                                    "text": "After hooking my wife on cold brew during vacation, here’s our first attempt to make it at home. Going to be right day for it! 35°C <a href=\"https://t.co/Nk32cEStFT\">[link]</a>",
+                                    "rawText": "After hooking my wife on cold brew during vacation, here’s our first attempt to make it at home. Going to be right day for it! 35°C https://t.co/Nk32cEStFT",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 07:42:03 GMT",
+                                    "tweetId": "1555096714389983232",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1555096714389983232",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
