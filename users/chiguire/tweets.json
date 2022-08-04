@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 21:58:37 GMT"
+            "dateModified": "Thu, 04 Aug 2022 17:04:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@stjepansejic Choose your fighter <a href=\"https://t.co/YZHgxaBwb6\">[link]</a>",
+                                    "rawText": "@stjepansejic Choose your fighter https://t.co/YZHgxaBwb6",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 17:03:45 GMT",
+                                    "tweetId": "1555238069380546561",
+                                    "urltweet": "https://twitter.com/chiguire/status/1555238069380546561",
+                                    "inReplyToId": "1555227679003131905",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
