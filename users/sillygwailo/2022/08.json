@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 01:36:21 GMT"
+            "dateModified": "Thu, 04 Aug 2022 19:13:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "I enjoyed this podcast from @TalkingDrupal about the Book Module. It’s one of my favourite modules, and I use it extensively on my Drupal 7 site. It should probably be called the Outline module, since you can then use Drupal as a content outliner. #drupal <a href=\"https://t.co/Iklbp4tWeG\">[link]</a>",
+                                    "rawText": "I enjoyed this podcast from @TalkingDrupal about the Book Module. It’s one of my favourite modules, and I use it extensively on my Drupal 7 site. It should probably be called the Outline module, since you can then use Drupal as a content outliner. #drupal https://t.co/Iklbp4tWeG",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 19:00:49 GMT",
+                                    "tweetId": "1555267532306743300",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1555267532306743300",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Turning content into a “book” may have been the module’s original function, but the outline part of it service a more general purpose.",
+                                            "rawText": "Turning content into a “book” may have been the module’s original function, but the outline part of it service a more general purpose.",
+                                            "type": "tweet",
+                                            "created": "Thu, 04 Aug 2022 19:00:50 GMT",
+                                            "tweetId": "1555267534961754114",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1555267534961754114",
+                                            "inReplyToId": "1555267532306743300",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "They talk about an outline not being able to have more than one parent, but I do recall it being possible by adding a reference in the database, even if there’s no UI for it (maybe not in the post-Drupal 8 incarnation of the software, but definitely in a previous version).",
+                                                    "rawText": "They talk about an outline not being able to have more than one parent, but I do recall it being possible by adding a reference in the database, even if there’s no UI for it (maybe not in the post-Drupal 8 incarnation of the software, but definitely in a previous version).",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 04 Aug 2022 19:00:50 GMT",
+                                                    "tweetId": "1555267536572350464",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1555267536572350464",
+                                                    "inReplyToId": "1555267534961754114",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
