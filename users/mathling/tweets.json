@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 16:02:46 GMT"
+            "dateModified": "Thu, 04 Aug 2022 16:15:46 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,79 @@
                                     "created": "Thu, 04 Aug 2022 15:58:00 GMT",
                                     "tweetId": "1555221523744452608",
                                     "urltweet": "https://twitter.com/mathling/status/1555221523744452608",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "JR: Goal is to support Bible translations, data for high impact knowledge workers\n#balisage2022",
+                                            "rawText": "JR: Goal is to support Bible translations, data for high impact knowledge workers\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Thu, 04 Aug 2022 16:03:56 GMT",
+                                            "tweetId": "1555223015880663041",
+                                            "urltweet": "https://twitter.com/mathling/status/1555223015880663041",
+                                            "inReplyToId": "1555221523744452608",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "JR: Knowledge is abundant: ability to use it is scarce\n#balisage2022",
+                                                    "rawText": "JR: Knowledge is abundant: ability to use it is scarce\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 04 Aug 2022 16:04:28 GMT",
+                                                    "tweetId": "1555223152510111745",
+                                                    "urltweet": "https://twitter.com/mathling/status/1555223152510111745",
+                                                    "inReplyToId": "1555223015880663041",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "JR: Have a lot of data sets, and have partner data sets\nMorphology, syntax trees, word senses, glosses, transliterations, etc.\nSome of the \"partners\" are \"something that was put up on github\" and we want to use their data\n#balisage2022",
+                                                            "rawText": "JR: Have a lot of data sets, and have partner data sets\nMorphology, syntax trees, word senses, glosses, transliterations, etc.\nSome of the \"partners\" are \"something that was put up on github\" and we want to use their data\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 04 Aug 2022 16:08:29 GMT",
+                                                            "tweetId": "1555224160925655041",
+                                                            "urltweet": "https://twitter.com/mathling/status/1555224160925655041",
+                                                            "inReplyToId": "1555223152510111745",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "JR: Data integration in practice\nExample: Hebrew syntax tree + morphology\n#balisage2022",
+                                                                    "rawText": "JR: Data integration in practice\nExample: Hebrew syntax tree + morphology\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Thu, 04 Aug 2022 16:10:33 GMT",
+                                                                    "tweetId": "1555224680235089920",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1555224680235089920",
+                                                                    "inReplyToId": "1555224160925655041",
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "JR: Some specific issues: extraneous LTR marker, use of pre-Unicode coding for Hebrew characters, ...\n#balisage2022",
+                                                                            "rawText": "JR: Some specific issues: extraneous LTR marker, use of pre-Unicode coding for Hebrew characters, ...\n#balisage2022",
+                                                                            "type": "tweet",
+                                                                            "created": "Thu, 04 Aug 2022 16:13:04 GMT",
+                                                                            "tweetId": "1555225315563036672",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1555225315563036672",
+                                                                            "inReplyToId": "1555224680235089920",
+                                                                            "tweetUserName": "mathling",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "JR: \"I'm going to teach you all linguistics and Biblical Hebrew and then get back to the example\"\n\n#balisage2022",
+                                                                                    "rawText": "JR: \"I'm going to teach you all linguistics and Biblical Hebrew and then get back to the example\"\n\n#balisage2022",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Thu, 04 Aug 2022 16:15:01 GMT",
+                                                                                    "tweetId": "1555225805998792705",
+                                                                                    "urltweet": "https://twitter.com/mathling/status/1555225805998792705",
+                                                                                    "inReplyToId": "1555225315563036672",
+                                                                                    "tweetUserName": "mathling"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Project Mirabel: XQuery-Based Documentation Reporting and Exploration System\nEliot Kimber \n#balisage2022",
