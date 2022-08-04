@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 17:36:36 GMT"
+            "dateModified": "Thu, 04 Aug 2022 19:35:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "@ClaireSmith1848 @40PercentGerman Ditto. Given true facts and a fair choice people will make good decisions. #democracy",
+                                    "rawText": "@ClaireSmith1848 @40PercentGerman Ditto. Given true facts and a fair choice people will make good decisions. #democracy",
+                                    "type": "tweet",
+                                    "created": "Thu, 04 Aug 2022 19:31:57 GMT",
+                                    "tweetId": "1555275364397715456",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1555275364397715456",
+                                    "inReplyToId": "1555271235768025089",
+                                    "tweetUserName": "ScottHansonDE"
+                                },
                                 {
                                     "text": "Thunderstorm rolling through and the temp just dropped by 5°C <a href=\"https://t.co/UGLwEzbyXp\">[link]</a>",
                                     "rawText": "Thunderstorm rolling through and the temp just dropped by 5°C https://t.co/UGLwEzbyXp",
@@ -47,7 +57,19 @@
                                                     "tweetId": "1555243783490527234",
                                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1555243783490527234",
                                                     "inReplyToId": "1555216947784155136",
-                                                    "tweetUserName": "ScottHansonDE"
+                                                    "tweetUserName": "ScottHansonDE",
+                                                    "subs": [
+                                                        {
+                                                            "text": "We’re still hearing sirens from civil defense and fire trucks 90 minutes after the storm was over",
+                                                            "rawText": "We’re still hearing sirens from civil defense and fire trucks 90 minutes after the storm was over",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 04 Aug 2022 17:48:20 GMT",
+                                                            "tweetId": "1555249288724226051",
+                                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1555249288724226051",
+                                                            "inReplyToId": "1555243783490527234",
+                                                            "tweetUserName": "ScottHansonDE"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
