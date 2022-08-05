@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 17:47:07 GMT"
+            "dateModified": "Fri, 05 Aug 2022 08:35:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Esta feo abrirle a alguien para preguntarle si ya ha dejado a su novio?",
+                                    "rawText": "Esta feo abrirle a alguien para preguntarle si ya ha dejado a su novio?",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 08:33:10 GMT",
+                                    "tweetId": "1555471963480629248",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1555471963480629248",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "(No para ligar, eh)",
+                                            "rawText": "(No para ligar, eh)",
+                                            "type": "tweet",
+                                            "created": "Fri, 05 Aug 2022 08:33:10 GMT",
+                                            "tweetId": "1555471965170835456",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1555471965170835456",
+                                            "inReplyToId": "1555471963480629248",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
