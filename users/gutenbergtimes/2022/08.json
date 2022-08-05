@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "gutenbergtimes tweets",
+            "dateCreated": "Fri, 11 Feb 2022 10:58:20 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 05 Aug 2022 20:57:06 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Fluid typography, Gutenberg 13.8, Moving block styling to JSON - Weekend Edition 225 curated by Birgit Pauli-Haack @bph <a href=\"https://t.co/6JHcR3LSOA\">[link]</a>",
+                                    "rawText": "Fluid typography, Gutenberg 13.8, Moving block styling to JSON - Weekend Edition 225 curated by Birgit Pauli-Haack @bph https://t.co/6JHcR3LSOA",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 20:43:59 GMT",
+                                    "tweetId": "1555655882368851968",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1555655882368851968",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
