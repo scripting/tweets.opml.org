@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 17:30:00 GMT"
+            "dateModified": "Fri, 05 Aug 2022 02:47:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "@jeremyzilar you can add your own comments by creating items named \"comment\" -- it'll probably ignore whatever it isn't looking for.",
+                                    "rawText": "@jeremyzilar you can add your own comments by creating items named \"comment\" -- it'll probably ignore whatever it isn't looking for.",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 02:46:31 GMT",
+                                    "tweetId": "1555384727997145090",
+                                    "urltweet": "https://twitter.com/davewiner/status/1555384727997145090",
+                                    "inReplyToId": "1555327483926364160",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "A series of transcripts lets Ars Technica explore the world of Telenet, Dialcom, and The Source in 1979. <a href=\"https://t.co/fXrg1IsuP1\">[link]</a>",
                                     "rawText": "A series of transcripts lets Ars Technica explore the world of Telenet, Dialcom, and The Source in 1979. https://t.co/fXrg1IsuP1",
