@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 01:25:06 GMT"
+            "dateModified": "Fri, 05 Aug 2022 16:40:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@BlueJays Any word on whether that ball has landed yet?",
+                                    "rawText": "@BlueJays Any word on whether that ball has landed yet?",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 16:36:46 GMT",
+                                    "tweetId": "1555593665711640580",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1555593665711640580",
+                                    "inReplyToId": "1555367942702989312",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
