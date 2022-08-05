@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 19:41:44 GMT"
+            "dateModified": "Fri, 05 Aug 2022 09:37:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@democracynow attn: @CiaronOReilly",
+                                    "rawText": "@democracynow attn: @CiaronOReilly",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 09:30:52 GMT",
+                                    "tweetId": "1555486487394803714",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1555486487394803714",
+                                    "inReplyToId": "1555380575141249024",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
