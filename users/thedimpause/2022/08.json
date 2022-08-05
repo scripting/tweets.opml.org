@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "thedimpause tweets",
+            "dateCreated": "Mon, 24 Jan 2022 07:53:23 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 05 Aug 2022 21:45:54 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@TheLastLeg Lightly #FriedEggVirgin ofc",
+                                    "rawText": "@TheLastLeg Lightly #FriedEggVirgin ofc",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 21:34:04 GMT",
+                                    "tweetId": "1555668486067822593",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1555668486067822593",
+                                    "inReplyToId": "1555666357982822400",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
