@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 16:08:03 GMT"
+            "dateModified": "Fri, 05 Aug 2022 16:21:19 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,115 @@
                                     "created": "Fri, 05 Aug 2022 15:54:51 GMT",
                                     "tweetId": "1555583118936907776",
                                     "urltweet": "https://twitter.com/mathling/status/1555583118936907776",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "GB: Context: Excel pollution reports, want to merge/transform\n\nReally wanted a bit more [shock!] validation/correction;\nearly feedback on quality of data, as report\n\n#balisage2022",
+                                            "rawText": "GB: Context: Excel pollution reports, want to merge/transform\n\nReally wanted a bit more [shock!] validation/correction;\nearly feedback on quality of data, as report\n\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Fri, 05 Aug 2022 16:09:34 GMT",
+                                            "tweetId": "1555586820632502273",
+                                            "urltweet": "https://twitter.com/mathling/status/1555586820632502273",
+                                            "inReplyToId": "1555583118936907776",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "GB: 3 object types, 2000 sites, &gt;2000 installations, 200 installation parts\n#balisage2022",
+                                                    "rawText": "GB: 3 object types, 2000 sites, &gt;2000 installations, 200 installation parts\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 05 Aug 2022 16:10:59 GMT",
+                                                    "tweetId": "1555587180760023041",
+                                                    "urltweet": "https://twitter.com/mathling/status/1555587180760023041",
+                                                    "inReplyToId": "1555586820632502273",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "GB: Code mapping (value to code, value to concept URI), 50-100 cross-object conditional mapping\n\n#balisage2022",
+                                                            "rawText": "GB: Code mapping (value to code, value to concept URI), 50-100 cross-object conditional mapping\n\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 05 Aug 2022 16:11:00 GMT",
+                                                            "tweetId": "1555587181824991232",
+                                                            "urltweet": "https://twitter.com/mathling/status/1555587181824991232",
+                                                            "inReplyToId": "1555587180760023041",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "GB: Dump everything into 100MB XML file\nQA errors: 10000+ error messages on first iterations\n#balisage2022",
+                                                                    "rawText": "GB: Dump everything into 100MB XML file\nQA errors: 10000+ error messages on first iterations\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Fri, 05 Aug 2022 16:13:09 GMT",
+                                                                    "tweetId": "1555587725557784578",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1555587725557784578",
+                                                                    "inReplyToId": "1555587181824991232",
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "GB: In the end: XProc 3 pipeline\nPractice is to save whole folder (including code) into SVN so have data in branch after each run\nConvert early on to semantic XML so good for comparison\n#balisage2022",
+                                                                            "rawText": "GB: In the end: XProc 3 pipeline\nPractice is to save whole folder (including code) into SVN so have data in branch after each run\nConvert early on to semantic XML so good for comparison\n#balisage2022",
+                                                                            "type": "tweet",
+                                                                            "created": "Fri, 05 Aug 2022 16:16:16 GMT",
+                                                                            "tweetId": "1555588510148546561",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1555588510148546561",
+                                                                            "inReplyToId": "1555587725557784578",
+                                                                            "tweetUserName": "mathling",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "GB: Rule based (Schematron) quality report, able to filter out and sort based on rules they care about \n#balisage2022",
+                                                                                    "rawText": "GB: Rule based (Schematron) quality report, able to filter out and sort based on rules they care about \n#balisage2022",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Fri, 05 Aug 2022 16:17:33 GMT",
+                                                                                    "tweetId": "1555588832187150338",
+                                                                                    "urltweet": "https://twitter.com/mathling/status/1555588832187150338",
+                                                                                    "inReplyToId": "1555588510148546561",
+                                                                                    "tweetUserName": "mathling",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "GB: (Shows example)\n#balisage2022",
+                                                                                            "rawText": "GB: (Shows example)\n#balisage2022",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Fri, 05 Aug 2022 16:19:48 GMT",
+                                                                                            "tweetId": "1555589399475236864",
+                                                                                            "urltweet": "https://twitter.com/mathling/status/1555589399475236864",
+                                                                                            "inReplyToId": "1555588832187150338",
+                                                                                            "tweetUserName": "mathling",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "GB: Just getting table out of Excel one sheet at a time\n#balisage2022",
+                                                                                                    "rawText": "GB: Just getting table out of Excel one sheet at a time\n#balisage2022",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Fri, 05 Aug 2022 16:20:24 GMT",
+                                                                                                    "tweetId": "1555589547022360576",
+                                                                                                    "urltweet": "https://twitter.com/mathling/status/1555589547022360576",
+                                                                                                    "inReplyToId": "1555589399475236864",
+                                                                                                    "tweetUserName": "mathling",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "GB: Excel XML format is complex, can be daunting, but allows us to do what we want to do\n#balisage2022",
+                                                                                                            "rawText": "GB: Excel XML format is complex, can be daunting, but allows us to do what we want to do\n#balisage2022",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Fri, 05 Aug 2022 16:21:13 GMT",
+                                                                                                            "tweetId": "1555589756037189633",
+                                                                                                            "urltweet": "https://twitter.com/mathling/status/1555589756037189633",
+                                                                                                            "inReplyToId": "1555589547022360576",
+                                                                                                            "tweetUserName": "mathling"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Multiple String Comparison in XSLT\nJoel Kalvesmaki \n#balisage2022",
