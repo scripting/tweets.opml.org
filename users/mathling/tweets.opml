@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Fri, 05 Aug 2022 15:14:59 GMT</dateModified>
+		<dateModified>Fri, 05 Aug 2022 15:28:15 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -41,7 +41,49 @@ Algorithm based on notion of shared sample strings
 #balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:12:46 GMT" tweetId="1555572528625594368" urltweet="https://twitter.com/mathling/status/1555572528625594368" inReplyToId="1555572037044690945" tweetUserName="mathling" >
 										<outline text="JK: Logarithmic time, tokenization and other preprocessing not required
 #balisage2022" rawText="JK: Logarithmic time, tokenization and other preprocessing not required
-#balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:14:07 GMT" tweetId="1555572867273658368" urltweet="https://twitter.com/mathling/status/1555572867273658368" inReplyToId="1555572528625594368" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:14:07 GMT" tweetId="1555572867273658368" urltweet="https://twitter.com/mathling/status/1555572867273658368" inReplyToId="1555572528625594368" tweetUserName="mathling" >
+											<outline text="JK: tan:collate() iteratively uses tan:diff(), fast, except when there are lots and lots of versions
+
+Realized approach was somewhat naive
+#balisage2022" rawText="JK: tan:collate() iteratively uses tan:diff(), fast, except when there are lots and lots of versions
+
+Realized approach was somewhat naive
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:17:44 GMT" tweetId="1555573779975131136" urltweet="https://twitter.com/mathling/status/1555573779975131136" inReplyToId="1555572867273658368" tweetUserName="mathling" >
+												<outline text="JK: My approach evolved around concept of super-skeleton: look for long samples that appear in every version and use those as anchors, if can't find one, revert to older approach
+
+#balisage2022" rawText="JK: My approach evolved around concept of super-skeleton: look for long samples that appear in every version and use those as anchors, if can't find one, revert to older approach
+
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:18:55 GMT" tweetId="1555574074373332993" urltweet="https://twitter.com/mathling/status/1555574074373332993" inReplyToId="1555573779975131136" tweetUserName="mathling" >
+													<outline text="JK: So needed to update tan:diff() to handle N-way 
+New implementation of tan:collate() now available (just recently)
+#balisage2022" rawText="JK: So needed to update tan:diff() to handle N-way 
+New implementation of tan:collate() now available (just recently)
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:19:49 GMT" tweetId="1555574301289394176" urltweet="https://twitter.com/mathling/status/1555574301289394176" inReplyToId="1555574074373332993" tweetUserName="mathling" >
+														<outline text="JK: Test suite in paper based on gradual corruption of text; can measure quality, commonality, superskeleton metric
+
+#balisage2022" rawText="JK: Test suite in paper based on gradual corruption of text; can measure quality, commonality, superskeleton metric
+
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:20:51 GMT" tweetId="1555574563219521536" urltweet="https://twitter.com/mathling/status/1555574563219521536" inReplyToId="1555574301289394176" tweetUserName="mathling" >
+															<outline text="JK: Comparing perf/quality of the three modes (naive no sort, CC/sort, superskeleton) wrt size of text, amount of corruption
+
+Summary: looks good!
+#balisage2022" rawText="JK: Comparing perf/quality of the three modes (naive no sort, CC/sort, superskeleton) wrt size of text, amount of corruption
+
+Summary: looks good!
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:22:52 GMT" tweetId="1555575070671523841" urltweet="https://twitter.com/mathling/status/1555575070671523841" inReplyToId="1555574563219521536" tweetUserName="mathling" >
+																<outline text="JK: Using tan:collate()
+Dev: import TAN library
+General: Use TAN Diff+ application
+#balisage2022" rawText="JK: Using tan:collate()
+Dev: import TAN library
+General: Use TAN Diff+ application
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 15:25:18 GMT" tweetId="1555575684122021888" urltweet="https://twitter.com/mathling/status/1555575684122021888" inReplyToId="1555575070671523841" tweetUserName="mathling" />
+																</outline>
+															</outline>
+														</outline>
+													</outline>
+												</outline>
+											</outline>
 										</outline>
 									</outline>
 								</outline>
