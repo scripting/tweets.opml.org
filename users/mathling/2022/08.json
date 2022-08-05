@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 15:01:44 GMT"
+            "dateModified": "Fri, 05 Aug 2022 15:14:59 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,79 @@
                                     "created": "Fri, 05 Aug 2022 14:48:31 GMT",
                                     "tweetId": "1555566424046780416",
                                     "urltweet": "https://twitter.com/mathling/status/1555566424046780416",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "JK: Multiple string difference (N-way difference, octopus difference)\n\nDifferences should be weighed, not counted\n#balisage2022",
+                                            "rawText": "JK: Multiple string difference (N-way difference, octopus difference)\n\nDifferences should be weighed, not counted\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Fri, 05 Aug 2022 15:06:48 GMT",
+                                            "tweetId": "1555571025986785280",
+                                            "urltweet": "https://twitter.com/mathling/status/1555571025986785280",
+                                            "inReplyToId": "1555566424046780416",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "JK: State of the field: many different diff utilities, mostly between 2 or 3, some with more\n#balisage2022",
+                                                    "rawText": "JK: State of the field: many different diff utilities, mostly between 2 or 3, some with more\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 05 Aug 2022 15:07:41 GMT",
+                                                    "tweetId": "1555571249161445377",
+                                                    "urltweet": "https://twitter.com/mathling/status/1555571249161445377",
+                                                    "inReplyToId": "1555571025986785280",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "JK: Challenges:\ncustomization, visualization, quality\n#balisage2022",
+                                                            "rawText": "JK: Challenges:\ncustomization, visualization, quality\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 05 Aug 2022 15:09:38 GMT",
+                                                            "tweetId": "1555571739995713537",
+                                                            "urltweet": "https://twitter.com/mathling/status/1555571739995713537",
+                                                            "inReplyToId": "1555571249161445377",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "JK: tan:collate runs in log time by cumulative string, subquadratic in number of versions, pre- and post-processing,...\n#balisage2022",
+                                                                    "rawText": "JK: tan:collate runs in log time by cumulative string, subquadratic in number of versions, pre- and post-processing,...\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Fri, 05 Aug 2022 15:10:49 GMT",
+                                                                    "tweetId": "1555572037044690945",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1555572037044690945",
+                                                                    "inReplyToId": "1555571739995713537",
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "JK: tan:collate depends on tan:diff\nAlgorithm based on notion of shared sample strings\n#balisage2022",
+                                                                            "rawText": "JK: tan:collate depends on tan:diff\nAlgorithm based on notion of shared sample strings\n#balisage2022",
+                                                                            "type": "tweet",
+                                                                            "created": "Fri, 05 Aug 2022 15:12:46 GMT",
+                                                                            "tweetId": "1555572528625594368",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1555572528625594368",
+                                                                            "inReplyToId": "1555572037044690945",
+                                                                            "tweetUserName": "mathling",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "JK: Logarithmic time, tokenization and other preprocessing not required\n#balisage2022",
+                                                                                    "rawText": "JK: Logarithmic time, tokenization and other preprocessing not required\n#balisage2022",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Fri, 05 Aug 2022 15:14:07 GMT",
+                                                                                    "tweetId": "1555572867273658368",
+                                                                                    "urltweet": "https://twitter.com/mathling/status/1555572867273658368",
+                                                                                    "inReplyToId": "1555572528625594368",
+                                                                                    "tweetUserName": "mathling"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "😱 <a href=\"https://t.co/MhpgwUmKZD\">[link]</a>",
