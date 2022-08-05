@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 00:03:16 GMT"
+            "dateModified": "Fri, 05 Aug 2022 15:18:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "I received the Google Pixelbuds yesterday as promised by USPS and so far I am very happy with how they work. They were discovered by my Pixel 4a and setup went smoothly. The Pixelbuds are associated to my Google account and so my work phone that runs ... <a href=\"https://t.co/SUAq1Q9xNm\">[link]</a>",
+                                    "rawText": "I received the Google Pixelbuds yesterday as promised by USPS and so far I am very happy with how they work. They were discovered by my Pixel 4a and setup went smoothly. The Pixelbuds are associated to my Google account and so my work phone that runs ... https://t.co/SUAq1Q9xNm",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 15:10:08 GMT",
+                                    "tweetId": "1555571866215104513",
+                                    "urltweet": "https://twitter.com/frankm/status/1555571866215104513",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
