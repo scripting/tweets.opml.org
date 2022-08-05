@@ -6,17 +6,57 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Fri, 05 Aug 2022 14:08:40 GMT</dateModified>
+		<dateModified>Fri, 05 Aug 2022 14:21:56 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
 			<outline text="August 5" type="calendarDay" name="05" >
-				<outline text="😱 &lt;a href=&quot;https://t.co/MhpgwUmKZD&quot;&gt;[link]&lt;/a&gt;" rawText="😱 https://t.co/MhpgwUmKZD" type="tweet" created="Fri, 05 Aug 2022 14:01:36 GMT" tweetId="1555554619396214786" urltweet="https://twitter.com/mathling/status/1555554619396214786" inReplyToId="" tweetUserName="mathling" />
+				<outline text="😱 &lt;a href=&quot;https://t.co/MhpgwUmKZD&quot;&gt;[link]&lt;/a&gt;" rawText="😱 https://t.co/MhpgwUmKZD" type="tweet" created="Fri, 05 Aug 2022 14:01:36 GMT" tweetId="1555554619396214786" urltweet="https://twitter.com/mathling/status/1555554619396214786" tweetUserName="mathling" />
 				<outline text="The Impossible Task of Comparing CALS Tables
 Robin La Fontaine, John Francis
  #balisage2022" rawText="The Impossible Task of Comparing CALS Tables
 Robin La Fontaine, John Francis
- #balisage2022" type="tweet" created="Fri, 05 Aug 2022 13:58:44 GMT" tweetId="1555553895685840896" urltweet="https://twitter.com/mathling/status/1555553895685840896" inReplyToId="" tweetUserName="mathling" />
+ #balisage2022" type="tweet" created="Fri, 05 Aug 2022 13:58:44 GMT" tweetId="1555553895685840896" urltweet="https://twitter.com/mathling/status/1555553895685840896" tweetUserName="mathling" >
+					<outline text="RLF: Basic CALS table easy enough, but things can get more complex:
+horizontal spans: colspecs, namest/nameend as name refs to indicate spans
+vertical spans: morerows=n
+#balisage2022" rawText="RLF: Basic CALS table easy enough, but things can get more complex:
+horizontal spans: colspecs, namest/nameend as name refs to indicate spans
+vertical spans: morerows=n
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:11:23 GMT" tweetId="1555557079129026562" urltweet="https://twitter.com/mathling/status/1555557079129026562" inReplyToId="1555553895685840896" tweetUserName="mathling" >
+						<outline text="RLF: Our approach for many years: use the native XML directly
+#balisage2022" rawText="RLF: Our approach for many years: use the native XML directly
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:14:31 GMT" tweetId="1555557868002127872" urltweet="https://twitter.com/mathling/status/1555557868002127872" inReplyToId="1555557079129026562" tweetUserName="mathling" >
+							<outline text="RLF: Example of swapping columns: every cell in those columns shows a diff which is... not optimal
+#balisage2022" rawText="RLF: Example of swapping columns: every cell in those columns shows a diff which is... not optimal
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:15:49 GMT" tweetId="1555558197666033664" urltweet="https://twitter.com/mathling/status/1555558197666033664" inReplyToId="1555557868002127872" tweetUserName="mathling" >
+								<outline text="RLF: How to approach impossible problem?
+Step 1: Ignore something to make it a simpler problem
+Step 2: Solve simpler problem
+Step 3: Add back what was ignored to get improved result
+#balisage2022" rawText="RLF: How to approach impossible problem?
+Step 1: Ignore something to make it a simpler problem
+Step 2: Solve simpler problem
+Step 3: Add back what was ignored to get improved result
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:16:54 GMT" tweetId="1555558466961281025" urltweet="https://twitter.com/mathling/status/1555558466961281025" inReplyToId="1555558197666033664" tweetUserName="mathling" >
+									<outline text="RLF:
+1. Regularize to make rectangular grid
+2. Align columns based on content
+3. Key cells in each row based on column alignment
+4. Compare table rows using column alignment
+4. Restore spans based on B priority
+#balisage2022" rawText="RLF:
+1. Regularize to make rectangular grid
+2. Align columns based on content
+3. Key cells in each row based on column alignment
+4. Compare table rows using column alignment
+4. Restore spans based on B priority
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:18:36 GMT" tweetId="1555558897523384321" urltweet="https://twitter.com/mathling/status/1555558897523384321" inReplyToId="1555558466961281025" tweetUserName="mathling" />
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				</outline>
 			<outline text="August 4" type="calendarDay" name="04" >
 				<outline text="Metadata for Creators
