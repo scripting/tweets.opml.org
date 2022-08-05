@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 15:14:59 GMT"
+            "dateModified": "Fri, 05 Aug 2022 15:28:15 GMT"
         },
         "body": {
             "subs": [
@@ -87,7 +87,79 @@
                                                                                     "tweetId": "1555572867273658368",
                                                                                     "urltweet": "https://twitter.com/mathling/status/1555572867273658368",
                                                                                     "inReplyToId": "1555572528625594368",
-                                                                                    "tweetUserName": "mathling"
+                                                                                    "tweetUserName": "mathling",
+                                                                                    "subs": [
+                                                                                        {
+                                                                                            "text": "JK: tan:collate() iteratively uses tan:diff(), fast, except when there are lots and lots of versions\n\nRealized approach was somewhat naive\n#balisage2022",
+                                                                                            "rawText": "JK: tan:collate() iteratively uses tan:diff(), fast, except when there are lots and lots of versions\n\nRealized approach was somewhat naive\n#balisage2022",
+                                                                                            "type": "tweet",
+                                                                                            "created": "Fri, 05 Aug 2022 15:17:44 GMT",
+                                                                                            "tweetId": "1555573779975131136",
+                                                                                            "urltweet": "https://twitter.com/mathling/status/1555573779975131136",
+                                                                                            "inReplyToId": "1555572867273658368",
+                                                                                            "tweetUserName": "mathling",
+                                                                                            "subs": [
+                                                                                                {
+                                                                                                    "text": "JK: My approach evolved around concept of super-skeleton: look for long samples that appear in every version and use those as anchors, if can't find one, revert to older approach\n\n#balisage2022",
+                                                                                                    "rawText": "JK: My approach evolved around concept of super-skeleton: look for long samples that appear in every version and use those as anchors, if can't find one, revert to older approach\n\n#balisage2022",
+                                                                                                    "type": "tweet",
+                                                                                                    "created": "Fri, 05 Aug 2022 15:18:55 GMT",
+                                                                                                    "tweetId": "1555574074373332993",
+                                                                                                    "urltweet": "https://twitter.com/mathling/status/1555574074373332993",
+                                                                                                    "inReplyToId": "1555573779975131136",
+                                                                                                    "tweetUserName": "mathling",
+                                                                                                    "subs": [
+                                                                                                        {
+                                                                                                            "text": "JK: So needed to update tan:diff() to handle N-way \nNew implementation of tan:collate() now available (just recently)\n#balisage2022",
+                                                                                                            "rawText": "JK: So needed to update tan:diff() to handle N-way \nNew implementation of tan:collate() now available (just recently)\n#balisage2022",
+                                                                                                            "type": "tweet",
+                                                                                                            "created": "Fri, 05 Aug 2022 15:19:49 GMT",
+                                                                                                            "tweetId": "1555574301289394176",
+                                                                                                            "urltweet": "https://twitter.com/mathling/status/1555574301289394176",
+                                                                                                            "inReplyToId": "1555574074373332993",
+                                                                                                            "tweetUserName": "mathling",
+                                                                                                            "subs": [
+                                                                                                                {
+                                                                                                                    "text": "JK: Test suite in paper based on gradual corruption of text; can measure quality, commonality, superskeleton metric\n\n#balisage2022",
+                                                                                                                    "rawText": "JK: Test suite in paper based on gradual corruption of text; can measure quality, commonality, superskeleton metric\n\n#balisage2022",
+                                                                                                                    "type": "tweet",
+                                                                                                                    "created": "Fri, 05 Aug 2022 15:20:51 GMT",
+                                                                                                                    "tweetId": "1555574563219521536",
+                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1555574563219521536",
+                                                                                                                    "inReplyToId": "1555574301289394176",
+                                                                                                                    "tweetUserName": "mathling",
+                                                                                                                    "subs": [
+                                                                                                                        {
+                                                                                                                            "text": "JK: Comparing perf/quality of the three modes (naive no sort, CC/sort, superskeleton) wrt size of text, amount of corruption\n\nSummary: looks good!\n#balisage2022",
+                                                                                                                            "rawText": "JK: Comparing perf/quality of the three modes (naive no sort, CC/sort, superskeleton) wrt size of text, amount of corruption\n\nSummary: looks good!\n#balisage2022",
+                                                                                                                            "type": "tweet",
+                                                                                                                            "created": "Fri, 05 Aug 2022 15:22:52 GMT",
+                                                                                                                            "tweetId": "1555575070671523841",
+                                                                                                                            "urltweet": "https://twitter.com/mathling/status/1555575070671523841",
+                                                                                                                            "inReplyToId": "1555574563219521536",
+                                                                                                                            "tweetUserName": "mathling",
+                                                                                                                            "subs": [
+                                                                                                                                {
+                                                                                                                                    "text": "JK: Using tan:collate()\nDev: import TAN library\nGeneral: Use TAN Diff+ application\n#balisage2022",
+                                                                                                                                    "rawText": "JK: Using tan:collate()\nDev: import TAN library\nGeneral: Use TAN Diff+ application\n#balisage2022",
+                                                                                                                                    "type": "tweet",
+                                                                                                                                    "created": "Fri, 05 Aug 2022 15:25:18 GMT",
+                                                                                                                                    "tweetId": "1555575684122021888",
+                                                                                                                                    "urltweet": "https://twitter.com/mathling/status/1555575684122021888",
+                                                                                                                                    "inReplyToId": "1555575070671523841",
+                                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
