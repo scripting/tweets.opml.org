@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 03:21:14 GMT"
+            "dateModified": "Fri, 05 Aug 2022 06:40:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@ZacharyBraiterm Probably more urgent, but less likely, to see a divorce between elements of the organized Jewish community and the white nationalists.",
+                                    "rawText": "@ZacharyBraiterm Probably more urgent, but less likely, to see a divorce between elements of the organized Jewish community and the white nationalists.",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 06:40:06 GMT",
+                                    "tweetId": "1555443510819553281",
+                                    "urltweet": "https://twitter.com/yudel/status/1555443510819553281",
+                                    "inReplyToId": "1555438454498017280",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
