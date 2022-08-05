@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 15:28:15 GMT"
+            "dateModified": "Fri, 05 Aug 2022 15:41:31 GMT"
         },
         "body": {
             "subs": [
@@ -147,7 +147,19 @@
                                                                                                                                     "tweetId": "1555575684122021888",
                                                                                                                                     "urltweet": "https://twitter.com/mathling/status/1555575684122021888",
                                                                                                                                     "inReplyToId": "1555575070671523841",
-                                                                                                                                    "tweetUserName": "mathling"
+                                                                                                                                    "tweetUserName": "mathling",
+                                                                                                                                    "subs": [
+                                                                                                                                        {
+                                                                                                                                            "text": "JK: (Demo)\n#balisage2022",
+                                                                                                                                            "rawText": "JK: (Demo)\n#balisage2022",
+                                                                                                                                            "type": "tweet",
+                                                                                                                                            "created": "Fri, 05 Aug 2022 15:28:35 GMT",
+                                                                                                                                            "tweetId": "1555576510295068672",
+                                                                                                                                            "urltweet": "https://twitter.com/mathling/status/1555576510295068672",
+                                                                                                                                            "inReplyToId": "1555575684122021888",
+                                                                                                                                            "tweetUserName": "mathling"
+                                                                                                                                        }
+                                                                                                                                    ]
                                                                                                                                 }
                                                                                                                             ]
                                                                                                                         }
