@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mathling/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Fri, 05 Aug 2022 14:21:56 GMT</dateModified>
+		<dateModified>Fri, 05 Aug 2022 14:35:12 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
@@ -51,7 +51,41 @@ Step 3: Add back what was ignored to get improved result
 3. Key cells in each row based on column alignment
 4. Compare table rows using column alignment
 4. Restore spans based on B priority
-#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:18:36 GMT" tweetId="1555558897523384321" urltweet="https://twitter.com/mathling/status/1555558897523384321" inReplyToId="1555558466961281025" tweetUserName="mathling" />
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:18:36 GMT" tweetId="1555558897523384321" urltweet="https://twitter.com/mathling/status/1555558897523384321" inReplyToId="1555558466961281025" tweetUserName="mathling" >
+										<outline text="RLF: (Shows some examples)
+#balisage2022" rawText="RLF: (Shows some examples)
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:22:04 GMT" tweetId="1555559769078870016" urltweet="https://twitter.com/mathling/status/1555559769078870016" inReplyToId="1555558897523384321" tweetUserName="mathling" >
+											<outline text="RLF: Difficulties
+Blank columns just to help with the rendering
+#balisage2022" rawText="RLF: Difficulties
+Blank columns just to help with the rendering
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:27:59 GMT" tweetId="1555561259319185409" urltweet="https://twitter.com/mathling/status/1555561259319185409" inReplyToId="1555559769078870016" tweetUserName="mathling" >
+												<outline text="RLF: Based on what users want, leads to need to user controls but that leads to complexity in implementation, testing, etc.
+Make sure defaults are good!
+Controls: column ordering, keying columns; use PIs for that
+#balisage2022" rawText="RLF: Based on what users want, leads to need to user controls but that leads to complexity in implementation, testing, etc.
+Make sure defaults are good!
+Controls: column ordering, keying columns; use PIs for that
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:29:50 GMT" tweetId="1555561725130248192" urltweet="https://twitter.com/mathling/status/1555561725130248192" inReplyToId="1555561259319185409" tweetUserName="mathling" >
+													<outline text="RLF: What makes a 'good' standard?
+Try to make sure only one way to represent something
+Avoid shorthands
+#balisage2022" rawText="RLF: What makes a 'good' standard?
+Try to make sure only one way to represent something
+Avoid shorthands
+#balisage2022" type="tweet" created="Fri, 05 Aug 2022 14:31:11 GMT" tweetId="1555562064675868673" urltweet="https://twitter.com/mathling/status/1555562064675868673" inReplyToId="1555561725130248192" tweetUserName="mathling" >
+														<outline text="RLF: Conclusions
+Native XML comparison works well most of the time, but is easily tripped up
+Content-based approach seems to be significant improvement
+Standards folks: avoid shorthands and multiple ways to represent same concept" rawText="RLF: Conclusions
+Native XML comparison works well most of the time, but is easily tripped up
+Content-based approach seems to be significant improvement
+Standards folks: avoid shorthands and multiple ways to represent same concept" type="tweet" created="Fri, 05 Aug 2022 14:32:34 GMT" tweetId="1555562413226831873" urltweet="https://twitter.com/mathling/status/1555562413226831873" inReplyToId="1555562064675868673" tweetUserName="mathling" />
+														</outline>
+													</outline>
+												</outline>
+											</outline>
+										</outline>
 									</outline>
 								</outline>
 							</outline>
