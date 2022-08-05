@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 22:55:57 GMT"
+            "dateModified": "Fri, 05 Aug 2022 03:07:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "It is insane. It is crazy enough that we should be considering malicious intent. <a href=\"https://t.co/dDAGyDdWMu\">[link]</a>",
+                                    "rawText": "It is insane. It is crazy enough that we should be considering malicious intent. https://t.co/dDAGyDdWMu",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 03:05:31 GMT",
+                                    "tweetId": "1555389509751144454",
+                                    "urltweet": "https://twitter.com/yudel/status/1555389509751144454",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "As I posted a year ago: <a href=\"https://t.co/rAJI5H6ss3\">[link]</a>",
+                                            "rawText": "As I posted a year ago: https://t.co/rAJI5H6ss3",
+                                            "type": "tweet",
+                                            "created": "Fri, 05 Aug 2022 03:07:13 GMT",
+                                            "tweetId": "1555389936680968193",
+                                            "urltweet": "https://twitter.com/yudel/status/1555389936680968193",
+                                            "inReplyToId": "1555389509751144454",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@quamona_rimby @MisfitTorah I think they’re reading day as “holiday.”",
+                                    "rawText": "@quamona_rimby @MisfitTorah I think they’re reading day as “holiday.”",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 02:59:26 GMT",
+                                    "tweetId": "1555387979585257473",
+                                    "urltweet": "https://twitter.com/yudel/status/1555387979585257473",
+                                    "inReplyToId": "1555386532416163840",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@AD_Lobel @romemu Stay tuned for a new Shabbat siddur from @yourbayit <a href=\"https://t.co/pDHOcT9Z0f\">[link]</a>",
                                     "rawText": "@AD_Lobel @romemu Stay tuned for a new Shabbat siddur from @yourbayit https://t.co/pDHOcT9Z0f",
