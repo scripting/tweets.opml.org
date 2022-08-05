@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 17:04:34 GMT"
+            "dateModified": "Fri, 05 Aug 2022 13:24:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@Capotated <a href=\"https://t.co/1VZRdFqIcm\">[link]</a>",
+                                    "rawText": "@Capotated https://t.co/1VZRdFqIcm",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 13:12:44 GMT",
+                                    "tweetId": "1555542322623954944",
+                                    "urltweet": "https://twitter.com/chiguire/status/1555542322623954944",
+                                    "inReplyToId": "1555495317130432517",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
