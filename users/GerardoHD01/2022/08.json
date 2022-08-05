@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 00:44:49 GMT"
+            "dateModified": "Fri, 05 Aug 2022 15:46:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@dukope Finally, I have it! 🥰\nIt's not available on Chromebooks 🥺 <a href=\"https://t.co/0kfblHgU6J\">[link]</a>",
+                                    "rawText": "@dukope Finally, I have it! 🥰\nIt's not available on Chromebooks 🥺 https://t.co/0kfblHgU6J",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 15:41:57 GMT",
+                                    "tweetId": "1555579872575164418",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1555579872575164418",
+                                    "inReplyToId": "1550895020861181952",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
