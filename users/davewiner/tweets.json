@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 02:47:00 GMT"
+            "dateModified": "Fri, 05 Aug 2022 08:43:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "GOP operatives quietly work to save Liz Cheney in Wyoming primary. <a href=\"https://t.co/bm0R3BWBJW\">[link]</a>",
+                                    "rawText": "GOP operatives quietly work to save Liz Cheney in Wyoming primary. https://t.co/bm0R3BWBJW",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 08:42:02 GMT",
+                                    "tweetId": "1555474196133826561",
+                                    "urltweet": "https://twitter.com/davewiner/status/1555474196133826561",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
