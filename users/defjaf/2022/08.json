@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 07:02:25 GMT"
+            "dateModified": "Fri, 05 Aug 2022 12:20:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@NoContextBrits Quite.",
+                                    "rawText": "@NoContextBrits Quite.",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 12:12:11 GMT",
+                                    "tweetId": "1555527081429241857",
+                                    "urltweet": "https://twitter.com/defjaf/status/1555527081429241857",
+                                    "inReplyToId": "1554908438563794944",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
