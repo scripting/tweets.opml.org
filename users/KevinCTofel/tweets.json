@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 01:42:07 GMT"
+            "dateModified": "Fri, 05 Aug 2022 06:07:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Still using apt for Linux on a Chromebook? Try Nala instead <a href=\"https://t.co/gU10VZ4zdQ\">[link]</a> https://t.co/8fmmwQgohP",
+                                    "rawText": "ICYMI: Still using apt for Linux on a Chromebook? Try Nala instead https://t.co/gU10VZ4zdQ https://t.co/8fmmwQgohP",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 06:06:01 GMT",
+                                    "tweetId": "1555434933518323712",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1555434933518323712",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
