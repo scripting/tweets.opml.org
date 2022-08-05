@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/reidlewis/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 02:03:07 GMT"
+            "dateModified": "Fri, 05 Aug 2022 16:01:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "@StarshipGazer @SpaceX @elonmusk Thanks for capturing the serial number of #spacexraptor2 #81 !!\n\nEach fully stacked #spacexstarship needs 9 Raptor engines + #spacexbooster needs 33 Raptors.\n\nRead more here:\n<a href=\"https://t.co/1H9hLKTj0F\">[link]</a>",
+                                    "rawText": "@StarshipGazer @SpaceX @elonmusk Thanks for capturing the serial number of #spacexraptor2 #81 !!\n\nEach fully stacked #spacexstarship needs 9 Raptor engines + #spacexbooster needs 33 Raptors.\n\nRead more here:\nhttps://t.co/1H9hLKTj0F",
+                                    "type": "tweet",
+                                    "created": "Fri, 05 Aug 2022 15:56:03 GMT",
+                                    "tweetId": "1555583421636038658",
+                                    "urltweet": "https://twitter.com/reidlewis/status/1555583421636038658",
+                                    "inReplyToId": "1555569704042905604",
+                                    "tweetUserName": "reidlewis"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
