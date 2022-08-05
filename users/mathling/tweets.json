@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 14:08:40 GMT"
+            "dateModified": "Fri, 05 Aug 2022 14:21:56 GMT"
         },
         "body": {
             "subs": [
@@ -36,7 +36,67 @@
                                     "created": "Fri, 05 Aug 2022 13:58:44 GMT",
                                     "tweetId": "1555553895685840896",
                                     "urltweet": "https://twitter.com/mathling/status/1555553895685840896",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "RLF: Basic CALS table easy enough, but things can get more complex:\nhorizontal spans: colspecs, namest/nameend as name refs to indicate spans\nvertical spans: morerows=n\n#balisage2022",
+                                            "rawText": "RLF: Basic CALS table easy enough, but things can get more complex:\nhorizontal spans: colspecs, namest/nameend as name refs to indicate spans\nvertical spans: morerows=n\n#balisage2022",
+                                            "type": "tweet",
+                                            "created": "Fri, 05 Aug 2022 14:11:23 GMT",
+                                            "tweetId": "1555557079129026562",
+                                            "urltweet": "https://twitter.com/mathling/status/1555557079129026562",
+                                            "inReplyToId": "1555553895685840896",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "RLF: Our approach for many years: use the native XML directly\n#balisage2022",
+                                                    "rawText": "RLF: Our approach for many years: use the native XML directly\n#balisage2022",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 05 Aug 2022 14:14:31 GMT",
+                                                    "tweetId": "1555557868002127872",
+                                                    "urltweet": "https://twitter.com/mathling/status/1555557868002127872",
+                                                    "inReplyToId": "1555557079129026562",
+                                                    "tweetUserName": "mathling",
+                                                    "subs": [
+                                                        {
+                                                            "text": "RLF: Example of swapping columns: every cell in those columns shows a diff which is... not optimal\n#balisage2022",
+                                                            "rawText": "RLF: Example of swapping columns: every cell in those columns shows a diff which is... not optimal\n#balisage2022",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 05 Aug 2022 14:15:49 GMT",
+                                                            "tweetId": "1555558197666033664",
+                                                            "urltweet": "https://twitter.com/mathling/status/1555558197666033664",
+                                                            "inReplyToId": "1555557868002127872",
+                                                            "tweetUserName": "mathling",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "RLF: How to approach impossible problem?\nStep 1: Ignore something to make it a simpler problem\nStep 2: Solve simpler problem\nStep 3: Add back what was ignored to get improved result\n#balisage2022",
+                                                                    "rawText": "RLF: How to approach impossible problem?\nStep 1: Ignore something to make it a simpler problem\nStep 2: Solve simpler problem\nStep 3: Add back what was ignored to get improved result\n#balisage2022",
+                                                                    "type": "tweet",
+                                                                    "created": "Fri, 05 Aug 2022 14:16:54 GMT",
+                                                                    "tweetId": "1555558466961281025",
+                                                                    "urltweet": "https://twitter.com/mathling/status/1555558466961281025",
+                                                                    "inReplyToId": "1555558197666033664",
+                                                                    "tweetUserName": "mathling",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "RLF:\n1. Regularize to make rectangular grid\n2. Align columns based on content\n3. Key cells in each row based on column alignment\n4. Compare table rows using column alignment\n4. Restore spans based on B priority\n#balisage2022",
+                                                                            "rawText": "RLF:\n1. Regularize to make rectangular grid\n2. Align columns based on content\n3. Key cells in each row based on column alignment\n4. Compare table rows using column alignment\n4. Restore spans based on B priority\n#balisage2022",
+                                                                            "type": "tweet",
+                                                                            "created": "Fri, 05 Aug 2022 14:18:36 GMT",
+                                                                            "tweetId": "1555558897523384321",
+                                                                            "urltweet": "https://twitter.com/mathling/status/1555558897523384321",
+                                                                            "inReplyToId": "1555558466961281025",
+                                                                            "tweetUserName": "mathling"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
