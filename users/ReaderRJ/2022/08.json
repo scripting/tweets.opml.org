@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ReaderRJ/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 14:42:12 GMT"
+            "dateModified": "Sat, 06 Aug 2022 10:35:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "I just signed this petition via @organisehq calling for a pay rise in line with inflation for all public sector workers. Add your name too: <a href=\"https://t.co/31UM9uTRue\">[link]</a>",
+                                    "rawText": "I just signed this petition via @organisehq calling for a pay rise in line with inflation for all public sector workers. Add your name too: https://t.co/31UM9uTRue",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 10:28:03 GMT",
+                                    "tweetId": "1555863265233833984",
+                                    "urltweet": "https://twitter.com/ReaderRJ/status/1555863265233833984",
+                                    "tweetUserName": "ReaderRJ"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
