@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "DevHawk tweets",
+            "dateCreated": "Mon, 20 Dec 2021 21:35:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sat, 06 Aug 2022 02:35:13 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Opening night, Village Theatre Kidstage SummerStock production of SpongeBob SquarePants the Musical... Featuring my son #ProudDad <a href=\"https://t.co/2Ot1ZDKZms\">[link]</a>",
+                                    "rawText": "Opening night, Village Theatre Kidstage SummerStock production of SpongeBob SquarePants the Musical... Featuring my son #ProudDad https://t.co/2Ot1ZDKZms",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 02:33:47 GMT",
+                                    "tweetId": "1555743912647483392",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1555743912647483392",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
