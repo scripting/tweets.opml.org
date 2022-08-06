@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 15:18:30 GMT"
+            "dateModified": "Sat, 06 Aug 2022 14:31:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "It is utterly tropical outside and according to my weather app, a 79 degree dew point.  No clouds. Sat outside for maybe 15 minutes before deciding I wasn’t in a mood for a sauna. <a href=\"https://t.co/E7M2ZiHaL5\">[link]</a>",
+                                    "rawText": "It is utterly tropical outside and according to my weather app, a 79 degree dew point.  No clouds. Sat outside for maybe 15 minutes before deciding I wasn’t in a mood for a sauna. https://t.co/E7M2ZiHaL5",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 14:30:48 GMT",
+                                    "tweetId": "1555924356550868994",
+                                    "urltweet": "https://twitter.com/frankm/status/1555924356550868994",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
