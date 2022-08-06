@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 04:01:48 GMT"
+            "dateModified": "Sat, 06 Aug 2022 04:15:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@SteveStuWill This is good fun.",
+                                    "rawText": "@SteveStuWill This is good fun.",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 04:03:25 GMT",
+                                    "tweetId": "1555766468414881792",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1555766468414881792",
+                                    "inReplyToId": "1555622201466167296",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
