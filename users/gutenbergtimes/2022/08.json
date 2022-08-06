@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 20:57:06 GMT"
+            "dateModified": "Sat, 06 Aug 2022 21:02:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "New: Gutenberg Changelog #71 - Grzegorz Ziolkowski @gziolo subbed for Mary Job as co-host with Birgit Pauli-Haack @bph. They discuss Gutenberg 13.8, Fluid Typography, updates to Block APIs and WordPress 6.1 Planning. <a href=\"https://t.co/J39yWUy4LG\">[link]</a>",
+                                    "rawText": "New: Gutenberg Changelog #71 - Grzegorz Ziolkowski @gziolo subbed for Mary Job as co-host with Birgit Pauli-Haack @bph. They discuss Gutenberg 13.8, Fluid Typography, updates to Block APIs and WordPress 6.1 Planning. https://t.co/J39yWUy4LG",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 21:00:24 GMT",
+                                    "tweetId": "1556022399329603586",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1556022399329603586",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
