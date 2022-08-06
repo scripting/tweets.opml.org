@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 01:34:39 GMT"
+            "dateModified": "Sat, 06 Aug 2022 13:30:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Well played @FulhamFC. 👏🏼 <a href=\"https://t.co/U9xcUt9v6b\">[link]</a>",
+                                    "rawText": "Well played @FulhamFC. 👏🏼 https://t.co/U9xcUt9v6b",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 13:26:29 GMT",
+                                    "tweetId": "1555908168810635264",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1555908168810635264",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
