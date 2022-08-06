@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 17:46:41 GMT"
+            "dateModified": "Sat, 06 Aug 2022 18:26:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "@hcayless A bit like lightning or summat, yeah?",
+                                    "rawText": "@hcayless A bit like lightning or summat, yeah?",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 18:14:20 GMT",
+                                    "tweetId": "1555980607804436480",
+                                    "urltweet": "https://twitter.com/mathling/status/1555980607804436480",
+                                    "inReplyToId": "1555977418195836928",
+                                    "tweetUserName": "mathling"
+                                },
                                 {
                                     "text": "#GenerativeArt interlude\n\nExperimenting\n\nSome negative coefficients in the polynomial spiral equations\n\nI probably need more interpolating points to kill the jaggies <a href=\"https://t.co/AD0VuM6uAc\">[link]</a>",
                                     "rawText": "#GenerativeArt interlude\n\nExperimenting\n\nSome negative coefficients in the polynomial spiral equations\n\nI probably need more interpolating points to kill the jaggies https://t.co/AD0VuM6uAc",
