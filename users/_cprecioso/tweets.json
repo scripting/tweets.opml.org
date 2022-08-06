@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 23:37:46 GMT"
+            "dateModified": "Sat, 06 Aug 2022 09:34:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@gamusino Yo mudo 1.92 y lo llevo fatal; ojalá medir 1.85 o por ahí",
+                                    "rawText": "@gamusino Yo mudo 1.92 y lo llevo fatal; ojalá medir 1.85 o por ahí",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 09:22:53 GMT",
+                                    "tweetId": "1555846863059828736",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1555846863059828736",
+                                    "inReplyToId": "1555830725005426688",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
