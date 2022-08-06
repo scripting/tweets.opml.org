@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 09:37:23 GMT"
+            "dateModified": "Sat, 06 Aug 2022 21:12:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "idi0ts <a href=\"https://t.co/9lpEOcsCfE\">[link]</a>",
+                                    "rawText": "idi0ts https://t.co/9lpEOcsCfE",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 21:05:49 GMT",
+                                    "tweetId": "1556023762641997826",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1556023762641997826",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
