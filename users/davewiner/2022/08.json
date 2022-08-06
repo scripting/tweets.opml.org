@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 14:07:00 GMT"
+            "dateModified": "Sat, 06 Aug 2022 14:10:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "The most powerful systems are the ones that have a deep and well-factored systems programming interface, and a really nice user interface that fades into the background and lets your work come to the front.\n\nAlso strong standards for interop betw apps and other OSes.",
+                                    "rawText": "The most powerful systems are the ones that have a deep and well-factored systems programming interface, and a really nice user interface that fades into the background and lets your work come to the front.\n\nAlso strong standards for interop betw apps and other OSes.",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 14:09:32 GMT",
+                                    "tweetId": "1555919003138260994",
+                                    "urltweet": "https://twitter.com/davewiner/status/1555919003138260994",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Maybe the best combination I've seen was the 1990's era Mac with THINK C.",
+                                            "rawText": "Maybe the best combination I've seen was the 1990's era Mac with THINK C.",
+                                            "type": "tweet",
+                                            "created": "Sat, 06 Aug 2022 14:09:32 GMT",
+                                            "tweetId": "1555919004845441025",
+                                            "urltweet": "https://twitter.com/davewiner/status/1555919004845441025",
+                                            "inReplyToId": "1555919003138260994",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@GuyKawasaki We all have our struggles Guy. You carry it well. ;-)",
                                     "rawText": "@GuyKawasaki We all have our struggles Guy. You carry it well. ;-)",
