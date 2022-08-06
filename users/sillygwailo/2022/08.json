@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 15:26:32 GMT"
+            "dateModified": "Sat, 06 Aug 2022 17:12:39 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "06",
                             "subs": [
                                 {
+                                    "text": "Renorama on Dolomite Dr. and Dufferin St. is the site of a microconfluence. <a href=\"https://t.co/wsFtDsalgD\">[link]</a>",
+                                    "rawText": "Renorama on Dolomite Dr. and Dufferin St. is the site of a microconfluence. https://t.co/wsFtDsalgD",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 17:05:23 GMT",
+                                    "tweetId": "1555963258829475841",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1555963258829475841",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
                                     "text": "I’m going to Moldova today.",
                                     "rawText": "I’m going to Moldova today.",
                                     "type": "tweet",
                                     "created": "Sat, 06 Aug 2022 15:21:07 GMT",
                                     "tweetId": "1555937018865221634",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1555937018865221634",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I made it to Moldova unscathed. <a href=\"https://t.co/pkkttSD2BZ\">[link]</a>",
+                                            "rawText": "I made it to Moldova unscathed. https://t.co/pkkttSD2BZ",
+                                            "type": "tweet",
+                                            "created": "Sat, 06 Aug 2022 17:01:21 GMT",
+                                            "tweetId": "1555962242058932224",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1555962242058932224",
+                                            "inReplyToId": "1555937018865221634",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
