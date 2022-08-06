@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 02:39:43 GMT"
+            "dateModified": "Sat, 06 Aug 2022 22:33:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: 8.67 Justin Quintal Picks Up Right Where He Left Off At the Vans Duct Tape Invitational #shorts <a href=\"https://t.co/Qb0q8M2son\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: 8.67 Justin Quintal Picks Up Right Where He Left Off At the Vans Duct Tape Invitational #shorts https://t.co/Qb0q8M2son",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 22:29:02 GMT",
+                                    "tweetId": "1556044705989038081",
+                                    "urltweet": "https://twitter.com/oevl/status/1556044705989038081",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
