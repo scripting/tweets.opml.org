@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 02:40:00 GMT"
+            "dateModified": "Sat, 06 Aug 2022 10:15:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "Ask HN: How to say NO to a GitHub issue feature request? <a href=\"https://t.co/nu6YDsvwLe\">[link]</a>",
+                                    "rawText": "Ask HN: How to say NO to a GitHub issue feature request? https://t.co/nu6YDsvwLe",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 10:14:40 GMT",
+                                    "tweetId": "1555859894661693442",
+                                    "urltweet": "https://twitter.com/davewiner/status/1555859894661693442",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
