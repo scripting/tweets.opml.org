@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 19:02:31 GMT"
+            "dateModified": "Sat, 06 Aug 2022 19:55:34 GMT"
         },
         "body": {
             "subs": [
@@ -291,7 +291,19 @@
                                             "tweetId": "1555976669332230144",
                                             "urltweet": "https://twitter.com/KevinCTofel/status/1555976669332230144",
                                             "inReplyToId": "1555010047868116994",
-                                            "tweetUserName": "KevinCTofel"
+                                            "tweetUserName": "KevinCTofel",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/sajFrDzI84\">[link]</a>",
+                                                    "rawText": "https://t.co/sajFrDzI84",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 06 Aug 2022 19:47:45 GMT",
+                                                    "tweetId": "1556004118698905600",
+                                                    "urltweet": "https://twitter.com/KevinCTofel/status/1556004118698905600",
+                                                    "inReplyToId": "1555976669332230144",
+                                                    "tweetUserName": "KevinCTofel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
