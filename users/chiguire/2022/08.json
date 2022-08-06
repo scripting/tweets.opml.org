@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 04:00:18 GMT"
+            "dateModified": "Sat, 06 Aug 2022 11:18:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@Zweihander11 #NWLD",
+                                    "rawText": "@Zweihander11 #NWLD",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 11:06:49 GMT",
+                                    "tweetId": "1555873018710294529",
+                                    "urltweet": "https://twitter.com/chiguire/status/1555873018710294529",
+                                    "inReplyToId": "1555859602339934208",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@YohandryCueto Ese saldo lo calculo al volver",
+                                    "rawText": "@YohandryCueto Ese saldo lo calculo al volver",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 11:05:54 GMT",
+                                    "tweetId": "1555872788610695168",
+                                    "urltweet": "https://twitter.com/chiguire/status/1555872788610695168",
+                                    "inReplyToId": "1555826348018606080",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
