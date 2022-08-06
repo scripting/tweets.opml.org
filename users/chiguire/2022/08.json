@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 02:40:43 GMT"
+            "dateModified": "Sat, 06 Aug 2022 02:53:59 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,43 @@
                                     "created": "Sat, 06 Aug 2022 02:36:13 GMT",
                                     "tweetId": "1555744523149627393",
                                     "urltweet": "https://twitter.com/chiguire/status/1555744523149627393",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/MnLZigoSmf\">[link]</a>",
+                                            "rawText": "https://t.co/MnLZigoSmf",
+                                            "type": "tweet",
+                                            "created": "Sat, 06 Aug 2022 02:41:46 GMT",
+                                            "tweetId": "1555745921039835138",
+                                            "urltweet": "https://twitter.com/chiguire/status/1555745921039835138",
+                                            "inReplyToId": "1555744523149627393",
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/6d9LHKugcY\">[link]</a>",
+                                                    "rawText": "https://t.co/6d9LHKugcY",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 06 Aug 2022 02:42:46 GMT",
+                                                    "tweetId": "1555746171829817345",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1555746171829817345",
+                                                    "inReplyToId": "1555745921039835138",
+                                                    "tweetUserName": "chiguire",
+                                                    "subs": [
+                                                        {
+                                                            "text": "&gt; La Jeepeta no existe, no puede hacerte daño\n\nLa Jeepeta: <a href=\"https://t.co/zFoyysaQ0S\">[link]</a>",
+                                                            "rawText": "&gt; La Jeepeta no existe, no puede hacerte daño\n\nLa Jeepeta: https://t.co/zFoyysaQ0S",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 06 Aug 2022 02:44:24 GMT",
+                                                            "tweetId": "1555746582716358656",
+                                                            "urltweet": "https://twitter.com/chiguire/status/1555746582716358656",
+                                                            "inReplyToId": "1555746171829817345",
+                                                            "tweetUserName": "chiguire"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@misscptnbeer La autoridad, una vaina",
