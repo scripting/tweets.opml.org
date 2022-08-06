@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 17:01:06 GMT"
+            "dateModified": "Sat, 06 Aug 2022 17:33:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nExperimenting\n\nSome negative coefficients in the polynomial spiral equations\n\nI probably need more interpolating points to kill the jaggies <a href=\"https://t.co/AD0VuM6uAc\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nExperimenting\n\nSome negative coefficients in the polynomial spiral equations\n\nI probably need more interpolating points to kill the jaggies https://t.co/AD0VuM6uAc",
+                                    "type": "tweet",
+                                    "created": "Sat, 06 Aug 2022 17:29:20 GMT",
+                                    "tweetId": "1555969284894953472",
+                                    "urltweet": "https://twitter.com/mathling/status/1555969284894953472",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
