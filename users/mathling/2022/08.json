@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 17:33:25 GMT"
+            "dateModified": "Sat, 06 Aug 2022 17:46:41 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 06 Aug 2022 17:29:20 GMT",
                                     "tweetId": "1555969284894953472",
                                     "urltweet": "https://twitter.com/mathling/status/1555969284894953472",
-                                    "tweetUserName": "mathling"
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "A little smoother\n#XQuery #SVG <a href=\"https://t.co/Abo3PlHVHu\">[link]</a>",
+                                            "rawText": "A little smoother\n#XQuery #SVG https://t.co/Abo3PlHVHu",
+                                            "type": "tweet",
+                                            "created": "Sat, 06 Aug 2022 17:33:39 GMT",
+                                            "tweetId": "1555970370456281088",
+                                            "urltweet": "https://twitter.com/mathling/status/1555970370456281088",
+                                            "inReplyToId": "1555969284894953472",
+                                            "tweetUserName": "mathling"
+                                        }
+                                    ]
                                 }
                             ]
                         },
