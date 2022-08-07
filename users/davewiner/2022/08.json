@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 07 Aug 2022 15:59:00 GMT"
+            "dateModified": "Sun, 07 Aug 2022 16:00:00 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1556308771718287360",
                                     "urltweet": "https://twitter.com/davewiner/status/1556308771718287360",
                                     "inReplyToId": "1556298073780920322",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@jeffjarvis Sorry actually one of them *is* from me. Oy.",
+                                            "rawText": "@jeffjarvis Sorry actually one of them *is* from me. Oy.",
+                                            "type": "tweet",
+                                            "created": "Sun, 07 Aug 2022 15:59:21 GMT",
+                                            "tweetId": "1556309025880514561",
+                                            "urltweet": "https://twitter.com/davewiner/status/1556309025880514561",
+                                            "inReplyToId": "1556308771718287360",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "\"The average price for a unit of insulin in Canada was $12. Across the border in the US, it's $98.70.\" <a href=\"https://t.co/ISNtGjZ0EQ\">[link]</a>",
