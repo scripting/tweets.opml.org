@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 13:35:55 GMT"
+            "dateModified": "Sun, 07 Aug 2022 17:13:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "The temperature just dropped several degrees as I stood on the sidewalk watching the front come in. <a href=\"https://t.co/2TTpwDVRhI\">[link]</a>",
+                                    "rawText": "The temperature just dropped several degrees as I stood on the sidewalk watching the front come in. https://t.co/2TTpwDVRhI",
+                                    "type": "tweet",
+                                    "created": "Sun, 07 Aug 2022 17:05:20 GMT",
+                                    "tweetId": "1556325633147502592",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1556325633147502592",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 6",
                             "type": "calendarDay",
