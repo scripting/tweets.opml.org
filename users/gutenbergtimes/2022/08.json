@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 21:02:54 GMT"
+            "dateModified": "Sun, 07 Aug 2022 06:46:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Layouts and Wide Alignments in WordPress: Then, Now, and Upcoming Changes by Justin Tadlock @justintadlock -\nLearn also about a problem with classic theme layout support <a href=\"https://t.co/jkehuh0Iei\">[link]</a>",
+                                    "rawText": "Layouts and Wide Alignments in WordPress: Then, Now, and Upcoming Changes by Justin Tadlock @justintadlock -\nLearn also about a problem with classic theme layout support https://t.co/jkehuh0Iei",
+                                    "type": "tweet",
+                                    "created": "Sun, 07 Aug 2022 06:41:47 GMT",
+                                    "tweetId": "1556168711215534085",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1556168711215534085",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 6",
                             "type": "calendarDay",
