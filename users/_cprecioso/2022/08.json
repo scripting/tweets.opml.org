@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 19:58:05 GMT"
+            "dateModified": "Sun, 07 Aug 2022 12:46:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "Dios mío no puedo más me voy a derretir",
+                                    "rawText": "Dios mío no puedo más me voy a derretir",
+                                    "type": "tweet",
+                                    "created": "Sun, 07 Aug 2022 12:41:21 GMT",
+                                    "tweetId": "1556259198031335424",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1556259198031335424",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Lo estoy pasando MUY MAL",
+                                            "rawText": "Lo estoy pasando MUY MAL",
+                                            "type": "tweet",
+                                            "created": "Sun, 07 Aug 2022 12:41:21 GMT",
+                                            "tweetId": "1556259199725740032",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1556259199725740032",
+                                            "inReplyToId": "1556259198031335424",
+                                            "tweetUserName": "_cprecioso",
+                                            "subs": [
+                                                {
+                                                    "text": "Es que no es exageración, llevo fatal fatal el calor, me anula completamente",
+                                                    "rawText": "Es que no es exageración, llevo fatal fatal el calor, me anula completamente",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 07 Aug 2022 12:41:22 GMT",
+                                                    "tweetId": "1556259201143508992",
+                                                    "urltweet": "https://twitter.com/_cprecioso/status/1556259201143508992",
+                                                    "inReplyToId": "1556259199725740032",
+                                                    "tweetUserName": "_cprecioso"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 6",
                             "type": "calendarDay",
