@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 07 Aug 2022 15:49:06 GMT"
+            "dateModified": "Sun, 07 Aug 2022 16:15:38 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,34 @@
                             "name": "07",
                             "subs": [
                                 {
+                                    "text": "La magia de sentarse a cantar boleros con los viejos",
+                                    "rawText": "La magia de sentarse a cantar boleros con los viejos",
+                                    "type": "tweet",
+                                    "created": "Sun, 07 Aug 2022 16:06:00 GMT",
+                                    "tweetId": "1556310700015996931",
+                                    "urltweet": "https://twitter.com/chiguire/status/1556310700015996931",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
                                     "text": "Toda esa gente que pide botón es editar a Twitter no veo quejándose de WhatsApp",
                                     "rawText": "Toda esa gente que pide botón es editar a Twitter no veo quejándose de WhatsApp",
                                     "type": "tweet",
                                     "created": "Sun, 07 Aug 2022 15:45:01 GMT",
                                     "tweetId": "1556305419726905346",
                                     "urltweet": "https://twitter.com/chiguire/status/1556305419726905346",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Conchale vale tú nojombre",
+                                            "rawText": "Conchale vale tú nojombre",
+                                            "type": "tweet",
+                                            "created": "Sun, 07 Aug 2022 16:08:49 GMT",
+                                            "tweetId": "1556311407792103428",
+                                            "urltweet": "https://twitter.com/chiguire/status/1556311407792103428",
+                                            "inReplyToId": "1556305419726905346",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 }
                             ]
                         },
