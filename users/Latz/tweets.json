@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 15:36:29 GMT"
+            "dateModified": "Mon, 08 Aug 2022 11:59:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "Die Nicht-Informationstafeln der @KVGinfo breiten sich aus. Jetzt auch in der Friedrich-Ebert-Str.\n\n#Kassel #ÖPNV <a href=\"https://t.co/uEDPxRbOZv\">[link]</a>",
+                                    "rawText": "Die Nicht-Informationstafeln der @KVGinfo breiten sich aus. Jetzt auch in der Friedrich-Ebert-Str.\n\n#Kassel #ÖPNV https://t.co/uEDPxRbOZv",
+                                    "type": "tweet",
+                                    "created": "Mon, 08 Aug 2022 11:59:27 GMT",
+                                    "tweetId": "1556611042184241152",
+                                    "urltweet": "https://twitter.com/Latz/status/1556611042184241152",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
