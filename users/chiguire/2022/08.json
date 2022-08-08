@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 01:59:15 GMT"
+            "dateModified": "Mon, 08 Aug 2022 11:29:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@HugoCast_ @edul3on @cris7ian El jaywalking es un invento orgullosamente americano <a href=\"https://t.co/ZWxK7oRww1\">[link]</a>",
+                                    "rawText": "@HugoCast_ @edul3on @cris7ian El jaywalking es un invento orgullosamente americano https://t.co/ZWxK7oRww1",
+                                    "type": "tweet",
+                                    "created": "Mon, 08 Aug 2022 11:23:06 GMT",
+                                    "tweetId": "1556601895950729218",
+                                    "urltweet": "https://twitter.com/chiguire/status/1556601895950729218",
+                                    "inReplyToId": "1556396457007190016",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 7",
                             "type": "calendarDay",
