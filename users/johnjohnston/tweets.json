@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 07 Aug 2022 18:47:18 GMT"
+            "dateModified": "Mon, 08 Aug 2022 12:15:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@ds106dc #tdc3861 #ds106 #myFest22 \nmy desktop raven,\ncrossing the pale blue background;\nbeyond the finder.\nthe wallpaper rotation calls me,\nloch, hills, the quick running burn. <a href=\"https://t.co/YYzymlPlaD\">[link]</a>",
+                                    "rawText": "@ds106dc #tdc3861 #ds106 #myFest22 \nmy desktop raven,\ncrossing the pale blue background;\nbeyond the finder.\nthe wallpaper rotation calls me,\nloch, hills, the quick running burn. https://t.co/YYzymlPlaD",
+                                    "type": "tweet",
+                                    "created": "Mon, 08 Aug 2022 12:10:05 GMT",
+                                    "tweetId": "1556613719358152707",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1556613719358152707",
+                                    "inReplyToId": "1556566526827802624",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 7",
                             "type": "calendarDay",
