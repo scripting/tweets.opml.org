@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 14:48:01 GMT"
+            "dateModified": "Mon, 08 Aug 2022 15:21:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "Man who shot Ahmaud Arbery gets life sentence for hate crime. <a href=\"https://t.co/OnuvmS3qdL\">[link]</a>",
+                                    "rawText": "Man who shot Ahmaud Arbery gets life sentence for hate crime. https://t.co/OnuvmS3qdL",
+                                    "type": "tweet",
+                                    "created": "Mon, 08 Aug 2022 15:20:55 GMT",
+                                    "tweetId": "1556661741966311426",
+                                    "urltweet": "https://twitter.com/davewiner/status/1556661741966311426",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I would like the body of a tweet to be an outline.",
                                     "rawText": "I would like the body of a tweet to be an outline.",
