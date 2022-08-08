@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 01:52:30 GMT"
+            "dateModified": "Mon, 08 Aug 2022 02:05:46 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1556458096712712192",
                                     "urltweet": "https://twitter.com/yudel/status/1556458096712712192",
                                     "inReplyToId": "1556456149851029504",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@alangblake @joshtpm Second,are you against all law enforcement, or only those who might catch rich people?",
+                                            "rawText": "@alangblake @joshtpm Second,are you against all law enforcement, or only those who might catch rich people?",
+                                            "type": "tweet",
+                                            "created": "Mon, 08 Aug 2022 01:55:01 GMT",
+                                            "tweetId": "1556458931848896513",
+                                            "urltweet": "https://twitter.com/yudel/status/1556458931848896513",
+                                            "inReplyToId": "1556458096712712192",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@alangblake @joshtpm You’re saying an IRS agent can’t find $150k/year if unleashed? Surely you’re joking. And at odds with all that is known and suspected about tax fraud.",
