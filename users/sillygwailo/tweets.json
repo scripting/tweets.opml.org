@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 00:36:10 GMT"
+            "dateModified": "Mon, 08 Aug 2022 14:58:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "“No, really, is this a joke?” <a href=\"https://t.co/VRSJllKcID\">[link]</a>",
+                                    "rawText": "“No, really, is this a joke?” https://t.co/VRSJllKcID",
+                                    "type": "tweet",
+                                    "created": "Mon, 08 Aug 2022 14:52:50 GMT",
+                                    "tweetId": "1556654676703059970",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1556654676703059970",
+                                    "inReplyToId": "1534621071432892416",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 7",
                             "type": "calendarDay",
