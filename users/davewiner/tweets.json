@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 19:17:00 GMT"
+            "dateModified": "Mon, 08 Aug 2022 19:18:00 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1556721032957988870",
                                     "urltweet": "https://twitter.com/davewiner/status/1556721032957988870",
                                     "inReplyToId": "1556720617256353795",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@ton_zylstra anyway if it were to start looping infinitely eventually it would fail, you could just close the tab and try again.",
+                                            "rawText": "@ton_zylstra anyway if it were to start looping infinitely eventually it would fail, you could just close the tab and try again.",
+                                            "type": "tweet",
+                                            "created": "Mon, 08 Aug 2022 19:17:13 GMT",
+                                            "tweetId": "1556721209458434051",
+                                            "urltweet": "https://twitter.com/davewiner/status/1556721209458434051",
+                                            "inReplyToId": "1556721032957988870",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@DonLew87 @dawnjurgensen Lock em up! That's what the laws are there for.\n\nAll the news people say oh it's going to be terrible when the trumps are secretary of state. they're subject to the same laws we all are. if they break them, send em to jail. <a href=\"https://t.co/H2WTF1JNPA\">[link]</a>",
