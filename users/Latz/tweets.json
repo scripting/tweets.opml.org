@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 14:12:33 GMT"
+            "dateModified": "Mon, 08 Aug 2022 18:51:06 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "Die heutige Tomatenernte. <a href=\"https://t.co/SrGae3envk\">[link]</a>",
+                                    "rawText": "Die heutige Tomatenernte. https://t.co/SrGae3envk",
+                                    "type": "tweet",
+                                    "created": "Mon, 08 Aug 2022 18:37:59 GMT",
+                                    "tweetId": "1556711338155589634",
+                                    "urltweet": "https://twitter.com/Latz/status/1556711338155589634",
+                                    "tweetUserName": "Latz"
+                                },
                                 {
                                     "text": "Snowpack bundler maintenance has been dicontinued and @vite_js is recommended as an alternative. \n\nWell, let's check that out.",
                                     "rawText": "Snowpack bundler maintenance has been dicontinued and @vite_js is recommended as an alternative. \n\nWell, let's check that out.",
