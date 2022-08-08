@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 03:51:53 GMT"
+            "dateModified": "Mon, 08 Aug 2022 05:11:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@YehudahMirsky @BarIlanU Will these be recorded or transcribed?",
+                                    "rawText": "@YehudahMirsky @BarIlanU Will these be recorded or transcribed?",
+                                    "type": "tweet",
+                                    "created": "Mon, 08 Aug 2022 04:59:19 GMT",
+                                    "tweetId": "1556505311904661505",
+                                    "urltweet": "https://twitter.com/yudel/status/1556505311904661505",
+                                    "inReplyToId": "1556504283717279744",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 7",
                             "type": "calendarDay",
