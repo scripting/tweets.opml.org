@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 06 Aug 2022 18:15:58 GMT"
+            "dateModified": "Mon, 08 Aug 2022 21:59:48 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "i am requesting  this for my ride from here to there &lt;3 <a href=\"https://t.co/6W0TJa7PyR\">[link]</a>",
+                                    "rawText": "i am requesting  this for my ride from here to there &lt;3 https://t.co/6W0TJa7PyR",
+                                    "type": "tweet",
+                                    "created": "Mon, 08 Aug 2022 21:46:42 GMT",
+                                    "tweetId": "1556758830121422848",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1556758830121422848",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 6",
                             "type": "calendarDay",
