@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 01:08:30 GMT"
+            "dateModified": "Tue, 09 Aug 2022 19:42:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@Jomboy_ “This is how I fight.” <a href=\"https://t.co/b02KaGXNBf\">[link]</a>",
+                                    "rawText": "@Jomboy_ “This is how I fight.” https://t.co/b02KaGXNBf",
+                                    "type": "tweet",
+                                    "created": "Tue, 09 Aug 2022 19:42:34 GMT",
+                                    "tweetId": "1557089977955131393",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1557089977955131393",
+                                    "inReplyToId": "1557060790846382080",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
