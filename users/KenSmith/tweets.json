@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 13:34:16 GMT"
+            "dateModified": "Tue, 09 Aug 2022 14:06:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@RayBoomhower <a href=\"https://t.co/P0s3oxFy3a\">[link]</a> This radio play seems to include some reporting by Robert C. Miller and suggests his name as the answer.",
+                                    "rawText": "@RayBoomhower https://t.co/P0s3oxFy3a This radio play seems to include some reporting by Robert C. Miller and suggests his name as the answer.",
+                                    "type": "tweet",
+                                    "created": "Tue, 09 Aug 2022 14:01:18 GMT",
+                                    "tweetId": "1557004092735725572",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1557004092735725572",
+                                    "inReplyToId": "1557000101062737921",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
