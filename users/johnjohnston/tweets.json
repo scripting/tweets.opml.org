@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 12:15:11 GMT"
+            "dateModified": "Tue, 09 Aug 2022 09:02:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "WordPress URLs, RSS &amp; Blocks: <a href=\"https://t.co/5xDgFWNd3H\">[link]</a>",
+                                    "rawText": "WordPress URLs, RSS &amp; Blocks: https://t.co/5xDgFWNd3H",
+                                    "type": "tweet",
+                                    "created": "Tue, 09 Aug 2022 08:52:40 GMT",
+                                    "tweetId": "1556926424057102336",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1556926424057102336",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
