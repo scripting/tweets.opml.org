@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 00:46:00 GMT"
+            "dateModified": "Tue, 09 Aug 2022 09:08:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "Sure enough when you search for “albuquerque conman” you get Saul Goodman. <a href=\"https://t.co/oJ1T5fXA9L\">[link]</a>",
+                                    "rawText": "Sure enough when you search for “albuquerque conman” you get Saul Goodman. https://t.co/oJ1T5fXA9L",
+                                    "type": "tweet",
+                                    "created": "Tue, 09 Aug 2022 09:07:45 GMT",
+                                    "tweetId": "1556930222213238784",
+                                    "urltweet": "https://twitter.com/davewiner/status/1556930222213238784",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
