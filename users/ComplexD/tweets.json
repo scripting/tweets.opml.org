@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ComplexD/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 11:51:54 GMT"
+            "dateModified": "Tue, 09 Aug 2022 12:37:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "The Tip of the Iceberg? New ENISA Report on Threat Landscape for #Ransomware Attacks - Read the complete announcement and report at <a href=\"https://t.co/0zPctMAGcX\">[link]</a>. @enisa_eu #Cybersecurity #eDiscovery https://t.co/dDjnVmaXPJ",
+                                    "rawText": "The Tip of the Iceberg? New ENISA Report on Threat Landscape for #Ransomware Attacks - Read the complete announcement and report at https://t.co/0zPctMAGcX. @enisa_eu #Cybersecurity #eDiscovery https://t.co/dDjnVmaXPJ",
+                                    "type": "tweet",
+                                    "created": "Tue, 09 Aug 2022 12:33:05 GMT",
+                                    "tweetId": "1556981894465601537",
+                                    "urltweet": "https://twitter.com/ComplexD/status/1556981894465601537",
+                                    "tweetUserName": "ComplexD"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
