@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 23:25:54 GMT"
+            "dateModified": "Tue, 09 Aug 2022 13:21:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@MiliberMancilla M de Mañana",
+                                    "rawText": "@MiliberMancilla M de Mañana",
+                                    "type": "tweet",
+                                    "created": "Tue, 09 Aug 2022 13:12:25 GMT",
+                                    "tweetId": "1556991793979342850",
+                                    "urltweet": "https://twitter.com/chiguire/status/1556991793979342850",
+                                    "inReplyToId": "1556991433932001282",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
