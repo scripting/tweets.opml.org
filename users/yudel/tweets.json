@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 12:54:04 GMT"
+            "dateModified": "Wed, 10 Aug 2022 13:07:20 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,31 @@
                                     "tweetId": "1557349355690102784",
                                     "urltweet": "https://twitter.com/yudel/status/1557349355690102784",
                                     "inReplyToId": "1557347548632961026",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@joshtpm Probably some colorful PDBs for Dummies and the like, but mostly just trivia, held on to for the sake of gratuitous rule-breaking.",
+                                            "rawText": "@joshtpm Probably some colorful PDBs for Dummies and the like, but mostly just trivia, held on to for the sake of gratuitous rule-breaking.",
+                                            "type": "tweet",
+                                            "created": "Wed, 10 Aug 2022 12:54:47 GMT",
+                                            "tweetId": "1557349743008923648",
+                                            "urltweet": "https://twitter.com/yudel/status/1557349743008923648",
+                                            "inReplyToId": "1557349355690102784",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@joshtpm So no smoking gun memos which could possibly be forged and planted; just ten boxes of junk, with the equivalent of pizza recipes and gefilte fish tariff negotiations.",
+                                                    "rawText": "@joshtpm So no smoking gun memos which could possibly be forged and planted; just ten boxes of junk, with the equivalent of pizza recipes and gefilte fish tariff negotiations.",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 10 Aug 2022 12:57:00 GMT",
+                                                    "tweetId": "1557350301979607040",
+                                                    "urltweet": "https://twitter.com/yudel/status/1557350301979607040",
+                                                    "inReplyToId": "1557349743008923648",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@joshtpm Yes. But see who he has been hanging out with. <a href=\"https://t.co/Bxat8YDyZw\">[link]</a>",
