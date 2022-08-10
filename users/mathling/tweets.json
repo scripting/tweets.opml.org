@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 14:58:24 GMT"
+            "dateModified": "Wed, 10 Aug 2022 16:49:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nMore experimenting\nNow with curves, a little jitter, and a ridged fractal noise \"height\" field, plus pruning\n\n#XQuery #SVG <a href=\"https://t.co/DS9PUXN4w5\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nMore experimenting\nNow with curves, a little jitter, and a ridged fractal noise \"height\" field, plus pruning\n\n#XQuery #SVG https://t.co/DS9PUXN4w5",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 16:42:22 GMT",
+                                    "tweetId": "1557407016817045505",
+                                    "urltweet": "https://twitter.com/mathling/status/1557407016817045505",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
