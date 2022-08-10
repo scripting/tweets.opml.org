@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 18:51:06 GMT"
+            "dateModified": "Wed, 10 Aug 2022 13:44:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "In #WordPress I still have to use \"wp_localize_script()\" to transfer the ajaxurl value my JS scripts?\n\n#ancienttimes",
+                                    "rawText": "In #WordPress I still have to use \"wp_localize_script()\" to transfer the ajaxurl value my JS scripts?\n\n#ancienttimes",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 13:40:35 GMT",
+                                    "tweetId": "1557361270390722561",
+                                    "urltweet": "https://twitter.com/Latz/status/1557361270390722561",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
