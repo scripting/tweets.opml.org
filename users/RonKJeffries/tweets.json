@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 01:13:31 GMT"
+            "dateModified": "Wed, 10 Aug 2022 09:43:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "we live in difficult times. <a href=\"https://t.co/VWPmsyAoVe\">[link]</a>",
+                                    "rawText": "we live in difficult times. https://t.co/VWPmsyAoVe",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 09:43:00 GMT",
+                                    "tweetId": "1557301478586388481",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1557301478586388481",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
