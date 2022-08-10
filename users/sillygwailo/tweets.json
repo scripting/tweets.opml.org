@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 03:13:41 GMT"
+            "dateModified": "Wed, 10 Aug 2022 04:33:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@DumasRaphael This is what I had in mind. <a href=\"https://t.co/h5T2GnQUXR\">[link]</a>",
+                                    "rawText": "@DumasRaphael This is what I had in mind. https://t.co/h5T2GnQUXR",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 04:28:36 GMT",
+                                    "tweetId": "1557222356287897600",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1557222356287897600",
+                                    "inReplyToId": "1544063064152186882",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
+                                    "text": "By Then It Was Too Late: A Memoir <a href=\"https://t.co/mHNy7W5DAr\">[link]</a>",
+                                    "rawText": "By Then It Was Too Late: A Memoir https://t.co/mHNy7W5DAr",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 04:24:09 GMT",
+                                    "tweetId": "1557221236287094784",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1557221236287094784",
+                                    "inReplyToId": "1535618502597419008",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
