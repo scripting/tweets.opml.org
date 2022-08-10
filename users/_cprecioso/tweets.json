@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 17:14:41 GMT"
+            "dateModified": "Wed, 10 Aug 2022 18:21:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "Socorro hay un bebé en mi casa",
+                                    "rawText": "Socorro hay un bebé en mi casa",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 18:16:25 GMT",
+                                    "tweetId": "1557430683466858497",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1557430683466858497",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Update: está llorando",
+                                            "rawText": "Update: está llorando",
+                                            "type": "tweet",
+                                            "created": "Wed, 10 Aug 2022 18:16:25 GMT",
+                                            "tweetId": "1557430685299875845",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1557430685299875845",
+                                            "inReplyToId": "1557430683466858497",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@zzRto Same",
                                     "rawText": "@zzRto Same",
