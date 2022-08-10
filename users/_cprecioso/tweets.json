@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 21:21:49 GMT"
+            "dateModified": "Wed, 10 Aug 2022 09:57:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@YerayVaro Tu, yo, y cinco propiedades alquilándose. Piensalo.",
+                                    "rawText": "@YerayVaro Tu, yo, y cinco propiedades alquilándose. Piensalo.",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 09:56:00 GMT",
+                                    "tweetId": "1557304750324031488",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1557304750324031488",
+                                    "inReplyToId": "1557301605690638336",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
