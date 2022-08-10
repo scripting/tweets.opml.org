@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 07 Aug 2022 06:46:31 GMT"
+            "dateModified": "Wed, 10 Aug 2022 10:36:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Today at 3pm EDT / 19:00 UTC don't miss it! <a href=\"https://t.co/2LtOBGJ1sK\">[link]</a>",
+                                    "rawText": "Today at 3pm EDT / 19:00 UTC don't miss it! https://t.co/2LtOBGJ1sK",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 10:30:22 GMT",
+                                    "tweetId": "1557313400635547649",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1557313400635547649",
+                                    "tweetUserName": "gutenbergtimes"
+                                },
+                                {
+                                    "text": "Now with transcript: Gutenberg Changelog #71 – Gutenberg 13.8, Fluid Typography, updates to the Block API and more <a href=\"https://t.co/J39yWUy4LG\">[link]</a> with co-hosts Grzegorz Ziolkowski @gziolo and Birgit Pauli-Haack @bph #WordPress",
+                                    "rawText": "Now with transcript: Gutenberg Changelog #71 – Gutenberg 13.8, Fluid Typography, updates to the Block API and more https://t.co/J39yWUy4LG with co-hosts Grzegorz Ziolkowski @gziolo and Birgit Pauli-Haack @bph #WordPress",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 10:28:59 GMT",
+                                    "tweetId": "1557313049119408128",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1557313049119408128",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 7",
                             "type": "calendarDay",
