@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 00:48:00 GMT"
+            "dateModified": "Wed, 10 Aug 2022 00:49:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/9DEbQ1CObw\">[link]</a>",
+                                    "rawText": "https://t.co/9DEbQ1CObw",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 00:48:52 GMT",
+                                    "tweetId": "1557167057879318528",
+                                    "urltweet": "https://twitter.com/davewiner/status/1557167057879318528",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Spectrum is taking a vacation tonight. No baseball or news. I guess no news is good news eh? I bet the Mets win even if I can’t supervise. Didn’t like missing Jeopardy.",
                                     "rawText": "Spectrum is taking a vacation tonight. No baseball or news. I guess no news is good news eh? I bet the Mets win even if I can’t supervise. Didn’t like missing Jeopardy.",
