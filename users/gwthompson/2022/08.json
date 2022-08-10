@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gwthompson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 04:40:29 GMT"
+            "dateModified": "Wed, 10 Aug 2022 14:29:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Wordle 417 6/6\n\n⬛⬛🟩⬛⬛\n⬛⬛⬛⬛⬛\n🟩🟩🟩⬛⬛\n🟩🟩🟩⬛⬛\n🟩🟩🟩⬛⬛\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 417 6/6\n\n⬛⬛🟩⬛⬛\n⬛⬛⬛⬛⬛\n🟩🟩🟩⬛⬛\n🟩🟩🟩⬛⬛\n🟩🟩🟩⬛⬛\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 14:22:59 GMT",
+                                    "tweetId": "1557371937155850241",
+                                    "urltweet": "https://twitter.com/gwthompson/status/1557371937155850241",
+                                    "tweetUserName": "gwthompson"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
