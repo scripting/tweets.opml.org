@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 13:55:05 GMT"
+            "dateModified": "Wed, 10 Aug 2022 14:00:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/zIPLpVORy2\">[link]</a> Stories via @acloserlisten @boulezian @nate_wooley",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/zIPLpVORy2 Stories via @acloserlisten @boulezian @nate_wooley",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 13:47:49 GMT",
+                                    "tweetId": "1557363088223084545",
+                                    "urltweet": "https://twitter.com/aworks/status/1557363088223084545",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
