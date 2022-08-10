@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 04:56:33 GMT"
+            "dateModified": "Wed, 10 Aug 2022 05:23:05 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@CharlesPPierce Plausible deniability seems to have a nice bipartisan pedigree. <a href=\"https://t.co/EHVWQUS9kn\">[link]</a>",
+                                    "rawText": "@CharlesPPierce Plausible deniability seems to have a nice bipartisan pedigree. https://t.co/EHVWQUS9kn",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 05:11:54 GMT",
+                                    "tweetId": "1557233253731418112",
+                                    "urltweet": "https://twitter.com/yudel/status/1557233253731418112",
+                                    "inReplyToId": "1557126395054231552",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@CharlesPPierce Frankly, I was expecting to find it sourced to Ron Ziegler, not Allen Dulles. Live and learn.",
+                                            "rawText": "@CharlesPPierce Frankly, I was expecting to find it sourced to Ron Ziegler, not Allen Dulles. Live and learn.",
+                                            "type": "tweet",
+                                            "created": "Wed, 10 Aug 2022 05:13:07 GMT",
+                                            "tweetId": "1557233562063196161",
+                                            "urltweet": "https://twitter.com/yudel/status/1557233562063196161",
+                                            "inReplyToId": "1557233253731418112",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@washingtonpost @DougJBalloon",
                                     "rawText": "@washingtonpost @DougJBalloon",
