@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 01:25:00 GMT"
+            "dateModified": "Wed, 10 Aug 2022 05:32:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@Ask_Spectrum The service is still out.",
+                                    "rawText": "@Ask_Spectrum The service is still out.",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 05:31:46 GMT",
+                                    "tweetId": "1557238255225126912",
+                                    "urltweet": "https://twitter.com/davewiner/status/1557238255225126912",
+                                    "inReplyToId": "1557175743485841408",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
