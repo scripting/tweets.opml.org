@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 20:14:07 GMT"
+            "dateModified": "Wed, 10 Aug 2022 20:27:23 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@TwitterBlue <a href=\"https://t.co/MmnqaOlaWr\">[link]</a>",
+                                    "rawText": "@TwitterBlue https://t.co/MmnqaOlaWr",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 20:24:31 GMT",
+                                    "tweetId": "1557462922263150592",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1557462922263150592",
+                                    "inReplyToId": "1557458368247341064",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "@toddsieling There’s a desktop mode, easily accessible, which seems pretty open, i.e. you can install software by downloading it from a browser. I didn’t do any unlocking or rooting to install itch.​io games, for example. I just had to install the Linux desktop client and login.",
                                     "rawText": "@toddsieling There’s a desktop mode, easily accessible, which seems pretty open, i.e. you can install software by downloading it from a browser. I didn’t do any unlocking or rooting to install itch.​io games, for example. I just had to install the Linux desktop client and login.",
@@ -136,7 +146,19 @@
                                     "tweetId": "1557200414961016832",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1557200414961016832",
                                     "inReplyToId": "1552757977668526081",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "@duolingo It’s not at all obvious that Duolingo only offers Cantonese for Mandarin-speakers, which, for simplicity’s sake, I am not.",
+                                            "rawText": "@duolingo It’s not at all obvious that Duolingo only offers Cantonese for Mandarin-speakers, which, for simplicity’s sake, I am not.",
+                                            "type": "tweet",
+                                            "created": "Wed, 10 Aug 2022 20:19:59 GMT",
+                                            "tweetId": "1557461782184267776",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1557461782184267776",
+                                            "inReplyToId": "1557200414961016832",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "THE greatest athlete of all time. <a href=\"https://t.co/J1mAnO5Q1c\">[link]</a>",
