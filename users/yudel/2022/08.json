@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 23:51:29 GMT"
+            "dateModified": "Wed, 10 Aug 2022 00:04:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "We get emails. <a href=\"https://t.co/XrjTx7oW0d\">[link]</a>",
+                                    "rawText": "We get emails. https://t.co/XrjTx7oW0d",
+                                    "type": "tweet",
+                                    "created": "Tue, 09 Aug 2022 23:57:13 GMT",
+                                    "tweetId": "1557154059727028226",
+                                    "urltweet": "https://twitter.com/yudel/status/1557154059727028226",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@trekonomics Hey! At least it wasn’t in Zero G!",
+                                    "rawText": "@trekonomics Hey! At least it wasn’t in Zero G!",
+                                    "type": "tweet",
+                                    "created": "Tue, 09 Aug 2022 23:51:39 GMT",
+                                    "tweetId": "1557152659383132161",
+                                    "urltweet": "https://twitter.com/yudel/status/1557152659383132161",
+                                    "inReplyToId": "1557150502571241472",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@trekonomics For whom?",
                                     "rawText": "@trekonomics For whom?",
