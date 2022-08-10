@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 22:38:39 GMT"
+            "dateModified": "Wed, 10 Aug 2022 08:09:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@lurnoise ¡Excelente historia! Me gustaría continuar leyendo la serie",
+                                    "rawText": "@lurnoise ¡Excelente historia! Me gustaría continuar leyendo la serie",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 08:06:45 GMT",
+                                    "tweetId": "1557277258909421568",
+                                    "urltweet": "https://twitter.com/chiguire/status/1557277258909421568",
+                                    "inReplyToId": "1557275361104338946",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
