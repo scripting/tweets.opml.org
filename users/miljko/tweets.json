@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 04 Aug 2022 11:37:59 GMT"
+            "dateModified": "Wed, 10 Aug 2022 20:56:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Ah, DC summers… (yes, that’s our office view right now) <a href=\"https://t.co/c9yASeAkdo\">[link]</a>",
+                                    "rawText": "Ah, DC summers… (yes, that’s our office view right now) https://t.co/c9yASeAkdo",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 20:52:58 GMT",
+                                    "tweetId": "1557470082028212225",
+                                    "urltweet": "https://twitter.com/miljko/status/1557470082028212225",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 4",
                             "type": "calendarDay",
