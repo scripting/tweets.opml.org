@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ComplexD/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 12:37:30 GMT"
+            "dateModified": "Wed, 10 Aug 2022 12:30:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "[Relevant Replay] Revisiting the Wild West? The #eDiscovery Medicine Show - Read the complete article at <a href=\"https://t.co/e7YR6kAG84\">[link]</a>. #LegalTech #TAR https://t.co/GLdT4y4veh",
+                                    "rawText": "[Relevant Replay] Revisiting the Wild West? The #eDiscovery Medicine Show - Read the complete article at https://t.co/e7YR6kAG84. #LegalTech #TAR https://t.co/GLdT4y4veh",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 12:18:52 GMT",
+                                    "tweetId": "1557340704904544256",
+                                    "urltweet": "https://twitter.com/ComplexD/status/1557340704904544256",
+                                    "tweetUserName": "ComplexD"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
