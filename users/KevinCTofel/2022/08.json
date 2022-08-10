@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 08 Aug 2022 23:26:09 GMT"
+            "dateModified": "Wed, 10 Aug 2022 00:25:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "JavaScript Callbacks Explained in 5 Minutes (Essential for asynchronous ... <a href=\"https://t.co/NIIs37l3kw\">[link]</a>",
+                                    "rawText": "JavaScript Callbacks Explained in 5 Minutes (Essential for asynchronous ... https://t.co/NIIs37l3kw",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 00:21:43 GMT",
+                                    "tweetId": "1557160227211984898",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1557160227211984898",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 8",
                             "type": "calendarDay",
