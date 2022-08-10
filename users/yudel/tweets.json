@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 01:24:19 GMT"
+            "dateModified": "Wed, 10 Aug 2022 02:30:39 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "@BigBrain1234 @gregdesimone4 @ashtonpittman @rauchway @DougJBalloon Are we sure that  Doug B. isn’t just an alt for Dean B.? Have we ever seen them in the same room at the same time?",
+                                    "rawText": "@BigBrain1234 @gregdesimone4 @ashtonpittman @rauchway @DougJBalloon Are we sure that  Doug B. isn’t just an alt for Dean B.? Have we ever seen them in the same room at the same time?",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 02:29:46 GMT",
+                                    "tweetId": "1557192452548722691",
+                                    "urltweet": "https://twitter.com/yudel/status/1557192452548722691",
+                                    "inReplyToId": "1557187562778787840",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "How long will it take Google Search to figure out how to detect bad machine-generated spam rewrites of real sites? It's not a good sign that my fourth search result is that kind of spam. <a href=\"https://t.co/jypvSH7l30\">[link]</a>",
                                     "rawText": "How long will it take Google Search to figure out how to detect bad machine-generated spam rewrites of real sites? It's not a good sign that my fourth search result is that kind of spam. https://t.co/jypvSH7l30",
@@ -37,7 +47,19 @@
                                             "tweetId": "1557174087641976835",
                                             "urltweet": "https://twitter.com/yudel/status/1557174087641976835",
                                             "inReplyToId": "1557173948990857216",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "Oh, fun: I clicked the link and got a request to install a Chrome extension. Web 3.0 rocks!",
+                                                    "rawText": "Oh, fun: I clicked the link and got a request to install a Chrome extension. Web 3.0 rocks!",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 10 Aug 2022 01:26:14 GMT",
+                                                    "tweetId": "1557176463362822144",
+                                                    "urltweet": "https://twitter.com/yudel/status/1557176463362822144",
+                                                    "inReplyToId": "1557174087641976835",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
