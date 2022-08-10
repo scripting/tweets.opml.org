@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 00:03:29 GMT"
+            "dateModified": "Wed, 10 Aug 2022 12:26:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "\"To lament the end of the manual transmission is to eulogize much more than shifting gears.\" <a href=\"https://t.co/rY1v1rmofx\">[link]</a>",
+                                    "rawText": "\"To lament the end of the manual transmission is to eulogize much more than shifting gears.\" https://t.co/rY1v1rmofx",
+                                    "type": "tweet",
+                                    "created": "Wed, 10 Aug 2022 12:24:12 GMT",
+                                    "tweetId": "1557342046054412289",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1557342046054412289",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
