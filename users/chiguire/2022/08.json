@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 20:04:22 GMT"
+            "dateModified": "Thu, 11 Aug 2022 10:13:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@notoriousKnave Anything for you",
+                                    "rawText": "@notoriousKnave Anything for you",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 10:01:37 GMT",
+                                    "tweetId": "1557668550772461572",
+                                    "urltweet": "https://twitter.com/chiguire/status/1557668550772461572",
+                                    "inReplyToId": "1557498762343374848",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
