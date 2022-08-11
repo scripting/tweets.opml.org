@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 03:34:21 GMT"
+            "dateModified": "Thu, 11 Aug 2022 18:36:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Compra propiedades donde quieras desde el país donde estés <a href=\"https://t.co/jvgbOhb0pS\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Compra propiedades donde quieras desde el país donde estés https://t.co/jvgbOhb0pS",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 18:28:02 GMT",
+                                    "tweetId": "1557795995647414272",
+                                    "urltweet": "https://twitter.com/oevl/status/1557795995647414272",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
