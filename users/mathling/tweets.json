@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 02:46:17 GMT"
+            "dateModified": "Thu, 11 Aug 2022 17:08:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@iamscicomm Practice the $!*? out of my talk. By the time I do it for real, I've practiced it scores of times. \n\nAlso: put a \"Stop. Breathe.\" in my notes pages.",
+                                    "rawText": "@iamscicomm Practice the $!*? out of my talk. By the time I do it for real, I've practiced it scores of times. \n\nAlso: put a \"Stop. Breathe.\" in my notes pages.",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 17:00:02 GMT",
+                                    "tweetId": "1557773848589742081",
+                                    "urltweet": "https://twitter.com/mathling/status/1557773848589742081",
+                                    "inReplyToId": "1557752218786332673",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
