@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 03:28:50 GMT"
+            "dateModified": "Thu, 11 Aug 2022 03:42:06 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@bayes_baes Having taken linear algebra 40 years ago, I was surprised and impressed to discover it’s now apparently pronounced “machine learning.”",
+                                    "rawText": "@bayes_baes Having taken linear algebra 40 years ago, I was surprised and impressed to discover it’s now apparently pronounced “machine learning.”",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 03:29:12 GMT",
+                                    "tweetId": "1557569796929118209",
+                                    "urltweet": "https://twitter.com/yudel/status/1557569796929118209",
+                                    "inReplyToId": "1557432300526354433",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@MisfitTorah So, it’s a brilliant Haggadah that blew me away when I saw it in the museum space in the YU library 40 years ago. Definitely worth googling",
                                     "rawText": "@MisfitTorah So, it’s a brilliant Haggadah that blew me away when I saw it in the museum space in the YU library 40 years ago. Definitely worth googling",
@@ -48,7 +58,19 @@
                                                     "tweetId": "1557568831878578176",
                                                     "urltweet": "https://twitter.com/yudel/status/1557568831878578176",
                                                     "inReplyToId": "1557568574172045313",
-                                                    "tweetUserName": "yudel"
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@MisfitTorah If you zoom in to the spread, you’ll note that the faces are from different centuries. בכל דור ודור, but also an awareness that his Haggadah is building off of thousands of years of Jewish iconography.",
+                                                            "rawText": "@MisfitTorah If you zoom in to the spread, you’ll note that the faces are from different centuries. בכל דור ודור, but also an awareness that his Haggadah is building off of thousands of years of Jewish iconography.",
+                                                            "type": "tweet",
+                                                            "created": "Thu, 11 Aug 2022 03:41:51 GMT",
+                                                            "tweetId": "1557572981110480897",
+                                                            "urltweet": "https://twitter.com/yudel/status/1557572981110480897",
+                                                            "inReplyToId": "1557568831878578176",
+                                                            "tweetUserName": "yudel"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
