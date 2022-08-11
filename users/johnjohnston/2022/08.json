@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 11:54:27 GMT"
+            "dateModified": "Thu, 11 Aug 2022 18:56:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@ds106dc #tdc3864 #ds106 #myFest22 back to school on Monday for me I'll pop this video in my Zuckertüte \n<a href=\"https://t.co/efO4NZC1cj\">[link]</a>",
+                                    "rawText": "@ds106dc #tdc3864 #ds106 #myFest22 back to school on Monday for me I'll pop this video in my Zuckertüte \nhttps://t.co/efO4NZC1cj",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 18:48:47 GMT",
+                                    "tweetId": "1557801219296460800",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1557801219296460800",
+                                    "inReplyToId": "1557656330025873408",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
