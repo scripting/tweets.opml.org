@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 03 Aug 2022 06:08:22 GMT"
+            "dateModified": "Thu, 11 Aug 2022 17:57:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@amalec #TimeToFindANewProvider (yeh - I said \"provider\" - let's not assume that the \"p\" means physician)",
+                                    "rawText": "@amalec #TimeToFindANewProvider (yeh - I said \"provider\" - let's not assume that the \"p\" means physician)",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 17:48:46 GMT",
+                                    "tweetId": "1557786112269160451",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1557786112269160451",
+                                    "inReplyToId": "1557731721822347264",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 3",
                             "type": "calendarDay",
