@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 20:11:14 GMT"
+            "dateModified": "Thu, 11 Aug 2022 17:29:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@b05crypto That means presidents will only have to care about campaigning in NY, CA, FL, TX, and maybe PA or OH. Is that really what we want? Because I'd like a president that cares about stuff from the other 45 states, too.",
+                                    "rawText": "@b05crypto That means presidents will only have to care about campaigning in NY, CA, FL, TX, and maybe PA or OH. Is that really what we want? Because I'd like a president that cares about stuff from the other 45 states, too.",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 17:29:06 GMT",
+                                    "tweetId": "1557781166769541123",
+                                    "urltweet": "https://twitter.com/cshotton/status/1557781166769541123",
+                                    "inReplyToId": "1557705632081494018",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
