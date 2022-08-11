@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 01:17:57 GMT"
+            "dateModified": "Thu, 11 Aug 2022 12:34:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/8IvZWFR1eg\">[link]</a> https://t.co/BiE4sYjTQw",
+                                    "rawText": "https://t.co/8IvZWFR1eg https://t.co/BiE4sYjTQw",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 12:31:12 GMT",
+                                    "tweetId": "1557706194009071618",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1557706194009071618",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
