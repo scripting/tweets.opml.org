@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 01:28:13 GMT"
+            "dateModified": "Thu, 11 Aug 2022 11:38:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Some ways of thinking about organizing a longer work of nonfiction or memoir. <a href=\"https://t.co/aMGOYnCEB9\">[link]</a>",
+                                    "rawText": "Some ways of thinking about organizing a longer work of nonfiction or memoir. https://t.co/aMGOYnCEB9",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 11:35:09 GMT",
+                                    "tweetId": "1557692089609191424",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1557692089609191424",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
