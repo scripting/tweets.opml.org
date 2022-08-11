@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 14:38:48 GMT"
+            "dateModified": "Thu, 11 Aug 2022 15:05:20 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@qmacro Totally valid option in that case! I used this example because it was visually easy to understand. But there are other non-Linux use cases; say, F12 for Dev Tools in Chrome. CTRL - SHIFT - I works, but F12 is faster, easier and standard. 😉",
+                                    "rawText": "@qmacro Totally valid option in that case! I used this example because it was visually easy to understand. But there are other non-Linux use cases; say, F12 for Dev Tools in Chrome. CTRL - SHIFT - I works, but F12 is faster, easier and standard. 😉",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 15:04:10 GMT",
+                                    "tweetId": "1557744690404933633",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1557744690404933633",
+                                    "inReplyToId": "1557743236138930177",
+                                    "tweetUserName": "KevinCTofel"
+                                },
                                 {
                                     "text": "I recently needed to press the F10 key in an app on my Chromebook. But it doesn’t have one. Here’s how to use function keys on a Chromebook. <a href=\"https://t.co/HKbVlqqnZK\">[link]</a>",
                                     "rawText": "I recently needed to press the F10 key in an app on my Chromebook. But it doesn’t have one. Here’s how to use function keys on a Chromebook. https://t.co/HKbVlqqnZK",
