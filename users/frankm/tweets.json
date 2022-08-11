@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 02:36:47 GMT"
+            "dateModified": "Thu, 11 Aug 2022 20:57:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "Surf is up <a href=\"https://t.co/yhHRgcDRJs\">[link]</a>",
+                                    "rawText": "Surf is up https://t.co/yhHRgcDRJs",
+                                    "type": "tweet",
+                                    "created": "Thu, 11 Aug 2022 20:49:09 GMT",
+                                    "tweetId": "1557831507804397569",
+                                    "urltweet": "https://twitter.com/frankm/status/1557831507804397569",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
