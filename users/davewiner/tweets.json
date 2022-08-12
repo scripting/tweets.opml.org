@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 01:27:00 GMT"
+            "dateModified": "Fri, 12 Aug 2022 07:56:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "High drama at the India-Pakistan border, every sundown. <a href=\"https://t.co/sUqUAqcXVY\">[link]</a>",
+                                    "rawText": "High drama at the India-Pakistan border, every sundown. https://t.co/sUqUAqcXVY",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 07:55:02 GMT",
+                                    "tweetId": "1557999085809967105",
+                                    "urltweet": "https://twitter.com/davewiner/status/1557999085809967105",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
