@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 17:29:00 GMT"
+            "dateModified": "Fri, 12 Aug 2022 17:30:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "Calgary",
+                                    "rawText": "Calgary",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 17:29:15 GMT",
+                                    "tweetId": "1558143588462108673",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558143588462108673",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "Caracas",
                                     "rawText": "Caracas",
