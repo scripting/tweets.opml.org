@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 17:34:00 GMT"
+            "dateModified": "Fri, 12 Aug 2022 18:00:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,63 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "TweetFeed",
+                                    "rawText": "TweetFeed",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 17:59:16 GMT",
+                                    "tweetId": "1558151145264238592",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558151145264238592",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "TweetFeed is a free, experimental service to find out if Twitter can peer with feed reader software.",
+                                            "rawText": "TweetFeed is a free, experimental service to find out if Twitter can peer with feed reader software.",
+                                            "type": "tweet",
+                                            "created": "Fri, 12 Aug 2022 17:59:16 GMT",
+                                            "tweetId": "1558151146266677249",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1558151146266677249",
+                                            "inReplyToId": "1558151145264238592",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "TweetFeed folds threads into a single feed item.",
+                                                    "rawText": "TweetFeed folds threads into a single feed item.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 12 Aug 2022 17:59:17 GMT",
+                                                    "tweetId": "1558151147004874752",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558151147004874752",
+                                                    "inReplyToId": "1558151146266677249",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "TweetFeed understands Markdown, so you can add styles and use links, and they will appear correctly in reader software.",
+                                                            "rawText": "TweetFeed understands Markdown, so you can add styles and use links, and they will appear correctly in reader software.",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 12 Aug 2022 17:59:17 GMT",
+                                                            "tweetId": "1558151147927617537",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1558151147927617537",
+                                                            "inReplyToId": "1558151147004874752",
+                                                            "tweetUserName": "cluelessnewbie",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "You can add a title to your tweet threads, just enter a # as the first character in your tweet, followed by the title text.",
+                                                                    "rawText": "You can add a title to your tweet threads, just enter a # as the first character in your tweet, followed by the title text.",
+                                                                    "type": "tweet",
+                                                                    "created": "Fri, 12 Aug 2022 17:59:17 GMT",
+                                                                    "tweetId": "1558151148820897795",
+                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558151148820897795",
+                                                                    "inReplyToId": "1558151147927617537",
+                                                                    "tweetUserName": "cluelessnewbie"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Cancun",
                                     "rawText": "Cancun",
