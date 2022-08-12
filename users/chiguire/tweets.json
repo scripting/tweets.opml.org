@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 22:09:32 GMT"
+            "dateModified": "Fri, 12 Aug 2022 09:12:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@malbanyat Pleno fin de semana de bank holiday por aquí, estoy pendiente si estoy por el área",
+                                    "rawText": "@malbanyat Pleno fin de semana de bank holiday por aquí, estoy pendiente si estoy por el área",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 09:12:33 GMT",
+                                    "tweetId": "1558018592943357953",
+                                    "urltweet": "https://twitter.com/chiguire/status/1558018592943357953",
+                                    "inReplyToId": "1558016825606160384",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@malbanyat Cuando?",
+                                    "rawText": "@malbanyat Cuando?",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 09:03:26 GMT",
+                                    "tweetId": "1558016296666669057",
+                                    "urltweet": "https://twitter.com/chiguire/status/1558016296666669057",
+                                    "inReplyToId": "1557789331523346434",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
