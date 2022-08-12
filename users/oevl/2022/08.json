@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 03:40:08 GMT"
+            "dateModified": "Fri, 12 Aug 2022 16:29:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Disfrutando de Soda Stereo via @Radio10Pty <a href=\"https://t.co/tMcCxiSNO9\">[link]</a>",
+                                    "rawText": "Disfrutando de Soda Stereo via @Radio10Pty https://t.co/tMcCxiSNO9",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 16:18:57 GMT",
+                                    "tweetId": "1558125897496100866",
+                                    "urltweet": "https://twitter.com/oevl/status/1558125897496100866",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
