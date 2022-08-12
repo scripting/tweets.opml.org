@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 10:38:03 GMT"
+            "dateModified": "Fri, 12 Aug 2022 16:41:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@ericnormand Idk I get so much more joy from the incomprehensible js created from cljs.",
+                                    "rawText": "@ericnormand Idk I get so much more joy from the incomprehensible js created from cljs.",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 16:31:52 GMT",
+                                    "tweetId": "1558129149125939200",
+                                    "urltweet": "https://twitter.com/mal/status/1558129149125939200",
+                                    "inReplyToId": "1558128072624222208",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
