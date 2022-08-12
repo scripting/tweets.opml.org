@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 03:37:38 GMT"
+            "dateModified": "Fri, 12 Aug 2022 19:32:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Is it too early to nominate Uytae Lee for the Order of British Columbia? <a href=\"https://t.co/QPQLQyP9uG\">[link]</a>",
+                                    "rawText": "Is it too early to nominate Uytae Lee for the Order of British Columbia? https://t.co/QPQLQyP9uG",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 19:24:43 GMT",
+                                    "tweetId": "1558172647917240327",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1558172647917240327",
+                                    "inReplyToId": "1511842693663629313",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
