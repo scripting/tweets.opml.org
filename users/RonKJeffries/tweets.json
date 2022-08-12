@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 12:59:44 GMT"
+            "dateModified": "Fri, 12 Aug 2022 13:13:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "A friend shared this link. The end is near. \n<a href=\"https://t.co/XPEOBtSZVc\">[link]</a>",
+                                    "rawText": "A friend shared this link. The end is near. \nhttps://t.co/XPEOBtSZVc",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 13:05:35 GMT",
+                                    "tweetId": "1558077236204298240",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1558077236204298240",
+                                    "tweetUserName": "RonKJeffries"
+                                },
                                 {
                                     "text": "A rich set of links to a diverse set of handy web services. A++ <a href=\"https://t.co/jLLU5uBNpw\">[link]</a>",
                                     "rawText": "A rich set of links to a diverse set of handy web services. A++ https://t.co/jLLU5uBNpw",
