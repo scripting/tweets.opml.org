@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 23:16:06 GMT"
+            "dateModified": "Fri, 12 Aug 2022 06:20:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: How to use function keys on a Chromebook <a href=\"https://t.co/HKbVlqHZok\">[link]</a> https://t.co/YK67klvcA6",
+                                    "rawText": "ICYMI: How to use function keys on a Chromebook https://t.co/HKbVlqHZok https://t.co/YK67klvcA6",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 06:17:01 GMT",
+                                    "tweetId": "1557974418323800070",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1557974418323800070",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
