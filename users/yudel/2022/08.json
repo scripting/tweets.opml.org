@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 04:01:10 GMT"
+            "dateModified": "Fri, 12 Aug 2022 14:51:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Beloved Conservative Relative has suggested that Trump may be getting the Dreyfus treatment by the FBI. How’s your morning going?",
+                                    "rawText": "Beloved Conservative Relative has suggested that Trump may be getting the Dreyfus treatment by the FBI. How’s your morning going?",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 14:47:38 GMT",
+                                    "tweetId": "1558102917575577600",
+                                    "urltweet": "https://twitter.com/yudel/status/1558102917575577600",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
