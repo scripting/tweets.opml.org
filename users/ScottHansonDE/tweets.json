@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 16:30:25 GMT"
+            "dateModified": "Fri, 12 Aug 2022 07:45:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@RealMarkDziak Your own fault for getting promoted 😛",
+                                    "rawText": "@RealMarkDziak Your own fault for getting promoted 😛",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 07:33:19 GMT",
+                                    "tweetId": "1557993618874540032",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1557993618874540032",
+                                    "inReplyToId": "1557993151494819840",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
