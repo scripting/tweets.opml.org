@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 02:23:03 GMT"
+            "dateModified": "Fri, 12 Aug 2022 11:53:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@MeghanEMorris Photos or it never happened. ;)",
+                                    "rawText": "@MeghanEMorris Photos or it never happened. ;)",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 11:43:44 GMT",
+                                    "tweetId": "1558056638090600450",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1558056638090600450",
+                                    "inReplyToId": "1558055148743802883",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "Read the blog post and view the impressive AI-generated images. This code can run on consumer GPU (for 512x512 images).  \n\nWow! <a href=\"https://t.co/G6v5tvPOsy\">[link]</a>",
+                                    "rawText": "Read the blog post and view the impressive AI-generated images. This code can run on consumer GPU (for 512x512 images).  \n\nWow! https://t.co/G6v5tvPOsy",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 11:40:16 GMT",
+                                    "tweetId": "1558055766740705281",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1558055766740705281",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
