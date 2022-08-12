@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 02:16:03 GMT"
+            "dateModified": "Fri, 12 Aug 2022 02:55:51 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "At the end of a good day <a href=\"https://t.co/5awsbcTPAT\">[link]</a>",
+                                    "rawText": "At the end of a good day https://t.co/5awsbcTPAT",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 02:52:56 GMT",
+                                    "tweetId": "1557923058605776897",
+                                    "urltweet": "https://twitter.com/frankm/status/1557923058605776897",
+                                    "tweetUserName": "frankm"
+                                },
                                 {
                                     "text": "I just earned the 'Land of the Free  (Level 42)' badge on @untappd! <a href=\"https://t.co/xr6Oc34Imz\">[link]</a>",
                                     "rawText": "I just earned the 'Land of the Free  (Level 42)' badge on @untappd! https://t.co/xr6Oc34Imz",
