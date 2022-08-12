@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "cluelessnewbie tweets",
+            "dateCreated": "Mon, 13 Dec 2021 20:18:57 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 12 Aug 2022 16:03:00 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Canada",
+                                    "rawText": "Canada",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 16:02:40 GMT",
+                                    "tweetId": "1558121801963692033",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558121801963692033",
+                                    "tweetUserName": "cluelessnewbie"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
