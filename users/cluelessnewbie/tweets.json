@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 16:14:00 GMT"
+            "dateModified": "Fri, 12 Aug 2022 16:15:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "Chattanooga",
+                                    "rawText": "Chattanooga",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 16:14:37 GMT",
+                                    "tweetId": "1558124807748784130",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558124807748784130",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "Copenhagen",
                                     "rawText": "Copenhagen",
