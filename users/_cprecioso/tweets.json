@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 16:27:25 GMT"
+            "dateModified": "Fri, 12 Aug 2022 04:23:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@MiNoSerHector <a href=\"https://t.co/lvln0Fc6pi\">[link]</a>",
+                                    "rawText": "@MiNoSerHector https://t.co/lvln0Fc6pi",
+                                    "type": "tweet",
+                                    "created": "Fri, 12 Aug 2022 04:19:04 GMT",
+                                    "tweetId": "1557944735561547778",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1557944735561547778",
+                                    "inReplyToId": "1557834995175145473",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
