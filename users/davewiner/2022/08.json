@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 20:48:00 GMT"
+            "dateModified": "Sat, 13 Aug 2022 21:23:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@tedchoward Actually that's a product of JSON not having attributes.",
+                                    "rawText": "@tedchoward Actually that's a product of JSON not having attributes.",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 21:22:04 GMT",
+                                    "tweetId": "1558564567525072897",
+                                    "urltweet": "https://twitter.com/davewiner/status/1558564567525072897",
+                                    "inReplyToId": "1558557775998980098",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Sinema took Wall Street money while killing tax on investors. <a href=\"https://t.co/UTYD4c3int\">[link]</a>",
                                     "rawText": "Sinema took Wall Street money while killing tax on investors. https://t.co/UTYD4c3int",
