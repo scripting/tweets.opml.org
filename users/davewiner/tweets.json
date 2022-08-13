@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 01:03:00 GMT"
+            "dateModified": "Sat, 13 Aug 2022 09:02:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Electric Vehicles Are Way, Way More Energy-Efficient Than Internal Combustion Vehicles. <a href=\"https://t.co/Y6PlQhwVML\">[link]</a>",
+                                    "rawText": "Electric Vehicles Are Way, Way More Energy-Efficient Than Internal Combustion Vehicles. https://t.co/Y6PlQhwVML",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 09:01:59 GMT",
+                                    "tweetId": "1558378322433921026",
+                                    "urltweet": "https://twitter.com/davewiner/status/1558378322433921026",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 12",
                             "type": "calendarDay",
