@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 16:41:59 GMT"
+            "dateModified": "Sat, 13 Aug 2022 14:35:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@mfikes If you fix the infix.",
+                                    "rawText": "@mfikes If you fix the infix.",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 14:26:31 GMT",
+                                    "tweetId": "1558459992583262208",
+                                    "urltweet": "https://twitter.com/mal/status/1558459992583262208",
+                                    "inReplyToId": "1558303545920823302",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 12",
                             "type": "calendarDay",
