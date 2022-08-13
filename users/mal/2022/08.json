@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 14:35:08 GMT"
+            "dateModified": "Sat, 13 Aug 2022 19:00:25 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "@jjsaldana you must have lost my email i assume. <a href=\"https://t.co/m7YXPIOGGF\">[link]</a>",
+                                    "rawText": "@jjsaldana you must have lost my email i assume. https://t.co/m7YXPIOGGF",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 18:50:30 GMT",
+                                    "tweetId": "1558526425778442242",
+                                    "urltweet": "https://twitter.com/mal/status/1558526425778442242",
+                                    "inReplyToId": "1558205676962189312",
+                                    "tweetUserName": "mal"
+                                },
                                 {
                                     "text": "@mfikes If you fix the infix.",
                                     "rawText": "@mfikes If you fix the infix.",
