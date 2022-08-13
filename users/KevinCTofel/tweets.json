@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 23:35:10 GMT"
+            "dateModified": "Sat, 13 Aug 2022 17:29:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Saturday snoozin’. #OhNorm <a href=\"https://t.co/pWlaJZlz7P\">[link]</a>",
+                                    "rawText": "Saturday snoozin’. #OhNorm https://t.co/pWlaJZlz7P",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 17:23:05 GMT",
+                                    "tweetId": "1558504427501375488",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1558504427501375488",
+                                    "tweetUserName": "KevinCTofel"
+                                },
+                                {
+                                    "text": "Hopefully, nobody noticed that I changed hosts for <a href=\"https://t.co/hbR3AXM4YP\">[link]</a> two days ago. @linode made it super easy, seamless, and inexpensive! MOAR resources to handle site growth. 💪 https://t.co/uUw8WyhJl4",
+                                    "rawText": "Hopefully, nobody noticed that I changed hosts for https://t.co/hbR3AXM4YP two days ago. @linode made it super easy, seamless, and inexpensive! MOAR resources to handle site growth. 💪 https://t.co/uUw8WyhJl4",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 16:07:26 GMT",
+                                    "tweetId": "1558485388095881216",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1558485388095881216",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 12",
                             "type": "calendarDay",
