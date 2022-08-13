@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 20:58:03 GMT"
+            "dateModified": "Sat, 13 Aug 2022 23:37:13 GMT"
         },
         "body": {
             "subs": [
@@ -86,7 +86,19 @@
                                             "tweetId": "1558490820990353409",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1558490820990353409",
                                             "inReplyToId": "1558490039327358976",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Chili’s strikes again! <a href=\"https://t.co/ww66UZvMvt\">[link]</a> https://t.co/owJRz97xhx",
+                                                    "rawText": "Chili’s strikes again! https://t.co/ww66UZvMvt https://t.co/owJRz97xhx",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 13 Aug 2022 23:34:51 GMT",
+                                                    "tweetId": "1558597985096925185",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1558597985096925185",
+                                                    "inReplyToId": "1558490820990353409",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
