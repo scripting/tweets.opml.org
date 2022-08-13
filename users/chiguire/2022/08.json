@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 16:23:00 GMT"
+            "dateModified": "Sat, 13 Aug 2022 16:36:16 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 13 Aug 2022 16:15:46 GMT",
                                     "tweetId": "1558487484065091584",
                                     "urltweet": "https://twitter.com/chiguire/status/1558487484065091584",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "No es la primera vez que se hace, pero igual siempre lo disfruto <a href=\"https://t.co/5lt8G7HfTi\">[link]</a>",
+                                            "rawText": "No es la primera vez que se hace, pero igual siempre lo disfruto https://t.co/5lt8G7HfTi",
+                                            "type": "tweet",
+                                            "created": "Sat, 13 Aug 2022 16:29:57 GMT",
+                                            "tweetId": "1558491054281728001",
+                                            "urltweet": "https://twitter.com/chiguire/status/1558491054281728001",
+                                            "inReplyToId": "1558487484065091584",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@darokun @mariannedh <a href=\"https://t.co/ANlAvZvDNv\">[link]</a>",
