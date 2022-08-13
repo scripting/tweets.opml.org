@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "SFDoug tweets",
+            "dateCreated": "Mon, 24 Jan 2022 05:09:08 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/SFDoug/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sat, 13 Aug 2022 21:51:21 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "August 2022",
+                    "type": "calendarMonth",
+                    "name": "august2022",
+                    "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "What updated Covid guidelines mean on Doug Levy's COVID-19 Top Stories <a href=\"https://t.co/RfDXW4uCCE\">[link]</a>",
+                                    "rawText": "What updated Covid guidelines mean on Doug Levy's COVID-19 Top Stories https://t.co/RfDXW4uCCE",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 21:45:21 GMT",
+                                    "tweetId": "1558570426779009024",
+                                    "urltweet": "https://twitter.com/SFDoug/status/1558570426779009024",
+                                    "tweetUserName": "SFDoug"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
