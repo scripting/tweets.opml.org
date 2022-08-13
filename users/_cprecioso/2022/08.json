@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 19:44:43 GMT"
+            "dateModified": "Sat, 13 Aug 2022 19:57:59 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Yo ya <a href=\"https://t.co/MPm4VzrCOl\">[link]</a>",
+                                    "rawText": "Yo ya https://t.co/MPm4VzrCOl",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 19:55:24 GMT",
+                                    "tweetId": "1558542759560187904",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1558542759560187904",
+                                    "tweetUserName": "_cprecioso"
+                                },
                                 {
                                     "text": "Estamos viendo Pitch Perfect con @buenapava @rafagarces @Victor_Jager <a href=\"https://t.co/ibhqnRtEOe\">[link]</a>",
                                     "rawText": "Estamos viendo Pitch Perfect con @buenapava @rafagarces @Victor_Jager https://t.co/ibhqnRtEOe",
