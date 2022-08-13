@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 01:22:32 GMT"
+            "dateModified": "Sat, 13 Aug 2022 08:40:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@DirkSchwenk Noy a dog or cat, but please listen/watch and zen out. ;) <a href=\"https://t.co/QbKihNecSJ\">[link]</a>",
+                                    "rawText": "@DirkSchwenk Noy a dog or cat, but please listen/watch and zen out. ;) https://t.co/QbKihNecSJ",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 08:34:42 GMT",
+                                    "tweetId": "1558371453837316102",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1558371453837316102",
+                                    "inReplyToId": "1558085233081188352",
+                                    "tweetUserName": "RonKJeffries"
+                                },
+                                {
+                                    "text": "@stevesi @ade_oshineye JWST comes to mind...",
+                                    "rawText": "@stevesi @ade_oshineye JWST comes to mind...",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 08:30:42 GMT",
+                                    "tweetId": "1558370448475189248",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1558370448475189248",
+                                    "inReplyToId": "1557848673366601728",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 12",
                             "type": "calendarDay",
