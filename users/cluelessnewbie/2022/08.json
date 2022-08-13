@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 15:34:00 GMT"
+            "dateModified": "Sat, 13 Aug 2022 15:39:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Hartford",
+                                    "rawText": "Hartford",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 15:38:47 GMT",
+                                    "tweetId": "1558478177768439809",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558478177768439809",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "Harlem",
                                     "rawText": "Harlem",
