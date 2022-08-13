@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 17:27:00 GMT"
+            "dateModified": "Sat, 13 Aug 2022 17:45:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,51 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "# A blog post in a tweet",
+                                    "rawText": "# A blog post in a tweet",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 17:44:02 GMT",
+                                    "tweetId": "1558509696927014917",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558509696927014917",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "I've been working outside an office for over 30 years, except for a brief period when I had an office at Berkman. Because I had the office, I was able to get an experienced radio team (Lydon and McGrath)",
+                                            "rawText": "I've been working outside an office for over 30 years, except for a brief period when I had an office at Berkman. Because I had the office, I was able to get an experienced radio team (Lydon and McGrath)",
+                                            "type": "tweet",
+                                            "created": "Sat, 13 Aug 2022 17:44:02 GMT",
+                                            "tweetId": "1558509697724026880",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1558509697724026880",
+                                            "inReplyToId": "1558509696927014917",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "to work with me on this idea I had for audio blogging (which became podcasting) and one of my colleagues suggested that blogging would work well with politics, which got the",
+                                                    "rawText": "to work with me on this idea I had for audio blogging (which became podcasting) and one of my colleagues suggested that blogging would work well with politics, which got the",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 13 Aug 2022 17:44:02 GMT",
+                                                    "tweetId": "1558509698550202368",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558509698550202368",
+                                                    "inReplyToId": "1558509697724026880",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "bootstrap of political blogging going just in time for the 2004 presidential election. So -- having an office and using it is good. In my experience, things get created that way that otherwise wouldn't.",
+                                                            "rawText": "bootstrap of political blogging going just in time for the 2004 presidential election. So -- having an office and using it is good. In my experience, things get created that way that otherwise wouldn't.",
+                                                            "type": "tweet",
+                                                            "created": "Sat, 13 Aug 2022 17:44:02 GMT",
+                                                            "tweetId": "1558509699426811905",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1558509699426811905",
+                                                            "inReplyToId": "1558509698550202368",
+                                                            "tweetUserName": "cluelessnewbie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# A short list of baseball teams",
                                     "rawText": "# A short list of baseball teams",
