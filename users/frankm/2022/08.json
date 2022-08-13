@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 02:55:51 GMT"
+            "dateModified": "Sat, 13 Aug 2022 14:44:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "I am reminded that I expected the Mobvoi TicWatch to get WearOS 3 by now, but that has not happened. Google WearOS continues to disappoint. <a href=\"https://t.co/LhDStsf6y8\">[link]</a>",
+                                    "rawText": "I am reminded that I expected the Mobvoi TicWatch to get WearOS 3 by now, but that has not happened. Google WearOS continues to disappoint. https://t.co/LhDStsf6y8",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 14:42:22 GMT",
+                                    "tweetId": "1558463982486409218",
+                                    "urltweet": "https://twitter.com/frankm/status/1558463982486409218",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
