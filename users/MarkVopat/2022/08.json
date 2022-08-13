@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 11 Aug 2022 12:34:25 GMT"
+            "dateModified": "Sat, 13 Aug 2022 01:16:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@RobPlays Excellent choice.",
+                                    "rawText": "@RobPlays Excellent choice.",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 01:09:02 GMT",
+                                    "tweetId": "1558259300295917569",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1558259300295917569",
+                                    "inReplyToId": "1558105194734489600",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 11",
                             "type": "calendarDay",
