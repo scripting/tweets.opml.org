@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 09 Aug 2022 12:53:01 GMT"
+            "dateModified": "Sat, 13 Aug 2022 19:26:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@SteveKingIA Yours is the funniest tweet I  have read all day. Thank you.",
+                                    "rawText": "@SteveKingIA Yours is the funniest tweet I  have read all day. Thank you.",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 19:21:43 GMT",
+                                    "tweetId": "1558534280443297792",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1558534280443297792",
+                                    "inReplyToId": "1558094628267638787",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 9",
                             "type": "calendarDay",
