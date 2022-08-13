@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Sat, 13 Aug 2022 23:12:00 GMT</dateModified>
+		<dateModified>Sat, 13 Aug 2022 23:18:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
 			<outline text="August 13" type="calendarDay" name="13" >
-				<outline text="# The fate of _Slippin Jimmy_" rawText="# The fate of _Slippin Jimmy_" type="tweet" created="Sat, 13 Aug 2022 23:11:35 GMT" tweetId="1558592129953415176" urltweet="https://twitter.com/cluelessnewbie/status/1558592129953415176" inReplyToId="" tweetUserName="cluelessnewbie" >
+				<outline text="# This is a *post* with a title" rawText="# This is a *post* with a title" type="tweet" created="Sat, 13 Aug 2022 23:17:20 GMT" tweetId="1558593578313605121" urltweet="https://twitter.com/cluelessnewbie/status/1558593578313605121" inReplyToId="" tweetUserName="cluelessnewbie" >
+					<outline text="And the title contains Markdown syntax, which is now evaluated for titles too." rawText="And the title contains Markdown syntax, which is now evaluated for titles too." type="tweet" created="Sat, 13 Aug 2022 23:17:21 GMT" tweetId="1558593579047682050" urltweet="https://twitter.com/cluelessnewbie/status/1558593579047682050" inReplyToId="1558593578313605121" tweetUserName="cluelessnewbie" />
+					</outline>
+				<outline text="# The fate of _Slippin Jimmy_" rawText="# The fate of _Slippin Jimmy_" type="tweet" created="Sat, 13 Aug 2022 23:11:35 GMT" tweetId="1558592129953415176" urltweet="https://twitter.com/cluelessnewbie/status/1558592129953415176" tweetUserName="cluelessnewbie" >
 					<outline text="I don't see how Better Call Saul can have a happy ending for anyone." rawText="I don't see how Better Call Saul can have a happy ending for anyone." type="tweet" created="Sat, 13 Aug 2022 23:11:35 GMT" tweetId="1558592130695716865" urltweet="https://twitter.com/cluelessnewbie/status/1558592130695716865" inReplyToId="1558592129953415176" tweetUserName="cluelessnewbie" >
 						<outline text="Almost everyone is already dead, so that rules them out." rawText="Almost everyone is already dead, so that rules them out." type="tweet" created="Sat, 13 Aug 2022 23:11:36 GMT" tweetId="1558592131450683397" urltweet="https://twitter.com/cluelessnewbie/status/1558592131450683397" inReplyToId="1558592130695716865" tweetUserName="cluelessnewbie" >
 							<outline text="Is anything remotely like a happy ending available to Jimmy or Kim?" rawText="Is anything remotely like a happy ending available to Jimmy or Kim?" type="tweet" created="Sat, 13 Aug 2022 23:11:36 GMT" tweetId="1558592132193173506" urltweet="https://twitter.com/cluelessnewbie/status/1558592132193173506" inReplyToId="1558592131450683397" tweetUserName="cluelessnewbie" >
