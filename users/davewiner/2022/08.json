@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 21:23:00 GMT"
+            "dateModified": "Sat, 13 Aug 2022 21:31:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Adam Schiff, Carolyn Maloney ask for security damage assessment on Mar-a-Lago documents. <a href=\"https://t.co/LN3nhIFzPa\">[link]</a>",
+                                    "rawText": "Adam Schiff, Carolyn Maloney ask for security damage assessment on Mar-a-Lago documents. https://t.co/LN3nhIFzPa",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 21:30:23 GMT",
+                                    "tweetId": "1558566659799015424",
+                                    "urltweet": "https://twitter.com/davewiner/status/1558566659799015424",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@tedchoward Actually that's a product of JSON not having attributes.",
                                     "rawText": "@tedchoward Actually that's a product of JSON not having attributes.",
