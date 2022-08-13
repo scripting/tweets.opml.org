@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 02:52:53 GMT"
+            "dateModified": "Sat, 13 Aug 2022 14:35:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: John Carmack: Best programming setup and IDE | Lex Fridman Podcast Clips <a href=\"https://t.co/FwBqhTo5nE\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: John Carmack: Best programming setup and IDE | Lex Fridman Podcast Clips https://t.co/FwBqhTo5nE",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 14:28:34 GMT",
+                                    "tweetId": "1558460507266449408",
+                                    "urltweet": "https://twitter.com/oevl/status/1558460507266449408",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 12",
                             "type": "calendarDay",
