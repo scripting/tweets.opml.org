@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/mal/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Fri, 12 Aug 2022 16:41:59 GMT</dateModified>
+		<dateModified>Sat, 13 Aug 2022 14:35:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
+			<outline text="August 13" type="calendarDay" name="13" >
+				<outline text="@mfikes If you fix the infix." rawText="@mfikes If you fix the infix." type="tweet" created="Sat, 13 Aug 2022 14:26:31 GMT" tweetId="1558459992583262208" urltweet="https://twitter.com/mal/status/1558459992583262208" inReplyToId="1558303545920823302" tweetUserName="mal" />
+				</outline>
 			<outline text="August 12" type="calendarDay" name="12" >
 				<outline text="@ericnormand Idk I get so much more joy from the incomprehensible js created from cljs." rawText="@ericnormand Idk I get so much more joy from the incomprehensible js created from cljs." type="tweet" created="Fri, 12 Aug 2022 16:31:52 GMT" tweetId="1558129149125939200" urltweet="https://twitter.com/mal/status/1558129149125939200" inReplyToId="1558128072624222208" tweetUserName="mal" />
 				</outline>
