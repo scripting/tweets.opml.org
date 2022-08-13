@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 12 Aug 2022 17:29:32 GMT"
+            "dateModified": "Sat, 13 Aug 2022 09:37:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@ds106dc #tdc3866 #ds106 #myFest22  flickr is my junk drawer and the search lets you filter by colours: <a href=\"https://t.co/aDKsbLCamm\">[link]</a>",
+                                    "rawText": "@ds106dc #tdc3866 #ds106 #myFest22  flickr is my junk drawer and the search lets you filter by colours: https://t.co/aDKsbLCamm",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 09:25:10 GMT",
+                                    "tweetId": "1558384156387774464",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1558384156387774464",
+                                    "inReplyToId": "1558380604579651584",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 12",
                             "type": "calendarDay",
