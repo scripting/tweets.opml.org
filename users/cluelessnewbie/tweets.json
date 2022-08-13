@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 23:12:00 GMT"
+            "dateModified": "Sat, 13 Aug 2022 23:18:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "# This is a *post* with a title",
+                                    "rawText": "# This is a *post* with a title",
+                                    "type": "tweet",
+                                    "created": "Sat, 13 Aug 2022 23:17:20 GMT",
+                                    "tweetId": "1558593578313605121",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558593578313605121",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "And the title contains Markdown syntax, which is now evaluated for titles too.",
+                                            "rawText": "And the title contains Markdown syntax, which is now evaluated for titles too.",
+                                            "type": "tweet",
+                                            "created": "Sat, 13 Aug 2022 23:17:21 GMT",
+                                            "tweetId": "1558593579047682050",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1558593579047682050",
+                                            "inReplyToId": "1558593578313605121",
+                                            "tweetUserName": "cluelessnewbie"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# The fate of _Slippin Jimmy_",
                                     "rawText": "# The fate of _Slippin Jimmy_",
