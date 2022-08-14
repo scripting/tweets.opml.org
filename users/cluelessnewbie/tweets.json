@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 15:45:00 GMT"
+            "dateModified": "Sun, 14 Aug 2022 15:47:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "This is a test of a [Markdown](<a href=\"https://t.co/YiBCsulbbk\">[link]</a>) link.",
+                                    "rawText": "This is a test of a [Markdown](https://t.co/YiBCsulbbk) link.",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 15:46:35 GMT",
+                                    "tweetId": "1558842530598424578",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558842530598424578",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "Labrador <a href=\"https://t.co/9pD3zOMtiy\">[link]</a>",
                                     "rawText": "Labrador https://t.co/9pD3zOMtiy",
