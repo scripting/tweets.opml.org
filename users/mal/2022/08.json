@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 19:26:57 GMT"
+            "dateModified": "Sun, 14 Aug 2022 12:41:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@joncoopertweets @davewiner When you add in the cost of reversing an uninhabitable planet and ultimately substituting oil based products when it runs out it’s probably closer to $3,000,000 a galon",
+                                    "rawText": "@joncoopertweets @davewiner When you add in the cost of reversing an uninhabitable planet and ultimately substituting oil based products when it runs out it’s probably closer to $3,000,000 a galon",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 12:34:39 GMT",
+                                    "tweetId": "1558794228037144576",
+                                    "urltweet": "https://twitter.com/mal/status/1558794228037144576",
+                                    "inReplyToId": "1558788251565137923",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 13",
                             "type": "calendarDay",
