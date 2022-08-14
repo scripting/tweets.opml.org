@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 02:06:52 GMT"
+            "dateModified": "Sun, 14 Aug 2022 06:45:25 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: ChromeOS 106 integrates Google Photos Memories on Chromebooks <a href=\"https://t.co/dSThkxmqK2\">[link]</a>",
+                                    "rawText": "ICYMI: ChromeOS 106 integrates Google Photos Memories on Chromebooks https://t.co/dSThkxmqK2",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 06:42:17 GMT",
+                                    "tweetId": "1558705551399321600",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1558705551399321600",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 13",
                             "type": "calendarDay",
