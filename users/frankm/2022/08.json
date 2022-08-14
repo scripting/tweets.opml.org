@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 18:30:08 GMT"
+            "dateModified": "Sun, 14 Aug 2022 14:37:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "A second morning of comfortable temperature, low humidity, and cloudy sky. What a nice break before returning to the normal August heat tomorrow.",
+                                    "rawText": "A second morning of comfortable temperature, low humidity, and cloudy sky. What a nice break before returning to the normal August heat tomorrow.",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 14:31:10 GMT",
+                                    "tweetId": "1558823551037227011",
+                                    "urltweet": "https://twitter.com/frankm/status/1558823551037227011",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 13",
                             "type": "calendarDay",
