@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 14:43:00 GMT"
+            "dateModified": "Sun, 14 Aug 2022 14:52:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "here's a url to something <a href=\"https://t.co/boWEZC4WVi\">[link]</a>",
+                                    "rawText": "here's a url to something https://t.co/boWEZC4WVi",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 14:51:45 GMT",
+                                    "tweetId": "1558828729270509572",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1558828729270509572",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "Kansas",
                                     "rawText": "Kansas",
