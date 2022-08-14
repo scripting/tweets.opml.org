@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 15:18:11 GMT"
+            "dateModified": "Sun, 14 Aug 2022 11:25:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "Stuff happens. <a href=\"https://t.co/toX4GWHkmo\">[link]</a>",
+                                    "rawText": "Stuff happens. https://t.co/toX4GWHkmo",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 11:23:46 GMT",
+                                    "tweetId": "1558776389746118656",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1558776389746118656",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 13",
                             "type": "calendarDay",
