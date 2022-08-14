@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 23:16:00 GMT"
+            "dateModified": "Sun, 14 Aug 2022 00:04:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "I hate when they do long interviews on a game I’m watching.",
+                                    "rawText": "I hate when they do long interviews on a game I’m watching.",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 00:03:07 GMT",
+                                    "tweetId": "1558605098758152194",
+                                    "urltweet": "https://twitter.com/davewiner/status/1558605098758152194",
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I don’t necessarily watch so I want the play by play.",
+                                            "rawText": "I don’t necessarily watch so I want the play by play.",
+                                            "type": "tweet",
+                                            "created": "Sun, 14 Aug 2022 00:03:49 GMT",
+                                            "tweetId": "1558605275455692800",
+                                            "urltweet": "https://twitter.com/davewiner/status/1558605275455692800",
+                                            "inReplyToId": "1558605098758152194",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "How to rewrite a press release: a step-by-step guide. <a href=\"https://t.co/e0ueOMV96a\">[link]</a>",
                                     "rawText": "How to rewrite a press release: a step-by-step guide. https://t.co/e0ueOMV96a",
