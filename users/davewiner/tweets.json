@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 03:27:00 GMT"
+            "dateModified": "Sun, 14 Aug 2022 09:32:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "These Photos Reveal How Special Effects In Movies Are Made On-Set. <a href=\"https://t.co/ZWKogIiBMl\">[link]</a>",
+                                    "rawText": "These Photos Reveal How Special Effects In Movies Are Made On-Set. https://t.co/ZWKogIiBMl",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 09:31:29 GMT",
+                                    "tweetId": "1558748132615376899",
+                                    "urltweet": "https://twitter.com/davewiner/status/1558748132615376899",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 13",
                             "type": "calendarDay",
