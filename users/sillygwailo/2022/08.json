@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 00:03:44 GMT"
+            "dateModified": "Sun, 14 Aug 2022 02:03:07 GMT"
         },
         "body": {
             "subs": [
@@ -106,7 +106,19 @@
                                                     "tweetId": "1558597985096925185",
                                                     "urltweet": "https://twitter.com/sillygwailo/status/1558597985096925185",
                                                     "inReplyToId": "1558490820990353409",
-                                                    "tweetUserName": "sillygwailo"
+                                                    "tweetUserName": "sillygwailo",
+                                                    "subs": [
+                                                        {
+                                                            "text": "Mountains are a sight for sore eyes. <a href=\"https://t.co/Nvs8W49t8B\">[link]</a>",
+                                                            "rawText": "Mountains are a sight for sore eyes. https://t.co/Nvs8W49t8B",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 14 Aug 2022 02:01:13 GMT",
+                                                            "tweetId": "1558634818459430912",
+                                                            "urltweet": "https://twitter.com/sillygwailo/status/1558634818459430912",
+                                                            "inReplyToId": "1558597985096925185",
+                                                            "tweetUserName": "sillygwailo"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
