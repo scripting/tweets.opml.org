@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 20:48:49 GMT"
+            "dateModified": "Sun, 14 Aug 2022 21:02:05 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1558917774155534336",
                                             "urltweet": "https://twitter.com/DevHawk/status/1558917774155534336",
                                             "inReplyToId": "1558897972951166976",
-                                            "tweetUserName": "DevHawk"
+                                            "tweetUserName": "DevHawk",
+                                            "subs": [
+                                                {
+                                                    "text": "<a href=\"https://t.co/mXjNGvbH7U\">[link]</a>",
+                                                    "rawText": "https://t.co/mXjNGvbH7U",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 14 Aug 2022 20:56:59 GMT",
+                                                    "tweetId": "1558920644699504645",
+                                                    "urltweet": "https://twitter.com/DevHawk/status/1558920644699504645",
+                                                    "inReplyToId": "1558917774155534336",
+                                                    "tweetUserName": "DevHawk"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
