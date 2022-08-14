@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 19:29:14 GMT"
+            "dateModified": "Sun, 14 Aug 2022 20:48:49 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 14 Aug 2022 19:26:54 GMT",
                                     "tweetId": "1558897972951166976",
                                     "urltweet": "https://twitter.com/DevHawk/status/1558897972951166976",
-                                    "tweetUserName": "DevHawk"
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/3r6SAAY83Z\">[link]</a>",
+                                            "rawText": "https://t.co/3r6SAAY83Z",
+                                            "type": "tweet",
+                                            "created": "Sun, 14 Aug 2022 20:45:35 GMT",
+                                            "tweetId": "1558917774155534336",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1558917774155534336",
+                                            "inReplyToId": "1558897972951166976",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "SpongeBob the Musical is a truly ridiculous show. Regardless, Issaquah Kidstage is a fantastic production of this ridiculous show.  So glad that Tony has been a part of it.\n\nI am privileged that I often get to hear other people cheer for *my* kids.  Patrick on ice, Tony on stage.",
