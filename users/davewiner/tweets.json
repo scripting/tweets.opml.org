@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 00:04:01 GMT"
+            "dateModified": "Sun, 14 Aug 2022 00:05:01 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1558605275455692800",
                                             "urltweet": "https://twitter.com/davewiner/status/1558605275455692800",
                                             "inReplyToId": "1558605098758152194",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "They’re still doing it.",
+                                                    "rawText": "They’re still doing it.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 14 Aug 2022 00:04:54 GMT",
+                                                    "tweetId": "1558605548735561729",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1558605548735561729",
+                                                    "inReplyToId": "1558605275455692800",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
