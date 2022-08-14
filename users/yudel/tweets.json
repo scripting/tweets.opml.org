@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 02:26:39 GMT"
+            "dateModified": "Sun, 14 Aug 2022 10:24:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,45 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 14",
+                            "type": "calendarDay",
+                            "name": "14",
+                            "subs": [
+                                {
+                                    "text": "@brianlabelle @paulisci @toddpruner Pretty sure I’ve seen a similar sentiment sourced to Babylon a millenium or two earlier.",
+                                    "rawText": "@brianlabelle @paulisci @toddpruner Pretty sure I’ve seen a similar sentiment sourced to Babylon a millenium or two earlier.",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 10:15:35 GMT",
+                                    "tweetId": "1558759230202675200",
+                                    "urltweet": "https://twitter.com/yudel/status/1558759230202675200",
+                                    "inReplyToId": "1558582888534134785",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@avischarf And Likud you can translate?",
+                                    "rawText": "@avischarf And Likud you can translate?",
+                                    "type": "tweet",
+                                    "created": "Sun, 14 Aug 2022 10:12:21 GMT",
+                                    "tweetId": "1558758417459810305",
+                                    "urltweet": "https://twitter.com/yudel/status/1558758417459810305",
+                                    "inReplyToId": "1558756563678109696",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@avischarf And how come there’s no Davka party, speaking of the untranslatable?",
+                                            "rawText": "@avischarf And how come there’s no Davka party, speaking of the untranslatable?",
+                                            "type": "tweet",
+                                            "created": "Sun, 14 Aug 2022 10:13:00 GMT",
+                                            "tweetId": "1558758578239987712",
+                                            "urltweet": "https://twitter.com/yudel/status/1558758578239987712",
+                                            "inReplyToId": "1558758417459810305",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 13",
                             "type": "calendarDay",
