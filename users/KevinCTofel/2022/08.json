@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 16:15:46 GMT"
+            "dateModified": "Mon, 15 Aug 2022 06:24:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "“In the next few days I'll open up a free, experimental service to find out if Twitter can peer with feed reader software like NetNewsWire and Feedly.” 🤔 <a href=\"https://t.co/9OHleCM7uW\">[link]</a>",
+                                    "rawText": "“In the next few days I'll open up a free, experimental service to find out if Twitter can peer with feed reader software like NetNewsWire and Feedly.” 🤔 https://t.co/9OHleCM7uW",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 06:24:28 GMT",
+                                    "tweetId": "1559063457122615297",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1559063457122615297",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
