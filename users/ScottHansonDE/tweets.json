@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 16:47:48 GMT"
+            "dateModified": "Mon, 15 Aug 2022 07:49:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@oaeblog @cherrysberries My wife says it tastes like toothpaste. Our son likes it, but he’s half American. 😃",
+                                    "rawText": "@oaeblog @cherrysberries My wife says it tastes like toothpaste. Our son likes it, but he’s half American. 😃",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 07:44:22 GMT",
+                                    "tweetId": "1559083561612877827",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1559083561612877827",
+                                    "inReplyToId": "1559082167493431296",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
