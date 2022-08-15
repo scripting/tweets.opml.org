@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 13:44:22 GMT"
+            "dateModified": "Mon, 15 Aug 2022 12:52:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Hits meiner Jugend [1/x]:\nThe First Picture Of You [Official video] - The Lotus Eaters (HD/HQ) <a href=\"https://t.co/nUkJ3eBa8W\">[link]</a>",
+                                    "rawText": "Hits meiner Jugend [1/x]:\nThe First Picture Of You [Official video] - The Lotus Eaters (HD/HQ) https://t.co/nUkJ3eBa8W",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 12:51:18 GMT",
+                                    "tweetId": "1559160806041964545",
+                                    "urltweet": "https://twitter.com/Latz/status/1559160806041964545",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
