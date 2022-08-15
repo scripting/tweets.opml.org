@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 20:07:03 GMT"
+            "dateModified": "Mon, 15 Aug 2022 20:20:19 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 15 Aug 2022 20:03:00 GMT",
                                     "tweetId": "1559269447780777987",
                                     "urltweet": "https://twitter.com/KevinCTofel/status/1559269447780777987",
-                                    "tweetUserName": "KevinCTofel"
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Early, early take but so far, this Chromebook at the current $629 sale price seems to be an excellent value. Not as refined as the Dragonfly, but that's to be expected. <a href=\"https://t.co/Y0E0fqMomV\">[link]</a>",
+                                            "rawText": "Early, early take but so far, this Chromebook at the current $629 sale price seems to be an excellent value. Not as refined as the Dragonfly, but that's to be expected. https://t.co/Y0E0fqMomV",
+                                            "type": "tweet",
+                                            "created": "Mon, 15 Aug 2022 20:17:48 GMT",
+                                            "tweetId": "1559273172259717123",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1559273172259717123",
+                                            "inReplyToId": "1559269447780777987",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Leopeva64 Yup, I saw that one yesterday after spending about 2 hours reading through gerrit code. Looks like they're still figuring out the implementation.",
