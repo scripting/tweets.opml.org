@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 13:18:00 GMT"
+            "dateModified": "Mon, 15 Aug 2022 13:22:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,87 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "# Yesterday's Scripting News announcement",
+                                    "rawText": "# Yesterday's Scripting News announcement",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 13:21:53 GMT",
+                                    "tweetId": "1559168501205680130",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559168501205680130",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "In the next few days I'll open up a free, experimental service to find out if Twitter can peer with feed reader software like [NetNewsWire](<a href=\"https://t.co/gDKr0f2F81\">[link]</a>) and [Feedly](https://t.co/OtWBlmGu22).",
+                                            "rawText": "In the next few days I'll open up a free, experimental service to find out if Twitter can peer with feed reader software like [NetNewsWire](https://t.co/gDKr0f2F81) and [Feedly](https://t.co/OtWBlmGu22).",
+                                            "type": "tweet",
+                                            "created": "Mon, 15 Aug 2022 13:21:53 GMT",
+                                            "tweetId": "1559168501931188227",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1559168501931188227",
+                                            "inReplyToId": "1559168501205680130",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "After you log in, our server will periodically read your new tweets and update a public RSS feed, on our server, that mirrors your tweets, so you and others can follow them in any feed reader.",
+                                                    "rawText": "After you log in, our server will periodically read your new tweets and update a public RSS feed, on our server, that mirrors your tweets, so you and others can follow them in any feed reader.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 15 Aug 2022 13:21:53 GMT",
+                                                    "tweetId": "1559168502807896064",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559168502807896064",
+                                                    "inReplyToId": "1559168501931188227",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "One thing that's different from earlier approaches is that tweets can have titles, something that most feed readers like/insist on. And the feeds will be 2022-compliant, using modern techniques for the world we live in today, not the world of twenty years ago.",
+                                                            "rawText": "One thing that's different from earlier approaches is that tweets can have titles, something that most feed readers like/insist on. And the feeds will be 2022-compliant, using modern techniques for the world we live in today, not the world of twenty years ago.",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 15 Aug 2022 13:21:53 GMT",
+                                                            "tweetId": "1559168503684415496",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1559168503684415496",
+                                                            "inReplyToId": "1559168502807896064",
+                                                            "tweetUserName": "cluelessnewbie",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "People keep looking for software to replace Twitter. I don't like that approach because systems with tens of millions of happy users don't get replaced, but they can foster new developments built on their strength and ubiquity. I respect and love Twitter. My software does too.",
+                                                                    "rawText": "People keep looking for software to replace Twitter. I don't like that approach because systems with tens of millions of happy users don't get replaced, but they can foster new developments built on their strength and ubiquity. I respect and love Twitter. My software does too.",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 15 Aug 2022 13:21:54 GMT",
+                                                                    "tweetId": "1559168504644919298",
+                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559168504644919298",
+                                                                    "inReplyToId": "1559168503684415496",
+                                                                    "tweetUserName": "cluelessnewbie",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Come to think of it, Twitter and RSS have a lot in common. Both are roughly contemporary pioneering efforts on which today's social media and news worlds are built.",
+                                                                            "rawText": "Come to think of it, Twitter and RSS have a lot in common. Both are roughly contemporary pioneering efforts on which today's social media and news worlds are built.",
+                                                                            "type": "tweet",
+                                                                            "created": "Mon, 15 Aug 2022 13:21:54 GMT",
+                                                                            "tweetId": "1559168505466978305",
+                                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1559168505466978305",
+                                                                            "inReplyToId": "1559168504644919298",
+                                                                            "tweetUserName": "cluelessnewbie",
+                                                                            "subs": [
+                                                                                {
+                                                                                    "text": "Both are a bit worse for wear and tear, to quote the Rolling Stones. But they're still here! We'll make love. Twitter and RSS all the way.",
+                                                                                    "rawText": "Both are a bit worse for wear and tear, to quote the Rolling Stones. But they're still here! We'll make love. Twitter and RSS all the way.",
+                                                                                    "type": "tweet",
+                                                                                    "created": "Mon, 15 Aug 2022 13:21:54 GMT",
+                                                                                    "tweetId": "1559168506523922435",
+                                                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559168506523922435",
+                                                                                    "inReplyToId": "1559168505466978305",
+                                                                                    "tweetUserName": "cluelessnewbie"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Mexico",
                                     "rawText": "Mexico",
