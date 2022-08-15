@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 19:12:01 GMT"
+            "dateModified": "Mon, 15 Aug 2022 19:16:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "I have to see if [something](<a href=\"https://t.co/q5hXVrXtQo\">[link]</a>) is broken.",
+                                    "rawText": "I have to see if [something](https://t.co/q5hXVrXtQo) is broken.",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 19:15:05 GMT",
+                                    "tweetId": "1559257386824699907",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559257386824699907",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "Marseilles",
                                     "rawText": "Marseilles",
