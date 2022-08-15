@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 15:15:00 GMT"
+            "dateModified": "Mon, 15 Aug 2022 19:53:32 GMT"
         },
         "body": {
             "subs": [
@@ -544,7 +544,19 @@
                                     "created": "Tue, 09 Aug 2022 14:08:40 GMT",
                                     "tweetId": "1557005946651660288",
                                     "urltweet": "https://twitter.com/chiguire/status/1557005946651660288",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "#ElTelefonitoGameJam <a href=\"https://t.co/dCHwzRgSaM\">[link]</a>",
+                                            "rawText": "#ElTelefonitoGameJam https://t.co/dCHwzRgSaM",
+                                            "type": "tweet",
+                                            "created": "Mon, 15 Aug 2022 19:44:17 GMT",
+                                            "tweetId": "1559264735509495811",
+                                            "urltweet": "https://twitter.com/chiguire/status/1559264735509495811",
+                                            "inReplyToId": "1557005946651660288",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@MiliberMancilla M de Mañana",
