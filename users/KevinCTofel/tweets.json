@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 11:29:45 GMT"
+            "dateModified": "Mon, 15 Aug 2022 12:09:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "@Leopeva64 Yup, I saw that one yesterday after spending about 2 hours reading through gerrit code. Looks like they're still figuring out the implementation.",
+                                    "rawText": "@Leopeva64 Yup, I saw that one yesterday after spending about 2 hours reading through gerrit code. Looks like they're still figuring out the implementation.",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 11:57:22 GMT",
+                                    "tweetId": "1559147232187875329",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1559147232187875329",
+                                    "inReplyToId": "1559145163271831559",
+                                    "tweetUserName": "KevinCTofel"
+                                },
                                 {
                                     "text": "@Leopeva64 Thanks, I hadn’t seen that, nor the details in the code that I shared in my post. If I had, I probably would have written it up back then.",
                                     "rawText": "@Leopeva64 Thanks, I hadn’t seen that, nor the details in the code that I shared in my post. If I had, I probably would have written it up back then.",
