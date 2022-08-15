@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 22:39:00 GMT"
+            "dateModified": "Mon, 15 Aug 2022 22:43:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,51 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "# All the baseball teams you need",
+                                    "rawText": "# All the baseball teams you need",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 22:42:51 GMT",
+                                    "tweetId": "1559309672322056194",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559309672322056194",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "1. Cubbies (so the Mets have someone to beat in the regular season).",
+                                            "rawText": "1. Cubbies (so the Mets have someone to beat in the regular season).",
+                                            "type": "tweet",
+                                            "created": "Mon, 15 Aug 2022 22:42:51 GMT",
+                                            "tweetId": "1559309673118965763",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1559309673118965763",
+                                            "inReplyToId": "1559309672322056194",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "2. Red Sox (so the Mets have someone to beat in the post-season).",
+                                                    "rawText": "2. Red Sox (so the Mets have someone to beat in the post-season).",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 15 Aug 2022 22:42:51 GMT",
+                                                    "tweetId": "1559309673848836098",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559309673848836098",
+                                                    "inReplyToId": "1559309673118965763",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "3. And of course the Mets themselves! :smile:",
+                                                            "rawText": "3. And of course the Mets themselves! :smile:",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 15 Aug 2022 22:42:51 GMT",
+                                                            "tweetId": "1559309674641592322",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1559309674641592322",
+                                                            "inReplyToId": "1559309673848836098",
+                                                            "tweetUserName": "cluelessnewbie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# this mofo has a title",
                                     "rawText": "# this mofo has a title",
