@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 02:19:10 GMT"
+            "dateModified": "Mon, 15 Aug 2022 17:34:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@MTakeshisan @cstross Advice for your future self: I recently confirmed that the book holds up on rereading after 15 years or so.",
+                                    "rawText": "@MTakeshisan @cstross Advice for your future self: I recently confirmed that the book holds up on rereading after 15 years or so.",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 17:24:52 GMT",
+                                    "tweetId": "1559229651741966344",
+                                    "urltweet": "https://twitter.com/yudel/status/1559229651741966344",
+                                    "inReplyToId": "1559219365798608899",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
