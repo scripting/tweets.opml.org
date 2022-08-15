@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 23:19:58 GMT"
+            "dateModified": "Mon, 15 Aug 2022 07:30:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@mjg59 @Foone Some people do not grok law",
+                                    "rawText": "@mjg59 @Foone Some people do not grok law",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 07:18:50 GMT",
+                                    "tweetId": "1559077136295776257",
+                                    "urltweet": "https://twitter.com/chiguire/status/1559077136295776257",
+                                    "inReplyToId": "1559074560451825664",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
