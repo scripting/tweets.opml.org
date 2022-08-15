@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 23:09:28 GMT"
+            "dateModified": "Mon, 15 Aug 2022 08:00:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@paweradegf Ew",
+                                    "rawText": "@paweradegf Ew",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 07:56:42 GMT",
+                                    "tweetId": "1559086665599275008",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1559086665599275008",
+                                    "inReplyToId": "1559023801022693376",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
