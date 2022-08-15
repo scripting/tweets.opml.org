@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 02:43:42 GMT"
+            "dateModified": "Mon, 15 Aug 2022 08:32:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "John Naughton: Exclusive or not, this is one Clubhouse I was happy to leave. <a href=\"https://t.co/VAoErPnYbn\">[link]</a>",
+                                    "rawText": "John Naughton: Exclusive or not, this is one Clubhouse I was happy to leave. https://t.co/VAoErPnYbn",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 08:31:20 GMT",
+                                    "tweetId": "1559095384647114753",
+                                    "urltweet": "https://twitter.com/davewiner/status/1559095384647114753",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
