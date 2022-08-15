@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 21:13:20 GMT"
+            "dateModified": "Mon, 15 Aug 2022 07:10:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@howard_nt I have, thanks, quiet. And of course too short;-) Hope you are well",
+                                    "rawText": "@howard_nt I have, thanks, quiet. And of course too short;-) Hope you are well",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 07:06:08 GMT",
+                                    "tweetId": "1559073942995886080",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1559073942995886080",
+                                    "inReplyToId": "1558925636181397506",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
