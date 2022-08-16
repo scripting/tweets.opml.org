@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 19:16:30 GMT"
+            "dateModified": "Tue, 16 Aug 2022 11:11:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@YerayVaro A mi me quedan genial 😡",
+                                    "rawText": "@YerayVaro A mi me quedan genial 😡",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 11:11:15 GMT",
+                                    "tweetId": "1559498015672500230",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1559498015672500230",
+                                    "inReplyToId": "1559497685845123073",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
