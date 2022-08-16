@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 13 Aug 2022 19:26:42 GMT"
+            "dateModified": "Tue, 16 Aug 2022 00:03:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@DrOz please, please make all this happen.  \nthese issues alone are worth voting for. 👍 <a href=\"https://t.co/vQ6J1Xgo7C\">[link]</a>",
+                                    "rawText": "@DrOz please, please make all this happen.  \nthese issues alone are worth voting for. 👍 https://t.co/vQ6J1Xgo7C",
+                                    "type": "tweet",
+                                    "created": "Mon, 15 Aug 2022 23:55:13 GMT",
+                                    "tweetId": "1559327885688700931",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1559327885688700931",
+                                    "inReplyToId": "1559241511170183169",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 13",
                             "type": "calendarDay",
