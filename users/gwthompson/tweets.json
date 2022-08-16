@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gwthompson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 04:21:50 GMT"
+            "dateModified": "Tue, 16 Aug 2022 15:25:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "This is a test of using Drummer to send tweets!",
+                                    "rawText": "This is a test of using Drummer to send tweets!",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 15:24:35 GMT",
+                                    "tweetId": "1559561766702546945",
+                                    "urltweet": "https://twitter.com/gwthompson/status/1559561766702546945",
+                                    "tweetUserName": "gwthompson"
+                                },
                                 {
                                     "text": "Wordle 423 6/6\n\n⬛⬛⬛🟩🟨\n⬛⬛⬛🟨⬛\n⬛🟨🟩🟩⬛\n⬛🟨🟩🟩🟨\n⬛🟩🟩🟩🟩\n🟩🟩🟩🟩🟩",
                                     "rawText": "Wordle 423 6/6\n\n⬛⬛⬛🟩🟨\n⬛⬛⬛🟨⬛\n⬛🟨🟩🟩⬛\n⬛🟨🟩🟩🟨\n⬛🟩🟩🟩🟩\n🟩🟩🟩🟩🟩",
