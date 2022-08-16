@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 21:30:08 GMT"
+            "dateModified": "Tue, 16 Aug 2022 09:13:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@RemSivir @TrolliTheEagle @changierend Raumschiffe erzeugen keinen Auftrieb mit Flügeln, sondern sie schweben im Weltraum, weil ihr spezifisches Gewicht Null ist.\nEs sind also Schiffe.\n[2/2]",
+                                    "rawText": "@RemSivir @TrolliTheEagle @changierend Raumschiffe erzeugen keinen Auftrieb mit Flügeln, sondern sie schweben im Weltraum, weil ihr spezifisches Gewicht Null ist.\nEs sind also Schiffe.\n[2/2]",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 09:10:38 GMT",
+                                    "tweetId": "1559467660836048898",
+                                    "urltweet": "https://twitter.com/Latz/status/1559467660836048898",
+                                    "inReplyToId": "1559465276739125254",
+                                    "tweetUserName": "Latz"
+                                },
+                                {
+                                    "text": "@RemSivir @TrolliTheEagle @changierend Flugzeuge fliegen, weil sie mit den Flügeln Auftrieb erzeugen, Luftschiffe, weil ihr spezifisches Gewicht geringer ist als das der Umgebung. Schiffe schwimmen aus demselben Grund.\n[1/2]",
+                                    "rawText": "@RemSivir @TrolliTheEagle @changierend Flugzeuge fliegen, weil sie mit den Flügeln Auftrieb erzeugen, Luftschiffe, weil ihr spezifisches Gewicht geringer ist als das der Umgebung. Schiffe schwimmen aus demselben Grund.\n[1/2]",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 09:09:50 GMT",
+                                    "tweetId": "1559467460692250626",
+                                    "urltweet": "https://twitter.com/Latz/status/1559467460692250626",
+                                    "inReplyToId": "1559465276739125254",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
