@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 03:15:16 GMT"
+            "dateModified": "Tue, 16 Aug 2022 18:30:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nSerendipity\n\nEarly on in the development of the blobs (previous thread), things were wonky, but the debugging marks looked kinda cool, so circling back to run with that,\nadding a little texture, etc.\n\n#XQuery #SVG <a href=\"https://t.co/xMI4OR2ket\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nSerendipity\n\nEarly on in the development of the blobs (previous thread), things were wonky, but the debugging marks looked kinda cool, so circling back to run with that,\nadding a little texture, etc.\n\n#XQuery #SVG https://t.co/xMI4OR2ket",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 18:24:10 GMT",
+                                    "tweetId": "1559606960147685376",
+                                    "urltweet": "https://twitter.com/mathling/status/1559606960147685376",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Art: where bugs are opportunities <a href=\"https://t.co/tEhfpLrTQ9\">[link]</a>",
+                                            "rawText": "Art: where bugs are opportunities https://t.co/tEhfpLrTQ9",
+                                            "type": "tweet",
+                                            "created": "Tue, 16 Aug 2022 18:24:11 GMT",
+                                            "tweetId": "1559606966485340160",
+                                            "urltweet": "https://twitter.com/mathling/status/1559606966485340160",
+                                            "inReplyToId": "1559606960147685376",
+                                            "tweetUserName": "mathling"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
