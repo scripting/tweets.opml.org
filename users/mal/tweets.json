@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 12:41:33 GMT"
+            "dateModified": "Tue, 16 Aug 2022 14:12:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@Ana__George You have a cat? Maybe toxoplasmosis?",
+                                    "rawText": "@Ana__George You have a cat? Maybe toxoplasmosis?",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 13:59:27 GMT",
+                                    "tweetId": "1559540344462516231",
+                                    "urltweet": "https://twitter.com/mal/status/1559540344462516231",
+                                    "inReplyToId": "1558983488036028418",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
