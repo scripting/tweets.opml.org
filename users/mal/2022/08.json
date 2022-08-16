@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 14:12:43 GMT"
+            "dateModified": "Tue, 16 Aug 2022 22:23:29 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "@ericnormand what is @borkdude doing? looks interesting <a href=\"https://t.co/v8igzWxi2m\">[link]</a>",
+                                    "rawText": "@ericnormand what is @borkdude doing? looks interesting https://t.co/v8igzWxi2m",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 22:11:43 GMT",
+                                    "tweetId": "1559664228344090624",
+                                    "urltweet": "https://twitter.com/mal/status/1559664228344090624",
+                                    "inReplyToId": "1558128072624222208",
+                                    "tweetUserName": "mal"
+                                },
                                 {
                                     "text": "@Ana__George You have a cat? Maybe toxoplasmosis?",
                                     "rawText": "@Ana__George You have a cat? Maybe toxoplasmosis?",
