@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 22:45:58 GMT"
+            "dateModified": "Tue, 16 Aug 2022 14:27:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@getur Novio tóxico",
+                                    "rawText": "@getur Novio tóxico",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 14:24:34 GMT",
+                                    "tweetId": "1559546663471140864",
+                                    "urltweet": "https://twitter.com/chiguire/status/1559546663471140864",
+                                    "inReplyToId": "1559543999353978880",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
