@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 14:27:44 GMT"
+            "dateModified": "Tue, 16 Aug 2022 15:47:19 GMT"
         },
         "body": {
             "subs": [
@@ -315,7 +315,19 @@
                                     "tweetId": "1558089338122129408",
                                     "urltweet": "https://twitter.com/chiguire/status/1558089338122129408",
                                     "inReplyToId": "1552402119583563782",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "#earworm <a href=\"https://t.co/HaOz9HVUEQ\">[link]</a>",
+                                            "rawText": "#earworm https://t.co/HaOz9HVUEQ",
+                                            "type": "tweet",
+                                            "created": "Tue, 16 Aug 2022 15:39:06 GMT",
+                                            "tweetId": "1559565421065420801",
+                                            "urltweet": "https://twitter.com/chiguire/status/1559565421065420801",
+                                            "inReplyToId": "1558089338122129408",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@mz_leonor_hyde vale la pena siempre",
