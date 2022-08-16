@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 16:15:04 GMT"
+            "dateModified": "Tue, 16 Aug 2022 19:39:49 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "i am a thorn with no roses.",
+                                    "rawText": "i am a thorn with no roses.",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 19:34:35 GMT",
+                                    "tweetId": "1559624681627553792",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1559624681627553792",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
