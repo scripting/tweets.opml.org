@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 01:37:24 GMT"
+            "dateModified": "Tue, 16 Aug 2022 04:29:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Kelly Slater's New 'Twin + 2' ENDORFINS Fin Set <a href=\"https://t.co/Ecq9NYZszc\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Kelly Slater's New 'Twin + 2' ENDORFINS Fin Set https://t.co/Ecq9NYZszc",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 04:28:07 GMT",
+                                    "tweetId": "1559396564338180099",
+                                    "urltweet": "https://twitter.com/oevl/status/1559396564338180099",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
