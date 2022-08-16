@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 02:51:00 GMT"
+            "dateModified": "Tue, 16 Aug 2022 09:09:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Gas for less than $4 a gallon is now common. Sub-$3 gas could be next. <a href=\"https://t.co/HEQXP3XW66\">[link]</a>",
+                                    "rawText": "Gas for less than $4 a gallon is now common. Sub-$3 gas could be next. https://t.co/HEQXP3XW66",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 09:08:17 GMT",
+                                    "tweetId": "1559467068382187520",
+                                    "urltweet": "https://twitter.com/davewiner/status/1559467068382187520",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
