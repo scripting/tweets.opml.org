@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 20:56:55 GMT"
+            "dateModified": "Tue, 16 Aug 2022 19:58:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "If there is one byline never to be missed it’s @KatherineEban. Yowza! <a href=\"https://t.co/kmLmI65GHF\">[link]</a> https://t.co/dIzOP7h4TW",
+                                    "rawText": "If there is one byline never to be missed it’s @KatherineEban. Yowza! https://t.co/kmLmI65GHF https://t.co/dIzOP7h4TW",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 19:51:35 GMT",
+                                    "tweetId": "1559628961633673218",
+                                    "urltweet": "https://twitter.com/miljko/status/1559628961633673218",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
