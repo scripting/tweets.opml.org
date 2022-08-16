@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 16:29:52 GMT"
+            "dateModified": "Tue, 16 Aug 2022 21:21:40 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "16",
                             "subs": [
+                                {
+                                    "text": "esto y siempre gano <a href=\"https://t.co/Lsg3zZIzGE\">[link]</a>",
+                                    "rawText": "esto y siempre gano https://t.co/Lsg3zZIzGE",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 21:16:48 GMT",
+                                    "tweetId": "1559650408427044864",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1559650408427044864",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "@NewTin nos peleamos?",
+                                            "rawText": "@NewTin nos peleamos?",
+                                            "type": "tweet",
+                                            "created": "Tue, 16 Aug 2022 21:16:49 GMT",
+                                            "tweetId": "1559650412021547009",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1559650412021547009",
+                                            "inReplyToId": "1559650408427044864",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Estoy en el festival like “ellos no saben que hemos ido a Braga a comprar chubasqueros con Santa Justa Klan soñando en el coche”",
                                     "rawText": "Estoy en el festival like “ellos no saben que hemos ido a Braga a comprar chubasqueros con Santa Justa Klan soñando en el coche”",
