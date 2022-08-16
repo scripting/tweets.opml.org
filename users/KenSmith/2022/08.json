@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 00:58:20 GMT"
+            "dateModified": "Tue, 16 Aug 2022 03:43:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,43 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "The idea that students can skip the empty exercises and start doing real work that has a chance to matter in the world. Why wait so long? Why wait any longer? <a href=\"https://t.co/Hws4CVgqKw\">[link]</a>",
+                                    "rawText": "The idea that students can skip the empty exercises and start doing real work that has a chance to matter in the world. Why wait so long? Why wait any longer? https://t.co/Hws4CVgqKw",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 03:41:23 GMT",
+                                    "tweetId": "1559384803979444224",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1559384803979444224",
+                                    "tweetUserName": "KenSmith"
+                                },
+                                {
+                                    "text": "\"Runs on sunlight and rain\" -- Recent tweet threads from James Rebanks, @HerdyShepherd1, share the good news about nature's ability to generate and regenerate, if only we spot the patterns and act accordingly. <a href=\"https://t.co/9zzVP28dXX\">[link]</a>",
+                                    "rawText": "\"Runs on sunlight and rain\" -- Recent tweet threads from James Rebanks, @HerdyShepherd1, share the good news about nature's ability to generate and regenerate, if only we spot the patterns and act accordingly. https://t.co/9zzVP28dXX",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 03:33:16 GMT",
+                                    "tweetId": "1559382761286295555",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1559382761286295555",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "@herdyshepherd1 People too generate and regenerate the good things about their lives, given enough resources, given a chance -- as above, \"if only we spot the patterns and act accordingly.\"",
+                                            "rawText": "@herdyshepherd1 People too generate and regenerate the good things about their lives, given enough resources, given a chance -- as above, \"if only we spot the patterns and act accordingly.\"",
+                                            "type": "tweet",
+                                            "created": "Tue, 16 Aug 2022 03:34:41 GMT",
+                                            "tweetId": "1559383117399474177",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1559383117399474177",
+                                            "inReplyToId": "1559382761286295555",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
