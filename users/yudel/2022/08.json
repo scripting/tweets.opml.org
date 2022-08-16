@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 03:18:01 GMT"
+            "dateModified": "Tue, 16 Aug 2022 04:37:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,45 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@3662brendon @trekonomics To be fair, Cliffside Park might only have Turkish supermarkets, if a quick Yelp search is to be believed.",
+                                    "rawText": "@3662brendon @trekonomics To be fair, Cliffside Park might only have Turkish supermarkets, if a quick Yelp search is to be believed.",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 04:34:41 GMT",
+                                    "tweetId": "1559398216889765888",
+                                    "urltweet": "https://twitter.com/yudel/status/1559398216889765888",
+                                    "inReplyToId": "1559390804040249344",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@3662brendon @trekonomics <a href=\"https://t.co/7ErCS5Dbol\">[link]</a>",
+                                            "rawText": "@3662brendon @trekonomics https://t.co/7ErCS5Dbol",
+                                            "type": "tweet",
+                                            "created": "Tue, 16 Aug 2022 04:35:32 GMT",
+                                            "tweetId": "1559398429725433856",
+                                            "urltweet": "https://twitter.com/yudel/status/1559398429725433856",
+                                            "inReplyToId": "1559398216889765888",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@trekonomics As a Turkish person with more than a touch of New Jersey, Dr Oz would like to remind you of the old Ottoman proverb: Revenge is a dish best served very cold. And with guacamole and tequila.",
+                                    "rawText": "@trekonomics As a Turkish person with more than a touch of New Jersey, Dr Oz would like to remind you of the old Ottoman proverb: Revenge is a dish best served very cold. And with guacamole and tequila.",
+                                    "type": "tweet",
+                                    "created": "Tue, 16 Aug 2022 04:33:36 GMT",
+                                    "tweetId": "1559397944742248448",
+                                    "urltweet": "https://twitter.com/yudel/status/1559397944742248448",
+                                    "inReplyToId": "1559389188176236550",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
