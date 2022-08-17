@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 02:53:00 GMT"
+            "dateModified": "Wed, 17 Aug 2022 01:35:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,58 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "# Three baseball teams",
+                                    "rawText": "# Three baseball teams",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 01:35:19 GMT",
+                                    "tweetId": "1559715463625691137",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559715463625691137",
+                                    "tweetUserName": "cluelessnewbie",
+                                    "subs": [
+                                        {
+                                            "text": "1. Cubs",
+                                            "rawText": "1. Cubs",
+                                            "type": "tweet",
+                                            "created": "Wed, 17 Aug 2022 01:35:19 GMT",
+                                            "tweetId": "1559715464468742146",
+                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1559715464468742146",
+                                            "inReplyToId": "1559715463625691137",
+                                            "tweetUserName": "cluelessnewbie",
+                                            "subs": [
+                                                {
+                                                    "text": "2. Red Sox",
+                                                    "rawText": "2. Red Sox",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 17 Aug 2022 01:35:19 GMT",
+                                                    "tweetId": "1559715465160802306",
+                                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1559715465160802306",
+                                                    "inReplyToId": "1559715464468742146",
+                                                    "tweetUserName": "cluelessnewbie",
+                                                    "subs": [
+                                                        {
+                                                            "text": "3. Mets",
+                                                            "rawText": "3. Mets",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 17 Aug 2022 01:35:19 GMT",
+                                                            "tweetId": "1559715465991168004",
+                                                            "urltweet": "https://twitter.com/cluelessnewbie/status/1559715465991168004",
+                                                            "inReplyToId": "1559715465160802306",
+                                                            "tweetUserName": "cluelessnewbie"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
