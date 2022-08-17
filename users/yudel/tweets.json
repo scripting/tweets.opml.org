@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 04:03:36 GMT"
+            "dateModified": "Wed, 17 Aug 2022 04:16:52 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "Really don’t know why kids should learn geography, given that it’s all going to be rearranged in the next hundred million years. <a href=\"https://t.co/0H7Fyigpyi\">[link]</a>",
+                                    "rawText": "Really don’t know why kids should learn geography, given that it’s all going to be rearranged in the next hundred million years. https://t.co/0H7Fyigpyi",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 04:16:35 GMT",
+                                    "tweetId": "1559756048096976896",
+                                    "urltweet": "https://twitter.com/yudel/status/1559756048096976896",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 16",
                             "type": "calendarDay",
