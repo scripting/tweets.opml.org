@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 09:13:09 GMT"
+            "dateModified": "Wed, 17 Aug 2022 12:37:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@davewiner TT-RSS",
+                                    "rawText": "@davewiner TT-RSS",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 12:28:34 GMT",
+                                    "tweetId": "1559879861413502976",
+                                    "urltweet": "https://twitter.com/Latz/status/1559879861413502976",
+                                    "inReplyToId": "1559879683776331776",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 16",
                             "type": "calendarDay",
