@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 12:04:01 GMT"
+            "dateModified": "Wed, 17 Aug 2022 12:25:39 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "An example of using Markdown in Twitter. <a href=\"https://t.co/RvY2djdwlA\">[link]</a>",
+                                    "rawText": "An example of using Markdown in Twitter. https://t.co/RvY2djdwlA",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 12:25:30 GMT",
+                                    "tweetId": "1559879088436875269",
+                                    "urltweet": "https://twitter.com/davewiner/status/1559879088436875269",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Reading people’s notes from yesterday’s “tools for thought conference” in nyc. Someday we may have conferences with actual product creators sharing what they know and want to know, making their products work better for users.",
                                     "rawText": "Reading people’s notes from yesterday’s “tools for thought conference” in nyc. Someday we may have conferences with actual product creators sharing what they know and want to know, making their products work better for users.",
