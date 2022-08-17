@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 21:58:43 GMT"
+            "dateModified": "Wed, 17 Aug 2022 12:34:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@saimards No exactamente con Stephen <a href=\"https://t.co/bYNQX1Yitx\">[link]</a>",
+                                    "rawText": "@saimards No exactamente con Stephen https://t.co/bYNQX1Yitx",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 12:30:14 GMT",
+                                    "tweetId": "1559880281485676544",
+                                    "urltweet": "https://twitter.com/chiguire/status/1559880281485676544",
+                                    "inReplyToId": "1559879989037862914",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 16",
                             "type": "calendarDay",
