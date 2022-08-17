@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 13:55:11 GMT"
+            "dateModified": "Wed, 17 Aug 2022 14:01:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/OA1y2UcFX1\">[link]</a> Stories via @ArmandoBayolo @Boosey @tedthetrumpet",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/OA1y2UcFX1 Stories via @ArmandoBayolo @Boosey @tedthetrumpet",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 13:47:48 GMT",
+                                    "tweetId": "1559899801227067395",
+                                    "urltweet": "https://twitter.com/aworks/status/1559899801227067395",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 16",
                             "type": "calendarDay",
