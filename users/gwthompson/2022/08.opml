@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/gwthompson/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Tue, 16 Aug 2022 15:25:02 GMT</dateModified>
+		<dateModified>Wed, 17 Aug 2022 00:15:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
 			<outline text="August 16" type="calendarDay" name="16" >
-				<outline text="This is a test of using Drummer to send tweets!" rawText="This is a test of using Drummer to send tweets!" type="tweet" created="Tue, 16 Aug 2022 15:24:35 GMT" tweetId="1559561766702546945" urltweet="https://twitter.com/gwthompson/status/1559561766702546945" inReplyToId="" tweetUserName="gwthompson" />
+				<outline text="# This is going to be interesting" rawText="# This is going to be interesting" type="tweet" created="Wed, 17 Aug 2022 00:06:15 GMT" tweetId="1559693048304607232" urltweet="https://twitter.com/gwthompson/status/1559693048304607232" inReplyToId="" tweetUserName="gwthompson" >
+					<outline text="Exploring Drummer and Twitter more!" rawText="Exploring Drummer and Twitter more!" type="tweet" created="Wed, 17 Aug 2022 00:06:15 GMT" tweetId="1559693049097338880" urltweet="https://twitter.com/gwthompson/status/1559693049097338880" inReplyToId="1559693048304607232" tweetUserName="gwthompson" />
+					</outline>
+				<outline text="This is a test of using Drummer to send tweets!" rawText="This is a test of using Drummer to send tweets!" type="tweet" created="Tue, 16 Aug 2022 15:24:35 GMT" tweetId="1559561766702546945" urltweet="https://twitter.com/gwthompson/status/1559561766702546945" tweetUserName="gwthompson" />
 				<outline text="Wordle 423 6/6
 
 ⬛⬛⬛🟩🟨
