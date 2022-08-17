@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/gwthompson/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Wed, 17 Aug 2022 04:14:22 GMT</dateModified>
+		<dateModified>Wed, 17 Aug 2022 19:29:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
 			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="# This is a markdown test" rawText="# This is a markdown test" type="tweet" created="Wed, 17 Aug 2022 19:28:50 GMT" tweetId="1559985625025093633" urltweet="https://twitter.com/gwthompson/status/1559985625025093633" inReplyToId="" tweetUserName="gwthompson" >
+					<outline text="![My favorite dino!](&lt;a href=&quot;https://t.co/Bc1l9YDI6E&quot;&gt;[link]&lt;/a&gt; &quot;Dino&quot;)" rawText="![My favorite dino!](https://t.co/Bc1l9YDI6E &quot;Dino&quot;)" type="tweet" created="Wed, 17 Aug 2022 19:28:50 GMT" tweetId="1559985625880825856" urltweet="https://twitter.com/gwthompson/status/1559985625880825856" inReplyToId="1559985625025093633" tweetUserName="gwthompson" />
+					</outline>
 				<outline text="Wordle 424 5/6
 
 ⬛⬛🟩🟨⬛
@@ -23,7 +26,7 @@
 ⬛🟨⬛⬛⬛
 ⬛⬛🟩🟨🟩
 🟩⬛🟩🟨⬛
-🟩🟩🟩🟩🟩" type="tweet" created="Wed, 17 Aug 2022 04:09:36 GMT" tweetId="1559754289739874306" urltweet="https://twitter.com/gwthompson/status/1559754289739874306" inReplyToId="" tweetUserName="gwthompson" />
+🟩🟩🟩🟩🟩" type="tweet" created="Wed, 17 Aug 2022 04:09:36 GMT" tweetId="1559754289739874306" urltweet="https://twitter.com/gwthompson/status/1559754289739874306" tweetUserName="gwthompson" />
 				</outline>
 			<outline text="August 16" type="calendarDay" name="16" >
 				<outline text="# This is going to be interesting" rawText="# This is going to be interesting" type="tweet" created="Wed, 17 Aug 2022 00:06:15 GMT" tweetId="1559693048304607232" urltweet="https://twitter.com/gwthompson/status/1559693048304607232" tweetUserName="gwthompson" >
