@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 16:14:24 GMT"
+            "dateModified": "Wed, 17 Aug 2022 17:20:43 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1559935350406950913",
                                     "urltweet": "https://twitter.com/DevHawk/status/1559935350406950913",
                                     "inReplyToId": "1559904514974547972",
-                                    "tweetUserName": "DevHawk"
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "@GrantShares @Neo_Blockchain @coz_official @NEOnewstoday @NeoResearch_NEO @ax_labs @rendongliu @NE0NEXT @neospcc @Red4Sec @john_devadoss @gsmachado I was able to join and listen after all :)",
+                                            "rawText": "@GrantShares @Neo_Blockchain @coz_official @NEOnewstoday @NeoResearch_NEO @ax_labs @rendongliu @NE0NEXT @neospcc @Red4Sec @john_devadoss @gsmachado I was able to join and listen after all :)",
+                                            "type": "tweet",
+                                            "created": "Wed, 17 Aug 2022 17:14:26 GMT",
+                                            "tweetId": "1559951800077127680",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1559951800077127680",
+                                            "inReplyToId": "1559935350406950913",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
                                 }
                             ]
                         },
