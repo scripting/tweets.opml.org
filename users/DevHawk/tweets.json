@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 14 Aug 2022 21:02:05 GMT"
+            "dateModified": "Wed, 17 Aug 2022 16:14:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@GrantShares @Neo_Blockchain @coz_official @NEOnewstoday @NeoResearch_NEO @ax_labs @rendongliu @NE0NEXT @neospcc @Red4Sec @john_devadoss Sorry @gsmachado - I'm having technical difficulties",
+                                    "rawText": "@GrantShares @Neo_Blockchain @coz_official @NEOnewstoday @NeoResearch_NEO @ax_labs @rendongliu @NE0NEXT @neospcc @Red4Sec @john_devadoss Sorry @gsmachado - I'm having technical difficulties",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 16:09:04 GMT",
+                                    "tweetId": "1559935350406950913",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1559935350406950913",
+                                    "inReplyToId": "1559904514974547972",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
