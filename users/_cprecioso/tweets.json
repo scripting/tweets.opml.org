@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 00:00:51 GMT"
+            "dateModified": "Wed, 17 Aug 2022 09:17:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@MiguelMartnezRe <a href=\"https://t.co/0vonJDbaqN\">[link]</a>",
+                                    "rawText": "@MiguelMartnezRe https://t.co/0vonJDbaqN",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 09:16:42 GMT",
+                                    "tweetId": "1559831576820711426",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1559831576820711426",
+                                    "inReplyToId": "1559808185221156864",
+                                    "tweetUserName": "_cprecioso"
+                                },
+                                {
+                                    "text": "@Voyria_tenella Confirmo",
+                                    "rawText": "@Voyria_tenella Confirmo",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 09:13:19 GMT",
+                                    "tweetId": "1559830725255462912",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1559830725255462912",
+                                    "inReplyToId": "1559740433575682049",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 16",
                             "type": "calendarDay",
