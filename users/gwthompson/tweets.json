@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gwthompson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 21:42:15 GMT"
+            "dateModified": "Wed, 17 Aug 2022 22:08:47 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,63 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "# More markdown experiments",
+                                    "rawText": "# More markdown experiments",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 22:02:01 GMT",
+                                    "tweetId": "1560024172071452673",
+                                    "urltweet": "https://twitter.com/gwthompson/status/1560024172071452673",
+                                    "tweetUserName": "gwthompson",
+                                    "subs": [
+                                        {
+                                            "text": "This should be an unordered list",
+                                            "rawText": "This should be an unordered list",
+                                            "type": "tweet",
+                                            "created": "Wed, 17 Aug 2022 22:02:01 GMT",
+                                            "tweetId": "1560024173019283456",
+                                            "urltweet": "https://twitter.com/gwthompson/status/1560024173019283456",
+                                            "inReplyToId": "1560024172071452673",
+                                            "tweetUserName": "gwthompson",
+                                            "subs": [
+                                                {
+                                                    "text": "- First line",
+                                                    "rawText": "- First line",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 17 Aug 2022 22:02:01 GMT",
+                                                    "tweetId": "1560024174009147392",
+                                                    "urltweet": "https://twitter.com/gwthompson/status/1560024174009147392",
+                                                    "inReplyToId": "1560024173019283456",
+                                                    "tweetUserName": "gwthompson",
+                                                    "subs": [
+                                                        {
+                                                            "text": "- Second line",
+                                                            "rawText": "- Second line",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 17 Aug 2022 22:02:01 GMT",
+                                                            "tweetId": "1560024174810234883",
+                                                            "urltweet": "https://twitter.com/gwthompson/status/1560024174810234883",
+                                                            "inReplyToId": "1560024174009147392",
+                                                            "tweetUserName": "gwthompson",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "- Third line",
+                                                                    "rawText": "- Third line",
+                                                                    "type": "tweet",
+                                                                    "created": "Wed, 17 Aug 2022 22:02:02 GMT",
+                                                                    "tweetId": "1560024176022507522",
+                                                                    "urltweet": "https://twitter.com/gwthompson/status/1560024176022507522",
+                                                                    "inReplyToId": "1560024174810234883",
+                                                                    "tweetUserName": "gwthompson"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "# Experiments with markdown in Twitter",
                                     "rawText": "# Experiments with markdown in Twitter",
