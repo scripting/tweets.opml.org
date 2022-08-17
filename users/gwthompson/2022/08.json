@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gwthompson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 04:14:22 GMT"
+            "dateModified": "Wed, 17 Aug 2022 19:29:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "# This is a markdown test",
+                                    "rawText": "# This is a markdown test",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 19:28:50 GMT",
+                                    "tweetId": "1559985625025093633",
+                                    "urltweet": "https://twitter.com/gwthompson/status/1559985625025093633",
+                                    "tweetUserName": "gwthompson",
+                                    "subs": [
+                                        {
+                                            "text": "![My favorite dino!](<a href=\"https://t.co/Bc1l9YDI6E\">[link]</a> \"Dino\")",
+                                            "rawText": "![My favorite dino!](https://t.co/Bc1l9YDI6E \"Dino\")",
+                                            "type": "tweet",
+                                            "created": "Wed, 17 Aug 2022 19:28:50 GMT",
+                                            "tweetId": "1559985625880825856",
+                                            "urltweet": "https://twitter.com/gwthompson/status/1559985625880825856",
+                                            "inReplyToId": "1559985625025093633",
+                                            "tweetUserName": "gwthompson"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Wordle 424 5/6\n\n⬛⬛🟩🟨⬛\n⬛🟨⬛⬛⬛\n⬛⬛🟩🟨🟩\n🟩⬛🟩🟨⬛\n🟩🟩🟩🟩🟩",
                                     "rawText": "Wordle 424 5/6\n\n⬛⬛🟩🟨⬛\n⬛🟨⬛⬛⬛\n⬛⬛🟩🟨🟩\n🟩⬛🟩🟨⬛\n🟩🟩🟩🟩🟩",
