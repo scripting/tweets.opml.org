@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 15:56:01 GMT"
+            "dateModified": "Wed, 17 Aug 2022 16:16:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "# Twitter feeds should...\n\n* Understand threads. \n\n* Markdown.\n\n* You can use emoji short codes like :smile:\n\n* Most important -- tweets can have titles since many feed readers expect them.\n\nImho that's a good first step in a bootstrap to integrate the Twitter and RSS worlds.",
+                                    "rawText": "# Twitter feeds should...\n\n* Understand threads. \n\n* Markdown.\n\n* You can use emoji short codes like :smile:\n\n* Most important -- tweets can have titles since many feed readers expect them.\n\nImho that's a good first step in a bootstrap to integrate the Twitter and RSS worlds.",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 16:15:35 GMT",
+                                    "tweetId": "1559936992716226563",
+                                    "urltweet": "https://twitter.com/davewiner/status/1559936992716226563",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@verycoolhacker no. not yet. i'm putting up a server to help start the bootstrap.",
                                     "rawText": "@verycoolhacker no. not yet. i'm putting up a server to help start the bootstrap.",
