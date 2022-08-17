@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gwthompson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 19:29:36 GMT"
+            "dateModified": "Wed, 17 Aug 2022 20:09:24 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1559985625880825856",
                                             "urltweet": "https://twitter.com/gwthompson/status/1559985625880825856",
                                             "inReplyToId": "1559985625025093633",
-                                            "tweetUserName": "gwthompson"
+                                            "tweetUserName": "gwthompson",
+                                            "subs": [
+                                                {
+                                                    "text": "_Adding on to this thread to see what happens._",
+                                                    "rawText": "_Adding on to this thread to see what happens._",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 17 Aug 2022 19:58:27 GMT",
+                                                    "tweetId": "1559993075052732416",
+                                                    "urltweet": "https://twitter.com/gwthompson/status/1559993075052732416",
+                                                    "inReplyToId": "1559985625880825856",
+                                                    "tweetUserName": "gwthompson"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
