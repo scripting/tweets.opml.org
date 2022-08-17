@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 15:04:49 GMT"
+            "dateModified": "Wed, 17 Aug 2022 15:41:01 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "17",
                             "subs": [
                                 {
+                                    "text": "@verycoolhacker no. not yet. i'm putting up a server to help start the bootstrap.",
+                                    "rawText": "@verycoolhacker no. not yet. i'm putting up a server to help start the bootstrap.",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 15:40:07 GMT",
+                                    "tweetId": "1559928066155184130",
+                                    "urltweet": "https://twitter.com/davewiner/status/1559928066155184130",
+                                    "inReplyToId": "1559923654837805056",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "@grovesprof you're about to get them back, and this time with titles, threads and markdown support.",
                                     "rawText": "@grovesprof you're about to get them back, and this time with titles, threads and markdown support.",
                                     "type": "tweet",
@@ -28,7 +38,19 @@
                                     "tweetId": "1559919131104796678",
                                     "urltweet": "https://twitter.com/davewiner/status/1559919131104796678",
                                     "inReplyToId": "1559915305916407808",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@grovesprof Here's what a titled, tweeted markdown-enhanced rss item looks like in 2022. <a href=\"https://t.co/TXeVHORNcu\">[link]</a>",
+                                            "rawText": "@grovesprof Here's what a titled, tweeted markdown-enhanced rss item looks like in 2022. https://t.co/TXeVHORNcu",
+                                            "type": "tweet",
+                                            "created": "Wed, 17 Aug 2022 15:41:00 GMT",
+                                            "tweetId": "1559928288499351553",
+                                            "urltweet": "https://twitter.com/davewiner/status/1559928288499351553",
+                                            "inReplyToId": "1559919131104796678",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "An example of using Markdown in Twitter. <a href=\"https://t.co/RvY2djdwlA\">[link]</a>",
