@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 16:43:01 GMT"
+            "dateModified": "Wed, 17 Aug 2022 17:25:00 GMT"
         },
         "body": {
             "subs": [
@@ -46,7 +46,19 @@
                                     "created": "Wed, 17 Aug 2022 16:15:35 GMT",
                                     "tweetId": "1559936992716226563",
                                     "urltweet": "https://twitter.com/davewiner/status/1559936992716226563",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "This is what that tweet looks like in a feed reader. <a href=\"https://t.co/KAuJsm4h8N\">[link]</a>",
+                                            "rawText": "This is what that tweet looks like in a feed reader. https://t.co/KAuJsm4h8N",
+                                            "type": "tweet",
+                                            "created": "Wed, 17 Aug 2022 17:24:51 GMT",
+                                            "tweetId": "1559954423979319296",
+                                            "urltweet": "https://twitter.com/davewiner/status/1559954423979319296",
+                                            "inReplyToId": "1559936992716226563",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@verycoolhacker no. not yet. i'm putting up a server to help start the bootstrap.",
