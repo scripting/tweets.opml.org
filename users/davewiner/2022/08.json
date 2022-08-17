@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 16:16:00 GMT"
+            "dateModified": "Wed, 17 Aug 2022 16:32:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "17",
                             "subs": [
+                                {
+                                    "text": "My philosophy is that everything people use to write is a writing tool, and can be made better by paying attention to how people use it and most important, how they want to use it.",
+                                    "rawText": "My philosophy is that everything people use to write is a writing tool, and can be made better by paying attention to how people use it and most important, how they want to use it.",
+                                    "type": "tweet",
+                                    "created": "Wed, 17 Aug 2022 16:31:45 GMT",
+                                    "tweetId": "1559941058972336128",
+                                    "urltweet": "https://twitter.com/davewiner/status/1559941058972336128",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "# Twitter feeds should...\n\n* Understand threads. \n\n* Markdown.\n\n* You can use emoji short codes like :smile:\n\n* Most important -- tweets can have titles since many feed readers expect them.\n\nImho that's a good first step in a bootstrap to integrate the Twitter and RSS worlds.",
                                     "rawText": "# Twitter feeds should...\n\n* Understand threads. \n\n* Markdown.\n\n* You can use emoji short codes like :smile:\n\n* Most important -- tweets can have titles since many feed readers expect them.\n\nImho that's a good first step in a bootstrap to integrate the Twitter and RSS worlds.",
