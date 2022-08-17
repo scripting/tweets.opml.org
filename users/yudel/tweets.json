@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 04:43:24 GMT"
+            "dateModified": "Wed, 17 Aug 2022 05:09:55 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Wed, 17 Aug 2022 04:39:47 GMT",
                                     "tweetId": "1559761886706540544",
                                     "urltweet": "https://twitter.com/yudel/status/1559761886706540544",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "A fair amount to unpack here. <a href=\"https://t.co/YaOBsIoXBX\">[link]</a>",
+                                            "rawText": "A fair amount to unpack here. https://t.co/YaOBsIoXBX",
+                                            "type": "tweet",
+                                            "created": "Wed, 17 Aug 2022 05:09:04 GMT",
+                                            "tweetId": "1559769256476217348",
+                                            "urltweet": "https://twitter.com/yudel/status/1559769256476217348",
+                                            "inReplyToId": "1559761886706540544",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Really don’t know why kids should learn geography, given that it’s all going to be rearranged in the next hundred million years. <a href=\"https://t.co/0H7Fyigpyi\">[link]</a>",
