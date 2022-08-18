@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 16 Aug 2022 03:43:17 GMT"
+            "dateModified": "Thu, 18 Aug 2022 15:11:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,43 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "TweetFeed, first thoughts. With the right workflow, a special kind of RSS feed pops into view. <a href=\"https://t.co/hKIY86Etrf\">[link]</a>",
+                                    "rawText": "TweetFeed, first thoughts. With the right workflow, a special kind of RSS feed pops into view. https://t.co/hKIY86Etrf",
+                                    "type": "tweet",
+                                    "created": "Thu, 18 Aug 2022 15:08:17 GMT",
+                                    "tweetId": "1560282440551342081",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1560282440551342081",
+                                    "tweetUserName": "KenSmith"
+                                },
+                                {
+                                    "text": "TweetFeed, first thoughts: An RSS feed usually lists articles from one source. Being RSS, it can be read in many places. 1/2",
+                                    "rawText": "TweetFeed, first thoughts: An RSS feed usually lists articles from one source. Being RSS, it can be read in many places. 1/2",
+                                    "type": "tweet",
+                                    "created": "Thu, 18 Aug 2022 15:02:24 GMT",
+                                    "tweetId": "1560280960071094273",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1560280960071094273",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "Via Twitter, TweetFeed can present an RSS feed of articles selected from many sources, screened, compiled and annotated by a person taking responsibility for a body of information. 2/2",
+                                            "rawText": "Via Twitter, TweetFeed can present an RSS feed of articles selected from many sources, screened, compiled and annotated by a person taking responsibility for a body of information. 2/2",
+                                            "type": "tweet",
+                                            "created": "Thu, 18 Aug 2022 15:02:24 GMT",
+                                            "tweetId": "1560280960930877440",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1560280960930877440",
+                                            "inReplyToId": "1560280960071094273",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
