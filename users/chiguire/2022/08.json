@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 00:43:42 GMT"
+            "dateModified": "Thu, 18 Aug 2022 08:27:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@HarinaPana <a href=\"https://t.co/I3o2nhWr4H\">[link]</a>",
+                                    "rawText": "@HarinaPana https://t.co/I3o2nhWr4H",
+                                    "type": "tweet",
+                                    "created": "Thu, 18 Aug 2022 08:19:47 GMT",
+                                    "tweetId": "1560179637694627841",
+                                    "urltweet": "https://twitter.com/chiguire/status/1560179637694627841",
+                                    "inReplyToId": "1560174621932019712",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 17",
                             "type": "calendarDay",
