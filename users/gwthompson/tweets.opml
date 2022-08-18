@@ -6,11 +6,37 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/gwthompson/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Wed, 17 Aug 2022 21:42:15 GMT</dateModified>
+		<dateModified>Thu, 18 Aug 2022 04:46:42 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
+			<outline text="August 18" type="calendarDay" name="18" >
+				<outline text="Wordle 425 6/6
+
+🟨⬛⬛⬛⬛
+⬛🟨⬛⬛⬛
+⬛⬛🟩🟨⬛
+🟨⬛🟩🟩🟨
+🟩⬛🟩🟩🟩
+🟩🟩🟩🟩🟩" rawText="Wordle 425 6/6
+
+🟨⬛⬛⬛⬛
+⬛🟨⬛⬛⬛
+⬛⬛🟩🟨⬛
+🟨⬛🟩🟩🟨
+🟩⬛🟩🟩🟩
+🟩🟩🟩🟩🟩" type="tweet" created="Thu, 18 Aug 2022 04:36:19 GMT" tweetId="1560123403566288896" urltweet="https://twitter.com/gwthompson/status/1560123403566288896" inReplyToId="" tweetUserName="gwthompson" />
+				</outline>
 			<outline text="August 17" type="calendarDay" name="17" >
+				<outline text="# More markdown experiments" rawText="# More markdown experiments" type="tweet" created="Wed, 17 Aug 2022 22:02:01 GMT" tweetId="1560024172071452673" urltweet="https://twitter.com/gwthompson/status/1560024172071452673" tweetUserName="gwthompson" >
+					<outline text="This should be an unordered list" rawText="This should be an unordered list" type="tweet" created="Wed, 17 Aug 2022 22:02:01 GMT" tweetId="1560024173019283456" urltweet="https://twitter.com/gwthompson/status/1560024173019283456" inReplyToId="1560024172071452673" tweetUserName="gwthompson" >
+						<outline text="- First line" rawText="- First line" type="tweet" created="Wed, 17 Aug 2022 22:02:01 GMT" tweetId="1560024174009147392" urltweet="https://twitter.com/gwthompson/status/1560024174009147392" inReplyToId="1560024173019283456" tweetUserName="gwthompson" >
+							<outline text="- Second line" rawText="- Second line" type="tweet" created="Wed, 17 Aug 2022 22:02:01 GMT" tweetId="1560024174810234883" urltweet="https://twitter.com/gwthompson/status/1560024174810234883" inReplyToId="1560024174009147392" tweetUserName="gwthompson" >
+								<outline text="- Third line" rawText="- Third line" type="tweet" created="Wed, 17 Aug 2022 22:02:02 GMT" tweetId="1560024176022507522" urltweet="https://twitter.com/gwthompson/status/1560024176022507522" inReplyToId="1560024174810234883" tweetUserName="gwthompson" />
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="# Experiments with markdown in Twitter" rawText="# Experiments with markdown in Twitter" type="tweet" created="Wed, 17 Aug 2022 21:27:27 GMT" tweetId="1560015475421192192" urltweet="https://twitter.com/gwthompson/status/1560015475421192192" tweetUserName="gwthompson" >
 					<outline text="** This should be displayed as bold** and *this should be displayed in italic*" rawText="** This should be displayed as bold** and *this should be displayed in italic*" type="tweet" created="Wed, 17 Aug 2022 21:27:28 GMT" tweetId="1560015477627297792" urltweet="https://twitter.com/gwthompson/status/1560015477627297792" inReplyToId="1560015475421192192" tweetUserName="gwthompson" >
 						<outline text="***This should be displayed as bold italic***" rawText="***This should be displayed as bold italic***" type="tweet" created="Wed, 17 Aug 2022 21:27:28 GMT" tweetId="1560015479045033984" urltweet="https://twitter.com/gwthompson/status/1560015479045033984" inReplyToId="1560015477627297792" tweetUserName="gwthompson" >
