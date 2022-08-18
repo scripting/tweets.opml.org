@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 01:45:01 GMT"
+            "dateModified": "Thu, 18 Aug 2022 06:36:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "Louisiana hospital denies abortion for fetus without a skull. <a href=\"https://t.co/Cdpp7ZvlqS\">[link]</a>",
+                                    "rawText": "Louisiana hospital denies abortion for fetus without a skull. https://t.co/Cdpp7ZvlqS",
+                                    "type": "tweet",
+                                    "created": "Thu, 18 Aug 2022 06:35:44 GMT",
+                                    "tweetId": "1560153453057515520",
+                                    "urltweet": "https://twitter.com/davewiner/status/1560153453057515520",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 17",
                             "type": "calendarDay",
