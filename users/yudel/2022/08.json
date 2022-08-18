@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 19:24:39 GMT"
+            "dateModified": "Thu, 18 Aug 2022 19:37:55 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 18 Aug 2022 19:18:58 GMT",
                                     "tweetId": "1560345530642972672",
                                     "urltweet": "https://twitter.com/yudel/status/1560345530642972672",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "Also warns that Finnegan’s Wake is unconstitutionally vague.",
+                                            "rawText": "Also warns that Finnegan’s Wake is unconstitutionally vague.",
+                                            "type": "tweet",
+                                            "created": "Thu, 18 Aug 2022 19:26:51 GMT",
+                                            "tweetId": "1560347511646294022",
+                                            "urltweet": "https://twitter.com/yudel/status/1560347511646294022",
+                                            "inReplyToId": "1560345530642972672",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@AkivaMCohen A delightful read. Is this the first time that Joyce has been declared unconstitutionally vague?",
