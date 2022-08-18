@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 23:13:36 GMT"
+            "dateModified": "Thu, 18 Aug 2022 11:49:39 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 18",
+                            "type": "calendarDay",
+                            "name": "18",
+                            "subs": [
+                                {
+                                    "text": "@r_p_pp_ Mírate Tarta Relena",
+                                    "rawText": "@r_p_pp_ Mírate Tarta Relena",
+                                    "type": "tweet",
+                                    "created": "Thu, 18 Aug 2022 11:41:08 GMT",
+                                    "tweetId": "1560230309668556801",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1560230309668556801",
+                                    "inReplyToId": "1560221027111772161",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 17",
                             "type": "calendarDay",
