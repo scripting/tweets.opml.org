@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 17:44:00 GMT"
+            "dateModified": "Thu, 18 Aug 2022 18:07:00 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 18 Aug 2022 17:43:41 GMT",
                                     "tweetId": "1560321548967354368",
                                     "urltweet": "https://twitter.com/davewiner/status/1560321548967354368",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "Heh this was a test to see if everything is still working. <a href=\"https://t.co/YOQfxiYixj\">[link]</a>",
+                                            "rawText": "Heh this was a test to see if everything is still working. https://t.co/YOQfxiYixj",
+                                            "type": "tweet",
+                                            "created": "Thu, 18 Aug 2022 18:06:26 GMT",
+                                            "tweetId": "1560327273496170497",
+                                            "urltweet": "https://twitter.com/davewiner/status/1560327273496170497",
+                                            "inReplyToId": "1560321548967354368",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@lucas_gonze i love github. i just have to put the docs for my products somehwere else. not a big deal.",
