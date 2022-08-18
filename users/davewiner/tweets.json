@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 21:19:00 GMT"
+            "dateModified": "Thu, 18 Aug 2022 21:21:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "18",
                             "subs": [
+                                {
+                                    "text": "@Conaw @rosiesherry @RoamResearch I now know how to answer this question.\n\nIt adds the item to a relational database table, with the [[bracketed]] word as the key. \n\nYou can then get a list of all posts that have that key, all the nodes that are adjacent in the graph.",
+                                    "rawText": "@Conaw @rosiesherry @RoamResearch I now know how to answer this question.\n\nIt adds the item to a relational database table, with the [[bracketed]] word as the key. \n\nYou can then get a list of all posts that have that key, all the nodes that are adjacent in the graph.",
+                                    "type": "tweet",
+                                    "created": "Thu, 18 Aug 2022 21:20:08 GMT",
+                                    "tweetId": "1560376019751673857",
+                                    "urltweet": "https://twitter.com/davewiner/status/1560376019751673857",
+                                    "inReplyToId": "1370557796132003841",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Excellent way of putting it @conaw.\n\nIt's the same idea that powers the web,  brought to writing and collaborating. <a href=\"https://t.co/7JJhq9SQ2X\">[link]</a>",
                                     "rawText": "Excellent way of putting it @conaw.\n\nIt's the same idea that powers the web,  brought to writing and collaborating. https://t.co/7JJhq9SQ2X",
