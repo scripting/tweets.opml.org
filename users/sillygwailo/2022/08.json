@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 20:54:42 GMT"
+            "dateModified": "Thu, 18 Aug 2022 01:19:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 17",
+                            "type": "calendarDay",
+                            "name": "17",
+                            "subs": [
+                                {
+                                    "text": "@rtanglao @davewiner What’s the best way to send feedback?\n\nFirst feedback from me: The underlying URL of the feed (the href) should be the feed itself, otherwise people will share the XML Viewer URL, like Roland did. It could just be a separate field.",
+                                    "rawText": "@rtanglao @davewiner What’s the best way to send feedback?\n\nFirst feedback from me: The underlying URL of the feed (the href) should be the feed itself, otherwise people will share the XML Viewer URL, like Roland did. It could just be a separate field.",
+                                    "type": "tweet",
+                                    "created": "Thu, 18 Aug 2022 01:19:26 GMT",
+                                    "tweetId": "1560073853866430464",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1560073853866430464",
+                                    "inReplyToId": "1560050586044665856",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 14",
                             "type": "calendarDay",
