@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 01:36:17 GMT"
+            "dateModified": "Fri, 19 Aug 2022 17:31:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "hey @shadow_journey <a href=\"https://t.co/1zVO8r9DSb\">[link]</a>",
+                                    "rawText": "hey @shadow_journey https://t.co/1zVO8r9DSb",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 17:25:42 GMT",
+                                    "tweetId": "1560679411657342976",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1560679411657342976",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 18",
                             "type": "calendarDay",
