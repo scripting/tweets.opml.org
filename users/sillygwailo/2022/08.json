@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 22:12:37 GMT"
+            "dateModified": "Fri, 19 Aug 2022 23:18:56 GMT"
         },
         "body": {
             "subs": [
@@ -77,7 +77,19 @@
                                             "tweetId": "1560726332417314817",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1560726332417314817",
                                             "inReplyToId": "1560614261373603846",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "The view from the hotel in Osoyoos. <a href=\"https://t.co/Xj2m4293Jf\">[link]</a>",
+                                                    "rawText": "The view from the hotel in Osoyoos. https://t.co/Xj2m4293Jf",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 19 Aug 2022 23:11:39 GMT",
+                                                    "tweetId": "1560766473936650240",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1560766473936650240",
+                                                    "inReplyToId": "1560726332417314817",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
