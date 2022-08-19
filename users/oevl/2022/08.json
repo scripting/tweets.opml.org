@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 03:40:55 GMT"
+            "dateModified": "Fri, 19 Aug 2022 04:33:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: THE ONLY 5 EXERCISES MAN NEED TO BUILD MUSCLE <a href=\"https://t.co/yhwzVEVXcj\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: THE ONLY 5 EXERCISES MAN NEED TO BUILD MUSCLE https://t.co/yhwzVEVXcj",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 04:28:26 GMT",
+                                    "tweetId": "1560483804724318209",
+                                    "urltweet": "https://twitter.com/oevl/status/1560483804724318209",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: Stacking Lines at Malibu <a href=\"https://t.co/jYSMATvKBl\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Stacking Lines at Malibu https://t.co/jYSMATvKBl",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 04:28:25 GMT",
+                                    "tweetId": "1560483802547470336",
+                                    "urltweet": "https://twitter.com/oevl/status/1560483802547470336",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 18",
                             "type": "calendarDay",
