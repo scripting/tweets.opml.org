@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 16:27:45 GMT"
+            "dateModified": "Fri, 19 Aug 2022 20:26:30 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                     "created": "Fri, 19 Aug 2022 13:06:49 GMT",
                                     "tweetId": "1560614261373603846",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1560614261373603846",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Covie’s definitely ovie in Kelowna.",
+                                            "rawText": "Covie’s definitely ovie in Kelowna.",
+                                            "type": "tweet",
+                                            "created": "Fri, 19 Aug 2022 20:21:30 GMT",
+                                            "tweetId": "1560723653607583744",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1560723653607583744",
+                                            "inReplyToId": "1560614261373603846",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
