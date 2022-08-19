@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 03:30:10 GMT"
+            "dateModified": "Fri, 19 Aug 2022 04:23:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "$ai-viz interesting data point. Sorta, kinda a Turing test for #Dalle2 @mahemoff <a href=\"https://t.co/oqZLbLJmVg\">[link]</a>",
+                                    "rawText": "$ai-viz interesting data point. Sorta, kinda a Turing test for #Dalle2 @mahemoff https://t.co/oqZLbLJmVg",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 04:21:24 GMT",
+                                    "tweetId": "1560482036179034112",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1560482036179034112",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 18",
                             "type": "calendarDay",
