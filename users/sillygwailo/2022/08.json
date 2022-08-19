@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 20:39:46 GMT"
+            "dateModified": "Fri, 19 Aug 2022 20:53:02 GMT"
         },
         "body": {
             "subs": [
@@ -94,7 +94,19 @@
                                     "created": "Thu, 18 Aug 2022 18:42:36 GMT",
                                     "tweetId": "1560336376448446464",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1560336376448446464",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I can’t read text in all caps, so I’m gonna skip this meme.",
+                                            "rawText": "I can’t read text in all caps, so I’m gonna skip this meme.",
+                                            "type": "tweet",
+                                            "created": "Fri, 19 Aug 2022 20:44:03 GMT",
+                                            "tweetId": "1560729327955693568",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1560729327955693568",
+                                            "inReplyToId": "1560336376448446464",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
