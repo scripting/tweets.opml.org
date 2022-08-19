@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 10 Aug 2022 10:36:10 GMT"
+            "dateModified": "Fri, 19 Aug 2022 09:41:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "A new system for simply and reliably updating HTML attributes - Call for Feedback is open until Sept 9th\n<a href=\"https://t.co/rqTw77PJHm\">[link]</a>",
+                                    "rawText": "A new system for simply and reliably updating HTML attributes - Call for Feedback is open until Sept 9th\nhttps://t.co/rqTw77PJHm",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 09:37:30 GMT",
+                                    "tweetId": "1560561584187252736",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1560561584187252736",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 10",
                             "type": "calendarDay",
