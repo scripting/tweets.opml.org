@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_am1t/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 15:50:55 GMT"
+            "dateModified": "Fri, 19 Aug 2022 13:04:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Amit Gawande Takes \"The Colbert Questionert\": <a href=\"https://t.co/fOcL1IIXSe\">[link]</a>",
+                                    "rawText": "Amit Gawande Takes \"The Colbert Questionert\": https://t.co/fOcL1IIXSe",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 13:03:25 GMT",
+                                    "tweetId": "1560613405828038656",
+                                    "urltweet": "https://twitter.com/_am1t/status/1560613405828038656",
+                                    "tweetUserName": "_am1t"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 18",
                             "type": "calendarDay",
