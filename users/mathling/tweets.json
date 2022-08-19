@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 20:41:28 GMT"
+            "dateModified": "Fri, 19 Aug 2022 19:01:10 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nMore blobs\n\nNow with speckles and tangents\n\n#XQuery #SVG <a href=\"https://t.co/ktg1whRCyB\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nMore blobs\n\nNow with speckles and tangents\n\n#XQuery #SVG https://t.co/ktg1whRCyB",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 18:58:28 GMT",
+                                    "tweetId": "1560702757232726019",
+                                    "urltweet": "https://twitter.com/mathling/status/1560702757232726019",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Bubbles in the mysterious deep <a href=\"https://t.co/QPlOdnZPiF\">[link]</a>",
+                                            "rawText": "Bubbles in the mysterious deep https://t.co/QPlOdnZPiF",
+                                            "type": "tweet",
+                                            "created": "Fri, 19 Aug 2022 18:58:29 GMT",
+                                            "tweetId": "1560702762505015296",
+                                            "urltweet": "https://twitter.com/mathling/status/1560702762505015296",
+                                            "inReplyToId": "1560702757232726019",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "Last one <a href=\"https://t.co/NHjLjpfp3s\">[link]</a>",
+                                                    "rawText": "Last one https://t.co/NHjLjpfp3s",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 19 Aug 2022 18:58:31 GMT",
+                                                    "tweetId": "1560702768083390464",
+                                                    "urltweet": "https://twitter.com/mathling/status/1560702768083390464",
+                                                    "inReplyToId": "1560702762505015296",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 18",
                             "type": "calendarDay",
