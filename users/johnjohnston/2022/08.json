@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 21:23:16 GMT"
+            "dateModified": "Fri, 19 Aug 2022 18:10:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Listened: Episode: 7 Heather Burns: <a href=\"https://t.co/ohdi7LyQTv\">[link]</a>",
+                                    "rawText": "Listened: Episode: 7 Heather Burns: https://t.co/ohdi7LyQTv",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 17:57:53 GMT",
+                                    "tweetId": "1560687510010855424",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1560687510010855424",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 18",
                             "type": "calendarDay",
