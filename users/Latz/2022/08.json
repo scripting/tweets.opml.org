@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 18 Aug 2022 16:02:41 GMT"
+            "dateModified": "Fri, 19 Aug 2022 14:35:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "Weil der das Tempolimit für nicht sinnvoll hält fährt er einfach schneller:\n\n<a href=\"https://t.co/IZdm5LBsYJ\">[link]</a>\n\nIch mach die Welt wie sie mir gefällt.",
+                                    "rawText": "Weil der das Tempolimit für nicht sinnvoll hält fährt er einfach schneller:\n\nhttps://t.co/IZdm5LBsYJ\n\nIch mach die Welt wie sie mir gefällt.",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 14:33:57 GMT",
+                                    "tweetId": "1560636191770234883",
+                                    "urltweet": "https://twitter.com/Latz/status/1560636191770234883",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 18",
                             "type": "calendarDay",
