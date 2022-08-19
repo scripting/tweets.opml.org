@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 12:27:00 GMT"
+            "dateModified": "Fri, 19 Aug 2022 12:32:01 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Fri, 19 Aug 2022 12:26:41 GMT",
                                     "tweetId": "1560604162421067776",
                                     "urltweet": "https://twitter.com/davewiner/status/1560604162421067776",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I use <a href=\"https://t.co/Amj9KSgUUp\">[link]</a> to link to feeds because all browsers make a mess of displaying feeds. \n\nSuggestion to browser devs: treat viewing a feed as lifting the hood on a car. When you do that, you don't see another car interior, you see a lot of technical stuff.",
+                                            "rawText": "I use https://t.co/Amj9KSgUUp to link to feeds because all browsers make a mess of displaying feeds. \n\nSuggestion to browser devs: treat viewing a feed as lifting the hood on a car. When you do that, you don't see another car interior, you see a lot of technical stuff.",
+                                            "type": "tweet",
+                                            "created": "Fri, 19 Aug 2022 12:31:15 GMT",
+                                            "tweetId": "1560605312662417408",
+                                            "urltweet": "https://twitter.com/davewiner/status/1560605312662417408",
+                                            "inReplyToId": "1560604162421067776",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "Trust people who don't want to know how the web works will quickly hit the Back button to get back to the comfort of the user interface. \n\nThink of viewing the source of a feed is like viewing the source of an HTML page.",
+                                                    "rawText": "Trust people who don't want to know how the web works will quickly hit the Back button to get back to the comfort of the user interface. \n\nThink of viewing the source of a feed is like viewing the source of an HTML page.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 19 Aug 2022 12:31:16 GMT",
+                                                    "tweetId": "1560605313975336960",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1560605313975336960",
+                                                    "inReplyToId": "1560605312662417408",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Al Franken is a bigger idiot than his accusers said. \n\nUnfortunately that is not a joke. \n\nI defended Franken, but wow that was a mistake. <a href=\"https://t.co/9VJL48vGqC\">[link]</a>",
