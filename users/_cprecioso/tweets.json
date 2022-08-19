@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 01:05:30 GMT"
+            "dateModified": "Fri, 19 Aug 2022 12:35:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 19",
+                            "type": "calendarDay",
+                            "name": "19",
+                            "subs": [
+                                {
+                                    "text": "@PinkTTomate El nombre de mi grupo punk",
+                                    "rawText": "@PinkTTomate El nombre de mi grupo punk",
+                                    "type": "tweet",
+                                    "created": "Fri, 19 Aug 2022 12:24:04 GMT",
+                                    "tweetId": "1560603505391443969",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1560603505391443969",
+                                    "inReplyToId": "1560600451489206272",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 18",
                             "type": "calendarDay",
