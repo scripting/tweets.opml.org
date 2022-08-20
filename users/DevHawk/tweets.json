@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 17 Aug 2022 17:47:15 GMT"
+            "dateModified": "Sat, 20 Aug 2022 17:24:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Today's workout: 340# squat, 200# bench, 180# barbell rows. 5x5 worksets #strongLifts5x5",
+                                    "rawText": "Today's workout: 340# squat, 200# bench, 180# barbell rows. 5x5 worksets #strongLifts5x5",
+                                    "type": "tweet",
+                                    "created": "Sat, 20 Aug 2022 17:19:51 GMT",
+                                    "tweetId": "1561040326655021058",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1561040326655021058",
+                                    "tweetUserName": "DevHawk",
+                                    "subs": [
+                                        {
+                                            "text": "Haven't posted workout in a while, but since @gsmachado wondered if I broke my phone on gym equipment, I figured I should post what has actually been going on at the gym 3 days per week.",
+                                            "rawText": "Haven't posted workout in a while, but since @gsmachado wondered if I broke my phone on gym equipment, I figured I should post what has actually been going on at the gym 3 days per week.",
+                                            "type": "tweet",
+                                            "created": "Sat, 20 Aug 2022 17:19:51 GMT",
+                                            "tweetId": "1561040327720374278",
+                                            "urltweet": "https://twitter.com/DevHawk/status/1561040327720374278",
+                                            "inReplyToId": "1561040326655021058",
+                                            "tweetUserName": "DevHawk"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 17",
                             "type": "calendarDay",
