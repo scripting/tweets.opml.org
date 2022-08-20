@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 17:16:33 GMT"
+            "dateModified": "Sat, 20 Aug 2022 12:57:04 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "\"Do you understand what this means? This is the industry-wide amnesia we've been hoping for for so long!\"\n\n--TV show",
+                                    "rawText": "\"Do you understand what this means? This is the industry-wide amnesia we've been hoping for for so long!\"\n\n--TV show",
+                                    "type": "tweet",
+                                    "created": "Sat, 20 Aug 2022 12:43:55 GMT",
+                                    "tweetId": "1560970887276515329",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1560970887276515329",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 19",
                             "type": "calendarDay",
