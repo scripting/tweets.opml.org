@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 20 Aug 2022 02:29:38 GMT"
+            "dateModified": "Sat, 20 Aug 2022 12:13:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "Impressive explanation of StarLink system. Hat tip \n@kevwright  @MikyDe @russsharer @lasersailor @KevinCTofel <a href=\"https://t.co/zxxpqtakF9\">[link]</a>",
+                                    "rawText": "Impressive explanation of StarLink system. Hat tip \n@kevwright  @MikyDe @russsharer @lasersailor @KevinCTofel https://t.co/zxxpqtakF9",
+                                    "type": "tweet",
+                                    "created": "Sat, 20 Aug 2022 12:04:07 GMT",
+                                    "tweetId": "1560960871454519296",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1560960871454519296",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 19",
                             "type": "calendarDay",
