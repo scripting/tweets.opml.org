@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 20 Aug 2022 02:35:01 GMT"
+            "dateModified": "Sat, 20 Aug 2022 08:44:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 20",
+                            "type": "calendarDay",
+                            "name": "20",
+                            "subs": [
+                                {
+                                    "text": "The 30 Major League Baseball Stadiums, Ranked. <a href=\"https://t.co/5cDnhxx4BH\">[link]</a>",
+                                    "rawText": "The 30 Major League Baseball Stadiums, Ranked. https://t.co/5cDnhxx4BH",
+                                    "type": "tweet",
+                                    "created": "Sat, 20 Aug 2022 08:43:19 GMT",
+                                    "tweetId": "1560910337930674177",
+                                    "urltweet": "https://twitter.com/davewiner/status/1560910337930674177",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 19",
                             "type": "calendarDay",
