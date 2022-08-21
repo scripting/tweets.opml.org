@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 21 Aug 2022 03:04:28 GMT"
+            "dateModified": "Sun, 21 Aug 2022 14:47:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@line_o @barefootliam I think it all depends on what you're using the random number generator for\nMaking randomized art or fuzz testing isn't the same as trying to create realistic simulations of physical processes",
+                                    "rawText": "@line_o @barefootliam I think it all depends on what you're using the random number generator for\nMaking randomized art or fuzz testing isn't the same as trying to create realistic simulations of physical processes",
+                                    "type": "tweet",
+                                    "created": "Sun, 21 Aug 2022 14:43:44 GMT",
+                                    "tweetId": "1561363425413910530",
+                                    "urltweet": "https://twitter.com/mathling/status/1561363425413910530",
+                                    "inReplyToId": "1561247645309468678",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 20",
                             "type": "calendarDay",
