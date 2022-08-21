@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 21 Aug 2022 03:28:29 GMT"
+            "dateModified": "Sun, 21 Aug 2022 09:13:21 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "This idea deserves more attention that it's received so far. <a href=\"https://t.co/0dMsc0Aver\">[link]</a>",
+                                    "rawText": "This idea deserves more attention that it's received so far. https://t.co/0dMsc0Aver",
+                                    "type": "tweet",
+                                    "created": "Sun, 21 Aug 2022 09:02:01 GMT",
+                                    "tweetId": "1561277430714601477",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1561277430714601477",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 20",
                             "type": "calendarDay",
