@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/GerardoHD01/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 20 Aug 2022 12:47:48 GMT"
+            "dateModified": "Sun, 21 Aug 2022 15:06:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 21",
+                            "type": "calendarDay",
+                            "name": "21",
+                            "subs": [
+                                {
+                                    "text": "@JoseGandhy Solo una probadita de ese néctar, una lamidita! 😋",
+                                    "rawText": "@JoseGandhy Solo una probadita de ese néctar, una lamidita! 😋",
+                                    "type": "tweet",
+                                    "created": "Sun, 21 Aug 2022 14:57:28 GMT",
+                                    "tweetId": "1561366884523675649",
+                                    "urltweet": "https://twitter.com/GerardoHD01/status/1561366884523675649",
+                                    "inReplyToId": "1558874443690037248",
+                                    "tweetUserName": "GerardoHD01"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 20",
                             "type": "calendarDay",
