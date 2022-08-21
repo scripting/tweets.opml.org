@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 21 Aug 2022 14:47:27 GMT"
+            "dateModified": "Sun, 21 Aug 2022 19:12:44 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "21",
                             "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nMusic flowers\n\nEach flower is a part. Measures are overlaid so you can see the patterning of time. Colour is the note (A, B, C, etc.), distance is relative pitch.\n\nLudwig van Beethoven Große Fuge in B flat major Opus 133 <a href=\"https://t.co/1xKynqkpch\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nMusic flowers\n\nEach flower is a part. Measures are overlaid so you can see the patterning of time. Colour is the note (A, B, C, etc.), distance is relative pitch.\n\nLudwig van Beethoven Große Fuge in B flat major Opus 133 https://t.co/1xKynqkpch",
+                                    "type": "tweet",
+                                    "created": "Sun, 21 Aug 2022 19:11:54 GMT",
+                                    "tweetId": "1561430911861764096",
+                                    "urltweet": "https://twitter.com/mathling/status/1561430911861764096",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Wolfgang Amadeus Mozart: String Quarter No. 1 in G Major (3rd movement)\n\nMozart, my man, all those measures empty for the final beat <a href=\"https://t.co/0JsrDdjnEO\">[link]</a>",
+                                            "rawText": "Wolfgang Amadeus Mozart: String Quarter No. 1 in G Major (3rd movement)\n\nMozart, my man, all those measures empty for the final beat https://t.co/0JsrDdjnEO",
+                                            "type": "tweet",
+                                            "created": "Sun, 21 Aug 2022 19:11:55 GMT",
+                                            "tweetId": "1561430917029060608",
+                                            "urltweet": "https://twitter.com/mathling/status/1561430917029060608",
+                                            "inReplyToId": "1561430911861764096",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "Johann Sebastian Bach Brandenburg Concerto No 2. in F Major (1st movement)\n\nBach likes to fill things in densely, but keeps the lower octaves to separate parts (note the holes at the center for most of the parts and the elaborate symmetric patterns) <a href=\"https://t.co/lLCXGMu5oM\">[link]</a>",
+                                                    "rawText": "Johann Sebastian Bach Brandenburg Concerto No 2. in F Major (1st movement)\n\nBach likes to fill things in densely, but keeps the lower octaves to separate parts (note the holes at the center for most of the parts and the elaborate symmetric patterns) https://t.co/lLCXGMu5oM",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 21 Aug 2022 19:11:56 GMT",
+                                                    "tweetId": "1561430922406244352",
+                                                    "urltweet": "https://twitter.com/mathling/status/1561430922406244352",
+                                                    "inReplyToId": "1561430917029060608",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@line_o @barefootliam I think it all depends on what you're using the random number generator for\nMaking randomized art or fuzz testing isn't the same as trying to create realistic simulations of physical processes",
                                     "rawText": "@line_o @barefootliam I think it all depends on what you're using the random number generator for\nMaking randomized art or fuzz testing isn't the same as trying to create realistic simulations of physical processes",
