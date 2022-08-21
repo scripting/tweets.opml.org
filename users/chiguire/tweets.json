@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 21 Aug 2022 20:15:03 GMT"
+            "dateModified": "Sun, 21 Aug 2022 20:28:19 GMT"
         },
         "body": {
             "subs": [
@@ -116,7 +116,19 @@
                                     "created": "Sun, 21 Aug 2022 13:13:54 GMT",
                                     "tweetId": "1561340819877019648",
                                     "urltweet": "https://twitter.com/chiguire/status/1561340819877019648",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Este tuit cortesía de la Rudbeckia qué pasó meses donde solo había tierra y hace un par de semanas creció algo y por poco pensaba que era maleza <a href=\"https://t.co/UMbYfJoW4j\">[link]</a>",
+                                            "rawText": "Este tuit cortesía de la Rudbeckia qué pasó meses donde solo había tierra y hace un par de semanas creció algo y por poco pensaba que era maleza https://t.co/UMbYfJoW4j",
+                                            "type": "tweet",
+                                            "created": "Sun, 21 Aug 2022 20:18:51 GMT",
+                                            "tweetId": "1561447760875982848",
+                                            "urltweet": "https://twitter.com/chiguire/status/1561447760875982848",
+                                            "inReplyToId": "1561340819877019648",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 }
                             ]
                         },
