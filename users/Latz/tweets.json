@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 20 Aug 2022 22:38:56 GMT"
+            "dateModified": "Mon, 22 Aug 2022 10:54:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Das 9€-Ticket Mal für eine Fahrt außerhalb Kassels nutzen. <a href=\"https://t.co/vlWV9C9DjU\">[link]</a>",
+                                    "rawText": "Das 9€-Ticket Mal für eine Fahrt außerhalb Kassels nutzen. https://t.co/vlWV9C9DjU",
+                                    "type": "tweet",
+                                    "created": "Mon, 22 Aug 2022 10:44:13 GMT",
+                                    "tweetId": "1561665539503783938",
+                                    "urltweet": "https://twitter.com/Latz/status/1561665539503783938",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 20",
                             "type": "calendarDay",
