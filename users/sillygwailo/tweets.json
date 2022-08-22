@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 18:17:58 GMT"
+            "dateModified": "Mon, 22 Aug 2022 19:37:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "Spring '83 is really interesting. <a href=\"https://t.co/RqU7fRq81L\">[link]</a>",
+                                    "rawText": "Spring '83 is really interesting. https://t.co/RqU7fRq81L",
+                                    "type": "tweet",
+                                    "created": "Mon, 22 Aug 2022 19:24:27 GMT",
+                                    "tweetId": "1561796460504461314",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1561796460504461314",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "It has a lot of similarities to (and differences from) Padlet. <a href=\"https://t.co/8CgsPJfcO0\">[link]</a>",
+                                            "rawText": "It has a lot of similarities to (and differences from) Padlet. https://t.co/8CgsPJfcO0",
+                                            "type": "tweet",
+                                            "created": "Mon, 22 Aug 2022 19:24:28 GMT",
+                                            "tweetId": "1561796463016828931",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1561796463016828931",
+                                            "inReplyToId": "1561796460504461314",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Tomorrow, I will mark 15 years of not knowing how to use hashtags. <a href=\"https://t.co/EgxZbtjlJv\">[link]</a>",
                                     "rawText": "Tomorrow, I will mark 15 years of not knowing how to use hashtags. https://t.co/EgxZbtjlJv",
