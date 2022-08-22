@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 23:23:03 GMT"
+            "dateModified": "Mon, 22 Aug 2022 23:36:18 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Mon, 22 Aug 2022 23:20:39 GMT",
                                     "tweetId": "1561855900372979712",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1561855900372979712",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Maybe he doesn’t actually want the job.",
+                                            "rawText": "Maybe he doesn’t actually want the job.",
+                                            "type": "tweet",
+                                            "created": "Mon, 22 Aug 2022 23:24:33 GMT",
+                                            "tweetId": "1561856882158891008",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1561856882158891008",
+                                            "inReplyToId": "1561855900372979712",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I sometimes catch myself thinking that becoming the leader of a political party is a punishment rather than an achievement.",
+                                                    "rawText": "I sometimes catch myself thinking that becoming the leader of a political party is a punishment rather than an achievement.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 22 Aug 2022 23:27:06 GMT",
+                                                    "tweetId": "1561857524831113217",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1561857524831113217",
+                                                    "inReplyToId": "1561856882158891008",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Spring '83 is really interesting. <a href=\"https://t.co/RqU7fRq81L\">[link]</a>",
