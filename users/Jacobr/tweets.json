@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 19 Aug 2022 16:57:32 GMT"
+            "dateModified": "Mon, 22 Aug 2022 22:06:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "@amalec Poking @ them with a needle ... in the eye!",
+                                    "rawText": "@amalec Poking @ them with a needle ... in the eye!",
+                                    "type": "tweet",
+                                    "created": "Mon, 22 Aug 2022 21:54:03 GMT",
+                                    "tweetId": "1561834109927833601",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1561834109927833601",
+                                    "inReplyToId": "1561796641698394112",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 19",
                             "type": "calendarDay",
