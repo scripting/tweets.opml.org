@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 21 Aug 2022 16:19:03 GMT"
+            "dateModified": "Mon, 22 Aug 2022 10:53:14 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/VqLgFlCXio\">[link]</a>",
+                                    "rawText": "https://t.co/VqLgFlCXio",
+                                    "type": "tweet",
+                                    "created": "Mon, 22 Aug 2022 10:49:10 GMT",
+                                    "tweetId": "1561666784276750338",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1561666784276750338",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 21",
                             "type": "calendarDay",
