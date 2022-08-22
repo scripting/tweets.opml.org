@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 20 Aug 2022 12:52:49 GMT"
+            "dateModified": "Mon, 22 Aug 2022 06:26:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "Fluid Typography for WordPress Block Themes by Damon Cook @dcook \n<a href=\"https://t.co/ajGzBSRFM0\">[link]</a>",
+                                    "rawText": "Fluid Typography for WordPress Block Themes by Damon Cook @dcook \nhttps://t.co/ajGzBSRFM0",
+                                    "type": "tweet",
+                                    "created": "Mon, 22 Aug 2022 06:26:22 GMT",
+                                    "tweetId": "1561600648097013760",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1561600648097013760",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 20",
                             "type": "calendarDay",
