@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 21 Aug 2022 09:26:37 GMT"
+            "dateModified": "Mon, 22 Aug 2022 09:58:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "A wonderful graphic illustrating the many achievements in space travel. <a href=\"https://t.co/O0uHSpwRJj\">[link]</a>",
+                                    "rawText": "A wonderful graphic illustrating the many achievements in space travel. https://t.co/O0uHSpwRJj",
+                                    "type": "tweet",
+                                    "created": "Mon, 22 Aug 2022 09:46:35 GMT",
+                                    "tweetId": "1561651035101224960",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1561651035101224960",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 21",
                             "type": "calendarDay",
