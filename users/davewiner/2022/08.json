@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 02:47:00 GMT"
+            "dateModified": "Mon, 22 Aug 2022 09:03:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "The case against the Supreme Court of the United States. <a href=\"https://t.co/nCUM9HJctm\">[link]</a>",
+                                    "rawText": "The case against the Supreme Court of the United States. https://t.co/nCUM9HJctm",
+                                    "type": "tweet",
+                                    "created": "Mon, 22 Aug 2022 09:02:37 GMT",
+                                    "tweetId": "1561639968476389377",
+                                    "urltweet": "https://twitter.com/davewiner/status/1561639968476389377",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 21",
                             "type": "calendarDay",
