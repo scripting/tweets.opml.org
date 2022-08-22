@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 21 Aug 2022 16:49:50 GMT"
+            "dateModified": "Mon, 22 Aug 2022 19:08:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 22",
+                            "type": "calendarDay",
+                            "name": "22",
+                            "subs": [
+                                {
+                                    "text": "in Michigan, parvo like symptoms. but not parvo. fatal in 3 days. <a href=\"https://t.co/9OR9rFR2tm\">[link]</a>",
+                                    "rawText": "in Michigan, parvo like symptoms. but not parvo. fatal in 3 days. https://t.co/9OR9rFR2tm",
+                                    "type": "tweet",
+                                    "created": "Mon, 22 Aug 2022 19:02:19 GMT",
+                                    "tweetId": "1561790891098099715",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1561790891098099715",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 21",
                             "type": "calendarDay",
