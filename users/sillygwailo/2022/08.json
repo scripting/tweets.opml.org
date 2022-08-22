@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 04:09:03 GMT"
+            "dateModified": "Mon, 22 Aug 2022 04:35:35 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 22 Aug 2022 04:06:08 GMT",
                                     "tweetId": "1561565360129683457",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1561565360129683457",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "What I’m trying to say is, it’s hard to feel a strong connection to a place if you don’t have any friends who live there.",
+                                            "rawText": "What I’m trying to say is, it’s hard to feel a strong connection to a place if you don’t have any friends who live there.",
+                                            "type": "tweet",
+                                            "created": "Mon, 22 Aug 2022 04:26:25 GMT",
+                                            "tweetId": "1561570461560893440",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1561570461560893440",
+                                            "inReplyToId": "1561565360129683457",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
