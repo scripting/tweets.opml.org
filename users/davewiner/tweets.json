@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 00:16:01 GMT"
+            "dateModified": "Mon, 22 Aug 2022 00:17:01 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Mon, 22 Aug 2022 00:15:58 GMT",
                                     "tweetId": "1561507434811871244",
                                     "urltweet": "https://twitter.com/davewiner/status/1561507434811871244",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "I understand she's just software.",
+                                            "rawText": "I understand she's just software.",
+                                            "type": "tweet",
+                                            "created": "Mon, 22 Aug 2022 00:16:19 GMT",
+                                            "tweetId": "1561507521415811073",
+                                            "urltweet": "https://twitter.com/davewiner/status/1561507521415811073",
+                                            "inReplyToId": "1561507434811871244",
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "I surely do. I really do. I do I do.",
+                                                    "rawText": "I surely do. I really do. I do I do.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 22 Aug 2022 00:16:36 GMT",
+                                                    "tweetId": "1561507595193565184",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1561507595193565184",
+                                                    "inReplyToId": "1561507521415811073",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "General Motors, Honda partner to make millions of affordable EVs. <a href=\"https://t.co/yQcAUjVGEZ\">[link]</a>",
