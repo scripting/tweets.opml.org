@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 23 Aug 2022 05:31:26 GMT"
+            "dateModified": "Tue, 23 Aug 2022 06:11:14 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "@Shmarya There's one poem in the recent Hebrew anthology \"Dor Habeat\"",
+                                    "rawText": "@Shmarya There's one poem in the recent Hebrew anthology \"Dor Habeat\"",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 06:09:14 GMT",
+                                    "tweetId": "1561958726285803520",
+                                    "urltweet": "https://twitter.com/yudel/status/1561958726285803520",
+                                    "inReplyToId": "1561952764971851777",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@Shmarya \"Poetry Readings,\" translated as \"Arvei Shirah\"",
+                                            "rawText": "@Shmarya \"Poetry Readings,\" translated as \"Arvei Shirah\"",
+                                            "type": "tweet",
+                                            "created": "Tue, 23 Aug 2022 06:11:03 GMT",
+                                            "tweetId": "1561959180172509184",
+                                            "urltweet": "https://twitter.com/yudel/status/1561959180172509184",
+                                            "inReplyToId": "1561958726285803520",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@CharlesPPierce I think there was Republican involvement in the redistributing.",
                                     "rawText": "@CharlesPPierce I think there was Republican involvement in the redistributing.",
