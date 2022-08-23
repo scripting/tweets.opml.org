@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 18:08:13 GMT"
+            "dateModified": "Tue, 23 Aug 2022 10:03:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Cuando termino un proyecto personal que salió bien <a href=\"https://t.co/Xr1JzvsOQi\">[link]</a>",
+                                    "rawText": "Cuando termino un proyecto personal que salió bien https://t.co/Xr1JzvsOQi",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 10:01:53 GMT",
+                                    "tweetId": "1562017274105659393",
+                                    "urltweet": "https://twitter.com/chiguire/status/1562017274105659393",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 22",
                             "type": "calendarDay",
