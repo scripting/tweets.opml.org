@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 20:00:05 GMT"
+            "dateModified": "Tue, 23 Aug 2022 13:54:28 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@40PercentGerman @RealMarkDziak But Mexican cooks won’t come to Germany as long as it’s so unwelcoming, so it’s a chicken-and-egg problem",
+                                    "rawText": "@40PercentGerman @RealMarkDziak But Mexican cooks won’t come to Germany as long as it’s so unwelcoming, so it’s a chicken-and-egg problem",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 13:48:44 GMT",
+                                    "tweetId": "1562074363096141827",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1562074363096141827",
+                                    "inReplyToId": "1562072878971236359",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 22",
                             "type": "calendarDay",
