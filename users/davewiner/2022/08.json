@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 23 Aug 2022 02:43:00 GMT"
+            "dateModified": "Tue, 23 Aug 2022 11:23:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "Whistleblower: Twitter misled investors, FTC and underplayed spam issues. #nopaywall <a href=\"https://t.co/wsNPpfhpyr\">[link]</a>",
+                                    "rawText": "Whistleblower: Twitter misled investors, FTC and underplayed spam issues. #nopaywall https://t.co/wsNPpfhpyr",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 11:22:25 GMT",
+                                    "tweetId": "1562037541360091138",
+                                    "urltweet": "https://twitter.com/davewiner/status/1562037541360091138",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 22",
                             "type": "calendarDay",
