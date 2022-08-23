@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 06:26:27 GMT"
+            "dateModified": "Tue, 23 Aug 2022 12:17:07 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "WordPress 6.1 to Add a Block Themes Filter to Menu on the Theme Install Screen <a href=\"https://t.co/j6MyIbo75l\">[link]</a> via @wptavern",
+                                    "rawText": "WordPress 6.1 to Add a Block Themes Filter to Menu on the Theme Install Screen https://t.co/j6MyIbo75l via @wptavern",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 12:07:07 GMT",
+                                    "tweetId": "1562048788679753729",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1562048788679753729",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 22",
                             "type": "calendarDay",
