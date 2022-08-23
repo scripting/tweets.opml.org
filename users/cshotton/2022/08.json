@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 15:26:45 GMT"
+            "dateModified": "Tue, 23 Aug 2022 20:25:08 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@rudytheelder I thought for a sec that just the saucer's windshield had popped into your yard's dimension. The photo is kinda cool if you parse it that way!",
+                                    "rawText": "@rudytheelder I thought for a sec that just the saucer's windshield had popped into your yard's dimension. The photo is kinda cool if you parse it that way!",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 20:20:53 GMT",
+                                    "tweetId": "1562173049134260224",
+                                    "urltweet": "https://twitter.com/cshotton/status/1562173049134260224",
+                                    "inReplyToId": "1562172294587330560",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
