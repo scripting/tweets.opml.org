@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 23:59:50 GMT"
+            "dateModified": "Tue, 23 Aug 2022 00:52:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,37 @@
                             "type": "calendarDay",
                             "name": "22",
                             "subs": [
+                                {
+                                    "text": "Fact check: True! <a href=\"https://t.co/vcWS8pFOtJ\">[link]</a>",
+                                    "rawText": "Fact check: True! https://t.co/vcWS8pFOtJ",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 00:45:45 GMT",
+                                    "tweetId": "1561877318909444100",
+                                    "urltweet": "https://twitter.com/yudel/status/1561877318909444100",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@rabbitworship @EvanCull @LeiQiaosi @MairavZ This seems to be the best report of the Israeli argument, which boils down to hearsay from people not in a position to know. <a href=\"https://t.co/4UkN6GUncv\">[link]</a>",
+                                    "rawText": "@rabbitworship @EvanCull @LeiQiaosi @MairavZ This seems to be the best report of the Israeli argument, which boils down to hearsay from people not in a position to know. https://t.co/4UkN6GUncv",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 00:41:09 GMT",
+                                    "tweetId": "1561876161772265477",
+                                    "urltweet": "https://twitter.com/yudel/status/1561876161772265477",
+                                    "inReplyToId": "1561856297024344066",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@rabbitworship @EvanCull @LeiQiaosi @MairavZ And a further argument that relies on guilt by association, rather than, say, forensic accounting. <a href=\"https://t.co/vAPlpBTbyG\">[link]</a>",
+                                            "rawText": "@rabbitworship @EvanCull @LeiQiaosi @MairavZ And a further argument that relies on guilt by association, rather than, say, forensic accounting. https://t.co/vAPlpBTbyG",
+                                            "type": "tweet",
+                                            "created": "Tue, 23 Aug 2022 00:42:14 GMT",
+                                            "tweetId": "1561876433244504064",
+                                            "urltweet": "https://twitter.com/yudel/status/1561876433244504064",
+                                            "inReplyToId": "1561876161772265477",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@DainyBernstein Depends whether you are expecting to be surprised by the ending.",
                                     "rawText": "@DainyBernstein Depends whether you are expecting to be surprised by the ending.",
