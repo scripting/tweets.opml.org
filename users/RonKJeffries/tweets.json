@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 18:22:58 GMT"
+            "dateModified": "Tue, 23 Aug 2022 09:11:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@milesabovetech For those who don't know, like me, pls. mention the name of this phone. ;)",
+                                    "rawText": "@milesabovetech For those who don't know, like me, pls. mention the name of this phone. ;)",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 09:10:19 GMT",
+                                    "tweetId": "1562004296433971201",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1562004296433971201",
+                                    "inReplyToId": "1561796981692964865",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 22",
                             "type": "calendarDay",
