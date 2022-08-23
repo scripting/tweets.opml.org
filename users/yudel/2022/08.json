@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 23 Aug 2022 02:25:44 GMT"
+            "dateModified": "Tue, 23 Aug 2022 04:38:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@Shmarya If you want to translate him into Yiddish…",
+                                    "rawText": "@Shmarya If you want to translate him into Yiddish…",
+                                    "type": "tweet",
+                                    "created": "Tue, 23 Aug 2022 04:27:21 GMT",
+                                    "tweetId": "1561933087273000961",
+                                    "urltweet": "https://twitter.com/yudel/status/1561933087273000961",
+                                    "inReplyToId": "1561922411863457794",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 22",
                             "type": "calendarDay",
