@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 00:26:00 GMT"
+            "dateModified": "Wed, 24 Aug 2022 00:29:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "@wmf Can you send it to me?",
+                                    "rawText": "@wmf Can you send it to me?",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 00:28:01 GMT",
+                                    "tweetId": "1562235241804316684",
+                                    "urltweet": "https://twitter.com/davewiner/status/1562235241804316684",
+                                    "inReplyToId": "1562235104918994944",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Did Peiter Zatko write a blog post or a white paper of some kind with his accusations re Twitter security?",
                                     "rawText": "Did Peiter Zatko write a blog post or a white paper of some kind with his accusations re Twitter security?",
