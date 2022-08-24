@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 00:29:01 GMT"
+            "dateModified": "Wed, 24 Aug 2022 00:43:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "@wmf I don’t see it.",
+                                    "rawText": "@wmf I don’t see it.",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 00:42:39 GMT",
+                                    "tweetId": "1562238924889661451",
+                                    "urltweet": "https://twitter.com/davewiner/status/1562238924889661451",
+                                    "inReplyToId": "1562236632790700032",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@wmf Can you send it to me?",
                                     "rawText": "@wmf Can you send it to me?",
