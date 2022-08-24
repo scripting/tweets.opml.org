@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 10:09:16 GMT"
+            "dateModified": "Wed, 24 Aug 2022 10:35:47 GMT"
         },
         "body": {
             "subs": [
@@ -61,7 +61,19 @@
                                     "created": "Wed, 24 Aug 2022 00:21:09 GMT",
                                     "tweetId": "1562233513176403968",
                                     "urltweet": "https://twitter.com/KevinCTofel/status/1562233513176403968",
-                                    "tweetUserName": "KevinCTofel"
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "Ok, after watching this, I think I want one. <a href=\"https://t.co/EF9FI1HiTN\">[link]</a>",
+                                            "rawText": "Ok, after watching this, I think I want one. https://t.co/EF9FI1HiTN",
+                                            "type": "tweet",
+                                            "created": "Wed, 24 Aug 2022 10:29:53 GMT",
+                                            "tweetId": "1562386705835081728",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1562386705835081728",
+                                            "inReplyToId": "1562233513176403968",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Excellent and helpful video from @t3dotgg: “GraphQL: Should You Use It?” <a href=\"https://t.co/1wFeQoOAsr\">[link]</a>",
