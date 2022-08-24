@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 23 Aug 2022 14:16:45 GMT"
+            "dateModified": "Wed, 24 Aug 2022 00:40:09 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "23",
                             "subs": [
+                                {
+                                    "text": "# An experiment with @daveWiner 's <a href=\"https://t.co/hhY44CMg19\">[link]</a>",
+                                    "rawText": "# An experiment with @daveWiner 's https://t.co/hhY44CMg19",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 00:39:12 GMT",
+                                    "tweetId": "1562238055897251841",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1562238055897251841",
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "A comment for the RSS feed experiment",
+                                            "rawText": "A comment for the RSS feed experiment",
+                                            "type": "tweet",
+                                            "created": "Wed, 24 Aug 2022 00:39:50 GMT",
+                                            "tweetId": "1562238216769380358",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1562238216769380358",
+                                            "inReplyToId": "1562238055897251841",
+                                            "tweetUserName": "RonKJeffries"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "I need a dead simple RSS reader to play with. I have the dilemna of wanting to view this personal feed :\n<a href=\"https://t.co/XSHTDmLLmb\">[link]</a>\nfrom @davewiner new service. Feedly and others are clogged with my ancient Google+ list of many feeds. I just want to see this new feed. Sigh",
                                     "rawText": "I need a dead simple RSS reader to play with. I have the dilemna of wanting to view this personal feed :\nhttps://t.co/XSHTDmLLmb\nfrom @davewiner new service. Feedly and others are clogged with my ancient Google+ list of many feeds. I just want to see this new feed. Sigh",
