@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 21:58:46 GMT"
+            "dateModified": "Wed, 24 Aug 2022 22:12:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,81 @@
                             "type": "calendarDay",
                             "name": "24",
                             "subs": [
+                                {
+                                    "text": "Not surprisingly, several books I never heard of. <a href=\"https://t.co/Y4AQzh3M48\">[link]</a>",
+                                    "rawText": "Not surprisingly, several books I never heard of. https://t.co/Y4AQzh3M48",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 22:03:02 GMT",
+                                    "tweetId": "1562561143658680325",
+                                    "urltweet": "https://twitter.com/yudel/status/1562561143658680325",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@ZacharyBraiterm That’s the stated policy. What’s the actual plan?",
+                                    "rawText": "@ZacharyBraiterm That’s the stated policy. What’s the actual plan?",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 22:02:15 GMT",
+                                    "tweetId": "1562560946211811336",
+                                    "urltweet": "https://twitter.com/yudel/status/1562560946211811336",
+                                    "inReplyToId": "1562560640740651015",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@eddyportnoy @AlanZweibel @yivoinstitute “Uh, Lorraine, do you mean the Jewish new year?”",
+                                    "rawText": "@eddyportnoy @AlanZweibel @yivoinstitute “Uh, Lorraine, do you mean the Jewish new year?”",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 22:00:21 GMT",
+                                    "tweetId": "1562560469310717952",
+                                    "urltweet": "https://twitter.com/yudel/status/1562560469310717952",
+                                    "inReplyToId": "1562560352927518726",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@eddyportnoy @AlanZweibel @yivoinstitute “Yes, Rosh Hashanah”",
+                                            "rawText": "@eddyportnoy @AlanZweibel @yivoinstitute “Yes, Rosh Hashanah”",
+                                            "type": "tweet",
+                                            "created": "Wed, 24 Aug 2022 22:00:36 GMT",
+                                            "tweetId": "1562560531260592128",
+                                            "urltweet": "https://twitter.com/yudel/status/1562560531260592128",
+                                            "inReplyToId": "1562560469310717952",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@eddyportnoy @AlanZweibel @yivoinstitute “Lorraine, Rosh Hashanah is celebrated privately, in homes and synagogues, not in Times Square.”",
+                                                    "rawText": "@eddyportnoy @AlanZweibel @yivoinstitute “Lorraine, Rosh Hashanah is celebrated privately, in homes and synagogues, not in Times Square.”",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 24 Aug 2022 22:01:24 GMT",
+                                                    "tweetId": "1562560733878947841",
+                                                    "urltweet": "https://twitter.com/yudel/status/1562560733878947841",
+                                                    "inReplyToId": "1562560531260592128",
+                                                    "tweetUserName": "yudel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "@eddyportnoy @AlanZweibel @yivoinstitute “Oh. Back to you.”",
+                                                            "rawText": "@eddyportnoy @AlanZweibel @yivoinstitute “Oh. Back to you.”",
+                                                            "type": "tweet",
+                                                            "created": "Wed, 24 Aug 2022 22:01:36 GMT",
+                                                            "tweetId": "1562560781803147266",
+                                                            "urltweet": "https://twitter.com/yudel/status/1562560781803147266",
+                                                            "inReplyToId": "1562560733878947841",
+                                                            "tweetUserName": "yudel"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@ZacharyBraiterm What do you mean “stand by”?",
+                                    "rawText": "@ZacharyBraiterm What do you mean “stand by”?",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 21:59:49 GMT",
+                                    "tweetId": "1562560336989163520",
+                                    "urltweet": "https://twitter.com/yudel/status/1562560336989163520",
+                                    "inReplyToId": "1562559740559110144",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@eddyportnoy @AlanZweibel @yivoinstitute Probably yes, since that aired no later than fall 1980.",
                                     "rawText": "@eddyportnoy @AlanZweibel @yivoinstitute Probably yes, since that aired no later than fall 1980.",
@@ -38,7 +113,19 @@
                                             "tweetId": "1562559459846934530",
                                             "urltweet": "https://twitter.com/yudel/status/1562559459846934530",
                                             "inReplyToId": "1562559250697981953",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@eddyportnoy @AlanZweibel @yivoinstitute I think it featured Lorraine Newman reporting from Times Square where “at midnight, the ball will drop, ushering in the new year, and God will open the Book of Life, deciding who will live and who will die.”",
+                                                    "rawText": "@eddyportnoy @AlanZweibel @yivoinstitute I think it featured Lorraine Newman reporting from Times Square where “at midnight, the ball will drop, ushering in the new year, and God will open the Book of Life, deciding who will live and who will die.”",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 24 Aug 2022 21:58:47 GMT",
+                                                    "tweetId": "1562560075918520326",
+                                                    "urltweet": "https://twitter.com/yudel/status/1562560075918520326",
+                                                    "inReplyToId": "1562559459846934530",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
