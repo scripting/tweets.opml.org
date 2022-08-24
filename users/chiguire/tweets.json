@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 23 Aug 2022 23:05:48 GMT"
+            "dateModified": "Wed, 24 Aug 2022 09:42:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "A Ed Sheeran le podrán criticar muchas cosas, pero la habilidad con el loop machine no es una de esas <a href=\"https://t.co/1bCOgZ5HqC\">[link]</a>",
+                                    "rawText": "A Ed Sheeran le podrán criticar muchas cosas, pero la habilidad con el loop machine no es una de esas https://t.co/1bCOgZ5HqC",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 09:40:01 GMT",
+                                    "tweetId": "1562374160130752512",
+                                    "urltweet": "https://twitter.com/chiguire/status/1562374160130752512",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "Yo, todos los días, incluyendo la música <a href=\"https://t.co/nQHEtP5moJ\">[link]</a>",
+                                    "rawText": "Yo, todos los días, incluyendo la música https://t.co/nQHEtP5moJ",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 09:36:49 GMT",
+                                    "tweetId": "1562373353398276096",
+                                    "urltweet": "https://twitter.com/chiguire/status/1562373353398276096",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 23",
                             "type": "calendarDay",
