@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 16:07:09 GMT"
+            "dateModified": "Wed, 24 Aug 2022 22:05:17 GMT"
         },
         "body": {
             "subs": [
@@ -925,7 +925,19 @@
                                             "tweetId": "1559565421065420801",
                                             "urltweet": "https://twitter.com/chiguire/status/1559565421065420801",
                                             "inReplyToId": "1558089338122129408",
-                                            "tweetUserName": "chiguire"
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "#earworm <a href=\"https://t.co/qUIagCF70R\">[link]</a>",
+                                                    "rawText": "#earworm https://t.co/qUIagCF70R",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 24 Aug 2022 22:05:15 GMT",
+                                                    "tweetId": "1562561702389919746",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1562561702389919746",
+                                                    "inReplyToId": "1559565421065420801",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
