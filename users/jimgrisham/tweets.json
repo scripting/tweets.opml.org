@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 15 Aug 2022 18:02:25 GMT"
+            "dateModified": "Wed, 24 Aug 2022 22:53:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "Irony of the day, courtesy of @nngroup:\n\n  Jakob Nielsen’s March 1999 #Alertbox article extolling #persistentURLs, “URL as UI”, is no longer accessible at its original URL (<a href=\"https://t.co/c4sm8YIhdd\">[link]</a>).\n\nTo be fair, it did work for over 20 years, which is ~much~ better than average!",
+                                    "rawText": "Irony of the day, courtesy of @nngroup:\n\n  Jakob Nielsen’s March 1999 #Alertbox article extolling #persistentURLs, “URL as UI”, is no longer accessible at its original URL (https://t.co/c4sm8YIhdd).\n\nTo be fair, it did work for over 20 years, which is ~much~ better than average!",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 22:41:47 GMT",
+                                    "tweetId": "1562570897793622018",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1562570897793622018",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@NNgroup FYI: Discovered since it is hyperlinked near the end of the “Cool URIs don't change\" section of @timberners_lee’s “Style Guide for online hypertext” (<a href=\"https://t.co/bwNYfKV9aZ\">[link]</a>), currently hosted by the @W3C.\n\n(I imagine the old link will start working again by the end of the week)",
+                                            "rawText": "@NNgroup FYI: Discovered since it is hyperlinked near the end of the “Cool URIs don't change\" section of @timberners_lee’s “Style Guide for online hypertext” (https://t.co/bwNYfKV9aZ), currently hosted by the @W3C.\n\n(I imagine the old link will start working again by the end of the week)",
+                                            "type": "tweet",
+                                            "created": "Wed, 24 Aug 2022 22:43:03 GMT",
+                                            "tweetId": "1562571215025618944",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1562571215025618944",
+                                            "inReplyToId": "1562570897793622018",
+                                            "tweetUserName": "jimgrisham",
+                                            "subs": [
+                                                {
+                                                    "text": "Note: The #Alertbox article itself is still live and can be read at: <a href=\"https://t.co/g0G7VH0wUJ\">[link]</a>",
+                                                    "rawText": "Note: The #Alertbox article itself is still live and can be read at: https://t.co/g0G7VH0wUJ",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 24 Aug 2022 22:43:33 GMT",
+                                                    "tweetId": "1562571341890736133",
+                                                    "urltweet": "https://twitter.com/jimgrisham/status/1562571341890736133",
+                                                    "inReplyToId": "1562571215025618944",
+                                                    "tweetUserName": "jimgrisham"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 15",
                             "type": "calendarDay",
