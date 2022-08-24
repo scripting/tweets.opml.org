@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 18:51:45 GMT"
+            "dateModified": "Wed, 24 Aug 2022 09:19:42 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "Xtreme-9€-Ticketing. <a href=\"https://t.co/38NGh4WQXg\">[link]</a>",
+                                    "rawText": "Xtreme-9€-Ticketing. https://t.co/38NGh4WQXg",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 09:17:46 GMT",
+                                    "tweetId": "1562368560676147201",
+                                    "urltweet": "https://twitter.com/Latz/status/1562368560676147201",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 22",
                             "type": "calendarDay",
