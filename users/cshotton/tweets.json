@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 23 Aug 2022 20:25:08 GMT"
+            "dateModified": "Wed, 24 Aug 2022 22:03:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "@CantoPublic Are there any known issues with contract verification on the block explorer? Been watching the \"Loading...\" button for about an hour and not sure if it is verifying, or just silently judging me.",
+                                    "rawText": "@CantoPublic Are there any known issues with contract verification on the block explorer? Been watching the \"Loading...\" button for about an hour and not sure if it is verifying, or just silently judging me.",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 21:51:30 GMT",
+                                    "tweetId": "1562558240172363776",
+                                    "urltweet": "https://twitter.com/cshotton/status/1562558240172363776",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 23",
                             "type": "calendarDay",
