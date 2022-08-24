@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 03:38:06 GMT"
+            "dateModified": "Wed, 24 Aug 2022 16:40:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "FACT SHEET:  President Biden Announces Student Loan Relief for Borrowers Who Need It Most <a href=\"https://t.co/1bbjSSrZyS\">[link]</a> via @whitehouse",
+                                    "rawText": "FACT SHEET:  President Biden Announces Student Loan Relief for Borrowers Who Need It Most https://t.co/1bbjSSrZyS via @whitehouse",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 16:39:40 GMT",
+                                    "tweetId": "1562479766451949569",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1562479766451949569",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 23",
                             "type": "calendarDay",
