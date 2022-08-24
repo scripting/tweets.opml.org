@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 22 Aug 2022 22:33:14 GMT"
+            "dateModified": "Wed, 24 Aug 2022 02:51:03 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 23",
+                            "type": "calendarDay",
+                            "name": "23",
+                            "subs": [
+                                {
+                                    "text": "@ThomasNOV @HealthIT_Policy @civitas4health @DirectTrustorg He's got a new suit!",
+                                    "rawText": "@ThomasNOV @HealthIT_Policy @civitas4health @DirectTrustorg He's got a new suit!",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 02:50:44 GMT",
+                                    "tweetId": "1562271156849332224",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1562271156849332224",
+                                    "inReplyToId": "1562073449048285184",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 22",
                             "type": "calendarDay",
