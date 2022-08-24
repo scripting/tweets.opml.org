@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 04:33:54 GMT"
+            "dateModified": "Wed, 24 Aug 2022 22:15:02 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,32 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "HYFR. <a href=\"https://t.co/93lkjoZxQJ\">[link]</a>",
+                                    "rawText": "HYFR. https://t.co/93lkjoZxQJ",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 22:14:14 GMT",
+                                    "tweetId": "1562563962050609154",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1562563962050609154",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
+                                    "text": "@daringfireball Has anybody gone back and looked at all of the previous Apple Events and pointed out what the connection between the “themes” and what was announced?",
+                                    "rawText": "@daringfireball Has anybody gone back and looked at all of the previous Apple Events and pointed out what the connection between the “themes” and what was announced?",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 22:10:28 GMT",
+                                    "tweetId": "1562563015735918593",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1562563015735918593",
+                                    "inReplyToId": "1562534717571772422",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 23",
                             "type": "calendarDay",
