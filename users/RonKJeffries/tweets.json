@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 00:40:09 GMT"
+            "dateModified": "Wed, 24 Aug 2022 04:38:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 24",
+                            "type": "calendarDay",
+                            "name": "24",
+                            "subs": [
+                                {
+                                    "text": "# sound bar Q \nRecently bought a mid-range Samsung 65 inch TV with decent image quality but meh sound quality. Prices for sound bars seem out of line with the cost of the TV.\n\nWhich sound bar might make sense? This doesn't seem like rocket science.",
+                                    "rawText": "# sound bar Q \nRecently bought a mid-range Samsung 65 inch TV with decent image quality but meh sound quality. Prices for sound bars seem out of line with the cost of the TV.\n\nWhich sound bar might make sense? This doesn't seem like rocket science.",
+                                    "type": "tweet",
+                                    "created": "Wed, 24 Aug 2022 04:35:06 GMT",
+                                    "tweetId": "1562297425158557696",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1562297425158557696",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 23",
                             "type": "calendarDay",
