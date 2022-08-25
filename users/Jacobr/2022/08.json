@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 03:30:50 GMT"
+            "dateModified": "Thu, 25 Aug 2022 18:51:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@bijans This is indeed a huge (and long overdue) deal.",
+                                    "rawText": "@bijans This is indeed a huge (and long overdue) deal.",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 18:43:02 GMT",
+                                    "tweetId": "1562873199536504846",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1562873199536504846",
+                                    "inReplyToId": "1562871915512881152",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 23",
                             "type": "calendarDay",
