@@ -6,12 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/cluelessnewbie/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Fri, 19 Aug 2022 14:14:00 GMT</dateModified>
+		<dateModified>Thu, 25 Aug 2022 15:59:00 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
+			<outline text="August 25" type="calendarDay" name="25" >
+				<outline text="Portland" rawText="Portland" type="tweet" created="Thu, 25 Aug 2022 15:58:35 GMT" tweetId="1562831814074372096" urltweet="https://twitter.com/cluelessnewbie/status/1562831814074372096" inReplyToId="" tweetUserName="cluelessnewbie" />
+				</outline>
 			<outline text="August 19" type="calendarDay" name="19" >
-				<outline text="Orlando" rawText="Orlando" type="tweet" created="Fri, 19 Aug 2022 14:13:19 GMT" tweetId="1560630997753937920" urltweet="https://twitter.com/cluelessnewbie/status/1560630997753937920" inReplyToId="" tweetUserName="cluelessnewbie" />
+				<outline text="Orlando" rawText="Orlando" type="tweet" created="Fri, 19 Aug 2022 14:13:19 GMT" tweetId="1560630997753937920" urltweet="https://twitter.com/cluelessnewbie/status/1560630997753937920" tweetUserName="cluelessnewbie" />
 				<outline text="Ontario" rawText="Ontario" type="tweet" created="Fri, 19 Aug 2022 14:09:53 GMT" tweetId="1560630132657868802" urltweet="https://twitter.com/cluelessnewbie/status/1560630132657868802" tweetUserName="cluelessnewbie" />
 				<outline text="Oregon" rawText="Oregon" type="tweet" created="Fri, 19 Aug 2022 14:03:31 GMT" tweetId="1560628529842241536" urltweet="https://twitter.com/cluelessnewbie/status/1560628529842241536" tweetUserName="cluelessnewbie" />
 				</outline>
