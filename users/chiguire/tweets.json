@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 23:11:36 GMT"
+            "dateModified": "Thu, 25 Aug 2022 12:53:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@edul3on Oh no",
+                                    "rawText": "@edul3on Oh no",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 12:45:29 GMT",
+                                    "tweetId": "1562783222383415296",
+                                    "urltweet": "https://twitter.com/chiguire/status/1562783222383415296",
+                                    "inReplyToId": "1562782108833423361",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 24",
                             "type": "calendarDay",
