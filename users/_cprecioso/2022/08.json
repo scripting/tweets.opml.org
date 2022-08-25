@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 19:55:23 GMT"
+            "dateModified": "Thu, 25 Aug 2022 08:57:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Los que me decís que soy muy dramático es porque no habéis conocido a mi madre",
+                                    "rawText": "Los que me decís que soy muy dramático es porque no habéis conocido a mi madre",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 08:56:57 GMT",
+                                    "tweetId": "1562725706169470976",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1562725706169470976",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Aprendí de la mejor",
+                                            "rawText": "Aprendí de la mejor",
+                                            "type": "tweet",
+                                            "created": "Thu, 25 Aug 2022 08:56:57 GMT",
+                                            "tweetId": "1562725708618956800",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1562725708618956800",
+                                            "inReplyToId": "1562725706169470976",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 24",
                             "type": "calendarDay",
