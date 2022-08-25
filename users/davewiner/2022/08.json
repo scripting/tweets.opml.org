@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 18:30:00 GMT"
+            "dateModified": "Thu, 25 Aug 2022 21:18:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "There's a problem in feeds. Too much junky HTML. \n\nThere's a solution -- use Markdown to bring back just a little style to the text in our feeds. \n\nThe right amount to make it work a lot better, quickly.\n\n<a href=\"https://t.co/pSLDNGSjE9\">[link]</a>",
+                                    "rawText": "There's a problem in feeds. Too much junky HTML. \n\nThere's a solution -- use Markdown to bring back just a little style to the text in our feeds. \n\nThe right amount to make it work a lot better, quickly.\n\nhttps://t.co/pSLDNGSjE9",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 21:17:29 GMT",
+                                    "tweetId": "1562912068294115328",
+                                    "urltweet": "https://twitter.com/davewiner/status/1562912068294115328",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "This is AI. ;-) <a href=\"https://t.co/sgTXlecbbf\">[link]</a>",
                                     "rawText": "This is AI. ;-) https://t.co/sgTXlecbbf",
