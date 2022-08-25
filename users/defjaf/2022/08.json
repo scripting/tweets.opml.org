@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 05 Aug 2022 12:20:18 GMT"
+            "dateModified": "Thu, 25 Aug 2022 16:27:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@petersuber @IanMulvany Is availability on Arxiv sufficient? (as opposed to ridiculous publisher-lobbying-driven UK rules)",
+                                    "rawText": "@petersuber @IanMulvany Is availability on Arxiv sufficient? (as opposed to ridiculous publisher-lobbying-driven UK rules)",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 16:25:06 GMT",
+                                    "tweetId": "1562838489963499520",
+                                    "urltweet": "https://twitter.com/defjaf/status/1562838489963499520",
+                                    "inReplyToId": "1562835799095123968",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 5",
                             "type": "calendarDay",
