@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 14:07:18 GMT"
+            "dateModified": "Thu, 25 Aug 2022 14:47:06 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "good idea <a href=\"https://t.co/spnH2x1uaa\">[link]</a>",
+                                    "rawText": "good idea https://t.co/spnH2x1uaa",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 14:36:46 GMT",
+                                    "tweetId": "1562811226002161670",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1562811226002161670",
+                                    "tweetUserName": "moosebegab"
+                                },
                                 {
                                     "text": "starlight\n<a href=\"https://t.co/FVx6aSOFNg\">[link]</a>",
                                     "rawText": "starlight\nhttps://t.co/FVx6aSOFNg",
