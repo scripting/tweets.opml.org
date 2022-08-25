@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 18:53:19 GMT"
+            "dateModified": "Thu, 25 Aug 2022 14:07:18 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "starlight\n<a href=\"https://t.co/FVx6aSOFNg\">[link]</a>",
+                                    "rawText": "starlight\nhttps://t.co/FVx6aSOFNg",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 14:00:18 GMT",
+                                    "tweetId": "1562802048084877312",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1562802048084877312",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 24",
                             "type": "calendarDay",
