@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 12:59:29 GMT"
+            "dateModified": "Thu, 25 Aug 2022 14:58:52 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 25 Aug 2022 12:54:20 GMT",
                                     "tweetId": "1562785447402541056",
                                     "urltweet": "https://twitter.com/KenSmith/status/1562785447402541056",
-                                    "tweetUserName": "KenSmith"
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "And sometimes there is a glimpse of the natural world tucked into the big-scale city scene. <a href=\"https://t.co/ywjcHC63c0\">[link]</a>",
+                                            "rawText": "And sometimes there is a glimpse of the natural world tucked into the big-scale city scene. https://t.co/ywjcHC63c0",
+                                            "type": "tweet",
+                                            "created": "Thu, 25 Aug 2022 14:58:01 GMT",
+                                            "tweetId": "1562816572124975105",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1562816572124975105",
+                                            "inReplyToId": "1562785447402541056",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
                                 }
                             ]
                         },
