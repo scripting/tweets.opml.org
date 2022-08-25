@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 00:23:25 GMT"
+            "dateModified": "Thu, 25 Aug 2022 12:59:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "Recipe for some @NewYorker covers: the massive scale of the city, perhaps beautiful, perhaps edgy, but including a quiet detail of someone whose person-sized portion of it happily, sweetly, even movingly works. <a href=\"https://t.co/W2RDNFcQjL\">[link]</a>",
+                                    "rawText": "Recipe for some @NewYorker covers: the massive scale of the city, perhaps beautiful, perhaps edgy, but including a quiet detail of someone whose person-sized portion of it happily, sweetly, even movingly works. https://t.co/W2RDNFcQjL",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 12:54:20 GMT",
+                                    "tweetId": "1562785447402541056",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1562785447402541056",
+                                    "tweetUserName": "KenSmith"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 24",
                             "type": "calendarDay",
