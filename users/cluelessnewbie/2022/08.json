@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cluelessnewbie/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 17:29:00 GMT"
+            "dateModified": "Thu, 25 Aug 2022 17:31:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "25",
                             "subs": [
+                                {
+                                    "text": "# got some more\n\n1. Blue Jays\n\n2. Marlins\n\n3. Nationals",
+                                    "rawText": "# got some more\n\n1. Blue Jays\n\n2. Marlins\n\n3. Nationals",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 17:30:42 GMT",
+                                    "tweetId": "1562854998316179462",
+                                    "urltweet": "https://twitter.com/cluelessnewbie/status/1562854998316179462",
+                                    "tweetUserName": "cluelessnewbie"
+                                },
                                 {
                                     "text": "# there are even more baseball teams\n\n1. Twins\n\n2. Cardinals\n\n3. Diamondbacks",
                                     "rawText": "# there are even more baseball teams\n\n1. Twins\n\n2. Cardinals\n\n3. Diamondbacks",
