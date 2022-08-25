@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 23:10:53 GMT"
+            "dateModified": "Thu, 25 Aug 2022 23:24:09 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1562940506153578497",
                                             "urltweet": "https://twitter.com/yudel/status/1562940506153578497",
                                             "inReplyToId": "1562940174686113793",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "That’s not something I recall much of from recent Dem administrations.",
+                                                    "rawText": "That’s not something I recall much of from recent Dem administrations.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 25 Aug 2022 23:11:17 GMT",
+                                                    "tweetId": "1562940707606003712",
+                                                    "urltweet": "https://twitter.com/yudel/status/1562940707606003712",
+                                                    "inReplyToId": "1562940506153578497",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
