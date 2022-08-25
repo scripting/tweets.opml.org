@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 01:47:16 GMT"
+            "dateModified": "Thu, 25 Aug 2022 05:19:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "@PaulKirvan @daringfireball This, from @gruber’s post, is what led me to ask the question: “Or perhaps, as often seems to be the case, the ‘Far Out’ name is just a name and signifies nothing.”",
+                                    "rawText": "@PaulKirvan @daringfireball This, from @gruber’s post, is what led me to ask the question: “Or perhaps, as often seems to be the case, the ‘Far Out’ name is just a name and signifies nothing.”",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 05:07:23 GMT",
+                                    "tweetId": "1562667934690201608",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1562667934690201608",
+                                    "inReplyToId": "1562644225472114691",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 24",
                             "type": "calendarDay",
