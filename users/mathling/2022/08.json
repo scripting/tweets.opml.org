@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 23 Aug 2022 15:12:18 GMT"
+            "dateModified": "Thu, 25 Aug 2022 21:48:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 25",
+                            "type": "calendarDay",
+                            "name": "25",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nExperiments with texture and colour\n\nThe pitiless sun <a href=\"https://t.co/oRUbkMz9vp\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nExperiments with texture and colour\n\nThe pitiless sun https://t.co/oRUbkMz9vp",
+                                    "type": "tweet",
+                                    "created": "Thu, 25 Aug 2022 21:36:16 GMT",
+                                    "tweetId": "1562916797619138563",
+                                    "urltweet": "https://twitter.com/mathling/status/1562916797619138563",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Golden afternoon <a href=\"https://t.co/ePDXRevDiI\">[link]</a>",
+                                            "rawText": "Golden afternoon https://t.co/ePDXRevDiI",
+                                            "type": "tweet",
+                                            "created": "Thu, 25 Aug 2022 21:36:18 GMT",
+                                            "tweetId": "1562916806624288768",
+                                            "urltweet": "https://twitter.com/mathling/status/1562916806624288768",
+                                            "inReplyToId": "1562916797619138563",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "Doom <a href=\"https://t.co/qQrJTTVbtu\">[link]</a>",
+                                                    "rawText": "Doom https://t.co/qQrJTTVbtu",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 25 Aug 2022 21:36:21 GMT",
+                                                    "tweetId": "1562916816434827264",
+                                                    "urltweet": "https://twitter.com/mathling/status/1562916816434827264",
+                                                    "inReplyToId": "1562916806624288768",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 23",
                             "type": "calendarDay",
