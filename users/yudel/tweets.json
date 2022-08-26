@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 21:57:05 GMT"
+            "dateModified": "Fri, 26 Aug 2022 22:10:21 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,19 @@
                                             "tweetId": "1563284401127329794",
                                             "urltweet": "https://twitter.com/yudel/status/1563284401127329794",
                                             "inReplyToId": "1563283668482764800",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@trekonomics “Refocusing on the danger of demographic decline, Space Karen donates to party committed to funding social science research and paid parental leave.”",
+                                                    "rawText": "@trekonomics “Refocusing on the danger of demographic decline, Space Karen donates to party committed to funding social science research and paid parental leave.”",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 26 Aug 2022 22:00:26 GMT",
+                                                    "tweetId": "1563285264147283970",
+                                                    "urltweet": "https://twitter.com/yudel/status/1563285264147283970",
+                                                    "inReplyToId": "1563284401127329794",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
