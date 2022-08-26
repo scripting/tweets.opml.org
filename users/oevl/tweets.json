@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 02:48:37 GMT"
+            "dateModified": "Fri, 26 Aug 2022 14:31:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Vans Europe Presents: Buona Compagnia | Skate | VANS <a href=\"https://t.co/28LPCiWzKt\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Vans Europe Presents: Buona Compagnia | Skate | VANS https://t.co/28LPCiWzKt",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 14:28:30 GMT",
+                                    "tweetId": "1563171534461861888",
+                                    "urltweet": "https://twitter.com/oevl/status/1563171534461861888",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 25",
                             "type": "calendarDay",
