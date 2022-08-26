@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 17:07:30 GMT"
+            "dateModified": "Fri, 26 Aug 2022 10:22:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,46 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "# Experimenting with thread",
+                                    "rawText": "# Experimenting with thread",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 10:10:19 GMT",
+                                    "tweetId": "1563106559764246528",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1563106559764246528",
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "This is post two in thread experiment, entered as a comment",
+                                            "rawText": "This is post two in thread experiment, entered as a comment",
+                                            "type": "tweet",
+                                            "created": "Fri, 26 Aug 2022 10:12:46 GMT",
+                                            "tweetId": "1563107177388093440",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1563107177388093440",
+                                            "inReplyToId": "1563106559764246528",
+                                            "tweetUserName": "RonKJeffries",
+                                            "subs": [
+                                                {
+                                                    "text": "Post 3 entered using the \"+\" button. You have to hit the plus BEFORE posting the tweet.",
+                                                    "rawText": "Post 3 entered using the \"+\" button. You have to hit the plus BEFORE posting the tweet.",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 26 Aug 2022 10:12:47 GMT",
+                                                    "tweetId": "1563107179371978752",
+                                                    "urltweet": "https://twitter.com/RonKJeffries/status/1563107179371978752",
+                                                    "inReplyToId": "1563107177388093440",
+                                                    "tweetUserName": "RonKJeffries"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 25",
                             "type": "calendarDay",
