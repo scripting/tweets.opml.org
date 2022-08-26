@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 00:10:42 GMT"
+            "dateModified": "Fri, 26 Aug 2022 10:20:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "553 photos of Norm to celebrate National Dog Day 🐶 <a href=\"https://t.co/473kzu2un0\">[link]</a>",
+                                    "rawText": "553 photos of Norm to celebrate National Dog Day 🐶 https://t.co/473kzu2un0",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 10:15:20 GMT",
+                                    "tweetId": "1563107821461577731",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1563107821461577731",
+                                    "tweetUserName": "KevinCTofel",
+                                    "subs": [
+                                        {
+                                            "text": "One of my favorites. <a href=\"https://t.co/1u8ihHsKfg\">[link]</a>",
+                                            "rawText": "One of my favorites. https://t.co/1u8ihHsKfg",
+                                            "type": "tweet",
+                                            "created": "Fri, 26 Aug 2022 10:17:58 GMT",
+                                            "tweetId": "1563108483884785664",
+                                            "urltweet": "https://twitter.com/KevinCTofel/status/1563108483884785664",
+                                            "inReplyToId": "1563107821461577731",
+                                            "tweetUserName": "KevinCTofel"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 25",
                             "type": "calendarDay",
