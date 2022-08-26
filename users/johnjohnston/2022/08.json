@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 19:58:39 GMT"
+            "dateModified": "Fri, 26 Aug 2022 19:30:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "This looks really interesting. H.T. to \n@LouiseE_Foreman\n. The way the data is saved and accessible is very clever.\nYou can log data from any of the micro:bit inputs; light sensor, temperature sensor, pins, accelerometer, compass, microphone\n<a href=\"https://t.co/IWW3NqVZuL\">[link]</a>",
+                                    "rawText": "This looks really interesting. H.T. to \n@LouiseE_Foreman\n. The way the data is saved and accessible is very clever.\nYou can log data from any of the micro:bit inputs; light sensor, temperature sensor, pins, accelerometer, compass, microphone\nhttps://t.co/IWW3NqVZuL",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 19:29:45 GMT",
+                                    "tweetId": "1563247346401816576",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1563247346401816576",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 24",
                             "type": "calendarDay",
