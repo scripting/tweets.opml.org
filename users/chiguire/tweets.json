@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 19:37:41 GMT"
+            "dateModified": "Fri, 26 Aug 2022 20:44:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "Necesito jugar Hohokum con unos hongos, algo <a href=\"https://t.co/YyTbkj4QAc\">[link]</a>",
+                                    "rawText": "Necesito jugar Hohokum con unos hongos, algo https://t.co/YyTbkj4QAc",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 20:38:19 GMT",
+                                    "tweetId": "1563264599515750400",
+                                    "urltweet": "https://twitter.com/chiguire/status/1563264599515750400",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Demasiada felicidad este juego <a href=\"https://t.co/pO8o1oOqrY\">[link]</a>",
+                                            "rawText": "Demasiada felicidad este juego https://t.co/pO8o1oOqrY",
+                                            "type": "tweet",
+                                            "created": "Fri, 26 Aug 2022 20:43:15 GMT",
+                                            "tweetId": "1563265843257294849",
+                                            "urltweet": "https://twitter.com/chiguire/status/1563265843257294849",
+                                            "inReplyToId": "1563264599515750400",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@Ansitru Any pizza is personal if you really put in the effort",
                                     "rawText": "@Ansitru Any pizza is personal if you really put in the effort",
