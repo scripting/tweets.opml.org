@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 00:42:01 GMT"
+            "dateModified": "Fri, 26 Aug 2022 11:21:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "@gregggonsalves @KatherineJWu Wish I could read it, but the paywall says no.",
+                                    "rawText": "@gregggonsalves @KatherineJWu Wish I could read it, but the paywall says no.",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 11:20:05 GMT",
+                                    "tweetId": "1563124118543040518",
+                                    "urltweet": "https://twitter.com/davewiner/status/1563124118543040518",
+                                    "inReplyToId": "1563118888505593857",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 25",
                             "type": "calendarDay",
