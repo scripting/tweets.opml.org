@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 04:58:45 GMT"
+            "dateModified": "Fri, 26 Aug 2022 14:55:39 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@davewiner Hey @samuelclay, does @NewsBlur strip HTML from feed entries? Based on a quick forum search, it looks like you do some light stripping, but just wanted to confirm.",
+                                    "rawText": "@davewiner Hey @samuelclay, does @NewsBlur strip HTML from feed entries? Based on a quick forum search, it looks like you do some light stripping, but just wanted to confirm.",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 14:54:53 GMT",
+                                    "tweetId": "1563178173399187462",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1563178173399187462",
+                                    "inReplyToId": "1563140463560773632",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "I long ago moved all of my free apps to @dokku, hosted on a Digital Ocean VPS. I plan on using keeping the one paid Dyno I use for the foreseeable future, though. <a href=\"https://t.co/ntaO1Qd4Jt\">[link]</a>",
                                     "rawText": "I long ago moved all of my free apps to @dokku, hosted on a Digital Ocean VPS. I plan on using keeping the one paid Dyno I use for the foreseeable future, though. https://t.co/ntaO1Qd4Jt",
