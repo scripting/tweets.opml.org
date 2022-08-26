@@ -6,11 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/gwthompson/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Fri, 26 Aug 2022 04:26:43 GMT</dateModified>
+		<dateModified>Fri, 26 Aug 2022 18:35:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="August 2022" type="calendarMonth" name="august2022" >
 			<outline text="August 26" type="calendarDay" name="26" >
+				<outline text="# Testing 1, 2, 3
+
+1. Item 1
+2. Item 2
+3. Item 3" rawText="# Testing 1, 2, 3
+
+1. Item 1
+2. Item 2
+3. Item 3" type="tweet" created="Fri, 26 Aug 2022 18:23:26 GMT" tweetId="1563230657555206144" urltweet="https://twitter.com/gwthompson/status/1563230657555206144" inReplyToId="" tweetUserName="gwthompson" />
 				<outline text="Wordle 433 3/6
 
 ⬛⬛🟨⬛⬛
@@ -19,7 +28,7 @@
 
 ⬛⬛🟨⬛⬛
 ⬛⬛🟩🟨🟩
-🟩🟩🟩🟩🟩" type="tweet" created="Fri, 26 Aug 2022 04:18:27 GMT" tweetId="1563018007412035584" urltweet="https://twitter.com/gwthompson/status/1563018007412035584" inReplyToId="" tweetUserName="gwthompson" />
+🟩🟩🟩🟩🟩" type="tweet" created="Fri, 26 Aug 2022 04:18:27 GMT" tweetId="1563018007412035584" urltweet="https://twitter.com/gwthompson/status/1563018007412035584" tweetUserName="gwthompson" />
 				</outline>
 			<outline text="August 25" type="calendarDay" name="25" >
 				<outline text="@MSliwinski @marcoarment @atpfm I just bought the iPhone 13 Mini and I switch my SIM card between it and my iPhone 12 Pro Max depending on what my plans are for the day. The more I use the mini the more I love it!!" rawText="@MSliwinski @marcoarment @atpfm I just bought the iPhone 13 Mini and I switch my SIM card between it and my iPhone 12 Pro Max depending on what my plans are for the day. The more I use the mini the more I love it!!" type="tweet" created="Thu, 25 Aug 2022 14:10:04 GMT" tweetId="1562804507515682817" urltweet="https://twitter.com/gwthompson/status/1562804507515682817" inReplyToId="1562735958700658690" tweetUserName="gwthompson" />
