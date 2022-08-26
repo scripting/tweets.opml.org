@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 10:22:06 GMT"
+            "dateModified": "Fri, 26 Aug 2022 10:48:38 GMT"
         },
         "body": {
             "subs": [
@@ -269,7 +269,19 @@
                                             "tweetId": "1562080398657609728",
                                             "urltweet": "https://twitter.com/RonKJeffries/status/1562080398657609728",
                                             "inReplyToId": "1562079254191280128",
-                                            "tweetUserName": "RonKJeffries"
+                                            "tweetUserName": "RonKJeffries",
+                                            "subs": [
+                                                {
+                                                    "text": "Clarification: I'm using <a href=\"https://t.co/Xc3ymgRerD\">[link]</a>\n(for now).  @davewiner is building a new RSS feedreader to leverage Markdown &amp; allow users to  control the look and feel. \n\nHis feedreader isn't available, but apparently is coming Real Soon Now. See:\n\nhttps://t.co/0hdfVlTn1D",
+                                                    "rawText": "Clarification: I'm using https://t.co/Xc3ymgRerD\n(for now).  @davewiner is building a new RSS feedreader to leverage Markdown &amp; allow users to  control the look and feel. \n\nHis feedreader isn't available, but apparently is coming Real Soon Now. See:\n\nhttps://t.co/0hdfVlTn1D",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 26 Aug 2022 10:36:45 GMT",
+                                                    "tweetId": "1563113213146701825",
+                                                    "urltweet": "https://twitter.com/RonKJeffries/status/1563113213146701825",
+                                                    "inReplyToId": "1562080398657609728",
+                                                    "tweetUserName": "RonKJeffries"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
