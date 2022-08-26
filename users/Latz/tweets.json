@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 18:23:33 GMT"
+            "dateModified": "Fri, 26 Aug 2022 18:48:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Heute habe ich @BrewDog - Bier bei Penny gefunden. Keine Ahnung, ob das ein Angebot ist oder ob die das immer haben. <a href=\"https://t.co/vJXlWDggrt\">[link]</a>",
+                                    "rawText": "Heute habe ich @BrewDog - Bier bei Penny gefunden. Keine Ahnung, ob das ein Angebot ist oder ob die das immer haben. https://t.co/vJXlWDggrt",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 18:37:15 GMT",
+                                    "tweetId": "1563234133996077063",
+                                    "urltweet": "https://twitter.com/Latz/status/1563234133996077063",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 24",
                             "type": "calendarDay",
