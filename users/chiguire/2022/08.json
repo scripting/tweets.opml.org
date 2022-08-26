@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 19:24:25 GMT"
+            "dateModified": "Fri, 26 Aug 2022 19:37:41 GMT"
         },
         "body": {
             "subs": [
@@ -1235,7 +1235,19 @@
                                                     "tweetId": "1562561702389919746",
                                                     "urltweet": "https://twitter.com/chiguire/status/1562561702389919746",
                                                     "inReplyToId": "1559565421065420801",
-                                                    "tweetUserName": "chiguire"
+                                                    "tweetUserName": "chiguire",
+                                                    "subs": [
+                                                        {
+                                                            "text": "#earworm <a href=\"https://t.co/dNhgUhFPp2\">[link]</a>",
+                                                            "rawText": "#earworm https://t.co/dNhgUhFPp2",
+                                                            "type": "tweet",
+                                                            "created": "Fri, 26 Aug 2022 19:35:02 GMT",
+                                                            "tweetId": "1563248673579929601",
+                                                            "urltweet": "https://twitter.com/chiguire/status/1563248673579929601",
+                                                            "inReplyToId": "1562561702389919746",
+                                                            "tweetUserName": "chiguire"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
