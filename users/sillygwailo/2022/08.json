@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 03:12:38 GMT"
+            "dateModified": "Fri, 26 Aug 2022 04:45:29 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "I’ll be in Toronto for an indefinite period starting this Saturday. What’s fun to do there?",
+                                    "rawText": "I’ll be in Toronto for an indefinite period starting this Saturday. What’s fun to do there?",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 04:42:08 GMT",
+                                    "tweetId": "1563023969749733376",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1563023969749733376",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 25",
                             "type": "calendarDay",
