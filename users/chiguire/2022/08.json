@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 20:44:01 GMT"
+            "dateModified": "Fri, 26 Aug 2022 21:37:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "26",
                             "subs": [
+                                {
+                                    "text": "@mrciroandres Es terrible",
+                                    "rawText": "@mrciroandres Es terrible",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 21:31:20 GMT",
+                                    "tweetId": "1563277940984492034",
+                                    "urltweet": "https://twitter.com/chiguire/status/1563277940984492034",
+                                    "inReplyToId": "1563266906844704769",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "Necesito jugar Hohokum con unos hongos, algo <a href=\"https://t.co/YyTbkj4QAc\">[link]</a>",
                                     "rawText": "Necesito jugar Hohokum con unos hongos, algo https://t.co/YyTbkj4QAc",
@@ -675,7 +685,19 @@
                                             "tweetId": "1562575490837512196",
                                             "urltweet": "https://twitter.com/chiguire/status/1562575490837512196",
                                             "inReplyToId": "1560932913016881153",
-                                            "tweetUserName": "chiguire"
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "lqm @SukebanGames @kiririn51 @IronicLark <a href=\"https://t.co/gacUFTeqpb\">[link]</a>",
+                                                    "rawText": "lqm @SukebanGames @kiririn51 @IronicLark https://t.co/gacUFTeqpb",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 26 Aug 2022 21:30:35 GMT",
+                                                    "tweetId": "1563277753448730625",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1563277753448730625",
+                                                    "inReplyToId": "1562575490837512196",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
