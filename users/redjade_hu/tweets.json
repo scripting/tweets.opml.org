@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 23 Aug 2022 18:38:31 GMT"
+            "dateModified": "Fri, 26 Aug 2022 11:51:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "#Question Do you use Twitter lists?",
+                                    "rawText": "#Question Do you use Twitter lists?",
+                                    "type": "tweet",
+                                    "created": "Fri, 26 Aug 2022 11:42:34 GMT",
+                                    "tweetId": "1563129774897147909",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1563129774897147909",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 23",
                             "type": "calendarDay",
