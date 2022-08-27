@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 21:45:05 GMT"
+            "dateModified": "Sat, 27 Aug 2022 14:19:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Nice to see that @msonenote sync engine is back online this morning. \n\nUsing Word + OneDrive worked fine yesterday as a one-off stop gap, but OneNote is just better for this kind of daily tracking - when the sync service is online anyway.",
+                                    "rawText": "Nice to see that @msonenote sync engine is back online this morning. \n\nUsing Word + OneDrive worked fine yesterday as a one-off stop gap, but OneNote is just better for this kind of daily tracking - when the sync service is online anyway.",
+                                    "type": "tweet",
+                                    "created": "Sat, 27 Aug 2022 14:12:16 GMT",
+                                    "tweetId": "1563529836500762624",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1563529836500762624",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 26",
                             "type": "calendarDay",
