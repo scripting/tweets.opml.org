@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 24 Aug 2022 17:21:14 GMT"
+            "dateModified": "Sat, 27 Aug 2022 00:37:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 26",
+                            "type": "calendarDay",
+                            "name": "26",
+                            "subs": [
+                                {
+                                    "text": "Apparently it’s 80s prom night at the Brewers / @Cubs game. @WatchMarquee",
+                                    "rawText": "Apparently it’s 80s prom night at the Brewers / @Cubs game. @WatchMarquee",
+                                    "type": "tweet",
+                                    "created": "Sat, 27 Aug 2022 00:27:28 GMT",
+                                    "tweetId": "1563322267202777089",
+                                    "urltweet": "https://twitter.com/frankm/status/1563322267202777089",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 24",
                             "type": "calendarDay",
