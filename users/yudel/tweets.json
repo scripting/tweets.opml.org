@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 27 Aug 2022 01:16:03 GMT"
+            "dateModified": "Sat, 27 Aug 2022 01:29:19 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1563334242326953985",
                                     "urltweet": "https://twitter.com/yudel/status/1563334242326953985",
                                     "inReplyToId": "1563332900598140928",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@hilzoy @TPM I mean, it’s not like Mick Mulvaney would have opposed government data retention when he headed OMB, right, given his reputation as an advocate of transparency and honesty?",
+                                            "rawText": "@hilzoy @TPM I mean, it’s not like Mick Mulvaney would have opposed government data retention when he headed OMB, right, given his reputation as an advocate of transparency and honesty?",
+                                            "type": "tweet",
+                                            "created": "Sat, 27 Aug 2022 01:21:15 GMT",
+                                            "tweetId": "1563335804407398400",
+                                            "urltweet": "https://twitter.com/yudel/status/1563335804407398400",
+                                            "inReplyToId": "1563334242326953985",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@protecttruth_ @ElieNYC Judicial Watch no doubt believes that Separation of Powers bars Congress from regulating the President. The question ultimately is whether Alito agrees.",
