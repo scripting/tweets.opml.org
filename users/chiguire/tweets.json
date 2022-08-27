@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 27 Aug 2022 09:20:04 GMT"
+            "dateModified": "Sat, 27 Aug 2022 10:13:08 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "Yo grabándome para Instagram <a href=\"https://t.co/pNppeTgEui\">[link]</a>",
+                                    "rawText": "Yo grabándome para Instagram https://t.co/pNppeTgEui",
+                                    "type": "tweet",
+                                    "created": "Sat, 27 Aug 2022 10:11:55 GMT",
+                                    "tweetId": "1563469348349825024",
+                                    "urltweet": "https://twitter.com/chiguire/status/1563469348349825024",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@upisfree @js13kGames Loving those artifacts",
                                     "rawText": "@upisfree @js13kGames Loving those artifacts",
