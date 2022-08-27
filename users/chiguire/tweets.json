@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 22:30:07 GMT"
+            "dateModified": "Sat, 27 Aug 2022 07:47:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@csnegri Feliz cumpleaños!",
+                                    "rawText": "@csnegri Feliz cumpleaños!",
+                                    "type": "tweet",
+                                    "created": "Sat, 27 Aug 2022 07:34:24 GMT",
+                                    "tweetId": "1563429709698179072",
+                                    "urltweet": "https://twitter.com/chiguire/status/1563429709698179072",
+                                    "inReplyToId": "1563426625492242432",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 26",
                             "type": "calendarDay",
