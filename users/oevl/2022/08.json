@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 27 Aug 2022 03:20:56 GMT"
+            "dateModified": "Sat, 27 Aug 2022 04:40:31 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Rejection Is Your Resume | Daron Roberts | TEDxUTAustin <a href=\"https://t.co/LHUwrBiLzX\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Rejection Is Your Resume | Daron Roberts | TEDxUTAustin https://t.co/LHUwrBiLzX",
+                                    "type": "tweet",
+                                    "created": "Sat, 27 Aug 2022 04:38:34 GMT",
+                                    "tweetId": "1563385459572899846",
+                                    "urltweet": "https://twitter.com/oevl/status/1563385459572899846",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 26",
                             "type": "calendarDay",
