@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 27 Aug 2022 18:50:41 GMT"
+            "dateModified": "Sat, 27 Aug 2022 19:03:57 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1563597347476897792",
                                             "urltweet": "https://twitter.com/KevinCTofel/status/1563597347476897792",
                                             "inReplyToId": "1563587581127757824",
-                                            "tweetUserName": "KevinCTofel"
+                                            "tweetUserName": "KevinCTofel",
+                                            "subs": [
+                                                {
+                                                    "text": "Good thing I bought caulk too. 🙄 <a href=\"https://t.co/8oApb9kHxH\">[link]</a>",
+                                                    "rawText": "Good thing I bought caulk too. 🙄 https://t.co/8oApb9kHxH",
+                                                    "type": "tweet",
+                                                    "created": "Sat, 27 Aug 2022 19:02:58 GMT",
+                                                    "tweetId": "1563602992699670530",
+                                                    "urltweet": "https://twitter.com/KevinCTofel/status/1563602992699670530",
+                                                    "inReplyToId": "1563597347476897792",
+                                                    "tweetUserName": "KevinCTofel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
