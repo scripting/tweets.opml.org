@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 12:21:29 GMT"
+            "dateModified": "Sat, 27 Aug 2022 11:07:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "Fascinatinf. <a href=\"https://t.co/r40hGxHwH4\">[link]</a>",
+                                    "rawText": "Fascinatinf. https://t.co/r40hGxHwH4",
+                                    "type": "tweet",
+                                    "created": "Sat, 27 Aug 2022 11:05:39 GMT",
+                                    "tweetId": "1563482872190603265",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1563482872190603265",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 26",
                             "type": "calendarDay",
