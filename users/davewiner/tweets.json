@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 27 Aug 2022 16:02:00 GMT"
+            "dateModified": "Sat, 27 Aug 2022 16:04:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "27",
                             "subs": [
+                                {
+                                    "text": "@moritz My approach is a bit different. I strip all the markup, and say if you want to talk to me with paragraphs, links, styling, titles -- use Markdown.",
+                                    "rawText": "@moritz My approach is a bit different. I strip all the markup, and say if you want to talk to me with paragraphs, links, styling, titles -- use Markdown.",
+                                    "type": "tweet",
+                                    "created": "Sat, 27 Aug 2022 16:03:05 GMT",
+                                    "tweetId": "1563557722791895040",
+                                    "urltweet": "https://twitter.com/davewiner/status/1563557722791895040",
+                                    "inReplyToId": "1563557248575582209",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I would never try to reinvent twitter in terms of rss, but i do want very much to get the two networks joined. \n\ntwitter does what it does very well, and rss does something different, also very well.\n\nthe philosophy of the internet tells us we should get them to peer.",
                                     "rawText": "I would never try to reinvent twitter in terms of rss, but i do want very much to get the two networks joined. \n\ntwitter does what it does very well, and rss does something different, also very well.\n\nthe philosophy of the internet tells us we should get them to peer.",
