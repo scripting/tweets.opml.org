@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 27 Aug 2022 01:35:00 GMT"
+            "dateModified": "Sat, 27 Aug 2022 09:19:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 27",
+                            "type": "calendarDay",
+                            "name": "27",
+                            "subs": [
+                                {
+                                    "text": "@itraor Not true. I had a meeting with @jack when Twitter was still very small and he told me what he wanted to do.",
+                                    "rawText": "@itraor Not true. I had a meeting with @jack when Twitter was still very small and he told me what he wanted to do.",
+                                    "type": "tweet",
+                                    "created": "Sat, 27 Aug 2022 09:18:34 GMT",
+                                    "tweetId": "1563455925268398081",
+                                    "urltweet": "https://twitter.com/davewiner/status/1563455925268398081",
+                                    "inReplyToId": "1563455259426824192",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 26",
                             "type": "calendarDay",
