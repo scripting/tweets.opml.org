@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 28 Aug 2022 00:28:48 GMT"
+            "dateModified": "Sun, 28 Aug 2022 00:42:04 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1563684923239710721",
                                             "urltweet": "https://twitter.com/yudel/status/1563684923239710721",
                                             "inReplyToId": "1563684160815906818",
-                                            "tweetUserName": "yudel"
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "Nobody seems to have investigated who led him to throw his life away, but it seems like the quoted twitter account is a strong clue.",
+                                                    "rawText": "Nobody seems to have investigated who led him to throw his life away, but it seems like the quoted twitter account is a strong clue.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 28 Aug 2022 00:29:39 GMT",
+                                                    "tweetId": "1563685205742944256",
+                                                    "urltweet": "https://twitter.com/yudel/status/1563685205742944256",
+                                                    "inReplyToId": "1563684923239710721",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
