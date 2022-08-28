@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 28 Aug 2022 03:18:01 GMT"
+            "dateModified": "Sun, 28 Aug 2022 12:09:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "Swiss Glaciers Shrank to Half Their Size Since 1931. <a href=\"https://t.co/5joyaCREIt\">[link]</a>",
+                                    "rawText": "Swiss Glaciers Shrank to Half Their Size Since 1931. https://t.co/5joyaCREIt",
+                                    "type": "tweet",
+                                    "created": "Sun, 28 Aug 2022 12:08:38 GMT",
+                                    "tweetId": "1563861109379141636",
+                                    "urltweet": "https://twitter.com/davewiner/status/1563861109379141636",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 27",
                             "type": "calendarDay",
