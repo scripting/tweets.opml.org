@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 28 Aug 2022 04:09:02 GMT"
+            "dateModified": "Sun, 28 Aug 2022 10:20:26 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 28",
+                            "type": "calendarDay",
+                            "name": "28",
+                            "subs": [
+                                {
+                                    "text": "@joshixisjosh9 you are hilarious. If only...",
+                                    "rawText": "@joshixisjosh9 you are hilarious. If only...",
+                                    "type": "tweet",
+                                    "created": "Sun, 28 Aug 2022 10:15:00 GMT",
+                                    "tweetId": "1563832512173838337",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1563832512173838337",
+                                    "inReplyToId": "1563758290516975616",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 27",
                             "type": "calendarDay",
