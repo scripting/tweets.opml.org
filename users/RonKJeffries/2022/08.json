@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 28 Aug 2022 10:20:26 GMT"
+            "dateModified": "Sun, 28 Aug 2022 17:24:53 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "Interesting paper.\n<a href=\"https://t.co/j7SscUxVEw\">[link]</a>",
+                                    "rawText": "Interesting paper.\nhttps://t.co/j7SscUxVEw",
+                                    "type": "tweet",
+                                    "created": "Sun, 28 Aug 2022 17:20:35 GMT",
+                                    "tweetId": "1563939614984876032",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1563939614984876032",
+                                    "tweetUserName": "RonKJeffries",
+                                    "subs": [
+                                        {
+                                            "text": "Via @slava__bobrov thanks for the reference",
+                                            "rawText": "Via @slava__bobrov thanks for the reference",
+                                            "type": "tweet",
+                                            "created": "Sun, 28 Aug 2022 17:21:22 GMT",
+                                            "tweetId": "1563939813840941056",
+                                            "urltweet": "https://twitter.com/RonKJeffries/status/1563939813840941056",
+                                            "inReplyToId": "1563939614984876032",
+                                            "tweetUserName": "RonKJeffries"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@joshixisjosh9 you are hilarious. If only...",
                                     "rawText": "@joshixisjosh9 you are hilarious. If only...",
