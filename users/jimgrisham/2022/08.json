@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 28 Aug 2022 16:12:03 GMT"
+            "dateModified": "Sun, 28 Aug 2022 16:25:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "@pamela_barone @rdrimmel The #Iridium network?\n\nAfter the initial bankruptcy I believe they re-organized and ~currently~ provide service to governments and corporate clients.\n\n(not sure if the first generation of satellites is still active, though)\n\n@IridiumComm #leo #satcomm",
+                                    "rawText": "@pamela_barone @rdrimmel The #Iridium network?\n\nAfter the initial bankruptcy I believe they re-organized and ~currently~ provide service to governments and corporate clients.\n\n(not sure if the first generation of satellites is still active, though)\n\n@IridiumComm #leo #satcomm",
+                                    "type": "tweet",
+                                    "created": "Sun, 28 Aug 2022 16:15:27 GMT",
+                                    "tweetId": "1563923224978923520",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1563923224978923520",
+                                    "inReplyToId": "1563848235265003520",
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@pamela_barone @rdrimmel @IridiumComm (780 km altitude, per the Twitter bio of @IridiumBoss)",
+                                            "rawText": "@pamela_barone @rdrimmel @IridiumComm (780 km altitude, per the Twitter bio of @IridiumBoss)",
+                                            "type": "tweet",
+                                            "created": "Sun, 28 Aug 2022 16:16:58 GMT",
+                                            "tweetId": "1563923606002085888",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1563923606002085888",
+                                            "inReplyToId": "1563923224978923520",
+                                            "tweetUserName": "jimgrisham"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@pamela_barone @rdrimmel The Iridium network?\n\nAfter the initial bankruptcy I believe they re-organized and ~currently~ provide service to governments and corporate clients.\n\n(not sure if the first generation of satellites is still active, though)",
                                     "rawText": "@pamela_barone @rdrimmel The Iridium network?\n\nAfter the initial bankruptcy I believe they re-organized and ~currently~ provide service to governments and corporate clients.\n\n(not sure if the first generation of satellites is still active, though)",
