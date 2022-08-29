@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 28 Aug 2022 16:25:19 GMT"
+            "dateModified": "Mon, 29 Aug 2022 22:42:30 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "@SarahEJoyal @timothyaclark @ibogost I was reading a design document from c. 1995 yesterday and a ‘unified inbox’ was all the rage back then (at the time, for: fax, e-mail, IM, voicemails, etc.).\n\nBlackBerry tried again circa 2015 with their ‘Hub’, but everyone generally wants to stay all siloed for profit reasons.",
+                                    "rawText": "@SarahEJoyal @timothyaclark @ibogost I was reading a design document from c. 1995 yesterday and a ‘unified inbox’ was all the rage back then (at the time, for: fax, e-mail, IM, voicemails, etc.).\n\nBlackBerry tried again circa 2015 with their ‘Hub’, but everyone generally wants to stay all siloed for profit reasons.",
+                                    "type": "tweet",
+                                    "created": "Mon, 29 Aug 2022 22:40:04 GMT",
+                                    "tweetId": "1564382403111841793",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1564382403111841793",
+                                    "inReplyToId": "1564226891757674503",
+                                    "tweetUserName": "jimgrisham"
+                                },
+                                {
+                                    "text": "@StevePKirby @JorisGriffioen @ibogost Great use of screen real estate!",
+                                    "rawText": "@StevePKirby @JorisGriffioen @ibogost Great use of screen real estate!",
+                                    "type": "tweet",
+                                    "created": "Mon, 29 Aug 2022 22:35:55 GMT",
+                                    "tweetId": "1564381360495947778",
+                                    "urltweet": "https://twitter.com/jimgrisham/status/1564381360495947778",
+                                    "inReplyToId": "1564189868263104515",
+                                    "tweetUserName": "jimgrisham"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 28",
                             "type": "calendarDay",
