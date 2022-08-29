@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 02:40:43 GMT"
+            "dateModified": "Mon, 29 Aug 2022 03:07:15 GMT"
         },
         "body": {
             "subs": [
@@ -47,7 +47,19 @@
                                                     "tweetId": "1564079442430988290",
                                                     "urltweet": "https://twitter.com/KevinCTofel/status/1564079442430988290",
                                                     "inReplyToId": "1564070760230141952",
-                                                    "tweetUserName": "KevinCTofel"
+                                                    "tweetUserName": "KevinCTofel",
+                                                    "subs": [
+                                                        {
+                                                            "text": "In the money! And down to the last 2 tables. <a href=\"https://t.co/ck8o7GxXNc\">[link]</a>",
+                                                            "rawText": "In the money! And down to the last 2 tables. https://t.co/ck8o7GxXNc",
+                                                            "type": "tweet",
+                                                            "created": "Mon, 29 Aug 2022 02:56:20 GMT",
+                                                            "tweetId": "1564084509276098560",
+                                                            "urltweet": "https://twitter.com/KevinCTofel/status/1564084509276098560",
+                                                            "inReplyToId": "1564079442430988290",
+                                                            "tweetUserName": "KevinCTofel"
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
