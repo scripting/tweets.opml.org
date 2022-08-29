@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 16:25:36 GMT"
+            "dateModified": "Mon, 29 Aug 2022 17:31:56 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "29",
                             "subs": [
+                                {
+                                    "text": "Un besazo a Toro y Moi",
+                                    "rawText": "Un besazo a Toro y Moi",
+                                    "type": "tweet",
+                                    "created": "Mon, 29 Aug 2022 17:29:37 GMT",
+                                    "tweetId": "1564304274506612736",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1564304274506612736",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "A los dos",
+                                            "rawText": "A los dos",
+                                            "type": "tweet",
+                                            "created": "Mon, 29 Aug 2022 17:30:21 GMT",
+                                            "tweetId": "1564304462088470528",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1564304462088470528",
+                                            "inReplyToId": "1564304274506612736",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Increíble que twitter haya creado una forma de etiqueta tweets para decir “se vienen cositas”",
                                     "rawText": "Increíble que twitter haya creado una forma de etiqueta tweets para decir “se vienen cositas”",
