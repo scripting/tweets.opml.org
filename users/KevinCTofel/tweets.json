@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 02:14:11 GMT"
+            "dateModified": "Mon, 29 Aug 2022 02:40:43 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1564070760230141952",
                                             "urltweet": "https://twitter.com/KevinCTofel/status/1564070760230141952",
                                             "inReplyToId": "1564070387197042690",
-                                            "tweetUserName": "KevinCTofel"
+                                            "tweetUserName": "KevinCTofel",
+                                            "subs": [
+                                                {
+                                                    "text": "Top 15 are in the money. Looking good with only 19 players left. <a href=\"https://t.co/fOUdXilUOd\">[link]</a>",
+                                                    "rawText": "Top 15 are in the money. Looking good with only 19 players left. https://t.co/fOUdXilUOd",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 29 Aug 2022 02:36:12 GMT",
+                                                    "tweetId": "1564079442430988290",
+                                                    "urltweet": "https://twitter.com/KevinCTofel/status/1564079442430988290",
+                                                    "inReplyToId": "1564070760230141952",
+                                                    "tweetUserName": "KevinCTofel"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
