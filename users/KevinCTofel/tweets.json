@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 04:00:18 GMT"
+            "dateModified": "Mon, 29 Aug 2022 06:52:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Why a Google Pixelbook with Tensor chip makes sense <a href=\"https://t.co/1c7vVFltUM\">[link]</a> https://t.co/0cvVl1pYfG",
+                                    "rawText": "ICYMI: Why a Google Pixelbook with Tensor chip makes sense https://t.co/1c7vVFltUM https://t.co/0cvVl1pYfG",
+                                    "type": "tweet",
+                                    "created": "Mon, 29 Aug 2022 06:50:02 GMT",
+                                    "tweetId": "1564143318040281089",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1564143318040281089",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 28",
                             "type": "calendarDay",
