@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 28 Aug 2022 20:16:00 GMT"
+            "dateModified": "Mon, 29 Aug 2022 11:19:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 29",
+                            "type": "calendarDay",
+                            "name": "29",
+                            "subs": [
+                                {
+                                    "text": "Cheap medical tools mean costly consequences, doctors lament. <a href=\"https://t.co/898NQBgp3W\">[link]</a>",
+                                    "rawText": "Cheap medical tools mean costly consequences, doctors lament. https://t.co/898NQBgp3W",
+                                    "type": "tweet",
+                                    "created": "Mon, 29 Aug 2022 11:18:39 GMT",
+                                    "tweetId": "1564210918526943232",
+                                    "urltweet": "https://twitter.com/davewiner/status/1564210918526943232",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 28",
                             "type": "calendarDay",
