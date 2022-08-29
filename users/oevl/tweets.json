@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 02:39:28 GMT"
+            "dateModified": "Mon, 29 Aug 2022 03:06:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "28",
                             "subs": [
+                                {
+                                    "text": "Updating an #Axyl install on one of my laptops, just needed to remove wxgtk2 per <a href=\"https://t.co/Q3CvxYCQgv\">[link]</a> (Also p7zipgui that depended on wxgtk2). I haven't used this machine in months.",
+                                    "rawText": "Updating an #Axyl install on one of my laptops, just needed to remove wxgtk2 per https://t.co/Q3CvxYCQgv (Also p7zipgui that depended on wxgtk2). I haven't used this machine in months.",
+                                    "type": "tweet",
+                                    "created": "Mon, 29 Aug 2022 03:01:29 GMT",
+                                    "tweetId": "1564085804015681537",
+                                    "urltweet": "https://twitter.com/oevl/status/1564085804015681537",
+                                    "tweetUserName": "oevl"
+                                },
                                 {
                                     "text": "👍 on @YouTube: Minicomputer Part 18: Restoring CDC 8” Floppy Drives <a href=\"https://t.co/okVaSWziu7\">[link]</a>",
                                     "rawText": "👍 on @YouTube: Minicomputer Part 18: Restoring CDC 8” Floppy Drives https://t.co/okVaSWziu7",
