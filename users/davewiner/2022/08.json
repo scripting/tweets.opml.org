@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 19:44:00 GMT"
+            "dateModified": "Mon, 29 Aug 2022 20:06:00 GMT"
         },
         "body": {
             "subs": [
@@ -75,7 +75,19 @@
                                             "tweetId": "1564260232418689026",
                                             "urltweet": "https://twitter.com/davewiner/status/1564260232418689026",
                                             "inReplyToId": "1564232921057300480",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "This is the kind of project they would have done in the early days of the TCP network. \n\nOr in the early days of the web. \n\nOr blogging.\n\nNews on the net never got to go through an \"early days.\" There was a very brief period of maybe a few weeks when we worked together, in 2002.",
+                                                    "rawText": "This is the kind of project they would have done in the early days of the TCP network. \n\nOr in the early days of the web. \n\nOr blogging.\n\nNews on the net never got to go through an \"early days.\" There was a very brief period of maybe a few weeks when we worked together, in 2002.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 29 Aug 2022 20:05:05 GMT",
+                                                    "tweetId": "1564343402203779073",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1564343402203779073",
+                                                    "inReplyToId": "1564260232418689026",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
