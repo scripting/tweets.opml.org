@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 12:47:00 GMT"
+            "dateModified": "Mon, 29 Aug 2022 14:35:00 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 29 Aug 2022 12:46:05 GMT",
                                     "tweetId": "1564232921057300480",
                                     "urltweet": "https://twitter.com/davewiner/status/1564232921057300480",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "BTW, it wouldn't be hard to do technically. I'd be happy to run the server. Just requires a namespace, a way of indicating that a story is excluded from the paywall.\n\nI wrote it up here..\n\n<a href=\"https://t.co/O4oAFWfMD0\">[link]</a>",
+                                            "rawText": "BTW, it wouldn't be hard to do technically. I'd be happy to run the server. Just requires a namespace, a way of indicating that a story is excluded from the paywall.\n\nI wrote it up here..\n\nhttps://t.co/O4oAFWfMD0",
+                                            "type": "tweet",
+                                            "created": "Mon, 29 Aug 2022 14:34:36 GMT",
+                                            "tweetId": "1564260232418689026",
+                                            "urltweet": "https://twitter.com/davewiner/status/1564260232418689026",
+                                            "inReplyToId": "1564232921057300480",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@CNN Poor little fascist got his feels hurt.",
