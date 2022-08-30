@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 25 Aug 2022 21:48:33 GMT"
+            "dateModified": "Tue, 30 Aug 2022 17:12:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nDunes, now with vulture\n\nNot ominous at all\n\n#SVG #XQuery <a href=\"https://t.co/4Ud9MfhP86\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nDunes, now with vulture\n\nNot ominous at all\n\n#SVG #XQuery https://t.co/4Ud9MfhP86",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 17:00:55 GMT",
+                                    "tweetId": "1564659440552292352",
+                                    "urltweet": "https://twitter.com/mathling/status/1564659440552292352",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 25",
                             "type": "calendarDay",
