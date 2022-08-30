@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 21:00:41 GMT"
+            "dateModified": "Tue, 30 Aug 2022 22:07:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,38 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "@HannahLebovits As always, ask yourself: What would Tom Lehrer do?",
+                                    "rawText": "@HannahLebovits As always, ask yourself: What would Tom Lehrer do?",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 22:02:10 GMT",
+                                    "tweetId": "1564735252324646912",
+                                    "urltweet": "https://twitter.com/yudel/status/1564735252324646912",
+                                    "inReplyToId": "1564726922331947015",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@HannahLebovits Though he’s more of a quant guy.",
+                                            "rawText": "@HannahLebovits Though he’s more of a quant guy.",
+                                            "type": "tweet",
+                                            "created": "Tue, 30 Aug 2022 22:02:23 GMT",
+                                            "tweetId": "1564735310096916480",
+                                            "urltweet": "https://twitter.com/yudel/status/1564735310096916480",
+                                            "inReplyToId": "1564735252324646912",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@typolad Homophonic? That certainly sounds bad….",
+                                    "rawText": "@typolad Homophonic? That certainly sounds bad….",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 21:59:41 GMT",
+                                    "tweetId": "1564734626807091201",
+                                    "urltweet": "https://twitter.com/yudel/status/1564734626807091201",
+                                    "inReplyToId": "1564729327710883841",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "Today in Dylan gematria…. <a href=\"https://t.co/dG7ZZ8fMCy\">[link]</a>",
                                     "rawText": "Today in Dylan gematria…. https://t.co/dG7ZZ8fMCy",
