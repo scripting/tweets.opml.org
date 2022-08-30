@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 20:40:38 GMT"
+            "dateModified": "Tue, 30 Aug 2022 06:50:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Reading “Rahmenvertrag”, thinking “Ramen Vertrag”",
+                                    "rawText": "Reading “Rahmenvertrag”, thinking “Ramen Vertrag”",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 06:44:39 GMT",
+                                    "tweetId": "1564504353989443584",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1564504353989443584",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 29",
                             "type": "calendarDay",
