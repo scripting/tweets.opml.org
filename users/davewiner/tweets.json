@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 10:15:00 GMT"
+            "dateModified": "Tue, 30 Aug 2022 11:45:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "Some jokes on Twitter do make you laugh out loud. <a href=\"https://t.co/tKl6UNQ3Y5\">[link]</a>",
+                                    "rawText": "Some jokes on Twitter do make you laugh out loud. https://t.co/tKl6UNQ3Y5",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 11:44:44 GMT",
+                                    "tweetId": "1564579872969818113",
+                                    "urltweet": "https://twitter.com/davewiner/status/1564579872969818113",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "If you’re a writer do you write primarily to…",
                                     "rawText": "If you’re a writer do you write primarily to…",
