@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 02:56:02 GMT"
+            "dateModified": "Tue, 30 Aug 2022 15:05:34 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "I read this thread in the voice of Cosmo from Sneakers. <a href=\"https://t.co/0RZQvWIqqk\">[link]</a>",
+                                    "rawText": "I read this thread in the voice of Cosmo from Sneakers. https://t.co/0RZQvWIqqk",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 14:58:35 GMT",
+                                    "tweetId": "1564628657280262147",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1564628657280262147",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/RQXjtUS38h\">[link]</a>",
+                                            "rawText": "https://t.co/RQXjtUS38h",
+                                            "type": "tweet",
+                                            "created": "Tue, 30 Aug 2022 14:58:36 GMT",
+                                            "tweetId": "1564628659000033284",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1564628659000033284",
+                                            "inReplyToId": "1564628657280262147",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 29",
                             "type": "calendarDay",
