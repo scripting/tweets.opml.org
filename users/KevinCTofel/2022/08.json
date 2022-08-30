@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 01:13:40 GMT"
+            "dateModified": "Tue, 30 Aug 2022 06:18:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Sustainability is only half the Acer Chromebook Vero 514 story <a href=\"https://t.co/kDuwcSbMf5\">[link]</a> https://t.co/el7camLnst",
+                                    "rawText": "ICYMI: Sustainability is only half the Acer Chromebook Vero 514 story https://t.co/kDuwcSbMf5 https://t.co/el7camLnst",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 06:15:02 GMT",
+                                    "tweetId": "1564496899947864064",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1564496899947864064",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 29",
                             "type": "calendarDay",
