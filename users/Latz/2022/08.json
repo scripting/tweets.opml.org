@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 18:52:31 GMT"
+            "dateModified": "Tue, 30 Aug 2022 11:53:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Voll hektisch hier! <a href=\"https://t.co/SiXFyfqaQH\">[link]</a>",
+                                    "rawText": "Voll hektisch hier! https://t.co/SiXFyfqaQH",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 11:52:44 GMT",
+                                    "tweetId": "1564581883568062465",
+                                    "urltweet": "https://twitter.com/Latz/status/1564581883568062465",
+                                    "tweetUserName": "Latz"
+                                },
+                                {
+                                    "text": "Die letzte Runde 9€-Ticketing. <a href=\"https://t.co/T8L7AS3zg8\">[link]</a>",
+                                    "rawText": "Die letzte Runde 9€-Ticketing. https://t.co/T8L7AS3zg8",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 11:41:52 GMT",
+                                    "tweetId": "1564579148810653697",
+                                    "urltweet": "https://twitter.com/Latz/status/1564579148810653697",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 29",
                             "type": "calendarDay",
