@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 29 Aug 2022 13:38:11 GMT"
+            "dateModified": "Tue, 30 Aug 2022 21:28:13 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "Just discovered Steve ‘n’ Seagulls. Who says Twitter isn’t useful? <a href=\"https://t.co/mmn84EFGeT\">[link]</a>",
+                                    "rawText": "Just discovered Steve ‘n’ Seagulls. Who says Twitter isn’t useful? https://t.co/mmn84EFGeT",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 21:23:44 GMT",
+                                    "tweetId": "1564725580465115137",
+                                    "urltweet": "https://twitter.com/frankm/status/1564725580465115137",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 29",
                             "type": "calendarDay",
