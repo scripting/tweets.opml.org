@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 23:13:20 GMT"
+            "dateModified": "Tue, 30 Aug 2022 23:39:51 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "Elul reading arrived! <a href=\"https://t.co/lgnbOQ6yR1\">[link]</a>",
+                                    "rawText": "Elul reading arrived! https://t.co/lgnbOQ6yR1",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 23:14:51 GMT",
+                                    "tweetId": "1564753546960146433",
+                                    "urltweet": "https://twitter.com/yudel/status/1564753546960146433",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@Growth_Bull @ariella_kay I’ve never compared notes, but I’d bet money that my former YU roommate practiced celibacy longer than I did.",
                                     "rawText": "@Growth_Bull @ariella_kay I’ve never compared notes, but I’d bet money that my former YU roommate practiced celibacy longer than I did.",
@@ -70,7 +79,31 @@
                                     "tweetId": "1564748381003685889",
                                     "urltweet": "https://twitter.com/yudel/status/1564748381003685889",
                                     "inReplyToId": "1564746350763429890",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@HannahLebovits Here it is: <a href=\"https://t.co/0iM979VEb0\">[link]</a>",
+                                            "rawText": "@HannahLebovits Here it is: https://t.co/0iM979VEb0",
+                                            "type": "tweet",
+                                            "created": "Tue, 30 Aug 2022 23:35:18 GMT",
+                                            "tweetId": "1564758692985294848",
+                                            "urltweet": "https://twitter.com/yudel/status/1564758692985294848",
+                                            "inReplyToId": "1564748381003685889",
+                                            "tweetUserName": "yudel",
+                                            "subs": [
+                                                {
+                                                    "text": "@HannahLebovits Obviously, if those involved want to leak to the Jewish media, happy to help with that process.",
+                                                    "rawText": "@HannahLebovits Obviously, if those involved want to leak to the Jewish media, happy to help with that process.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 30 Aug 2022 23:36:06 GMT",
+                                                    "tweetId": "1564758891543527426",
+                                                    "urltweet": "https://twitter.com/yudel/status/1564758891543527426",
+                                                    "inReplyToId": "1564758692985294848",
+                                                    "tweetUserName": "yudel"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@gilad73 @maimonides_nutz Sadly not on Spotify.",
