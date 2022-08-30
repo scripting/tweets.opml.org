@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 26 Aug 2022 17:49:50 GMT"
+            "dateModified": "Tue, 30 Aug 2022 23:57:53 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 30",
+                            "type": "calendarDay",
+                            "name": "30",
+                            "subs": [
+                                {
+                                    "text": "@davewiner i mean if microsoft did search right there'd be no google. these behemoths are too busy making money to make more",
+                                    "rawText": "@davewiner i mean if microsoft did search right there'd be no google. these behemoths are too busy making money to make more",
+                                    "type": "tweet",
+                                    "created": "Tue, 30 Aug 2022 23:49:47 GMT",
+                                    "tweetId": "1564762336212447232",
+                                    "urltweet": "https://twitter.com/mal/status/1564762336212447232",
+                                    "inReplyToId": "1564757815889117184",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 26",
                             "type": "calendarDay",
