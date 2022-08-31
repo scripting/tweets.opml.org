@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gwthompson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 04:23:22 GMT"
+            "dateModified": "Wed, 31 Aug 2022 04:15:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Wordle 438 5/6\n\n⬛⬛🟩🟨⬛\n⬛⬛⬛🟨⬛\n🟩🟩🟩⬛🟩\n🟩🟩🟩⬛🟩\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 438 5/6\n\n⬛⬛🟩🟨⬛\n⬛⬛⬛🟨⬛\n🟩🟩🟩⬛🟩\n🟩🟩🟩⬛🟩\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 04:04:33 GMT",
+                                    "tweetId": "1564826449454026753",
+                                    "urltweet": "https://twitter.com/gwthompson/status/1564826449454026753",
+                                    "tweetUserName": "gwthompson"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
