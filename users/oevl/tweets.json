@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 22:52:18 GMT"
+            "dateModified": "Wed, 31 Aug 2022 13:27:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@webby2001 I have been listening to podcasts for about the same time, and as an audience member, this thread is enlightening for my understanding of the medium. @threadreaderapp please roll.",
+                                    "rawText": "@webby2001 I have been listening to podcasts for about the same time, and as an audience member, this thread is enlightening for my understanding of the medium. @threadreaderapp please roll.",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 13:21:58 GMT",
+                                    "tweetId": "1564966729364738048",
+                                    "urltweet": "https://twitter.com/oevl/status/1564966729364738048",
+                                    "inReplyToId": "1564599497803677696",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
