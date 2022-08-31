@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 03:01:49 GMT"
+            "dateModified": "Wed, 31 Aug 2022 17:23:59 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "Whatever happened with the call for submissions for academic papers for an edited academic volume on Good Omens and the Bible? Is that issue going forward, @JIBS_Journal? <a href=\"https://t.co/Ws7DayPlld\">[link]</a>",
+                                    "rawText": "Whatever happened with the call for submissions for academic papers for an edited academic volume on Good Omens and the Bible? Is that issue going forward, @JIBS_Journal? https://t.co/Ws7DayPlld",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 17:11:31 GMT",
+                                    "tweetId": "1565024498600091650",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1565024498600091650",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
