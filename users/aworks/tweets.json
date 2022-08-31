@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 13:56:44 GMT"
+            "dateModified": "Wed, 31 Aug 2022 13:49:16 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/GC9UrUwLZq\">[link]</a> Stories via @Infinemusic @avantmusicnews @ELHopkins",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/GC9UrUwLZq Stories via @Infinemusic @avantmusicnews @ELHopkins",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 13:47:49 GMT",
+                                    "tweetId": "1564973232767238145",
+                                    "urltweet": "https://twitter.com/aworks/status/1564973232767238145",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
