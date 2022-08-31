@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 22:38:33 GMT"
+            "dateModified": "Wed, 31 Aug 2022 13:53:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,45 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@b05crypto Um, yeah. It just requires a more complicated solution that a lot of devs can tackle. So they launch servers and hope no one notices the failure points they've introduced.",
+                                    "rawText": "@b05crypto Um, yeah. It just requires a more complicated solution that a lot of devs can tackle. So they launch servers and hope no one notices the failure points they've introduced.",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 13:46:16 GMT",
+                                    "tweetId": "1564972843296870402",
+                                    "urltweet": "https://twitter.com/cshotton/status/1564972843296870402",
+                                    "inReplyToId": "1564929291145682951",
+                                    "tweetUserName": "cshotton",
+                                    "subs": [
+                                        {
+                                            "text": "@b05crypto Ugh. *can't.   (The inability to edit tweets is a constant irritant.)",
+                                            "rawText": "@b05crypto Ugh. *can't.   (The inability to edit tweets is a constant irritant.)",
+                                            "type": "tweet",
+                                            "created": "Wed, 31 Aug 2022 13:46:56 GMT",
+                                            "tweetId": "1564973011526160388",
+                                            "urltweet": "https://twitter.com/cshotton/status/1564973011526160388",
+                                            "inReplyToId": "1564972843296870402",
+                                            "tweetUserName": "cshotton"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "@sauldraws I guess \"Honest Injun\" is pretty much deprecated at this point, eh?",
+                                    "rawText": "@sauldraws I guess \"Honest Injun\" is pretty much deprecated at this point, eh?",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 13:40:44 GMT",
+                                    "tweetId": "1564971451924598785",
+                                    "urltweet": "https://twitter.com/cshotton/status/1564971451924598785",
+                                    "inReplyToId": "1564760479574228992",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
