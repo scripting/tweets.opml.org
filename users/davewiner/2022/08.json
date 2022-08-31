@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 01:48:01 GMT"
+            "dateModified": "Wed, 31 Aug 2022 10:10:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "How Cinema Inspired Edward Hopper's Great Paintings, and How Edward Hopper Inspired Great Filmmakers. <a href=\"https://t.co/6JiOlm0IBs\">[link]</a>",
+                                    "rawText": "How Cinema Inspired Edward Hopper's Great Paintings, and How Edward Hopper Inspired Great Filmmakers. https://t.co/6JiOlm0IBs",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 10:09:00 GMT",
+                                    "tweetId": "1564918167280967681",
+                                    "urltweet": "https://twitter.com/davewiner/status/1564918167280967681",
+                                    "tweetUserName": "davewiner"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
