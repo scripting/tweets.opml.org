@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 02:19:02 GMT"
+            "dateModified": "Wed, 31 Aug 2022 02:32:18 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "30",
                             "subs": [
+                                {
+                                    "text": "@froomkin Just guessing but this is probably the result of mobile-first design.",
+                                    "rawText": "@froomkin Just guessing but this is probably the result of mobile-first design.",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 02:28:39 GMT",
+                                    "tweetId": "1564802318058635265",
+                                    "urltweet": "https://twitter.com/yudel/status/1564802318058635265",
+                                    "inReplyToId": "1564797186457624577",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@DBashIdeas I don’t get the second one. Unless it’s about baseball.",
                                     "rawText": "@DBashIdeas I don’t get the second one. Unless it’s about baseball.",
