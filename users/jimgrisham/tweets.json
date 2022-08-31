@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/jimgrisham/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 17:35:45 GMT"
+            "dateModified": "Wed, 31 Aug 2022 17:49:01 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,31 @@
                                     "tweetId": "1565028726563565569",
                                     "urltweet": "https://twitter.com/jimgrisham/status/1565028726563565569",
                                     "inReplyToId": "1565014957871308800",
-                                    "tweetUserName": "jimgrisham"
+                                    "tweetUserName": "jimgrisham",
+                                    "subs": [
+                                        {
+                                            "text": "@joshuadtitus @ibogost Cloud computing has many advantages, but non-native clients/frontends for (especially non-touchscreen) desktop computers tend to: \n\n - foreclose many UI best practices (such as taking advantage of #FittsLaw/spatial consistency, multiple windows/pallets, and multiple screens)\n\n1/3",
+                                            "rawText": "@joshuadtitus @ibogost Cloud computing has many advantages, but non-native clients/frontends for (especially non-touchscreen) desktop computers tend to: \n\n - foreclose many UI best practices (such as taking advantage of #FittsLaw/spatial consistency, multiple windows/pallets, and multiple screens)\n\n1/3",
+                                            "type": "tweet",
+                                            "created": "Wed, 31 Aug 2022 17:42:22 GMT",
+                                            "tweetId": "1565032262449922048",
+                                            "urltweet": "https://twitter.com/jimgrisham/status/1565032262449922048",
+                                            "inReplyToId": "1565028726563565569",
+                                            "tweetUserName": "jimgrisham",
+                                            "subs": [
+                                                {
+                                                    "text": "@joshuadtitus @ibogost - more affect users with limited / less reliable connectivity or older hardware (especially after the well-intentioned shift to process isolation in web browsers)\n\n- create confusion over data portability and lessen user control over migration timelines\n\n2/3",
+                                                    "rawText": "@joshuadtitus @ibogost - more affect users with limited / less reliable connectivity or older hardware (especially after the well-intentioned shift to process isolation in web browsers)\n\n- create confusion over data portability and lessen user control over migration timelines\n\n2/3",
+                                                    "type": "tweet",
+                                                    "created": "Wed, 31 Aug 2022 17:44:41 GMT",
+                                                    "tweetId": "1565032843776262146",
+                                                    "urltweet": "https://twitter.com/jimgrisham/status/1565032843776262146",
+                                                    "inReplyToId": "1565032262449922048",
+                                                    "tweetUserName": "jimgrisham"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@joshuadtitus @ibogost While listed ‘off the top of my head’, I included those specific ones due to personal knowledge of multiple people who ~currently~ use at least one of those nearly daily, by choice, at their homes or small businesses.\n\nPeople use computers in sometimes vastly different ways.",
