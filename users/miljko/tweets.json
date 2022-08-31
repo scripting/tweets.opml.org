@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 19:20:35 GMT"
+            "dateModified": "Wed, 31 Aug 2022 15:27:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "A brilliant, scathing newsletter from Charlie Warzel about the vacuous, information-destroying “business dude lorem ipsum”. There is also, of course, the science dude lorem ipsum and the medicine dude lorem ipsum. Caveat lector. <a href=\"https://t.co/MC8fZeS8ez\">[link]</a> https://t.co/IpyzXjGStq",
+                                    "rawText": "A brilliant, scathing newsletter from Charlie Warzel about the vacuous, information-destroying “business dude lorem ipsum”. There is also, of course, the science dude lorem ipsum and the medicine dude lorem ipsum. Caveat lector. https://t.co/MC8fZeS8ez https://t.co/IpyzXjGStq",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 15:22:36 GMT",
+                                    "tweetId": "1564997088324341766",
+                                    "urltweet": "https://twitter.com/miljko/status/1564997088324341766",
+                                    "tweetUserName": "miljko"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
