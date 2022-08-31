@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 30 Aug 2022 20:30:09 GMT"
+            "dateModified": "Wed, 31 Aug 2022 07:33:22 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@gamusino Según tengo entendido DALL-e ya es de acceso libre, a mi me llego un email agradeciéndome mi participación en la beta y diciendo que ya lo ponían disponible",
+                                    "rawText": "@gamusino Según tengo entendido DALL-e ya es de acceso libre, a mi me llego un email agradeciéndome mi participación en la beta y diciendo que ya lo ponían disponible",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 07:25:10 GMT",
+                                    "tweetId": "1564876936228311040",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1564876936228311040",
+                                    "inReplyToId": "1564869399621865472",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
