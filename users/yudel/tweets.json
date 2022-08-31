@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 16:01:25 GMT"
+            "dateModified": "Wed, 31 Aug 2022 16:41:12 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "31",
                             "subs": [
                                 {
+                                    "text": "@AvBronstein 17 or 19: Which amendment was worse? A PragerU debate.",
+                                    "rawText": "@AvBronstein 17 or 19: Which amendment was worse? A PragerU debate.",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 16:33:14 GMT",
+                                    "tweetId": "1565014863352676353",
+                                    "urltweet": "https://twitter.com/yudel/status/1565014863352676353",
+                                    "inReplyToId": "1565014426482200576",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
                                     "text": "@miriamudel @onthemainline It's Leynin Siddur by Joseph Magil. (Courtesy of <a href=\"https://t.co/8z5MaVXbLE\">[link]</a>). Should I send it to Emory? What office?",
                                     "rawText": "@miriamudel @onthemainline It's Leynin Siddur by Joseph Magil. (Courtesy of https://t.co/8z5MaVXbLE). Should I send it to Emory? What office?",
                                     "type": "tweet",
@@ -28,7 +38,19 @@
                                     "tweetId": "1565006718580449280",
                                     "urltweet": "https://twitter.com/yudel/status/1565006718580449280",
                                     "inReplyToId": "1565006051770081281",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@miriamudel @onthemainline Oy. I can't print a copy now because Amazon no longer supports Hebrew books. But perhaps it's time to tidy it up and publish properly.",
+                                            "rawText": "@miriamudel @onthemainline Oy. I can't print a copy now because Amazon no longer supports Hebrew books. But perhaps it's time to tidy it up and publish properly.",
+                                            "type": "tweet",
+                                            "created": "Wed, 31 Aug 2022 16:02:46 GMT",
+                                            "tweetId": "1565007194633953281",
+                                            "urltweet": "https://twitter.com/yudel/status/1565007194633953281",
+                                            "inReplyToId": "1565006718580449280",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@remembrancermx I will warn you that this new stage in your relationship is a bit fraught, despite best intentions on all sides.",
