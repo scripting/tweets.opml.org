@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 01:39:29 GMT"
+            "dateModified": "Wed, 31 Aug 2022 16:41:27 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,34 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "I don't know who I am. Looking back, I'm not the person I always thought I was. Also, I can see my faults more clearly now.\n\n#existential \n#thoughts",
+                                    "rawText": "I don't know who I am. Looking back, I'm not the person I always thought I was. Also, I can see my faults more clearly now.\n\n#existential \n#thoughts",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 16:29:36 GMT",
+                                    "tweetId": "1565013948910403592",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1565013948910403592",
+                                    "tweetUserName": "moosebegab",
+                                    "subs": [
+                                        {
+                                            "text": "How can I trust anything? I can't. It's like dreaming.",
+                                            "rawText": "How can I trust anything? I can't. It's like dreaming.",
+                                            "type": "tweet",
+                                            "created": "Wed, 31 Aug 2022 16:29:36 GMT",
+                                            "tweetId": "1565013950437146626",
+                                            "urltweet": "https://twitter.com/moosebegab/status/1565013950437146626",
+                                            "inReplyToId": "1565013948910403592",
+                                            "tweetUserName": "moosebegab"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
