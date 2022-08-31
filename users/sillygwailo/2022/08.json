@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 02:48:34 GMT"
+            "dateModified": "Wed, 31 Aug 2022 03:01:49 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                     "tweetId": "1564775624979451906",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1564775624979451906",
                                     "inReplyToId": "1540877804492963843",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Someone that I have tremendous respect for said Yes, so I ordered it.",
+                                            "rawText": "Someone that I have tremendous respect for said Yes, so I ordered it.",
+                                            "type": "tweet",
+                                            "created": "Wed, 31 Aug 2022 02:57:02 GMT",
+                                            "tweetId": "1564809459582615552",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1564809459582615552",
+                                            "inReplyToId": "1564775624979451906",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Tonight. <a href=\"https://t.co/la6RcLCRkQ\">[link]</a>",
