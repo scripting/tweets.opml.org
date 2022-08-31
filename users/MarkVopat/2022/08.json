@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/MarkVopat/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 28 Aug 2022 14:39:27 GMT"
+            "dateModified": "Wed, 31 Aug 2022 20:54:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@TimRyan Voting for you.",
+                                    "rawText": "@TimRyan Voting for you.",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 20:48:13 GMT",
+                                    "tweetId": "1565079032852615172",
+                                    "urltweet": "https://twitter.com/MarkVopat/status/1565079032852615172",
+                                    "inReplyToId": "1565016612419379208",
+                                    "tweetUserName": "MarkVopat"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 28",
                             "type": "calendarDay",
