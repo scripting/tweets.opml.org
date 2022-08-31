@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 03:51:53 GMT"
+            "dateModified": "Wed, 31 Aug 2022 04:05:09 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "august2022",
                     "subs": [
+                        {
+                            "text": "August 31",
+                            "type": "calendarDay",
+                            "name": "31",
+                            "subs": [
+                                {
+                                    "text": "@DanielSeidemann Thereby earning Bill Murray a major award from the ADL et al.",
+                                    "rawText": "@DanielSeidemann Thereby earning Bill Murray a major award from the ADL et al.",
+                                    "type": "tweet",
+                                    "created": "Wed, 31 Aug 2022 04:04:47 GMT",
+                                    "tweetId": "1564826509898039296",
+                                    "urltweet": "https://twitter.com/yudel/status/1564826509898039296",
+                                    "inReplyToId": "1564826196323569664",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "August 30",
                             "type": "calendarDay",
