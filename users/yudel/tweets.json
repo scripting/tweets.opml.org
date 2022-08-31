@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 31 Aug 2022 14:41:50 GMT"
+            "dateModified": "Wed, 31 Aug 2022 14:55:05 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1564986597279408129",
                                     "urltweet": "https://twitter.com/yudel/status/1564986597279408129",
                                     "inReplyToId": "1564901655350546434",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@Adderabbi @DBashIdeas Because if it’s only a potential paper, I’m going to suggest “Better Call Soloveitchik: Authority and Discipleship in the 20th Century American Orthodox Rabbinate.”",
+                                            "rawText": "@Adderabbi @DBashIdeas Because if it’s only a potential paper, I’m going to suggest “Better Call Soloveitchik: Authority and Discipleship in the 20th Century American Orthodox Rabbinate.”",
+                                            "type": "tweet",
+                                            "created": "Wed, 31 Aug 2022 14:42:45 GMT",
+                                            "tweetId": "1564987060456509441",
+                                            "urltweet": "https://twitter.com/yudel/status/1564987060456509441",
+                                            "inReplyToId": "1564986597279408129",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@dzkalman Well? Was there?",
