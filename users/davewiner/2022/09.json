@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 01 Sep 2022 10:28:01 GMT"
+            "dateModified": "Thu, 01 Sep 2022 10:41:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "I’m bored with Wordle.",
+                                    "rawText": "I’m bored with Wordle.",
+                                    "type": "tweet",
+                                    "created": "Thu, 01 Sep 2022 10:40:04 GMT",
+                                    "tweetId": "1565288374147096577",
+                                    "urltweet": "https://twitter.com/davewiner/status/1565288374147096577",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@librenews Keeps him in the news.",
                                     "rawText": "@librenews Keeps him in the news.",
