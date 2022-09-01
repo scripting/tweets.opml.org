@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 01 Sep 2022 13:44:17 GMT"
+            "dateModified": "Thu, 01 Sep 2022 14:37:21 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 01 Sep 2022 13:41:38 GMT",
                                     "tweetId": "1565334066790023168",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1565334066790023168",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Aujourd’hui, nous sommes tous le bouton d’édition de Twitter.",
+                                            "rawText": "Aujourd’hui, nous sommes tous le bouton d’édition de Twitter.",
+                                            "type": "tweet",
+                                            "created": "Thu, 01 Sep 2022 14:31:03 GMT",
+                                            "tweetId": "1565346500959383555",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1565346500959383555",
+                                            "inReplyToId": "1565334066790023168",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@Twitter Nobody cares. Add an edit bu—Oh.",
