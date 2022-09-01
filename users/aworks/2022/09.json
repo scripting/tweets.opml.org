@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "aworks tweets",
+            "dateCreated": "Sun, 19 Dec 2021 16:49:19 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Thu, 01 Sep 2022 13:55:03 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "September 2022",
+                    "type": "calendarMonth",
+                    "name": "september2022",
+                    "subs": [
+                        {
+                            "text": "September 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/EwuAzSrjyD\">[link]</a> Stories via @CincySymphony @icareifulisten @WomensPhil",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/EwuAzSrjyD Stories via @CincySymphony @icareifulisten @WomensPhil",
+                                    "type": "tweet",
+                                    "created": "Thu, 01 Sep 2022 13:47:49 GMT",
+                                    "tweetId": "1565335620561813505",
+                                    "urltweet": "https://twitter.com/aworks/status/1565335620561813505",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
