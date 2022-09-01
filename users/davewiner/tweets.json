@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 01 Sep 2022 14:43:00 GMT"
+            "dateModified": "Thu, 01 Sep 2022 15:50:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "@mathewi wow",
+                                    "rawText": "@mathewi wow",
+                                    "type": "tweet",
+                                    "created": "Thu, 01 Sep 2022 15:49:13 GMT",
+                                    "tweetId": "1565366173323116545",
+                                    "urltweet": "https://twitter.com/davewiner/status/1565366173323116545",
+                                    "inReplyToId": "1565362713299226624",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "2012: Web 2.0, while it started out as a freedom-inspiring thing, has been coalescing to being a dangerous form of locking-in the user's data so it can be applied to a corporate business model. <a href=\"https://t.co/VRxBaLuAyN\">[link]</a>",
                                     "rawText": "2012: Web 2.0, while it started out as a freedom-inspiring thing, has been coalescing to being a dangerous form of locking-in the user's data so it can be applied to a corporate business model. https://t.co/VRxBaLuAyN",
