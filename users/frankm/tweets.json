@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 01 Sep 2022 13:42:17 GMT"
+            "dateModified": "Thu, 01 Sep 2022 13:55:33 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "01",
                             "subs": [
+                                {
+                                    "text": "Currently reading: Allow Me to Retort by Elie Mystal 📚I have the last chapter left. <a href=\"https://t.co/H9IAo5gqxt\">[link]</a>",
+                                    "rawText": "Currently reading: Allow Me to Retort by Elie Mystal 📚I have the last chapter left. https://t.co/H9IAo5gqxt",
+                                    "type": "tweet",
+                                    "created": "Thu, 01 Sep 2022 13:54:19 GMT",
+                                    "tweetId": "1565337257237626883",
+                                    "urltweet": "https://twitter.com/frankm/status/1565337257237626883",
+                                    "tweetUserName": "frankm"
+                                },
                                 {
                                     "text": "Yesterday I had a Raspberry Pi crash after a system update and fail to boot. I figured out what went wrong and learned some things along the way. Breaking this is how one tends to learn. <a href=\"https://t.co/3Ausg2pLzH\">[link]</a>",
                                     "rawText": "Yesterday I had a Raspberry Pi crash after a system update and fail to boot. I figured out what went wrong and learned some things along the way. Breaking this is how one tends to learn. https://t.co/3Ausg2pLzH",
