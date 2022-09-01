@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "oevl tweets",
+            "dateCreated": "Wed, 26 Jan 2022 20:26:12 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Thu, 01 Sep 2022 04:29:42 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "September 2022",
+                    "type": "calendarMonth",
+                    "name": "september2022",
+                    "subs": [
+                        {
+                            "text": "September 1",
+                            "type": "calendarDay",
+                            "name": "01",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Tearjerker <a href=\"https://t.co/0ZTkI9LPE5\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Tearjerker https://t.co/0ZTkI9LPE5",
+                                    "type": "tweet",
+                                    "created": "Thu, 01 Sep 2022 04:28:11 GMT",
+                                    "tweetId": "1565194785366974466",
+                                    "urltweet": "https://twitter.com/oevl/status/1565194785366974466",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
