@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 01 Sep 2022 13:55:03 GMT"
+            "dateModified": "Fri, 02 Sep 2022 14:00:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/0Myys1AZ8K\">[link]</a> Stories via @WQXR @GSchirmer @sophyapolevaya",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/0Myys1AZ8K Stories via @WQXR @GSchirmer @sophyapolevaya",
+                                    "type": "tweet",
+                                    "created": "Fri, 02 Sep 2022 13:47:49 GMT",
+                                    "tweetId": "1565698008485924869",
+                                    "urltweet": "https://twitter.com/aworks/status/1565698008485924869",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 1",
                             "type": "calendarDay",
