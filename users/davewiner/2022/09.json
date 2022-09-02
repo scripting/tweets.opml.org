@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 02 Sep 2022 14:00:01 GMT"
+            "dateModified": "Fri, 02 Sep 2022 14:01:01 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1565700930389118979",
                                     "urltweet": "https://twitter.com/davewiner/status/1565700930389118979",
                                     "inReplyToId": "1565691202766360578",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "@PovlAage @marcedavis That said, I never drive the Subaru. It's sitting there waiting for winter, my thought is that it might work better in the snow than the Tesla. But I literally drive it because the Tesla is so much more fun to drive. ;-)",
+                                            "rawText": "@PovlAage @marcedavis That said, I never drive the Subaru. It's sitting there waiting for winter, my thought is that it might work better in the snow than the Tesla. But I literally drive it because the Tesla is so much more fun to drive. ;-)",
+                                            "type": "tweet",
+                                            "created": "Fri, 02 Sep 2022 14:00:20 GMT",
+                                            "tweetId": "1565701161801465856",
+                                            "urltweet": "https://twitter.com/davewiner/status/1565701161801465856",
+                                            "inReplyToId": "1565700930389118979",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 }
                             ]
                         },
