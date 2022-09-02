@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "Latz tweets",
+            "dateCreated": "Thu, 05 May 2022 12:41:11 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 02 Sep 2022 19:42:12 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "September 2022",
+                    "type": "calendarMonth",
+                    "name": "september2022",
+                    "subs": [
+                        {
+                            "text": "September 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Reste-Verwertung Xtreme: Knoblauch-Croutons aus altem Baguette. Lecker. <a href=\"https://t.co/KqfNMOWchC\">[link]</a>",
+                                    "rawText": "Reste-Verwertung Xtreme: Knoblauch-Croutons aus altem Baguette. Lecker. https://t.co/KqfNMOWchC",
+                                    "type": "tweet",
+                                    "created": "Fri, 02 Sep 2022 19:40:25 GMT",
+                                    "tweetId": "1565786743986683911",
+                                    "urltweet": "https://twitter.com/Latz/status/1565786743986683911",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
