@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 01 Sep 2022 23:31:40 GMT"
+            "dateModified": "Fri, 02 Sep 2022 06:22:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: Lenovo's first 16-inch Chromebook has a fast, 120Hz refresh display <a href=\"https://t.co/F1leulJGxZ\">[link]</a>",
+                                    "rawText": "ICYMI: Lenovo's first 16-inch Chromebook has a fast, 120Hz refresh display https://t.co/F1leulJGxZ",
+                                    "type": "tweet",
+                                    "created": "Fri, 02 Sep 2022 06:19:00 GMT",
+                                    "tweetId": "1565585060539277312",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1565585060539277312",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 1",
                             "type": "calendarDay",
