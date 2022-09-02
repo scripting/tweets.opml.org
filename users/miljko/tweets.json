@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/miljko/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 02 Sep 2022 18:58:10 GMT"
+            "dateModified": "Fri, 02 Sep 2022 20:57:32 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,31 @@
                                     "created": "Fri, 02 Sep 2022 17:01:08 GMT",
                                     "tweetId": "1565746658285068288",
                                     "urltweet": "https://twitter.com/miljko/status/1565746658285068288",
-                                    "tweetUserName": "miljko"
+                                    "tweetUserName": "miljko",
+                                    "subs": [
+                                        {
+                                            "text": "The author has a blog, and he pulls no punches. <a href=\"https://t.co/rMTIgbojAT\">[link]</a>\n\nHat tip to @nntaleb who's been yelling into clouds for years that models that give drastically different results after small perturbations to the input aren't worth the bits they're stored on. https://t.co/DhupIBH36f",
+                                            "rawText": "The author has a blog, and he pulls no punches. https://t.co/rMTIgbojAT\n\nHat tip to @nntaleb who's been yelling into clouds for years that models that give drastically different results after small perturbations to the input aren't worth the bits they're stored on. https://t.co/DhupIBH36f",
+                                            "type": "tweet",
+                                            "created": "Fri, 02 Sep 2022 20:45:14 GMT",
+                                            "tweetId": "1565803057593597955",
+                                            "urltweet": "https://twitter.com/miljko/status/1565803057593597955",
+                                            "inReplyToId": "1565746658285068288",
+                                            "tweetUserName": "miljko",
+                                            "subs": [
+                                                {
+                                                    "text": "And by \"for years\" I mean since at least 2019, when he pointed to the exact same problem with PCA (I think; this is higher level of math than I can interpret). <a href=\"https://t.co/BEORgL7TlT\">[link]</a>",
+                                                    "rawText": "And by \"for years\" I mean since at least 2019, when he pointed to the exact same problem with PCA (I think; this is higher level of math than I can interpret). https://t.co/BEORgL7TlT",
+                                                    "type": "tweet",
+                                                    "created": "Fri, 02 Sep 2022 20:49:36 GMT",
+                                                    "tweetId": "1565804157210083330",
+                                                    "urltweet": "https://twitter.com/miljko/status/1565804157210083330",
+                                                    "inReplyToId": "1565803057593597955",
+                                                    "tweetUserName": "miljko"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         }
