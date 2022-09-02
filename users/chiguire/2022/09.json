@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 02 Sep 2022 07:02:24 GMT"
+            "dateModified": "Fri, 02 Sep 2022 08:35:15 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "02",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/sz2mBVwWrO\">[link]</a>",
+                                    "rawText": "https://t.co/sz2mBVwWrO",
+                                    "type": "tweet",
+                                    "created": "Fri, 02 Sep 2022 08:28:14 GMT",
+                                    "tweetId": "1565617584380297217",
+                                    "urltweet": "https://twitter.com/chiguire/status/1565617584380297217",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@leguerrer2 <a href=\"https://t.co/uJ4YV1dYZ1\">[link]</a>",
                                     "rawText": "@leguerrer2 https://t.co/uJ4YV1dYZ1",
