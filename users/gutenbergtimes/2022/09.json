@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "gutenbergtimes tweets",
+            "dateCreated": "Fri, 11 Feb 2022 10:58:20 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 02 Sep 2022 15:01:09 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "September 2022",
+                    "type": "calendarMonth",
+                    "name": "september2022",
+                    "subs": [
+                        {
+                            "text": "September 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "Let Justin Tadlock @justintadlock take you along for his experience designing a style variation for Twenty Twenty-Three. <a href=\"https://t.co/r5M3T6zJiZ\">[link]</a>",
+                                    "rawText": "Let Justin Tadlock @justintadlock take you along for his experience designing a style variation for Twenty Twenty-Three. https://t.co/r5M3T6zJiZ",
+                                    "type": "tweet",
+                                    "created": "Fri, 02 Sep 2022 14:50:40 GMT",
+                                    "tweetId": "1565713826791804930",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1565713826791804930",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
