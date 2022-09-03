@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 03 Sep 2022 02:26:08 GMT"
+            "dateModified": "Sat, 03 Sep 2022 04:12:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "The greatest athlete of all time. <a href=\"https://t.co/3jb4lz9yu5\">[link]</a>",
+                                    "rawText": "The greatest athlete of all time. https://t.co/3jb4lz9yu5",
+                                    "type": "tweet",
+                                    "created": "Sat, 03 Sep 2022 04:12:04 GMT",
+                                    "tweetId": "1565915503851454465",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1565915503851454465",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 2",
                             "type": "calendarDay",
