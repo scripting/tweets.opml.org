@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 03 Sep 2022 00:29:16 GMT"
+            "dateModified": "Sat, 03 Sep 2022 17:30:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 3",
+                            "type": "calendarDay",
+                            "name": "03",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie) <a href=\"https://t.co/PMgTtneBUE\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie) https://t.co/PMgTtneBUE",
+                                    "type": "tweet",
+                                    "created": "Sat, 03 Sep 2022 17:28:08 GMT",
+                                    "tweetId": "1566115840751181825",
+                                    "urltweet": "https://twitter.com/oevl/status/1566115840751181825",
+                                    "tweetUserName": "oevl"
+                                },
+                                {
+                                    "text": "👍 on @YouTube: WRV Outer Banks Pro pres. by Pacifico Day 4 Highlights: Kenworthy Surges, Men's Round of 96 Wrapped <a href=\"https://t.co/FYFqZTdU8p\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: WRV Outer Banks Pro pres. by Pacifico Day 4 Highlights: Kenworthy Surges, Men's Round of 96 Wrapped https://t.co/FYFqZTdU8p",
+                                    "type": "tweet",
+                                    "created": "Sat, 03 Sep 2022 17:28:07 GMT",
+                                    "tweetId": "1566115837588787200",
+                                    "urltweet": "https://twitter.com/oevl/status/1566115837588787200",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 2",
                             "type": "calendarDay",
