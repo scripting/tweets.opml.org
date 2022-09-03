@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 03 Sep 2022 22:23:24 GMT"
+            "dateModified": "Sat, 03 Sep 2022 22:49:56 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "@ornitorrrrinco BERCIA PAPI 2022",
+                                    "rawText": "@ornitorrrrinco BERCIA PAPI 2022",
+                                    "type": "tweet",
+                                    "created": "Sat, 03 Sep 2022 22:39:30 GMT",
+                                    "tweetId": "1566194200231743490",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566194200231743490",
+                                    "inReplyToId": "1566162136174321665",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "@ornitorrrrinco <a href=\"https://t.co/sjrX1LuXGY\">[link]</a>",
+                                            "rawText": "@ornitorrrrinco https://t.co/sjrX1LuXGY",
+                                            "type": "tweet",
+                                            "created": "Sat, 03 Sep 2022 22:46:46 GMT",
+                                            "tweetId": "1566196029204185089",
+                                            "urltweet": "https://twitter.com/chiguire/status/1566196029204185089",
+                                            "inReplyToId": "1566194200231743490",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@capelaez <a href=\"https://t.co/t6LLQ1UneH\">[link]</a>",
                                     "rawText": "@capelaez https://t.co/t6LLQ1UneH",
