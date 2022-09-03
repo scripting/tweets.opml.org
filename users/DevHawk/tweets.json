@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 01 Sep 2022 18:34:21 GMT"
+            "dateModified": "Sat, 03 Sep 2022 03:04:11 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "My kind of place @ Crosscut Tap House <a href=\"https://t.co/LfvX8NXtxB\">[link]</a>",
+                                    "rawText": "My kind of place @ Crosscut Tap House https://t.co/LfvX8NXtxB",
+                                    "type": "tweet",
+                                    "created": "Sat, 03 Sep 2022 02:58:37 GMT",
+                                    "tweetId": "1565897022640721922",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1565897022640721922",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 1",
                             "type": "calendarDay",
