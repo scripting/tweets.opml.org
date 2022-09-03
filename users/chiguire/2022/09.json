@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 03 Sep 2022 16:51:48 GMT"
+            "dateModified": "Sat, 03 Sep 2022 17:31:36 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "03",
                             "subs": [
+                                {
+                                    "text": "Francisco y Fernando <a href=\"https://t.co/rX3UPDvO4y\">[link]</a>",
+                                    "rawText": "Francisco y Fernando https://t.co/rX3UPDvO4y",
+                                    "type": "tweet",
+                                    "created": "Sat, 03 Sep 2022 17:25:28 GMT",
+                                    "tweetId": "1566115169696190465",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566115169696190465",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@misscptnbeer Hoy no, mañana sí.\n\nPerdón.",
+                                    "rawText": "@misscptnbeer Hoy no, mañana sí.\n\nPerdón.",
+                                    "type": "tweet",
+                                    "created": "Sat, 03 Sep 2022 17:22:39 GMT",
+                                    "tweetId": "1566114461118828545",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566114461118828545",
+                                    "inReplyToId": "1566113991205785601",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@CarelessLabs Good ol’ Primark",
                                     "rawText": "@CarelessLabs Good ol’ Primark",
