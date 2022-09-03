@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 03 Sep 2022 11:52:29 GMT"
+            "dateModified": "Sat, 03 Sep 2022 15:24:43 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1566029375669141505",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1566029375669141505",
                                     "inReplyToId": "1566023979617472513",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "@StandingTeacher @tehnyit @ClaireSmith1848 My work here is done <a href=\"https://t.co/A9EOxpm8AG\">[link]</a>",
+                                            "rawText": "@StandingTeacher @tehnyit @ClaireSmith1848 My work here is done https://t.co/A9EOxpm8AG",
+                                            "type": "tweet",
+                                            "created": "Sat, 03 Sep 2022 15:14:50 GMT",
+                                            "tweetId": "1566082296792420356",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1566082296792420356",
+                                            "inReplyToId": "1566029375669141505",
+                                            "tweetUserName": "ScottHansonDE"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@tehnyit @ClaireSmith1848 @StandingTeacher Here’s a preview of my project for the weekend 🚽 <a href=\"https://t.co/8SLgrmCLql\">[link]</a>",
