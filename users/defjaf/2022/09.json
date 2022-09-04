@@ -1,0 +1,40 @@
+{
+    "opml": {
+        "head": {
+            "title": "defjaf tweets",
+            "dateCreated": "Fri, 11 Feb 2022 15:36:38 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 04 Sep 2022 11:01:12 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "September 2022",
+                    "type": "calendarMonth",
+                    "name": "september2022",
+                    "subs": [
+                        {
+                            "text": "September 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@playingwithdust So sorry, Brian. Thinking of you.",
+                                    "rawText": "@playingwithdust So sorry, Brian. Thinking of you.",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 10:49:16 GMT",
+                                    "tweetId": "1566377852370665473",
+                                    "urltweet": "https://twitter.com/defjaf/status/1566377852370665473",
+                                    "inReplyToId": "1566366943338266624",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
