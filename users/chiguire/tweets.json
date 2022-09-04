@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 21:09:36 GMT"
+            "dateModified": "Sun, 04 Sep 2022 22:55:43 GMT"
         },
         "body": {
             "subs": [
@@ -46,7 +46,19 @@
                                             "tweetId": "1566526632713719809",
                                             "urltweet": "https://twitter.com/chiguire/status/1566526632713719809",
                                             "inReplyToId": "1566524353805783040",
-                                            "tweetUserName": "chiguire"
+                                            "tweetUserName": "chiguire",
+                                            "subs": [
+                                                {
+                                                    "text": "Cómo se atreve esta película a hacerme sentir sentimientos",
+                                                    "rawText": "Cómo se atreve esta película a hacerme sentir sentimientos",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 04 Sep 2022 22:52:09 GMT",
+                                                    "tweetId": "1566559771431501824",
+                                                    "urltweet": "https://twitter.com/chiguire/status/1566559771431501824",
+                                                    "inReplyToId": "1566526632713719809",
+                                                    "tweetUserName": "chiguire"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
