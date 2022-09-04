@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 08:20:17 GMT"
+            "dateModified": "Sun, 04 Sep 2022 08:33:33 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "04",
                             "subs": [
                                 {
+                                    "text": "@eiichi_san Mentira, se disparó el switch de los enchufes",
+                                    "rawText": "@eiichi_san Mentira, se disparó el switch de los enchufes",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 08:20:42 GMT",
+                                    "tweetId": "1566340462478336000",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566340462478336000",
+                                    "inReplyToId": "1566340052321460226",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
                                     "text": "Ah boeno, se fue la luz",
                                     "rawText": "Ah boeno, se fue la luz",
                                     "type": "tweet",
                                     "created": "Sun, 04 Sep 2022 08:13:32 GMT",
                                     "tweetId": "1566338659678289920",
                                     "urltweet": "https://twitter.com/chiguire/status/1566338659678289920",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/AIQ7DKF4Ly\">[link]</a>",
+                                            "rawText": "https://t.co/AIQ7DKF4Ly",
+                                            "type": "tweet",
+                                            "created": "Sun, 04 Sep 2022 08:22:33 GMT",
+                                            "tweetId": "1566340930583535617",
+                                            "urltweet": "https://twitter.com/chiguire/status/1566340930583535617",
+                                            "inReplyToId": "1566338659678289920",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Hey now, here is my song <a href=\"https://t.co/PhzVbfweHP\">[link]</a>",
