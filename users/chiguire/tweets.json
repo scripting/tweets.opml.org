@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 19:36:45 GMT"
+            "dateModified": "Sun, 04 Sep 2022 20:43:04 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "Estoy intentando ver Castle in the Sky, pero se me va a hacer difícil <a href=\"https://t.co/gUWJ49bSiy\">[link]</a>",
+                                    "rawText": "Estoy intentando ver Castle in the Sky, pero se me va a hacer difícil https://t.co/gUWJ49bSiy",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 20:31:25 GMT",
+                                    "tweetId": "1566524353805783040",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566524353805783040",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/UqYhaHDW2I\">[link]</a>",
+                                            "rawText": "https://t.co/UqYhaHDW2I",
+                                            "type": "tweet",
+                                            "created": "Sun, 04 Sep 2022 20:40:28 GMT",
+                                            "tweetId": "1566526632713719809",
+                                            "urltweet": "https://twitter.com/chiguire/status/1566526632713719809",
+                                            "inReplyToId": "1566524353805783040",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@lobachevscki Gracias tía",
                                     "rawText": "@lobachevscki Gracias tía",
