@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 18:53:27 GMT"
+            "dateModified": "Sun, 04 Sep 2022 21:19:21 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                     "created": "Sun, 04 Sep 2022 18:31:07 GMT",
                                     "tweetId": "1566494081542406146",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1566494081542406146",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "It was full of people, and I was the only one there wearing a mask, if you were wondering.",
+                                            "rawText": "It was full of people, and I was the only one there wearing a mask, if you were wondering.",
+                                            "type": "tweet",
+                                            "created": "Sun, 04 Sep 2022 21:16:50 GMT",
+                                            "tweetId": "1566535785175818243",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1566535785175818243",
+                                            "inReplyToId": "1566494081542406146",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 }
                             ]
                         },
