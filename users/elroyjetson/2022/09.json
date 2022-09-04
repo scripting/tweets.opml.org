@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "elroyjetson tweets",
+            "dateCreated": "Sat, 16 Apr 2022 01:00:30 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/elroyjetson/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Sun, 04 Sep 2022 22:45:42 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "September 2022",
+                    "type": "calendarMonth",
+                    "name": "september2022",
+                    "subs": [
+                        {
+                            "text": "September 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Just ran across my PhD plan. Had I stayed with it I would have completed the program two weeks ago. I will just be in a fetal position under my desk for a few minutes.",
+                                    "rawText": "Just ran across my PhD plan. Had I stayed with it I would have completed the program two weeks ago. I will just be in a fetal position under my desk for a few minutes.",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 22:43:32 GMT",
+                                    "tweetId": "1566557605283201026",
+                                    "urltweet": "https://twitter.com/elroyjetson/status/1566557605283201026",
+                                    "tweetUserName": "elroyjetson"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
