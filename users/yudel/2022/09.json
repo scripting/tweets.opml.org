@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 23:15:44 GMT"
+            "dateModified": "Sun, 04 Sep 2022 23:55:31 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "04",
                             "subs": [
+                                {
+                                    "text": "Today’s short story prompt. <a href=\"https://t.co/eoBFnlgWBe\">[link]</a>",
+                                    "rawText": "Today’s short story prompt. https://t.co/eoBFnlgWBe",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 23:46:35 GMT",
+                                    "tweetId": "1566573471966142465",
+                                    "urltweet": "https://twitter.com/yudel/status/1566573471966142465",
+                                    "tweetUserName": "yudel"
+                                },
                                 {
                                     "text": "@trekonomics Question prompted by your earlier tweet re: libertarianism: Is there any European equivalent of the Lochner case, in which the Supreme Court ruled basic worker regulation unconstitutional?",
                                     "rawText": "@trekonomics Question prompted by your earlier tweet re: libertarianism: Is there any European equivalent of the Lochner case, in which the Supreme Court ruled basic worker regulation unconstitutional?",
