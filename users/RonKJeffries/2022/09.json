@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 03 Sep 2022 22:11:38 GMT"
+            "dateModified": "Sun, 04 Sep 2022 09:28:06 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "@tech_instigator @durreadan01 Heavier is NOT a good thing.",
+                                    "rawText": "@tech_instigator @durreadan01 Heavier is NOT a good thing.",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 09:22:09 GMT",
+                                    "tweetId": "1566355928869265409",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1566355928869265409",
+                                    "inReplyToId": "1566355290294976512",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 3",
                             "type": "calendarDay",
