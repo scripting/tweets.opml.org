@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gutenbergtimes/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 03 Sep 2022 21:18:20 GMT"
+            "dateModified": "Sun, 04 Sep 2022 20:17:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Gutenberg Changelog #72 - Birgit Pauli-Haack @bph and Nick Diego @nickmdiego discuss highlights from Gutenberg 13.9, 14.01, WordPress 6.02, Themes and Design Tools. <a href=\"https://t.co/AnnCbLNITW\">[link]</a>",
+                                    "rawText": "Gutenberg Changelog #72 - Birgit Pauli-Haack @bph and Nick Diego @nickmdiego discuss highlights from Gutenberg 13.9, 14.01, WordPress 6.02, Themes and Design Tools. https://t.co/AnnCbLNITW",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 20:11:43 GMT",
+                                    "tweetId": "1566519398126522369",
+                                    "urltweet": "https://twitter.com/gutenbergtimes/status/1566519398126522369",
+                                    "tweetUserName": "gutenbergtimes"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 3",
                             "type": "calendarDay",
