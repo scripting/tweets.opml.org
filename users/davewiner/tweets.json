@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 14:05:00 GMT"
+            "dateModified": "Sun, 04 Sep 2022 14:18:00 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,19 @@
                                             "tweetId": "1566427007881297920",
                                             "urltweet": "https://twitter.com/davewiner/status/1566427007881297920",
                                             "inReplyToId": "1566426957239156738",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "@JoeTrippi BTW, I think the journalists are mostly on board with the idea that journalism has to fight on the side of freedom. It's the owners that are forcing them to change back.",
+                                                    "rawText": "@JoeTrippi BTW, I think the journalists are mostly on board with the idea that journalism has to fight on the side of freedom. It's the owners that are forcing them to change back.",
+                                                    "type": "tweet",
+                                                    "created": "Sun, 04 Sep 2022 14:17:07 GMT",
+                                                    "tweetId": "1566430160395636736",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1566430160395636736",
+                                                    "inReplyToId": "1566427007881297920",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
