@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 00:36:03 GMT"
+            "dateModified": "Sun, 04 Sep 2022 08:20:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 4",
+                            "type": "calendarDay",
+                            "name": "04",
+                            "subs": [
+                                {
+                                    "text": "Ah boeno, se fue la luz",
+                                    "rawText": "Ah boeno, se fue la luz",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 08:13:32 GMT",
+                                    "tweetId": "1566338659678289920",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566338659678289920",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "Hey now, here is my song <a href=\"https://t.co/PhzVbfweHP\">[link]</a>",
+                                    "rawText": "Hey now, here is my song https://t.co/PhzVbfweHP",
+                                    "type": "tweet",
+                                    "created": "Sun, 04 Sep 2022 08:11:24 GMT",
+                                    "tweetId": "1566338121700106240",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566338121700106240",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 3",
                             "type": "calendarDay",
