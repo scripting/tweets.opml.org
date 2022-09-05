@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 05 Sep 2022 14:17:41 GMT"
+            "dateModified": "Mon, 05 Sep 2022 15:50:32 GMT"
         },
         "body": {
             "subs": [
@@ -116,7 +116,19 @@
                                     "tweetId": "1566585928663109632",
                                     "urltweet": "https://twitter.com/yudel/status/1566585928663109632",
                                     "inReplyToId": "1564221998477221888",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@wordpaley And just today I noticed this Leonard Cohen lyric: “He said, I locked you in this body \nI meant it as a kind of trial \nYou can use it for a weapon \nOr to make some woman smile...” <a href=\"https://t.co/JQzISzk1Np\">[link]</a>",
+                                            "rawText": "@wordpaley And just today I noticed this Leonard Cohen lyric: “He said, I locked you in this body \nI meant it as a kind of trial \nYou can use it for a weapon \nOr to make some woman smile...” https://t.co/JQzISzk1Np",
+                                            "type": "tweet",
+                                            "created": "Mon, 05 Sep 2022 15:49:05 GMT",
+                                            "tweetId": "1566815692267167747",
+                                            "urltweet": "https://twitter.com/yudel/status/1566815692267167747",
+                                            "inReplyToId": "1566585928663109632",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@wordpaley The recent Israeli film, תל אביב בוערת.",
