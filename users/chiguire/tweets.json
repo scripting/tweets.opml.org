@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 05 Sep 2022 15:30:30 GMT"
+            "dateModified": "Mon, 05 Sep 2022 16:50:05 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,26 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "@CervezaTipo <a href=\"https://t.co/XDHqkn8dEB\">[link]</a>",
+                                    "rawText": "@CervezaTipo https://t.co/XDHqkn8dEB",
+                                    "type": "tweet",
+                                    "created": "Mon, 05 Sep 2022 16:48:03 GMT",
+                                    "tweetId": "1566830529999212547",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566830529999212547",
+                                    "inReplyToId": "1566830091757391872",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@airamzr <a href=\"https://t.co/6HCCiVuHss\">[link]</a>",
+                                    "rawText": "@airamzr https://t.co/6HCCiVuHss",
+                                    "type": "tweet",
+                                    "created": "Mon, 05 Sep 2022 16:39:51 GMT",
+                                    "tweetId": "1566828467953483778",
+                                    "urltweet": "https://twitter.com/chiguire/status/1566828467953483778",
+                                    "inReplyToId": "1566798685886980096",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@L3r01_ Te entiendo",
                                     "rawText": "@L3r01_ Te entiendo",
