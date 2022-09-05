@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankm/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 05 Sep 2022 01:16:06 GMT"
+            "dateModified": "Mon, 05 Sep 2022 16:57:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 5",
+                            "type": "calendarDay",
+                            "name": "05",
+                            "subs": [
+                                {
+                                    "text": "Finished reading: Do I Stay Christian? by Brian D. McLaren 📚 <a href=\"https://t.co/npXR0VwdMj\">[link]</a>",
+                                    "rawText": "Finished reading: Do I Stay Christian? by Brian D. McLaren 📚 https://t.co/npXR0VwdMj",
+                                    "type": "tweet",
+                                    "created": "Mon, 05 Sep 2022 16:51:18 GMT",
+                                    "tweetId": "1566831349058740224",
+                                    "urltweet": "https://twitter.com/frankm/status/1566831349058740224",
+                                    "tweetUserName": "frankm"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 4",
                             "type": "calendarDay",
