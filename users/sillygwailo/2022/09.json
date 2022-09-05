@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 05 Sep 2022 19:39:01 GMT"
+            "dateModified": "Mon, 05 Sep 2022 19:52:17 GMT"
         },
         "body": {
             "subs": [
@@ -183,7 +183,31 @@
                                                             "tweetId": "1566619576103739398",
                                                             "urltweet": "https://twitter.com/sillygwailo/status/1566619576103739398",
                                                             "inReplyToId": "1566616482481672192",
-                                                            "tweetUserName": "sillygwailo"
+                                                            "tweetUserName": "sillygwailo",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "Setlist for last night’s Wu-Tang Clan concert in Toronto at the Budweiser Stage: <a href=\"https://t.co/lG6IxQNenS\">[link]</a>",
+                                                                    "rawText": "Setlist for last night’s Wu-Tang Clan concert in Toronto at the Budweiser Stage: https://t.co/lG6IxQNenS",
+                                                                    "type": "tweet",
+                                                                    "created": "Mon, 05 Sep 2022 19:40:51 GMT",
+                                                                    "tweetId": "1566874015788138498",
+                                                                    "urltweet": "https://twitter.com/sillygwailo/status/1566874015788138498",
+                                                                    "inReplyToId": "1566619576103739398",
+                                                                    "tweetUserName": "sillygwailo",
+                                                                    "subs": [
+                                                                        {
+                                                                            "text": "Setlist for last night’s Nas concert in Toronto at the Budweiser Stage: <a href=\"https://t.co/SMDz9spr0v\">[link]</a>",
+                                                                            "rawText": "Setlist for last night’s Nas concert in Toronto at the Budweiser Stage: https://t.co/SMDz9spr0v",
+                                                                            "type": "tweet",
+                                                                            "created": "Mon, 05 Sep 2022 19:40:52 GMT",
+                                                                            "tweetId": "1566874019852320768",
+                                                                            "urltweet": "https://twitter.com/sillygwailo/status/1566874019852320768",
+                                                                            "inReplyToId": "1566874015788138498",
+                                                                            "tweetUserName": "sillygwailo"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
