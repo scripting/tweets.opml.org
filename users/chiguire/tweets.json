@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 23:22:14 GMT"
+            "dateModified": "Mon, 05 Sep 2022 08:12:48 GMT"
         },
         "body": {
             "subs": [
@@ -339,7 +339,19 @@
                                     "tweetId": "1565840173396643841",
                                     "urltweet": "https://twitter.com/chiguire/status/1565840173396643841",
                                     "inReplyToId": "1563277753448730625",
-                                    "tweetUserName": "chiguire"
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/axE3a23aPG\">[link]</a>",
+                                            "rawText": "https://t.co/axE3a23aPG",
+                                            "type": "tweet",
+                                            "created": "Mon, 05 Sep 2022 08:11:08 GMT",
+                                            "tweetId": "1566700445061599233",
+                                            "urltweet": "https://twitter.com/chiguire/status/1566700445061599233",
+                                            "inReplyToId": "1565840173396643841",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "baratísimo",
