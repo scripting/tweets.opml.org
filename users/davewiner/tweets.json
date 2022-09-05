@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 05 Sep 2022 14:27:00 GMT"
+            "dateModified": "Mon, 05 Sep 2022 14:56:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "I think it's cool that cities have parades.",
+                                    "rawText": "I think it's cool that cities have parades.",
+                                    "type": "tweet",
+                                    "created": "Mon, 05 Sep 2022 14:55:35 GMT",
+                                    "tweetId": "1566802229444706307",
+                                    "urltweet": "https://twitter.com/davewiner/status/1566802229444706307",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@Gartenberg They report conventional wisdom.",
                                     "rawText": "@Gartenberg They report conventional wisdom.",
