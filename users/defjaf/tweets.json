@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 06 Sep 2022 08:33:36 GMT"
+            "dateModified": "Tue, 06 Sep 2022 08:46:52 GMT"
         },
         "body": {
             "subs": [
@@ -28,7 +28,19 @@
                                     "tweetId": "1567066876231942147",
                                     "urltweet": "https://twitter.com/defjaf/status/1567066876231942147",
                                     "inReplyToId": "1567065586894602241",
-                                    "tweetUserName": "defjaf"
+                                    "tweetUserName": "defjaf",
+                                    "subs": [
+                                        {
+                                            "text": "@malcfairbairn @R_Trotta … and Truss surely won’t.",
+                                            "rawText": "@malcfairbairn @R_Trotta … and Truss surely won’t.",
+                                            "type": "tweet",
+                                            "created": "Tue, 06 Sep 2022 08:43:22 GMT",
+                                            "tweetId": "1567070945868763136",
+                                            "urltweet": "https://twitter.com/defjaf/status/1567070945868763136",
+                                            "inReplyToId": "1567066876231942147",
+                                            "tweetUserName": "defjaf"
+                                        }
+                                    ]
                                 }
                             ]
                         },
