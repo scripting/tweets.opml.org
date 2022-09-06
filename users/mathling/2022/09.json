@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 05 Sep 2022 16:27:34 GMT"
+            "dateModified": "Tue, 06 Sep 2022 03:17:31 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,39 @@
                             "type": "calendarDay",
                             "name": "05",
                             "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nAlien fossils\n\n#XQuery #SVG \n\nThe mermaid <a href=\"https://t.co/misAnwCoRu\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nAlien fossils\n\n#XQuery #SVG \n\nThe mermaid https://t.co/misAnwCoRu",
+                                    "type": "tweet",
+                                    "created": "Tue, 06 Sep 2022 03:16:48 GMT",
+                                    "tweetId": "1566988759413190657",
+                                    "urltweet": "https://twitter.com/mathling/status/1566988759413190657",
+                                    "tweetUserName": "mathling",
+                                    "subs": [
+                                        {
+                                            "text": "Too many spiky limbs <a href=\"https://t.co/YzuPw1xGmk\">[link]</a>",
+                                            "rawText": "Too many spiky limbs https://t.co/YzuPw1xGmk",
+                                            "type": "tweet",
+                                            "created": "Tue, 06 Sep 2022 03:16:51 GMT",
+                                            "tweetId": "1566988772205797376",
+                                            "urltweet": "https://twitter.com/mathling/status/1566988772205797376",
+                                            "inReplyToId": "1566988759413190657",
+                                            "tweetUserName": "mathling",
+                                            "subs": [
+                                                {
+                                                    "text": "Another trip into the uncanny valley <a href=\"https://t.co/Qq7AjkJFbj\">[link]</a>",
+                                                    "rawText": "Another trip into the uncanny valley https://t.co/Qq7AjkJFbj",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 06 Sep 2022 03:16:53 GMT",
+                                                    "tweetId": "1566988783358459904",
+                                                    "urltweet": "https://twitter.com/mathling/status/1566988783358459904",
+                                                    "inReplyToId": "1566988772205797376",
+                                                    "tweetUserName": "mathling"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "#GenerativeArt interlude\n\nExperiments with mutated dense flows\n\nThe predatory tunicate\n\n#SVG #XQuery <a href=\"https://t.co/tIzVF6cQTf\">[link]</a>",
                                     "rawText": "#GenerativeArt interlude\n\nExperiments with mutated dense flows\n\nThe predatory tunicate\n\n#SVG #XQuery https://t.co/tIzVF6cQTf",
