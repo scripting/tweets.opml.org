@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 06 Sep 2022 10:04:42 GMT"
+            "dateModified": "Tue, 06 Sep 2022 10:17:57 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "&gt; \"El reguetón no es música\"\n\nBjork: <a href=\"https://t.co/3bv9Lz7IjQ\">[link]</a>",
+                                    "rawText": "&gt; \"El reguetón no es música\"\n\nBjork: https://t.co/3bv9Lz7IjQ",
+                                    "type": "tweet",
+                                    "created": "Tue, 06 Sep 2022 10:16:51 GMT",
+                                    "tweetId": "1567094468427251712",
+                                    "urltweet": "https://twitter.com/chiguire/status/1567094468427251712",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Bass clarinets FTFW",
+                                            "rawText": "Bass clarinets FTFW",
+                                            "type": "tweet",
+                                            "created": "Tue, 06 Sep 2022 10:17:11 GMT",
+                                            "tweetId": "1567094552477028353",
+                                            "urltweet": "https://twitter.com/chiguire/status/1567094552477028353",
+                                            "inReplyToId": "1567094468427251712",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@Kyuni El \"Feliz\" de la Cajita Feliz no está allí por casualidad",
                                     "rawText": "@Kyuni El \"Feliz\" de la Cajita Feliz no está allí por casualidad",
