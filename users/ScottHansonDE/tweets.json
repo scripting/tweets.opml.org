@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 06 Sep 2022 17:41:25 GMT"
+            "dateModified": "Tue, 06 Sep 2022 19:27:32 GMT"
         },
         "body": {
             "subs": [
@@ -79,7 +79,31 @@
                                     "created": "Tue, 06 Sep 2022 04:20:10 GMT",
                                     "tweetId": "1567004705825476608",
                                     "urltweet": "https://twitter.com/ScottHansonDE/status/1567004705825476608",
-                                    "tweetUserName": "ScottHansonDE"
+                                    "tweetUserName": "ScottHansonDE",
+                                    "subs": [
+                                        {
+                                            "text": "Here’s a look at our life in 1983 (she just posted it to Facebook, so it’s public knowledge now) <a href=\"https://t.co/N4CzElAINN\">[link]</a>",
+                                            "rawText": "Here’s a look at our life in 1983 (she just posted it to Facebook, so it’s public knowledge now) https://t.co/N4CzElAINN",
+                                            "type": "tweet",
+                                            "created": "Tue, 06 Sep 2022 19:16:13 GMT",
+                                            "tweetId": "1567230207525781504",
+                                            "urltweet": "https://twitter.com/ScottHansonDE/status/1567230207525781504",
+                                            "inReplyToId": "1567004705825476608",
+                                            "tweetUserName": "ScottHansonDE",
+                                            "subs": [
+                                                {
+                                                    "text": "Note the milk crate telephone stand, poor students’ 80s equivalent of IKEA!",
+                                                    "rawText": "Note the milk crate telephone stand, poor students’ 80s equivalent of IKEA!",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 06 Sep 2022 19:21:18 GMT",
+                                                    "tweetId": "1567231486591488002",
+                                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1567231486591488002",
+                                                    "inReplyToId": "1567230207525781504",
+                                                    "tweetUserName": "ScottHansonDE"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
