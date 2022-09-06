@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 06 Sep 2022 07:25:31 GMT"
+            "dateModified": "Tue, 06 Sep 2022 08:05:19 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "<a href=\"https://t.co/wDk7eUGqg3\">[link]</a>",
+                                    "rawText": "https://t.co/wDk7eUGqg3",
+                                    "type": "tweet",
+                                    "created": "Tue, 06 Sep 2022 08:04:06 GMT",
+                                    "tweetId": "1567061063253823489",
+                                    "urltweet": "https://twitter.com/chiguire/status/1567061063253823489",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@KakyRP @CervezaTipo Du hast mich",
                                     "rawText": "@KakyRP @CervezaTipo Du hast mich",
