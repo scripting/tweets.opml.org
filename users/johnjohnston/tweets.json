@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 02 Sep 2022 07:48:12 GMT"
+            "dateModified": "Tue, 06 Sep 2022 21:00:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@kennypieper Word didn't fail!",
+                                    "rawText": "@kennypieper Word didn't fail!",
+                                    "type": "tweet",
+                                    "created": "Tue, 06 Sep 2022 20:54:38 GMT",
+                                    "tweetId": "1567254974307962882",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1567254974307962882",
+                                    "inReplyToId": "1566916803841986564",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 2",
                             "type": "calendarDay",
