@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 06 Sep 2022 08:05:19 GMT"
+            "dateModified": "Tue, 06 Sep 2022 08:31:51 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "06",
                             "subs": [
+                                {
+                                    "text": "Este spam está bien sus <a href=\"https://t.co/UFnJZzwsRl\">[link]</a>",
+                                    "rawText": "Este spam está bien sus https://t.co/UFnJZzwsRl",
+                                    "type": "tweet",
+                                    "created": "Tue, 06 Sep 2022 08:28:23 GMT",
+                                    "tweetId": "1567067172140195841",
+                                    "urltweet": "https://twitter.com/chiguire/status/1567067172140195841",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "Ya va, yo no tengo hijos <a href=\"https://t.co/fGC6fkfhcY\">[link]</a>",
+                                            "rawText": "Ya va, yo no tengo hijos https://t.co/fGC6fkfhcY",
+                                            "type": "tweet",
+                                            "created": "Tue, 06 Sep 2022 08:29:49 GMT",
+                                            "tweetId": "1567067532472852481",
+                                            "urltweet": "https://twitter.com/chiguire/status/1567067532472852481",
+                                            "inReplyToId": "1567067172140195841",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "<a href=\"https://t.co/wDk7eUGqg3\">[link]</a>",
                                     "rawText": "https://t.co/wDk7eUGqg3",
