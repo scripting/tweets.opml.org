@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 06 Sep 2022 01:23:53 GMT"
+            "dateModified": "Tue, 06 Sep 2022 14:39:44 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 6",
+                            "type": "calendarDay",
+                            "name": "06",
+                            "subs": [
+                                {
+                                    "text": "@PortmanDoe Beyoncé is still alive, so yes.",
+                                    "rawText": "@PortmanDoe Beyoncé is still alive, so yes.",
+                                    "type": "tweet",
+                                    "created": "Tue, 06 Sep 2022 14:27:58 GMT",
+                                    "tweetId": "1567157664303534080",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1567157664303534080",
+                                    "inReplyToId": "1567023458013581315",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 5",
                             "type": "calendarDay",
