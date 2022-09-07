@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 06 Sep 2022 19:27:32 GMT"
+            "dateModified": "Wed, 07 Sep 2022 17:33:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@swaggoner @40PercentGerman Or pineapple?",
+                                    "rawText": "@swaggoner @40PercentGerman Or pineapple?",
+                                    "type": "tweet",
+                                    "created": "Wed, 07 Sep 2022 17:32:28 GMT",
+                                    "tweetId": "1567566482715860992",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1567566482715860992",
+                                    "inReplyToId": "1567558091733975041",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 6",
                             "type": "calendarDay",
