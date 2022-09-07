@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 06 Sep 2022 08:46:52 GMT"
+            "dateModified": "Wed, 07 Sep 2022 10:38:45 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 7",
+                            "type": "calendarDay",
+                            "name": "07",
+                            "subs": [
+                                {
+                                    "text": "@malcfairbairn She has staff to help with that.",
+                                    "rawText": "@malcfairbairn She has staff to help with that.",
+                                    "type": "tweet",
+                                    "created": "Wed, 07 Sep 2022 10:33:27 GMT",
+                                    "tweetId": "1567461035799449602",
+                                    "urltweet": "https://twitter.com/defjaf/status/1567461035799449602",
+                                    "inReplyToId": "1567240932839260161",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 6",
                             "type": "calendarDay",
