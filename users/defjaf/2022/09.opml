@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>http://tweets.opml.org/defjaf/tweets.opml</urlPublic>
 		<urlUpdateSocket>ws://tweets.opml.org:1481/</urlUpdateSocket>
-		<dateModified>Thu, 08 Sep 2022 06:32:32 GMT</dateModified>
+		<dateModified>Thu, 08 Sep 2022 06:45:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="September 2022" type="calendarMonth" name="september2022" >
 			<outline text="September 8" type="calendarDay" name="08" >
+				<outline text="@ShellFishApp Happens all the time — I’ve never got a tmux session working in shellfish. That is, tmux works if I invoke it myself from a normal terminal, but I can’t get shellfish terminal persistence working." rawText="@ShellFishApp Happens all the time — I’ve never got a tmux session working in shellfish. That is, tmux works if I invoke it myself from a normal terminal, but I can’t get shellfish terminal persistence working." type="tweet" created="Thu, 08 Sep 2022 06:42:25 GMT" tweetId="1567765281044402178" urltweet="https://twitter.com/defjaf/status/1567765281044402178" inReplyToId="1567763562352762880" tweetUserName="defjaf" />
 				<outline text="@ShellFishApp Having trouble with tmux on shellfish: variously get messages “no server running on /private/tmp/tmux-501/default” and occasionally “unknown command: is” when trying to display sessions. Former seems to depend on status of tmux server and sessions started in other terminals." rawText="@ShellFishApp Having trouble with tmux on shellfish: variously get messages “no server running on /private/tmp/tmux-501/default” and occasionally “unknown command: is” when trying to display sessions. Former seems to depend on status of tmux server and sessions started in other terminals." type="tweet" created="Thu, 08 Sep 2022 06:31:13 GMT" tweetId="1567762465206714370" urltweet="https://twitter.com/defjaf/status/1567762465206714370" inReplyToId="1562459640872415232" tweetUserName="defjaf" />
 				</outline>
 			<outline text="September 7" type="calendarDay" name="07" >
