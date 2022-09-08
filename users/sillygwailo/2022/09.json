@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 08 Sep 2022 02:41:47 GMT"
+            "dateModified": "Thu, 08 Sep 2022 02:55:03 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,31 @@
                                     "created": "Thu, 08 Sep 2022 02:33:53 GMT",
                                     "tweetId": "1567702734404460545",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1567702734404460545",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "I once went to their concert to see the opening act, and evidently GY!BE fans are fairly legendary for being quiet during a show. I didn’t stay for them, so I’m trying to see what the fuss is all about.",
+                                            "rawText": "I once went to their concert to see the opening act, and evidently GY!BE fans are fairly legendary for being quiet during a show. I didn’t stay for them, so I’m trying to see what the fuss is all about.",
+                                            "type": "tweet",
+                                            "created": "Thu, 08 Sep 2022 02:52:22 GMT",
+                                            "tweetId": "1567707388374917120",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1567707388374917120",
+                                            "inReplyToId": "1567702734404460545",
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "Or, I dunno, maybe I’m just sad.",
+                                                    "rawText": "Or, I dunno, maybe I’m just sad.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 08 Sep 2022 02:52:23 GMT",
+                                                    "tweetId": "1567707390178385920",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1567707390178385920",
+                                                    "inReplyToId": "1567707388374917120",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@shrimpalert 👎🏻",
