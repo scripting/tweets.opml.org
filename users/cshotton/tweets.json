@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/cshotton/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 07 Sep 2022 13:54:28 GMT"
+            "dateModified": "Thu, 08 Sep 2022 14:53:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "@siegel LOL! I thought you meant that Minecraft guy.",
+                                    "rawText": "@siegel LOL! I thought you meant that Minecraft guy.",
+                                    "type": "tweet",
+                                    "created": "Thu, 08 Sep 2022 14:41:06 GMT",
+                                    "tweetId": "1567885747360768001",
+                                    "urltweet": "https://twitter.com/cshotton/status/1567885747360768001",
+                                    "inReplyToId": "1567576701881786369",
+                                    "tweetUserName": "cshotton"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 7",
                             "type": "calendarDay",
