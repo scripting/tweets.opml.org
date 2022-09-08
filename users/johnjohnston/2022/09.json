@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 07 Sep 2022 19:20:19 GMT"
+            "dateModified": "Thu, 08 Sep 2022 20:58:57 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "I just got a Badger 2040 on a bit of a whim.\n\n  A hackable, programmable badge with E Ink® display, powered by Raspberry Pi RP2040.\n  I’ve only followed the basic tutorials so far &amp; don’t know python but I think this could be an interesting wee device. <a href=\"https://t.co/wEgFtaQehj\">[link]</a> https://t.co/7dnuH7Pn9v",
+                                    "rawText": "I just got a Badger 2040 on a bit of a whim.\n\n  A hackable, programmable badge with E Ink® display, powered by Raspberry Pi RP2040.\n  I’ve only followed the basic tutorials so far &amp; don’t know python but I think this could be an interesting wee device. https://t.co/wEgFtaQehj https://t.co/7dnuH7Pn9v",
+                                    "type": "tweet",
+                                    "created": "Thu, 08 Sep 2022 20:51:27 GMT",
+                                    "tweetId": "1567978947836579843",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1567978947836579843",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 7",
                             "type": "calendarDay",
