@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 08 Sep 2022 06:32:32 GMT"
+            "dateModified": "Thu, 08 Sep 2022 06:45:48 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "08",
                             "subs": [
+                                {
+                                    "text": "@ShellFishApp Happens all the time — I’ve never got a tmux session working in shellfish. That is, tmux works if I invoke it myself from a normal terminal, but I can’t get shellfish terminal persistence working.",
+                                    "rawText": "@ShellFishApp Happens all the time — I’ve never got a tmux session working in shellfish. That is, tmux works if I invoke it myself from a normal terminal, but I can’t get shellfish terminal persistence working.",
+                                    "type": "tweet",
+                                    "created": "Thu, 08 Sep 2022 06:42:25 GMT",
+                                    "tweetId": "1567765281044402178",
+                                    "urltweet": "https://twitter.com/defjaf/status/1567765281044402178",
+                                    "inReplyToId": "1567763562352762880",
+                                    "tweetUserName": "defjaf"
+                                },
                                 {
                                     "text": "@ShellFishApp Having trouble with tmux on shellfish: variously get messages “no server running on /private/tmp/tmux-501/default” and occasionally “unknown command: is” when trying to display sessions. Former seems to depend on status of tmux server and sessions started in other terminals.",
                                     "rawText": "@ShellFishApp Having trouble with tmux on shellfish: variously get messages “no server running on /private/tmp/tmux-501/default” and occasionally “unknown command: is” when trying to display sessions. Former seems to depend on status of tmux server and sessions started in other terminals.",
