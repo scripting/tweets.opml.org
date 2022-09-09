@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 08 Sep 2022 23:52:08 GMT"
+            "dateModified": "Fri, 09 Sep 2022 16:13:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@dzkalman Now democratize the rest of the siddur.",
+                                    "rawText": "@dzkalman Now democratize the rest of the siddur.",
+                                    "type": "tweet",
+                                    "created": "Fri, 09 Sep 2022 16:08:06 GMT",
+                                    "tweetId": "1568270028033892354",
+                                    "urltweet": "https://twitter.com/yudel/status/1568270028033892354",
+                                    "inReplyToId": "1568257923280764929",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 8",
                             "type": "calendarDay",
