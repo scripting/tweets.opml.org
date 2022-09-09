@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 08 Sep 2022 21:46:00 GMT"
+            "dateModified": "Fri, 09 Sep 2022 10:35:19 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@lobachevscki 100% papá",
+                                    "rawText": "@lobachevscki 100% papá",
+                                    "type": "tweet",
+                                    "created": "Fri, 09 Sep 2022 10:27:15 GMT",
+                                    "tweetId": "1568184252331696140",
+                                    "urltweet": "https://twitter.com/chiguire/status/1568184252331696140",
+                                    "inReplyToId": "1567938939624869888",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 8",
                             "type": "calendarDay",
