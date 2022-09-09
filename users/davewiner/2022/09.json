@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 09 Sep 2022 12:18:00 GMT"
+            "dateModified": "Fri, 09 Sep 2022 12:22:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "09",
                             "subs": [
+                                {
+                                    "text": "My great-uncle. <a href=\"https://t.co/LWgh6GZ5kY\">[link]</a>",
+                                    "rawText": "My great-uncle. https://t.co/LWgh6GZ5kY",
+                                    "type": "tweet",
+                                    "created": "Fri, 09 Sep 2022 12:21:07 GMT",
+                                    "tweetId": "1568212904515616769",
+                                    "urltweet": "https://twitter.com/davewiner/status/1568212904515616769",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@ScottHansonDE Every hour on the news last night started with 45 minutes of more non-news about the queen. Followed by the standard 15 minutes on Trump. Then the next host comes on and does the same thing. I watched football instead.",
                                     "rawText": "@ScottHansonDE Every hour on the news last night started with 45 minutes of more non-news about the queen. Followed by the standard 15 minutes on Trump. Then the next host comes on and does the same thing. I watched football instead.",
