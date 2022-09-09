@@ -1,0 +1,39 @@
+{
+    "opml": {
+        "head": {
+            "title": "Jacobr tweets",
+            "dateCreated": "Sun, 30 Jan 2022 14:59:22 GMT",
+            "expansionState": "1,2",
+            "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
+            "urlUpdateSocket": "ws://tweets.opml.org:1481/",
+            "dateModified": "Fri, 09 Sep 2022 03:43:52 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "September 2022",
+                    "type": "calendarMonth",
+                    "name": "september2022",
+                    "subs": [
+                        {
+                            "text": "September 8",
+                            "type": "calendarDay",
+                            "name": "08",
+                            "subs": [
+                                {
+                                    "text": "#scriptingnews <a href=\"https://t.co/C5EUwmQnxE\">[link]</a>",
+                                    "rawText": "#scriptingnews https://t.co/C5EUwmQnxE",
+                                    "type": "tweet",
+                                    "created": "Fri, 09 Sep 2022 03:43:08 GMT",
+                                    "tweetId": "1568082550727352320",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1568082550727352320",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
