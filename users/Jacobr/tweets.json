@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Jacobr/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Fri, 09 Sep 2022 03:43:52 GMT"
+            "dateModified": "Fri, 09 Sep 2022 11:41:23 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "@Farzad_MD Confirmed.  Dinner with a PCP recently (who joined an ACO - not ours (and not yours) during the ACO frenzy of 2022) ... \"yeh - this thing is amazing.  I sign up all of my patients, and the revenue just flows.  So great.\"   (not)",
+                                    "rawText": "@Farzad_MD Confirmed.  Dinner with a PCP recently (who joined an ACO - not ours (and not yours) during the ACO frenzy of 2022) ... \"yeh - this thing is amazing.  I sign up all of my patients, and the revenue just flows.  So great.\"   (not)",
+                                    "type": "tweet",
+                                    "created": "Fri, 09 Sep 2022 11:34:24 GMT",
+                                    "tweetId": "1568201150909792256",
+                                    "urltweet": "https://twitter.com/Jacobr/status/1568201150909792256",
+                                    "inReplyToId": "1568193148421111808",
+                                    "tweetUserName": "Jacobr"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 8",
                             "type": "calendarDay",
