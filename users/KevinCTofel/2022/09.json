@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KevinCTofel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 08 Sep 2022 21:19:43 GMT"
+            "dateModified": "Fri, 09 Sep 2022 06:23:33 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "ICYMI: ChromeOS 105 release arrives: What you need to know <a href=\"https://t.co/4PsyYmfPbG\">[link]</a> https://t.co/B4WPSDu9A1",
+                                    "rawText": "ICYMI: ChromeOS 105 release arrives: What you need to know https://t.co/4PsyYmfPbG https://t.co/B4WPSDu9A1",
+                                    "type": "tweet",
+                                    "created": "Fri, 09 Sep 2022 06:16:01 GMT",
+                                    "tweetId": "1568121026445279232",
+                                    "urltweet": "https://twitter.com/KevinCTofel/status/1568121026445279232",
+                                    "tweetUserName": "KevinCTofel"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 8",
                             "type": "calendarDay",
