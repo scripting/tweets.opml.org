@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 18:21:00 GMT"
+            "dateModified": "Sat, 10 Sep 2022 18:25:01 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sat, 10 Sep 2022 18:20:35 GMT",
                                     "tweetId": "1568665757185380353",
                                     "urltweet": "https://twitter.com/davewiner/status/1568665757185380353",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "We still have this right to choose. #fornow <a href=\"https://t.co/YlQT5Y0pYc\">[link]</a>",
+                                            "rawText": "We still have this right to choose. #fornow https://t.co/YlQT5Y0pYc",
+                                            "type": "tweet",
+                                            "created": "Sat, 10 Sep 2022 18:24:51 GMT",
+                                            "tweetId": "1568666832193683457",
+                                            "urltweet": "https://twitter.com/davewiner/status/1568666832193683457",
+                                            "inReplyToId": "1568665757185380353",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Are there any good baseball newsletters on substack?\n\nAny links much appreciated (and will be part of my new baseball news product).",
