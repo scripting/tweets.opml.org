@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 15:15:00 GMT"
+            "dateModified": "Sat, 10 Sep 2022 16:30:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@abgoldberg Thanks but I'm working on the server in node.js and need something quickly.",
+                                    "rawText": "@abgoldberg Thanks but I'm working on the server in node.js and need something quickly.",
+                                    "type": "tweet",
+                                    "created": "Sat, 10 Sep 2022 16:29:06 GMT",
+                                    "tweetId": "1568637700906835968",
+                                    "urltweet": "https://twitter.com/davewiner/status/1568637700906835968",
+                                    "inReplyToId": "1568627965302292483",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "I have a regex that strips all HTML elements from a string. Now I want one that does less, it strips all markup except &lt;p&gt; and &lt;/p&gt;. Then I want one that takes a list of elements it should leave in place. Any help most appreciated!\n\n<a href=\"https://t.co/DS5ppWeUHM\">[link]</a>",
                                     "rawText": "I have a regex that strips all HTML elements from a string. Now I want one that does less, it strips all markup except &lt;p&gt; and &lt;/p&gt;. Then I want one that takes a list of elements it should leave in place. Any help most appreciated!\n\nhttps://t.co/DS5ppWeUHM",
