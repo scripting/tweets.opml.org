@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 01:38:47 GMT"
+            "dateModified": "Sat, 10 Sep 2022 23:31:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "@mims <a href=\"https://t.co/apRFtmyOwk\">[link]</a>",
+                                    "rawText": "@mims https://t.co/apRFtmyOwk",
+                                    "type": "tweet",
+                                    "created": "Sat, 10 Sep 2022 23:30:10 GMT",
+                                    "tweetId": "1568743667061653504",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1568743667061653504",
+                                    "tweetUserName": "RonKJeffries"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 9",
                             "type": "calendarDay",
