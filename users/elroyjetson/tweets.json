@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/elroyjetson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 04 Sep 2022 22:45:42 GMT"
+            "dateModified": "Sat, 10 Sep 2022 01:14:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 9",
+                            "type": "calendarDay",
+                            "name": "09",
+                            "subs": [
+                                {
+                                    "text": "Here is a fresh novel idea - just use html+css as your stack. Brilliant. <a href=\"https://t.co/oe2cKCEON2\">[link]</a>",
+                                    "rawText": "Here is a fresh novel idea - just use html+css as your stack. Brilliant. https://t.co/oe2cKCEON2",
+                                    "type": "tweet",
+                                    "created": "Sat, 10 Sep 2022 01:12:01 GMT",
+                                    "tweetId": "1568406908913999878",
+                                    "urltweet": "https://twitter.com/elroyjetson/status/1568406908913999878",
+                                    "tweetUserName": "elroyjetson"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 4",
                             "type": "calendarDay",
