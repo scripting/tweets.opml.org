@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 14:49:00 GMT"
+            "dateModified": "Sat, 10 Sep 2022 15:15:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "I have a regex that strips all HTML elements from a string. Now I want one that does less, it strips all markup except &lt;p&gt; and &lt;/p&gt;. Then I want one that takes a list of elements it should leave in place. Any help most appreciated!\n\n<a href=\"https://t.co/DS5ppWeUHM\">[link]</a>",
+                                    "rawText": "I have a regex that strips all HTML elements from a string. Now I want one that does less, it strips all markup except &lt;p&gt; and &lt;/p&gt;. Then I want one that takes a list of elements it should leave in place. Any help most appreciated!\n\nhttps://t.co/DS5ppWeUHM",
+                                    "type": "tweet",
+                                    "created": "Sat, 10 Sep 2022 15:14:06 GMT",
+                                    "tweetId": "1568618825318371328",
+                                    "urltweet": "https://twitter.com/davewiner/status/1568618825318371328",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "This headline scrolled through and I thought it was worth noting. I have not read the article. <a href=\"https://t.co/9b8nHdrk05\">[link]</a>",
                                     "rawText": "This headline scrolled through and I thought it was worth noting. I have not read the article. https://t.co/9b8nHdrk05",
