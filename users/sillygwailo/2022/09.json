@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 00:14:11 GMT"
+            "dateModified": "Sat, 10 Sep 2022 13:16:46 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 10",
+                            "type": "calendarDay",
+                            "name": "10",
+                            "subs": [
+                                {
+                                    "text": "Douglas Adams and Aaliyah. <a href=\"https://t.co/1PDQ4qdsVd\">[link]</a>",
+                                    "rawText": "Douglas Adams and Aaliyah. https://t.co/1PDQ4qdsVd",
+                                    "type": "tweet",
+                                    "created": "Sat, 10 Sep 2022 13:14:03 GMT",
+                                    "tweetId": "1568588617089519618",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1568588617089519618",
+                                    "inReplyToId": "1391772679275941891",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 9",
                             "type": "calendarDay",
