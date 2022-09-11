@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/thedimpause/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 08 Sep 2022 16:11:24 GMT"
+            "dateModified": "Sun, 11 Sep 2022 07:11:40 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "♫ My Top 5 #lastfm artists: Evgeny Kissin (19), Lou Reed (14), Ezra Furman (13), Dry Cleaning (10) &amp; Jenny Hval (10) #lastfm via @tweeklyfm",
+                                    "rawText": "♫ My Top 5 #lastfm artists: Evgeny Kissin (19), Lou Reed (14), Ezra Furman (13), Dry Cleaning (10) &amp; Jenny Hval (10) #lastfm via @tweeklyfm",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 07:00:19 GMT",
+                                    "tweetId": "1568856948350812160",
+                                    "urltweet": "https://twitter.com/thedimpause/status/1568856948350812160",
+                                    "tweetUserName": "thedimpause"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 8",
                             "type": "calendarDay",
