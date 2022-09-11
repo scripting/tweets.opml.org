@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/aworks/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 13:54:04 GMT"
+            "dateModified": "Sun, 11 Sep 2022 13:59:51 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "the contemporary classical daily is out! <a href=\"https://t.co/nw1mPeYfny\">[link]</a> Stories via @avantmusicnews @masonbates @YarnWire",
+                                    "rawText": "the contemporary classical daily is out! https://t.co/nw1mPeYfny Stories via @avantmusicnews @masonbates @YarnWire",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 13:48:21 GMT",
+                                    "tweetId": "1568959635129769986",
+                                    "urltweet": "https://twitter.com/aworks/status/1568959635129769986",
+                                    "tweetUserName": "aworks"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 10",
                             "type": "calendarDay",
