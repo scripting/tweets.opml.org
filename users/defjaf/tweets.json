@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/defjaf/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 20:53:00 GMT"
+            "dateModified": "Sun, 11 Sep 2022 09:15:47 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "I guess the postwar period really is over.",
+                                    "rawText": "I guess the postwar period really is over.",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 09:11:49 GMT",
+                                    "tweetId": "1568890042445185024",
+                                    "urltweet": "https://twitter.com/defjaf/status/1568890042445185024",
+                                    "tweetUserName": "defjaf"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 10",
                             "type": "calendarDay",
