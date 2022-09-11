@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 14:26:07 GMT"
+            "dateModified": "Sun, 11 Sep 2022 14:39:23 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Sun, 11 Sep 2022 14:24:56 GMT",
                                     "tweetId": "1568968840792375296",
                                     "urltweet": "https://twitter.com/moosebegab/status/1568968840792375296",
-                                    "tweetUserName": "moosebegab"
+                                    "tweetUserName": "moosebegab",
+                                    "subs": [
+                                        {
+                                            "text": "\"People need repeated exposure to solid news and conversation. They need people they can trust to talk to. They need time in a non-threatening situation to process things. They need neighbors and members of community groups who share some passion or some commitment.\"",
+                                            "rawText": "\"People need repeated exposure to solid news and conversation. They need people they can trust to talk to. They need time in a non-threatening situation to process things. They need neighbors and members of community groups who share some passion or some commitment.\"",
+                                            "type": "tweet",
+                                            "created": "Sun, 11 Sep 2022 14:28:40 GMT",
+                                            "tweetId": "1568969781021409283",
+                                            "urltweet": "https://twitter.com/moosebegab/status/1568969781021409283",
+                                            "inReplyToId": "1568968840792375296",
+                                            "tweetUserName": "moosebegab"
+                                        }
+                                    ]
                                 }
                             ]
                         },
