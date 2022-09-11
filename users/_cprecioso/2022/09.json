@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 12:49:01 GMT"
+            "dateModified": "Sun, 11 Sep 2022 13:02:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "Buenos días <a href=\"https://t.co/okq1FWvApH\">[link]</a>",
+                                    "rawText": "Buenos días https://t.co/okq1FWvApH",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 12:55:39 GMT",
+                                    "tweetId": "1568946371159552002",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1568946371159552002",
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Ay Dios mío la gay bear smile, tengo que controlarla",
+                                            "rawText": "Ay Dios mío la gay bear smile, tengo que controlarla",
+                                            "type": "tweet",
+                                            "created": "Sun, 11 Sep 2022 12:57:56 GMT",
+                                            "tweetId": "1568946949125988353",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1568946949125988353",
+                                            "inReplyToId": "1568946371159552002",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@zzRto La oreja de van gogh ya dio un concierto en second life allá por 2009",
                                     "rawText": "@zzRto La oreja de van gogh ya dio un concierto en second life allá por 2009",
