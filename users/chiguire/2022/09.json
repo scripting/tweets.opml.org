@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 10:20:22 GMT"
+            "dateModified": "Sun, 11 Sep 2022 10:46:53 GMT"
         },
         "body": {
             "subs": [
@@ -1072,7 +1072,31 @@
                                                     "tweetId": "1567068799244845058",
                                                     "urltweet": "https://twitter.com/chiguire/status/1567068799244845058",
                                                     "inReplyToId": "1566700445061599233",
-                                                    "tweetUserName": "chiguire"
+                                                    "tweetUserName": "chiguire",
+                                                    "subs": [
+                                                        {
+                                                            "text": "<a href=\"https://t.co/wsFnCgUZgm\">[link]</a>",
+                                                            "rawText": "https://t.co/wsFnCgUZgm",
+                                                            "type": "tweet",
+                                                            "created": "Sun, 11 Sep 2022 10:41:08 GMT",
+                                                            "tweetId": "1568912518390726656",
+                                                            "urltweet": "https://twitter.com/chiguire/status/1568912518390726656",
+                                                            "inReplyToId": "1567068799244845058",
+                                                            "tweetUserName": "chiguire",
+                                                            "subs": [
+                                                                {
+                                                                    "text": "\"Let's fill the world with badass cuties\" - @SukebanGames \n\nReally enjoyed VA-11 HALL-A ❤️ <a href=\"https://t.co/hcL2w7YPwc\">[link]</a>",
+                                                                    "rawText": "\"Let's fill the world with badass cuties\" - @SukebanGames \n\nReally enjoyed VA-11 HALL-A ❤️ https://t.co/hcL2w7YPwc",
+                                                                    "type": "tweet",
+                                                                    "created": "Sun, 11 Sep 2022 10:43:21 GMT",
+                                                                    "tweetId": "1568913079382974465",
+                                                                    "urltweet": "https://twitter.com/chiguire/status/1568913079382974465",
+                                                                    "inReplyToId": "1568912518390726656",
+                                                                    "tweetUserName": "chiguire"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
