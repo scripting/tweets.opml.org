@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 01:26:18 GMT"
+            "dateModified": "Sun, 11 Sep 2022 02:32:37 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,16 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "@adamhill FWIW: <a href=\"https://t.co/Um26EIFFrI\">[link]</a>",
+                                    "rawText": "@adamhill FWIW: https://t.co/Um26EIFFrI",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 02:23:50 GMT",
+                                    "tweetId": "1568787370018742273",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1568787370018742273",
+                                    "inReplyToId": "1568785795967762433",
+                                    "tweetUserName": "sillygwailo"
+                                },
                                 {
                                     "text": "Third viewing, four cries.",
                                     "rawText": "Third viewing, four cries.",
