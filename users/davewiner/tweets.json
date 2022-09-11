@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 01:38:00 GMT"
+            "dateModified": "Sun, 11 Sep 2022 01:40:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "10",
                             "subs": [
+                                {
+                                    "text": "Some people tweet in a unitary way.",
+                                    "rawText": "Some people tweet in a unitary way.",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 01:39:30 GMT",
+                                    "tweetId": "1568776214571094017",
+                                    "urltweet": "https://twitter.com/davewiner/status/1568776214571094017",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@siegel does it make you cranky?",
                                     "rawText": "@siegel does it make you cranky?",
