@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 18:10:05 GMT"
+            "dateModified": "Sun, 11 Sep 2022 07:25:56 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "@tomchapple1 @declassifiedUK who has armed the Guatamalan Army for decades?",
+                                    "rawText": "@tomchapple1 @declassifiedUK who has armed the Guatamalan Army for decades?",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 07:22:21 GMT",
+                                    "tweetId": "1568862493686235138",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1568862493686235138",
+                                    "inReplyToId": "1568549963642142721",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 10",
                             "type": "calendarDay",
