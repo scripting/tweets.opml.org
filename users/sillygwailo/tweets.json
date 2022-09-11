@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 15:35:12 GMT"
+            "dateModified": "Sun, 11 Sep 2022 15:48:27 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "11",
                             "subs": [
                                 {
+                                    "text": "@heyrickie Would you like to write the entry on petrichor for my forthcoming book, Vancouver: The Good Parts?",
+                                    "rawText": "@heyrickie Would you like to write the entry on petrichor for my forthcoming book, Vancouver: The Good Parts?",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 15:42:37 GMT",
+                                    "tweetId": "1568988392091750401",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1568988392091750401",
+                                    "inReplyToId": "1568986625417560064",
+                                    "tweetUserName": "sillygwailo"
+                                },
+                                {
                                     "text": "My agent didn’t tell me this was happening today. I’ve got to fire that agent. <a href=\"https://t.co/IzfCDRMkdT\">[link]</a>",
                                     "rawText": "My agent didn’t tell me this was happening today. I’ve got to fire that agent. https://t.co/IzfCDRMkdT",
                                     "type": "tweet",
                                     "created": "Sun, 11 Sep 2022 15:34:55 GMT",
                                     "tweetId": "1568986452800798720",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1568986452800798720",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "Toronto’s best-shod man was there, sigh.",
+                                            "rawText": "Toronto’s best-shod man was there, sigh.",
+                                            "type": "tweet",
+                                            "created": "Sun, 11 Sep 2022 15:37:42 GMT",
+                                            "tweetId": "1568987155309170690",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1568987155309170690",
+                                            "inReplyToId": "1568986452800798720",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "This tweet, now deleted, was about how, when guys talk to each other, it’s only ever one guy talking about himself and then the other guy talking about himself, as if they were comparing their resumes.",
