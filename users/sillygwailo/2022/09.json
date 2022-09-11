@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 16:41:31 GMT"
+            "dateModified": "Sun, 11 Sep 2022 16:54:47 GMT"
         },
         "body": {
             "subs": [
@@ -193,7 +193,19 @@
                                     "created": "Sat, 10 Sep 2022 00:01:39 GMT",
                                     "tweetId": "1568389200797466625",
                                     "urltweet": "https://twitter.com/sillygwailo/status/1568389200797466625",
-                                    "tweetUserName": "sillygwailo"
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": "According to Flightradar24, the airplane in this shot was an Air Canada flight from Toronto to Athens. <a href=\"https://t.co/v2gWZsICCv\">[link]</a>",
+                                            "rawText": "According to Flightradar24, the airplane in this shot was an Air Canada flight from Toronto to Athens. https://t.co/v2gWZsICCv",
+                                            "type": "tweet",
+                                            "created": "Sun, 11 Sep 2022 16:51:05 GMT",
+                                            "tweetId": "1569005621051097089",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1569005621051097089",
+                                            "inReplyToId": "1568389200797466625",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "TIFF, especially when King St. W. is closed to vehicle traffic, is a people-watcher’s dream scenario.",
