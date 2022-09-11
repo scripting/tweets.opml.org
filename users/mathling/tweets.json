@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mathling/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sat, 10 Sep 2022 19:35:40 GMT"
+            "dateModified": "Sun, 11 Sep 2022 21:40:50 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 11",
+                            "type": "calendarDay",
+                            "name": "11",
+                            "subs": [
+                                {
+                                    "text": "#GenerativeArt interlude\n\nStarsprites\n\n#SVG #XQuery <a href=\"https://t.co/Ckt59Le7wM\">[link]</a>",
+                                    "rawText": "#GenerativeArt interlude\n\nStarsprites\n\n#SVG #XQuery https://t.co/Ckt59Le7wM",
+                                    "type": "tweet",
+                                    "created": "Sun, 11 Sep 2022 21:28:36 GMT",
+                                    "tweetId": "1569075458763005952",
+                                    "urltweet": "https://twitter.com/mathling/status/1569075458763005952",
+                                    "tweetUserName": "mathling"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 10",
                             "type": "calendarDay",
