@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 15:01:40 GMT"
+            "dateModified": "Mon, 12 Sep 2022 09:22:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "👀🎆\n<a href=\"https://t.co/1vQWRS7QfX\">[link]</a>",
+                                    "rawText": "👀🎆\nhttps://t.co/1vQWRS7QfX",
+                                    "type": "tweet",
+                                    "created": "Mon, 12 Sep 2022 09:09:31 GMT",
+                                    "tweetId": "1569251851987566593",
+                                    "urltweet": "https://twitter.com/_cprecioso/status/1569251851987566593",
+                                    "tweetUserName": "_cprecioso"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 11",
                             "type": "calendarDay",
