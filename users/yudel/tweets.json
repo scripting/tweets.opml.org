@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 22:42:27 GMT"
+            "dateModified": "Mon, 12 Sep 2022 22:55:43 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,38 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "@AsafShaloo @drvolts Problem because electrification significantly increases electric demand, and solar/wind generates it at different times and places than where it is consumed.",
+                                    "rawText": "@AsafShaloo @drvolts Problem because electrification significantly increases electric demand, and solar/wind generates it at different times and places than where it is consumed.",
+                                    "type": "tweet",
+                                    "created": "Mon, 12 Sep 2022 22:54:49 GMT",
+                                    "tweetId": "1569459547059933184",
+                                    "urltweet": "https://twitter.com/yudel/status/1569459547059933184",
+                                    "inReplyToId": "1569459109912809473",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
+                                    "text": "@AsafShaloo Transmission is currently a Big Problem. See @drvolts who is worth a follow both as an energy expert and someone really good at writing really complicated, really long technical stories that read very, very smoothly.",
+                                    "rawText": "@AsafShaloo Transmission is currently a Big Problem. See @drvolts who is worth a follow both as an energy expert and someone really good at writing really complicated, really long technical stories that read very, very smoothly.",
+                                    "type": "tweet",
+                                    "created": "Mon, 12 Sep 2022 22:52:07 GMT",
+                                    "tweetId": "1569458867628830721",
+                                    "urltweet": "https://twitter.com/yudel/status/1569458867628830721",
+                                    "inReplyToId": "1569457708142841856",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@AsafShaloo @drvolts Local storage is probably more efficient and cheaper than shuffling electrons across the continent.",
+                                            "rawText": "@AsafShaloo @drvolts Local storage is probably more efficient and cheaper than shuffling electrons across the continent.",
+                                            "type": "tweet",
+                                            "created": "Mon, 12 Sep 2022 22:52:57 GMT",
+                                            "tweetId": "1569459077306261505",
+                                            "urltweet": "https://twitter.com/yudel/status/1569459077306261505",
+                                            "inReplyToId": "1569458867628830721",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "Gotta admire the ability of the @forverts to stay calm as the the well-funded big guy in the journalism block tests the waters on entering their market. <a href=\"https://t.co/ZdaMSZreF9\">[link]</a>",
                                     "rawText": "Gotta admire the ability of the @forverts to stay calm as the the well-funded big guy in the journalism block tests the waters on entering their market. https://t.co/ZdaMSZreF9",
