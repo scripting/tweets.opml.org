@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 15:04:40 GMT"
+            "dateModified": "Mon, 12 Sep 2022 16:56:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "MLS fans get political <a href=\"https://t.co/8KaX845hDV\">[link]</a>",
+                                    "rawText": "MLS fans get political https://t.co/8KaX845hDV",
+                                    "type": "tweet",
+                                    "created": "Mon, 12 Sep 2022 16:47:30 GMT",
+                                    "tweetId": "1569367109032869888",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1569367109032869888",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 11",
                             "type": "calendarDay",
