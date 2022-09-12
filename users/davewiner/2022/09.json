@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 16:14:00 GMT"
+            "dateModified": "Mon, 12 Sep 2022 16:15:00 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 12 Sep 2022 16:13:43 GMT",
                                     "tweetId": "1569358607006695427",
                                     "urltweet": "https://twitter.com/davewiner/status/1569358607006695427",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "that format is being rendered by twitter. it's not part of the image. i looked at the twitter: metadata in the &lt;head&gt; section of the html, and it looks pretty ordinary. but my articles don't look like this when i paste their urls into twitter or do they? hmm.",
+                                            "rawText": "that format is being rendered by twitter. it's not part of the image. i looked at the twitter: metadata in the &lt;head&gt; section of the html, and it looks pretty ordinary. but my articles don't look like this when i paste their urls into twitter or do they? hmm.",
+                                            "type": "tweet",
+                                            "created": "Mon, 12 Sep 2022 16:14:48 GMT",
+                                            "tweetId": "1569358880295059460",
+                                            "urltweet": "https://twitter.com/davewiner/status/1569358880295059460",
+                                            "inReplyToId": "1569358607006695427",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Articles like this make me nauseous because there's too much horse-racing for me to factor out easily. \n\nThe idea that this is news comes from someone or a group of people who are lazy thinkers. <a href=\"https://t.co/XYiWOLxzlY\">[link]</a>",
