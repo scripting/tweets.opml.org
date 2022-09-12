@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 16:15:00 GMT"
+            "dateModified": "Mon, 12 Sep 2022 16:16:00 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1569358880295059460",
                                             "urltweet": "https://twitter.com/davewiner/status/1569358880295059460",
                                             "inReplyToId": "1569358607006695427",
-                                            "tweetUserName": "davewiner"
+                                            "tweetUserName": "davewiner",
+                                            "subs": [
+                                                {
+                                                    "text": "my guess is they're doing something special for the nyt.",
+                                                    "rawText": "my guess is they're doing something special for the nyt.",
+                                                    "type": "tweet",
+                                                    "created": "Mon, 12 Sep 2022 16:15:57 GMT",
+                                                    "tweetId": "1569359169546764288",
+                                                    "urltweet": "https://twitter.com/davewiner/status/1569359169546764288",
+                                                    "inReplyToId": "1569358880295059460",
+                                                    "tweetUserName": "davewiner"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
