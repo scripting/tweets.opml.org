@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 03:54:59 GMT"
+            "dateModified": "Mon, 12 Sep 2022 04:08:15 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "@RokhlK Wait until they start translating Brett Stephens, Ross Douthat, and David Brooks into Yiddish on a regular basis.",
+                                    "rawText": "@RokhlK Wait until they start translating Brett Stephens, Ross Douthat, and David Brooks into Yiddish on a regular basis.",
+                                    "type": "tweet",
+                                    "created": "Mon, 12 Sep 2022 04:00:25 GMT",
+                                    "tweetId": "1569174065394614272",
+                                    "urltweet": "https://twitter.com/yudel/status/1569174065394614272",
+                                    "inReplyToId": "1569173081029234688",
+                                    "tweetUserName": "yudel"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 11",
                             "type": "calendarDay",
