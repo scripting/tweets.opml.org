@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Sun, 11 Sep 2022 20:13:44 GMT"
+            "dateModified": "Mon, 12 Sep 2022 13:41:37 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Does this mean that @Planta will be making a trip to Toronto soon? <a href=\"https://t.co/0UGQ6rZXM8\">[link]</a>",
+                                    "rawText": "Does this mean that @Planta will be making a trip to Toronto soon? https://t.co/0UGQ6rZXM8",
+                                    "type": "tweet",
+                                    "created": "Mon, 12 Sep 2022 13:32:14 GMT",
+                                    "tweetId": "1569317964960210944",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1569317964960210944",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 11",
                             "type": "calendarDay",
