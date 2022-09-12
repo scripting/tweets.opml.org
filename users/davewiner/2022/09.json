@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 17:02:00 GMT"
+            "dateModified": "Mon, 12 Sep 2022 17:03:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "12",
                             "subs": [
+                                {
+                                    "text": "Twitter is letting some news publishers post customizable cards. <a href=\"https://t.co/bEwhX03rqX\">[link]</a>",
+                                    "rawText": "Twitter is letting some news publishers post customizable cards. https://t.co/bEwhX03rqX",
+                                    "type": "tweet",
+                                    "created": "Mon, 12 Sep 2022 17:02:19 GMT",
+                                    "tweetId": "1569370837882388480",
+                                    "urltweet": "https://twitter.com/davewiner/status/1569370837882388480",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "@nmcintosh thank you! that sounds just about right. ;-)",
                                     "rawText": "@nmcintosh thank you! that sounds just about right. ;-)",
