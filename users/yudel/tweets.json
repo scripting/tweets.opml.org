@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 00:36:01 GMT"
+            "dateModified": "Mon, 12 Sep 2022 00:49:17 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,28 @@
                             "type": "calendarDay",
                             "name": "11",
                             "subs": [
+                                {
+                                    "text": "@AD_Lobel Too soon.",
+                                    "rawText": "@AD_Lobel Too soon.",
+                                    "type": "tweet",
+                                    "created": "Mon, 12 Sep 2022 00:45:29 GMT",
+                                    "tweetId": "1569125008257224704",
+                                    "urltweet": "https://twitter.com/yudel/status/1569125008257224704",
+                                    "inReplyToId": "1569124031529361409",
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@AD_Lobel Assuming you’re counting the Omer, which is really the only acceptable use of Arabic numerals.",
+                                            "rawText": "@AD_Lobel Assuming you’re counting the Omer, which is really the only acceptable use of Arabic numerals.",
+                                            "type": "tweet",
+                                            "created": "Mon, 12 Sep 2022 00:46:01 GMT",
+                                            "tweetId": "1569125143900786690",
+                                            "urltweet": "https://twitter.com/yudel/status/1569125143900786690",
+                                            "inReplyToId": "1569125008257224704",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "@JoelBerkowitz @PFLerner Henry Ford was not unproblematic.",
                                     "rawText": "@JoelBerkowitz @PFLerner Henry Ford was not unproblematic.",
