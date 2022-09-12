@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/_cprecioso/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 21:58:39 GMT"
+            "dateModified": "Mon, 12 Sep 2022 22:11:55 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Mon, 12 Sep 2022 21:57:35 GMT",
                                     "tweetId": "1569445142926610432",
                                     "urltweet": "https://twitter.com/_cprecioso/status/1569445142926610432",
-                                    "tweetUserName": "_cprecioso"
+                                    "tweetUserName": "_cprecioso",
+                                    "subs": [
+                                        {
+                                            "text": "Y Sarah Jessica Parker",
+                                            "rawText": "Y Sarah Jessica Parker",
+                                            "type": "tweet",
+                                            "created": "Mon, 12 Sep 2022 21:59:00 GMT",
+                                            "tweetId": "1569445496946819072",
+                                            "urltweet": "https://twitter.com/_cprecioso/status/1569445496946819072",
+                                            "inReplyToId": "1569445142926610432",
+                                            "tweetUserName": "_cprecioso"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Me acabo de dar cuenta literalmente ahora de que el nombre de London Tipton (de Zack y Cody) es una broma sobre Paris Hilton",
