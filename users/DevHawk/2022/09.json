@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/DevHawk/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 08 Sep 2022 17:41:59 GMT"
+            "dateModified": "Tue, 13 Sep 2022 16:11:35 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "Today's Workout : 345# squat, 210# bench, 185# barbell rows. 3x5 worksets \n\nI'm not posting my workouts consistently, but l am lifting consistently 3 days a week.",
+                                    "rawText": "Today's Workout : 345# squat, 210# bench, 185# barbell rows. 3x5 worksets \n\nI'm not posting my workouts consistently, but l am lifting consistently 3 days a week.",
+                                    "type": "tweet",
+                                    "created": "Tue, 13 Sep 2022 16:04:42 GMT",
+                                    "tweetId": "1569718723896016898",
+                                    "urltweet": "https://twitter.com/DevHawk/status/1569718723896016898",
+                                    "tweetUserName": "DevHawk"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 8",
                             "type": "calendarDay",
