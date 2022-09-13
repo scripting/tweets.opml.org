@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/RonKJeffries/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 13 Sep 2022 14:18:57 GMT"
+            "dateModified": "Tue, 13 Sep 2022 17:51:11 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Today I learned... <a href=\"https://t.co/yQEMD5xzdg\">[link]</a>",
+                                    "rawText": "Today I learned... https://t.co/yQEMD5xzdg",
+                                    "type": "tweet",
+                                    "created": "Tue, 13 Sep 2022 17:44:46 GMT",
+                                    "tweetId": "1569743906421747712",
+                                    "urltweet": "https://twitter.com/RonKJeffries/status/1569743906421747712",
+                                    "tweetUserName": "RonKJeffries"
+                                },
                                 {
                                     "text": "Readable intro to AI concepts &amp; content generation.\n\n@MikyDe @lasersailor @russsharer <a href=\"https://t.co/dWdNu68SPc\">[link]</a>",
                                     "rawText": "Readable intro to AI concepts &amp; content generation.\n\n@MikyDe @lasersailor @russsharer https://t.co/dWdNu68SPc",
