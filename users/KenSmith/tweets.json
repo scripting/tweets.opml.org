@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 13 Sep 2022 14:09:42 GMT"
+            "dateModified": "Tue, 13 Sep 2022 17:41:56 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "13",
                             "subs": [
+                                {
+                                    "text": "Over at the @DenverPost, subscriber only. <a href=\"https://t.co/Klas3NbFdI\">[link]</a>",
+                                    "rawText": "Over at the @DenverPost, subscriber only. https://t.co/Klas3NbFdI",
+                                    "type": "tweet",
+                                    "created": "Tue, 13 Sep 2022 17:35:34 GMT",
+                                    "tweetId": "1569741592826609664",
+                                    "urltweet": "https://twitter.com/KenSmith/status/1569741592826609664",
+                                    "tweetUserName": "KenSmith",
+                                    "subs": [
+                                        {
+                                            "text": "And in South Bend, a mother asks why she wasn't allowed to speak to her troubled son in the moments before the police killed him.\n\n<a href=\"https://t.co/bcv55CG5lV\">[link]</a> https://t.co/YdKiACmTQE",
+                                            "rawText": "And in South Bend, a mother asks why she wasn't allowed to speak to her troubled son in the moments before the police killed him.\n\nhttps://t.co/bcv55CG5lV https://t.co/YdKiACmTQE",
+                                            "type": "tweet",
+                                            "created": "Tue, 13 Sep 2022 17:35:35 GMT",
+                                            "tweetId": "1569741594479443968",
+                                            "urltweet": "https://twitter.com/KenSmith/status/1569741594479443968",
+                                            "inReplyToId": "1569741592826609664",
+                                            "tweetUserName": "KenSmith"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "\"The refusal of US leaders to discuss the brutal legacy of Western imperialism doesn’t only produce bad history. It produces bad foreign policy.\" <a href=\"https://t.co/1wpCfLiSdp\">[link]</a>",
                                     "rawText": "\"The refusal of US leaders to discuss the brutal legacy of Western imperialism doesn’t only produce bad history. It produces bad foreign policy.\" https://t.co/1wpCfLiSdp",
