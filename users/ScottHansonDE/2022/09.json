@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/ScottHansonDE/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 16:56:35 GMT"
+            "dateModified": "Tue, 13 Sep 2022 09:57:55 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "I think we‘ll take a different path <a href=\"https://t.co/STb7nn9FdW\">[link]</a>",
+                                    "rawText": "I think we‘ll take a different path https://t.co/STb7nn9FdW",
+                                    "type": "tweet",
+                                    "created": "Tue, 13 Sep 2022 09:51:32 GMT",
+                                    "tweetId": "1569624813504790528",
+                                    "urltweet": "https://twitter.com/ScottHansonDE/status/1569624813504790528",
+                                    "tweetUserName": "ScottHansonDE"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 12",
                             "type": "calendarDay",
