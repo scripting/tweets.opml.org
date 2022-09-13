@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 22:48:57 GMT"
+            "dateModified": "Tue, 13 Sep 2022 09:38:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "@DynamicWebPaige Spent months trying to remember the name of this clock, thank you!",
+                                    "rawText": "@DynamicWebPaige Spent months trying to remember the name of this clock, thank you!",
+                                    "type": "tweet",
+                                    "created": "Tue, 13 Sep 2022 09:27:02 GMT",
+                                    "tweetId": "1569618649136119808",
+                                    "urltweet": "https://twitter.com/chiguire/status/1569618649136119808",
+                                    "inReplyToId": "1569596343315750912",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 12",
                             "type": "calendarDay",
