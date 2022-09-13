@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 13 Sep 2022 16:36:21 GMT"
+            "dateModified": "Tue, 13 Sep 2022 17:42:41 GMT"
         },
         "body": {
             "subs": [
@@ -21,13 +21,35 @@
                             "name": "13",
                             "subs": [
                                 {
+                                    "text": "@gvenk Het is gelukt!",
+                                    "rawText": "@gvenk Het is gelukt!",
+                                    "type": "tweet",
+                                    "created": "Tue, 13 Sep 2022 17:39:53 GMT",
+                                    "tweetId": "1569742678853652490",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1569742678853652490",
+                                    "inReplyToId": "1569732313914933248",
+                                    "tweetUserName": "frankmeeuwsen"
+                                },
+                                {
                                     "text": "Ik zet de iOS update aan. Een half uur voor ik een MyWheels auto moet openen. Living on the edge mensen.",
                                     "rawText": "Ik zet de iOS update aan. Een half uur voor ik een MyWheels auto moet openen. Living on the edge mensen.",
                                     "type": "tweet",
                                     "created": "Tue, 13 Sep 2022 16:24:14 GMT",
                                     "tweetId": "1569723638273671172",
                                     "urltweet": "https://twitter.com/frankmeeuwsen/status/1569723638273671172",
-                                    "tweetUserName": "frankmeeuwsen"
+                                    "tweetUserName": "frankmeeuwsen",
+                                    "subs": [
+                                        {
+                                            "text": "Het is gelukt hoor mensen, ik ben op de plaats van bestemming! Dank voor uw zorgen.",
+                                            "rawText": "Het is gelukt hoor mensen, ik ben op de plaats van bestemming! Dank voor uw zorgen.",
+                                            "type": "tweet",
+                                            "created": "Tue, 13 Sep 2022 17:40:25 GMT",
+                                            "tweetId": "1569742812081537025",
+                                            "urltweet": "https://twitter.com/frankmeeuwsen/status/1569742812081537025",
+                                            "inReplyToId": "1569723638273671172",
+                                            "tweetUserName": "frankmeeuwsen"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Een lijstje met ongevraagd advies! <a href=\"https://t.co/5UY8zEC2fb\">[link]</a>",
