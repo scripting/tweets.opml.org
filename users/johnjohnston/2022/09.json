@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 21:35:23 GMT"
+            "dateModified": "Tue, 13 Sep 2022 07:19:00 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 13",
+                            "type": "calendarDay",
+                            "name": "13",
+                            "subs": [
+                                {
+                                    "text": "New iPhone feature. This is cool. In class we used use keynote or online services to cut out images. This is even simpler. No need for green screen. Works on my 4yr old phone. Hope it comes to iPadOS. <a href=\"https://t.co/G3vSQQrg2e\">[link]</a>",
+                                    "rawText": "New iPhone feature. This is cool. In class we used use keynote or online services to cut out images. This is even simpler. No need for green screen. Works on my 4yr old phone. Hope it comes to iPadOS. https://t.co/G3vSQQrg2e",
+                                    "type": "tweet",
+                                    "created": "Tue, 13 Sep 2022 07:08:25 GMT",
+                                    "tweetId": "1569583763730071554",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1569583763730071554",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 12",
                             "type": "calendarDay",
