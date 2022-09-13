@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/KenSmith/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 13 Sep 2022 17:41:56 GMT"
+            "dateModified": "Tue, 13 Sep 2022 17:55:12 GMT"
         },
         "body": {
             "subs": [
@@ -37,7 +37,19 @@
                                             "tweetId": "1569741594479443968",
                                             "urltweet": "https://twitter.com/KenSmith/status/1569741594479443968",
                                             "inReplyToId": "1569741592826609664",
-                                            "tweetUserName": "KenSmith"
+                                            "tweetUserName": "KenSmith",
+                                            "subs": [
+                                                {
+                                                    "text": "South Bend reporting there by @JordanTSmith09.",
+                                                    "rawText": "South Bend reporting there by @JordanTSmith09.",
+                                                    "type": "tweet",
+                                                    "created": "Tue, 13 Sep 2022 17:44:58 GMT",
+                                                    "tweetId": "1569743958481244160",
+                                                    "urltweet": "https://twitter.com/KenSmith/status/1569743958481244160",
+                                                    "inReplyToId": "1569741594479443968",
+                                                    "tweetUserName": "KenSmith"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
