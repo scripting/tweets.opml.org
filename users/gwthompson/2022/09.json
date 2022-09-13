@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/gwthompson/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Mon, 12 Sep 2022 03:25:57 GMT"
+            "dateModified": "Tue, 13 Sep 2022 02:51:58 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 12",
+                            "type": "calendarDay",
+                            "name": "12",
+                            "subs": [
+                                {
+                                    "text": "Wordle 450 5/6\n\n⬛⬛⬛🟨⬛\n⬛⬛🟩⬛⬛\n⬛⬛🟩⬛🟩\n🟩⬛🟩⬛🟩\n🟩🟩🟩🟩🟩",
+                                    "rawText": "Wordle 450 5/6\n\n⬛⬛⬛🟨⬛\n⬛⬛🟩⬛⬛\n⬛⬛🟩⬛🟩\n🟩⬛🟩⬛🟩\n🟩🟩🟩🟩🟩",
+                                    "type": "tweet",
+                                    "created": "Tue, 13 Sep 2022 02:46:28 GMT",
+                                    "tweetId": "1569517841006698496",
+                                    "urltweet": "https://twitter.com/gwthompson/status/1569517841006698496",
+                                    "tweetUserName": "gwthompson"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 11",
                             "type": "calendarDay",
