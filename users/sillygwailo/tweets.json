@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 13:26:42 GMT"
+            "dateModified": "Wed, 14 Sep 2022 13:39:58 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "I want a giant print of this cartoon. <a href=\"https://t.co/FWpaVwILqU\">[link]</a> https://t.co/JMqP6QmxNn",
+                                    "rawText": "I want a giant print of this cartoon. https://t.co/FWpaVwILqU https://t.co/JMqP6QmxNn",
+                                    "type": "tweet",
+                                    "created": "Wed, 14 Sep 2022 13:30:13 GMT",
+                                    "tweetId": "1570042235143462918",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1570042235143462918",
+                                    "tweetUserName": "sillygwailo",
+                                    "subs": [
+                                        {
+                                            "text": ":( <a href=\"https://t.co/AKvChfR4CX\">[link]</a>",
+                                            "rawText": ":( https://t.co/AKvChfR4CX",
+                                            "type": "tweet",
+                                            "created": "Wed, 14 Sep 2022 13:33:18 GMT",
+                                            "tweetId": "1570043011454713858",
+                                            "urltweet": "https://twitter.com/sillygwailo/status/1570043011454713858",
+                                            "inReplyToId": "1570042235143462918",
+                                            "tweetUserName": "sillygwailo"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "I want a giant print of this card. <a href=\"https://t.co/FWpaVwJjgs\">[link]</a> https://t.co/4MuBBGgGxU",
                                     "rawText": "I want a giant print of this card. https://t.co/FWpaVwJjgs https://t.co/4MuBBGgGxU",
