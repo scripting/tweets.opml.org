@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 13 Sep 2022 12:48:21 GMT"
+            "dateModified": "Wed, 14 Sep 2022 06:56:02 GMT"
         },
         "body": {
             "subs": [
@@ -80,7 +80,19 @@
                                     "created": "Mon, 12 Sep 2022 09:12:41 GMT",
                                     "tweetId": "1569252649966395399",
                                     "urltweet": "https://twitter.com/Latz/status/1569252649966395399",
-                                    "tweetUserName": "Latz"
+                                    "tweetUserName": "Latz",
+                                    "subs": [
+                                        {
+                                            "text": ".. und dann sind die auch noch falsch und die neue Webcam funktioniert immer noch nicht. \nJetzt muss ich nur noch raus finden, warum .",
+                                            "rawText": ".. und dann sind die auch noch falsch und die neue Webcam funktioniert immer noch nicht. \nJetzt muss ich nur noch raus finden, warum .",
+                                            "type": "tweet",
+                                            "created": "Wed, 14 Sep 2022 06:51:35 GMT",
+                                            "tweetId": "1569941914232791041",
+                                            "urltweet": "https://twitter.com/Latz/status/1569941914232791041",
+                                            "inReplyToId": "1569252649966395399",
+                                            "tweetUserName": "Latz"
+                                        }
+                                    ]
                                 }
                             ]
                         },
