@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 16:03:08 GMT"
+            "dateModified": "Wed, 14 Sep 2022 18:29:02 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,27 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "my cat is not a cheap date.. but oh, so worth it. she looks so much better and most importantly, I'm sure FEELS so much better! #SpaDay",
+                                    "rawText": "my cat is not a cheap date.. but oh, so worth it. she looks so much better and most importantly, I'm sure FEELS so much better! #SpaDay",
+                                    "type": "tweet",
+                                    "created": "Wed, 14 Sep 2022 18:27:14 GMT",
+                                    "tweetId": "1570116982745309186",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1570116982745309186",
+                                    "tweetUserName": "moosebegab",
+                                    "subs": [
+                                        {
+                                            "text": "i'm grateful to be able to do this for her (and me, lol)",
+                                            "rawText": "i'm grateful to be able to do this for her (and me, lol)",
+                                            "type": "tweet",
+                                            "created": "Wed, 14 Sep 2022 18:27:15 GMT",
+                                            "tweetId": "1570116984209022981",
+                                            "urltweet": "https://twitter.com/moosebegab/status/1570116984209022981",
+                                            "inReplyToId": "1570116982745309186",
+                                            "tweetUserName": "moosebegab"
+                                        }
+                                    ]
+                                },
                                 {
                                     "text": "love this thread <a href=\"https://t.co/m6AQsN97sh\">[link]</a>",
                                     "rawText": "love this thread https://t.co/m6AQsN97sh",
