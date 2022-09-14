@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 13:48:00 GMT"
+            "dateModified": "Wed, 14 Sep 2022 14:48:01 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "14",
                             "subs": [
+                                {
+                                    "text": "An request to whoever runs <a href=\"https://t.co/I4yGOJmkRW\">[link]</a>.\n\nInstead of returning 404 for an favicon you don't have in your database, just redirect to a default icon. \n\nHaving an error message show up in the JS console in the browser doesn't serve any purpose.\n\nTIA.",
+                                    "rawText": "An request to whoever runs https://t.co/I4yGOJmkRW.\n\nInstead of returning 404 for an favicon you don't have in your database, just redirect to a default icon. \n\nHaving an error message show up in the JS console in the browser doesn't serve any purpose.\n\nTIA.",
+                                    "type": "tweet",
+                                    "created": "Wed, 14 Sep 2022 14:47:37 GMT",
+                                    "tweetId": "1570061713453506561",
+                                    "urltweet": "https://twitter.com/davewiner/status/1570061713453506561",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "Gravel Biking is Getting Popular. Here’s How to Start. <a href=\"https://t.co/0hYn5NLwXD\">[link]</a>",
                                     "rawText": "Gravel Biking is Getting Popular. Here’s How to Start. https://t.co/0hYn5NLwXD",
