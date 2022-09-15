@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 15 Sep 2022 16:35:00 GMT"
+            "dateModified": "Thu, 15 Sep 2022 17:08:00 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,15 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "This is something Doc Searls, the nicest guy you'll ever meet, might say. 😀\n\n<a href=\"https://t.co/cz3RvuVOyi\">[link]</a>",
+                                    "rawText": "This is something Doc Searls, the nicest guy you'll ever meet, might say. 😀\n\nhttps://t.co/cz3RvuVOyi",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 17:07:31 GMT",
+                                    "tweetId": "1570459306432278528",
+                                    "urltweet": "https://twitter.com/davewiner/status/1570459306432278528",
+                                    "tweetUserName": "davewiner"
+                                },
                                 {
                                     "text": "5/6 The Mets might still win, because the Braves, their main competitors in the NL East are slumping now too.",
                                     "rawText": "5/6 The Mets might still win, because the Braves, their main competitors in the NL East are slumping now too.",
