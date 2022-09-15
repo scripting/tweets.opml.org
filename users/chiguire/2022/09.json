@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 15 Sep 2022 19:47:25 GMT"
+            "dateModified": "Thu, 15 Sep 2022 21:20:16 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,25 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "Soy un genio <a href=\"https://t.co/z5WB8SXm8N\">[link]</a>",
+                                    "rawText": "Soy un genio https://t.co/z5WB8SXm8N",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 21:18:38 GMT",
+                                    "tweetId": "1570522504644665344",
+                                    "urltweet": "https://twitter.com/chiguire/status/1570522504644665344",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@mariannedh <a href=\"https://t.co/M3fooOEeXv\">[link]</a>",
+                                    "rawText": "@mariannedh https://t.co/M3fooOEeXv",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 21:16:13 GMT",
+                                    "tweetId": "1570521897661796352",
+                                    "urltweet": "https://twitter.com/chiguire/status/1570521897661796352",
+                                    "inReplyToId": "1570520876348735488",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@cubesos @benrathe <a href=\"https://t.co/qpdyjRFb1n\">[link]</a>",
                                     "rawText": "@cubesos @benrathe https://t.co/qpdyjRFb1n",
