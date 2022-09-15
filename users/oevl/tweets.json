@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/oevl/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 14:35:32 GMT"
+            "dateModified": "Thu, 15 Sep 2022 14:41:20 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "👍 on @YouTube: 1985 Rage in the Badlands part 1 of 5 <a href=\"https://t.co/vKkwZT6TNT\">[link]</a>",
+                                    "rawText": "👍 on @YouTube: 1985 Rage in the Badlands part 1 of 5 https://t.co/vKkwZT6TNT",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 14:28:27 GMT",
+                                    "tweetId": "1570419277513068547",
+                                    "urltweet": "https://twitter.com/oevl/status/1570419277513068547",
+                                    "tweetUserName": "oevl"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 14",
                             "type": "calendarDay",
