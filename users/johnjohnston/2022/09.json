@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/johnjohnston/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Tue, 13 Sep 2022 07:19:00 GMT"
+            "dateModified": "Thu, 15 Sep 2022 19:13:38 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,31 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Some days you have just got to get outside <a href=\"https://t.co/DhvOqRN11P\">[link]</a>",
+                                    "rawText": "Some days you have just got to get outside https://t.co/DhvOqRN11P",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 19:09:42 GMT",
+                                    "tweetId": "1570490058037432320",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1570490058037432320",
+                                    "tweetUserName": "johnjohnston"
+                                },
+                                {
+                                    "text": "@IanStuart66 queued  up for the commute. <a href=\"https://t.co/OPg9QvYX7R\">[link]</a>",
+                                    "rawText": "@IanStuart66 queued  up for the commute. https://t.co/OPg9QvYX7R",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 19:03:12 GMT",
+                                    "tweetId": "1570488422984196099",
+                                    "urltweet": "https://twitter.com/johnjohnston/status/1570488422984196099",
+                                    "tweetUserName": "johnjohnston"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 13",
                             "type": "calendarDay",
