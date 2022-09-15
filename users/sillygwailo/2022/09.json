@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 22:04:01 GMT"
+            "dateModified": "Thu, 15 Sep 2022 01:09:43 GMT"
         },
         "body": {
             "subs": [
@@ -38,7 +38,19 @@
                                             "tweetId": "1570169715439595520",
                                             "urltweet": "https://twitter.com/sillygwailo/status/1570169715439595520",
                                             "inReplyToId": "1570161945642164224",
-                                            "tweetUserName": "sillygwailo"
+                                            "tweetUserName": "sillygwailo",
+                                            "subs": [
+                                                {
+                                                    "text": "I’m wearing it to work tomorrow.",
+                                                    "rawText": "I’m wearing it to work tomorrow.",
+                                                    "type": "tweet",
+                                                    "created": "Thu, 15 Sep 2022 01:09:05 GMT",
+                                                    "tweetId": "1570218111139303426",
+                                                    "urltweet": "https://twitter.com/sillygwailo/status/1570218111139303426",
+                                                    "inReplyToId": "1570169715439595520",
+                                                    "tweetUserName": "sillygwailo"
+                                                }
+                                            ]
                                         }
                                     ]
                                 },
