@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 15 Sep 2022 22:13:19 GMT"
+            "dateModified": "Thu, 15 Sep 2022 22:39:51 GMT"
         },
         "body": {
             "subs": [
@@ -20,6 +20,36 @@
                             "type": "calendarDay",
                             "name": "15",
                             "subs": [
+                                {
+                                    "text": "Un juego aprobado por Hilda Abrahamz <a href=\"https://t.co/Bw1kn7TYUt\">[link]</a>",
+                                    "rawText": "Un juego aprobado por Hilda Abrahamz https://t.co/Bw1kn7TYUt",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 22:37:22 GMT",
+                                    "tweetId": "1570542318129905666",
+                                    "urltweet": "https://twitter.com/chiguire/status/1570542318129905666",
+                                    "tweetUserName": "chiguire",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://t.co/Efuy50XpVw\">[link]</a>",
+                                            "rawText": "https://t.co/Efuy50XpVw",
+                                            "type": "tweet",
+                                            "created": "Thu, 15 Sep 2022 22:38:30 GMT",
+                                            "tweetId": "1570542605037109249",
+                                            "urltweet": "https://twitter.com/chiguire/status/1570542605037109249",
+                                            "inReplyToId": "1570542318129905666",
+                                            "tweetUserName": "chiguire"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "It was a good run, \"I don't care about cookies\", gg <a href=\"https://t.co/MDUO2xUIWF\">[link]</a>",
+                                    "rawText": "It was a good run, \"I don't care about cookies\", gg https://t.co/MDUO2xUIWF",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 22:35:46 GMT",
+                                    "tweetId": "1570541917028626432",
+                                    "urltweet": "https://twitter.com/chiguire/status/1570541917028626432",
+                                    "tweetUserName": "chiguire"
+                                },
                                 {
                                     "text": "@EmberFirehair Congrats!!",
                                     "rawText": "@EmberFirehair Congrats!!",
