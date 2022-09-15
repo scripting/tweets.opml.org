@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/yudel/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 15 Sep 2022 01:59:46 GMT"
+            "dateModified": "Thu, 15 Sep 2022 02:13:02 GMT"
         },
         "body": {
             "subs": [
@@ -21,6 +21,16 @@
                             "name": "14",
                             "subs": [
                                 {
+                                    "text": "@HareianiBlog <a href=\"https://t.co/G2OY0u4J3E\">[link]</a>",
+                                    "rawText": "@HareianiBlog https://t.co/G2OY0u4J3E",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 02:01:05 GMT",
+                                    "tweetId": "1570231197736861697",
+                                    "urltweet": "https://twitter.com/yudel/status/1570231197736861697",
+                                    "inReplyToId": "1570229902162513920",
+                                    "tweetUserName": "yudel"
+                                },
+                                {
                                     "text": "@Shmarya What? You mean his pal Dersh lied when he said Jordan is Palestine?",
                                     "rawText": "@Shmarya What? You mean his pal Dersh lied when he said Jordan is Palestine?",
                                     "type": "tweet",
@@ -28,7 +38,19 @@
                                     "tweetId": "1570230708215648259",
                                     "urltweet": "https://twitter.com/yudel/status/1570230708215648259",
                                     "inReplyToId": "1570225718029680642",
-                                    "tweetUserName": "yudel"
+                                    "tweetUserName": "yudel",
+                                    "subs": [
+                                        {
+                                            "text": "@Shmarya But seriously: What percentage of Frisch seniors wouldn’t had done the same?",
+                                            "rawText": "@Shmarya But seriously: What percentage of Frisch seniors wouldn’t had done the same?",
+                                            "type": "tweet",
+                                            "created": "Thu, 15 Sep 2022 02:00:12 GMT",
+                                            "tweetId": "1570230976223277056",
+                                            "urltweet": "https://twitter.com/yudel/status/1570230976223277056",
+                                            "inReplyToId": "1570230708215648259",
+                                            "tweetUserName": "yudel"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "@HareianiBlog Serves us right for dropping the dagesh from our gimmels.",
