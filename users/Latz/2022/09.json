@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/Latz/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 11:34:35 GMT"
+            "dateModified": "Thu, 15 Sep 2022 11:00:36 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Ein neues Design-Tool mit großzügigem Kostenlos-Angebot\n\n<a href=\"https://t.co/7hJUVSPCGM\">[link]</a>",
+                                    "rawText": "Ein neues Design-Tool mit großzügigem Kostenlos-Angebot\n\nhttps://t.co/7hJUVSPCGM",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 10:56:49 GMT",
+                                    "tweetId": "1570366019729858562",
+                                    "urltweet": "https://twitter.com/Latz/status/1570366019729858562",
+                                    "tweetUserName": "Latz"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 14",
                             "type": "calendarDay",
