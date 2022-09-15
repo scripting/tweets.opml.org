@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/frankmeeuwsen/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 18:28:17 GMT"
+            "dateModified": "Thu, 15 Sep 2022 06:11:17 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "@gvenk Paspoort mee, inentingen, Google Translate taalbundel offline geïnstalleerd. Broodjes. Klaar om te gaan? Toch wel helemaal buiten de ring.",
+                                    "rawText": "@gvenk Paspoort mee, inentingen, Google Translate taalbundel offline geïnstalleerd. Broodjes. Klaar om te gaan? Toch wel helemaal buiten de ring.",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 06:10:17 GMT",
+                                    "tweetId": "1570293908990734336",
+                                    "urltweet": "https://twitter.com/frankmeeuwsen/status/1570293908990734336",
+                                    "inReplyToId": "1570288282528882688",
+                                    "tweetUserName": "frankmeeuwsen"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 14",
                             "type": "calendarDay",
