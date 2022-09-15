@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/sillygwailo/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 15 Sep 2022 02:16:02 GMT"
+            "dateModified": "Thu, 15 Sep 2022 12:52:43 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,23 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Leather jacket weather has arrived. #dlws",
+                                    "rawText": "Leather jacket weather has arrived. #dlws",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 12:52:12 GMT",
+                                    "tweetId": "1570395057890394112",
+                                    "urltweet": "https://twitter.com/sillygwailo/status/1570395057890394112",
+                                    "inReplyToId": "1564787190055452676",
+                                    "tweetUserName": "sillygwailo"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 14",
                             "type": "calendarDay",
