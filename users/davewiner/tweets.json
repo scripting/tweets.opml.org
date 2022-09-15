@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/davewiner/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 15 Sep 2022 01:49:00 GMT"
+            "dateModified": "Thu, 15 Sep 2022 01:52:00 GMT"
         },
         "body": {
             "subs": [
@@ -27,7 +27,19 @@
                                     "created": "Thu, 15 Sep 2022 01:48:28 GMT",
                                     "tweetId": "1570228022191464453",
                                     "urltweet": "https://twitter.com/davewiner/status/1570228022191464453",
-                                    "tweetUserName": "davewiner"
+                                    "tweetUserName": "davewiner",
+                                    "subs": [
+                                        {
+                                            "text": "om -- you're already in my collection. ;-)",
+                                            "rawText": "om -- you're already in my collection. ;-)",
+                                            "type": "tweet",
+                                            "created": "Thu, 15 Sep 2022 01:51:13 GMT",
+                                            "tweetId": "1570228714801086465",
+                                            "urltweet": "https://twitter.com/davewiner/status/1570228714801086465",
+                                            "inReplyToId": "1570228022191464453",
+                                            "tweetUserName": "davewiner"
+                                        }
+                                    ]
                                 },
                                 {
                                     "text": "Biden Outpacing Trump with Judicial Nominations. <a href=\"https://t.co/JrWryZ91TZ\">[link]</a>",
