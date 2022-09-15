@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/moosebegab/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 18:55:34 GMT"
+            "dateModified": "Thu, 15 Sep 2022 15:42:24 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "I'd like to read @DrGJackBrown take on his body language... <a href=\"https://t.co/1esaAqIQDS\">[link]</a>",
+                                    "rawText": "I'd like to read @DrGJackBrown take on his body language... https://t.co/1esaAqIQDS",
+                                    "type": "tweet",
+                                    "created": "Thu, 15 Sep 2022 15:31:27 GMT",
+                                    "tweetId": "1570435133047455744",
+                                    "urltweet": "https://twitter.com/moosebegab/status/1570435133047455744",
+                                    "tweetUserName": "moosebegab"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 14",
                             "type": "calendarDay",
