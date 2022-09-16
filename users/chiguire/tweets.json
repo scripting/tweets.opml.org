@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/chiguire/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Thu, 15 Sep 2022 22:39:51 GMT"
+            "dateModified": "Fri, 16 Sep 2022 07:43:41 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,33 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "@getur @la_sopa TIL, hasta ahora lo mas avanzado de uBlock que usaba era filtrar bloques específicos, por ejemplo, los trending topics",
+                                    "rawText": "@getur @la_sopa TIL, hasta ahora lo mas avanzado de uBlock que usaba era filtrar bloques específicos, por ejemplo, los trending topics",
+                                    "type": "tweet",
+                                    "created": "Fri, 16 Sep 2022 07:38:55 GMT",
+                                    "tweetId": "1570678605155545088",
+                                    "urltweet": "https://twitter.com/chiguire/status/1570678605155545088",
+                                    "inReplyToId": "1570677828882169858",
+                                    "tweetUserName": "chiguire"
+                                },
+                                {
+                                    "text": "@TartanLlama So when's your next talk?",
+                                    "rawText": "@TartanLlama So when's your next talk?",
+                                    "type": "tweet",
+                                    "created": "Fri, 16 Sep 2022 07:37:49 GMT",
+                                    "tweetId": "1570678328503439360",
+                                    "urltweet": "https://twitter.com/chiguire/status/1570678328503439360",
+                                    "inReplyToId": "1570665055682990080",
+                                    "tweetUserName": "chiguire"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 15",
                             "type": "calendarDay",
