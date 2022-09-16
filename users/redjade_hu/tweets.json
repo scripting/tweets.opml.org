@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/redjade_hu/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 15:01:03 GMT"
+            "dateModified": "Fri, 16 Sep 2022 13:00:01 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 16",
+                            "type": "calendarDay",
+                            "name": "16",
+                            "subs": [
+                                {
+                                    "text": "Burning down the Russian military recruitment centers. <a href=\"https://t.co/fBzSaqn3MV\">[link]</a>",
+                                    "rawText": "Burning down the Russian military recruitment centers. https://t.co/fBzSaqn3MV",
+                                    "type": "tweet",
+                                    "created": "Fri, 16 Sep 2022 12:49:48 GMT",
+                                    "tweetId": "1570756840996360198",
+                                    "urltweet": "https://twitter.com/redjade_hu/status/1570756840996360198",
+                                    "tweetUserName": "redjade_hu"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 14",
                             "type": "calendarDay",
