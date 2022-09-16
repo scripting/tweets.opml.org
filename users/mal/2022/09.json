@@ -6,7 +6,7 @@
             "expansionState": "1,2",
             "urlPublic": "http://tweets.opml.org/mal/tweets.opml",
             "urlUpdateSocket": "ws://tweets.opml.org:1481/",
-            "dateModified": "Wed, 14 Sep 2022 18:33:32 GMT"
+            "dateModified": "Fri, 16 Sep 2022 03:29:54 GMT"
         },
         "body": {
             "subs": [
@@ -15,6 +15,22 @@
                     "type": "calendarMonth",
                     "name": "september2022",
                     "subs": [
+                        {
+                            "text": "September 15",
+                            "type": "calendarDay",
+                            "name": "15",
+                            "subs": [
+                                {
+                                    "text": "Every January 6th re-enactment hereafter. <a href=\"https://t.co/wzphG2diWm\">[link]</a>",
+                                    "rawText": "Every January 6th re-enactment hereafter. https://t.co/wzphG2diWm",
+                                    "type": "tweet",
+                                    "created": "Fri, 16 Sep 2022 03:25:14 GMT",
+                                    "tweetId": "1570614760756084736",
+                                    "urltweet": "https://twitter.com/mal/status/1570614760756084736",
+                                    "tweetUserName": "mal"
+                                }
+                            ]
+                        },
                         {
                             "text": "September 14",
                             "type": "calendarDay",
